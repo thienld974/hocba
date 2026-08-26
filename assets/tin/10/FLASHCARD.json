@@ -2,8 +2,8 @@
  {
     "cardId": "tin10_fctest",
     "lessonId": "tin10_test",
-    "front": "test",
-    "back": "test",
+    "front": "test10",
+    "back": "test10",
     "mnemonic": "test",
     "facebook_post_id": null,
     "sm2_n": 0,
