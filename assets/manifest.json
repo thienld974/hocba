@@ -25,8 +25,8 @@
     { "grade": 10, "subject": "sinh", "path": "sinh/10" },
     { "grade": 10, "subject": "lichsu", "path": "lichsu/10" },
     { "grade": 10, "subject": "dialy", "path": "dialy/10" },
-    { "grade": 10, "subject": "toan", "path": "toan/5" },
-    { "grade": 10, "subject": "nguvan", "path": "nguvan/5" },
-    { "grade": 10, "subject": "tienganh", "path": "tienganh/5" },
+    { "grade": 5, "subject": "toan", "path": "toan/5" },
+    { "grade": 5, "subject": "nguvan", "path": "nguvan/5" },
+    { "grade": 5, "subject": "tienganh", "path": "tienganh/5" },
   ]
 }
