@@ -1,0 +1,303 @@
+[
+  {
+    "nodeId": "root_t12",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TOÁN 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "toan12_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_t12",
+    "nodeName": "Toán 12 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol1",
+    "nodeName": "Chương I: Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1_b1",
+    "lessonId": "toan12_t1_b1",
+    "parentNodeId": "toan12_node_t1_ch1",
+    "nodeName": "Bài 1: Tính đơn điệu và cực trị của hàm số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1_b2",
+    "lessonId": "toan12_t1_b2",
+    "parentNodeId": "toan12_node_t1_ch1",
+    "nodeName": "Bài 2: Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1_b3",
+    "lessonId": "toan12_t1_b3",
+    "parentNodeId": "toan12_node_t1_ch1",
+    "nodeName": "Bài 3: Đường tiệm cận của đồ thị hàm số",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1_b4",
+    "lessonId": "toan12_t1_b4",
+    "parentNodeId": "toan12_node_t1_ch1",
+    "nodeName": "Bài 4: Khảo sát sự biến thiên và vẽ đồ thị của hàm số",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1_b5",
+    "lessonId": "toan12_t1_b5",
+    "parentNodeId": "toan12_node_t1_ch1",
+    "nodeName": "Bài 5: Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan12_node_t1_ch1_bt",
+    "lessonId": "toan12_t1_ch1_bt",
+    "parentNodeId": "toan12_node_t1_ch1",
+    "nodeName": "Bài tập cuối chương I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan12_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol1",
+    "nodeName": "Chương II: Vectơ và hệ trục tọa độ trong không gian",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t1_ch2_b6",
+    "lessonId": "toan12_t1_b6",
+    "parentNodeId": "toan12_node_t1_ch2",
+    "nodeName": "Bài 6: Vectơ trong không gian",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t1_ch2_b7",
+    "lessonId": "toan12_t1_b7",
+    "parentNodeId": "toan12_node_t1_ch2",
+    "nodeName": "Bài 7: Hệ trục tọa độ trong không gian",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t1_ch2_b8",
+    "lessonId": "toan12_t1_b8",
+    "parentNodeId": "toan12_node_t1_ch2",
+    "nodeName": "Bài 8: Biểu thức tọa độ của các phép toán vectơ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t1_ch2_bt",
+    "lessonId": "toan12_t1_ch2_bt",
+    "parentNodeId": "toan12_node_t1_ch2",
+    "nodeName": "Bài tập cuối chương II",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan12_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol1",
+    "nodeName": "Chương III: Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t1_ch3_b9",
+    "lessonId": "toan12_t1_b9",
+    "parentNodeId": "toan12_node_t1_ch3",
+    "nodeName": "Bài 9: Khoảng biến thiên và khoảng tứ phân vị",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t1_ch3_b10",
+    "lessonId": "toan12_t1_b10",
+    "parentNodeId": "toan12_node_t1_ch3",
+    "nodeName": "Bài 10: Phương sai và độ lệch chuẩn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t1_ch3_bt",
+    "lessonId": "toan12_t1_ch3_bt",
+    "parentNodeId": "toan12_node_t1_ch3",
+    "nodeName": "Bài tập cuối chương III",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t1_th",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol1",
+    "nodeName": "Hoạt động thực hành trải nghiệm",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan12_node_t1_th1",
+    "lessonId": "toan12_t1_th1",
+    "parentNodeId": "toan12_node_t1_th",
+    "nodeName": "Khảo sát và vẽ đồ thị hàm số với GeoGebra",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t1_th2",
+    "lessonId": "toan12_t1_th2",
+    "parentNodeId": "toan12_node_t1_th",
+    "nodeName": "Vẽ vectơ tổng bằng GeoGebra",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t1_th3",
+    "lessonId": "toan12_t1_th3",
+    "parentNodeId": "toan12_node_t1_th",
+    "nodeName": "Độ dài gang tay",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_t12",
+    "nodeName": "Toán 12 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t2_ch4",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol2",
+    "nodeName": "Chương IV: Nguyên hàm và tích phân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t2_ch4_b11",
+    "lessonId": "toan12_t2_b11",
+    "parentNodeId": "toan12_node_t2_ch4",
+    "nodeName": "Bài 11: Nguyên hàm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t2_ch4_b12",
+    "lessonId": "toan12_t2_b12",
+    "parentNodeId": "toan12_node_t2_ch4",
+    "nodeName": "Bài 12: Tích phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t2_ch4_b13",
+    "lessonId": "toan12_t2_b13",
+    "parentNodeId": "toan12_node_t2_ch4",
+    "nodeName": "Bài 13: Ứng dụng hình học của tích phân",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t2_ch4_bt",
+    "lessonId": "toan12_t2_ch4_bt",
+    "parentNodeId": "toan12_node_t2_ch4",
+    "nodeName": "Bài tập cuối chương IV",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan12_node_t2_ch5",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol2",
+    "nodeName": "Chương V: Phương pháp tọa độ trong không gian",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t2_ch5_b14",
+    "lessonId": "toan12_t2_b14",
+    "parentNodeId": "toan12_node_t2_ch5",
+    "nodeName": "Bài 14: Phương trình mặt phẳng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t2_ch5_b15",
+    "lessonId": "toan12_t2_b15",
+    "parentNodeId": "toan12_node_t2_ch5",
+    "nodeName": "Bài 15: Phương trình đường thẳng trong không gian",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t2_ch5_b16",
+    "lessonId": "toan12_t2_b16",
+    "parentNodeId": "toan12_node_t2_ch5",
+    "nodeName": "Bài 16: Công thức tính góc trong không gian",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t2_ch5_b17",
+    "lessonId": "toan12_t2_b17",
+    "parentNodeId": "toan12_node_t2_ch5",
+    "nodeName": "Bài 17: Phương trình mặt cầu",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan12_node_t2_ch5_bt",
+    "lessonId": "toan12_t2_ch5_bt",
+    "parentNodeId": "toan12_node_t2_ch5",
+    "nodeName": "Bài tập cuối chương V",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan12_node_t2_ch6",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol2",
+    "nodeName": "Chương VI: Xác suất có điều kiện",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t2_ch6_b18",
+    "lessonId": "toan12_t2_b18",
+    "parentNodeId": "toan12_node_t2_ch6",
+    "nodeName": "Bài 18: Xác suất có điều kiện",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t2_ch6_b19",
+    "lessonId": "toan12_t2_b19",
+    "parentNodeId": "toan12_node_t2_ch6",
+    "nodeName": "Bài 19: Công thức xác suất toàn phần và Bayes",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t2_ch6_bt",
+    "lessonId": "toan12_t2_ch6_bt",
+    "parentNodeId": "toan12_node_t2_ch6",
+    "nodeName": "Bài tập cuối chương VI",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_t2_th",
+    "lessonId": null,
+    "parentNodeId": "toan12_node_vol2",
+    "nodeName": "Hoạt động thực hành trải nghiệm",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan12_node_t2_th1",
+    "lessonId": "toan12_t2_th1",
+    "parentNodeId": "toan12_node_t2_th",
+    "nodeName": "Tính nguyên hàm và tích phân bằng GeoGebra",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan12_node_t2_th2",
+    "lessonId": "toan12_t2_th2",
+    "parentNodeId": "toan12_node_t2_th",
+    "nodeName": "Tính gần đúng tích phân (Phương pháp hình thang)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan12_node_t2_th3",
+    "lessonId": "toan12_t2_th3",
+    "parentNodeId": "toan12_node_t2_th",
+    "nodeName": "Vẽ đồ họa 3D với GeoGebra",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan12_node_kn_thi",
+    "lessonId": "toan12_t2_kn_thi",
+    "parentNodeId": "root_t12",
+    "nodeName": "Kỹ năng làm bài thi",
+    "orderIndex": 3
+  }
+]

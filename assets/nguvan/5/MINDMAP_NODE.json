@@ -1,0 +1,1843 @@
+[
+  {
+    "nodeId": "root_nv5",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TIẾNG VIỆT 5 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan5_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nv5",
+    "nodeName": "Tiếng Việt 5 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol1",
+    "nodeName": "Chủ điểm 1: THẾ GIỚI TUỔI THƠ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b1",
+    "lessonId": "nguvan5_t1_b1",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 1: Thanh âm của gió",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b1_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b1",
+    "nodeName": "Đọc: Thanh âm của gió",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b1_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b1",
+    "nodeName": "Luyện từ và câu: Luyện tập về danh từ, động từ, tính từ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b1_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b1",
+    "nodeName": "Viết: Tìm hiểu cách viết bài văn kể chuyện sáng tạo",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b2",
+    "lessonId": "nguvan5_t1_b2",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 2: Cánh đồng hoa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b2_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b2",
+    "nodeName": "Đọc: Cánh đồng hoa",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b2_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b2",
+    "nodeName": "Viết: Tìm hiểu cách viết bài văn kể chuyện sáng tạo (tiếp theo)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b2_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b2",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b3",
+    "lessonId": "nguvan5_t1_b3",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 3: Tuổi Ngựa",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b3_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b3",
+    "nodeName": "Đọc: Tuổi Ngựa",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b3_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b3",
+    "nodeName": "Luyện từ và câu: Đại từ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b3_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b3",
+    "nodeName": "Viết: Lập dàn ý cho bài văn kể chuyện sáng tạo",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b4",
+    "lessonId": "nguvan5_t1_b4",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 4: Bến sông tuổi thơ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b4_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b4",
+    "nodeName": "Đọc: Bến sông tuổi thơ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b4_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b4",
+    "nodeName": "Viết: Viết bài văn kể chuyện sáng tạo",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b4_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b4",
+    "nodeName": "Nói và nghe: Những câu chuyện thú vị",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b5",
+    "lessonId": "nguvan5_t1_b5",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 5: Tiếng hạt nảy mầm",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b5_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b5",
+    "nodeName": "Đọc: Tiếng hạt nảy mầm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b5_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b5",
+    "nodeName": "Luyện từ và câu: Luyện tập về đại từ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b5_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b5",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa bài văn kể chuyện sáng tạo",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b6",
+    "lessonId": "nguvan5_t1_b6",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 6: Ngôi sao sân cỏ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b6_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b6",
+    "nodeName": "Đọc: Ngôi sao sân cỏ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b6_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b6",
+    "nodeName": "Viết: Tìm hiểu cách viết báo cáo công việc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b6_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b6",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b7",
+    "lessonId": "nguvan5_t1_b7",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 7: Bộ sưu tập độc đáo",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b7_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b7",
+    "nodeName": "Đọc: Bộ sưu tập độc đáo",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b7_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b7",
+    "nodeName": "Luyện từ và câu: Luyện tập về đại từ (tiếp theo)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b7_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b7",
+    "nodeName": "Viết: Viết báo cáo công việc",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b8",
+    "lessonId": "nguvan5_t1_b8",
+    "parentNodeId": "nguvan5_node_t1_ch1",
+    "nodeName": "Bài 8: Hành tinh kì lạ",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b8_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b8",
+    "nodeName": "Đọc: Hành tinh kì lạ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b8_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b8",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa bài báo cáo công việc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b8_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b8",
+    "nodeName": "Nói và nghe: Những điểm vui chơi lí thú",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol1",
+    "nodeName": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b9",
+    "lessonId": "nguvan5_t1_b9",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 9: Trước cổng trời",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b9_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b9",
+    "nodeName": "Đọc: Trước cổng trời",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b9_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b9",
+    "nodeName": "Luyện từ và câu: Từ đồng nghĩa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b9_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b9",
+    "nodeName": "Viết: Tìm hiểu cách viết bài văn tả phong cảnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b10",
+    "lessonId": "nguvan5_t1_b10",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 10: Kì diệu rừng xanh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b10_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b10",
+    "nodeName": "Đọc: Kì diệu rừng xanh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b10_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b10",
+    "nodeName": "Viết: Tìm hiểu cách viết bài văn tả phong cảnh (tiếp theo)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b10_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b10",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b11",
+    "lessonId": "nguvan5_t1_b11",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 11: Hang Sơn Đoòng – những điều kì thú",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b11_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b11",
+    "nodeName": "Đọc: Hang Sơn Đoòng – những điều kì thú",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b11_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b11",
+    "nodeName": "Luyện từ và câu: Luyện tập về từ đồng nghĩa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b11_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b11",
+    "nodeName": "Viết: Viết mở bài và kết bài cho bài văn tả phong cảnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b12",
+    "lessonId": "nguvan5_t1_b12",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 12: Những hòn đảo trên vịnh Hạ Long",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b12_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b12",
+    "nodeName": "Đọc: Những hòn đảo trên vịnh Hạ Long",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b12_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b12",
+    "nodeName": "Viết: Quan sát phong cảnh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b12_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b12",
+    "nodeName": "Nói và nghe: Bảo tồn động vật hoang dã",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b13",
+    "lessonId": "nguvan5_t1_b13",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 13: Mầm non",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b13_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b13",
+    "nodeName": "Đọc: Mầm non",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b13_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b13",
+    "nodeName": "Luyện từ và câu: Từ đa nghĩa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b13_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b13",
+    "nodeName": "Viết: Lập dàn ý cho bài văn tả phong cảnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b14",
+    "lessonId": "nguvan5_t1_b14",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 14: Những ngọn núi nóng rẫy",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b14_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b14",
+    "nodeName": "Đọc: Những ngọn núi nóng rẫy",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b14_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b14",
+    "nodeName": "Viết: Viết đoạn văn tả phong cảnh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b14_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b14",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b15",
+    "lessonId": "nguvan5_t1_b15",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 15: Bài ca về mặt trời",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b15_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b15",
+    "nodeName": "Đọc: Bài ca về mặt trời",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b15_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b15",
+    "nodeName": "Luyện từ và câu: Luyện tập về từ đa nghĩa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b15_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b15",
+    "nodeName": "Viết: Viết bài văn tả phong cảnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b16",
+    "lessonId": "nguvan5_t1_b16",
+    "parentNodeId": "nguvan5_node_t1_ch2",
+    "nodeName": "Bài 16: Xin chào, Xa-ha-ra",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b16_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b16",
+    "nodeName": "Đọc: Xin chào, Xa-ha-ra",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b16_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b16",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa bài văn tả phong cảnh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b16_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b16",
+    "nodeName": "Nói và nghe: Cảnh đẹp thiên nhiên",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_ot_gk1",
+    "lessonId": "nguvan5_t1_ot_gk1",
+    "parentNodeId": "nguvan5_node_vol1",
+    "nodeName": "ÔN TẬP GIỮA HỌC KÌ I",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol1",
+    "nodeName": "Chủ điểm 3: TRÊN CON ĐƯỜNG HỌC TẬP",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b17",
+    "lessonId": "nguvan5_t1_b17",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 17: Thư gửi các học sinh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b17_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b17",
+    "nodeName": "Đọc: Thư gửi các học sinh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b17_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b17",
+    "nodeName": "Luyện từ và câu: Sử dụng từ điển",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b17_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b17",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn giới thiệu nhân vật trong một cuốn sách",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b18",
+    "lessonId": "nguvan5_t1_b18",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 18: Tấm gương tự học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b18_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b18",
+    "nodeName": "Đọc: Tấm gương tự học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b18_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b18",
+    "nodeName": "Viết: Tìm ý cho đoạn văn giới thiệu nhân vật trong một cuốn sách",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b18_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b18",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b19",
+    "lessonId": "nguvan5_t1_b19",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 19: Trải nghiệm để sáng tạo",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b19_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b19",
+    "nodeName": "Đọc: Trải nghiệm để sáng tạo",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b19_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b19",
+    "nodeName": "Luyện từ và câu: Luyện tập sử dụng từ điển",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b19_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b19",
+    "nodeName": "Viết: Viết đoạn văn giới thiệu nhân vật trong một cuốn sách",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b20",
+    "lessonId": "nguvan5_t1_b20",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 20: Khổ luyện thành tài",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b20_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b20",
+    "nodeName": "Đọc: Khổ luyện thành tài",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b20_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b20",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn giới thiệu nhân vật trong một cuốn sách",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b20_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b20",
+    "nodeName": "Nói và nghe: Cuốn sách tôi yêu",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b21",
+    "lessonId": "nguvan5_t1_b21",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 21: Thế giới trong trang sách",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b21_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b21",
+    "nodeName": "Đọc: Thế giới trong trang sách",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b21_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b21",
+    "nodeName": "Luyện từ và câu: Dấu gạch ngang",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b21_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b21",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b22",
+    "lessonId": "nguvan5_t1_b22",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 22: Từ những câu chuyện ấu thơ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b22_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b22",
+    "nodeName": "Đọc: Từ những câu chuyện ấu thơ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b22_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b22",
+    "nodeName": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b22_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b22",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b23",
+    "lessonId": "nguvan5_t1_b23",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 23: Giới thiệu sách Dế Mèn phiêu lưu kí",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b23_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b23",
+    "nodeName": "Đọc: Giới thiệu sách Dế Mèn phiêu lưu kí",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b23_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b23",
+    "nodeName": "Luyện từ và câu: Luyện tập về dấu gạch ngang",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b23_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b23",
+    "nodeName": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b24",
+    "lessonId": "nguvan5_t1_b24",
+    "parentNodeId": "nguvan5_node_t1_ch3",
+    "nodeName": "Bài 24: Tinh thần học tập của nhà Phi-lít",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b24_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b24",
+    "nodeName": "Đọc: Tinh thần học tập của nhà Phi-lít",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b24_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b24",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b24_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b24",
+    "nodeName": "Nói và nghe: Lợi ích của tự học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol1",
+    "nodeName": "Chủ điểm 4: NGHỆ THUẬT MUÔN MÀU",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b25",
+    "lessonId": "nguvan5_t1_b25",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 25: Tiếng đàn ba-la-lai-ca trên sông Đà",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b25_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b25",
+    "nodeName": "Đọc: Tiếng đàn ba-la-lai-ca trên sông Đà",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b25_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b25",
+    "nodeName": "Luyện từ và câu: Biện pháp điệp từ, điệp ngữ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b25_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b25",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b26",
+    "lessonId": "nguvan5_t1_b26",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 26: Trí tưởng tượng phong phú",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b26_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b26",
+    "nodeName": "Đọc: Trí tưởng tượng phong phú",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b26_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b26",
+    "nodeName": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b26_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b26",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b27",
+    "lessonId": "nguvan5_t1_b27",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 27: Tranh làng Hồ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b27_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b27",
+    "nodeName": "Đọc: Tranh làng Hồ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b27_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b27",
+    "nodeName": "Luyện từ và câu: Luyện tập về điệp từ, điệp ngữ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b27_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b27",
+    "nodeName": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b28",
+    "lessonId": "nguvan5_t1_b28",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 28: Tập hát quan họ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b28_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b28",
+    "nodeName": "Đọc: Tập hát quan họ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b28_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b28",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b28_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b28",
+    "nodeName": "Nói và nghe: Chương trình nghệ thuật em yêu thích",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b29",
+    "lessonId": "nguvan5_t1_b29",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 29: Phim hoạt hình Chú ốc sên bay",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b29_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b29",
+    "nodeName": "Đọc: Phim hoạt hình Chú ốc sên bay",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b29_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b29",
+    "nodeName": "Luyện từ và câu: Kết từ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b29_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b29",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b30",
+    "lessonId": "nguvan5_t1_b30",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 30: Nghệ thuật múa ba lê",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b30_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b30",
+    "nodeName": "Đọc: Nghệ thuật múa ba lê",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b30_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b30",
+    "nodeName": "Viết: Tìm ý cho đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b30_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b30",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b31",
+    "lessonId": "nguvan5_t1_b31",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 31: Một ngôi chùa độc đáo",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b31_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b31",
+    "nodeName": "Đọc: Một ngôi chùa độc đáo",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b31_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b31",
+    "nodeName": "Luyện từ và câu: Luyện tập về kết từ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b31_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b31",
+    "nodeName": "Viết: Viết đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b32",
+    "lessonId": "nguvan5_t1_b32",
+    "parentNodeId": "nguvan5_node_t1_ch4",
+    "nodeName": "Bài 32: Sự tích chú Tể",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b32_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b32",
+    "nodeName": "Đọc: Sự tích chú Tể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b32_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b32",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t1_b32_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t1_b32",
+    "nodeName": "Nói và nghe: Bộ phim yêu thích",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t1_ot_ck1",
+    "lessonId": "nguvan5_t1_ot_ck1",
+    "parentNodeId": "nguvan5_node_vol1",
+    "nodeName": "ÔN TẬP CUỐI HỌC KÌ I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nv5",
+    "nodeName": "Tiếng Việt 5 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol2",
+    "nodeName": "Chủ điểm 5: VẺ ĐẸP CUỘC SỐNG",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b1",
+    "lessonId": "nguvan5_t2_b1",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 1: Tiếng hát của người đá",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b1_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b1",
+    "nodeName": "Đọc: Tiếng hát của người đá",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b1_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b1",
+    "nodeName": "Luyện từ và câu: Câu đơn và câu ghép",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b1_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b1",
+    "nodeName": "Viết: Tìm hiểu cách viết bài văn tả người",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b2",
+    "lessonId": "nguvan5_t2_b2",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 2: Khúc hát ru những em bé lớn trên lưng mẹ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b2_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b2",
+    "nodeName": "Đọc: Khúc hát ru những em bé lớn trên lưng mẹ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b2_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b2",
+    "nodeName": "Viết: Viết mở bài và kết bài cho bài văn tả người",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b2_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b2",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b3",
+    "lessonId": "nguvan5_t2_b3",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 3: Hạt gạo làng ta",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b3_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b3",
+    "nodeName": "Đọc: Hạt gạo làng ta",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b3_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b3",
+    "nodeName": "Luyện từ và câu: Cách nối các vế câu ghép",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b3_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b3",
+    "nodeName": "Viết: Quan sát để viết bài văn tả người",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b4",
+    "lessonId": "nguvan5_t2_b4",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 4: Hộp quà màu thiên thanh",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b4_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b4",
+    "nodeName": "Đọc: Hộp quà màu thiên thanh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b4_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b4",
+    "nodeName": "Viết: Lập dàn ý cho bài văn tả người",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b4_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b4",
+    "nodeName": "Nói và nghe: Nét đẹp học đường",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b5",
+    "lessonId": "nguvan5_t2_b5",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 5: Giờ hoa tháng Năm",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b5_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b5",
+    "nodeName": "Đọc: Giờ hoa tháng Năm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b5_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b5",
+    "nodeName": "Luyện từ và câu: Cách nối các vế câu ghép (Tiếp theo)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b5_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b5",
+    "nodeName": "Viết: Viết đoạn văn tả người",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b6",
+    "lessonId": "nguvan5_t2_b6",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 6: Thư của bố",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b6_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b6",
+    "nodeName": "Đọc: Thư của bố",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b6_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b6",
+    "nodeName": "Viết: Viết bài văn tả người (Bài viết số 1)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b6_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b6",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b7",
+    "lessonId": "nguvan5_t2_b7",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 7: Đoàn thuyền đánh cá",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b7_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b7",
+    "nodeName": "Đọc: Đoàn thuyền đánh cá",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b7_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b7",
+    "nodeName": "Luyện từ và câu: Luyện tập về câu ghép",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b7_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b7",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa bài văn tả người",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b8",
+    "lessonId": "nguvan5_t2_b8",
+    "parentNodeId": "nguvan5_node_t2_ch1",
+    "nodeName": "Bài 8: Khu rừng của Mát",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b8_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b8",
+    "nodeName": "Đọc: Khu rừng của Mát",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b8_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b8",
+    "nodeName": "Viết: Viết bài văn tả người (Bài viết số 2)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b8_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b8",
+    "nodeName": "Nói và nghe: Những ý kiến khác biệt",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol2",
+    "nodeName": "Chủ điểm 6: HƯƠNG SẮC TRĂM MIỀN",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b9",
+    "lessonId": "nguvan5_t2_b9",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 9: Hội thổi cơm thi ở Đồng Vân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b9_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b9",
+    "nodeName": "Đọc: Hội thổi cơm thi ở Đồng Vân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b9_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b9",
+    "nodeName": "Luyện từ và câu: Liên kết câu bằng cách lặp từ ngữ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b9_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b9",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b10",
+    "lessonId": "nguvan5_t2_b10",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 10: Những búp chè trên cây cổ thụ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b10_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b10",
+    "nodeName": "Đọc: Những búp chè trên cây cổ thụ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b10_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b10",
+    "nodeName": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b10_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b10",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b11",
+    "lessonId": "nguvan5_t2_b11",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 11: Hương cốm mùa thu",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b11_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b11",
+    "nodeName": "Đọc: Hương cốm mùa thu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b11_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b11",
+    "nodeName": "Luyện từ và câu: Liên kết câu bằng từ ngữ nối",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b11_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b11",
+    "nodeName": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b12",
+    "lessonId": "nguvan5_t2_b12",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 12: Vũ điệu trên nền thổ cẩm",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b12_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b12",
+    "nodeName": "Đọc: Vũ điệu trên nền thổ cẩm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b12_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b12",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b12_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b12",
+    "nodeName": "Nói và nghe: Địa điểm tham quan, du lịch",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b13",
+    "lessonId": "nguvan5_t2_b13",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 13: Đàn t’rưng – tiếng ca đại ngàn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b13_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b13",
+    "nodeName": "Đọc: Đàn t’rưng – tiếng ca đại ngàn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b13_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b13",
+    "nodeName": "Luyện từ và câu: Liên kết câu bằng từ ngữ thay thế",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b13_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b13",
+    "nodeName": "Viết: Tìm hiểu cách viết chương trình hoạt động",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b14",
+    "lessonId": "nguvan5_t2_b14",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 14: Đường quê Đồng Tháp Mười",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b14_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b14",
+    "nodeName": "Đọc: Đường quê Đồng Tháp Mười",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b14_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b14",
+    "nodeName": "Viết: Viết chương trình hoạt động (Bài viết số 1)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b14_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b14",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b15",
+    "lessonId": "nguvan5_t2_b15",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 15: Xuồng ba lá quê tôi",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b15_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b15",
+    "nodeName": "Đọc: Xuồng ba lá quê tôi",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b15_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b15",
+    "nodeName": "Luyện từ và câu: Luyện tập về liên kết câu trong đoạn văn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b15_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b15",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa chương trình hoạt động",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b16",
+    "lessonId": "nguvan5_t2_b16",
+    "parentNodeId": "nguvan5_node_t2_ch2",
+    "nodeName": "Bài 16: Về thăm Đất Mũi",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b16_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b16",
+    "nodeName": "Đọc: Về thăm Đất Mũi",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b16_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b16",
+    "nodeName": "Viết: Viết chương trình hoạt động (Bài viết số 2)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b16_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b16",
+    "nodeName": "Nói và nghe: Sản vật địa phương",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_ot_gk2",
+    "lessonId": "nguvan5_t2_ot_gk2",
+    "parentNodeId": "nguvan5_node_vol2",
+    "nodeName": "ÔN TẬP GIỮA HỌC KÌ II",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol2",
+    "nodeName": "Chủ điểm 7: TIẾP BƯỚC CHA ÔNG",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b17",
+    "lessonId": "nguvan5_t2_b17",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 17: Nghìn năm văn hiến",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b17_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b17",
+    "nodeName": "Đọc: Nghìn năm văn hiến",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b17_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b17",
+    "nodeName": "Luyện từ và câu: Luyện tập về đại từ và kết từ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b17_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b17",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b18",
+    "lessonId": "nguvan5_t2_b18",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 18: Người thầy của muôn đời",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b18_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b18",
+    "nodeName": "Đọc: Người thầy của muôn đời",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b18_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b18",
+    "nodeName": "Viết: Tìm ý cho đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b18_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b18",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b19",
+    "lessonId": "nguvan5_t2_b19",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 19: Danh y Tuệ Tĩnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b19_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b19",
+    "nodeName": "Đọc: Danh y Tuệ Tĩnh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b19_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b19",
+    "nodeName": "Luyện từ và câu: Luyện tập về từ đồng nghĩa và từ đa nghĩa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b19_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b19",
+    "nodeName": "Viết: Viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng (Bài viết số 1)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b20",
+    "lessonId": "nguvan5_t2_b20",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 20: Cụ Đồ Chiểu",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b20_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b20",
+    "nodeName": "Đọc: Cụ Đồ Chiểu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b20_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b20",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b20_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b20",
+    "nodeName": "Nói và nghe: Đến ơn đáp nghĩa",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b21",
+    "lessonId": "nguvan5_t2_b21",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 21: Anh hùng Lao động Trần Đại Nghĩa",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b21_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b21",
+    "nodeName": "Đọc: Anh hùng Lao động Trần Đại Nghĩa",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b21_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b21",
+    "nodeName": "Luyện từ và câu: Luyện tập về câu ghép",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b21_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b21",
+    "nodeName": "Viết: Viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng (Bài viết số 2)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b22",
+    "lessonId": "nguvan5_t2_b22",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 22: Bộ đội về làng",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b22_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b22",
+    "nodeName": "Đọc: Bộ đội về làng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b22_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b22",
+    "nodeName": "Viết: Luyện viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b22_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b22",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b23",
+    "lessonId": "nguvan5_t2_b23",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 23: Về ngôi nhà đang xây",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b23_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b23",
+    "nodeName": "Đọc: Về ngôi nhà đang xây",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b23_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b23",
+    "nodeName": "Luyện từ và câu: Viết hoa danh từ chung để thể hiện sự tôn trọng đặc biệt",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b23_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b23",
+    "nodeName": "Viết: Luyện tập lập dàn ý cho bài văn tả phong cảnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b24",
+    "lessonId": "nguvan5_t2_b24",
+    "parentNodeId": "nguvan5_node_t2_ch3",
+    "nodeName": "Bài 24: Việt Nam quê hương ta",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b24_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b24",
+    "nodeName": "Đọc: Việt Nam quê hương ta",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b24_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b24",
+    "nodeName": "Viết: Luyện viết bài văn tả phong cảnh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b24_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b24",
+    "nodeName": "Nói và nghe: Di tích lịch sử",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_vol2",
+    "nodeName": "Chủ điểm 8: THẾ GIỚI CỦA CHÚNG TA",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b25",
+    "lessonId": "nguvan5_t2_b25",
+    "parentNodeId": "nguvan5_node_t2_ch4",
+    "nodeName": "Bài 25: Bài ca trái đất",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b25_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b25",
+    "nodeName": "Đọc: Bài ca trái đất",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b25_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b25",
+    "nodeName": "Luyện từ và câu: Cách viết tên người và tên địa lí nước ngoài",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b25_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b25",
+    "nodeName": "Viết: Luyện tập lập dàn ý cho bài văn tả người",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b26",
+    "lessonId": "nguvan5_t2_b26",
+    "parentNodeId": "nguvan5_node_t2_ch4",
+    "nodeName": "Bài 26: Những con hạc giấy",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b26_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b26",
+    "nodeName": "Đọc: Những con hạc giấy",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b26_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b26",
+    "nodeName": "Viết: Luyện viết bài văn tả người",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b26_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b26",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b27",
+    "lessonId": "nguvan5_t2_b27",
+    "parentNodeId": "nguvan5_node_t2_ch4",
+    "nodeName": "Bài 27: Một người hùng thầm lặng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b27_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b27",
+    "nodeName": "Đọc: Một người hùng thầm lặng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b27_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b27",
+    "nodeName": "Luyện từ và câu: Luyện tập về dấu gạch ngang",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b27_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b27",
+    "nodeName": "Viết: Tìm hiểu cách viết đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b28",
+    "lessonId": "nguvan5_t2_b28",
+    "parentNodeId": "nguvan5_node_t2_ch4",
+    "nodeName": "Bài 28: Giờ Trái Đất",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b28_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b28",
+    "nodeName": "Đọc: Giờ Trái Đất",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b28_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b28",
+    "nodeName": "Viết: Tìm ý cho đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b28_nn",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b28",
+    "nodeName": "Nói và nghe: Trải nghiệm ngày hè",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b29",
+    "lessonId": "nguvan5_t2_b29",
+    "parentNodeId": "nguvan5_node_t2_ch4",
+    "nodeName": "Bài 29: Điện thoại di động",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b29_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b29",
+    "nodeName": "Đọc: Điện thoại di động",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b29_tvc",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b29",
+    "nodeName": "Luyện từ và câu: Luyện tập về liên kết câu trong đoạn văn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b29_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b29",
+    "nodeName": "Viết: Viết đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b30",
+    "lessonId": "nguvan5_t2_b30",
+    "parentNodeId": "nguvan5_node_t2_ch4",
+    "nodeName": "Bài 30: Thành phố thông minh Mát-xđa",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b30_d",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b30",
+    "nodeName": "Đọc: Thành phố thông minh Mát-xđa",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b30_v",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b30",
+    "nodeName": "Viết: Đánh giá, chỉnh sửa đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan5_node_t2_b30_dmr",
+    "lessonId": null,
+    "parentNodeId": "nguvan5_node_t2_b30",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan5_node_t2_ot_cn",
+    "lessonId": "nguvan5_t2_ot_cn",
+    "parentNodeId": "nguvan5_node_vol2",
+    "nodeName": "ÔN TẬP CUỐI NĂM HỌC",
+    "orderIndex": 6
+  }
+]

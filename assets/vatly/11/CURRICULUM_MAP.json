@@ -1,0 +1,210 @@
+[
+  {
+    "lessonId": "vatly11_b1",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Dao động điều hoà. Ý chính: Khái niệm dao động cơ, dao động tuần hoàn, dao động điều hòa; lập phương trình dao động điều hòa và nhận biết các đại lượng đặc trưng; liên hệ giữa dao động điều hòa và chuyển động tròn đều. Kiến thức trọng tâm: Dao động cơ là chuyển động qua lại quanh vị trí cân bằng (VTCB); dao động tuần hoàn là dao động mà trạng thái chuyển động lặp lại như cũ sau những khoảng thời gian bằng nhau; phương trình li độ dao động điều hòa: x = A*cos(wt + phi) với x là li độ, A là biên độ, w là tần số góc, (wt + phi) là pha dao động, phi là pha ban đầu; đồ thị li độ - thời gian là một đường hình sin; chuyển động tròn đều có hình chiếu của vật lên một trục nằm trong mặt phẳng quỹ đạo là một dao động điều hòa. Từ khóa: Dao động cơ, dao động tuần hoàn, dao động điều hòa, biên độ, li độ, tần số góc, pha ban đầu, chuyển động tròn đều."
+  },
+  {
+    "lessonId": "vatly11_b2",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Mô tả dao động điều hoà. Ý chính: Xác định các đại lượng chu kì, tần số, tần số góc từ đồ thị và phương trình; định nghĩa pha ban đầu, độ lệch pha giữa các dao động cùng chu kì. Kiến thức trọng tâm: Chu kì T (s) là khoảng thời gian để thực hiện một dao động toàn phần; tần số f (Hz) là số dao động thực hiện được trong 1 giây (f = 1/T); tần số góc w (rad/s) liên hệ w = 2*pi/T = 2*pi*f; độ lệch pha giữa hai dao động cùng chu kì: delta_phi = phi_1 - phi_2; nếu delta_phi > 0 thì dao động 1 sớm pha hơn dao động 2, nếu delta_phi < 0 thì trễ pha hơn, nếu delta_phi = 0 thì cùng pha, nếu delta_phi = pi thì ngược pha. Từ khóa: Chu kì, tần số, tần số góc, pha ban đầu, độ lệch pha, cùng pha, ngược pha, trễ pha, sớm pha."
+  },
+  {
+    "lessonId": "vatly11_b3",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3: Vận tốc, gia tốc trong dao động điều hoà. Ý chính: Định nghĩa, phương trình, đồ thị và mối liên hệ pha của vận tốc và gia tốc so với li độ trong dao động điều hòa. Kiến thức trọng tâm: Vận tốc v là đạo hàm bậc nhất của li độ theo thời gian: v = x' = -w*A*sin(wt + phi) = w*A*cos(wt + phi + pi/2), vận tốc cực đại v_max = w*A tại VTCB, bằng 0 ở biên, sớm pha pi/2 so với li độ, hệ thức độc lập: v = +-w*sqrt(A^2 - x^2); gia tốc a là đạo hàm bậc nhất của vận tốc theo thời gian: a = v' = -w^2*A*cos(wt + phi) = -w^2*x, gia tốc cực đại a_max = w^2*A ở biên, bằng 0 tại VTCB, vectơ gia tốc luôn hướng về VTCB và ngược pha với li độ (sớm pha pi/2 so với vận tốc). Từ khóa: Vận tốc, gia tốc, đạo hàm, vị trí cân bằng, vị trí biên, sớm pha, ngược pha, hệ thức độc lập."
+  },
+  {
+    "lessonId": "vatly11_b4",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4: Bài tập về dao động điều hoà. Ý chính: Luyện tập phân tích đồ thị dao động li độ - thời gian, vận tốc - thời gian, gia tốc - thời gian để xác định các thông số dao động và vận dụng các hệ thức độc lập. Kiến thức trọng tâm: Xác định biên độ A, chu kì T, tần số f, tần số góc w và pha ban đầu phi từ đồ thị hoặc dữ kiện cho trước; áp dụng hệ thức độc lập thời gian: A^2 = x^2 + v^2/w^2 và liên hệ a = -w^2*x để giải các bài toán định lượng; xác định chiều chuyển động và trạng thái dao động của vật tại thời điểm t. Từ khóa: Bài tập dao động, đồ thị li độ, đồ thị vận tốc, đồ thị gia tốc, hệ thức độc lập, pha ban đầu, chiều chuyển động."
+  },
+  {
+    "lessonId": "vatly11_b5",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5: Động năng. Thế năng. Sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà. Ý chính: Công thức động năng, thế năng, cơ năng của vật dao động điều hòa; sự biến thiên và chuyển hóa năng lượng trong con lắc lò xo và con lắc đơn. Kiến thức trọng tâm: Động năng W_d = 1/2*m*v^2 = 1/2*m*w^2*A^2*sin^2(wt + phi); thế năng W_t = 1/2*m*w^2*x^2 = 1/2*m*w^2*A^2*cos^2(wt + phi) (với con lắc lò xo W_t = 1/2*k*x^2 và T = 2*pi*sqrt(m/k); với con lắc đơn W_t = m*g*l*(1 - cos_alpha) và T = 2*pi*sqrt(l/g)); cơ năng W = W_d + W_t = 1/2*m*w^2*A^2 (bằng hằng số, bảo toàn nếu bỏ qua ma sát); sự chuyển hóa: thế năng cực đại ở biên, động năng cực đại ở VTCB, trong quá trình dao động luôn có sự chuyển hóa qua lại giữa động năng và thế năng. Từ khóa: Động năng, thế năng, cơ năng, bảo toàn cơ năng, con lắc lò xo, con lắc đơn, sự chuyển hóa năng lượng."
+  },
+  {
+    "lessonId": "vatly11_b6",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 6: Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng. Ý chính: Định nghĩa, đặc điểm và ứng dụng của dao động tắt dần, dao động cưỡng bức; điều kiện và tác hại/lợi ích của hiện tượng cộng hưởng. Kiến thức trọng tâm: Dao động tắt dần là dao động có biên độ và cơ năng giảm dần theo thời gian do ma sát và lực cản (ứng dụng làm bộ phận giảm xóc); dao động cưỡng bức xảy ra dưới tác dụng của ngoại lực tuần hoàn F = F_0*cos(w_f*t), khi ổn định có tần số bằng tần số ngoại lực cưỡng bức; hiện tượng cộng hưởng xảy ra khi tần số lực cưỡng bức f bằng tần số riêng f_0 của hệ dao động, làm cho biên độ dao động cưỡng bức đạt giá trị cực đại (đường cong cộng hưởng càng nhọn khi lực cản càng nhỏ). Từ khóa: Dao động tắt dần, dao động cưỡng bức, ngoại lực tuần hoàn, hiện tượng cộng hưởng, tần số riêng, biên độ cực đại, đường cong cộng hưởng."
+  },
+  {
+    "lessonId": "vatly11_b7",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 1. DAO ĐỘNG",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 7: Bài tập về sự chuyển hoá năng lượng trong dao động điều hoà. Ý chính: Luyện tập giải toán về động năng, thế năng, cơ năng và mối liên hệ với các đại lượng li độ, vận tốc của con lắc lò xo và con lắc đơn. Kiến thức trọng tâm: Áp dụng định luật bảo toàn cơ năng W = W_d + W_t để giải bài toán tại các vị trí đặc biệt (như động năng bằng thế năng tại x = +-A/sqrt(2), động năng bằng n lần thế năng tại x = +-A/sqrt(n+1)); đọc đồ thị biến thiên động năng và thế năng theo li độ x (đường parabol) hoặc theo thời gian t để tính các đại lượng khối lượng m, độ cứng k, biên độ A, chu kì T. Từ khóa: Bảo toàn cơ năng, con lắc lò xo, con lắc đơn, vị trí đặc biệt, đồ thị năng lượng."
+  },
+  {
+    "lessonId": "vatly11_b8",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 8: Mô tả sóng. Ý chính: Sự hình thành sóng cơ, đặc điểm lan truyền và các đại lượng đặc trưng của sóng cơ. Kiến thức trọng tâm: Sóng cơ là những biến dạng cơ lan truyền trong môi trường đàn hồi, quá trình truyền sóng chỉ truyền pha dao động và năng lượng, phần tử môi trường chỉ dao động tại chỗ quanh VTCB; các đại lượng đặc trưng gồm: biên độ sóng A (độ lệch cực đại của phần tử), chu kì T và tần số f (bằng chu kì/tần số nguồn), tốc độ truyền sóng v (tốc độ lan truyền biến dạng, phụ thuộc bản chất môi trường), bước sóng lambda (quãng đường sóng truyền được trong 1 chu kì, lambda = v*T = v/f), cường độ sóng I (năng lượng sóng truyền qua một đơn vị diện tích vuông góc phương truyền trong 1 đơn vị thời gian). Từ khóa: Sóng cơ, môi trường đàn hồi, biên độ sóng, bước sóng, chu kì sóng, tần số sóng, tốc độ truyền sóng, cường độ sóng."
+  },
+  {
+    "lessonId": "vatly11_b9",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 9: Sóng ngang, sóng dọc, sự truyền năng lượng của sóng cơ. Ý chính: Định nghĩa và phân loại sóng ngang, sóng dọc; quá trình truyền năng lượng và mô hình giải thích một số tính chất của sóng âm. Kiến thức trọng tâm: Sóng ngang là sóng trong đó các phần tử môi trường dao động vuông góc với phương truyền sóng (ví dụ: sóng mặt nước, sóng trên dây); sóng dọc là sóng trong đó các phần tử dao động trùng với phương truyền sóng (ví dụ: sóng âm trong không khí, sóng trên lò xo dọc); sóng cơ lan truyền mang theo năng lượng của nguồn sóng; sóng âm là sóng dọc truyền qua không khí tạo thành các lớp nén và dãn song song, âm nghe được có tần số từ 16 Hz đến 20000 Hz (tần số quyết định độ cao, biên độ quyết định độ to). Từ khóa: Sóng ngang, sóng dọc, truyền năng lượng, sóng âm, độ to, độ cao, tần số âm, môi trường nén và dãn."
+  },
+  {
+    "lessonId": "vatly11_b10",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 10: Thực hành: Đo tần số của sóng âm. Ý chính: Tìm hiểu cấu tạo, tính năng của dao động kí điện tử và thực hành đo tần số của sóng âm phát ra từ âm thoa. Kiến thức trọng tâm: Dao động kí điện tử hiển thị đồ thị tín hiệu điện đưa vào để đo chu kì; dụng cụ thí nghiệm gồm: dao động kí điện tử, micro, bộ khuếch đại, âm thoa và búa cao su; tiến hành gõ âm thoa để phát âm, micro thu sóng âm chuyển thành tín hiệu điện đưa vào dao động kí, đọc chu kì T trên màn hình thông qua núm SEC/DIV, từ đó tính tần số f = 1/T và so sánh với tần số ghi trên thân âm thoa để xác định sai số. Từ khóa: Thực hành sóng âm, dao động kí điện tử, micro, âm thoa, đo chu kì, tính tần số, sai số."
+  },
+  {
+    "lessonId": "vatly11_b11",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 11: Sóng điện từ. Ý chính: Định nghĩa sóng điện từ, tốc độ truyền và cấu trúc của thang sóng điện từ. Kiến thức trọng tâm: Sóng điện từ là điện từ trường lan truyền trong không gian, truyền được trong chân không với tốc độ bằng tốc độ ánh sáng c = 3.10^8 m/s; thang sóng điện từ được sắp xếp theo thứ tự bước sóng giảm dần (hoặc tần số tăng dần): Sóng vô tuyến (1 mm - 100 km, truyền thông tin) -> Tia hồng ngoại (0,76 um - 1 mm, tác dụng nhiệt) -> Ánh sáng nhìn thấy (380 nm - 760 nm, đỏ đến tím) -> Tia tử ngoại (10 nm - 400 nm, tác dụng sinh học) -> Tia X (30 pm - 3 nm, đâm xuyên mạnh dùng trong y học) -> Tia gamma (< 0,1 nm, đâm xuyên cực mạnh). Từ khóa: Sóng điện từ, tốc độ ánh sáng, thang sóng điện từ, sóng vô tuyến, tia hồng ngoại, ánh sáng nhìn thấy, tia tử ngoại, tia X, tia gamma."
+  },
+  {
+    "lessonId": "vatly11_b12",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 12: Giao thoa sóng. Ý chính: Hiện tượng giao thoa sóng cơ và giao thoa ánh sáng; điều kiện xảy ra hiện tượng giao thoa và công thức xác định bước sóng ánh sáng. Kiến thức trọng tâm: Giao thoa sóng là hiện tượng hai sóng kết hợp gặp nhau tạo nên các vân cực đại và vân cực tiểu ổn định; điều kiện giao thoa là hai nguồn sóng phải dao động cùng phương, cùng tần số và có độ lệch pha không đổi theo thời gian; thí nghiệm giao thoa ánh sáng Y-âng tạo ra hệ vân sáng và vân tối xen kẽ; công thức khoảng vân: i = lambda*D/a, từ đó xác định bước sóng: lambda = a*i/D (a là khoảng cách giữa 2 khe, D là khoảng cách từ khe đến màn, i là khoảng cách giữa 2 vân sáng liên tiếp). Từ khóa: Giao thoa sóng, nguồn kết hợp, vân cực đại, vân cực tiểu, thí nghiệm Y-âng, vân sáng, vân tối, khoảng vân, bước sóng."
+  },
+  {
+    "lessonId": "vatly11_b13",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 13: Sóng dừng. Ý chính: Sự hình thành sóng dừng do giao thoa giữa sóng tới và sóng phản xạ; điều kiện xảy ra sóng dừng trên dây và trong cột không khí. Kiến thức trọng tâm: Sóng dừng là sóng có các nút sóng (luôn đứng yên) và bụng sóng (luôn dao động cực đại) cố định trong không gian; khoảng cách giữa 2 nút hoặc 2 bụng liên tiếp bằng lambda/2, giữa 1 nút và 1 bụng kề nhau bằng lambda/4; điều kiện sóng dừng trên sợi dây dài L: hai đầu cố định L = n*lambda/2 (n là số bụng, n+1 là số nút), một đầu cố định một đầu tự do L = (2n + 1)*lambda/4; ứng dụng giải thích sự phát âm của các nhạc cụ dây (guitar) và nhạc cụ khí (sáo). Từ khóa: Sóng dừng, nút sóng, bụng sóng, sóng phản xạ, điều kiện sóng dừng, nhạc cụ dây, nhạc cụ khí."
+  },
+  {
+    "lessonId": "vatly11_b14",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 14: Bài tập về sóng. Ý chính: Giải quyết các bài tập tổng hợp về sự truyền sóng cơ, hiện tượng giao thoa sóng ánh sáng và sóng dừng trên dây. Kiến thức trọng tâm: Vận dụng hệ thức liên hệ v = lambda*f để xác định tốc độ truyền, bước sóng hoặc tần số; giải bài tập giao thoa ánh sáng Y-âng tính khoảng vân, vị trí vân sáng x_s = k*i, vị trí vân tối x_t = (k + 1/2)*i và xác định bước sóng; giải bài tập sóng dừng trên dây xác định số bụng, số nút, tần số hoặc tốc độ truyền sóng tương ứng với các điều kiện biên. Từ khóa: Bài tập sóng, tính khoảng vân, vị trí vân sáng, vị trí vân tối, sóng dừng trên dây, bước sóng."
+  },
+  {
+    "lessonId": "vatly11_b15",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 2. SÓNG",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 15: Thực hành: Đo tốc độ truyền âm. Ý chính: Thiết kế và thực hiện phương án thực nghiệm đo tốc độ truyền âm trong không khí dựa trên hiện tượng cộng hưởng sóng dừng trong ống thủy tinh. Kiến thức trọng tâm: Dụng cụ gồm ống cộng hưởng thủy tinh có chia vạch, pít-tông dịch chuyển bên trong, máy phát tần số kết hợp loa nhỏ; nguyên lý: điều chỉnh máy phát tần số f, kéo pít-tông để thay đổi chiều dài cột không khí, khi nghe thấy âm to nhất là lúc xảy ra cộng hưởng sóng dừng (miệng ống là bụng, mặt pít-tông là nút); xác định khoảng cách giữa 2 vị trí liên tiếp nghe âm to nhất là delta_d = lambda/2, từ đó tính tốc độ truyền âm v = lambda*f = 2*delta_d*f. Từ khóa: Thực hành tốc độ âm, ống thủy tinh cộng hưởng, pít-tông, cộng hưởng sóng dừng, bước sóng âm, tốc độ truyền âm."
+  },
+  {
+    "lessonId": "vatly11_b16",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 3. ĐIỆN TRƯỜNG",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 16: Lực tương tác giữa hai điện tích. Ý chính: Tương tác tĩnh điện giữa các điện tích và định luật Coulomb mô tả độ lớn của lực tương tác này. Kiến thức trọng tâm: Có hai loại điện tích là điện tích dương và điện tích âm; các điện tích cùng loại thì đẩy nhau, khác loại thì hút nhau; lực tương tác tĩnh điện được phát biểu qua Định luật Coulomb: lực tương tác giữa hai điện tích điểm q_1, q_2 đặt cô lập trong chân không có phương trùng đường thẳng nối hai điện tích, có độ lớn tỉ lệ thuận với tích độ lớn điện tích và tỉ lệ nghịch với bình phương khoảng cách giữa chúng: F = k*|q_1*q_2|/r^2 với k = 9.10^9 N.m^2/C^2; trong điện môi đồng tính lực tương tác giảm đi hằng số điện môi (epsilon) lần: F = k*|q_1*q_2|/(epsilon*r^2). Từ khóa: Tương tác tĩnh điện, điện tích dương, điện tích âm, định luật Coulomb, điện tích điểm, hằng số điện môi."
+  },
+  {
+    "lessonId": "vatly11_b17",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 3. ĐIỆN TRƯỜNG",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 17: Khái niệm điện trường. Ý chính: Khái niệm điện trường, vectơ cường độ điện trường, nguyên lý chồng chất điện trường và khái niệm đường sức điện. Kiến thức trọng tâm: Điện trường là một dạng vật chất bao quanh các điện tích và truyền tương tác tĩnh điện; cường độ điện trường E tại một điểm đặc trưng cho tác dụng lực của điện trường tại điểm đó: E = F/q (V/m); cường độ điện trường do điện tích điểm Q gây ra cách nó khoảng r trong chân không: E = k*|Q|/r^2 (hướng ra xa nếu Q > 0, hướng lại gần nếu Q < 0); nguyên lý chồng chất điện trường: E = E_1 + E_2 + ...; đường sức điện là các đường vẽ sao cho tiếp tuyến tại mỗi điểm trùng phương vectơ E, xuất phát từ điện tích dương và kết thúc ở điện tích âm. Từ khóa: Điện trường, cường độ điện trường, điện tích điểm, chồng chất điện trường, đường sức điện, điện phổ."
+  },
+  {
+    "lessonId": "vatly11_b18",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 3. ĐIỆN TRƯỜNG",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 18: Điện trường đều. Ý chính: Định nghĩa điện trường đều, cách tạo ra điện trường đều giữa hai bản phẳng song song tích điện trái dấu; tác dụng của điện trường đều lên điện tích chuyển động. Kiến thức trọng tâm: Điện trường đều là điện trường có vectơ cường độ điện trường tại mọi điểm đều bằng nhau về phương, chiều và độ lớn; đường sức điện của điện trường đều là những đường thẳng song song và cách đều nhau; điện trường đều tạo ra giữa hai bản phẳng song song, tích điện trái dấu cách nhau khoảng d có độ lớn E = U/d; tác dụng lên điện tích bay vào theo phương vuông góc đường sức: lực điện F = q*E gây ra gia tốc không đổi dọc theo đường sức, khiến điện tích chuyển động theo quỹ đạo parabol (tương tự chuyển động ném ngang). Từ khóa: Điện trường đều, bản phẳng song song, cường độ điện trường đều, chuyển động của điện tích, gia tốc không đổi, quỹ đạo parabol."
+  },
+  {
+    "lessonId": "vatly11_b19",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 3. ĐIỆN TRƯỜNG",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 19: Thế năng điện. Ý chính: Công của lực điện trường khi điện tích dịch chuyển và khái niệm thế năng điện của điện tích trong điện trường. Kiến thức trọng tâm: Công của lực điện trong điện trường đều khi q dịch chuyển từ M đến N là A_MN = q*E*d với d là độ dài hình chiếu của đoạn MN lên phương đường sức; công này không phụ thuộc vào hình dạng đường đi mà chỉ phụ thuộc điểm đầu M và điểm cuối N (điện trường là một trường lực thế); thế năng điện của điện tích q tại điểm M đặc trưng cho khả năng sinh công của điện trường: W_M = q*E*d (chọn mốc thế năng tại bản âm của tụ điện), hoặc trong điện trường bất kì chọn mốc thế năng ở vô cực: W_M = A_M_vocuc. Từ khóa: Công lực điện, trường lực thế, thế năng điện, dịch chuyển điện tích, mốc thế năng."
+  },
+  {
+    "lessonId": "vatly11_b20",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 3. ĐIỆN TRƯỜNG",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 20: Điện thế. Ý chính: Định nghĩa điện thế tại một điểm và hiệu điện thế giữa hai điểm trong điện trường; mối liên hệ giữa cường độ điện trường và hiệu điện thế. Kiến thức trọng tâm: Điện thế V_M tại điểm M đặc trưng cho điện trường về phương diện tạo ra thế năng cho điện tích q: V_M = W_M/q = A_M_vocuc/q (vôn, V); hiệu điện thế U_MN là hiệu số điện thế giữa hai điểm M và N: U_MN = V_M - V_N = A_MN/q; liên hệ giữa cường độ điện trường đều và hiệu điện thế dọc theo đường sức cách nhau khoảng d: E = U_MN/d; điện thế có giá trị đại số phụ thuộc vào mốc điện thế được chọn. Từ khóa: Điện thế, hiệu điện thế, vôn, thế năng điện, công dịch chuyển, cường độ điện trường, mốc điện thế."
+  },
+  {
+    "lessonId": "vatly11_b21",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 3. ĐIỆN TRƯỜNG",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 21: Tụ điện. Ý chính: Cấu tạo, ký hiệu và vai trò của tụ điện; định nghĩa điện dung, các cách ghép tụ điện và năng lượng điện trường của tụ điện. Kiến thức trọng tâm: Tụ điện là linh kiện gồm hai vật dẫn đặt gần nhau ngăn cách bởi lớp điện môi, có chức năng tích và phóng điện; điện dung C của tụ điện đặc trưng cho khả năng tích điện ở hiệu điện thế U: C = Q/U (fara, F); ghép tụ điện: ghép nối tiếp có 1/C_nt = 1/C_1 + 1/C_2 + ... và Q_nt = Q_1 = Q_2 = ...; ghép song song có C_ss = C_1 + C_2 + ... và U_ss = U_1 = U_2 = ...; năng lượng điện trường tích lũy trong tụ điện: W = 1/2*Q*U = 1/2*C*U^2 = Q^2/(2*C); ứng dụng tích trữ năng lượng phóng điện nhanh trong máy hàn, đèn flash, mạch lọc. Từ khóa: Tụ điện, điện dung, Fara, tụ ghép nối tiếp, tụ ghép song song, năng lượng tụ điện, tích và phóng điện."
+  },
+  {
+    "lessonId": "vatly11_b22",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 4. DÒNG ĐIỆN. MẠCH ĐIỆN",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 22: Cường độ dòng điện. Ý chính: Định nghĩa dòng điện, cường độ dòng điện; mối liên hệ giữa cường độ dòng điện với mật độ và tốc độ dịch chuyển của các hạt mang điện. Kiến thức trọng tâm: Dòng điện là dòng dịch chuyển có hướng của các hạt mang điện, chiều dòng điện quy ước là chiều dịch chuyển của các điện tích dương; cường độ dòng điện I đặc trưng cho tác dụng mạnh, yếu của dòng điện: I = delta_q/delta_t (ampe, A); biểu thức liên hệ trong dây dẫn kim loại: I = S*n*v*e với S là diện tích tiết diện dây, n là mật độ hạt mang điện (số electron tự do/m^3), v là tốc độ dịch chuyển có hướng của hạt, e là độ lớn điện tích electron (e = 1,6.10^-19 C). Từ khóa: Dòng điện, cường độ dòng điện, Ampe, hạt mang điện, mật độ hạt, tốc độ dịch chuyển có hướng, tiết diện dây dẫn."
+  },
+  {
+    "lessonId": "vatly11_b23",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 4. DÒNG ĐIỆN. MẠCH ĐIỆN",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 23: Điện trở. Định luật Ohm. Ý chính: Khái niệm điện trở và định luật Ohm cho đoạn mạch thuần điện trở; nguyên nhân gây ra điện trở, sự phụ thuộc của điện trở vào nhiệt độ và hiện tượng siêu dẫn. Kiến thức trọng tâm: Điện trở R cản trở dòng điện: R = U/I (ôm, Omega); định luật Ohm cho đoạn mạch kim loại: cường độ dòng điện tỉ lệ thuận hiệu điện thế 2 đầu và tỉ lệ nghịch điện trở đoạn mạch: I = U/R; nguyên nhân có điện trở là do va chạm giữa các electron tự do với ion dương nút mạng; điện trở kim loại tăng khi nhiệt độ tăng: R = R_0*[1 + alpha*(t - t_0)]; điện trở nhiệt (thermistor) gồm NTC (R giảm khi t tăng) và PTC (R tăng khi t tăng); hiện tượng siêu dẫn xảy ra khi nhiệt độ hạ xuống dưới nhiệt độ tới hạn T_c làm điện trở đột ngột giảm về 0. Từ khóa: Điện trở, định luật Ohm, va chạm ion, tinh thể, điện trở nhiệt, thermistor, nhiệt độ tới hạn, siêu dẫn."
+  },
+  {
+    "lessonId": "vatly11_b24",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 4. DÒNG ĐIỆN. MẠCH ĐIỆN",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 24: Nguồn điện. Ý chính: Định nghĩa nguồn điện, suất điện động của nguồn; điện trở trong của nguồn điện, định luật Ohm cho toàn mạch và hiện tượng đoản mạch. Kiến thức trọng tâm: Nguồn điện duy trì hiệu điện thế giữa hai cực bằng các lực lạ thực hiện công dịch chuyển điện tích; suất điện động E của nguồn đặc trưng cho khả năng thực hiện công của nguồn: E = A/q (V); điện trở trong r là điện trở của nguồn; định luật Ohm toàn mạch kín: I = E/(R + r) với R là điện trở mạch ngoài; hiệu điện thế mạch ngoài (2 cực nguồn): U = E - I*r; khi R = 0 xảy ra đoản mạch làm cường độ cực đại I_max = E/r có thể gây cháy nổ nguy hiểm. Từ khóa: Nguồn điện, suất điện động, lực lạ, điện trở trong, định luật Ohm toàn mạch, đoản mạch."
+  },
+  {
+    "lessonId": "vatly11_b25",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 4. DÒNG ĐIỆN. MẠCH ĐIỆN",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 25: Năng lượng điện và công suất điện. Ý chính: Công thức điện năng tiêu thụ, công suất điện của đoạn mạch; định luật Joule-Lenz về tác dụng nhiệt của dòng điện. Kiến thức trọng tâm: Điện năng tiêu thụ của đoạn mạch: W = A = U*I*t (jun, J; đo bằng công tơ điện theo đơn vị kWh với 1 kWh = 3,6.10^6 J); công suất điện của đoạn mạch: P = W/t = U*I (oát, W); định luật Joule-Lenz: nhiệt lượng tỏa ra ở vật dẫn thuần điện trở tỉ lệ thuận điện trở R, bình phương cường độ I và thời gian t: Q = I^2*R*t = U^2/R*t. Từ khóa: Điện năng tiêu thụ, công suất điện, định luật Joule-Lenz, công tơ điện, kilôoát giờ, tác dụng nhiệt."
+  },
+  {
+    "lessonId": "vatly11_b26",
+    "grade": 11,
+    "subject": "Vật lý",
+    "chapterName": "Chương 4. DÒNG ĐIỆN. MẠCH ĐIỆN",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 26: Thực hành: Đo suất điện động và điện trở trong của pin điện hoá. Ý chính: Thiết kế phương án và tiến hành thực nghiệm xác định suất điện động E và điện trở trong r của pin điện hóa bằng phương pháp vẽ đồ thị. Kiến thức trọng tâm: Dụng cụ gồm pin cần đo, biến trở R, ampe kế (đo I) và vôn kế (đo U); nguyên lý dựa vào hệ thức U = E - I*r; tiến hành thay đổi biến trở R để thu thập các cặp giá trị (I, U), vẽ đường đồ thị biểu diễn U theo I; giao điểm của đường kéo dài đồ thị với trục tung U cho giá trị suất điện động E (khi I = 0), và độ dốc của đường thẳng cho giá trị điện trở trong r = (U_M - U_N)/(I_N - I_M). Từ khóa: Thực hành đo suất điện động, điện trở trong, pin điện hóa, biến trở, đồ thị tọa độ U-I, sai số thực nghiệm."
+  }
+]

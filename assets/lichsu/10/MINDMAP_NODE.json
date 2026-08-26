@@ -1,0 +1,156 @@
+[
+  {
+    "nodeId": "root_ls10",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "LỊCH SỬ 10 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "su10_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 1. LỊCH SỬ VÀ SỬ HỌC",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su10_node_b1",
+    "lessonId": "su10_b1",
+    "parentNodeId": "su10_node_ch1",
+    "nodeName": "Bài 1. Hiện thực lịch sử và nhận thức lịch sử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su10_node_b2",
+    "lessonId": "su10_b2",
+    "parentNodeId": "su10_node_ch1",
+    "nodeName": "Bài 2. Tri thức lịch sử và cuộc sống",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su10_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 2. VAI TRÒ CỦA SỬ HỌC",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su10_node_b3",
+    "lessonId": "su10_b3",
+    "parentNodeId": "su10_node_ch2",
+    "nodeName": "Bài 3. Sử học với các lĩnh vực khoa học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su10_node_b4",
+    "lessonId": "su10_b4",
+    "parentNodeId": "su10_node_ch2",
+    "nodeName": "Bài 4. Sử học với một số lĩnh vực, ngành nghề hiện đại",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "su10_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 3. MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ - TRUNG ĐẠI",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su10_node_b5",
+    "lessonId": "su10_b5",
+    "parentNodeId": "su10_node_ch3",
+    "nodeName": "Bài 5. Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ - trung đại",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "su10_node_b6",
+    "lessonId": "su10_b6",
+    "parentNodeId": "su10_node_ch3",
+    "nodeName": "Bài 6. Một số nền văn minh phương Tây thời kì cổ - trung đại",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "su10_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 4. CÁC CUỘC CÁCH MẠNG CÔNG NGHIỆP TRONG LỊCH SỬ THẾ GIỚI",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "su10_node_b7",
+    "lessonId": "su10_b7",
+    "parentNodeId": "su10_node_ch4",
+    "nodeName": "Bài 7. Các cuộc cách mạng công nghiệp thời kì cận đại",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "su10_node_b8",
+    "lessonId": "su10_b8",
+    "parentNodeId": "su10_node_ch4",
+    "nodeName": "Bài 8. Các cuộc cách mạng công nghiệp thời kì hiện đại",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "su10_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 5. VĂN MINH ĐÔNG NAM Á",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "su10_node_b9",
+    "lessonId": "su10_b9",
+    "parentNodeId": "su10_node_ch5",
+    "nodeName": "Bài 9. Cơ sở hình thành văn minh Đông Nam Á thời kì cổ - trung đại",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "su10_node_b10",
+    "lessonId": "su10_b10",
+    "parentNodeId": "su10_node_ch5",
+    "nodeName": "Bài 10. Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ - trung đại",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "su10_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 6. MỘT SỐ NỀN VĂN MINH TRÊN ĐẤT NƯỚC VIỆT NAM (TRƯỚC NĂM 1858)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "su10_node_b11",
+    "lessonId": "su10_b11",
+    "parentNodeId": "su10_node_ch6",
+    "nodeName": "Bài 11. Một số nền văn minh cổ trên đất nước Việt Nam",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "su10_node_b12",
+    "lessonId": "su10_b12",
+    "parentNodeId": "su10_node_ch6",
+    "nodeName": "Bài 12. Văn minh Đại Việt",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "su10_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "root_ls10",
+    "nodeName": "Chủ đề 7. CỘNG ĐỒNG CÁC DÂN TỘC VIỆT NAM",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "su10_node_b13",
+    "lessonId": "su10_b13",
+    "parentNodeId": "su10_node_ch7",
+    "nodeName": "Bài 13. Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "su10_node_b14",
+    "lessonId": "su10_b14",
+    "parentNodeId": "su10_node_ch7",
+    "nodeName": "Bài 14. Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+    "orderIndex": 14
+  }
+]

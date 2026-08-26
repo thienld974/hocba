@@ -1,0 +1,338 @@
+[
+  {
+    "nodeId": "root_sh12",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "SINH HỌC 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "sinh12_node_p4",
+    "lessonId": null,
+    "parentNodeId": "root_sh12",
+    "nodeName": "Phần bốn: DI TRUYỀN HỌC",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p4",
+    "nodeName": "Chương I: Di truyền phân tử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b1",
+    "lessonId": "sinh12_b1",
+    "parentNodeId": "sinh12_node_ch1",
+    "nodeName": "Bài 1: DNA và cơ chế tái bản DNA",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b2",
+    "lessonId": "sinh12_b2",
+    "parentNodeId": "sinh12_node_ch1",
+    "nodeName": "Bài 2: Gene, quá trình truyền đạt thông tin di truyền và hệ gene",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b3",
+    "lessonId": "sinh12_b3",
+    "parentNodeId": "sinh12_node_ch1",
+    "nodeName": "Bài 3: Điều hoà biểu hiện gene",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_b4",
+    "lessonId": "sinh12_b4",
+    "parentNodeId": "sinh12_node_ch1",
+    "nodeName": "Bài 4: Đột biến gene",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh12_node_b5",
+    "lessonId": "sinh12_b5",
+    "parentNodeId": "sinh12_node_ch1",
+    "nodeName": "Bài 5: Công nghệ di truyền",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh12_node_b6",
+    "lessonId": "sinh12_b6",
+    "parentNodeId": "sinh12_node_ch1",
+    "nodeName": "Bài 6: Thực hành: Tách chiết DNA",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sinh12_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p4",
+    "nodeName": "Chương II: Di truyền nhiễm sắc thể",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b7",
+    "lessonId": "sinh12_b7",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 7: Cấu trúc và chức năng của nhiễm sắc thể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b8",
+    "lessonId": "sinh12_b8",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 8: Học thuyết di truyền của Mendel",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b9",
+    "lessonId": "sinh12_b9",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 9: Mở rộng học thuyết Mendel",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_b10",
+    "lessonId": "sinh12_b10",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 10: Di truyền giới tính và di truyền liên kết với giới tính",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh12_node_b11",
+    "lessonId": "sinh12_b11",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 11: Liên kết gene và hoán vị gene",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh12_node_b12",
+    "lessonId": "sinh12_b12",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 12: Đột biến nhiễm sắc thể",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sinh12_node_b13",
+    "lessonId": "sinh12_b13",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 13: Di truyền học người và di truyền y học",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sinh12_node_b14",
+    "lessonId": "sinh12_b14",
+    "parentNodeId": "sinh12_node_ch2",
+    "nodeName": "Bài 14: Thực hành: Quan sát một số dạng đột biến nhiễm sắc thể",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "sinh12_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p4",
+    "nodeName": "Chương III: Mở rộng học thuyết di truyền nhiễm sắc thể",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_b15",
+    "lessonId": "sinh12_b15",
+    "parentNodeId": "sinh12_node_ch3",
+    "nodeName": "Bài 15: Di truyền gene ngoài nhân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b16",
+    "lessonId": "sinh12_b16",
+    "parentNodeId": "sinh12_node_ch3",
+    "nodeName": "Bài 16: Tương tác kiểu gene với môi trường và thành tựu chọn giống",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b17",
+    "lessonId": "sinh12_b17",
+    "parentNodeId": "sinh12_node_ch3",
+    "nodeName": "Bài 17: Thực hành: Thí nghiệm về thường biến ở cây trồng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p4",
+    "nodeName": "Chương IV: Di truyền quần thể",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh12_node_b18",
+    "lessonId": "sinh12_b18",
+    "parentNodeId": "sinh12_node_ch4",
+    "nodeName": "Bài 18: Di truyền quần thể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_p5",
+    "lessonId": null,
+    "parentNodeId": "root_sh12",
+    "nodeName": "Phần năm: TIẾN HOÁ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p5",
+    "nodeName": "Chương V: Bằng chứng và các học thuyết tiến hoá",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b19",
+    "lessonId": "sinh12_b19",
+    "parentNodeId": "sinh12_node_ch5",
+    "nodeName": "Bài 19: Các bằng chứng tiến hoá",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b20",
+    "lessonId": "sinh12_b20",
+    "parentNodeId": "sinh12_node_ch5",
+    "nodeName": "Bài 20: Quan niệm của Darwin về chọn lọc tự nhiên và hình thành loài",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b21",
+    "lessonId": "sinh12_b21",
+    "parentNodeId": "sinh12_node_ch5",
+    "nodeName": "Bài 21: Học thuyết tiến hoá tổng hợp hiện đại",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_b22",
+    "lessonId": "sinh12_b22",
+    "parentNodeId": "sinh12_node_ch5",
+    "nodeName": "Bài 22: Tiến hoá lớn và quá trình phát sinh chủng loại",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh12_node_p6",
+    "lessonId": null,
+    "parentNodeId": "root_sh12",
+    "nodeName": "Phần sáu: SINH THÁI HỌC VÀ MÔI TRƯỜNG",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p6",
+    "nodeName": "Chương VI: Môi trường và sinh thái học quần thể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b23",
+    "lessonId": "sinh12_b23",
+    "parentNodeId": "sinh12_node_ch6",
+    "nodeName": "Bài 23: Môi trường và các nhân tố sinh thái",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b24",
+    "lessonId": "sinh12_b24",
+    "parentNodeId": "sinh12_node_ch6",
+    "nodeName": "Bài 24: Sinh thái học quần thể",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b25",
+    "lessonId": "sinh12_b25",
+    "parentNodeId": "sinh12_node_ch6",
+    "nodeName": "Bài 25: Thực hành: Đặc trưng của quần thể",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p6",
+    "nodeName": "Chương VII: Sinh thái học quần xã",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b26",
+    "lessonId": "sinh12_b26",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 26: Quần xã sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b27",
+    "lessonId": "sinh12_b27",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 27: Thực hành: Tìm hiểu đặc trưng cơ bản của quần xã",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b28",
+    "lessonId": "sinh12_b28",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 28: Hệ sinh thái",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_b29",
+    "lessonId": "sinh12_b29",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 29: Trao đổi vật chất và chuyển hoá năng lượng trong hệ sinh thái",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh12_node_b30",
+    "lessonId": "sinh12_b30",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 30: Diễn thế",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh12_node_b31",
+    "lessonId": "sinh12_b31",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 31: Sinh quyển, khu sinh học và chu trình sinh - địa - hoá",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sinh12_node_b32",
+    "lessonId": "sinh12_b32",
+    "parentNodeId": "sinh12_node_ch7",
+    "nodeName": "Bài 32: Thực hành: Thiết kế một hệ sinh thái nhân tạo",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sinh12_node_ch8",
+    "lessonId": null,
+    "parentNodeId": "sinh12_node_p6",
+    "nodeName": "Chương VIII: Sinh thái học phục hồi, bảo tồn và phát triển bền vững",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_b33",
+    "lessonId": "sinh12_b33",
+    "parentNodeId": "sinh12_node_ch8",
+    "nodeName": "Bài 33: Sinh thái học phục hồi và bảo tồn đa dạng sinh học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh12_node_b34",
+    "lessonId": "sinh12_b34",
+    "parentNodeId": "sinh12_node_ch8",
+    "nodeName": "Bài 34: Phát triển bền vững",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh12_node_b35",
+    "lessonId": "sinh12_b35",
+    "parentNodeId": "sinh12_node_ch8",
+    "nodeName": "Bài 35: Dự án: Bảo tồn sinh thái tại địa phương",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh12_node_examskills",
+    "lessonId": "sinh12_examskills",
+    "parentNodeId": "root_sh12",
+    "nodeName": "Kỹ năng làm bài thi",
+    "orderIndex": 4
+  }
+]

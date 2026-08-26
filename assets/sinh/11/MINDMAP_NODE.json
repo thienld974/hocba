@@ -1,0 +1,254 @@
+[
+  {
+    "nodeId": "root_sh11",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "SINH HỌC 11 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "sinh11_node_p3",
+    "lessonId": null,
+    "parentNodeId": "root_sh11",
+    "nodeName": "PHẦN BA: SINH HỌC CƠ THỂ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "sinh11_node_p3",
+    "nodeName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_b1",
+    "lessonId": "sinh11_b1",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 1: Khái quát về trao đổi chất và chuyển hóa năng lượng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_b2",
+    "lessonId": "sinh11_b2",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 2: Trao đổi nước và khoáng ở thực vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh11_node_b3",
+    "lessonId": "sinh11_b3",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 3: Thực hành: Trao đổi nước và khoáng ở thực vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh11_node_b4",
+    "lessonId": "sinh11_b4",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 4: Quang hợp ở thực vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh11_node_b5",
+    "lessonId": "sinh11_b5",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 5: Thực hành: Quang hợp ở thực vật",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh11_node_b6",
+    "lessonId": "sinh11_b6",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 6: Hô hấp ở thực vật",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sinh11_node_b7",
+    "lessonId": "sinh11_b7",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 7: Thực hành: Hô hấp ở thực vật",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sinh11_node_b8",
+    "lessonId": "sinh11_b8",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 8: Dinh dưỡng và tiêu hoá ở động vật",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "sinh11_node_b9",
+    "lessonId": "sinh11_b9",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 9: Hô hấp ở động vật",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "sinh11_node_b10",
+    "lessonId": "sinh11_b10",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 10: Tuần hoàn ở động vật",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "sinh11_node_b11",
+    "lessonId": "sinh11_b11",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 11: Thực hành: Một số thí nghiệm về hệ tuần hoàn",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "sinh11_node_b12",
+    "lessonId": "sinh11_b12",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 12: Miễn dịch ở người và động vật",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "sinh11_node_b13",
+    "lessonId": "sinh11_b13",
+    "parentNodeId": "sinh11_node_ch1",
+    "nodeName": "Bài 13: Bài tiết và cân bằng nội môi",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "sinh11_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "sinh11_node_p3",
+    "nodeName": "Chương 2: Cảm ứng ở sinh vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh11_node_b14",
+    "lessonId": "sinh11_b14",
+    "parentNodeId": "sinh11_node_ch2",
+    "nodeName": "Bài 14: Khái quát về cảm ứng ở sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_b15",
+    "lessonId": "sinh11_b15",
+    "parentNodeId": "sinh11_node_ch2",
+    "nodeName": "Bài 15: Cảm ứng ở thực vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh11_node_b16",
+    "lessonId": "sinh11_b16",
+    "parentNodeId": "sinh11_node_ch2",
+    "nodeName": "Bài 16: Thực hành: Cảm ứng ở thực vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh11_node_b17",
+    "lessonId": "sinh11_b17",
+    "parentNodeId": "sinh11_node_ch2",
+    "nodeName": "Bài 17: Cảm ứng ở động vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh11_node_b18",
+    "lessonId": "sinh11_b18",
+    "parentNodeId": "sinh11_node_ch2",
+    "nodeName": "Bài 18: Tập tính ở động vật",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh11_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "sinh11_node_p3",
+    "nodeName": "Chương 3: Sinh trưởng và phát triển ở sinh vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh11_node_b19",
+    "lessonId": "sinh11_b19",
+    "parentNodeId": "sinh11_node_ch3",
+    "nodeName": "Bài 19: Khái quát về sinh trưởng và phát triển ở sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_b20",
+    "lessonId": "sinh11_b20",
+    "parentNodeId": "sinh11_node_ch3",
+    "nodeName": "Bài 20: Sinh trưởng và phát triển ở thực vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh11_node_b21",
+    "lessonId": "sinh11_b21",
+    "parentNodeId": "sinh11_node_ch3",
+    "nodeName": "Bài 21: Thực hành: Bấm ngọn, tỉa cành, tính tuổi cây",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh11_node_b22",
+    "lessonId": "sinh11_b22",
+    "parentNodeId": "sinh11_node_ch3",
+    "nodeName": "Bài 22: Sinh trưởng và phát triển ở động vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh11_node_b23",
+    "lessonId": "sinh11_b23",
+    "parentNodeId": "sinh11_node_ch3",
+    "nodeName": "Bài 23: Thực hành: Quan sát quá trình biến thái ở động vật",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh11_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "sinh11_node_p3",
+    "nodeName": "Chương 4: Sinh sản ở sinh vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh11_node_b24",
+    "lessonId": "sinh11_b24",
+    "parentNodeId": "sinh11_node_ch4",
+    "nodeName": "Bài 24: Khái quát về sinh sản ở sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_b25",
+    "lessonId": "sinh11_b25",
+    "parentNodeId": "sinh11_node_ch4",
+    "nodeName": "Bài 25: Sinh sản ở thực vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh11_node_b26",
+    "lessonId": "sinh11_b26",
+    "parentNodeId": "sinh11_node_ch4",
+    "nodeName": "Bài 26: Thực hành: Nhân giống vô tính và thụ phấn cho cây",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh11_node_b27",
+    "lessonId": "sinh11_b27",
+    "parentNodeId": "sinh11_node_ch4",
+    "nodeName": "Bài 27: Sinh sản ở động vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh11_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "sinh11_node_p3",
+    "nodeName": "Chương 5: Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật và một số ngành nghề liên quan đến sinh học cơ thể",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh11_node_b28",
+    "lessonId": "sinh11_b28",
+    "parentNodeId": "sinh11_node_ch5",
+    "nodeName": "Bài 28: Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh11_node_b29",
+    "lessonId": "sinh11_b29",
+    "parentNodeId": "sinh11_node_ch5",
+    "nodeName": "Bài 29: Một số ngành nghề liên quan đến sinh học cơ thể",
+    "orderIndex": 2
+  }
+]

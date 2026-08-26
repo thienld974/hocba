@@ -1,0 +1,520 @@
+[
+  {
+    "nodeId": "root_nv12",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan12_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nv12",
+    "nodeName": "Ngữ văn 12 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol1",
+    "nodeName": "Bài 1: Khả năng lớn lao của tiểu thuyết",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1_tt",
+    "lessonId": "nguvan12_t1_b1_tt",
+    "parentNodeId": "nguvan12_node_t1_b1",
+    "nodeName": "Tri thức ngữ văn: Tiểu thuyết hiện đại & Phong cách hiện thực",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1_d1",
+    "lessonId": "nguvan12_t1_b1_d1",
+    "parentNodeId": "nguvan12_node_t1_b1",
+    "nodeName": "Đọc: Xuân Tóc Đỏ cứu quốc (Vũ Trọng Phụng)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1_d2",
+    "lessonId": "nguvan12_t1_b1_d2",
+    "parentNodeId": "nguvan12_node_t1_b1",
+    "nodeName": "Đọc: Mùa lá rụng trong vườn (Ma Văn Kháng)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1_v",
+    "lessonId": "nguvan12_t1_b1_v",
+    "parentNodeId": "nguvan12_node_t1_b1",
+    "nodeName": "Viết: Nghị luận so sánh, đánh giá hai tác phẩm truyện",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1_n",
+    "lessonId": "nguvan12_t1_b1_n",
+    "parentNodeId": "nguvan12_node_t1_b1",
+    "nodeName": "Nói và nghe: Trình bày kết quả so sánh truyện",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b1_thd",
+    "lessonId": "nguvan12_t1_b1_thd",
+    "parentNodeId": "nguvan12_node_t1_b1",
+    "nodeName": "Thực hành đọc: Trên xuồng cứu nạn (Y-an Ma-ten)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol1",
+    "nodeName": "Bài 2: Những thế giới thơ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_tt",
+    "lessonId": "nguvan12_t1_b2_tt",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Tri thức ngữ văn: Biểu tượng & Yếu tố siêu thực",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_d1",
+    "lessonId": "nguvan12_t1_b2_d1",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Đọc: Cảm hoài (Đặng Dung)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_d2",
+    "lessonId": "nguvan12_t1_b2_d2",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Đọc: Tây Tiến (Quang Dũng)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_d3",
+    "lessonId": "nguvan12_t1_b2_d3",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Đọc: Đàn ghi ta của Lor-ca (Thanh Thảo)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_v",
+    "lessonId": "nguvan12_t1_b2_v",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Viết: Nghị luận so sánh, đánh giá hai tác phẩm thơ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_n",
+    "lessonId": "nguvan12_t1_b2_n",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Nói và nghe: Trình bày kết quả so sánh thơ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b2_thd",
+    "lessonId": "nguvan12_t1_b2_thd",
+    "parentNodeId": "nguvan12_node_t1_b2",
+    "nodeName": "Thực hành đọc: Bài thơ số 28 (R. Ta-go)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol1",
+    "nodeName": "Bài 3: Lập luận trong văn bản nghị luận",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_tt",
+    "lessonId": "nguvan12_t1_b3_tt",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Tri thức ngữ văn: Các thao tác lập luận",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_d1",
+    "lessonId": "nguvan12_t1_b3_d1",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Đọc: Nhìn về vốn văn hoá dân tộc (Trần Đình Hượu)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_d2",
+    "lessonId": "nguvan12_t1_b3_d2",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Đọc: Năng lực sáng tạo (Phan Đình Diệu)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_d3",
+    "lessonId": "nguvan12_t1_b3_d3",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Đọc: Mấy ý nghĩ về thơ (Nguyễn Đình Thi)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_v",
+    "lessonId": "nguvan12_t1_b3_v",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Viết: Nghị luận về một vấn đề liên quan đến tuổi trẻ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_n",
+    "lessonId": "nguvan12_t1_b3_n",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Nói và nghe: Thuyết trình về một vấn đề của tuổi trẻ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b3_thd",
+    "lessonId": "nguvan12_t1_b3_thd",
+    "parentNodeId": "nguvan12_node_t1_b3",
+    "nodeName": "Thực hành đọc: Cảm hứng và sáng tạo (Nguyễn Trần Bạt)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol1",
+    "nodeName": "Bài 4: Yếu tố kì ảo trong truyện kể",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4_tt",
+    "lessonId": "nguvan12_t1_b4_tt",
+    "parentNodeId": "nguvan12_node_t1_b4",
+    "nodeName": "Tri thức ngữ văn: Truyện truyền kì & Yếu tố kì ảo",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4_d1",
+    "lessonId": "nguvan12_t1_b4_d1",
+    "parentNodeId": "nguvan12_node_t1_b4",
+    "nodeName": "Đọc: Hải khẩu linh từ (Đoàn Thị Điểm)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4_d2",
+    "lessonId": "nguvan12_t1_b4_d2",
+    "parentNodeId": "nguvan12_node_t1_b4",
+    "nodeName": "Đọc: Muối của rừng (Nguyễn Huy Thiệp)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4_v",
+    "lessonId": "nguvan12_t1_b4_v",
+    "parentNodeId": "nguvan12_node_t1_b4",
+    "nodeName": "Viết: Nghị luận về việc vay mượn - cải biến - sáng tạo",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4_n",
+    "lessonId": "nguvan12_t1_b4_n",
+    "parentNodeId": "nguvan12_node_t1_b4",
+    "nodeName": "Nói và nghe: Trình bày về việc vay mượn - cải biến - sáng tạo",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b4_thd",
+    "lessonId": "nguvan12_t1_b4_thd",
+    "parentNodeId": "nguvan12_node_t1_b4",
+    "nodeName": "Thực hành đọc: Bến trần gian (Lưu Sơn Minh)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol1",
+    "nodeName": "Bài 5: Tiếng cười của hài kịch",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5_tt",
+    "lessonId": "nguvan12_t1_b5_tt",
+    "parentNodeId": "nguvan12_node_t1_b5",
+    "nodeName": "Tri thức ngữ văn: Hài kịch & Thủ pháp trào phúng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5_d1",
+    "lessonId": "nguvan12_t1_b5_d1",
+    "parentNodeId": "nguvan12_node_t1_b5",
+    "nodeName": "Đọc: Nhân vật quan trọng (N. Gô-gôn)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5_d2",
+    "lessonId": "nguvan12_t1_b5_d2",
+    "parentNodeId": "nguvan12_node_t1_b5",
+    "nodeName": "Đọc: Giấu của (Lộng Chương)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5_v",
+    "lessonId": "nguvan12_t1_b5_v",
+    "parentNodeId": "nguvan12_node_t1_b5",
+    "nodeName": "Viết: Báo cáo nghiên cứu về một vấn đề tự nhiên hoặc xã hội",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5_n",
+    "lessonId": "nguvan12_t1_b5_n",
+    "parentNodeId": "nguvan12_node_t1_b5",
+    "nodeName": "Nói và nghe: Trình bày báo cáo kết quả nghiên cứu",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t1_b5_thd",
+    "lessonId": "nguvan12_t1_b5_thd",
+    "parentNodeId": "nguvan12_node_t1_b5",
+    "nodeName": "Thực hành đọc: Cẩn thận hão (Bô-mác-se)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nv12",
+    "nodeName": "Ngữ văn 12 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol2",
+    "nodeName": "Bài 6: Hồ Chí Minh - “Văn hoá phải soi đường cho quốc dân đi”",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_tt",
+    "lessonId": "nguvan12_t2_b6_tt",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Tri thức ngữ văn: Quan điểm sáng tác & Đánh giá tác giả",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_d1",
+    "lessonId": "nguvan12_t2_b6_d1",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Đọc: Tuyên ngôn Độc lập (Hồ Chí Minh)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_d2",
+    "lessonId": "nguvan12_t2_b6_d2",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Đọc: Mộ; Nguyên tiêu (Hồ Chí Minh)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_d3",
+    "lessonId": "nguvan12_t2_b6_d3",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Đọc: Những trò lố hay là Va-ren và Phan Bội Châu (Nguyễn Ái Quốc)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_v",
+    "lessonId": "nguvan12_t2_b6_v",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Viết: Báo cáo kết quả của bài tập dự án",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_n",
+    "lessonId": "nguvan12_t2_b6_n",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Nói và nghe: Trình bày kết quả của bài tập dự án",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b6_thd",
+    "lessonId": "nguvan12_t2_b6_thd",
+    "parentNodeId": "nguvan12_node_t2_b6",
+    "nodeName": "Thực hành đọc: Vọng nguyệt; Cảnh khuya (Hồ Chí Minh)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol2",
+    "nodeName": "Bài 7: Sự thật trong tác phẩm kí",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7_tt",
+    "lessonId": "nguvan12_t2_b7_tt",
+    "parentNodeId": "nguvan12_node_t2_b7",
+    "nodeName": "Tri thức ngữ văn: Phóng sự, Hồi kí & Ngôn ngữ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7_d1",
+    "lessonId": "nguvan12_t2_b7_d1",
+    "parentNodeId": "nguvan12_node_t2_b7",
+    "nodeName": "Đọc: Nghệ thuật băm thịt gà (Ngô Tất Tố)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7_d2",
+    "lessonId": "nguvan12_t2_b7_d2",
+    "parentNodeId": "nguvan12_node_t2_b7",
+    "nodeName": "Đọc: Bước vào đời (Đào Duy Anh)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7_v",
+    "lessonId": "nguvan12_t2_b7_v",
+    "parentNodeId": "nguvan12_node_t2_b7",
+    "nodeName": "Viết: Nghị luận về cách ứng xử trong gia đình, xã hội",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7_n",
+    "lessonId": "nguvan12_t2_b7_n",
+    "parentNodeId": "nguvan12_node_t2_b7",
+    "nodeName": "Nói và nghe: Trình bày quan điểm về cách ứng xử của tuổi trẻ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b7_thd",
+    "lessonId": "nguvan12_t2_b7_thd",
+    "parentNodeId": "nguvan12_node_t2_b7",
+    "nodeName": "Thực hành đọc: Vĩ tuyến 17 (Xuân Phượng)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol2",
+    "nodeName": "Bài 8: Dữ liệu trong văn bản thông tin",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_tt",
+    "lessonId": "nguvan12_t2_b8_tt",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Tri thức ngữ văn: Vai trò của dữ liệu & Quyền sở hữu trí tuệ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_d1",
+    "lessonId": "nguvan12_t2_b8_d1",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Đọc: Pa-ra-na (C. Lévi-Strauss)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_d2",
+    "lessonId": "nguvan12_t2_b8_d2",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Đọc: Giáo dục khai phóng ở Việt Nam (Nguyễn Nam)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_d3",
+    "lessonId": "nguvan12_t2_b8_d3",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Đọc: Đời muối (Mark Kurlansky)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_v",
+    "lessonId": "nguvan12_t2_b8_v",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Viết: Thư trao đổi về công việc hoặc vấn đề đáng quan tâm",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_n",
+    "lessonId": "nguvan12_t2_b8_n",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Nói và nghe: Tranh biện về một vấn đề đời sống",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b8_thd",
+    "lessonId": "nguvan12_t2_b8_thd",
+    "parentNodeId": "nguvan12_node_t2_b8",
+    "nodeName": "Thực hành đọc: Sách thay đổi lịch sử loài người (Vũ Đức Liêm)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9",
+    "lessonId": null,
+    "parentNodeId": "nguvan12_node_vol2",
+    "nodeName": "Bài 9: Văn học và cuộc đời",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_tt",
+    "lessonId": "nguvan12_t2_b9_tt",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Tri thức ngữ văn: Giá trị văn học, Chủ đề & Tư tưởng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_d1",
+    "lessonId": "nguvan12_t2_b9_d1",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Đọc: Vội vàng (Xuân Diệu)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_d2",
+    "lessonId": "nguvan12_t2_b9_d2",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Đọc: Trở về (E. Hemingway)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_d3",
+    "lessonId": "nguvan12_t2_b9_d3",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Đọc: Hồn Trương Ba, da hàng thịt (Lưu Quang Vũ)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_v",
+    "lessonId": "nguvan12_t2_b9_v",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Viết: Phát biểu trong lễ phát động phong trào xã hội",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_n",
+    "lessonId": "nguvan12_t2_b9_n",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Nói và nghe: Thuyết trình về cơ hội và thách thức của đất nước",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan12_node_t2_b9_thd",
+    "lessonId": "nguvan12_t2_b9_thd",
+    "parentNodeId": "nguvan12_node_t2_b9",
+    "nodeName": "Thực hành đọc: Khúc đồng quê (Đặng Thị Hạnh)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan12_node_examskill",
+    "lessonId": null,
+    "parentNodeId": "root_nv12",
+    "nodeName": "Ôn tập kỹ năng làm bài",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan12_node_examskill_docHieu2025",
+    "lessonId": "nguvan12_examskill_docHieu2025",
+    "parentNodeId": "nguvan12_node_examskill",
+    "nodeName": "Cấu trúc đề TN THPT 2025 - Phần Đọc hiểu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan12_node_examskill_viet2025",
+    "lessonId": "nguvan12_examskill_viet2025",
+    "parentNodeId": "nguvan12_node_examskill",
+    "nodeName": "Cấu trúc đề TN THPT 2025 - Phần Viết",
+    "orderIndex": 2
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "lessonId": "sinh11_b1",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Khái quát về trao đổi chất và chuyển hóa năng lượng. Ý chính: Vai trò của trao đổi chất và chuyển hóa năng lượng đối với sinh vật; các dấu hiệu đặc trưng; ba giai đoạn chuyển hóa năng lượng ở sinh giới; mối quan hệ giữa trao đổi chất và chuyển hóa năng lượng ở cấp tế bào và cơ thể; các phương thức dinh dưỡng (tự dưỡng và dị dưỡng). Kiến thức trọng tâm: Vai trò của trao đổi chất và chuyển hóa năng lượng gồm cung cấp nguyên liệu, năng lượng cho hoạt động sống và đào thải chất độc hại. Bốn dấu hiệu đặc trưng: tiếp nhận và vận chuyển các chất, biến đổi chất kèm chuyển hóa năng lượng ở tế bào, thải chất vào môi trường, điều hòa. Ba giai đoạn chuyển hóa năng lượng: (1) Tổng hợp (hấp thụ quang năng chuyển hóa thành hóa năng trong chất hữu cơ), (2) Phân giải (chuyển hóa chất hữu cơ phức tạp thành chất đơn giản, giải phóng năng lượng tích lũy dưới dạng ATP), (3) Huy động năng lượng (phân giải liên kết phosphate trong ATP để cung cấp cho các hoạt động sống). Tự dưỡng gồm quang tự dưỡng (sử dụng năng lượng ánh sáng và CO2) và hóa tự dưỡng (sử dụng hóa năng từ oxy hóa chất vô cơ H2S, NO2-, NH4+). Dị dưỡng lấy chất hữu cơ trực tiếp từ sinh vật khác. Từ khóa: Trao đổi chất, chuyển hóa năng lượng, quang tự dưỡng, hóa tự dưỡng, dị dưỡng, hệ thống mở, đồng hóa, dị hóa, ATP."
+  },
+  {
+    "lessonId": "sinh11_b2",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Trao đổi nước và khoáng ở thực vật. Ý chính: Vai trò của nước và chất khoáng đối với thực vật; quá trình hấp thụ nước và khoáng ở rễ; quá trình vận chuyển các chất trong cây (dòng mạch gỗ và dòng mạch rây); quá trình thoát hơi nước ở lá; dinh dưỡng nitrogen (vai trò, nguồn cung cấp và sự biến đổi trong thực vật); các nhân tố ảnh hưởng và ứng dụng thực tiễn trong nông nghiệp (tưới tiêu và bón phân hợp lí). Kiến thức trọng tâm: Nước chiếm 70-90% khối lượng tươi, làm dung môi, môi trường phản ứng, điều hòa nhiệt độ. Nguyên tố khoáng thiết yếu gồm đa lượng (N, P, K, Ca, Mg, S...) và vi lượng (Fe, Mn, Cl, Zn, Mo...). Hấp thụ nước ở tế bào lông hút của rễ diễn ra thụ động theo cơ chế thẩm thấu; hấp thụ khoáng theo cơ chế thụ động (khuếch tán) và chủ động (ngược gradient nồng độ, cần ATP). Hai con đường vận chuyển vào mạch gỗ rễ: gian bào (bị đai Caspary ở nội bì chặn lại để kiểm soát chất) và tế bào chất. Dòng mạch gỗ (tế bào chết quản bào và mạch ống) vận chuyển nước và khoáng từ rễ lên lá nhờ áp suất rễ, lực kéo của thoát hơi nước ở lá, lực liên kết giữa các phân tử nước. Dòng mạch rây (tế bào sống ống rây và tế bào kèm) vận chuyển chất hữu cơ (sucrose, amino acid) từ nguồn (lá) đến bồn chứa (rễ, củ, quả) nhờ chênh lệch áp suất thẩm thấu. Thoát hơi nước qua cutin và khí khổng (chủ yếu, điều tiết bởi sự trương nước của tế bào khí khổng dưới tác động của ánh sáng và stress/ABA). Dinh dưỡng nitrogen hấp thụ dạng NH4+ và NO3-; quá trình biến đổi gồm khử nitrate (NO3- -> NO2- -> NH4+ nhờ nitrate/nitrite reductase) và đồng hóa ammonium (NH4+ kết hợp keto acid tạo amino acid). Từ khóa: Lông hút, đai Caspary, mạch gỗ, mạch rây, thoát hơi nước, khí khổng, đạm, khử nitrate, đồng hóa ammonium, tưới tiêu bón phân hợp lí."
+  },
+  {
+    "lessonId": "sinh11_b3",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3: Thực hành: Trao đổi nước và khoáng ở thực vật. Ý chính: Các thí nghiệm chứng minh sự hút nước ở rễ, vận chuyển nước ở thân, thoát hơi nước ở lá; thực hành quan sát khí khổng, tưới nước chăm sóc cây và trồng cây thủy canh, khí canh. Kiến thức trọng tâm: Chứng minh rễ hút nước qua sự thay đổi mực nước trong ống nghiệm có rễ nguyên vẹn; chứng minh vận chuyển nước ở thân bằng cách cắm hoa trắng vào cốc nước màu, quan sát cánh hoa đổi màu và lát cắt cuống hoa; chứng minh thoát hơi nước ở lá bằng giấy tẩm cobalt chloride khô (màu xanh) kẹp vào 2 mặt lá (mặt dưới đổi màu hồng nhanh hơn do có nhiều khí khổng hơn); thực hành bóc biểu bì lá thải lài tía quan sát khí khổng dưới kính hiển vi; thực hành thủy canh và khí canh (trồng cây không cần đất, cung cấp dinh dưỡng dạng dung dịch hoặc phun sương). Từ khóa: Thí nghiệm, cobalt chloride, rễ hút nước, mạch dẫn, thủy canh, khí canh."
+  },
+  {
+    "lessonId": "sinh11_b4",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4: Quang hợp ở thực vật. Ý chính: Khái niệm và vai trò của quang hợp; hệ sắc tố quang hợp; quá trình quang hợp (pha sáng và pha tối ở thực vật C3, C4, CAM); ảnh hưởng của các yếu tố ngoại cảnh đến quang hợp; mối quan hệ giữa quang hợp và năng suất cây trồng. Kiến thức trọng tâm: Quang hợp là quá trình lục lạp sử dụng năng lượng ánh sáng để tổng hợp carbohydrate từ CO2 và nước, giải phóng O2: 6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O. Hệ sắc tố gồm diệp lục (chlorophyll a và b hấp thụ ánh sáng đỏ và xanh tím; diệp lục a ở trung tâm phản ứng trực tiếp chuyển quang năng thành hóa năng) và carotenoid (sắc tố phụ truyền năng lượng cho diệp lục a). Pha sáng (màng thylakoid) quang phân li nước: 2H2O -> 4H+ + 4e- + O2, tạo ATP, NADPH và giải phóng O2. Pha tối (chất nền stroma lục lạp) cố định CO2: (1) Thực vật C3 (chu trình Calvin) dùng chất nhận RuBP tạo sản phẩm ổn định 3-PGA; (2) Thực vật C4 (mía, ngô...) cố định CO2 tạm thời ở tế bào nhu mô thịt lá tạo chất 4 carbon OAA/malate, sau đó giải phóng CO2 cho chu trình Calvin ở tế bào bao bó mạch; (3) Thực vật CAM (xương rồng, dứa...) khí khổng đóng ban ngày, mở ban đêm để hấp thụ CO2 tạo axit hữu cơ dự trữ, ban ngày phân giải axit đó để cung cấp CO2 cho chu trình Calvin. Yếu tố ảnh hưởng: ánh sáng (điểm bù Iqb, điểm bão hòa Im), nồng độ CO2, nhiệt độ. Quang hợp quyết định 90-95% năng suất cây trồng. Từ khóa: Quang phân li nước, diệp lục, carotenoid, chu trình Calvin, thực vật C3, thực vật C4, thực vật CAM, năng suất cây trồng."
+  },
+  {
+    "lessonId": "sinh11_b5",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5: Thực hành: Quang hợp ở thực vật. Ý chính: Thực hành quan sát lục lạp, tách chiết sắc tố bằng phương pháp sắc kí giấy; các thí nghiệm chứng minh sự tạo thành tinh bột và sự thải oxygen trong quang hợp. Kiến thức trọng tâm: Quan sát lục lạp trong tế bào rong mái chèo; tách chiết sắc tố bằng dung môi hữu cơ (acetone 80%) và chấm lên bản sắc kí giấy chạy bằng hệ dung môi petroleum ether và ethanol (14:1) tách thành 4 vạch màu: carotenoid (vàng cam), xanthophyll (vàng), diệp lục a (xanh lục), diệp lục b (xanh lá mạ); chứng minh tạo tinh bột bằng cách che tối một phần lá khoai tây, sau khi chiếu sáng đem đun sôi trong cồn để tẩy diệp lục, nhỏ iodine thấy phần hở ra nắng hóa xanh tím; chứng minh thải oxygen bằng cách đặt cành rong đuôi chó trong phễu ngược dưới ống nghiệm chứa đầy nước, chiếu sáng thấy bọt khí sinh ra làm cạn nước và làm bùng cháy que đóm còn tàn đỏ. Từ khóa: Sắc kí giấy, tách sắc tố diệp lục, iodine thử tinh bột, rong đuôi chó thải khí oxygen."
+  },
+  {
+    "lessonId": "sinh11_b6",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 6: Hô hấp ở thực vật. Ý chính: Khái niệm và vai trò của hô hấp ở thực vật; các con đường hô hấp (hô hấp hiếu khí và lên men); các yếu tố ảnh hưởng đến hô hấp; ứng dụng của hô hấp vào thực tiễn (bảo quan nông sản và trồng trọt); mối quan hệ giữa quang hợp và hô hấp. Kiến thức trọng tâm: Hô hấp thực vật là quá trình phân giải chất hữu cơ phức tạp thành chất đơn giản, đồng thời tạo ra ATP và nhiệt năng: C6H12O6 + 6O2 -> 6CO2 + 6H2O + năng lượng. Hô hấp hiếu khí (khi có đủ O2) gồm 3 giai đoạn: (1) Đường phân (tế bào chất) tạo 2 pyruvate, 2 ATP, 2 NADH; (2) Chu trình Krebs (chất nền ti thể) oxi hóa pyruvate thành acetyl-CoA tạo CO2, ATP, NADH, FADH2; (3) Chuỗi truyền electron (màng trong ti thể) chuyển electron từ NADH, FADH2 đến O2 tạo nước và lượng lớn ATP (tổng cộng 30-32 ATP/glucose). Lên men (thiếu O2 do ngập úng, ngâm nước) gồm đường phân và lên men tạo ethanol hoặc lactate ở tế bào chất, chỉ tạo ra 2 ATP/glucose. Yếu tố ảnh hưởng: nước, nhiệt độ, hàm lượng O2, hàm lượng CO2 (nồng độ cao trên 35% ức chế hô hấp). Ứng dụng bảo quản nông sản: khống chế hô hấp ở mức tối thiểu bằng cách sấy khô (giảm nước), làm lạnh (giảm nhiệt độ), bơm khí trơ N2 hoặc CO2 (giảm O2, tăng CO2). Quang hợp và hô hấp liên hệ mật thiết, sản phẩm của quá trình này là nguyên liệu của quá trình kia. Từ khóa: Hô hấp hiếu khí, đường phân, chu trình Krebs, chuỗi truyền electron, lên men, bảo quản nông sản, hô hấp sáng."
+  },
+  {
+    "lessonId": "sinh11_b7",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 7: Thực hành: Hô hấp ở thực vật. Ý chính: Thực hành thí nghiệm chứng minh quá trình hô hấp của hạt nảy mầm giải phóng khí carbon dioxide (CO2). Kiến thức trọng tâm: Thí nghiệm dựa trên nguyên lí khí CO2 sinh ra từ hô hấp tác dụng với nước vôi trong Ca(OH)2 tạo kết tủa trắng CaCO3. Tiến hành cho hạt đậu ẩm nảy mầm vào bình thủy tinh úp chuông thủy tinh A chứa cốc nước vôi trong; chuông B đối chứng chứa cốc nước vôi tương tự nhưng không có hạt nảy mầm hoặc hạt đã luộc chín. Sau 1 giờ, cốc nước vôi ở chuông A bị vẩn đục rõ rệt và xuất hiện lớp váng đục bề mặt, trong khi chuông B vẫn giữ trong suốt. Từ khóa: Hạt nảy mầm hô hấp, giải phóng CO2, vẩn đục nước vôi trong."
+  },
+  {
+    "lessonId": "sinh11_b8",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 8: Dinh dưỡng và tiêu hoá ở động vật. Ý chính: Khái niệm quá trình dinh dưỡng (lấy thức ăn, tiêu hóa, hấp thụ, đồng hóa); các kiểu lấy thức ăn; các hình thức tiêu hóa ở các nhóm động vật (tiêu hóa nội bào, tiêu hóa ngoại bào ở động vật có túi và ống tiêu hóa); cấu tạo hệ tiêu hóa và quá trình tiêu hóa ở người; ứng dụng xây dựng chế độ ăn uống khoa học, vai trò thực phẩm sạch và phòng tránh bệnh tiêu hóa. Kiến thức trọng tâm: Quá trình dinh dưỡng gồm lấy thức ăn -> tiêu hóa thức ăn -> hấp thụ chất dinh dưỡng -> đồng hóa và sử dụng chất dinh dưỡng. Lấy thức ăn gồm ăn lọc (trai), ăn hút (muỗi), ăn thức ăn rắn (hổ, voi). Tiêu hóa nội bào bằng không bào tiêu hóa (động vật đơn bào). Tiêu hóa ngoại bào trong túi tiêu hóa kết hợp nội bào (thủy tức). Tiêu hóa cơ học và hóa học trong ống tiêu hóa (động vật có xương sống). Hệ tiêu hóa người gồm ống tiêu hóa (miệng, thực quản, dạ dày, ruột non, ruột già) và tuyến tiêu hóa (tuyến nước bọt, gan, tụy). Tiêu hóa hóa học và hấp thụ chất dinh dưỡng chủ yếu diễn ra ở ruột non nhờ diện tích hấp thụ cực lớn (250-300 m2) do các nếp gấp, lông ruột và vi nhung mao; enzyme phân giải carbohydrate thành đường đơn, protein thành amino acid, lipid thành acid béo và glycerol. Xây dựng chế độ ăn đầy đủ năng lượng, cân đối dinh dưỡng; phòng các bệnh tiêu hóa (viêm loét dạ dày, tiêu chảy). Từ khóa: Tiêu hóa nội bào, ngoại bào, túi tiêu hóa, ống tiêu hóa, vi nhung mao, hấp thụ ruột non, chế độ ăn khoa học, thực phẩm sạch."
+  },
+  {
+    "lessonId": "sinh11_b9",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 9: Hô hấp ở động vật. Ý chính: Vai trò của hô hấp ở động vật; các hình thức trao đổi khí (qua bề mặt cơ thể, hệ thống ống khí, mang, phổi); các bệnh về đường hô hấp và tác hại của khói thuốc lá; lợi ích của luyện tập thể dục thể thao đối với hệ hô hấp. Kiến thức trọng tâm: Hô hấp lấy O2 cung cấp cho hô hấp tế bào tạo năng lượng và thải khí CO2 ra ngoài. Quá trình hô hấp ở người và thú gồm 5 giai đoạn: thông khí, trao đổi khí ở phổi, vận chuyển khí, trao đổi khí ở mô, hô hấp tế bào. Bốn hình thức trao đổi khí: (1) Qua bề mặt cơ thể (da ẩm ướt nhiều mạch máu như giun đất, lưỡng cư); (2) Qua hệ thống ống khí (côn trùng, ống khí phân nhánh nhỏ đến tận tế bào, thông khí nhờ co dãn khoang thân); (3) Qua mang (cá, phiến mang mỏng nhiều mao mạch, có dòng chảy song song ngược chiều tối ưu hấp thụ O2 hòa tan đạt hiệu suất 80%); (4) Qua phổi (thú có phế nang diện tích lớn; chim có hệ thống túi khí trước/sau dẫn dòng khí đi qua phổi một chiều luôn giàu O2 cả khi hít vào và thở ra, không có khí cặn). Khói thuốc chứa nicotin (gây nghiện), CO (giảm vận chuyển O2), hắc ín (gây ung thư, liệt lông rung dẫn khí). Tập thể thao làm tăng dung tích sống và lưu lượng khí. Từ khóa: Bề mặt trao đổi khí, hệ thống ống khí, dòng chảy ngược chiều, phế nang, túi khí ở chim, khí cặn, nicotin, thông khí phổi."
+  },
+  {
+    "lessonId": "sinh11_b10",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 10: Tuần hoàn ở động vật. Ý chính: Khái niệm hệ tuần hoàn; các dạng hệ tuần hoàn (hở và kín, tuần hoàn đơn và tuần hoàn kép); cấu tạo và hoạt động của tim (tính tự động, chu kì tim); cấu tạo và hoạt động của hệ mạch (huyết áp, vận tốc máu, trao đổi chất ở mao mạch); điều hòa hoạt động tim mạch; ứng dụng và phòng tránh bệnh tim mạch. Kiến thức trọng tâm: Hệ tuần hoàn gồm dịch tuần hoàn (máu/dịch mô), tim (bơm), hệ mạch. Hệ tuần hoàn hở (chân khớp, thân mềm): không có mao mạch, máu trộn lẫn dịch mô tiếp xúc trực tiếp tế bào, áp lực thấp, vận tốc chậm. Hệ tuần hoàn kín (giun đất, có xương sống): có mao mạch kết nối động-tĩnh mạch, áp lực cao, vận tốc nhanh; gồm tuần hoàn đơn (cá, tim 2 buồng, 1 vòng tuần hoàn) và tuần hoàn kép (lưỡng cư, bò sát, thú, có 2 vòng tuần hoàn). Tim người 4 buồng hoạt động tự động nhờ hệ dẫn truyền tim (nút xoang nhĩ -> nút nhĩ thất -> bó His -> mạng Purkinje). Chu kì tim người trưởng thành kéo dài 0,8 s (co tâm nhĩ 0,1 s, co tâm thất 0,3 s, dãn chung 0,4 s; nhịp tim ~75 lần/phút). Huyết áp là áp lực máu lên thành mạch, giảm dần từ động mạch chủ -> động mạch -> mao mạch -> tĩnh mạch; huyết áp tối đa (tâm thu) 110-120 mmHg, tối thiểu (tâm trương) 70-80 mmHg. Vận tốc máu tỉ lệ nghịch với tổng tiết diện mạch (chậm nhất ở mao mạch để trao đổi chất). Điều hòa bằng thần kinh giao cảm/phó giao cảm và thể dịch (adrenaline làm tăng huyết áp). Từ khóa: Tuần hoàn hở, tuần hoàn kín, tuần hoàn kép, hệ dẫn truyền tim, chu kì tim, huyết áp, vận tốc máu, mao mạch trao đổi chất."
+  },
+  {
+    "lessonId": "sinh11_b11",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 11: Thực hành: Một số thí nghiệm về hệ tuần hoàn. Ý chính: Thực hành bắt mạch cổ tay đếm nhịp tim ở trạng thái nghỉ ngơi và sau hoạt động; đo huyết áp bằng huyết áp kế điện tử; các thí nghiệm trên tim ếch (tìm hiểu tính tự động, vai trò dây thần kinh phế vị giao cảm/đối giao cảm, tác động của adrenaline). Kiến thức trọng tâm: Đếm nhịp tim bằng 3 ngón tay đặt lên động mạch cổ tay trong 1 phút, nhịp tim tăng mạnh sau khi chạy tại chỗ 2 phút; đo huyết áp bằng máy điện tử ghi nhận trị số tâm thu, tâm trương; mổ lộ tim ếch, tim tách rời cơ thể vẫn đập nhịp nhàng trong dung dịch sinh lý (tính tự động); kích thích dây thần kinh giao cảm làm tim đập nhanh mạnh, kích thích dây đối giao cảm làm tim đập chậm yếu hoặc dừng; nhỏ adrenaline lên tim làm tim đập nhanh và mạnh hơn. Từ khóa: Nhịp tim, huyết áp kế, tim ếch, tính tự động, dây thần kinh giao cảm, adrenaline."
+  },
+  {
+    "lessonId": "sinh11_b12",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 12: Miễn dịch ở người và động vật. Ý chính: Các nguyên nhân gây bệnh (vật lí, hóa học, sinh học); khái niệm miễn dịch; miễn dịch không đặc hiệu; miễn dịch đặc hiệu (miễn dịch dịch thể và miễn dịch tế bào); đáp ứng miễn dịch nguyên phát/thứ phát và vai trò của vaccine; dị ứng; các bệnh suy giảm miễn dịch (AIDS), ung thư, tự miễn. Kiến thức trọng tâm: Nguyên nhân gây bệnh gồm tác nhân bên ngoài (vi khuẩn, virus, hóa chất) và bên trong (di truyền, tuổi già). Miễn dịch không đặc hiệu (bẩm sinh, tự nhiên) chống lại mọi tác nhân mầm bệnh đồng đều qua hàng rào da, niêm mạc, lysozyme dịch tiết, axit dạ dày và các đáp ứng thực bào, phản ứng viêm (giải phóng histamine giãn mạch), sốt (tăng nhiệt độ ức chế khuẩn, tăng thực bào), hệ thống bổ thể/interferon. Miễn dịch đặc hiệu (thích ứng) có tính đặc hiệu và trí nhớ miễn dịch: (1) Miễn dịch dịch thể: tế bào B hoạt hóa (nhờ tế bào T hỗ trợ) biệt hóa thành tương bào tiết kháng thể giải phóng vào máu liên kết đặc hiệu kháng nguyên để vô hiệu hóa mầm bệnh, đồng thời tạo tế bào B nhớ; (2) Miễn dịch tế bào: tế bào T độc hoạt hóa nhận diện trình diện kháng nguyên, tiết chất phân hủy trực tiếp tế bào nhiễm mầm bệnh hoặc tế bào ung thư, tạo tế bào T nhớ. Đáp ứng thứ phát (tiếp xúc lại kháng nguyên nhờ tế bào nhớ) nhanh, mạnh, kéo dài hơn đáp ứng nguyên phát. Vaccine chứa kháng nguyên đã suy yếu/bất hoạt giúp chủ động tạo tế bào nhớ. Dị ứng là phản ứng quá mức của hệ miễn dịch giải phóng lượng lớn histamine gây viêm, ngứa, co thắt phế quản. Bệnh tự miễn do hệ miễn dịch tấn công chính tế bào lành cơ thể (tiểu đường type I). AIDS do virus HIV phá hủy tế bào T hỗ trợ gây suy giảm miễn dịch nghiêm trọng. Từ khóa: Thực bào, viêm, sốt, kháng nguyên, kháng thể, miễn dịch dịch thể, miễn dịch tế bào, tương bào, tế bào T độc, vaccine, dị ứng, bệnh tự miễn, AIDS."
+  },
+  {
+    "lessonId": "sinh11_b13",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 1: Trao đổi chất và chuyển hóa năng lượng ở sinh vật",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 13: Bài tiết và cân bằng nội môi. Ý chính: Khái niệm và vai trò của bài tiết; cấu tạo thận và quá trình tạo nước tiểu của nephron (lọc, tái hấp thụ, tiết); khái niệm cân bằng nội môi và cơ chế điều hòa; vai trò của thận, gan, phổi trong duy trì hằng số nội môi; các biện pháp bảo vệ thận và tầm quan trọng của xét nghiệm sinh hóa định kì. Kiến thức trọng tâm: Bài tiết loại bỏ chất thải chuyển hóa ra ngoài (phổi thải CO2; da thải mồ hôi chứa muối, urea; thận thải nước tiểu chứa urea, uric acid; tiêu hóa thải bilirubin). Thận chứa khoảng 1 triệu nephron (nang Bowman, cầu thận, ống thận). Quá trình tạo nước tiểu: (1) Lọc ở cầu thận: áp lực máu đẩy nước và chất hòa tan nhỏ vào nang Bowman tạo nước tiểu đầu; (2) Tái hấp thụ ở ống thận: ống thận giữ lại hầu hết nước, glucose, Na+ đưa về máu; (3) Tiết ở ống thận: chủ động tiết chất độc, ion dư H+, K+ vào ống thận tạo nước tiểu chính thức. Cân bằng nội môi duy trì sự ổn định môi trường trong (huyết áp, pH, áp suất thẩm thấu). Sơ đồ điều hòa ngược: Thụ thể tiếp nhận -> Trung ương điều khiển (thần kinh/nội tiết) -> Cơ quan thực hiện. Thận điều hòa nước, muối, pH. Gan điều hòa đường huyết (insulin kích thích gan chuyển glucose thành glycogen khi đường huyết cao; glucagon kích thích phân giải glycogen thành glucose khi đường huyết thấp). Phổi thải CO2 điều hòa pH. Bảo vệ thận bằng cách uống đủ 1,5-2 lít nước/ngày, ăn giảm muối, hạn chế rượu bia; xét nghiệm sinh hóa định kì phát hiện sớm chỉ số bất thường. Từ khóa: Nephron, lọc cầu thận, nước tiểu đầu, tái hấp thụ, cân bằng nội môi, điều hòa ngược, gan điều hòa đường huyết, xét nghiệm định kì."
+  },
+  {
+    "lessonId": "sinh11_b14",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 2: Cảm ứng ở sinh vật",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 14: Khái quát về cảm ứng ở sinh vật. Ý chính: Định nghĩa cảm ứng ở sinh vật; vai trò của cảm ứng đối với sự sinh tồn; cơ chế cảm ứng chung ở thực vật và động vật. Kiến thức trọng tâm: Cảm ứng là sự tiếp nhận và phản ứng của sinh vật đối với những thay đổi của môi trường (kích thích), đảm bảo cho sinh vật thích nghi và tồn tại. Thực vật cảm ứng chậm, khó nhận thấy bằng mắt thường (hướng sáng, khép lá cây trinh nữ). Động vật cảm ứng nhanh, đa dạng, dễ nhận biết nhờ hệ thần kinh. Cơ chế cảm ứng gồm 3 bộ phận: Tiếp nhận kích thích (thụ thể, cơ quan cảm giác) -> Dẫn truyền thông tin (thần kinh/tế bào chất) -> Trả lời kích thích (bộ phận phản ứng: cơ, tuyến hoặc thay đổi sinh trưởng tế bào). Từ khóa: Kích thích, thụ thể, tiếp nhận, dẫn truyền, trả lời, thích nghi."
+  },
+  {
+    "lessonId": "sinh11_b15",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 2: Cảm ứng ở sinh vật",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 15: Cảm ứng ở thực vật. Ý chính: Các hình thức cảm ứng ở thực vật gồm hướng động và ứng động; cơ chế hướng động và ứng động ở tế bào thực vật; các ứng dụng cảm ứng thực vật trong sản xuất nông nghiệp. Kiến thức trọng tâm: Hướng động (vận động định hướng) phản ứng trước kích thích từ một hướng xác định, gồm: hướng sáng dương (ngọn thân mọc về nguồn sáng do auxin tập trung nhiều ở phía tối làm tế bào phía tối dãn dài nhanh hơn); hướng hóa dương/âm (rễ mọc về nguồn phân bón, tránh xa chất độc); hướng nước dương; hướng trọng lực dương (rễ mọc xuống theo chiều trọng lực, thân mọc ngược lại); hướng tiếp xúc (thân leo quấn cọc bám do tế bào phía tiếp xúc dãn dài chậm hơn). Ứng động (vận động cảm ứng) phản ứng trước kích thích không định hướng, gồm: (1) Ứng động không sinh trưởng (biến đổi nhanh sức trương nước tế bào như cụp lá trinh nữ khi va chạm, đóng bẫy cây bắt mồi); (2) Ứng động sinh trưởng (sinh trưởng không đều ở hai mặt cơ quan do ánh sáng, nhiệt độ như nở khép hoa mười giờ, hoa bồ công anh, ngủ chồi theo mùa). Ứng dụng bón phân dưới sâu kích thích rễ mọc sâu; làm giàn cho cây leo; chiếu sáng/sưởi ấm kích thích hoa nở sớm; làm lạnh kéo dài thời gian ngủ của hạt. Từ khóa: Hướng động, auxin dãn dài tế bào, hướng sáng dương, hướng trọng lực dương, ứng động không sinh trưởng, trương nước, ứng động sinh trưởng, kích thích hoa nở."
+  },
+  {
+    "lessonId": "sinh11_b16",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 2: Cảm ứng ở sinh vật",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 16: Thực hành: Cảm ứng ở thực vật. Ý chính: Thực hành các thí nghiệm chứng minh tính hướng sáng, hướng trọng lực và hướng hóa ở thực vật. Kiến thức trọng tâm: Thí nghiệm chứng minh hướng sáng bằng cách gieo hạt đậu trong cốc cát ẩm, đặt trong hộp giấy kín có đục lỗ một bên, sau 5-7 ngày ngọn cây mọc cong về phía lỗ có ánh sáng; thí nghiệm chứng minh hướng trọng lực bằng cách gắn hạt ngô nảy mầm trên dải băng dính theo các hướng khác nhau rồi đặt trong ống đong chứa nước, sau 3-5 ngày rễ luôn mọc hướng xuống dưới và thân mọc hướng lên trên; thí nghiệm chứng minh hướng hóa bằng cách gieo hạt ngô trong cốc thủy tinh, đặt một ít phân NPK vào một góc của cốc, sau 7-10 ngày thấy rễ cây mọc uốn cong rõ rệt về phía có phân bón. Từ khóa: Hộp giấy đục lỗ, hạt ngô nảy mầm, phân NPK, rễ hướng hóa."
+  },
+  {
+    "lessonId": "sinh11_b17",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 2: Cảm ứng ở sinh vật",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 17: Cảm ứng ở động vật. Ý chính: Các hình thức cảm ứng ở các nhóm động vật (hệ thần kinh lưới, chuỗi hạch, hệ thần kinh ống); cấu tạo và chức năng của tế bào thần kinh (neuron); cơ chế lan truyền xung thần kinh; cấu tạo synapse và truyền tin qua synapse hóa học; phản xạ và cung phản xạ; các thụ thể cảm giác và vai trò của các cơ quan cảm giác; phân biệt phản xạ không điều kiện và phản xạ có điều kiện; một số bệnh hệ thần kinh và cơ chế giảm đau của thuốc. Kiến thức trọng tâm: Thần kinh lưới (ruột khoang) kích thích tại một điểm làm cả cơ thể co lại tiêu tốn năng lượng. Thần kinh chuỗi hạch (giun, chân khớp) tế bào tập trung thành các hạch, phản ứng cục bộ chính xác hơn. Thần kinh ống (có xương sống) gồm thần kinh trung ương (não, tủy sống) và ngoại biên (dây thần kinh). Neuron gồm thân, sợi nhánh (nhận tin), sợi trục (truyền xung, có/không bao myelin). Xung thần kinh là điện thế hoạt động (đảo cực, khử cực, tái phân cực); lan truyền nhảy cóc qua eo Ranvier trên sợi có bao myelin (vận tốc đạt 120 m/s). Synapse là diện tiếp xúc giữa hai neuron hoặc neuron và tế bào cơ; synapse hóa học chứa chùy synapse (túi acetylcholine), khe synapse và màng sau chứa thụ thể; xung thần kinh làm giải phóng acetylcholine khuếch tán qua khe đến gắn thụ thể màng sau gây xuất hiện điện thế hoạt động, truyền tin 1 chiều. Phản xạ là phản ứng cơ thể trả lời kích thích qua hệ thần kinh; cung phản xạ gồm 5 bộ phận: thụ thể -> neuron hướng tâm -> tủy sống/não -> neuron li tâm -> cơ/tuyến. Thụ thể cảm giác gồm cơ học, hóa học, điện từ, nhiệt, đau. Phản xạ không điều kiện bẩm sinh, di truyền, bền vững, trung ương ở tủy sống. Phản xạ có điều kiện học tập, dễ mất nếu không củng cố, trung ương ở vỏ não (thí nghiệm chuông tiết nước bọt chó của Pavlov). Thuốc giảm đau (morphin) phong tỏa thụ thể màng sau synapse ngăn truyền tin đau lên não. Từ khóa: Thần kinh dạng ống, neuron, bao myelin, eo Ranvier, synapse hóa học, acetylcholine, phản xạ có điều kiện, cung phản xạ, morphine giảm đau."
+  },
+  {
+    "lessonId": "sinh11_b18",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 2: Cảm ứng ở sinh vật",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 18: Tập tính ở động vật. Ý chính: Khái niệm và vai trò của tập tính; phân loại tập tính bẩm sinh và tập tính học được; một số dạng tập tính phổ biến ở động vật (kiếm ăn, bảo vệ lãnh thổ, sinh sản, di cư, xã hội); vai trò của pheromone; các hình thức học tập chủ yếu ở động vật (quen nhờn, in vết, học không gian, học liên hệ, học xã hội, nhận thức); ứng dụng hiểu biết tập tính trong đời sống và nông nghiệp. Kiến thức trọng tâm: Tập tính là chuỗi hoạt động của động vật trả lời kích thích môi trường để sinh tồn và phát triển. Tập tính bẩm sinh sinh ra đã có, di truyền, đặc trưng loài, bền vững (nhện dệt lưới). Tập tính học được hình thành trong đời sống qua học tập, rút kinh nghiệm, không di truyền (thú tránh bẫy). Tập tính phổ biến: kiếm ăn, bảo vệ lãnh thổ (đái đánh dấu), sinh sản, di cư (tránh rét), xã hội (sống bầy đàn có thứ bậc và vị tha như kiến, ong). Pheromone là chất hóa học do động vật tiết ra gây đáp ứng cụ thể ở cá thể cùng loài (dẫn đường, thu hút bạn tình). Các hình thức học tập: (1) Quen nhờn (lờ đi kích thích lặp lại không nguy hiểm); (2) In vết (con non đi theo vật chuyển động đầu tiên thấy sau nở); (3) Học không gian; (4) Học liên hệ: điều kiện hóa đáp ứng (Pavlov - chuông và ăn) và điều kiện hóa hành động (Skinner - nhấn bàn đạp có thức ăn); (5) Học xã hội (bắt chước hành vi); (6) Nhận thức và giải quyết vấn đề (tinh tinh xếp thùng lấy chuối). Ứng dụng dạy thú xiếc, dùng chó nghiệp vụ, bẫy côn trùng bằng pheromone, bện bù nhìn đuổi chim phá mùa màng. Từ khóa: Tập tính bẩm sinh, tập tính học được, tập tính xã hội, pheromone, quen nhờn, in vết, điều kiện hóa Pavlov/Skinner, giải quyết vấn đề."
+  },
+  {
+    "lessonId": "sinh11_b19",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 3: Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 19: Khái quát về sinh trưởng và phát triển ở sinh vật. Ý chính: Khái niệm sinh trưởng và phát triển ở sinh vật; mối quan hệ biện chứng giữa sinh trưởng và phát triển; khái niệm vòng đời và tuổi thọ của sinh vật; các nhân tố ảnh hưởng và biện pháp nâng cao tuổi thọ con người. Kiến thức trọng tâm: Sinh trưởng là sự tăng kích thước và khối lượng cơ thể do tăng số lượng và kích thước tế bào. Phát triển là toàn bộ những biến đổi diễn ra trong chu kỳ sống của cá thể, bao gồm sinh trưởng, phân hóa tế bào và phát sinh hình thái cơ quan. Sinh trưởng tạo tiền đề cho phát triển; phát triển thúc đẩy sinh trưởng và biến đổi về chất. Vòng đời (chu kỳ sống) là khoảng thời gian tính từ khi cơ thể sinh ra, phát triển, sinh sản tạo thế hệ mới đến khi già và chết. Tuổi thọ là thời gian sống của một sinh vật. Ở người, tuổi thọ bị chi phối bởi gen di truyền (bên trong) và chế độ ăn uống, rèn luyện, môi trường sống (bên ngoài); nâng cao tuổi thọ nhờ lối sống lành mạnh, tập thể dục, bảo vệ môi trường sạch. Từ khóa: Sinh trưởng, phát triển, phân hóa tế bào, vòng đời, tuổi thọ, lối sống lành mạnh."
+  },
+  {
+    "lessonId": "sinh11_b20",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 3: Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 20: Sinh trưởng và phát triển ở thực vật. Ý chính: Ảnh hưởng của các yếu tố môi trường (nước, ánh sáng, nhiệt độ, chất khoáng); khái niệm và vị trí của các loại mô phân sinh (mô phân sinh đỉnh và mô phân sinh bên); phân biệt sinh trưởng sơ cấp và sinh trưởng thứ cấp; các loại hormone thực vật (nhóm kích thích và nhóm ức chế sinh trưởng); tương quan hormone thực vật; quá trình phát triển ở thực vật có hoa và các nhân tố chi phối (quang chu kì, sự xuân hóa); ứng dụng thực tiễn. Kiến thức trọng tâm: Yếu tố môi trường: nước quyết định dãn dài tế bào; ánh sáng điều khiển quang hợp, ra hoa; nhiệt độ tối ưu 20-30oC; chất khoáng thiết yếu (thiếu canxi gây thối quả cà chua). Mô phân sinh là tế bào chưa phân hóa có khả năng phân chia: (1) Mô phân sinh đỉnh (ngọn thân, chóp rễ) giúp tăng chiều dài (sinh trưởng sơ cấp); (2) Mô phân sinh bên (tầng sinh mạch, tầng sinh bần) giúp thân rễ tăng đường kính (sinh trưởng thứ cấp tạo vòng gỗ hàng năm giúp tính tuổi cây ở cây hai lá mầm). Hormone thực vật gồm: (1) Nhóm kích thích: Auxin (IAA - dãn dài tế bào, hướng động, ưu thế đỉnh, ra rễ); Gibberellin (GA - dãn dài thân lóng làm thân cao vọt, nảy mầm hạt, tạo quả không hạt); Cytokinin (phân chia tế bào, kích chồi bên, chậm già hóa); (2) Nhóm ức chế: Abscisic acid (ABA - đóng khí khổng khi hạn, ngủ hạt/chồi); Ethylene (dạng khí - chín quả, rụng lá, hoa). Tương quan hormone (Auxin/Cytokinin) điều khiển tạo rễ/chồi trong nuôi cấy mô. Phát triển hoa chi phối bởi: tuổi của cây, hormone và yếu tố bên ngoài gồm quang chu kì (cây ngày ngắn như cúc, cây ngày dài như thanh long, cây trung tính như cà chua) và sự xuân hóa (ra hoa sau giai đoạn nhiệt độ thấp kéo dài như bắp cải). Ứng dụng phá ngủ hạt giống bằng GA, thắp đèn ban đêm cho thanh long ra hoa trái vụ. Từ khóa: Mô phân sinh đỉnh, sinh trưởng sơ cấp, sinh trưởng thứ cấp, auxin, gibberellin, cytokinin, axit abscisic, ethylene, quang chu kì, xuân hóa, thắp đèn thanh long."
+  },
+  {
+    "lessonId": "sinh11_b21",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 3: Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 21: Thực hành: Bấm ngọn, tỉa cành, tính tuổi cây. Ý chính: Thực hành các kỹ thuật bấm ngọn, tỉa cành; thực hành đánh giá ảnh hưởng của hormone sinh trưởng (alpha-NAA); thực hành xác định tuổi của cây thân gỗ qua đếm vòng gỗ. Kiến thức trọng tâm: Bấm ngọn cây rau ăn lá (rau muống, mồng tơi) để loại bỏ ưu thế đỉnh, kích thích chồi bên phát triển tạo nhiều nhánh non; tỉa cành sâu bệnh để tập trung dinh dưỡng nuôi cành chính; thực hành pha alpha-NAA (auxin ngoại sinh) ở các nồng độ 25 ppm, 75 ppm, 150 ppm phun lên cây vừng để theo dõi sự thay đổi chiều cao, số lá, số hoa và quả; tính tuổi cây bằng cách chà mịn mặt cắt ngang thân gỗ bằng giấy nhám và đếm vòng gỗ đồng tâm; mỗi năm cây tạo 1 vòng gỗ gồm vòng sáng (mùa mưa mọc nhanh) và vòng tối (mùa khô mọc chậm), đếm số vòng tối để xác định tuổi cây. Từ khóa: Bấm ngọn chồi bên, ưu thế đỉnh, alpha-NAA, vòng gỗ đồng tâm, vòng sáng vòng tối."
+  },
+  {
+    "lessonId": "sinh11_b22",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 3: Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 22: Sinh trưởng và phát triển ở động vật. Ý chính: Đặc điểm và các giai đoạn sinh trưởng, phát triển (giai đoạn phôi và hậu phôi); phân biệt ba hình thức phát triển hậu phôi (không qua biến thái, qua biến thái hoàn toàn và qua biến thái không hoàn toàn); vai trò của các hormone điều hòa sinh trưởng, phát triển (GH, thyroxine, estrogen, testosterone, ecdysone, juvenile); đặc điểm sinh lí, tâm lí tuổi dậy thì ở người; các nhân tố bên ngoài ảnh hưởng và ứng dụng thực tiễn. Kiến thức trọng tâm: Giai đoạn phôi (trong trứng/tử cung mẹ) từ hợp tử phân cắt -> phôi vị -> tạo cơ quan. Giai đoạn hậu phôi (sau sinh/nở) gồm: (1) Không qua biến thái (người, thú): con non sinh ra có hình thái tương tự trưởng thành, chỉ tăng kích thước; (2) Biến thái hoàn toàn (lưỡng cư, bướm): ấu trùng (sâu bướm, nòng nọc) rất khác trưởng thành, trải qua giai đoạn trung gian (nhộng) biến đổi sâu sắc; (3) Biến thái không hoàn toàn (châu chấu, gián): ấu trùng gần giống trưởng thành, chưa hoàn thiện cơ quan sinh sản, qua nhiều lần lột xác để hóa trưởng thành. Hormone động vật có xương sống: GH (tuyến yên) kích thích xương dài ra; thyroxine (tuyến giáp, chứa iodine) kích thích chuyển hóa tế bào, kích biến thái nòng nọc thành ếch; estrogen (nữ) và testosterone (nam) kích phát triển cơ quan sinh dục và đặc điểm phụ tuổi dậy thì. Hormone côn trùng: ecdysone kích lột xác và biến thái; juvenile phối hợp ecdysone kích lột xác nhưng giữ sâu luôn ở dạng ấu trùng. Tuổi dậy thì ở người (11 tuổi nữ, 12 tuổi nam) do tăng tiết hormone sinh dục bộc lộ các thay đổi lớn về thể chất và tâm lí. Nhân tố bên ngoài: thức ăn (quan trọng nhất, thiếu vitamin D gây còi xương ở trẻ), nhiệt độ. Từ khóa: Biến thái hoàn toàn, biến thái không hoàn toàn, lột xác, hormone GH, thyroxine hóa ếch, ecdysone, juvenile, tuổi dậy thì."
+  },
+  {
+    "lessonId": "sinh11_b23",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 3: Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 23: Thực hành: Quan sát quá trình biến thái ở động vật. Ý chính: Thực hành quan sát và mô tả các giai đoạn biến thái ở bướm và ếch thông qua mẫu vật thực tế, tranh ảnh hoặc video. Kiến thức trọng tâm: Quan sát biến thái ở bướm nhận biết hình dạng sâu bướm (gây hại mạnh cho cây trồng), nhộng bướm (giai đoạn trung gian tĩnh lặng biến đổi cơ quan) và bướm trưởng thành (hút mật hoa, thụ phấn); quan sát biến thái ở ếch nhận biết trứng ếch thụ tinh -> nòng nọc dưới nước (thở bằng mang, có đuôi) -> nòng nọc mọc chân sau, chân trước -> ếch con tiêu đuôi, thở bằng phổi và da lên cạn. Từ khóa: Sâu bướm, nhộng bướm, bướm trưởng thành, nòng nọc mọc chân, ếch tiêu đuôi."
+  },
+  {
+    "lessonId": "sinh11_b24",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 4: Sinh sản ở sinh vật",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 24: Khái quát về sinh sản ở sinh vật. Ý chính: Định nghĩa sinh sản; phân biệt hai hình thức sinh sản chính (sinh sản vô tính và sinh sản hữu tính); các dấu hiệu đặc trưng của sinh sản; vai trò của sinh sản đối với sự sinh tồn của loài và tiến hóa của sinh giới. Kiến thức trọng tâm: Sinh sản là quá trình tạo ra cá thể mới đảm bảo sự phát triển liên tục của loài. Phân biệt: (1) Sinh sản vô tính: tạo cơ thể mới giống hệt cá thể mẹ, không có sự kết hợp giao tử đực và cái, dựa trên cơ sở nguyên phân; (2) Sinh sản hữu tính: có sự kết hợp giữa giao tử đực (tinh trùng) và giao tử cái (trứng) tạo hợp tử (2n), dựa trên cơ sở giảm phân, thụ tinh và nguyên phân. Sinh sản hữu tính tạo ra các cá thể con đa dạng di truyền giúp thích nghi với môi trường biến động. Từ khóa: Sinh sản vô tính, sinh sản hữu tính, hợp tử, giảm phân, nguyên phân, thụ tinh, đa dạng di truyền."
+  },
+  {
+    "lessonId": "sinh11_b25",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 4: Sinh sản ở sinh vật",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 25: Sinh sản ở thực vật. Ý chính: Sinh sản vô tính ở thực vật (sinh sản sinh dưỡng và bào tử); các phương pháp nhân giống vô tính thực tiễn (giâm, chiết, ghép, nuôi cấy mô tế bào in vitro); sinh sản hữu tính ở thực vật có hoa (cấu tạo hoa, hình thành hạt phấn và túi phôi, thụ phấn, thụ tinh kép, quá trình hình thành hạt và quả). Kiến thức trọng tâm: Sinh sản vô tính tự nhiên bằng bào tử (rêu) hoặc cơ quan sinh dưỡng (thân bò ở rau má, lá thuốc bỏng, thân củ khoai tây). Nhân tạo: giâm cành (mía, sắn); chiết cành (khoanh vỏ, bọc bầu đất ẩm trên cành đang sống đến khi ra rễ thì cắt trồng ở bưởi, nhãn); ghép cành/mắt (áp chặt cành ghép vào gốc ghép cây cùng loài); nuôi cấy mô tế bào in vitro (nuôi cấy tế bào/mô trong môi trường dinh dưỡng vô trùng chứa phytohormone phù hợp để nhân nhanh giống sạch bệnh ở hoa lan, chuối). Sinh sản hữu tính ở thực vật có hoa: cấu tạo hoa gồm nhị (đực: bao phấn chứa hạt phấn, chỉ nhị) và nhụy (cái: núm nhụy, vòi nhụy, bầu nhụy chứa noãn). Hạt phấn (thể giao tử đực, n) tạo từ tế bào mẹ (2n) trong bao phấn giảm phân tạo 4 bào tử đơn bội, mỗi bào tử nguyên phân tạo hạt phấn gồm nhân ống phấn và nhân sinh sản. Túi phôi (thể giao tử cái, n) tạo từ đại bào tử noãn nguyên phân 3 lần tạo túi phôi chứa 8 nhân (1 trứng n, 2 nhân cực 2n). Thụ phấn nhờ gió, nước hoặc côn trùng. Thụ tinh kép (chỉ ở thực vật hạt kín) do 2 tinh tử: tinh tử 1 (n) kết hợp trứng (n) tạo hợp tử (2n) phát triển thành phôi; tinh tử 2 (n) kết hợp nhân cực (2n) tạo nhân tam bội (3n) phát triển thành nội nhũ (phôi nhũ) nuôi phôi. Sau thụ tinh, noãn thành hạt, bầu nhụy biến đổi thành quả chứa hạt dưới tác động của ethylene. Từ khóa: Giâm cành, chiết cành, nuôi cấy mô in vitro, thụ tinh kép, hợp tử, nội nhũ tam bội, bao phấn, túi phôi, bầu nhụy phát triển thành quả."
+  },
+  {
+    "lessonId": "sinh11_b26",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 4: Sinh sản ở sinh vật",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 26: Thực hành: Nhân giống vô tính và thụ phấn cho cây. Ý chính: Thực hành các kỹ thuật nhân giống vô tính (giâm cành, chiết cành, ghép mắt); thực hành kỹ thuật thụ phấn nhân tạo bổ sung cho cây ngô. Kiến thức trọng tâm: Thực hành giâm cành khoai lang hoặc rau muống bằng cách cắt nghiêng cắm đất ẩm; thực hành chiết cành bưởi hoặc hồng bằng cách khoanh vỏ, cạo tượng tầng và đắp bầu đất ẩm bọc nilon; thực hành ghép mắt chữ T trên gốc ghép bưởi; thực hành thụ phấn bổ sung cho cây ngô bằng cách rung cây thu hạt phấn từ bông cờ (hoa đực) ở ngọn rồi chải nhẹ lên đầu râu ngô (vòi nhụy hoa cái) ở bắp để nâng cao năng suất hạt, hạn chế khuyết hạt trên bắp ngô. Từ khóa: Thực hành chiết cành, tượng tầng, ghép chữ T, thụ phấn bổ sung hoa ngô, râu ngô."
+  },
+  {
+    "lessonId": "sinh11_b27",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 4: Sinh sản ở sinh vật",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 27: Sinh sản ở động vật. Ý chính: Các hình thức sinh sản vô tính ở động vật (phân đôi, nảy chồi, phân mảnh, trinh sinh); các hình thức sinh sản hữu tính ở động vật (đẻ trứng, đẻ trứng thai, đẻ con); quá trình sinh sản hữu tính ở người (hình thành tinh trùng và trứng, thụ tinh, phát triển phôi thai, đẻ con); cơ chế điều hòa sinh sản (các hormone GnRH, FSH, LH, testosterone, estrogen, progesterone); các biện pháp tránh thai và sinh đẻ có kế hoạch; một số thành tựu thụ tinh nhân tạo và thụ tinh trong ống nghiệm (IVF). Kiến thức trọng tâm: Sinh sản vô tính: phân đôi (hải quỳ), nảy chồi (thủy tức), phân mảnh (sao biển), trinh sinh (ong đực được sinh từ trứng không thụ tinh). Sinh sản hữu tính: đẻ trứng (phát triển ngoài nhờ noãn hoàng); đẻ trứng thai (noãn thai sinh, trứng giữ trong ống dẫn trứng nở thành con nhờ noãn hoàng); đẻ con (thú, người phôi nuôi dưỡng trực tiếp qua nhau thai). Ở người: hình thành tinh trùng (tinh hoàn) từ tinh nguyên bào giảm phân tạo 4 tinh tử di động (~64 ngày); hình thành trứng (buồng trứng) từ noãn nguyên bào giảm phân I tạo noãn bào bậc 2 rụng trứng mỗi 28 ngày, chỉ giảm phân II khi gặp tinh trùng. Thụ tinh ở 1/3 ngoài ống dẫn trứng tạo hợp tử làm tổ ở niêm mạc tử cung. Đẻ con nhờ oxytocin gây co bóp cơ tử cung đẩy thai nhi ra sau 40 tuần. Điều hòa ở nam: GnRH kích thích tuyến yên tiết FSH (kích sinh tinh ở ống sinh tinh) và LH (kích tế bào kẽ Leydig tiết testosterone). Điều hòa ở nữ: FSH kích nang trứng phát triển tiết estrogen; LH kích rụng trứng và tạo thể vàng tiết progesterone/estrogen gây ức chế ngược tuyến yên/vùng dưới đồi làm giảm FSH, LH. Biện pháp tránh thai: bao cao su (ngừa tinh trùng và tránh bệnh lây qua đường tình dục), vòng tránh thai (ngăn làm tổ), thuốc tránh thai (ức chế rụng trứng), triệt sản (thắt ống dẫn tinh/trứng). Thụ tinh trong ống nghiệm (IVF) hỗ trợ điều trị hiếm muộn. Từ khóa: Trinh sinh, noãn thai sinh, tinh trùng, rụng trứng, thụ tinh ống dẫn trứng, oxytocin co bóp tử cung, GnRH, thể vàng tiết progesterone, thắt ống dẫn tinh, thụ tinh trong ống nghiệm IVF."
+  },
+  {
+    "lessonId": "sinh11_b28",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 5: Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật và một số ngành nghề liên quan đến sinh học cơ thể",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 28: Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật. Ý chính: Mối quan hệ giữa các quá trình sinh lí trong cơ thể thực vật; mối quan hệ giữa các quá trình sinh lí trong cơ thể động vật; cơ thể sinh vật là một hệ thống mở tự điều chỉnh thống nhất. Kiến thức trọng tâm: Ở thực vật có sự liên kết chặt chẽ giữa quá trình hấp thụ nước/khoáng ở rễ -> vận chuyển mạch gỗ -> thoát hơi nước ở lá (tạo lực kéo và mở khí khổng để hấp thụ CO2) -> cung cấp nguyên liệu cho quang hợp ở lục lạp -> tạo chất hữu cơ cho hô hấp tế bào -> giải phóng năng lượng ATP cung cấp cho rễ hấp thụ khoáng chủ động. Ở động vật có sự liên quan giữa hệ tiêu hóa (cung cấp chất dinh dưỡng) -> hệ tuần hoàn (vận chuyển dinh dưỡng và khí) -> hệ hô hấp (cung cấp O2 và thải CO2) -> tế bào thực hiện hô hấp tạo ATP và giải phóng chất thải chuyển đến hệ bài tiết (thận, da) để lọc thải ra ngoài. Cơ thể sinh vật là một hệ thống mở tự điều chỉnh, một quá trình bị rối loạn sẽ ảnh hưởng đến toàn bộ hoạt động sống của cơ thể. Từ khóa: Mối quan hệ liên hệ sinh lí, hệ thống mở, tự điều chỉnh, hệ thống nhất."
+  },
+  {
+    "lessonId": "sinh11_b29",
+    "grade": 11,
+    "subject": "Sinh học",
+    "chapterName": "Chương 5: Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật và một số ngành nghề liên quan đến sinh học cơ thể",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 29: Một số ngành nghề liên quan đến sinh học cơ thể. Ý chính: Các nhóm ngành nghề liên quan đến sinh học cơ thể trong thực tiễn và triển vọng phát triển trong tương lai; Y học và Dược học; Nuôi trồng thủy sản; Trồng trọt, chăn nuôi và Thú y; Lâm nghiệp. Kiến thức trọng tâm: Y học - Dược học ứng dụng sinh học cơ thể người để chẩn đoán, điều trị bệnh và điều chế thuốc. Nuôi trồng thủy sản, Trồng trọt, Chăn nuôi, Thú y, Lâm nghiệp áp dụng sinh học sinh trưởng, phát triển và sinh sản cơ thể động thực vật để lai tạo giống chất lượng cao, kháng bệnh, ứng dụng công nghệ hiện đại (nhà kính, nuôi cấy mô, thụ tinh nhân tạo) nhằm bảo vệ đa dạng sinh học và phát triển bền vững. Từ khóa: Y học, dược học, trồng trọt, chăn nuôi, nuôi trồng thủy sản, lâm nghiệp, công nghệ sinh học cơ thể."
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "nodeId": "root_ls11",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "LỊCH SỬ 11 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "su11_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_ls11",
+    "nodeName": "Chủ đề 1: Cách mạng tư sản và sự phát triển của chủ nghĩa tư bản",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b1",
+    "lessonId": "su11_b1",
+    "parentNodeId": "su11_node_ch1",
+    "nodeName": "Bài 1: Một số vấn đề chung về cách mạng tư sản",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b2",
+    "lessonId": "su11_b2",
+    "parentNodeId": "su11_node_ch1",
+    "nodeName": "Bài 2: Sự xác lập và phát triển của chủ nghĩa tư bản",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su11_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_ls11",
+    "nodeName": "Chủ đề 2: Chủ nghĩa xã hội từ năm 1917 đến nay",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su11_node_b3",
+    "lessonId": "su11_b3",
+    "parentNodeId": "su11_node_ch2",
+    "nodeName": "Bài 3: Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b4",
+    "lessonId": "su11_b4",
+    "parentNodeId": "su11_node_ch2",
+    "nodeName": "Bài 4: Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su11_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_ls11",
+    "nodeName": "Chủ đề 3: Quá trình giành độc lập dân tộc của các quốc gia Đông Nam Á",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su11_node_b5",
+    "lessonId": "su11_b5",
+    "parentNodeId": "su11_node_ch3",
+    "nodeName": "Bài 5: Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b6",
+    "lessonId": "su11_b6",
+    "parentNodeId": "su11_node_ch3",
+    "nodeName": "Bài 6: Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su11_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_ls11",
+    "nodeName": "Chủ đề 4: Chiến tranh bảo vệ Tổ quốc và chiến tranh giải phóng dân tộc trong lịch sử Việt Nam (trước Cách mạng tháng Tám năm 1945)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "su11_node_b7",
+    "lessonId": "su11_b7",
+    "parentNodeId": "su11_node_ch4",
+    "nodeName": "Bài 7: Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b8",
+    "lessonId": "su11_b8",
+    "parentNodeId": "su11_node_ch4",
+    "nodeName": "Bài 8: Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su11_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_ls11",
+    "nodeName": "Chủ đề 5: Một số cuộc cải cách lớn trong lịch sử Việt Nam (trước năm 1858)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "su11_node_b9",
+    "lessonId": "su11_b9",
+    "parentNodeId": "su11_node_ch5",
+    "nodeName": "Bài 9: Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b10",
+    "lessonId": "su11_b10",
+    "parentNodeId": "su11_node_ch5",
+    "nodeName": "Bài 10: Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su11_node_b11",
+    "lessonId": "su11_b11",
+    "parentNodeId": "su11_node_ch5",
+    "nodeName": "Bài 11: Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su11_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_ls11",
+    "nodeName": "Chủ đề 6: Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "su11_node_b12",
+    "lessonId": "su11_b12",
+    "parentNodeId": "su11_node_ch6",
+    "nodeName": "Bài 12: Vị trí và tầm quan trọng của Biển Đông",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su11_node_b13",
+    "lessonId": "su11_b13",
+    "parentNodeId": "su11_node_ch6",
+    "nodeName": "Bài 13: Việt Nam và Biển Đông",
+    "orderIndex": 2
+  }
+]

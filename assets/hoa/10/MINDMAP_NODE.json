@@ -1,0 +1,226 @@
+[
+  {
+    "nodeId": "root_h10",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "HÓA HỌC 10 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "hoa10_node_modau",
+    "lessonId": "hoa10_modau",
+    "parentNodeId": "root_h10",
+    "nodeName": "Mở đầu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 1: Cấu tạo nguyên tử",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_b1",
+    "lessonId": "hoa10_b1",
+    "parentNodeId": "hoa10_node_ch1",
+    "nodeName": "Bài 1: Thành phần của nguyên tử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b2",
+    "lessonId": "hoa10_b2",
+    "parentNodeId": "hoa10_node_ch1",
+    "nodeName": "Bài 2: Nguyên tố hoá học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_b3",
+    "lessonId": "hoa10_b3",
+    "parentNodeId": "hoa10_node_ch1",
+    "nodeName": "Bài 3: Cấu trúc lớp vỏ electron nguyên tử",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa10_node_b4",
+    "lessonId": "hoa10_b4",
+    "parentNodeId": "hoa10_node_ch1",
+    "nodeName": "Bài 4: Ôn tập chương 1",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa10_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 2: Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa10_node_b5",
+    "lessonId": "hoa10_b5",
+    "parentNodeId": "hoa10_node_ch2",
+    "nodeName": "Bài 5: Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b6",
+    "lessonId": "hoa10_b6",
+    "parentNodeId": "hoa10_node_ch2",
+    "nodeName": "Bài 6: Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kỳ và trong một nhóm",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_b7",
+    "lessonId": "hoa10_b7",
+    "parentNodeId": "hoa10_node_ch2",
+    "nodeName": "Bài 7: Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa10_node_b8",
+    "lessonId": "hoa10_b8",
+    "parentNodeId": "hoa10_node_ch2",
+    "nodeName": "Bài 8: Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa10_node_b9",
+    "lessonId": "hoa10_b9",
+    "parentNodeId": "hoa10_node_ch2",
+    "nodeName": "Bài 9: Ôn tập chương 2",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "hoa10_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 3: Liên kết hoá học",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa10_node_b10",
+    "lessonId": "hoa10_b10",
+    "parentNodeId": "hoa10_node_ch3",
+    "nodeName": "Bài 10: Quy tắc octet",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b11",
+    "lessonId": "hoa10_b11",
+    "parentNodeId": "hoa10_node_ch3",
+    "nodeName": "Bài 11: Liên kết ion",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_b12",
+    "lessonId": "hoa10_b12",
+    "parentNodeId": "hoa10_node_ch3",
+    "nodeName": "Bài 12: Liên kết cộng hoá trị",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa10_node_b13",
+    "lessonId": "hoa10_b13",
+    "parentNodeId": "hoa10_node_ch3",
+    "nodeName": "Bài 13: Liên kết hydrogen và tương tác van der Waals",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa10_node_b14",
+    "lessonId": "hoa10_b14",
+    "parentNodeId": "hoa10_node_ch3",
+    "nodeName": "Bài 14: Ôn tập chương 3",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "hoa10_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 4: Phản ứng oxi hoá – khử",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "hoa10_node_b15",
+    "lessonId": "hoa10_b15",
+    "parentNodeId": "hoa10_node_ch4",
+    "nodeName": "Bài 15: Phản ứng oxi hoá – khử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b16",
+    "lessonId": "hoa10_b16",
+    "parentNodeId": "hoa10_node_ch4",
+    "nodeName": "Bài 16: Ôn tập chương 4",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 5: Năng lượng hoá học",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "hoa10_node_b17",
+    "lessonId": "hoa10_b17",
+    "parentNodeId": "hoa10_node_ch5",
+    "nodeName": "Bài 17: Biến thiên enthalpy trong các phản ứng hoá học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b18",
+    "lessonId": "hoa10_b18",
+    "parentNodeId": "hoa10_node_ch5",
+    "nodeName": "Bài 18: Ôn tập chương 5",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 6: Tốc độ phản ứng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "hoa10_node_b19",
+    "lessonId": "hoa10_b19",
+    "parentNodeId": "hoa10_node_ch6",
+    "nodeName": "Bài 19: Tốc độ phản ứng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b20",
+    "lessonId": "hoa10_b20",
+    "parentNodeId": "hoa10_node_ch6",
+    "nodeName": "Bài 20: Ôn tập chương 6",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "root_h10",
+    "nodeName": "Chương 7: Nguyên tố nhóm halogen",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "hoa10_node_b21",
+    "lessonId": "hoa10_b21",
+    "parentNodeId": "hoa10_node_ch7",
+    "nodeName": "Bài 21: Nhóm halogen",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa10_node_b22",
+    "lessonId": "hoa10_b22",
+    "parentNodeId": "hoa10_node_ch7",
+    "nodeName": "Bài 22: Hydrogen halide. Muối halide",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa10_node_b23",
+    "lessonId": "hoa10_b23",
+    "parentNodeId": "hoa10_node_ch7",
+    "nodeName": "Bài 23: Ôn tập chương 7",
+    "orderIndex": 3
+  }
+]

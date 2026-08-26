@@ -1,0 +1,378 @@
+[
+  {
+    "lessonId": "toan11_t1_b1",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương I: Hàm số lượng giác và phương trình lượng giác",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Giá trị lượng giác của góc lượng giác. Ý chính: Khái niệm góc lượng giác, số đo góc lượng giác (đơn vị độ và radian), đường tròn lượng giác, biểu diễn góc lượng giác trên đường tròn, hệ thức Chasles. Kiến thức trọng tâm: Hệ thức Chasles sđ(Ou, Ov) + sđ(Ov, Ow) = sđ(Ou, Ow) + k*360° (hoặc k*2π, k ∈ Z); liên hệ độ và radian: 1° = π/180 rad; độ dài cung tròn l = R*α (α ∈ rad); định nghĩa sin, cos, tan, cot trên đường tròn lượng giác; hệ thức cơ bản: sin²α + cos²α = 1, 1 + tan²α = 1/cos²α, 1 + cot²α = 1/sin²α, tanα*cotα = 1; hệ thức góc liên quan đặc biệt (đối, bù, phụ, hơn kém π). Từ khóa: Góc lượng giác, đường tròn lượng giác, hệ thức Chasles, radian, giá trị lượng giác, góc liên quan đặc biệt."
+  },
+  {
+    "lessonId": "toan11_t1_b2",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương I: Hàm số lượng giác và phương trình lượng giác",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Công thức lượng giác. Ý chính: Các công thức biến đổi lượng giác gồm công thức cộng, công thức nhân đôi, công thức hạ bậc, công thức biến đổi tích thành tổng, công thức biến đổi tổng thành tích. Kiến thức trọng tâm: Công thức cộng: cos(a ± b) = cos a cos b ∓ sin a sin b, sin(a ± b) = sin a cos b ± cos a sin b, tan(a ± b) = (tan a ± tan b)/(1 ∓ tan a tan b); công thức nhân đôi: sin 2a = 2sin a cos a, cos 2a = cos²a - sin²a = 2cos²a - 1 = 1 - 2sin²a, tan 2a = 2tan a/(1 - tan²a); công thức hạ bậc: cos²a = (1 + cos 2a)/2, sin²a = (1 - cos 2a)/2; công thức tích thành tổng: cos a cos b = 1/2[cos(a-b) + cos(a+b)], sin a sin b = 1/2[cos(a-b) - cos(a+b)], sin a cos b = 1/2[sin(a-b) + sin(a+b)]; công thức tổng thành tích: cos u + cos v = 2cos((u+v)/2)cos((u-v)/2), sin u + sin v = 2sin((u+v)/2)cos((u-v)/2). Từ khóa: Công thức cộng, công thức nhân đôi, công thức hạ bậc, tích thành tổng, tổng thành tích."
+  },
+  {
+    "lessonId": "toan11_t1_b3",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương I: Hàm số lượng giác và phương trình lượng giác",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3: Hàm số lượng giác. Ý chính: Định nghĩa và tính chất của bốn hàm số lượng giác cơ bản y = sin x, y = cos x, y = tan x, y = cot x; tập xác định, tập giá trị, tính tuần hoàn, chu kì, tính chẵn lẻ, đồ thị và sự biến thiên. Kiến thức trọng tâm: y = sin x: TXĐ R, TGT [-1; 1], chu kỳ 2π, hàm lẻ; y = cos x: TXĐ R, TGT [-1; 1], chu kỳ 2π, hàm chẵn; y = tan x: TXĐ R \\ {π/2 + kπ, k ∈ Z}, TGT R, chu kỳ π, hàm lẻ, đồng biến trên khoảng xác định; y = cot x: TXĐ R \\ {kπ, k ∈ Z}, TGT R, chu kỳ π, hàm lẻ, nghịch biến trên khoảng xác định; đồ thị hình sin và tính đối xứng. Từ khóa: Hàm số lượng giác, tập xác định, tuần hoàn, chu kỳ, chẵn lẻ, biến thiên, đồ thị hình sin."
+  },
+  {
+    "lessonId": "toan11_t1_b4",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương I: Hàm số lượng giác và phương trình lượng giác",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4: Phương trình lượng giác cơ bản. Ý chính: Khái niệm phương trình lượng giác tương đương, phép biến đổi tương đương; phương pháp giải các phương trình lượng giác cơ bản sin x = m, cos x = m, tan x = m, cot x = m. Kiến thức trọng tâm: Định nghĩa phương trình tương đương (có cùng tập nghiệm); công thức nghiệm: sin x = m (vô nghiệm nếu |m| > 1; nếu |m| ≤ 1: sin x = sin α <=> x = α + k2π hoặc x = π - α + k2π); cos x = m (vô nghiệm nếu |m| > 1; nếu |m| ≤ 1: cos x = cos α <=> x = ±α + k2π); tan x = m <=> x = α + kπ; cot x = m <=> x = α + kπ (k ∈ Z); các nghiệm đặc biệt khi m ∈ {0, 1, -1} và sử dụng máy tính cầm tay tìm góc. Từ khóa: Phương trình lượng giác cơ bản, phương trình tương đương, công thức nghiệm, nghiệm đặc biệt."
+  },
+  {
+    "lessonId": "toan11_t1_ch1_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương I: Hàm số lượng giác và phương trình lượng giác",
+    "lessonOrder": 5,
+    "lessonContent": "Bài tập cuối chương I. Ý chính: Tổng hợp và củng cố toàn bộ kiến thức của Chương I bao gồm góc và giá trị lượng giác, công thức biến đổi lượng giác, hàm số lượng giác và phương trình lượng giác cơ bản. Kiến thức trọng tâm: Ôn tập trắc nghiệm và tự luận; áp dụng công thức lượng giác rút gọn biểu thức; vẽ đồ thị, xác định tập xác định/giá trị; giải phương trình cơ bản và ứng dụng thực tế của lượng giác trong vật lý (dao động điều hòa, khúc xạ ánh sáng). Từ khóa: Ôn tập chương I, trắc nghiệm lượng giác, tự luận lượng giác, ứng dụng lượng giác."
+  },
+  {
+    "lessonId": "toan11_t1_b5",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương II: Dãy số. Cấp số cộng và cấp số nhân",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 5: Dãy số. Ý chính: Định nghĩa dãy số vô hạn, dãy số hữu hạn, các cách cho một dãy số; tính đơn điệu (dãy tăng, dãy giảm) và dãy số bị chặn. Kiến thức trọng tâm: Định nghĩa dãy số vô hạn là hàm số u(n) xác định trên N*, kí hiệu (u_n); dãy số hữu hạn xác định trên {1, 2, ..., m}; cách xác định dãy số: liệt kê số hạng, công thức tổng quát u_n, hệ thức truy hồi (như dãy Fibonacci), mô tả bằng lời; tính đơn điệu: dãy tăng khi u_{n+1} > u_n với mọi n, dãy giảm khi u_{n+1} < u_n với mọi n; dãy bị chặn trên nếu u_n ≤ M, bị chặn dưới nếu u_n ≥ m, bị chặn nếu m ≤ u_n ≤ M. Từ khóa: Dãy số, số hạng tổng quát, truy hồi, dãy số tăng, dãy số giảm, dãy bị chặn."
+  },
+  {
+    "lessonId": "toan11_t1_b6",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương II: Dãy số. Cấp số cộng và cấp số nhân",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 6: Cấp số cộng. Ý chính: Định nghĩa cấp số cộng, công sai; công thức xác định số hạng tổng quát và tổng của n số hạng đầu tiên của một cấp số cộng. Kiến thức trọng tâm: Định nghĩa: dãy (u_n) là cấp số cộng khi u_n = u_{n-1} + d với n ≥ 2 (d là hằng số công sai); công thức số hạng tổng quát: u_n = u_1 + (n - 1)d; tổng n số hạng đầu: S_n = u_1 + u_2 + ... + u_n = n(u_1 + u_n)/2 = n[2u_1 + (n-1)d]/2. Từ khóa: Cấp số cộng, công sai, số hạng tổng quát, tổng n số hạng đầu, cấp số cộng tăng/giảm."
+  },
+  {
+    "lessonId": "toan11_t1_b7",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương II: Dãy số. Cấp số cộng và cấp số nhân",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 7: Cấp số nhân. Ý chính: Định nghĩa cấp số nhân, công bội; công thức xác định số hạng tổng quát và tổng của n số hạng đầu tiên của một cấp số nhân. Kiến thức trọng tâm: Định nghĩa: dãy (u_n) là cấp số nhân khi u_n = u_{n-1} * q với n ≥ 2 (q là hằng số công bội); công thức số hạng tổng quát: u_n = u_1 * q^(n-1); tổng n số hạng đầu: S_n = u_1 * (1 - q^n)/(1 - q) với q ≠ 1 (nếu q = 1 thì S_n = n*u_1). Từ khóa: Cấp số nhân, công bội, số hạng tổng quát, tổng n số hạng đầu."
+  },
+  {
+    "lessonId": "toan11_t1_ch2_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương II: Dãy số. Cấp số cộng và cấp số nhân",
+    "lessonOrder": 9,
+    "lessonContent": "Bài tập cuối chương II. Ý chính: Tổng hợp kiến thức về dãy số, cấp số cộng, cấp số nhân thông qua hệ thống câu hỏi trắc nghiệm và bài tập tự luận. Kiến thức trọng tâm: Rèn luyện kỹ năng tìm số hạng đầu, công sai, công bội; kiểm tra tính tăng, giảm, bị chặn của dãy số; tính tổng cấp số; chứng minh một dãy số là cấp số cộng hoặc cấp số nhân; ứng dụng toán học giải các bài toán thực tế về kinh tế, lãi kép và sinh học. Từ khóa: Ôn tập chương II, trắc nghiệm cấp số, tự luận cấp số, bài tập dãy số."
+  },
+  {
+    "lessonId": "toan11_t1_b8",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương III: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 8: Mẫu số liệu ghép nhóm. Ý chính: Giới thiệu mẫu số liệu ghép nhóm, cấu trúc bảng tần số ghép nhóm và quy trình chuyển mẫu số liệu không ghép nhóm sang ghép nhóm. Kiến thức trọng tâm: Định nghĩa mẫu số liệu ghép nhóm (số liệu cho dưới dạng bảng tần số của các nhóm có dạng [a; b), a là mút trái, b là mút phải); quy trình ghép nhóm: xác định mút trái/mút phải, khoảng biến thiên, chia khoảng giá trị của mẫu số liệu thành các nhóm có độ dài bằng nhau, đếm số giá trị thuộc mỗi nhóm (tần số). Từ khóa: Mẫu số liệu ghép nhóm, bảng tần số ghép nhóm, mút trái, mút phải, khoảng ghép nhóm."
+  },
+  {
+    "lessonId": "toan11_t1_b9",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương III: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 9: Các số đặc trưng đo xu thế trung tâm. Ý chính: Định nghĩa, ý nghĩa thực tế và công thức tính các số đặc trưng đo xu thế trung tâm cho mẫu số liệu ghép nhóm bao gồm số trung bình, trung vị, tứ phân vị và mốt. Kiến thức trọng tâm: Số trung bình x̄ = (m_1*x_1 + ... + m_k*x_k)/n với x_i = (a_i + a_{i+1})/2 là giá trị đại diện; trung vị M_e = a_p + (n/2 - (m_1+...+m_{p-1}))/m_p * (a_{p+1} - a_p) với p là nhóm chứa trung vị; tứ phân vị Q_1, Q_2=M_e, Q_3; mốt M_o = a_j + (m_j - m_{j-1})/((m_j - m_{j-1}) + (m_j - m_{j+1})) * h với j là nhóm có tần số lớn nhất và h là độ dài nhóm. Từ khóa: Số trung bình, trung vị, tứ phân vị, mốt, số đặc trưng, xu thế trung tâm."
+  },
+  {
+    "lessonId": "toan11_t1_ch3_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương III: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+    "lessonOrder": 12,
+    "lessonContent": "Bài tập cuối chương III. Ý chính: Tổng hợp và củng cố kiến thức đo xu thế trung tâm của mẫu số liệu ghép nhóm; thực hành tính toán và so sánh các đặc trưng thống kê. Kiến thức trọng tâm: Luyện tập kỹ năng chuyển số liệu thô sang ghép nhóm; tính toán thành thạo số trung bình, trung vị, tứ phân vị và mốt; so sánh xu thế trung tâm giữa các nhóm dữ liệu và áp dụng giải thích các hiện tượng thực tế. Từ khóa: Ôn tập chương III, mẫu ghép nhóm, đo xu thế trung tâm, thực hành thống kê."
+  },
+  {
+    "lessonId": "toan11_t1_b10",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Quan hệ song song trong không gian",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 10: Đường thẳng và mặt phẳng trong không gian. Ý chính: Khái niệm mặt phẳng, điểm thuộc/không thuộc mặt phẳng, hình biểu diễn; sáu tính chất thừa nhận của hình học không gian; ba cách xác định một mặt phẳng; khái niệm hình chóp và hình tứ diện. Kiến thức trọng tâm: Ký hiệu điểm thuộc mặt phẳng A ∈ (P); tính chất thừa nhận: qua 2 điểm vẽ được 1 đường thẳng, qua 3 điểm không thẳng hàng có duy nhất 1 mặt phẳng, nếu 2 điểm của đường thẳng thuộc mp thì mọi điểm của nó thuộc mp đó, hai mp phân biệt có điểm chung thì có giao tuyến duy nhất; 3 cách xác định mặt phẳng (qua 3 điểm, qua điểm và đường thẳng, qua 2 đường thẳng cắt nhau); hình chóp S.A_1...A_n và tứ diện ABCD. Từ khóa: Điểm, mặt phẳng, tính chất thừa nhận, giao tuyến, giao điểm, hình chóp, hình tứ diện."
+  },
+  {
+    "lessonId": "toan11_t1_b11",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Quan hệ song song trong không gian",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 11: Hai đường thẳng song song. Ý chính: Vị trí tương đối của hai đường thẳng trong không gian (song song, cắt nhau, trùng nhau, chéo nhau); khái niệm hai đường thẳng chéo nhau; các tính chất về đường thẳng song song. Kiến thức trọng tâm: Đồng phẳng (cùng nằm trên một mặt phẳng) và chéo nhau (không đồng phẳng); hai đường thẳng song song là hai đường thẳng đồng phẳng và không có điểm chung; tính chất: qua điểm ngoài đường thẳng có đúng 1 đường thẳng song song; hai đường thẳng phân biệt cùng song song đường thẳng thứ ba thì song song với nhau; Định lý ba đường giao tuyến: ba mặt phẳng đôi một cắt nhau theo ba giao tuyến phân biệt thì ba giao tuyến đó đồng quy hoặc đôi một song song. Từ khóa: Đường thẳng song song, chéo nhau, định lý ba đường giao tuyến, vị trí tương đối."
+  },
+  {
+    "lessonId": "toan11_t1_b12",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Quan hệ song song trong không gian",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 12: Đường thẳng và mặt phẳng song song. Ý chính: Vị trí tương đối của đường thẳng d và mặt phẳng (α) (song song, cắt nhau, đường thẳng nằm trong mặt phẳng); điều kiện để một đường thẳng song song với một mặt phẳng; các định lý về tính chất của đường thẳng và mặt phẳng song song. Kiến thức trọng tâm: Đường thẳng d // (α) khi d và (α) không có điểm chung; Định lý 1 (Điều kiện song song): nếu đường thẳng a không thuộc (P) và song song với một đường thẳng b thuộc (P) thì a // (P); Định lý 2 (Tính chất): mặt phẳng (Q) chứa a (với a // (P)) và cắt (P) theo giao tuyến b thì b // a; Định lý 3: hai đường thẳng chéo nhau thì có duy nhất mặt phẳng chứa đường thẳng này và song song đường thẳng kia. Từ khóa: Đường thẳng song song mặt phẳng, điều kiện song song, tính chất song song."
+  },
+  {
+    "lessonId": "toan11_t1_b13",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Quan hệ song song trong không gian",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 13: Hai mặt phẳng song song. Ý chính: Định nghĩa hai mặt phẳng song song; điều kiện để hai mặt phẳng song song; các tính chất cơ bản (tính duy nhất qua một điểm, giao tuyến song song); định lý Thalès trong không gian; khái niệm hình lăng trụ và hình hộp. Kiến thức trọng tâm: Hai mặt phẳng (α) // (β) khi chúng không có điểm chung; Định lý 1 (Điều kiện song song): nếu mặt phẳng (α) chứa hai đường thẳng cắt nhau cùng song song với mặt phẳng (β) thì (α) // (β); tính chất: qua một điểm ngoài mặt phẳng có đúng một mặt phẳng song song với nó; định lý Thalès trong không gian: ba mặt phẳng song song chắn trên hai cát tuyến các đoạn thẳng tương ứng tỉ lệ; định nghĩa hình lăng trụ, các mặt bên (hình bình hành) và hình hộp (lăng trụ có đáy là hình bình hành). Từ khóa: Hai mặt phẳng song song, điều kiện song song, định lý Thalès không gian, lăng trụ, hình hộp."
+  },
+  {
+    "lessonId": "toan11_t1_b14",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Quan hệ song song trong không gian",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 14: Phép chiếu song song. Ý chính: Định nghĩa phép chiếu song song, mặt phẳng chiếu, phương chiếu; các tính chất của phép chiếu song song; cách vẽ hình biểu diễn của một hình không gian trên mặt phẳng. Kiến thức trọng tâm: Định nghĩa phép chiếu song song lên mặt phẳng (α) theo phương đường thẳng Δ cắt (α); tính chất phép chiếu song song: bảo toàn tính thẳng hàng và thứ tự các điểm, biến đường thẳng thành đường thẳng, biến hai đường thẳng song song thành hai đường thẳng song song hoặc trùng nhau, giữ nguyên tỉ số độ dài của hai đoạn thẳng song song; quy tắc vẽ hình biểu diễn của tam giác, hình vuông, hình chữ nhật, hình tròn (biểu diễn bằng hình elip). Từ khóa: Phép chiếu song song, phương chiếu, mặt phẳng chiếu, hình biểu diễn, hình chiếu."
+  },
+  {
+    "lessonId": "toan11_t1_ch4_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Quan hệ song song trong không gian",
+    "lessonOrder": 18,
+    "lessonContent": "Bài tập cuối chương IV. Ý chính: Tổng hợp và củng cố toàn bộ kiến thức lý thuyết và bài tập về quan hệ song song trong không gian. Kiến thức trọng tâm: Ôn tập trắc nghiệm và tự luận; rèn luyện kỹ năng tìm giao tuyến của hai mặt phẳng, giao điểm của đường thẳng và mặt phẳng; chứng minh đường thẳng song song mặt phẳng, mặt phẳng song song mặt phẳng; xác định thiết diện song song; áp dụng phép chiếu song song vẽ hình biểu diễn. Từ khóa: Ôn tập chương IV, giao tuyến, giao điểm, thiết diện, chứng minh song song."
+  },
+  {
+    "lessonId": "toan11_t1_b15",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương V: Giới hạn. Hàm số liên tục",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 15: Giới hạn của dãy số. Ý chính: Khái niệm giới hạn hữu hạn của dãy số (giới hạn 0, giới hạn số thực a), các dãy số có giới hạn đặc biệt; định lý về giới hạn hữu hạn (các quy tắc tính giới hạn của tổng, hiệu, tích, thương); tổng của cấp số nhân lùi vô hạn; giới hạn vô cực của dãy số và quy tắc tính. Kiến thức trọng tâm: Dãy (u_n) có giới hạn 0 khi n dần tới vô cực nếu |u_n| nhỏ hơn một số dương bé tùy ý kể từ số hạng nào đó trở đi, ký hiệu lim u_n = 0; lim 1/n^k = 0 (k ∈ N*), lim q^n = 0 (|q| < 1); tổng cấp số nhân lùi vô hạn: S = u_1/(1 - q) (|q| < 1); giới hạn vô cực: lim n^k = +∞, lim q^n = +∞ (q > 1); quy tắc tính giới hạn vô cực. Từ khóa: Giới hạn hữu hạn, giới hạn dãy số, cấp số nhân lùi vô hạn, giới hạn vô cực, quy tắc tính giới hạn."
+  },
+  {
+    "lessonId": "toan11_t1_b16",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương V: Giới hạn. Hàm số liên tục",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 16: Giới hạn của hàm số. Ý chính: Định nghĩa giới hạn hữu hạn của hàm số tại một điểm, giới hạn một bên (trái, phải); giới hạn hữu hạn của hàm số tại vô cực; giới hạn vô cực của hàm số tại một điểm và các quy tắc tính giới hạn vô cực. Kiến thức trọng tâm: Giới hạn tại một điểm: lim_{x->x_0} f(x) = L; giới hạn một bên: lim_{x->x_0^+} f(x) = L (giới hạn bên phải), lim_{x->x_0^-} f(x) = L (giới hạn bên trái); điều kiện tồn tại giới hạn: lim f(x) = L khi và chỉ khi lim_{x->x_0^+} f(x) = lim_{x->x_0^-} f(x) = L; giới hạn tại vô cực: lim_{x->+∞} f(x) = L; các quy tắc tính giới hạn vô cực đối với tích và thương hàm số. Từ khóa: Giới hạn hàm số, giới hạn một bên, giới hạn tại vô cực, giới hạn vô cực, giới hạn vô định."
+  },
+  {
+    "lessonId": "toan11_t1_b17",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương V: Giới hạn. Hàm số liên tục",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 17: Hàm số liên tục. Ý chính: Định nghĩa hàm số liên tục tại một điểm, liên tục trên một khoảng hoặc một đoạn; tính liên tục của các hàm số sơ cấp cơ bản; các tính chất cơ bản của hàm số liên tục. Kiến thức trọng tâm: Hàm f(x) liên tục tại x_0 khi lim_{x->x_0} f(x) = f(x_0); liên tục trên khoảng nếu liên tục tại mọi điểm thuộc khoảng đó; hàm sơ cấp (đa thức, lượng giác, phân thức hữu tỉ) liên tục trên các khoảng xác định của chúng; các tính chất: tổng, hiệu, tích, thương các hàm liên tục là liên tục; Định lý giá trị trung gian: nếu f(x) liên tục trên đoạn [a; b] và f(a)*f(b) < 0 thì phương trình f(x) = 0 có ít nhất một nghiệm thuộc khoảng (a; b). Từ khóa: Hàm số liên tục, liên tục tại một điểm, liên tục trên khoảng/đoạn, định lý tồn tại nghiệm."
+  },
+  {
+    "lessonId": "toan11_t1_ch5_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương V: Giới hạn. Hàm số liên tục",
+    "lessonOrder": 22,
+    "lessonContent": "Bài tập cuối chương V. Ý chính: Tổng hợp và củng cố toàn bộ kiến thức chương V về giới hạn dãy số, giới hạn hàm số và tính liên tục của hàm số. Kiến thức trọng tâm: Ôn tập trắc nghiệm và tự luận; rèn luyện kỹ năng giải các dạng toán giới hạn hữu hạn, giới hạn vô cực, khử dạng vô định (0/0, ∞/∞, ∞-∞); xét tính liên tục của hàm số cho bởi nhiều công thức tại một điểm hoặc trên tập xác định; chứng minh phương trình có nghiệm bằng định lý giá trị trung gian. Từ khóa: Ôn tập chương V, tính giới hạn, khử dạng vô định, xét tính liên tục, chứng minh phương trình có nghiệm."
+  },
+  {
+    "lessonId": "toan11_t1_th1",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm (Tập 1)",
+    "lessonOrder": 23,
+    "lessonContent": "Một vài áp dụng của Toán học trong tài chính. Ý chính: Ứng dụng kiến thức cấp số cộng, cấp số nhân, lũy thừa để giải quyết các bài toán kinh tế và tài chính thực tế bao gồm niên kim (gửi tiết kiệm tích lũy), giá trị hiện tại của dòng tiền và mua trả góp. Kiến thức trọng tâm: Niên kim (tiền tích lũy gửi đều đặn số tiền R hàng kỳ với lãi suất i): A_n = R*[(1+i)^n - 1]/i; giá trị hiện tại của dòng tiền A_p = R*[1 - (1+i)^(-n)]/i; công thức mua trả góp (tính số tiền R phải trả đều đặn mỗi kỳ để hoàn trả khoản vay A_p): R = A_p*i / [1 - (1+i)^(-n)]. Từ khóa: Trải nghiệm tài chính, lãi kép, niên kim, dòng tiền tích lũy, giá trị hiện tại, mua trả góp."
+  },
+  {
+    "lessonId": "toan11_t1_th2",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm (Tập 1)",
+    "lessonOrder": 24,
+    "lessonContent": "Lực căng mặt ngoài của nước. Ý chính: Thực hành thu thập dữ liệu thực nghiệm thông qua thí nghiệm thổi bong bóng xà phòng để so sánh lực căng mặt ngoài của nước ở các nhiệt độ khác nhau; áp dụng thống kê số liệu ghép nhóm để xử lý dữ liệu. Kiến thức trọng tâm: Đo đạc và thu thập đường kính bong bóng xà phòng ở nhiệt độ phòng và nước nóng (70°C - 80°C); lập bảng tần số ghép nhóm từ số liệu đo được; tính toán các số đặc trưng đo xu thế trung tâm (số trung bình, trung vị, mốt); rút ra kết luận khoa học về việc nhiệt độ ảnh hưởng đến sức căng mặt ngoài của nước (nhiệt độ tăng làm giảm sức căng mặt ngoài, giúp bong bóng dễ thổi to hơn và hỗ trợ giặt rửa nhanh hơn). Từ khóa: Trải nghiệm vật lý, số liệu thực nghiệm bong bóng, ghép nhóm dữ liệu, thống kê trải nghiệm, lực căng mặt ngoài."
+  },
+  {
+    "lessonId": "toan11_t2_b18",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số mũ và hàm số lôgarit",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 18: Luỹ thừa với số mũ thực. Ý chính: Khái niệm lũy thừa với số mũ nguyên, lũy thừa với số mũ hữu tỉ, lũy thừa với số mũ thực; định nghĩa căn bậc n của một số thực và các tính chất cơ bản. Kiến thức trọng tâm: Định nghĩa lũy thừa số mũ nguyên và các tính chất: a^m * a^n = a^(m+n), a^m / a^n = a^(m-n); định nghĩa căn bậc n của một số thực: b^n = a (với n lẻ có duy nhất 1 căn bậc n; n chẵn số dương có đúng 2 căn đối nhau); lũy thừa số mũ hữu tỉ: a^(m/n) = căn bậc n của a^m (a > 0); lũy thừa số mũ thực xác định thông qua giới hạn của dãy số mũ hữu tỉ; các tính chất và phép tính của lũy thừa với số mũ thực được giữ nguyên như số mũ nguyên. Từ khóa: Lũy thừa, số mũ hữu tỉ, số mũ thực, căn bậc n, tính chất lũy thừa."
+  },
+  {
+    "lessonId": "toan11_t2_b19",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số mũ và hàm số lôgarit",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 19: Lôgarit. Ý chính: Khái niệm lôgarit cơ số a của một số dương, tính chất và các quy tắc tính lôgarit; công thức đổi cơ số; lôgarit thập phân, lôgarit tự nhiên (số e). Kiến thức trọng tâm: Định nghĩa: α = log_a M <=> a^α = M (0 < a ≠ 1, M > 0); các tính chất cơ bản: log_a 1 = 0, log_a a = 1, a^(log_a M) = M; quy tắc tính: log_a(MN) = log_a M + log_a N, log_a(M/N) = log_a M - log_a N, log_a(M^α) = α log_a M; công thức đổi cơ số: log_a M = (log_b M)/(log_b a); lôgarit thập phân log M (cơ số 10) và lôgarit tự nhiên ln M (cơ số e ≈ 2.718). Từ khóa: Lôgarit, quy tắc tính lôgarit, đổi cơ số, lôgarit thập phân, lôgarit tự nhiên, số e."
+  },
+  {
+    "lessonId": "toan11_t2_b20",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số mũ và hàm số lôgarit",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 20: Hàm số mũ và hàm số lôgarit. Ý chính: Định nghĩa hàm số mũ y = a^x và hàm số lôgarit y = log_a x; tập xác định, tập giá trị, tính liên tục, tính đơn điệu và đồ thị của hai hàm số. Kiến thức trọng tâm: Hàm số mũ y = a^x (0 < a ≠ 1): TXĐ R, TGT (0; +∞), luôn đi qua điểm (0; 1), đồng biến khi a > 1, nghịch biến khi 0 < a < 1; Hàm số lôgarit y = log_a x (0 < a ≠ 1): TXĐ (0; +∞), TGT R, luôn đi qua điểm (1; 0), đồng biến khi a > 1, nghịch biến khi 0 < a < 1; nhận xét đồ thị của hai hàm số đối xứng nhau qua đường phân giác y = x. Từ khóa: Hàm số mũ, hàm số lôgarit, tập xác định, đồ thị hàm số, tính đơn điệu."
+  },
+  {
+    "lessonId": "toan11_t2_b21",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số mũ và hàm số lôgarit",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 21: Phương trình, bất phương trình mũ và lôgarit. Ý chính: Cách giải các phương trình mũ, phương trình lôgarit, bất phương trình mũ và bất phương trình lôgarit ở dạng cơ bản hoặc đưa về cùng cơ số. Kiến thức trọng tâm: Phương trình mũ cơ bản: a^x = b (vô nghiệm nếu b ≤ 0; có nghiệm duy nhất x = log_a b nếu b > 0); phương pháp đưa về cùng cơ số: a^u = a^v <=> u = v; phương trình lôgarit cơ bản: log_a x = b <=> x = a^b (x > 0); phương pháp đưa về cùng cơ số: log_a u = log_a v <=> u = v > 0; bất phương trình mũ/lôgarit cơ bản: lưu ý đảo chiều bất phương trình khi cơ số 0 < a < 1 và giữ nguyên chiều khi a > 1. Từ khóa: Phương trình mũ, phương trình lôgarit, bất phương trình mũ, bất phương trình lôgarit, cùng cơ số, điều kiện xác định."
+  },
+  {
+    "lessonId": "toan11_t2_ch6_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số mũ và hàm số lôgarit",
+    "lessonOrder": 30,
+    "lessonContent": "Bài tập cuối chương VI. Ý chính: Tổng hợp và củng cố toàn bộ kiến thức về lũy thừa, lôgarit, hàm số mũ/lôgarit và phương trình, bất phương trình mũ/lôgarit. Kiến thức trọng tâm: Luyện tập trắc nghiệm và tự luận; rút gọn các biểu thức chứa lũy thừa, lôgarit; vẽ và nhận diện đồ thị hàm số mũ/lôgarit; giải các phương trình, bất phương trình và áp dụng giải quyết bài toán thực tế về kinh tế (lãi kép liên tục), sinh học (tăng trưởng vi khuẩn), và hóa học (độ pH, độ Richter, decibel). Từ khóa: Ôn tập chương VI, rút gọn lũy thừa/lôgarit, giải phương trình mũ/lôgarit, bài toán thực tế mũ/lôgarit."
+  },
+  {
+    "lessonId": "toan11_t2_b22",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 22: Hai đường thẳng vuông góc. Ý chính: Góc giữa hai đường thẳng trong không gian; định nghĩa và điều kiện hai đường thẳng vuông góc. Kiến thức trọng tâm: Góc giữa hai đường thẳng chéo nhau m và n trong không gian là góc giữa hai đường thẳng a và b cùng đi qua một điểm và lần lượt song song với m và n (số đo từ 0° đến 90°); hai đường thẳng vuông góc khi và chỉ khi góc giữa chúng bằng 90°, ký hiệu a perp b; hai đường thẳng vuông góc có thể cắt nhau hoặc chéo nhau; cách chứng minh hai đường thẳng vuông góc dựa trên góc giữa hai đường thẳng bằng 90° hoặc sử dụng quan hệ vuông góc trong phẳng. Từ khóa: Góc giữa hai đường thẳng, hai đường thẳng vuông góc, cắt nhau, chéo nhau trong không gian."
+  },
+  {
+    "lessonId": "toan11_t2_b23",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 33,
+    "lessonContent": "Bài 23: Đường thẳng vuông góc với mặt phẳng. Ý chính: Định nghĩa đường thẳng vuông góc với mặt phẳng; điều kiện vuông góc (định lý cơ bản); tính chất liên quan đến điểm và đường thẳng vuông góc; mặt phẳng trung trực của đoạn thẳng; mối liên hệ giữa quan hệ song song và quan hệ vuông góc. Kiến thức trọng tâm: Đường thẳng d perp (P) khi d vuông góc với mọi đường thẳng nằm trong (P); Định lý (Điều kiện vuông góc): nếu đường thẳng d vuông góc với hai đường thẳng cắt nhau a và b cùng nằm trong (P) thì d perp (P); mặt phẳng trung trực của đoạn thẳng AB là mặt phẳng đi qua trung điểm I và vuông góc với AB; liên hệ song song - vuông góc: a // b, d perp a => d perp b; a // (P), d perp (P) => d perp a; hai mặt phẳng phân biệt cùng vuông góc một đường thẳng thì song song với nhau. Từ khóa: Đường thẳng vuông góc mặt phẳng, điều kiện vuông góc, mặt phẳng trung trực, liên hệ song song vuông góc."
+  },
+  {
+    "lessonId": "toan11_t2_b24",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 34,
+    "lessonContent": "Bài 24: Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng. Ý chính: Định nghĩa phép chiếu vuông góc lên mặt phẳng; định lý ba đường vuông góc; định nghĩa và phương pháp tìm góc giữa đường thẳng và mặt phẳng. Kiến thức trọng tâm: Phép chiếu vuông góc lên mặt phẳng (P) là phép chiếu song song lên (P) theo phương vuông góc với (P); Định lý ba đường vuông góc: cho đường thẳng a không perp (P) và b nằm trong (P); b perp a <=> b perp a' (với a' là hình chiếu của a trên (P)); Góc giữa đường thẳng a và mặt phẳng (P): nếu a perp (P) thì góc bằng 90°; nếu a không perp (P) thì góc là góc giữa a và hình chiếu vuông góc a' của nó trên (P) (góc này nằm trong khoảng [0°; 90°]). Từ khóa: Phép chiếu vuông góc, định lý ba đường vuông góc, hình chiếu vuông góc, góc giữa đường thẳng và mặt phẳng."
+  },
+  {
+    "lessonId": "toan11_t2_b25",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 35,
+    "lessonContent": "Bài 25: Hai mặt phẳng vuông góc. Ý chính: Góc giữa hai mặt phẳng, định nghĩa hai mặt phẳng vuông góc; điều kiện để hai mặt phẳng vuông góc; các tính chất về giao tuyến và đường vuông góc; khái niệm góc nhị diện, số đo góc nhị diện; định nghĩa các hình lăng trụ đứng, hình lăng trụ đều, hình hộp đứng, hình hộp chữ nhật, hình lập phương, hình chóp đều và hình chóp cụt đều. Kiến thức trọng tâm: Góc giữa hai mặt phẳng (P) và (Q) là góc giữa hai đường thẳng lần lượt vuông góc với chúng; (P) perp (Q) khi góc giữa chúng bằng 90°; Định lý điều kiện: nếu (P) chứa một đường thẳng vuông góc với (Q) thì (P) perp (Q); tính chất giao tuyến: (P) perp (Q) theo giao tuyến Δ, đường thẳng a nằm trong (P) và a perp Δ thì a perp (Q); khái niệm góc nhị diện [P, a, Q], số đo góc nhị diện; định nghĩa các khối lăng trụ đặc biệt (lăng trụ đứng có các cạnh bên vuông góc đáy, lăng trụ đều là lăng trụ đứng có đáy là đa giác đều) và hình chóp đều (đáy là đa giác đều, chân đường cao trùng tâm đáy). Từ khóa: Hai mặt phẳng vuông góc, góc giữa hai mặt phẳng, góc nhị diện, lăng trụ đứng, lăng trụ đều, hình hộp đứng, hình chóp đều, hình chóp cụt đều."
+  },
+  {
+    "lessonId": "toan11_t2_b26",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 36,
+    "lessonContent": "Bài 26: Khoảng cách. Ý chính: Các định nghĩa và phương pháp xác định khoảng cách trong không gian bao gồm khoảng cách từ điểm đến đường thẳng/mặt phẳng, khoảng cách giữa đường thẳng và mặt phẳng song song, khoảng cách giữa hai mặt phẳng song song, khoảng cách giữa hai đường thẳng chéo nhau (đường vuông góc chung, đoạn vuông góc chung). Kiến thức trọng tâm: Khoảng cách d(M, a) và d(M, (P)) là độ dài đoạn vuông góc MH từ M đến a hoặc (P); khoảng cách giữa đường thẳng a // (P) là khoảng cách từ điểm thuộc a đến (P); khoảng cách giữa (P) // (Q) là khoảng cách từ điểm thuộc (P) đến (Q); đường thẳng Δ cắt cả hai đường thẳng chéo nhau a, b và cùng vuông góc với cả hai đường thẳng đó gọi là đường vuông góc chung, đoạn thẳng MN nằm trên Δ nối a và b là đoạn vuông góc chung; khoảng cách giữa hai đường thẳng chéo nhau bằng độ dài đoạn vuông góc chung, hoặc bằng khoảng cách từ đường thẳng này đến mặt phẳng song song chứa đường thẳng kia. Từ khóa: Khoảng cách, đường vuông góc chung, đoạn vuông góc chung, khoảng cách giữa hai đường chéo nhau."
+  },
+  {
+    "lessonId": "toan11_t2_b27",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 37,
+    "lessonContent": "Bài 27: Thể tích. Ý chính: Công thức tính thể tích của một số hình khối đa diện cơ bản trong không gian gồm khối chóp, khối lăng trụ, khối hộp và khối chóp cụt đều. Kiến thức trọng tâm: Thể tích khối chóp: V = 1/3 * S * h (S là diện tích đáy, h là chiều cao); thể tích khối chóp cụt đều: V = 1/3 * h * (S + S' + √(S * S')) (S, S' là diện tích hai đáy, h là chiều cao); thể tích khối lăng trụ (và khối hộp): V = S * h (S là diện tích đáy, h là chiều cao cạnh bên vuông góc với đáy); ứng dụng để tính thể tích các khối học trong thực tế. Từ khóa: Thể tích, khối chóp, khối lăng trụ, khối hộp, khối chóp cụt đều, diện tích đáy, chiều cao."
+  },
+  {
+    "lessonId": "toan11_t2_ch7_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Quan hệ vuông góc trong không gian",
+    "lessonOrder": 38,
+    "lessonContent": "Bài tập cuối chương VII. Ý chính: Tổng hợp và hệ thống hóa kiến thức chương VII về quan hệ vuông góc trong không gian, góc, khoảng cách và thể tích các khối. Kiến thức trọng tâm: Luyện tập trắc nghiệm và tự luận; chứng minh đường thẳng vuông góc mặt phẳng, hai mặt phẳng vuông góc; xác định và tính số đo góc giữa đường thẳng và mặt phẳng, góc nhị diện; xác định đoạn vuông góc chung và tính khoảng cách chéo nhau; tính thể tích khối chóp, khối lăng trụ và áp dụng toán học giải quyết bài toán thực tế (độ dốc, đo đạc công trình). Từ khóa: Ôn tập chương VII, bài tập quan hệ vuông góc, tính góc không gian, tính khoảng cách, tính thể tích."
+  },
+  {
+    "lessonId": "toan11_t2_b28",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Các quy tắc tính xác suất",
+    "lessonOrder": 40,
+    "lessonContent": "Bài 28: Biến cố hợp, biến cố giao, biến cố độc lập. Ý chính: Các khái niệm cơ bản về quan hệ giữa các biến cố trong phép thử gồm biến cố hợp, biến cố giao và tính độc lập của hai biến cố. Kiến thức trọng tâm: Biến cố hợp: Cho A và B là hai biến cố; biến cố 'A hoặc B xảy ra' gọi là biến cố hợp của A và B, kí hiệu A ∪ B (hoặc A + B); biến cố giao: 'Cả A và B cùng xảy ra' gọi là biến cố giao của A và B, kí hiệu A ∩ B (hoặc AB); hai biến cố A và B độc lập nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia; điều kiện độc lập: P(AB) = P(A)*P(B). Từ khóa: Biến cố hợp, biến cố giao, biến cố độc lập, phép thử, mối quan hệ biến cố."
+  },
+  {
+    "lessonId": "toan11_t2_b29",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Các quy tắc tính xác suất",
+    "lessonOrder": 41,
+    "lessonContent": "Bài 29: Công thức cộng xác suất. Ý chính: Khái niệm hai biến cố xung khắc; công thức cộng xác suất cho hai biến cố xung khắc và công thức cộng xác suất tổng quát cho hai biến cố bất kì. Kiến thức trọng tâm: Biến cố xung khắc: hai biến cố A và B xung khắc khi chúng không đồng thời xảy ra, tức là A ∩ B = ∅; công thức cộng cho hai biến cố xung khắc: nếu A và B xung khắc thì P(A ∪ B) = P(A) + P(B); công thức cộng xác suất tổng quát: cho hai biến cố A và B bất kì, ta có P(A ∪ B) = P(A) + P(B) - P(AB). Từ khóa: Biến cố xung khắc, công thức cộng xác suất, xác suất biến cố hợp, xác suất tổng quát."
+  },
+  {
+    "lessonId": "toan11_t2_b30",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Các quy tắc tính xác suất",
+    "lessonOrder": 42,
+    "lessonContent": "Bài 30: Công thức nhân xác suất cho hai biến cố độc lập. Ý chính: Công thức nhân xác suất áp dụng cho hai biến cố độc lập; phương pháp sử dụng sơ đồ hình cây để phân tích và tính toán xác suất của phép thử nhiều giai đoạn. Kiến thức trọng tâm: Công thức nhân xác suất: nếu hai biến cố A và B độc lập thì P(AB) = P(A)*P(B) (quy tắc này mở rộng cho các biến cố đối độc lập); sử dụng sơ đồ hình cây để phân tích một cách trực quan, khoa học các khả năng xảy ra của phép thử có nhiều giai đoạn liên tiếp, từ đó tính xác suất của biến cố phức hợp. Từ khóa: Công thức nhân xác suất, biến cố độc lập, sơ đồ hình cây, phép thử nhiều giai đoạn."
+  },
+  {
+    "lessonId": "toan11_t2_ch8_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Các quy tắc tính xác suất",
+    "lessonOrder": 43,
+    "lessonContent": "Bài tập cuối chương VIII. Ý chính: Tổng hợp và củng cố toàn bộ các quy tắc tính xác suất đã học của Chương VIII thông qua câu hỏi trắc nghiệm và bài tập tự luận. Kiến thức trọng tâm: Rèn luyện kỹ năng phân biệt các loại biến cố (hợp, giao, độc lập, xung khắc); áp dụng thành thạo công thức cộng xác suất và công thức nhân xác suất cho hai biến cố độc lập; sử dụng sơ đồ hình cây để giải các bài toán xác suất trong các tình huống thực tế đời sống, trò chơi và y tế. Từ khóa: Ôn tập chương VIII, bài tập xác suất, áp dụng công thức cộng/nhân, thực hành tính xác suất."
+  },
+  {
+    "lessonId": "toan11_t2_b31",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Đạo hàm",
+    "lessonOrder": 45,
+    "lessonContent": "Bài 31: Định nghĩa và ý nghĩa của đạo hàm. Ý chính: Định nghĩa đạo hàm của hàm số tại một điểm bằng giới hạn; ý nghĩa vật lý (vận tốc tức thời, cường độ dòng điện tức thời); ý nghĩa hình học của đạo hàm (tiếp tuyến, hệ số góc tiếp tuyến, phương trình tiếp tuyến); khái niệm đạo hàm trên khoảng. Kiến thức trọng tâm: Đạo hàm tại điểm x_0: f'(x_0) = lim_{x->x_0} [f(x) - f(x_0)]/(x - x_0); ý nghĩa vật lý: v(t) = s'(t) là vận tốc tức thời, I(t) = Q'(t) là cường độ dòng điện tức thời; ý nghĩa hình học: f'(x_0) là hệ số góc k của tiếp tuyến của đồ thị hàm số tại điểm M(x_0; f(x_0)); phương trình tiếp tuyến: y - y_0 = f'(x_0)*(x - x_0); đạo hàm trên khoảng (a; b) khi có đạo hàm tại mọi điểm thuộc khoảng đó. Từ khóa: Định nghĩa đạo hàm, vận tốc tức thời, hệ số góc tiếp tuyến, phương trình tiếp tuyến, tiếp điểm."
+  },
+  {
+    "lessonId": "toan11_t2_b32",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Đạo hàm",
+    "lessonOrder": 46,
+    "lessonContent": "Bài 32: Các quy tắc tính đạo hàm. Ý chính: Công thức đạo hàm của một số hàm số sơ cấp cơ bản; các quy tắc tính đạo hàm của tổng, hiệu, tích, thương; đạo hàm của hàm hợp; đạo hàm của hàm số lượng giác, hàm số mũ và lôgarit; bảng đạo hàm đầy đủ. Kiến thức trọng tâm: Đạo hàm sơ cấp: (x^n)' = n*x^(n-1), (√x)' = 1/(2√x); quy tắc đạo hàm: (u ± v)' = u' ± v', (uv)' = u'v + uv', (u/v)' = (u'v - uv')/v² (v ≠ 0); đạo hàm hàm hợp: y'_x = y'_u * u'_x; đạo hàm lượng giác: (sin x)' = cos x, (cos x)' = -sin x, (tan x)' = 1/cos²x, (cot x)' = -1/sin²x; đạo hàm mũ/lôgarit: (e^x)' = e^x, (a^x)' = a^x * ln a, (ln x)' = 1/x, (log_a x)' = 1/(x * ln a). Từ khóa: Quy tắc tính đạo hàm, đạo hàm lượng giác, đạo hàm mũ, đạo hàm lôgarit, đạo hàm hàm hợp."
+  },
+  {
+    "lessonId": "toan11_t2_b33",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Đạo hàm",
+    "lessonOrder": 47,
+    "lessonContent": "Bài 33: Đạo hàm cấp hai. Ý chính: Khái niệm đạo hàm cấp hai của hàm số; ý nghĩa cơ học của đạo hàm cấp hai (gia tốc tức thời của chuyển động thẳng). Kiến thức trọng tâm: Định nghĩa: Cho hàm số f(x) có đạo hàm f'(x); nếu f'(x) có đạo hàm thì đạo hàm của nó gọi là đạo hàm cấp hai của f(x), ký hiệu f''(x) hoặc y''; ý nghĩa vật lý (cơ học): gia tốc tức thời của chuyển động thẳng s(t) tại thời điểm t là đạo hàm cấp hai của phương trình chuyển động: a(t) = s''(t) = v'(t); phương pháp tính đạo hàm cấp hai (lấy đạo hàm hai lần liên tiếp) và ứng dụng vật lý. Từ khóa: Đạo hàm cấp hai, gia tốc tức thời, chuyển động thẳng, đạo hàm hai lần."
+  },
+  {
+    "lessonId": "toan11_t2_ch9_bt",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Đạo hàm",
+    "lessonOrder": 48,
+    "lessonContent": "Bài tập cuối chương IX. Ý chính: Tổng hợp kiến thức lý thuyết về đạo hàm và rèn luyện kỹ năng giải bài tập đạo hàm chương IX. Kiến thức trọng tâm: Ôn tập trắc nghiệm và tự luận; tính đạo hàm bằng định nghĩa và quy tắc đạo hàm cơ bản/hàm hợp; viết phương trình tiếp tuyến của đồ thị hàm số tại một điểm, biết hệ số góc hoặc song song/vuông góc với đường thẳng cho trước; tính đạo hàm cấp hai và giải quyết bài toán vật lý về vận tốc, gia tốc tức thời. Từ khóa: Ôn tập chương IX, bài tập tính đạo hàm, viết phương trình tiếp tuyến, đạo hàm cấp hai."
+  },
+  {
+    "lessonId": "toan11_t2_th3",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm (Tập 2)",
+    "lessonOrder": 49,
+    "lessonContent": "Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit. Ý chính: Tìm hiểu và ứng dụng thực tế của hàm số mũ và lôgarit thông qua các mô hình tăng trưởng, suy thoái và đo lường thực tế. Kiến thức trọng tâm: Mô hình tăng trưởng/suy thoái mũ A(t) = A_0 * e^(k*t) (áp dụng tính tốc độ tăng trưởng dân số, phân rã phóng xạ carbon-14 để xác định tuổi của các công cụ cổ đại); Thang đo lôgarit: Thang đo pH tính độ axit/kiềm pH = -log[H+]; Thang đo Richter tính cường độ động đất M = log(I/S); Thang đo decibel đo mức cường độ âm thanh L = 10*log(I/I_0). Từ khóa: Trải nghiệm mũ lôgarit, tăng trưởng dân số, phân rã carbon-14, thang đo pH, độ Richter, mức cường độ âm (decibel)."
+  },
+  {
+    "lessonId": "toan11_t2_th4",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm (Tập 2)",
+    "lessonOrder": 50,
+    "lessonContent": "Hoạt động thực hành trải nghiệm Hình học. Ý chính: Thực hành tạo dựng mô hình không gian bằng tay và đo đạc, tính toán các góc, khoảng cách và thể tích; sử dụng công nghệ vẽ hình học không gian. Kiến thức trọng tâm: Hoạt động 1: Gấp giấy tạo dựng các mô hình lăng trụ, hình hộp, hình lập phương, hình chóp và tứ diện từ tấm bìa phẳng; Hoạt động 2: thực hành đo đạc thực tế (đo góc giữa tia nắng mặt trời và mặt đất, đo góc nhị diện) và tính toán khoảng cách, thể tích vật thể; Hoạt động 3: sử dụng phần mềm GeoGebra vẽ trực quan các hình lăng trụ, các khối không gian trên máy tính. Từ khóa: Trải nghiệm hình học, gấp giấy hình không gian, đo đạc thực tế, phần mềm GeoGebra, hình học trực quan."
+  },
+  {
+    "lessonId": "toan11_t2_ot_cuoinam",
+    "grade": 11,
+    "subject": "Toán",
+    "chapterName": "Ôn tập cuối năm",
+    "lessonOrder": 51,
+    "lessonContent": "Bài tập ôn tập cuối năm. Ý chính: Tổng hợp và ôn tập toàn bộ chương trình Toán học lớp 11 cả hai tập một và hai. Kiến thức trọng tâm: Hệ thống hóa kiến thức toàn khóa gồm lượng giác, dãy số và cấp số, thống kê mẫu số liệu ghép nhóm, hình học không gian (quan hệ song song, quan hệ vuông góc, góc, khoảng cách, thể tích), giới hạn, liên tục, xác suất và đạo hàm; rèn luyện giải đề trắc nghiệm và tự luận tổng hợp chuẩn bị cho kỳ thi cuối năm. Từ khóa: Ôn tập cuối năm, tổng hợp Toán 11, luyện thi cuối kì, ôn tập kiến thức đại số và hình học."
+  }
+]

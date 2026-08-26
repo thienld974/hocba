@@ -1,0 +1,786 @@
+[
+  {
+    "lessonId": "tienganh11_u1_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 1,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Bài đối thoại \"A healthy lifestyle\" giữa Mark và Nam bàn về thói quen ăn uống lành mạnh và tập thể thao. Khám phá bí quyết sống thọ của ông Nam như thức dậy sớm, tập thể dục, ăn nhiều rau quả và duy trì lối sống tích cực. Từ khóa: healthy lifestyle, active, balanced diet."
+  },
+  {
+    "lessonId": "tienganh11_u1_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 2,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm dạng mạnh và yếu của trợ động từ (strong and weak forms of auxiliary verbs). Từ vựng liên quan đến chủ đề sức khỏe và thể hình (treatment, strength, muscles, suffer, examine, fitness). Ngữ pháp phân biệt thì Quá khứ đơn (Past simple) và Hiện tại hoàn thành (Present perfect) thông qua các ngữ cảnh thực tế. Từ khóa: treatment, muscle, past simple, present perfect."
+  },
+  {
+    "lessonId": "tienganh11_u1_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 3,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"How to live a long and healthy life\" cung cấp 3 nhóm lời khuyên cốt lõi: ăn uống lành mạnh (kiểm tra nhãn thực phẩm, ăn nhiều trái cây), rèn luyện thể chất thường xuyên (bắt đầu từ mức độ nhẹ rồi tăng dần), và ngủ đủ giấc (tránh cà phê trước ngủ, tắt thiết bị điện tử ít nhất 30 phút trước khi ngủ). Từ khóa: life expectancy, sleep, fitness."
+  },
+  {
+    "lessonId": "tienganh11_u1_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 4,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thực hành đưa ra các chỉ dẫn cho một chế độ tập thể dục (Giving instructions for an exercise routine) cụ thể như bài tập nhảy vung tay chân (star jumps). Sử dụng các từ ngữ trình tự liên kết: To begin with, Then, As you jump, Finally. Từ khóa: instructions, exercise routine, sequence."
+  },
+  {
+    "lessonId": "tienganh11_u1_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 5,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe một chương trình truyền hình đàm thoại về chủ đề thực phẩm và sức khỏe (Food and health). Tìm hiểu các loại thực phẩm tốt cho da, não, xương và cơ bắp (sữa chua, rau xanh, cá, trứng). Từ khóa: food and health, skin, brain, bones."
+  },
+  {
+    "lessonId": "tienganh11_u1_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 6,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn cấu trúc và viết một tin nhắn ngắn (Writing a short message) để trả lời hoặc phản hồi một lời mời tham gia hoạt động sức khỏe, bảo đảm đầy đủ các phần: Lời chào (Greeting), Thân bài (Main body) và Lời kết (Closing). Từ khóa: short message, invitation, response."
+  },
+  {
+    "lessonId": "tienganh11_u1_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 7,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp hàng ngày: Đưa ra lời đề nghị giúp đỡ và phản hồi lịch sự (Offering help and responding). Phần CLIL về vi khuẩn và vi-rút (Bacteria and viruses): Tìm hiểu kích thước, cấu trúc sinh học, con đường lây nhiễm và cách phòng tránh/điều trị (lưu ý kháng sinh không có tác dụng với vi-rút). Từ khóa: offering help, bacteria, viruses, antibiotics."
+  },
+  {
+    "lessonId": "tienganh11_u1_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 8,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập và hệ thống hóa kiến thức toàn Unit 1: luyện phát âm trợ động từ dạng mạnh/yếu; củng cố từ vựng về sức khỏe; sửa các lỗi sai ngữ pháp liên quan đến thì Quá khứ đơn và Hiện tại hoàn thành. Từ khóa: review, health vocabulary, grammar check."
+  },
+  {
+    "lessonId": "tienganh11_u1_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 1: A LONG AND HEALTHY LIFE",
+    "lessonOrder": 9,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án thiết kế áp phích cổ động lối sống lành mạnh (Healthy Habits Posters) thúc đẩy thanh thiếu niên xây dựng thói quen tốt như ăn uống cân bằng, tập thể dục thường xuyên và bảo vệ cơ thể khỏi bệnh tật. Từ khóa: poster, healthy habits, team presentation."
+  },
+  {
+    "lessonId": "tienganh11_u2_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 10,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Bài đối thoại \"What is a generation gap?\" giới thiệu khái niệm khoảng cách thế hệ qua cuộc trò chuyện giữa cô Hoa, Mark và Mai. Phân tích xung đột về quan điểm sống, nghề nghiệp tương lai và vai trò giới trong gia đình hạt nhân và gia đình nhiều thế hệ. Từ khóa: generation gap, nuclear family, traditional views, conflicts."
+  },
+  {
+    "lessonId": "tienganh11_u2_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 11,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm các dạng viết tắt (Contracted forms) phổ biến trong giao tiếp. Trau dồi từ vựng về sự khác biệt thế hệ (traditional, generational, cultural, values). Học ngữ pháp động từ khuyết thiếu biểu thị nghĩa vụ, khuyên bảo: must, have to, should. Từ khóa: contracted forms, values, modal verbs, obligation."
+  },
+  {
+    "lessonId": "tienganh11_u2_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 12,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"Different generations\" phác họa đặc trưng của ba thế hệ: Thế hệ X (sinh năm 1965-1980, tư duy phản biện cao), Thế hệ Y (sinh đầu những năm 1980 đến cuối 1990, tò mò, thích làm việc nhóm), và Thế hệ Z (sinh cuối những năm 1990 đến đầu 2010, thạo công nghệ, sáng tạo, tự chủ). Từ khóa: Generation X, Generation Y, Generation Z, digital natives."
+  },
+  {
+    "lessonId": "tienganh11_u2_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 13,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thực hành thảo luận về sự khác biệt giữa các thế hệ trong gia đình (Talking about different generations of a family). Học cách bắt đầu, dẫn dắt và khơi gợi ý kiến trong cuộc đối thoại. Từ khóa: family discussion, opinions, start a conversation."
+  },
+  {
+    "lessonId": "tienganh11_u2_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 14,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe đoạn hội thoại về xung đột gia đình (Family conflicts) xoay quanh các chủ đề quen thuộc ở tuổi teen: sở thích thời trang, kiểu tóc, nhuộm tóc, giới hạn giờ chơi game và thiết bị công nghệ của cha mẹ. Từ khóa: family conflicts, rules, screen time."
+  },
+  {
+    "lessonId": "tienganh11_u2_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 15,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết một bài văn nghị luận bày tỏ ý kiến (An opinion essay) thảo luận về chủ đề: Liệu cha mẹ có nên giới hạn nghiêm ngặt thời gian sử dụng thiết bị màn hình của thanh thiếu niên hay không. Từ khóa: opinion essay, teenagers, screen time limit."
+  },
+  {
+    "lessonId": "tienganh11_u2_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 16,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp hàng ngày: Cách xin phép và cho phép (Asking for and giving permission). Phần văn hóa khám phá khoảng cách thế hệ trong các gia đình người Mỹ gốc Á (The generation gap in Asian American families), sự giao thoa và xung đột văn hóa giữa các thế hệ. Từ khóa: permission, culture, Asian American families."
+  },
+  {
+    "lessonId": "tienganh11_u2_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 17,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập và kiểm tra kiến thức về Unit 2: luyện phát âm viết tắt; giải ô chữ củng cố từ vựng về gia đình và thế hệ; sửa lỗi sai sử dụng động từ khuyết thiếu (must, have to, should). Từ khóa: review, crossword, modal verbs."
+  },
+  {
+    "lessonId": "tienganh11_u2_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 2: THE GENERATION GAP",
+    "lessonOrder": 18,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm thực hiện một khảo sát (survey) để điều tra về khoảng cách thế hệ trong gia đình thực tế của học sinh và thuyết trình báo cáo trước lớp về các giải pháp thu hẹp khoảng cách. Từ khóa: survey, generational differences, presentation."
+  },
+  {
+    "lessonId": "tienganh11_u3_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 19,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Đoạn hội thoại \"An exhibition of future cities\" giới thiệu viễn cảnh về các đô thị tương lai qua chuyến tham quan triển lãm. Thảo luận các yếu tố như thành phố xanh, ứng dụng AI, cảm biến thông minh và giảm thiểu dấu chân các-bon. Từ khóa: future cities, green city, AI, carbon footprint."
+  },
+  {
+    "lessonId": "tienganh11_u3_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 20,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm nối âm phụ âm cuối với nguyên âm đầu (Linking final consonants to initial vowels). Từ vựng về cuộc sống đô thị thông minh (city dweller, infrastructure, roof garden, skyscraper). Ngữ pháp học về động từ trạng thái ở dạng tiếp diễn (Stative verbs in continuous form) và động từ nối (Linking verbs). Từ khóa: linking sounds, stative verbs, linking verbs."
+  },
+  {
+    "lessonId": "tienganh11_u3_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 21,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"Characteristics of future cities\" phân tích các tính chất nổi bật của thành phố tương lai: tính thông minh (dùng AI và cảm biến quản lý đô thị hiệu quả) và tính bền vững (không gian xanh, năng lượng tái tạo, phương tiện giao thông công cộng sinh thái). Từ khóa: sensors, pedestrian zones, liveable, sustainable."
+  },
+  {
+    "lessonId": "tienganh11_u3_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 22,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thực hành thảo luận về thành phố tương lai (giao thông, cơ sở hạ tầng, điều kiện sống). Rèn luyện kỹ năng duy trì và tiếp nối cuộc trò chuyện bằng cách đặt câu hỏi Wh- liên tục và tự nhiên. Từ khóa: future cities, discussion, Wh-questions."
+  },
+  {
+    "lessonId": "tienganh11_u3_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 23,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe cuộc phỏng vấn về những mặt hạn chế của việc sinh sống tại thành phố thông minh (Disadvantages of living in a smart city) như mất quyền riêng tư do camera giám sát, cảm giác đơn độc cô lập xã hội và rào cản công nghệ đối với người già. Từ khóa: privacy, camera, lonely, disadvantages."
+  },
+  {
+    "lessonId": "tienganh11_u3_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 24,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết bài báo (An article about the advantages and disadvantages of living in a smart city) phân tích khách quan hai mặt lợi và hại của việc sinh sống ở một thành phố thông minh. Từ khóa: article, advantages, disadvantages, smart city."
+  },
+  {
+    "lessonId": "tienganh11_u3_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 25,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp hàng ngày: Cách diễn đạt sự chắc chắn và không chắc chắn (Expressing certainty and uncertainty). Phần văn hóa khám phá các mô hình thành phố thông minh tiêu biểu trên thế giới (Singapore, New York, Copenhagen). Từ khóa: certainty, uncertainty, smart cities, technology."
+  },
+  {
+    "lessonId": "tienganh11_u3_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 26,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Tổng hợp ôn tập Unit 3: rèn luyện nối âm; củng cố từ vựng về đô thị và cơ sở hạ tầng; sửa các lỗi sai về cách sử dụng động từ nối và động từ trạng thái trong câu. Từ khóa: review, vocabulary, stative verbs, linking verbs."
+  },
+  {
+    "lessonId": "tienganh11_u3_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 3: CITIES OF THE FUTURE",
+    "lessonOrder": 27,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án thiết kế áp phích mô phỏng thành phố tương lai lý tưởng (The ideal city of the future) của nhóm và thuyết trình bảo vệ các ý tưởng quy hoạch xanh và thông minh. Từ khóa: project, ideal city, poster presentation."
+  },
+  {
+    "lessonId": "tienganh11_r1_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 1",
+    "lessonOrder": 28,
+    "lessonContent": "Bài học: Language. Ý chính: Hệ thống lại ngữ âm (phát âm nối âm, trợ động từ yếu/mạnh, từ viết tắt); củng cố từ vựng từ Unit 1 đến Unit 3; ôn tập các điểm ngữ pháp cốt lõi đã học (quá khứ đơn vs hiện tại hoàn thành, động từ khuyết thiếu, động từ trạng thái và động từ nối). Từ khóa: pronunciation review, grammar check, vocabulary test."
+  },
+  {
+    "lessonId": "tienganh11_r1_skills",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 1",
+    "lessonOrder": 29,
+    "lessonContent": "Bài học: Skills. Ý chính: Rèn luyện tích hợp các kỹ năng: Đọc hiểu về nguyên nhân khoảng cách thế hệ; Nghe hiểu về các yếu tố gia tăng tuổi thọ trung bình thế giới và Nhật Bản; Nói về đặc điểm thành phố tương lai giúp nâng cao sức khỏe; Viết bài luận ý kiến về việc cha mẹ so sánh thời thơ ấu của mình với con cái. Từ khóa: reading, listening, speaking, writing, skills integration."
+  },
+  {
+    "lessonId": "tienganh11_u4_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 30,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Bài đối thoại \"At the ASEAN Youth Volunteer Programme (AYVP) office\" thảo luận về mục tiêu của chương trình tình nguyện viên trẻ ASEAN, các hoạt động phát triển cộng đồng và quy trình phỏng vấn, tuyển chọn tình nguyện viên. Từ khóa: AYVP, volunteer, qualified, ASEAN community."
+  },
+  {
+    "lessonId": "tienganh11_u4_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 31,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm hiện tượng nuốt âm nguyên âm yếu (Elision of vowels trong các từ như history, different, police). Trau dồi từ vựng liên quan đến khối ASEAN (cultural exchange, leadership skills, contribution). Học cấu trúc danh động từ làm chủ ngữ và tân ngữ (Gerunds as subjects and objects). Từ khóa: elision, ASEAN, gerunds."
+  },
+  {
+    "lessonId": "tienganh11_u4_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 32,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"ASEAN news\" tổng hợp ba bản tin nổi bật: tàu thanh niên Đông Nam Á và Nhật Bản (SSEAYP) thúc đẩy giao lưu văn hóa; diễn đàn lãnh đạo trẻ ASEAN; hội thảo thúc đẩy bình đẳng giới trong hoạt động thể thao của phụ nữ ASEAN. Từ khóa: SSEAYP, cultural exchange, gender equality."
+  },
+  {
+    "lessonId": "tienganh11_u4_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 33,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thảo luận về các năng lực và kinh nghiệm cần thiết để tham gia chương trình SSEAYP (Discussing necessary qualifications for joining a programme), bày tỏ sự đồng tình và phản đối một cách lịch thiệp. Từ khóa: qualifications, speaking skills, agreement, disagreement."
+  },
+  {
+    "lessonId": "tienganh11_u4_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 34,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe cuộc hội thoại thảo luận về chuyến tham quan học tập của học sinh ASEAN (ASEAN school tour programme), các hoạt động giao lưu nghệ thuật truyền thống và đón tiếp học sinh quốc tế tại trường học. Từ khóa: school tour, foreign students, cultural exchange."
+  },
+  {
+    "lessonId": "tienganh11_u4_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 35,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết một bản đề xuất tổ chức một sự kiện (Writing a proposal for a welcome event) đón tiếp đoàn học sinh ASEAN đến giao lưu, tuân thủ đúng định dạng chuẩn của văn bản đề xuất. Từ khóa: proposal, welcome event, formatting."
+  },
+  {
+    "lessonId": "tienganh11_u4_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 36,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Cách đưa ra và phản hồi lời khen ngợi lịch sự (Giving and responding to compliments). Phần văn hóa khám phá các lễ hội đón năm mới độc đáo ở các quốc gia ASEAN (Việt Nam, Thái Lan, Lào, Myanmar). Từ khóa: compliments, New Year festivals, ASEAN culture."
+  },
+  {
+    "lessonId": "tienganh11_u4_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 37,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập củng cố Unit 4: thực hành phát âm nuốt âm; kiểm tra từ vựng về ASEAN và kỹ năng lãnh đạo; luyện tập viết lại câu sử dụng danh động từ làm chủ ngữ/tân ngữ. Từ khóa: review, vocabulary, gerunds."
+  },
+  {
+    "lessonId": "tienganh11_u4_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 4: ASEAN AND VIET NAM",
+    "lessonOrder": 38,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm \"The Colours of ASEAN\": tìm hiểu thông tin tổng quan, địa lý, biểu tượng, quốc kỳ, ngôn ngữ và văn hóa của một quốc gia thành viên ASEAN để thiết kế bưu ảnh hoặc thuyết trình. Từ khóa: research, ASEAN member, presentation."
+  },
+  {
+    "lessonId": "tienganh11_u5_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 39,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Đoạn hội thoại \"A presentation about global warming\" thảo luận về các nguyên nhân gây ra hiện tượng nóng lên toàn cầu (đốt nhiên liệu hóa thạch, nạn phá rừng), hiệu ứng nhà kính và các hậu quả biến đổi khí hậu khắc nghiệt. Từ khóa: global warming, fossil fuels, greenhouse effect."
+  },
+  {
+    "lessonId": "tienganh11_u5_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 40,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm trọng âm câu và nhịp điệu (Sentence stress and rhythm). Từ vựng về môi trường và nóng lên toàn cầu (greenhouse gas, renewable, emissions, coal, soot). Ngữ pháp mệnh đề phân từ hiện tại (Present participle clauses) và mệnh đề phân từ quá khứ (Past participle clauses). Từ khóa: sentence stress, participle clauses, cause and effect."
+  },
+  {
+    "lessonId": "tienganh11_u5_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 41,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"The UN Climate Change Conference\" trình bày các mục tiêu chính của hội nghị biến đổi khí hậu (COP): khống chế mức tăng nhiệt độ dưới 1.5°C, giảm 50% lượng khí thải CO2 vào năm 2030, ngừng sử dụng than đá, chấm dứt tàn phá rừng và hạn chế khí methane (CH4). Từ khóa: COP, temperature limit, carbon emissions, methane."
+  },
+  {
+    "lessonId": "tienganh11_u5_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 42,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thảo luận về các hoạt động của con người gây nóng lên toàn cầu (Discussing human activities and global warming). Luyện tập thuyết trình và trình bày các lập luận, chứng cứ rõ ràng để bảo vệ quan điểm. Từ khóa: human activities, discussion, environmental impact."
+  },
+  {
+    "lessonId": "tienganh11_u5_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 43,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe bài thuyết trình về tác động của các bon đen (black carbon/soot) đối với nhiệt độ Trái Đất, nguồn gốc phát sinh từ các hoạt động sinh hoạt hằng ngày (nấu nướng bằng than củi, đốt rác tự phát) và cơ chế hấp thụ nhiệt. Từ khóa: black carbon, soot, absorption, global temperature."
+  },
+  {
+    "lessonId": "tienganh11_u5_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 44,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn thiết kế và viết một tờ gấp tuyên truyền (Writing a leaflet to persuade people to reduce black carbon emissions) nhằm thuyết phục cộng đồng giảm thiểu khí thải các bon đen tại hộ gia đình. Từ khóa: leaflet, persuasion, black carbon."
+  },
+  {
+    "lessonId": "tienganh11_u5_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 45,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Cách đưa ra lời cảnh báo và cách phản hồi (Giving and responding to warnings). Phần CLIL khám phá các giải pháp xanh giúp giảm thiểu tác động môi trường của hoạt động trồng trọt, chăn nuôi nông nghiệp. Từ khóa: warnings, environmental impact, farming, green agriculture."
+  },
+  {
+    "lessonId": "tienganh11_u5_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 46,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập tổng kết Unit 5: thực hành nhịp điệu nói; củng cố trường từ vựng về biến đổi khí hậu; luyện tập viết lại câu sử dụng mệnh đề phân từ hiện tại/quá khứ để rút gọn. Từ khóa: review, sentence rhythm, participle clauses."
+  },
+  {
+    "lessonId": "tienganh11_u5_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 5: GLOBAL WARMING",
+    "lessonOrder": 47,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm tiến hành một cuộc điều tra khảo sát nhỏ về nhận thức và các hành động thực tế của người dân tại địa phương nhằm hạn chế nóng lên toàn cầu và bảo vệ môi trường sống. Từ khóa: survey, community action, green solutions."
+  },
+  {
+    "lessonId": "tienganh11_r2_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 2",
+    "lessonOrder": 48,
+    "lessonContent": "Bài học: Language. Ý chính: Hệ thống lại ngữ âm (nuốt âm, trọng âm câu); ôn tập từ vựng của Unit 4 và Unit 5; củng cố các mảng ngữ pháp đã học (danh động từ làm chủ ngữ/tân ngữ, mệnh đề phân từ hiện tại và quá khứ). Từ khóa: language review, pronunciation, grammar check."
+  },
+  {
+    "lessonId": "tienganh11_r2_skills",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 2",
+    "lessonOrder": 49,
+    "lessonContent": "Bài học: Skills. Ý chính: Thực hành rèn luyện 4 kỹ năng: Đọc hiểu về Diễn đàn giới trẻ ASEAN; Nghe cuộc hội thoại về các giải pháp kỹ thuật giảm phát thải khí CO2; Nói về cách ứng phó biến đổi khí hậu của giới trẻ; Viết đề xuất tổ chức hoạt động \"Tuần lễ xanh ASEAN\". Từ khóa: skills integration, reading, listening, speaking, writing."
+  },
+  {
+    "lessonId": "tienganh11_u6_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 50,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Bài đối thoại \"Heritage sites in Viet Nam\" phác thảo kế hoạch cho chuyến đi thực tế của lớp đến quần thể danh thắng Tràng An (Ninh Bình) và thảo luận về phố cổ Hội An, nghệ thuật đờn ca tài tử Nam Bộ. Từ khóa: heritage sites, UNESCO, cultural value, Trang An."
+  },
+  {
+    "lessonId": "tienganh11_u6_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 51,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm ngữ điệu trong câu trần thuật, câu lệnh và câu liệt kê (Intonation in statements, commands, and lists). Từ vựng về bảo tồn di sản (restore, preserve, historic, historical). Ngữ pháp học về mệnh đề giản lược sử dụng động từ nguyên mẫu có 'to' (To-infinitive clauses) sau số thứ tự hoặc so sánh nhất. Từ khóa: intonation, heritage vocabulary, to-infinitive clauses."
+  },
+  {
+    "lessonId": "tienganh11_u6_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 52,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"Preserving our heritage: Ideas from teenagers\" giới thiệu ba ý tưởng bảo tồn di sản của học sinh lớp 11: quảng bá di sản qua mạng xã hội (bưu thiếp thử thách), thành lập các câu lạc bộ di sản lịch sử tại trường, và tổ chức câu lạc bộ nghệ thuật biểu diễn dân gian truyền thống. Từ khóa: teenager ideas, social media promotion, folk clubs."
+  },
+  {
+    "lessonId": "tienganh11_u6_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 53,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thảo luận về các phương án và giải pháp thực tế để bảo tồn di sản văn hóa vật thể/phi vật thể. Rèn luyện cách duy trì cuộc đối thoại bằng kỹ năng biểu lộ sự quan tâm và khích lệ người nói. Từ khóa: preserve heritage, discussion, interest and encouragement."
+  },
+  {
+    "lessonId": "tienganh11_u6_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 54,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe bài giới thiệu của hướng dẫn viên du lịch về Vườn di sản quần thể danh thắng Tràng An, tìm hiểu cấu trúc địa chất đá vôi độc đáo, các hang động khảo cổ cổ xưa chứng minh sự hiện diện của con người cách đây 30,000 năm và đa dạng sinh học phong phú. Từ khóa: tour guide, Trang An, archaeological caves, biodiversity."
+  },
+  {
+    "lessonId": "tienganh11_u6_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 55,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết tờ rơi tuyên truyền (Writing a leaflet to inform people about ways to preserve Trang An Scenic Landscape Complex) nêu bật các thách thức mà danh thắng đang đối mặt (ô nhiễm từ quá tải du lịch) và đề xuất biện pháp khắc phục. Từ khóa: leaflet, preserve, tourism impact."
+  },
+  {
+    "lessonId": "tienganh11_u6_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 56,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Cách hỏi và chỉ đường trên sơ đồ (Asking for and giving directions). Phần văn hóa khám phá các sáng kiến bảo tồn di sản độc đáo trên thế giới (gây quỹ cộng đồng phục dựng Pompeii tại Ý, luật phạt nặng phá hoại rạn san hô ở Úc, tổ chức lễ hội văn hóa thu hút du lịch ở Tây Ban Nha). Từ khóa: directions, crowdfunding, strict heritage laws, tourism."
+  },
+  {
+    "lessonId": "tienganh11_u6_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 57,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập tổng kết kiến thức Unit 6: thực hành ngữ điệu câu; củng cố các tính từ chỉ di sản; viết lại câu sử dụng mệnh đề nguyên mẫu có 'to' (to-infinitive clauses) sau các cụm từ chỉ thứ tự. Từ khóa: review, intonation, to-infinitive clauses."
+  },
+  {
+    "lessonId": "tienganh11_u6_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 6: PRESERVING OUR HERITAGE",
+    "lessonOrder": 58,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm \"How can we preserve our heritage?\": lựa chọn một di sản cụ thể tại địa phương hoặc trên thế giới, thảo luận và đề xuất các giải pháp bảo vệ sáng tạo để thuyết trình trước lớp. Từ khóa: local heritage, preservation campaign, team project."
+  },
+  {
+    "lessonId": "tienganh11_u7_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 59,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Bài đối thoại giới thiệu các định hướng học tập đa dạng cho học sinh sau khi tốt nghiệp THPT: học đại học nghiên cứu để lấy bằng học thuật hoặc theo học các trường dạy nghề kết hợp thực tập thực tế để sớm đi làm. Từ khóa: school-leavers, higher education, vocational school, career options."
+  },
+  {
+    "lessonId": "tienganh11_u7_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 60,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm ngữ điệu trong câu hỏi Wh- và câu hỏi Yes/No (Intonation in Wh- and Yes/No questions). Từ vựng về học tập sau phổ thông (vocational, higher education, qualification, apprenticeship). Ngữ pháp học về danh động từ hoàn thành (Perfect gerunds) và mệnh đề phân từ hoàn thành (Perfect participle clauses). Từ khóa: intonation, education vocabulary, perfect gerunds, perfect participle clauses."
+  },
+  {
+    "lessonId": "tienganh11_u7_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 61,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"The educational journey for school-leavers\" phân tích hai con đường: Học thuật chính quy (phát triển sâu về mặt lý thuyết, mở ra nhiều cơ hội sự nghiệp quản lý) và Đào tạo nghề thực hành (tập trung kỹ năng làm việc cụ thể, thực tập có lương, sớm tự chủ tài chính). Từ khóa: formal learning, academic study, vocational training, apprenticeship."
+  },
+  {
+    "lessonId": "tienganh11_u7_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 62,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thảo luận so sánh lợi ích của đào tạo nghề so với học đại học (Vocational training vs. academic study). Học các cụm từ đàm thoại và rèn luyện kỹ năng kết thúc cuộc trò chuyện lịch sự. Từ khóa: study options, comparison, closing conversation."
+  },
+  {
+    "lessonId": "tienganh11_u7_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 63,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe đoạn hội thoại tư vấn tại văn phòng trường dạy nghề ABC về các khóa học ngắn hạn đa dạng (nấu ăn, khách sạn), thời gian học linh hoạt, cơ hội thực tập trực tiếp trong nhà hàng thực tế. Từ khóa: vocational school, short courses, hands-on experience."
+  },
+  {
+    "lessonId": "tienganh11_u7_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 64,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn cấu trúc và viết một thư yêu cầu (Writing a request letter about a course) gửi đến trung tâm đào tạo để hỏi thông tin chi tiết về khóa học nghề, thời gian khai giảng, yêu cầu đầu vào và học phí. Từ khóa: request letter, course information, formal structure."
+  },
+  {
+    "lessonId": "tienganh11_u7_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 65,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Sắp xếp cuộc hẹn và cách phản hồi tích cực/đề xuất thời gian khác (Making an appointment). Phần văn hóa tìm hiểu hệ thống giáo dục sau phổ thông tại Vương quốc Anh (Sixth-form, học nghề, đại học nghiên cứu). Từ khóa: appointments, UK education, sixth-form, A-levels."
+  },
+  {
+    "lessonId": "tienganh11_u7_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 66,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Tổng hợp ôn tập Unit 7: thực hành ngữ điệu câu hỏi; củng cố trường từ vựng giáo dục; luyện tập viết lại câu sử dụng danh động từ hoàn thành hoặc phân từ hoàn thành để nhấn mạnh trình tự thời gian. Từ khóa: review, perfect gerunds, perfect participle clauses."
+  },
+  {
+    "lessonId": "tienganh11_u7_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 7: EDUCATION OPTIONS FOR SCHOOL-LEAVERS",
+    "lessonOrder": 67,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm \"Choosing the perfect educational institution\": khảo sát nghiên cứu về một cơ sở giáo dục cụ thể (trường nghề, cao đẳng, đại học) và thuyết trình chi tiết về cơ sở vật chất, ngành học tiêu biểu và điều kiện xét tuyển. Từ khóa: research, educational institution, presentation."
+  },
+  {
+    "lessonId": "tienganh11_u8_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 68,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Bài đối thoại \"Earning your parents' trust\" thảo luận về cách đạt được sự tự lập và tin cậy từ cha mẹ qua việc tự làm việc nhà (nấu ăn, dọn dẹp), lập thời gian biểu khoa học bằng app quản lý và tìm kiếm công việc bán thời gian để tự lo tài chính. Từ khóa: independent, trust, time-management, chores."
+  },
+  {
+    "lessonId": "tienganh11_u8_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 69,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm ngữ điệu lên giọng ở cuối trong câu mời, câu đề xuất và yêu cầu lịch sự (Intonation in invitations, suggestions, and polite requests). Từ vựng về tự lập (self-study, trust, self-motivated). Ngữ pháp học về câu chẻ nhấn mạnh thành phần (Cleft sentences with It is/was... that/who...). Từ khóa: polite requests, self-study, cleft sentences, emphasis."
+  },
+  {
+    "lessonId": "tienganh11_u8_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 70,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"How to become independent\" phác thảo các kỹ năng sống tự lập thiết yếu: tự quản lý tài chính thông minh (chi tiêu, tiết kiệm), tự chăm sóc bản thân (nấu ăn dinh dưỡng, sinh hoạt điều độ ngủ đủ 9 tiếng), và duy trì thói quen quản lý thời gian hiệu quả. Từ khóa: money management, self-care, sleep, time-management tools."
+  },
+  {
+    "lessonId": "tienganh11_u8_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 71,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thực hành đưa ra chỉ dẫn thực hiện các kỹ năng sống cơ bản hằng ngày (giặt đồ bằng máy giặt, nấu cơm bằng nồi cơm điện). Rèn luyện cách sử dụng các trạng từ và từ liên kết chỉ trình tự hoạt động. Từ khóa: life skills, instructions, step-by-sequence, cooking rice."
+  },
+  {
+    "lessonId": "tienganh11_u8_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 72,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe đoạn hội thoại về đặc điểm của người học tự lập (Becoming independent learners): tự chủ động đặt mục tiêu học tập, biết quản lý tốt thời gian biểu học cá nhân, sẵn sàng chịu trách nhiệm và tự tạo động lực phấn đấu. Từ khóa: independent learners, motivation, goal-setting, responsibility."
+  },
+  {
+    "lessonId": "tienganh11_u8_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 73,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết bài báo phân tích (Writing an article about the pros and cons of self-study) thảo luận khách quan về hai mặt lợi (tự do thời gian, tăng tính tự lập) và hại (thiếu tương tác trực tiếp, dễ mất tập trung) của phương pháp tự học. Từ khóa: self-study article, pros and cons, academic skills."
+  },
+  {
+    "lessonId": "tienganh11_u8_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 74,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Cách bày tỏ lời chúc tốt đẹp hằng ngày và cách phản hồi (Expressing best wishes and responding). Phần văn hóa tìm hiểu cách rèn luyện tính độc lập của thanh thiếu niên Mỹ (Teen independence in the US) qua làm thêm, tình nguyện. Từ khóa: best wishes, teen independence, US teenagers, part-time jobs."
+  },
+  {
+    "lessonId": "tienganh11_u8_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 75,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập củng cố Unit 8: thực hành nói với ngữ điệu đề nghị lịch thiệp; kiểm tra từ vựng về tự học và tự chủ; rèn luyện ngữ pháp viết câu chẻ nhấn mạnh các phần trong câu. Từ khóa: review, polite requests, cleft sentences."
+  },
+  {
+    "lessonId": "tienganh11_u8_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 8: BECOMING INDEPENDENT",
+    "lessonOrder": 76,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm thiết kế một bản kế hoạch cụ thể chi tiết từng bước để phát triển và hoàn thiện một kỹ năng sống tự lập thiết yếu của bản thân trong vòng một tháng. Từ khóa: detailed plan, life skill development, presentation."
+  },
+  {
+    "lessonId": "tienganh11_r3_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 3",
+    "lessonOrder": 77,
+    "lessonContent": "Bài học: Language. Ý chính: Ôn tập lại ngữ âm (ngữ điệu câu hỏi, câu trần thuật, câu đề nghị); hệ thống từ vựng từ Unit 6 đến Unit 8; củng cố các cấu trúc ngữ pháp quan trọng đã học (mệnh đề giản lược to-V, danh động từ/phân từ hoàn thành, câu chẻ). Từ khóa: review language, pronunciation practice, grammar rules."
+  },
+  {
+    "lessonId": "tienganh11_r3_skills",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 3",
+    "lessonOrder": 78,
+    "lessonContent": "Bài học: Skills. Ý chính: Tích hợp rèn luyện 4 kỹ năng: Đọc hiểu về nghệ thuật Đờn ca tài tử Nam Bộ; Nghe hiểu lời khuyên của chuyên gia về việc học tập tự lập và tìm việc làm thêm khi du học; Nói về cách rèn tính tự lập khi ở nước ngoài; Viết thư điện tử hỏi thông tin đăng ký câu lạc bộ nghệ thuật. Từ khóa: skills check, reading, listening, speaking, writing."
+  },
+  {
+    "lessonId": "tienganh11_u9_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 79,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Đoạn hội thoại \"A social awareness club meeting\" giới thiệu về câu lạc bộ nâng cao nhận thức học đường, thảo luận các tệ nạn ảnh hưởng lớn đến học sinh như bạo lực học đường (bullying), bắt nạt mạng (cyberbullying), miệt thị ngoại hình (body shaming) và lên kế hoạch tuyên truyền. Từ khóa: social issues, school club, bullying, cyberbullying, awareness campaign."
+  },
+  {
+    "lessonId": "tienganh11_u9_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 80,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm ngữ điệu lên giọng ở lựa chọn thứ nhất và xuống giọng ở lựa chọn cuối cùng trong câu hỏi chọn lựa (Intonation in choice questions). Từ vựng về các vấn đề xã hội (bullying, cyberbullying, peer pressure, body shaming). Ngữ pháp học về các trạng từ liên từ liên kết (Linking words and phrases). Từ khóa: choice questions, social problems, linking words, contrast, result."
+  },
+  {
+    "lessonId": "tienganh11_u9_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 81,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"Teen's Life: I don't want to be the odd one out!\" chia sẻ câu chuyện thực tế của ba học sinh trung học đối phó với áp lực đồng lứa (peer pressure): thay đổi diện mạo, cảm giác tự ti, trầm cảm khi bị cô lập và lời khuyên học cách nói 'không' để giữ vững bản thân. Từ khóa: peer pressure, fit in, depression, self-confidence."
+  },
+  {
+    "lessonId": "tienganh11_u9_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 82,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thảo luận về các trải nghiệm thực tế khi đối mặt với áp lực từ bạn bè (hùa theo nhóm bạn hút thuốc, chơi game quá độ, trốn học) và rèn luyện các giải pháp ứng phó, từ chối khéo léo và tích cực. Từ khóa: peer pressure situations, positive responses, peer support."
+  },
+  {
+    "lessonId": "tienganh11_u9_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 83,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe đoạn hội thoại của học sinh phân biệt 4 hình thức bắt nạt phổ biến: bắt nạt thể chất (physical), bắt nạt bằng lời nói (verbal), cô lập xã hội (social), và bắt nạt trên không gian mạng (cyberbullying), phân tích hậu quả của chúng đối với học sinh. Từ khóa: types of bullying, cyberbullying, physical bullying, verbal abuse."
+  },
+  {
+    "lessonId": "tienganh11_u9_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 84,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết một bản đề xuất thực hiện chiến dịch (Writing a proposal for a school campaign against cyberbullying) phòng ngừa nạn bắt nạt trên không gian mạng tại trường học, tuân thủ đúng định dạng và các phần chi tiết của văn bản đề xuất. Từ khóa: proposal, school campaign, cyberbullying prevention."
+  },
+  {
+    "lessonId": "tienganh11_u9_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 85,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Cách diễn đạt sự thất vọng và bày tỏ sự đồng cảm, chia sẻ lịch thiệp (Expressing disappointment and sympathy). CLIL: Tìm hiểu các số liệu khảo sát về những vấn đề xã hội hàng đầu đối với giới trẻ Mỹ (trầm cảm, lo âu, bạo lực mạng, đói nghèo). Từ khóa: disappointment, sympathy, US teenagers, mental health, bullying statistics."
+  },
+  {
+    "lessonId": "tienganh11_u9_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 86,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Ôn tập củng cố Unit 9: luyện phát âm ngữ điệu câu hỏi lựa chọn; giải ô chữ kiểm tra từ vựng về bắt nạt, áp lực bạn bè và trầm cảm; thực hành ghép câu sử dụng liên từ thích hợp (consequently, however, although). Từ khóa: review, choice questions, linking words."
+  },
+  {
+    "lessonId": "tienganh11_u9_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 9: SOCIAL ISSUES",
+    "lessonOrder": 87,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm thiết kế và trình bày kế hoạch cho một chiến dịch truyền thông (Social awareness campaign) nhằm nâng cao nhận thức học sinh về một vấn đề học đường cụ thể như chống body shaming hoặc bắt nạt trực tuyến. Từ khóa: awareness campaign, poster design, team presentation."
+  },
+  {
+    "lessonId": "tienganh11_u10_gettingstarted",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 88,
+    "lessonContent": "Bài học: Getting Started. Ý chính: Đoạn đối thoại \"Ecosystems and humans\" thảo luận về tầm quan trọng của hệ sinh thái (bao gồm thành phần sống và không sống), sự cân bằng đa dạng sinh học và tác động tiêu cực của các hoạt động khai thác tàn phá của con người đối với môi trường. Từ khóa: ecosystem, biodiversity, human impact, national park."
+  },
+  {
+    "lessonId": "tienganh11_u10_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 89,
+    "lessonContent": "Bài học: Language. Ý chính: Phát âm ngữ điệu câu hỏi đuôi (Intonation in question tags). Từ vựng về hệ sinh thái và thế giới động thực vật (mammal, conservation, species, coral reef). Ngữ pháp học về cách thành lập và sử dụng danh từ ghép (Compound nouns: rainforest, climate change). Từ khóa: question tags, biodiversity vocabulary, compound nouns."
+  },
+  {
+    "lessonId": "tienganh11_u10_reading",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 90,
+    "lessonContent": "Bài học: Reading. Ý chính: Bài đọc \"U Minh Thuong - A unique national park\" giới thiệu về Vườn quốc gia U Minh Thượng (Kiên Giang): hệ đất ngập nước ngọt độc đáo, thảm rừng ngập mặn phong phú, nơi trú ngụ của 226 loài thực vật và nhiều loài chim nước, thú hoang dã quý hiếm trong sách đỏ. Từ khóa: U Minh Thuong, wetlands, mangrove forest, flora and fauna, rare species."
+  },
+  {
+    "lessonId": "tienganh11_u10_speaking",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 91,
+    "lessonContent": "Bài học: Speaking. Ý chính: Thảo luận nhóm về các giải pháp thiết thực để bảo vệ và khôi phục đa dạng sinh học tại địa phương (Ways to protect local biodiversity), cách phản hồi tích cực và đề xuất ý kiến đóng góp thiết thực. Từ khóa: biodiversity, protect environment, discussion, suggestions."
+  },
+  {
+    "lessonId": "tienganh11_u10_listening",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 92,
+    "lessonContent": "Bài học: Listening. Ý chính: Nghe bài phát biểu của Tiến sĩ Logan phân tích tác động nghiêm trọng của con người đối với hệ sinh thái biển, sự suy thoái nhanh chóng của các rạn san hô do biến đổi khí hậu và rác thải nhựa đại dương. Từ khóa: marine ecosystem, coral reefs, global warming, ocean pollution."
+  },
+  {
+    "lessonId": "tienganh11_u10_writing",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 93,
+    "lessonContent": "Bài học: Writing. Ý chính: Hướng dẫn viết bài văn nghị luận bày tỏ ý kiến (Writing an opinion essay about spending money on restoring local ecosystems) bàn luận về việc có nên tăng cường ngân sách để khôi phục và phục hồi các hệ sinh thái địa phương bị phá hủy. Từ khóa: opinion essay, ecosystem restoration, local funding."
+  },
+  {
+    "lessonId": "tienganh11_u10_comm_culture_clil",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 94,
+    "lessonContent": "Bài học: Communication and Culture / CLIL. Ý chính: Giao tiếp: Cách thể hiện sự yêu thích và không thích hằng ngày (Expressing likes and dislikes). Phần CLIL khám phá hai dự án sinh thái quy mô lớn: Vạn lý trường thành xanh châu Phi và kế hoạch bảo vệ nghiêm ngặt rạn san hô Belize. Từ khóa: likes and dislikes, Great Green Wall, Belize reef, conservation projects."
+  },
+  {
+    "lessonId": "tienganh11_u10_lookingback",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 95,
+    "lessonContent": "Bài học: Looking Back. Ý chính: Tổng hợp ôn tập Unit 10: thực hành nói với ngữ điệu câu hỏi đuôi; kiểm tra từ vựng về đa dạng sinh học và môi trường; rèn luyện ghép từ và sử dụng chính xác danh từ ghép trong câu. Từ khóa: review, question tags, compound nouns."
+  },
+  {
+    "lessonId": "tienganh11_u10_project",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "UNIT 10: THE ECOSYSTEM",
+    "lessonOrder": 96,
+    "lessonContent": "Bài học: Project. Ý chính: Dự án nhóm thiết kế áp phích tuyên truyền kế hoạch khôi phục và bảo vệ một hệ sinh thái địa phương cụ thể (Restore and protect a local ecosystem), trình bày trước lớp về các hành động thực tiễn. Từ khóa: local ecosystem, restore plan, poster presentation."
+  },
+  {
+    "lessonId": "tienganh11_r4_language",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 4",
+    "lessonOrder": 97,
+    "lessonContent": "Bài học: Language. Ý chính: Hệ thống hóa ngữ âm (ngữ điệu câu hỏi đuôi, câu hỏi lựa chọn); ôn luyện trường từ vựng của Unit 9 và Unit 10; kiểm tra kiến thức ngữ pháp đã học (danh từ ghép, các liên từ và trạng từ liên kết). Từ khóa: review language, tag questions, compound nouns."
+  },
+  {
+    "lessonId": "tienganh11_r4_skills",
+    "grade": 11,
+    "subject": "tiếng anh",
+    "chapterName": "REVIEW 4",
+    "lessonOrder": 98,
+    "lessonContent": "Bài học: Skills. Ý chính: Tích hợp rèn luyện 4 kỹ năng chính: Đọc hiểu về đa dạng sinh học Vườn Quốc gia Cúc Phương; Nghe hiểu cuộc thảo luận về hậu quả của việc miệt thị ngoại hình (body shaming); Nói về giải pháp đối phó với nạn bắt nạt; Viết bản đề xuất bảo vệ hệ sinh thái rừng. Từ khóa: skills review, reading, listening, speaking, writing."
+  }
+]

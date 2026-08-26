@@ -1,0 +1,666 @@
+[
+  {
+    "lessonId": "nguvan10_t1_b1_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 1,
+    "lessonContent": "Khái quát các khái niệm lý luận văn học cốt lõi về thể loại tự sự:\n1. **Cốt truyện** (Plot): Chuỗi sự kiện có quan hệ nhân quả diễn ra theo mạch thời gian nhất định.\n2. **Truyện kể** (Story): Mạch kể liên kết các sự kiện qua lời thoại, lời người kể chuyện.\n3. **Người kể chuyện** (Narrator): Vai đóng vai trò dẫn dắt người đọc, có thể ở ngôi thứ nhất ($I$) hoặc ngôi thứ ba.\n4. **Nhân vật** (Character): Đối tượng thể hiện tư tưởng, tâm lí và hành động của tác phẩm.\n5. **Thần thoại** (Myth): Thể loại truyện ra đời sớm nhất nhằm giải thích nguồn gốc vũ trụ và vạn vật bằng tư duy trực quan, hoang đường kì ảo. Sơ đồ cấu trúc thần thoại:\n$$Thần \\\\, thoại \\\\, suy \\\\, nguyên \\\\, (giải \\\\, thích \\\\, tự \\\\, nhiên) \\\\, + \\\\, Thần \\\\, thoại \\\\, sáng \\\\, tạo \\\\, (văn \\\\, hoá)$$"
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 2,
+    "lessonContent": "Phân tích chùm truyện thần thoại Việt Nam tiêu biểu:\n1. **Thần Trụ Trời**: Hành động đội trời, đắp cột đá chống trời để phân chia trời và đất, kiến tạo địa hình thô sơ của vũ trụ.\n2. **Thần Sét**: Sứ mệnh thực thi pháp luật nơi trần gian, mang tính khí nóng nảy, công cụ là lưỡi búa đá đầy uy lực.\n3. **Thần Gió**: Hình dạng kì quặc (không đầu) và hoạt động tạo gió bão gây hại nhưng cũng ích lợi cho đời sống sản xuất nông nghiệp.\n- **Nghệ thuật**: Sử dụng các chi tiết kì ảo, cường điệu hóa nhằm giải thích các hiện tượng tự nhiên bằng thế giới quan sơ khai của người xưa."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 3,
+    "lessonContent": "Phân tích tác phẩm truyền kì kinh điển của Nguyễn Dữ:\n- **Chủ đề**: Ca ngợi nhân cách cứng cỏi, chính trực, khát vọng công lí của kẻ sĩ Ngô Tử Văn, đại diện cho trí thức nước Việt thời trung đại.\n- **Kiến thức trọng tâm**:\n  1. Sự kiện Ngô Tử Văn đốt đền tà trừ hại cho dân, dũng cảm xuống Minh ti đối chất với hồn ma tên tướng giặc bại trận họ Thôi.\n  2. Sự giúp đỡ của Thổ công và quyết định công tâm của Diêm Vương giúp Tử Văn minh oan và nhận chức Phán sự đền Tản Viên.\n  3. **Ý nghĩa lời bình**: Đề cao lối sống quân tử \"cứng quá thì gãy\" nhưng khí phách không chịu khuất phục tà ác."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 4,
+    "lessonContent": "Phân tích tác phẩm nghệ thuật tinh tế của Nguyễn Tuân trích từ tập \"Vang bóng một thời\":\n- **Chủ đề**: Tôn vinh vẻ đẹp của cái tài, cái đẹp (Huấn Cao) và tấm lòng quý trọng cái đẹp của viên quản ngục.\n- **Kiến thức trọng tâm**:\n  1. **Huấn Cao**: Người nghệ sĩ viết chữ thư pháp tài hoa, hiên ngang, khí phách trước cái chết, mang \"thiên lương\" trong sáng.\n  2. **Viên quản ngục**: Kẻ say mê nghệ thuật, giữ cốt cách thanh cao giữa ngục tù u tối.\n  3. **Cảnh cho chữ** (\"cảnh tượng xưa nay chưa từng có\"): Diễn ra nơi buồng giam bẩn thỉu nhưng rực sáng ánh đuốc, khẳng định sự chiến thắng tuyệt đối của cái đẹp, ánh sáng trước bạo lực và bóng tối."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 5,
+    "lessonContent": "Thực hành sử dụng từ ngữ Hán Việt trong ngữ cảnh văn bản:\n- **Yếu tố Hán Việt**: Đơn vị cấu tạo từ Hán Việt. Sơ đồ liên hệ từ vựng:\n$$Từ \\\\, Hán \\\\, Việt = Yếu \\\\, tố \\\\, chính \\\\, + \\\\, Yếu \\\\, tố \\\\, phụ$$\n- **Tác dụng**: Tạo sắc thái trang trọng, cổ kính, nhã nhặn hoặc diễn đạt các khái niệm trừu tượng, chính trị, triết học sâu sắc. Tránh lạm dụng từ Hán Việt gây cảm giác sáo rỗng, xa lạ với người đọc."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 6,
+    "lessonContent": "Phương pháp viết bài văn nghị luận phân tích một tác phẩm truyện ngắn hoặc thần thoại:\n- **Cấu trúc bài viết**:\n  1. **Mở bài**: Giới thiệu tác phẩm, tác giả, nêu nhận định chung về chủ đề nghệ thuật.\n  2. **Thân bài**: Phân tích chủ đề (thông điệp, tư tưởng) kết hợp phân tích các nét đặc sắc về hình thức nghệ thuật (ngôi kể, tình huống truyện, nghệ thuật xây dựng nhân vật, ngôn ngữ trần thuật).\n  3. **Kết bài**: Khẳng định giá trị nhân sinh của tác phẩm."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 7,
+    "lessonContent": "Kĩ năng trình bày, giới thiệu một tác phẩm truyện trước tập thể:\n- **Chuẩn bị**: Lập đề cương nói, tóm tắt cốt truyện, sơ đồ hóa mối quan hệ giữa các nhân vật chính.\n- **Kĩ năng trình bày**: Sử dụng giọng nói mạch lạc, cử chỉ tự nhiên, phối hợp hiệu quả giữa ngôn ngữ nói và các phương tiện phi ngôn ngữ (hình ảnh minh họa, slide trình chiếu).\n- **Tương tác**: Lắng nghe và phản hồi ý kiến đóng góp một cách cầu thị."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 8,
+    "lessonContent": "Củng cố và mở rộng kiến thức về truyện tự sự cổ đại:\n- Lập bảng tổng hợp so sánh các tác phẩm đã học: Thần Trụ Trời, Chuyện chức Phán sự đền Tản Viên, Chữ người tử tù theo các tiêu chí: ngôi kể, nhân vật chính, sự kiện then chốt, chủ đề cốt lõi.\n- Đọc thêm các truyện thần thoại Việt Nam và thế giới để làm phong phú tri thức thể loại."
+  },
+  {
+    "lessonId": "nguvan10_t1_b1_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "lessonOrder": 9,
+    "lessonContent": "Thực hành đọc tác phẩm thần thoại Hy Lạp nổi tiếng:\n- **Nội dung**: Hành trình dũng cảm của người anh hùng Tê-đê (Theseus) vượt qua các thử thách hiểm nguy để tìm về kinh thành A-ten nhận cha.\n- **Chiến công**: Tiêu diệt quái vật nửa người nửa bò Mi-nô-tơ (Minotaur) trong Mê cung nhờ sự trợ giúp của sợi chỉ của công chúa A-ri-an.\n- **Ý nghĩa**: Tôn vinh trí tuệ, lòng quả cảm, tinh thần hiệp sĩ và ý chí chinh phục thử thách vì hạnh phúc của cộng đồng thời cổ đại."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 10,
+    "lessonContent": "Khái quát các đặc trưng lý luận văn học về thể loại thơ:\n1. **Thơ**: Hình thức tổ chức ngôn từ đặc biệt, tuân thủ các thi luật chặt chẽ, giàu nhạc điệu.\n2. **Nhân vật trữ tình** (chủ thể trữ tình): Người trực tiếp bộc lộ tình cảm, thế giới nội tâm trong bài thơ.\n3. **Hình ảnh thơ**: Các sự vật, trạng thái đời sống được tái tạo bằng ngôn từ sống động để khơi gợi cảm xúc.\n4. **Lỗi dùng từ và trật tự từ**: Các lỗi lặp từ, dùng từ không đúng nghĩa, sai trật tự cú pháp làm giảm hiệu quả biểu đạt nghệ thuật."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 11,
+    "lessonContent": "Phân tích chùm thơ hai-cư (haiku) Nhật Bản của Ba-sô, Chi-y-ô và It-sa:\n- **Đặc trưng thể loại**: Thể thơ ngắn nhất thế giới, cấu trúc $5 - 7 - 5$ âm tiết, sử dụng quý ngữ (từ chỉ mùa) và tính tối giản nghệ thuật.\n- **Ý chính**: Khắc họa những khoảnh khắc giao cảm bừng ngộ giữa con người và thiên nhiên (con ốc sên trèo núi Phú Sĩ, hoa triêu nhan quấn dây gàu bên giếng, cánh chim thu).\n- **Thông điệp**: Sự tôn trọng, hòa quyện sâu sắc giữa linh hồn con người và vạn vật."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 12,
+    "lessonContent": "Phân tích kiệt tác của thi thánh Đỗ Phủ:\n- **Bố cục**: Thơ thất ngôn bát cú Đường luật chuẩn mực gồm 4 phần Đề - Thực - Luận - Kết nghiêm ngặt.\n- **Ý chính**: Bức tranh thiên nhiên mùa thu hiu hắt, tàn tạ nơi xứ người và nỗi lòng u uất, lo nước thương nhà, xót xa cho thân phận viễn xứ của nhà thơ trong cảnh loạn lạc An - Sử.\n- **Nghệ thuật**: Tả cảnh ngụ tình tinh tế, sử dụng phép đối chỉnh chu ở liên thực và liên luận."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 13,
+    "lessonContent": "Phân tích bài thơ trữ tình đặc sắc của Hàn Mặc Tử:\n- **Chủ đề**: Vẻ đẹp trẻ trung, căng tràn sức sống của mùa xuân thôn quê thôn vĩ song hành cùng nỗi bâng khuâng, tiếc nuối thời gian trôi mau của tác giả.\n- **Kiến thức trọng tâm**:\n  1. Hình ảnh xuân sinh động: \"làn nắng ửng khói mơ tan\", \"đôi mái nhà tranh lấm tấm vàng\", \"tiếng ca vắt vẻo chừng lưng núi\".\n  2. Sự chuyển biến cảm xúc: Từ say đắm, rạo rực sang nỗi buồn sâu kín trước sự phai tàn, phôi pha của tuổi xuân."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_d4",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 14,
+    "lessonContent": "Phân tích bài phê bình cảm thụ văn học của Chu Văn Sơn:\n- **Nội dung**: Khám phá bản hoà âm ngôn từ tinh tế của bài thơ \"Tiếng thu\" của Lưu Trọng Lư.\n- **Kiến thức trọng tâm**:\n  1. Phân tích cấu trúc nhạc điệu qua sự hòa âm của vần chân (vần \"u\", vần \"o\") và phép điệp ngữ \"Em không nghe...\".\n  2. Tiếng xào xạc của lá rừng khô, bước chân con nai vàng ngơ ngác đại diện cho \"tiếng xôn xao\" sâu kín của tâm hồn con người lúc thu về."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 15,
+    "lessonContent": "Phát hiện và sửa chữa các lỗi dùng từ và lỗi trật tự từ phổ biến:\n- **Lỗi dùng từ**: Lặp từ vô nghĩa, dùng từ sai phong cách (văn nói trộn lẫn văn viết), dùng từ không đúng nghĩa ngữ cảnh.\n- **Lỗi trật tự từ**: Sắp xếp sai thứ tự các thành phần câu làm thay đổi nghĩa hoặc gây hiểu lầm.\n- **Phương pháp sửa**: Xác định lại chủ thể và mối liên hệ ngữ pháp trong câu để điều chỉnh cấu trúc thích hợp."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 16,
+    "lessonContent": "Nghị luận phân tích, đánh giá một tác phẩm thơ:\n- **Mở bài**: Giới thiệu bài thơ, tác giả và bối cảnh sáng tác.\n- **Thân bài**: Phân tích chủ đề cốt lõi, mạch cảm xúc của bài thơ kết hợp đánh giá các biện pháp nghệ thuật đặc sắc (hình ảnh thơ, thể thơ, nhịp điệu, các biện pháp tu từ tiêu biểu).\n- **Kết bài**: Khẳng định giá trị thẩm mĩ và sức sống lâu bền của bài thơ."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 17,
+    "lessonContent": "Kĩ năng thuyết trình giới thiệu tác phẩm thơ trước lớp:\n- Trình bày rõ ràng hệ thống luận điểm phân tích nghệ thuật và nội dung bài thơ.\n- Chuẩn bị slide trình chiếu chứa các câu thơ quan trọng, hình ảnh minh họa phù hợp.\n- Điều chỉnh tốc độ nói và kết hợp tương tác ánh mắt với người nghe."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 18,
+    "lessonContent": "Củng cố và mở rộng tri thức thơ ca học kì I:\n- Lập bảng tổng hợp so sánh các bài thơ đã học (Thu hứng, Mùa xuân chín, Tiếng thu) về thể thơ, vần, nhịp, chủ thể trữ tình và hình ảnh trung tâm.\n- Tìm đọc thêm các tác phẩm thơ trữ tình đặc sắc của phong trào Thơ mới."
+  },
+  {
+    "lessonId": "nguvan10_t1_b2_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 2: Vẻ đẹp của thơ ca",
+    "lessonOrder": 19,
+    "lessonContent": "Thực hành đọc hiểu tác phẩm thơ tự do hiện đại của Ngân Hoa:\n- **Nội dung**: Cảm xúc tinh tế, trong trẻo của chủ thể trữ tình trước vẻ đẹp hoang sơ, kì diệu của cánh đồng hoa mùa xuân.\n- **Đặc sắc nghệ thuật**: Thể thơ tự do, dòng chảy cảm xúc phóng khoáng, hình ảnh ẩn dụ giàu sức liên tưởng về sự nảy nở, sự phục sinh của sự sống và thế giới tâm hồn."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 20,
+    "lessonContent": "Lý thuyết nền tảng về thể loại văn nghị luận:\n1. **Văn bản nghị luận**: Loại văn bản thuyết phục người đọc bằng hệ thống luận điểm, lí lẽ và bằng chứng chặt chẽ. Sơ đồ lập luận:\n$$Luận \\\\, đề \\\\rightarrow Luận \\\\, điểm \\\\rightarrow Lí \\\\, lẽ \\\\rightarrow Bằng \\\\, chứng$$\n2. **Nghị luận xã hội**: Bàn luận về một tư tưởng đạo lí hoặc hiện tượng đời sống.\n3. **Lỗi mạch lạc và liên kết**: Lỗi các câu không hướng về một chủ đề chung (mạch lạc) hoặc thiếu các phương tiện kết nối (liên kết)."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 21,
+    "lessonContent": "Phân tích văn bản nghị luận lịch sử của Thân Nhân Trung:\n- **Tư tưởng cốt lõi**: \"Hiền tài là nguyên khí của quốc gia\" - người hiền tài là gốc rễ tạo nên sự thịnh suy của đất nước.\n- **Kiến thức trọng tâm**:\n  1. Các chính sách khuyến khích, ưu đãi hiền tài của triều đình Lê Thánh Tông (khoa danh, tước trật, ban ơn).\n  2. Mục đích cao cả của việc khắc bia tiến sĩ ở Văn Miếu: vinh danh kẻ sĩ, răn dạy hậu thế sống xứng đáng với kì vọng của quốc gia."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 22,
+    "lessonContent": "Phân tích tản văn triết lí của Phong Tử Khải:\n- **Chủ đề**: Lòng đồng cảm vạn vật là phẩm chất cao quý nhất của người nghệ sĩ thực thụ.\n- **Kiến thức trọng tâm**:\n  1. Sự khác biệt về góc nhìn giữa nhà khoa học, nhà bác cổ và nghệ sĩ trước một cái cây.\n  2. Trẻ em có lòng đồng cảm tự nhiên, phong phú nhất; nghệ sĩ cần giữ được \"tâm hồn trẻ thơ\" để sáng tạo nghệ thuật đích thực."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 23,
+    "lessonContent": "Phân tích văn bản nghị luận văn học của nhà thơ Lê Đạt:\n- **Chủ đề**: Quan niệm về bản chất của thơ ca và lao động sáng tạo đầy nhọc nhằn của nhà thơ.\n- **Kiến thức trọng tâm**:\n  1. Phân biệt \"nghĩa tiêu dùng\" (nghĩa từ điển thông thường) và \"nghĩa tự vị\" (nghĩa nghệ thuật, gợi liên tưởng sâu sắc trong thơ).\n  2. Thơ ca không phải là sản phẩm của những phút bốc đồng bẩm sinh, mà là kết quả của sự lao động ngôn từ khổ hạnh, cần cù."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 24,
+    "lessonContent": "Nhận diện và sửa các lỗi về cấu trúc liên kết văn bản:\n- **Lỗi mạch lạc**: Các câu trong đoạn văn không hướng về một chủ đề chung hoặc trật tự lập luận lộn xộn.\n- **Lỗi liên kết**: Thiếu hụt hoặc sử dụng sai phương tiện liên kết (phép lặp, phép thế, phép nối).\n- **Cách khắc phục**: Thêm từ nối phù hợp hoặc lược bỏ câu lạc đề."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 25,
+    "lessonContent": "Hướng dẫn viết bài luận nghị luận xã hội:\n- **Mở bài**: Nêu thói quen/quan niệm tiêu cực cần từ bỏ (ví dụ: nghiện điện thoại, định kiến về hoàn cảnh khó khăn).\n- **Thân bài**: Chỉ ra các biểu hiện, phân tích tác hại khôn lường đối với bản thân và cộng đồng, đề xuất giải pháp khả thi và dự đoán phản ứng đồng tình của người nghe.\n- **Kết bài**: Khái quát lại bài học nhận thức."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 26,
+    "lessonContent": "Thực hành kĩ năng thảo luận, tranh biện về vấn đề xã hội:\n- Biết cách nêu quan điểm cá nhân một cách thuyết phục dựa trên lí lẽ và bằng chứng cụ thể.\n- Giữ thái độ tôn trọng, lắng nghe đa chiều trước các ý kiến trái chiều, không công kích cá nhân.\n- Sử dụng các từ ngữ mang tính thảo luận hợp lí: \"theo tôi\", \"quan điểm của tôi là...\"."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 27,
+    "lessonContent": "Lập sơ đồ tư duy so sánh ba văn bản nghị luận đã học theo tiêu chí: Luận đề, cách triển khai luận điểm, lí lẽ và bằng chứng tiêu biểu. Sưu tầm thêm các văn bản nghị luận đương đại có nội dung liên quan."
+  },
+  {
+    "lessonId": "nguvan10_t1_b3_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "lessonOrder": 28,
+    "lessonContent": "Đọc hiểu tác phẩm nghị luận của Nguyễn Thị Hậu:\n- **Nội dung**: Những suy ngẫm sâu sắc về cuộc sống trên mạng xã hội ảo và mối quan hệ với đời sống thực của mỗi cá nhân.\n- **Thông điệp**: Cần làm chủ bản thân trước thế giới mạng đầy hấp dẫn nhưng cũng đầy cạm bẫy, giữ gìn những giá trị chân thật trong đời thực."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 29,
+    "lessonContent": "Lý thuyết nền tảng về thể loại sử thi:\n1. **Sử thi** (anh hùng ca): Thể loại tự sự quy mô lớn, ra đời ở thời kì cổ đại, kể về những biến cố trọng đại liên quan đến vận mệnh của toàn thể cộng đồng.\n2. **Nhân vật anh hùng sử thi**: Người có sức mạnh, phẩm chất phi thường, đại diện cho ý chí và khát vọng chung của bộ tộc.\n3. **Không gian sử thi**: Hoành tráng, kì vĩ, thiêng liêng thuộc về quá khứ xa xưa hào hùng."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 30,
+    "lessonContent": "Phân tích đoạn trích sử thi Hy Lạp \"I-li-át\" của Hô-me-rơ:\n- **Chủ đề**: Bi kịch xung đột giữa tình yêu gia đình ấm áp và bổn phận công dân, anh hùng đối với thành bang Tơ-roa của người anh hùng Héc-to.\n- **Kiến thức trọng tâm**:\n  1. Cuộc đối thoại đẫm nước mắt giữa Héc-to và vợ Ăng-đrô-mác trước giờ xuất trận.\n  2. Vẻ đẹp của tinh thần quả cảm, hi sinh hiên ngang của Héc-to, không chấp nhận sống hèn nhát trốn tránh chiến trận."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 31,
+    "lessonContent": "Phân tích đoạn trích sử thi Ê-đê \"Đăm Săn\":\n- **Chủ đề**: Hành trình vượt qua mọi giới hạn của người anh hùng Đăm Săn để chinh phục Nữ Thần Mặt Trời nhằm mang lại sự giàu có, quyền năng cho buôn làng.\n- **Kiến thức trọng tâm**:\n  1. Sự kiêu hãnh bất chấp lời khuyên ngăn đầy hiểm nguy của Đăm Par Kvây.\n  2. Cảnh Đăm Săn đơn độc băng qua rừng đen kì vĩ, sự từ chối của Nữ Thần và cái chết của Đăm Săn trong rừng sáp nến khi mặt trời lên.\n  3. **Ý nghĩa**: Khát vọng chinh phục tự nhiên mạnh mẽ của người Ê-đê cổ xưa."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 32,
+    "lessonContent": "Rèn luyện kĩ năng viết học thuật:\n- **Trích dẫn**: Biết phân biệt trích dẫn trực tiếp (đặt trong ngoặc kép) và gián tiếp (paraphrase).\n- **Cước chú**: Đặt chú thích ở cuối trang để làm rõ nguồn gốc hoặc giải nghĩa thuật ngữ khó.\n- **Phần tỉnh lược**: Sử dụng kí hiệu `[...]` để lược bớt các chi tiết ít quan trọng giúp văn bản cô đọng."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 33,
+    "lessonContent": "Quy trình lập báo cáo khoa học về một vấn đề xã hội hoặc văn học:\n- **Cấu trúc báo cáo**: Đặt vấn đề (nêu lí do chọn đề tài, câu hỏi nghiên cứu) -> Giải quyết vấn đề (triển khai các luận điểm kèm số liệu, dẫn chứng thực tế) -> Kết luận (khái quát kết quả, đề xuất hướng đi mới) -> Danh mục tài liệu tham khảo.\n- **Yêu cầu**: Ngôn ngữ khách quan, khoa học, có trích dẫn nguồn uy tín rõ ràng."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 34,
+    "lessonContent": "Kĩ năng thuyết trình báo cáo khoa học trước hội đồng:\n- Chuẩn bị slide PowerPoint tóm tắt ngắn gọn các luận điểm chính dưới dạng sơ đồ, biểu đồ trực quan.\n- Trình bày tự tin, giọng điệu khách quan, rành mạch.\n- Lắng nghe và trả lời các câu hỏi phản biện một cách cầu thị, khoa học."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 35,
+    "lessonContent": "Củng cố và mở rộng kiến thức về sử thi anh hùng:\n- Thiết lập bảng so sánh sử thi Đăm Săn và sử thi Hy Lạp I-li-át trên các phương diện: Nhân vật chính, Biến cố cốt lõi, Nghệ thuật miêu tả vẻ đẹp kì vĩ của không gian sử thi.\n- Tìm đọc thêm sử thi Ra-ma-ya-na của Ấn Độ."
+  },
+  {
+    "lessonId": "nguvan10_t1_b4_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 4: Sức sống của sử thi",
+    "lessonOrder": 36,
+    "lessonContent": "Đọc hiểu đoạn trích sử thi Ấn Độ \"Ra-ma-ya-na\":\n- **Nội dung**: Cơn ghen tuông dữ dội của hoàng tử Ra-ma sau khi cứu thoát vợ Xi-ta khỏi quỷ vương Ra-va-na và hành động kiên trinh nhảy vào giàn hỏa thiêu tự chứng minh sự trong sạch của Xi-ta.\n- **Ý nghĩa**: Ca ngợi danh dự, bổn phận của người anh hùng lí tưởng và lòng chung thuỷ sắt son của người phụ nữ Ấn Độ cổ đại."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 37,
+    "lessonContent": "Khái niệm cơ bản về nghệ thuật sân khấu dân gian:\n1. **Chèo**: Loại hình kịch hát dân gian phổ biến ở vùng đồng bằng Bắc Bộ, có tính tổng hợp cao giữa nói, hát, múa và các tích trò dân dã.\n2. **Tuồng**: Loại hình kịch hát cổ truyền phát triển mạnh ở vùng Nam Trung Bộ, mang tính ước lệ, trang nghiêm, hào hùng (tuồng cung đình) hoặc châm biếm sâu cay (tuồng dân gian).\n3. **Tích trò**: Yếu tố cốt lõi của vở chèo/tuồng, làm điểm tựa biểu diễn cho diễn viên."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 38,
+    "lessonContent": "Phân tích đoạn trích chèo cổ \"Kim Nham\":\n- **Chủ đề**: Bi kịch bế tắc trong cuộc sống gia đình phong kiến của Xuý Vân dẫn đến hành động giả điên giả dại để thoát li xã hội.\n- **Kiến thức trọng tâm**:\n  1. Nghệ thuật diễn xuất chèo độc đáo qua những điệu hát (hát quá giang, hát ngược đầy tính điên loạn, ngông cuồng của nhân vật).\n  2. Tâm trạng đau đớn, giằng xé giữa khát vọng hạnh phúc đời thường chân thật và hiện thực phũ phàng bị bỏ rơi."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 39,
+    "lessonContent": "Phân tích đoạn trích tuồng trào phúng \"Nghêu, Sò, Ốc, Hến\":\n- **Chủ đề**: Châm biếm sâu cay bộ máy quan lại phong kiến tha hóa, tham nhũng qua cảnh xử án tại huyện đường.\n- **Kiến thức trọng tâm**:\n  1. Lời thoại tự giới thiệu của Tri huyện và Đề Lại bộc lộ bản chất tham lam, nhũng nhiễu, \"ăn tiền\" đút lót của cả nguyên đơn và bị đơn.\n  2. Nghệ thuật tuồng trào phúng ước lệ, tạo tiếng cười châm biếm sắc sảo đầy sảng khoái cho người đọc."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 40,
+    "lessonContent": "Phân tích văn bản thông tin của Phạm Thuỳ Dung:\n- **Nội dung**: Giới thiệu về nguồn gốc lịch sử (từ thế kỉ XI - XII), đặc trưng nghệ thuật biểu diễn độc đáo trên mặt nước và quá trình bảo tồn, phát triển của nghệ thuật múa rối nước Việt Nam.\n- **Kiến thức trọng tâm**: Sự kết hợp tinh tế giữa nghệ thuật tạo hình con rối, điều khiển hệ thống sào, dây ngầm dưới nước và âm nhạc chèo cổ tạo nên sức hấp dẫn kì diệu cho khán giả quốc tế."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 41,
+    "lessonContent": "Thực hành viết báo cáo nghiên cứu khoa học xã hội về một nét đẹp văn hóa truyền thống (ví dụ: nghệ thuật làm tranh Đông Hồ, lễ hội đền Hùng, làn điệu quan họ). Báo cáo cần đảm bảo tính trung thực trong sử dụng tư liệu, có trích dẫn cước chú đúng quy chuẩn và danh mục tham khảo khoa học."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 42,
+    "lessonContent": "Phát triển kĩ năng nghe hiểu chủ động và phản hồi trong học tập:\n- Lắng nghe chăm chú bài thuyết trình, ghi chép lại các luận điểm chưa rõ ràng hoặc dẫn chứng cần làm sáng tỏ.\n- Đặt câu hỏi phản hồi lịch sự, mang tính xây dựng nhằm hoàn thiện đề tài nghiên cứu của bạn."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 43,
+    "lessonContent": "Lập sơ đồ hệ thống hóa các thể loại sân khấu dân gian đã học (chèo, tuồng, múa rối nước) về nguồn gốc, đặc trưng nghệ thuật biểu diễn, giá trị văn hóa và đề xuất các giải pháp bảo tồn nghệ thuật truyền thống trong thời đại số."
+  },
+  {
+    "lessonId": "nguvan10_t1_b5_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 5: Tích trò sân khấu dân gian",
+    "lessonOrder": 44,
+    "lessonContent": "Đọc hiểu đoạn trích tuồng cổ \"Sơn Hậu\":\n- **Nội dung**: Khí phách trung dũng, oai hùng của nhân vật Khương Linh Tá dù bị chém đầu vẫn hiển linh hóa thành ngọn đuốc đưa đường cho người anh em Kim Lân thoát khỏi sự truy đuổi của quân phiến loạn tà ác Tạ Ôn Đình.\n- **Ý nghĩa**: Ca ngợi tình nghĩa huynh đệ, trung quân ái quốc và lý tưởng chính nghĩa tất thắng gian tà của tuồng cung đình cổ."
+  },
+  {
+    "lessonId": "nguvan10_t1_ontap",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Ôn tập",
+    "lessonOrder": 45,
+    "lessonContent": "Hệ thống hóa toàn bộ kiến thức Ngữ văn 10 Tập 1:\n1. **Đọc hiểu**: Ôn tập đặc trưng các thể loại thần thoại, sử thi, truyện truyền kì, truyện ngắn hiện đại, thơ trữ tình, văn bản nghị luận và kịch bản chèo/tuồng.\n2. **Thực hành tiếng Việt**: Ôn tập sử dụng từ Hán Việt, lỗi dùng từ và lỗi mạch lạc đoạn văn.\n3. **Viết và Nói Nghe**: Củng cố phương pháp viết báo cáo nghiên cứu và nghị luận phân tích tác phẩm văn học."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 46,
+    "lessonContent": "Các khái niệm cơ bản về văn học trung đại Việt Nam:\n1. **Văn học trung đại Việt Nam**: Hình thành từ thế kỉ $X$ đến thế kỉ $XIX$, viết bằng chữ Hán và chữ Nôm, chịu ảnh hưởng sâu sắc của Nho giáo, Phật giáo, Đạo giáo nhưng đậm đà tinh thần dân tộc.\n2. **Văn nghị luận trung đại**: Loại hình văn học giàu tính chiến đấu, kết cấu chặt chẽ, luận điểm sắc bén, kết hợp hài hòa giữa lí trí và yếu tố biểu cảm."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_tgnt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 47,
+    "lessonContent": "Khái quát cuộc đời và sự nghiệp của danh nhân văn hoá thế giới Nguyễn Trãi (1380 - 1442):\n- **Cuộc đời**: Người anh hùng dân tộc, nhà quân sự, ngoại giao kiệt xuất thời Lê Sơ, chịu thảm án oan khiên Lệ Chi Viên.\n- **Sự nghiệp sáng tác**: Đồ sộ ở cả chữ Hán (Ức Trai thi tập, Quân trung từ mệnh tập) và chữ Nôm (Quốc âm thi tập).\n- **Tư tưởng cốt lõi**: Tư tưởng nhân nghĩa làm gốc, lấy dân làm bản mệnh đất nước, lòng yêu thiên nhiên và tình ưu quốc ái dân sâu nặng."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 48,
+    "lessonContent": "Phân tích áng thiên cổ hùng văn của Nguyễn Trãi:\n- **Chủ đề**: Tuyên bố thắng lợi hoàn toàn của cuộc khởi nghĩa Lam Sơn trước giặc Minh hung tàn, khẳng định chủ quyền dân tộc và mở ra kỉ nguyên thái bình cho đất nước.\n- **Kiến thức trọng tâm**:\n  1. Nguyên lí nhân nghĩa cốt ở yên dân và trừ bạo.\n  2. Bản cáo trạng đanh thép tố cáo tội ác trời không dung đất không tha của quân Minh.\n  3. Quá trình kháng chiến đầy gian khổ bước đầu và những chiến công oanh liệt cuối cùng vang dội (Chi Lăng, Xương Giang).\n  4. Bản tuyên ngôn độc lập hào hùng đầy hào khí dân tộc."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 49,
+    "lessonContent": "Phân tích bài thơ Nôm độc đáo của Nguyễn Trãi:\n- **Chủ đề**: Vẻ đẹp rực rỡ, tràn trề sức sống của thiên nhiên ngày hè nơi thôn quê dân dã và nỗi lòng khao khát dân giàu nước mạnh của tác giả.\n- **Kiến thức trọng tâm**:\n  1. Bức tranh hè sinh động: sắc đỏ hoa thạch lựu, sắc xanh cây hòe đùn đùn, tiếng lao xao chợ cá, tiếng ve inh ỏi.\n  2. Ước nguyện nhân sinh cao cả: Mong ước có chiếc đàn cầm của vua Thuấn để gảy khúc Nam phong cầu cho dân chúng giàu đủ khắp muôn nơi."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 50,
+    "lessonContent": "Phân tích bài thơ chữ Hán vịnh cảnh thiên nhiên tinh tế của Nguyễn Trãi:\n- **Chủ đề**: Vẻ đẹp thoát tục, thơ mộng của danh thắng núi Dục Thuý bên dòng sông Vân và nét suy tư trầm lắng về lịch sử, con người của thi sĩ.\n- **Kiến thức trọng tâm**:\n  1. Các hình ảnh ẩn dụ độc đáo: Núi như \"đoá hoa sen nổi trên mặt nước\", tháp soi bóng nước như \"chiếc trâm ngọc xanh\".\n  2. Nỗi nhớ thương Trương Hán Siêu bộc lộ chiều sâu triết lí hoài niệm về sự đổi thay vô thường của tạo hóa."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 51,
+    "lessonContent": "Thực hành phân tích nghĩa của các điển tích, điển cố và các từ Hán Việt cổ trong bài Bình Ngô đại cáo và thơ Nguyễn Trãi (ví dụ: nhân nghĩa, quân tử, hiền tài). Hiểu rõ tác dụng gợi không khí trang nghiêm, cổ kính của văn học trung đại."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 52,
+    "lessonContent": "Quy trình lập luận viết bài văn nghị luận xã hội về một tư tưởng đạo lí hoặc hiện tượng đời sống:\n- **Cấu trúc**: Giới thiệu vấn đề cần bàn luận -> Phân tích thực trạng và nguyên nhân -> Đánh giá tác động tiêu cực/tích cực -> Đề xuất giải pháp thiết thực -> Rút ra bài học nhận thức hành động của bản thân."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 53,
+    "lessonContent": "Thực hành thảo luận nhóm về các đề tài xã hội đương đại:\n- Rèn luyện năng lực tự tin trình bày trước tập thể, lập luận mạch lạc, sắc bén.\n- Tôn trọng sự đa dạng trong cách nhìn nhận vấn đề, tiếp thu ý kiến đóng góp mang tính xây dựng."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 54,
+    "lessonContent": "Hệ thống hóa tri thức về tác gia Nguyễn Trãi qua việc lập niên biểu cuộc đời và sự nghiệp văn học. Khuyến khích học thuộc lòng những đoạn văn tiêu biểu trong bản dịch Bình Ngô đại cáo và các bài thơ Nôm nổi tiếng."
+  },
+  {
+    "lessonId": "nguvan10_t2_b6_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "lessonOrder": 55,
+    "lessonContent": "Đọc hiểu hai tác phẩm chữ Hán của Nguyễn Trãi:\n- **Ngôn chí (Bài 3)**: Vẻ đẹp tâm hồn thanh cao, lối sống giản dị, ẩn dật, hòa mình cùng thiên nhiên cỏ cây của thi sĩ.\n- **Bạch Đằng hải khẩu**: Niềm tự hào trước cảnh sắc thiên nhiên hùng vĩ của cửa biển Bạch Đằng lịch sử và nỗi ưu tư, suy ngẫm sâu sắc về hưng vong của triều đại phong kiến xưa."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 56,
+    "lessonContent": "Lý thuyết cốt lõi về nghệ thuật trần thuật:\n1. **Người kể chuyện ngôi thứ nhất**: Xưng \"tôi\", hạn trị trong góc nhìn cá nhân, đem lại tính chân thực, chủ quan.\n2. **Người kể chuyện ngôi thứ ba**: Ẩn danh, có quyền năng \"biết hết\" mọi suy nghĩ, hành động của toàn bộ nhân vật (toàn tri) hoặc hạn tri trong một góc nhìn nhất định.\n3. **Biện pháp chêm xen và liệt kê**:\n  - *Chêm xen*: Thành phần biệt lập đặt giữa hoặc cuối câu nhằm giải thích, bổ sung thông tin.\n  - *Liệt kê*: Sắp xếp chuỗi từ ngữ cùng loại để mô tả chi tiết, nhấn mạnh sắc thái sự vật."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 57,
+    "lessonContent": "Phân tích đoạn trích tiểu thuyết lừng danh \"Những người khốn khổ\" của Victor Hugo:\n- **Chủ đề**: Sức mạnh cảm hóa kì diệu của lòng nhân ái và tình yêu thương con người trước cái ác, sự vô nhân tính của bộ máy pháp luật khô khan.\n- **Kiến thức trọng tâm**:\n  1. Sự đối lập cực đoan giữa Giăng Van-giăng (hiền dịu, cao thượng, xả thân vì Phăng-tin) và gã cảnh sát Gia-ve (ác thú, hung bạo, tôn sùng luật pháp một cách mù quáng).\n  2. Cái chết đau đớn của Phăng-tin và sự hiển linh uy quyền của Giăng Van-giăng trước Gia-ve làm hắn phải run sợ chùn bước."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 58,
+    "lessonContent": "Phân tích truyện ngắn giàu chất thơ của Thạch Lam:\n- **Chủ đề**: Vẻ đẹp êm đềm, bình dị của quê hương, tình bà cháu ấm áp và tình yêu đôi lứa chớm nở dưới mái nhà xưa thanh bình.\n- **Kiến thức trọng tâm**:\n  1. Cảm giác bình yên, nhẹ nhõm của nhân vật Thanh khi trở về quê ngoại sau những ngày bon chen nơi phố thị.\n  2. Hình ảnh cây hoàng lan tỏa hương thơm dịu mát kết nối những kỉ niệm ấu thơ và tình cảm dịu nhẹ với cô láng giềng Nga."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 59,
+    "lessonContent": "Phân tích truyện ngắn trữ tình của nhà văn Nga Anton Chekhov:\n- **Chủ đề**: Những cảm xúc tinh tế, mong manh của tuổi trẻ và nỗi tiếc nuối hoài niệm về một tình yêu bỏ lỡ vô tình.\n- **Kiến thức trọng tâm**:\n  1. Trò đùa \"tỏ tình\" của nhân vật \"tôi\" với cô gái Na-đi-a khi hai người trượt tuyết lao nhanh xuống dốc.\n  2. Na-đi-a tìm kiếm câu nói yêu thương trong tiếng gió thổi đầy ngơ ngác, bâng khuâng và sự tiếc nuối muộn màng của nhân vật khi trưởng thành nhìn lại."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 60,
+    "lessonContent": "Thực hành xây dựng câu văn sử dụng nghệ thuật:\n- **Chêm xen**: Tạo lập các thành phần giải thích phụ đặt trong dấu gạch ngang hoặc ngoặc đơn để tăng tính biểu cảm.\n- **Liệt kê**: Sắp xếp chuỗi hành động, trạng thái nhân vật liên tiếp để khắc họa sinh động tâm trạng, hoàn cảnh."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 61,
+    "lessonContent": "Cấu trúc lập dàn ý viết bài văn phân tích chủ đề và nghệ thuật xây dựng nhân vật trong truyện ngắn:\n- **Mở bài**: Giới thiệu tác giả, truyện ngắn và nhân vật trung tâm cần phân tích.\n- **Thân bài**: Phân tích đặc điểm ngoại hình, nội tâm, hành động của nhân vật; mối quan hệ biện chứng giữa nhân vật và chủ đề tác phẩm; đánh giá ngôi kể và ngôn ngữ trần thuật.\n- **Kết bài**: Khẳng định giá trị nhân bản của nhân vật."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 62,
+    "lessonContent": "Tổ chức diễn đàn tranh luận văn học:\n- Chia sẻ các cách tiếp nhận khác nhau về một nhân vật hoặc tình huống truyện (ví dụ: hành động của Ngô Tử Văn, tâm trạng Xuý Vân).\n- Sử dụng lập luận sắc sảo, dẫn chứng xác thực từ văn bản để thuyết phục người nghe."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 63,
+    "lessonContent": "Lập bảng hệ thống hóa các đặc trưng trần thuật của ba truyện ngắn đã học về tiêu chí ngôi kể, điểm nhìn nghệ thuật, quyền năng người kể chuyện và chủ đề tư tưởng. Sưu tầm thêm các tác phẩm truyện ngắn trữ tình cùng đề tài."
+  },
+  {
+    "lessonId": "nguvan10_t2_b7_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 7: Quyền năng của người kể chuyện",
+    "lessonOrder": 64,
+    "lessonContent": "Đọc hiểu truyện ngắn của Nguyễn Quang Sáng:\n- **Nội dung**: Câu chuyện xúc động về chú chim khướu được nuôi trong lồng nhiều lần sổng chuồng bay đi rồi lại tự tìm đường quay về nhà, thể hiện khát vọng tự do cháy bỏng của muôn loài.\n- **Thông điệp**: Sự tôn trọng tự do của sinh linh và tình yêu thương, lòng bao dung sâu sắc của con người đối với tự nhiên."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 65,
+    "lessonContent": "Lí thuyết về thể loại văn bản thông tin:\n1. **Văn bản thông tin**: Loại văn bản cung cấp thông tin thực tế khách quan, chính xác về khoa học, xã hội, lịch sử.\n2. **Bản tin**: Bài viết ngắn cập nhật các sự kiện thời sự, có tính xác thực cao về số liệu, thời gian, địa điểm.\n3. **Phương tiện phi ngôn ngữ**: Biểu đồ, sơ đồ, hình ảnh hỗ trợ đắc lực cho việc truyền đạt thông tin trực quan."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 66,
+    "lessonContent": "Phân tích văn bản thông tin khoa học của Trịnh Xuân Thuận:\n- **Chủ đề**: Lịch sử hình thành kì diệu và sự tiến hóa của muôn loài trên Trái Đất cùng ý nghĩa sinh học tối cao của cái chết.\n- **Kiến thức trọng tâm**:\n  1. Cuộc đấu tranh sinh tồn quyết liệt kéo dài hàng trăm triệu năm của sinh vật cổ xưa.\n  2. Cái chết sinh học là điều kiện tiên quyết để nhường chỗ cho sự đổi mới, sự phát triển tiến hóa của các loài thế hệ sau."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 67,
+    "lessonContent": "Phân tích chương khảo cứu văn hóa truyền thống của học giả Nguyễn Văn Huyên:\n- **Chủ đề**: Vẻ đẹp kiến trúc cổ kính (đền, chùa, đình làng) và các tác phẩm điêu khắc gỗ tinh xảo thấm đượm linh hồn tâm tính dân tộc Việt.\n- **Kiến thức trọng tâm**: Đặc trưng hình khối nằm ngang, tính đối xứng hài hòa giữa các công trình kiến trúc cổ và tinh thần tôn trọng thiên nhiên sâu sắc của cha ông ta."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 68,
+    "lessonContent": "Phân tích bản tin khoa học của tác giả Lê My:\n- **Chủ đề**: Hành trình phát hiện lỗ thủng tầng ozone ở Nam Cực do chất thải công nghiệp CFC và nỗ lực chung tay cứu lấy khí quyển của nhân loại qua Nghị định thư Montreal.\n- **Thông điệp**: Khẳng định sự đồng lòng và hợp tác quốc tế chặt chẽ có thể giải quyết các cuộc khủng hoảng sinh thái toàn cầu một cách thành công."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 69,
+    "lessonContent": "Thực hành khai thác và lập sơ đồ, biểu đồ biểu diễn thông tin:\n- Hiểu rõ vai trò của hình ảnh minh họa, chú thích bản đồ và cách đọc số liệu khoa học chính xác.\n- Thiết kế một sơ đồ đơn giản thể hiện quy trình của một sự kiện lịch sử hoặc hiện tượng tự nhiên."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 70,
+    "lessonContent": "Quy trình thiết kế văn bản hành chính công cộng:\n- **Cấu trúc**: Tên tổ chức ban hành -> Tên văn bản (Nội quy/Hướng dẫn) -> Lời dẫn nhập ngắn gọn -> Các điều khoản quy định rõ ràng, súc tích đánh số thứ tự khoa học -> Thời gian hiệu lực và kí tên đóng dấu.\n- **Yêu cầu**: Ngôn ngữ nghiêm túc, rõ ràng, dễ hiểu đối với đại chúng."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 71,
+    "lessonContent": "Thực hành chia sẻ, góp ý xây dựng dự thảo nội quy của lớp học hoặc hướng dẫn sử dụng thư viện trường:\n- Học sinh tự tin thuyết trình các điều khoản đề xuất, lắng nghe phản hồi của bạn học để điều chỉnh từ ngữ mạch lạc, chặt chẽ và nhân văn hơn."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 72,
+    "lessonContent": "Hoàn thành bảng hệ thống hóa các văn bản thông tin đã học theo tiêu chí: Đề tài khoa học, các số liệu thực tế được sử dụng và vai trò của các phương tiện phi ngôn ngữ đi kèm. Sưu tầm thêm các bài báo khoa học bổ ích khác."
+  },
+  {
+    "lessonId": "nguvan10_t2_b8_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 8: Thế giới đa dạng của thông tin",
+    "lessonOrder": 73,
+    "lessonContent": "Đọc hiểu văn bản thông tin sinh thái học của Peter Wohlleben:\n- **Nội dung**: Sự giao tiếp bí ẩn và \"tính cách\" đa dạng của các loài cây thân gỗ trong rừng tự nhiên (cây sồi sổng lá muộn, cây thông san sẻ dinh dưỡng).\n- **Thông điệp**: Rừng là một cộng đồng sinh thái xã hội thông minh, đòi hỏi con người cần trân trọng và bảo vệ hệ sinh thái rừng tự nhiên toàn vẹn."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_tt",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 74,
+    "lessonContent": "Lý thuyết về lập sơ đồ tư duy và viết bài luận cá nhân:\n1. **Biểu đồ, sơ đồ**: Phương tiện trực quan hóa thông tin quan hệ logic phức tạp.\n2. **Bài luận về bản thân**: Thể loại nghị luận tự sự đặc biệt, nơi người viết chân thành tự bộc bạch, đánh giá ưu khuyết điểm, ước mơ và kế hoạch phát triển tương lai của chính mình."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_d1",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 75,
+    "lessonContent": "Phân tích bài viết khoa học triết lí của nhà vật lí Carlo Rovelli:\n- **Chủ đề**: Vị thế nhỏ bé của con người trong dòng chảy không gian - thời gian vô tận của vũ trụ nhưng lại là sinh vật có trí tuệ phi thường, biết tự khám phá bản thân và thế giới tự nhiên.\n- **Thông điệp**: Khát vọng tri thức và tình yêu thương nhân loại là hành trang quý giá nhất của con người."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_d2",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 76,
+    "lessonContent": "Phân tích bài thơ giàu triết lí nhân sinh của Robert Frost:\n- **Chủ đề**: Những sự lựa chọn mang tính bước ngoặt đầy băn khoăn trên hành trình cuộc đời và khát vọng dấn thân đi theo lối rẽ ít người chọn để tìm kiếm bản ngã độc đáo.\n- **Kiến thức trọng tâm**:\n  1. Biểu tượng hai lối rẽ trong rừng lá vàng đại diện cho các ngả rẽ cuộc đời.\n  2. Tâm trạng vừa ngập ngừng vừa quyết đoán của chủ thể trữ tình trước lựa chọn tương lai."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_d3",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 77,
+    "lessonContent": "Phân tích hồi kí tự sự của Giáo sư, doanh nhân Phan Văn Trường:\n- **Chủ đề**: Những trải nghiệm bôn ba khắp thế giới đầy thử thách và bài học vô giá về sự chủ động, tinh thần tự học, lòng tự tôn dân tộc để trở thành \"kẻ tìm đường\" thành công.\n- **Thông điệp**: Không có con đường định sẵn hoàn hảo, chính chúng ta là người tự tạo ra hành trình bằng sự dũng cảm dấn thân."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_thtv",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 78,
+    "lessonContent": "Thực hành xây dựng sơ đồ tự định vị bản thân (sơ đồ Ikigai, sơ đồ thế mạnh bản thân) nhằm tích hợp tri thức tiếng Việt vào cuộc sống thực tế để giải quyết các vấn đề hướng nghiệp cho học sinh trung học phổ thông."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_v",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 79,
+    "lessonContent": "Cấu trúc lập dàn ý chi tiết bài luận định vị bản thân:\n- **Mở bài**: Nêu hoàn cảnh sống, hoàn cảnh gia đình hoặc câu trích dẫn tâm đắc làm kim chỉ nam cuộc sống.\n- **Thân bài**: Tự họa bức chân dung nội tâm chân thực (thế mạnh, tài năng, điểm yếu cần khắc phục, ước mơ nghề nghiệp hoài bão và kế hoạch hành động cụ thể).\n- **Kết bài**: Cam kết sống tích cực và cống hiến giá trị cho cộng đồng."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_nn",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 80,
+    "lessonContent": "Rèn luyện kĩ năng thuyết trình báo cáo trước đám đông về một đề tài xã hội tự chọn:\n- Kết hợp mạch lạc giữa ngôn ngữ cơ thể và slide trình chiếu sinh động, sơ đồ lập luận logic.\n- Biết lắng nghe ý kiến phản biện mang tính xây dựng và giải đáp thuyết phục."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_cgmr",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 81,
+    "lessonContent": "Thiết lập sơ đồ so sánh sự khác nhau cơ bản giữa bài viết nghị luận thông thường và bài luận cá nhân về bản thân. Tự thiết kế một kế hoạch hành trình học tập và rèn luyện kĩ năng thiết yếu cho tương lai của chính học sinh."
+  },
+  {
+    "lessonId": "nguvan10_t2_b9_thd",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Bài 9: Hành trang cuộc sống",
+    "lessonOrder": 82,
+    "lessonContent": "Đọc hiểu trang nhật kí đầy xúc động của liệt sĩ Nguyễn Văn Thạc:\n- **Nội dung**: Những suy tư, cảm xúc thiêng liêng rạo rực của một thế hệ thanh niên trí thức gác bút nghiên lên đường chiến đấu giải phóng miền Nam, tràn đầy lý tưởng cách mạng dấn thân vì Tổ quốc.\n- **Ý nghĩa**: Giáo dục tinh thần yêu nước, trách nhiệm thế hệ trẻ trước vận mệnh tươi sáng của đất nước."
+  },
+  {
+    "lessonId": "nguvan10_t2_ontap",
+    "grade": 10,
+    "subject": "Ngữ văn",
+    "chapterName": "Ôn tập",
+    "lessonOrder": 83,
+    "lessonContent": "Hệ thống hóa toàn bộ chương trình Ngữ văn 10 Tập 2:\n1. **Đọc hiểu**: Ôn tập văn học trung đại về tác gia Nguyễn Trãi, truyện ngắn hiện đại đề cao quyền năng người kể chuyện và các văn bản thông tin khoa học đời sống.\n2. **Viết và Nói Nghe**: Củng cố kĩ năng viết bài luận thuyết phục, báo cáo nghiên cứu và tự thuyết trình dự án khoa học một cách độc lập và tự tin."
+  }
+]

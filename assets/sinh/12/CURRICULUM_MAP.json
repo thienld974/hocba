@@ -1,0 +1,290 @@
+[
+  {
+    "lessonId": "sinh12_b1",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương I: Di truyền phân tử",
+    "lessonOrder": 1,
+    "lessonContent": "Ý chính: Cấu trúc hóa học, chức năng của DNA; cơ chế nhân đôi (tái bản) DNA ở sinh vật nhân sơ và nhân thực. Kiến thức trọng tâm: 1) Cấu trúc DNA: Gồm 2 mạch polynucleotide xoắn kép song song ngược chiều (5'-3' và 3'-5'); các base Nito (A, T, G, C) liên kết bổ sung (A-T bằng 2 liên kết H, G-C bằng 3 liên kết H). 2) Chức năng: Lưu trữ, bảo quản, truyền đạt thông tin di truyền. 3) Cơ chế tái bản: Xảy ra theo nguyên tắc bán bảo toàn và bổ sung. Helicase tháo xoắn tại điểm Ori tạo chạc chữ Y; primase tổng hợp đoạn mồi RNA (cung cấp đầu 3'-OH); DNA polymerase tổng hợp mạch mới theo chiều 5'->3' (mạch khuôn 3'-5' tổng hợp liên tục; mạch khuôn 5'-3' tổng hợp gián đoạn thành các đoạn Okazaki nhờ ligase nối lại). Nhân sơ có 1 điểm Ori, nhân thực có nhiều đơn vị tái bản. Từ khóa: Chuỗi xoắn kép, chạc chữ Y, đoạn Okazaki, bán bảo toàn, DNA polymerase, ligase, điểm khởi đầu Ori."
+  },
+  {
+    "lessonId": "sinh12_b2",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương I: Di truyền phân tử",
+    "lessonOrder": 2,
+    "lessonContent": "Ý chính: Khái niệm, cấu trúc gene; các loại RNA, cơ chế phiên mã, mã di truyền, dịch mã; khái niệm hệ gene và thành tựu giải trình tự hệ gene người. Kiến thức trọng tâm: 1) Gene: Là đoạn DNA mang thông tin mã hóa chuỗi polypeptide hoặc RNA. Cấu trúc gồm 3 vùng: điều hòa (đầu 3' mạch khuôn, chứa promoter), mã hóa (gene không phân mảnh ở nhân sơ, gene phân mảnh xen kẽ exon-intron ở nhân thực), kết thúc (đầu 5' mạch khuôn). 2) Hệ gene: Toàn bộ vật chất di truyền trong tế bào. Hệ gene người gồm ~3.2 tỷ cặp nucleotit, ~21.300 gene mã hóa protein. 3) Phiên mã: Tổng hợp RNA từ mạch khuôn 3'-5' của gene nhờ RNA polymerase theo NTBS. Ở nhân thực có quá trình cắt intron, nối exon, thêm mũ 5' và đuôi polyA 3' tạo mRNA trưởng thành. 4) Mã di truyền: Mã bộ ba trên mRNA (64 codon, 1 mở đầu AUG, 3 kết thúc UAA, UAG, UGA), có tính liên tục, phổ biến, đặc hiệu và thoái hóa. 5) Dịch mã: Ribosome dịch mã mRNA thành chuỗi polypeptide theo NTBS giữa codon và anticodon của tRNA. 6) Phiên mã ngược: Tổng hợp cDNA từ RNA nhờ reverse transcriptase ở virus (HIV, SARS-CoV-2). Từ khóa: Gene phân mảnh, exon, intron, promoter, codon, anticodon, phiên mã, dịch mã, phiên mã ngược, hệ gene."
+  },
+  {
+    "lessonId": "sinh12_b3",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương I: Di truyền phân tử",
+    "lessonOrder": 3,
+    "lessonContent": "Ý chính: Cơ chế điều hòa hoạt động của gene ở sinh vật nhân sơ qua mô hình Operon Lac; ý nghĩa và ứng dụng thực tế. Kiến thức trọng tâm: 1) Cấu trúc Operon Lac ở vi khuẩn E. coli: Gồm cụm các gene cấu trúc (lacZ, lacY, lacA mã hóa các enzyme phân giải lactose) chung một promoter P (nơi RNA polymerase bám) và operator O (vùng vận hành). Gene điều hòa lacI nằm ngoài operon, mã hóa protein ức chế. 2) Cơ chế hoạt động: Khi không có lactose, protein ức chế gắn vào operator O ngăn cản phiên mã. Khi có lactose (chất cảm ứng), nó liên kết làm biến đổi cấu hình protein ức chế, khiến nó rời khỏi operator, RNA polymerase tiến hành phiên mã nhóm gene cấu trúc. 3) Ý nghĩa & Ứng dụng: Giúp tế bào tiết kiệm năng lượng và nguyên liệu; ứng dụng trong sản xuất dược phẩm (protein trị liệu, kháng thể), chọn giống cây trồng và điều khiển giới tính vật nuôi. Từ khóa: Operon Lac, protein ức chế, chất cảm ứng, vi khuẩn E. coli, operator, promoter, gene cấu trúc."
+  },
+  {
+    "lessonId": "sinh12_b4",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương I: Di truyền phân tử",
+    "lessonOrder": 4,
+    "lessonContent": "Ý chính: Định nghĩa, các dạng đột biến gene; nguyên nhân, cơ chế phát sinh và vai trò của đột biến gene trong tiến hóa, chọn giống và nghiên cứu di truyền. Kiến thức trọng tâm: 1) Định nghĩa: Biến đổi trong cấu trúc của gene, liên quan đến một (đột biến điểm) hoặc một số cặp nucleotide. 2) Các dạng đột biến điểm: Thay thế cặp nucleotide (có thể thay đổi 1 amino acid hoặc giữ nguyên do tính thoái hóa mã di truyền); thêm hoặc mất cặp nucleotide (gây đột biến dịch khung đọc mã di truyền từ vị trí đột biến, làm thay đổi toàn bộ chuỗi polypeptide phía sau). 3) Nguyên nhân: Tự phát (sai sót tái bản) hoặc cảm ứng bởi tác nhân vật lý (tia UV gây dimer T-T, tia X, gamma gây đứt gãy), hóa học (5-bromouracil gây thế A-T bằng G-C, EMS, chất độc màu cam), sinh học (virus viêm gan B, HPV chèn hệ gene). 4) Cơ chế: Sự bắt cặp nhầm do base nito dạng hiếm hoặc hóa chất xen mạch. 5) Vai trò: Nguồn nguyên liệu sơ cấp cho tiến hóa và chọn giống; là công cụ nghiên cứu chức năng gene. Từ khóa: Đột biến điểm, đột biến thay thế, đột biến dịch khung, 5-bromouracil, tác nhân đột biến, nguyên liệu sơ cấp."
+  },
+  {
+    "lessonId": "sinh12_b5",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương I: Di truyền phân tử",
+    "lessonOrder": 5,
+    "lessonContent": "Ý chính: Khái niệm, nguyên lý và thành tựu của công nghệ DNA tái tổ hợp; công nghệ tạo sinh vật biến đổi gene (GMO); các vấn đề đạo đức sinh học liên quan. Kiến thức trọng tâm: 1) Công nghệ gene: Quy trình kỹ thuật sử dụng DNA tái tổ hợp để biến đổi hệ gene sinh vật phục vụ nhu cầu con người. 2) DNA tái tổ hợp: Tách chiết gene cần chuyển và vector (plasmid hoặc virus), cắt bằng cùng restrictase (enzyme giới hạn) tạo đầu dính bổ sung, nối lại bằng ligase và chuyển vào tế bào nhận (E. coli) để biểu hiện. 3) Sinh vật biến đổi gene (GMO): Sinh vật mang gene ngoại lai được chuyển nạp. 4) Thành tựu: Vi khuẩn chuyển gene sản xuất insulin người (1979), hormone sinh trưởng; cừu chuyển gene tiết antithrombin vào sữa; giống lúa vàng tổng hợp beta-carotene; cây bông kháng sâu hại. 5) Đạo đức sinh học: Nguy cơ phát tán gene kháng thuốc, tác động sức khỏe con người, các tranh cãi về chỉnh sửa hệ gene người bằng CRISPR-Cas9. Từ khóa: DNA tái tổ hợp, plasmid, restrictase, ligase, sinh vật biến đổi gene (GMO), lúa vàng, insulin, đạo đức sinh học, CRISPR-Cas9."
+  },
+  {
+    "lessonId": "sinh12_b6",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương I: Di truyền phân tử",
+    "lessonOrder": 6,
+    "lessonContent": "Ý chính: Nguyên lý và quy trình tách chiết DNA từ các mẫu vật sống (như gan gà hoặc mô động, thực vật). Kiến thức trọng tâm: 1) Nguyên lý: DNA trong nhân tế bào liên kết với protein histone. Phá vỡ màng tế bào và màng nhân bằng lực cơ học (nghiền mẫu trong cối sứ) và chất tẩy rửa (nước rửa chén chứa SDS để hòa tan lipid màng). Sử dụng enzyme protease (từ nước dứa tươi chứa bromelain) để phân giải protein liên kết với DNA. Sử dụng cồn ethanol lạnh (70-95%) để kết tủa DNA vì DNA không tan trong cồn lạnh, tạo thành các sợi màu trắng đục. 2) Quy trình: Nghiền gan gà với nước lạnh -> lọc qua phễu lọc -> trộn với nước rửa bát loãng -> thêm nước dứa tươi -> nghiêng ống nghiệm rót cồn ethanol lạnh -> dùng tăm tre cuộn lấy sợi DNA kết tủa màu trắng đục xuất hiện ở ranh giới hai lớp dịch. Từ khóa: Tách chiết DNA, nước rửa chén (SDS), nước dứa (bromelain), cồn ethanol lạnh, kết tủa trắng đục, gan gà."
+  },
+  {
+    "lessonId": "sinh12_b7",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 7,
+    "lessonContent": "Ý chính: Cấu trúc siêu hiển vi của nhiễm sắc thể (NST) ở sinh vật nhân thực; chức năng của NST trong truyền đạt thông tin di truyền; ý nghĩa của nguyên phân, giảm phân và thụ tinh. Kiến thức trọng tâm: 1) Cấu trúc siêu hiển vi: DNA quấn quanh protein histone tạo thành các nucleosome (lõi 8 histone + 1.75 vòng DNA ~146 cặp base), đường kính 10 nm (sợi cơ bản). Sợi cơ bản cuộn xoắn thành sợi chất nhiễm sắc (30 nm), sợi siêu xoắn (300 nm) và chromatid co xoắn cực đại ở kì giữa (700 nm). 2) Chức năng: Là vật chất di truyền cấp tế bào; mang gene sắp xếp tuyến tính (mỗi gene ở một locus xác định); bảo vệ và phân chia đồng đều DNA nhờ tâm động gắn thoi phân bào. 3) Vận động NST: Nhân đôi ở kì trung gian, phân li đồng đều trong nguyên phân giúp duy trì bộ NST 2n ổn định; sự phân li độc lập và tổ hợp tự do trong giảm phân kết hợp thụ tinh tạo ra vô số biến dị tổ hợp giúp sinh vật thích nghi. Từ khóa: Nhiễm sắc thể, nucleosome, histone, sợi cơ bản, chromatid, tâm động, locus, phân li độc lập, biến dị tổ hợp."
+  },
+  {
+    "lessonId": "sinh12_b8",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 8,
+    "lessonContent": "Ý chính: Thí nghiệm lai một tính trạng và lai hai tính trạng của Mendel ở đậu Hà Lan; phương pháp nghiên cứu và hai quy luật di truyền phân li, phân li độc lập. Kiến thức trọng tâm: 1) Phương pháp: Tạo các dòng thuần chủng tương phản; lai và sử dụng toán xác suất thống kê để phân tích đời con F1, F2, F3; dùng phép lai phân tích để kiểm chứng. 2) Lai một tính trạng: P hoa tím x hoa trắng -> F1 100% hoa tím -> F2 tự thụ phấn thu được tỉ lệ 3 hoa tím : 1 hoa trắng. 3) Quy luật phân li: Mỗi tính trạng do một cặp allele quy định. Khi giảm phân, cặp allele phân li đồng đều về các giao tử (giao tử chỉ chứa 1 allele của cặp). Cơ sở tế bào: Sự phân li của cặp NST tương đồng mang cặp allele ở giảm phân I. 4) Lai hai tính trạng: P vàng, trơn x xanh, nhăn -> F1 100% vàng, trơn -> F2 tự thụ phấn cho tỉ lệ 9 vàng, trơn : 3 vàng, nhăn : 3 xanh, trơn : 1 xanh, nhăn. 5) Quy luật phân li độc lập: Các cặp allele quy định các tính trạng khác nhau phân li độc lập trong quá trình hình thành giao tử. Cơ sở tế bào: Các cặp gene nằm trên các cặp NST tương đồng khác nhau phân li độc lập và tổ hợp tự do ở kì sau giảm phân I. Từ khóa: Lai một tính trạng, lai hai tính trạng, quy luật phân li, quy luật phân li độc lập, dòng thuần chủng, trội lặn, đậu Hà Lan."
+  },
+  {
+    "lessonId": "sinh12_b9",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 9,
+    "lessonContent": "Ý chính: Hiện tượng trội không hoàn toàn, đồng trội và tương tác gene (át chế, tương tác cộng gộp) làm mở rộng học thuyết Mendel. Kiến thức trọng tâm: 1) Trội không hoàn toàn: Kiểu gene dị hợp Aa biểu hiện kiểu hình trung gian giữa đồng hợp trội AA và lặn aa (Ví dụ hoa mỏm chó AA đỏ x aa trắng -> Aa hồng; tỉ lệ kiểu hình F2 là 1 đỏ : 2 hồng : 1 trắng). 2) Đồng trội: Cả hai allele dị hợp cùng biểu hiện kiểu hình riêng rẽ (Ví dụ nhóm máu AB ở người mang kiểu gene IAIB biểu hiện cả kháng nguyên A và B). 3) Tương tác gene: Hai hay nhiều gene không allele cùng tương tác quy định một tính trạng. Tương tác gián tiếp (át chế) là sản phẩm gene này ngăn cản gene khác biểu hiện (màu vỏ ốc). Tương tác trực tiếp (cộng gộp) là mỗi allele trội của các gene khác nhau đóng góp một đơn vị như nhau vào tính trạng trội; tính trạng số lượng (màu da, chiều cao, cân nặng, năng suất) di truyền theo kiểu cộng gộp tạo đồ thị phân bố chuẩn. Từ khóa: Trội không hoàn toàn, đồng trội, tương tác gene, át chế, tương tác cộng gộp, tính trạng số lượng, phân bố chuẩn."
+  },
+  {
+    "lessonId": "sinh12_b10",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 10,
+    "lessonContent": "Ý chính: Khái niệm nhiễm sắc thể giới tính; cơ chế xác định giới tính di truyền; đặc điểm di truyền liên kết với giới tính và ứng dụng thực tiễn. Kiến thức trọng tâm: 1) NST giới tính: Cặp NST chứa gene quy định giới tính và tính trạng thường. Vùng tương đồng mang các đoạn PAR giống nhau ở X và Y; vùng không tương đồng chỉ có trên X hoặc chỉ có trên Y (chứa gene SRY quyết định giới tính nam ở người). 2) Cơ chế xác định giới tính: Kiểu XX (cái) - XY (đực) ở người, thú, ruồi giấm; kiểu XX (đực) - XY (cái) ở muỗi; kiểu ZZ (đực) - ZW (cái) ở chim, bướm, cá, bò sát; kiểu XX (cái) - XO (đực) ở châu chấu, rệp. 3) Di truyền liên kết với X (vùng không tương đồng): Thí nghiệm Morgan trên ruồi giấm mắt đỏ x mắt trắng. Đặc điểm: Phép lai thuận nghịch cho kết quả khác nhau, di truyền chéo (bố cho con gái, mẹ cho con trai). Ở người, bệnh mù màu và máu khó đông do allele lặn trên X quy định, thường gặp chủ yếu ở nam giới (X^aY). 4) Di truyền liên kết với Y: Di truyền thẳng từ bố sang 100% con trai (túm lông vành tai). 5) Ứng dụng: Nhận biết giới tính sớm để điều khiển tỉ lệ đực/cái phù hợp nhu cầu chăn nuôi. Từ khóa: NST giới tính, gene SRY, di truyền liên kết giới tính, di truyền chéo, di truyền thẳng, mù màu, máu khó đông."
+  },
+  {
+    "lessonId": "sinh12_b11",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 11,
+    "lessonContent": "Ý chính: Thí nghiệm phát hiện hiện tượng liên kết gene và hoán vị gene của Morgan trên ruồi giấm; cơ sở tế bào học, vai trò của liên kết gene, hoán vị gene; khái niệm và ý nghĩa bản đồ di truyền. Kiến thức trọng tâm: 1) Liên kết gene: Lai phân tích ruồi đực F1 xám, dài (BV/bv x bv/bv) -> Fa cho 50% xám, dài : 50% đen, cụt. Giải thích: Các gene nằm trên cùng một NST di truyền cùng nhau. Ý nghĩa: Duy trì các nhóm gene quý có lợi, hạn chế biến dị tổ hợp. 2) Hoán vị gene: Lai phân tích ruồi cái F1 xám, dài (BV/bv x bv/bv) -> Fa cho 41.5% xám, dài : 41.5% đen, cụt : 8.5% xám, cụt : 8.5% đen, dài. Cơ sở tế bào: Sự trao đổi chéo giữa các chromatid khác nguồn gốc của cặp NST tương đồng ở kì đầu giảm phân I. Tần số hoán vị gene f <= 50%. Ý nghĩa: Tạo tổ hợp gene mới, tăng biến dị tổ hợp phục vụ tiến hóa và chọn giống. 3) Bản đồ di truyền: Sơ đồ biểu diễn trật tự và khoảng cách tương đối giữa các gene trên NST (đơn vị centimorgan cM, 1% hoán vị = 1 cM); giúp dự đoán tần số tổ hợp gene mới, rút ngắn thời gian chọn giống. Từ khóa: Liên kết gene, hoán vị gene, trao đổi chéo, centimorgan, bản đồ di truyền, nhóm liên kết."
+  },
+  {
+    "lessonId": "sinh12_b12",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 12,
+    "lessonContent": "Ý chính: Định nghĩa đột biến NST; các dạng đột biến cấu trúc NST; các dạng đột biến số lượng NST (lệch bội, đa bội); nguyên nhân, tác hại và vai trò của đột biến NST. Kiến thức trọng tâm: 1) Đột biến cấu trúc NST: Do tác nhân gây đứt gãy NST rồi nối lại bất thường. Gồm 4 dạng: Mất đoạn (thường giảm sức sống, gây chết; mất đoạn NST 21 gây ung thư bạch cầu, mất đoạn NST 5 gây hội chứng mèo kêu); Lặp đoạn (tăng bản sao gene, tăng/giảm biểu hiện tính trạng; lặp đoạn amylase ở lúa mạch); Đảo đoạn (quay 180 độ, đổi trật tự gene, tạo nhóm liên kết mới); Chuyển đoạn (giữa các NST; chuyển đoạn tương hỗ 9 và 22 tạo NST Philadelphia gây ung thư bạch cầu). 2) Đột biến số lượng NST: Lệch bội là biến đổi số lượng ở một hoặc vài cặp NST (2n+1 thể ba như hội chứng Down thừa NST 21, 2n-1 thể một như Turner XO, thể ba giới tính Klinefelter XXY) do không phân li NST trong giảm phân. Đa bội là biến đổi ở tất cả các cặp NST; tự đa bội (3n dưa hấu không hạt, 4n thực vật sinh trưởng mạnh, cơ quan sinh dưỡng to); dị đa bội (song lưỡng bội 2n_A + 2n_B phát sinh từ lai xa kèm đa bội hóa). Từ khóa: Đột biến cấu trúc NST, mất đoạn, lặp đoạn, đảo đoạn, chuyển đoạn, lệch bội, Down, tự đa bội, dị đa bội, song lưỡng bội."
+  },
+  {
+    "lessonId": "sinh12_b13",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 13,
+    "lessonContent": "Ý chính: Các phương pháp nghiên cứu di truyền người (phả hệ, tế bào); khái niệm di truyền y học, y học tư vấn và các liệu pháp điều trị hiện đại như liệu pháp gene. Kiến thức trọng tâm: 1) Phương pháp: Nghiên cứu phả hệ (sử dụng sơ đồ theo dõi tính trạng qua các thế hệ gia đình để xác định bệnh trội/lặn, liên kết giới tính); nghiên cứu di truyền tế bào (lập NST đồ karyotype để chẩn đoán đột biến số lượng, cấu trúc NST). 2) Y học tư vấn: Chẩn đoán trước sinh (chọc dò dịch ối, sinh thiết nhau thai) để xác định nguy cơ mắc dị tật di truyền của thai nhi, đặc biệt ở phụ nữ lớn tuổi có nguy cơ sinh con mắc Down cao. 3) Liệu pháp gene: Chữa bệnh di truyền bằng cách chuyển gene lành thay thế gene bệnh hoặc chỉnh sửa gene trực tiếp. Thành tựu: Điều trị bệnh suy giảm miễn dịch SCID, mù bẩm sinh Leber bằng vector virus; chỉnh sửa gene CRISPR-Cas9 chữa bệnh hồng cầu hình liềm. Từ khóa: Di truyền y học, phả hệ, NST đồ, chẩn đoán trước sinh, chọc dò dịch ối, liệu pháp gene, CRISPR-Cas9."
+  },
+  {
+    "lessonId": "sinh12_b14",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương II: Di truyền nhiễm sắc thể",
+    "lessonOrder": 14,
+    "lessonContent": "Ý chính: Nguyên lý và quy trình các bước sử dụng kính hiển vi quang học để quan sát các tiêu bản cố định về đột biến cấu trúc và số lượng NST ở một số loài. Kiến thức trọng tâm: 1) Nguyên lý: NST co xoắn cực đại ở kì giữa phân bào, có hình thái rõ nét nhất. So sánh hình thái, số lượng NST trên tiêu bản đột biến với tiêu bản bình thường để nhận diện đột biến cấu trúc (mất đoạn, lặp đoạn, chuyển đoạn) hoặc lệch bội (thể ba, thể một) và đa bội. 2) Quy trình: Đặt tiêu bản lên bàn kính -> dùng vật kính 10x tìm vùng phân bố NST tốt -> chuyển sang vật kính 40x để quan sát rõ hơn -> nhỏ một giọt dầu soi kính lên tiêu bản, chuyển sang vật kính 100x và điều chỉnh ốc vi cấp để quan sát và đếm số lượng NST, vẽ hình và nhận xét. Từ khóa: Tiêu bản NST, kính hiển vi, vật kính 100x, dầu soi kính, đếm số lượng NST, nhận diện đột biến cấu trúc."
+  },
+  {
+    "lessonId": "sinh12_b15",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương III: Mở rộng học thuyết di truyền nhiễm sắc thể",
+    "lessonOrder": 15,
+    "lessonContent": "Ý chính: Thí nghiệm của Correns phát hiện di truyền ngoài nhân ở cây hoa phấn; đặc điểm di truyền ngoài nhân (di truyền theo dòng mẹ) và ứng dụng thực tế. Kiến thức trọng tâm: 1) Thí nghiệm Correns (1909): Lai thuận nghịch các nhánh cây hoa phấn có màu lá khác nhau (xanh, trắng, khảm) luôn cho đời con F1 giống hệt cây chọn làm mẹ. 2) Đặc điểm: Các gene nằm trên các phân tử DNA dạng vòng kép trần trong ti thể và lục lạp của tế bào chất. Khi thụ tinh, trứng (giao tử cái) đóng góp hầu hết tế bào chất và bào quan cho hợp tử, tinh trùng (giao tử đực) chỉ đóng góp nhân. Do đó tính trạng di truyền theo dòng mẹ, phân chia ngẫu nhiên và không đều về tế bào con, không tuân theo quy luật di truyền nhân. 3) Ứng dụng: Giải thích và điều trị các bệnh ti thể ở người di truyền từ mẹ (bệnh cơ tim, thoái hóa thần kinh); ứng dụng dòng tế bào chất bất dục đực sản xuất hạt lai năng suất cao (ngô, lúa); phân tích trình tự DNA ti thể để nghiên cứu tiến hóa và truy tìm nguồn gốc loài người từ châu Phi. Từ khóa: Di truyền ngoài nhân, tế bào chất, ti thể, lục lạp, di truyền theo dòng mẹ, lai thuận nghịch, bất dục đực, DNA ti thể."
+  },
+  {
+    "lessonId": "sinh12_b16",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương III: Mở rộng học thuyết di truyền nhiễm sắc thể",
+    "lessonOrder": 16,
+    "lessonContent": "Ý chính: Mối quan hệ tương tác giữa kiểu gene và môi trường trong việc hình thành kiểu hình; khái niệm mức phản ứng, thường biến; các phương pháp chọn tạo giống vật nuôi, cây trồng ưu tú. Kiến thức trọng tâm: 1) Tương tác kiểu gene - môi trường: Kiểu hình là kết quả tương tác giữa kiểu gene và môi trường (ví dụ hoa phù dung đổi màu trắng sang hồng do thay đổi nhiệt độ). 2) Mức phản ứng: Tập hợp kiểu hình của cùng một kiểu gene trước các điều kiện môi trường khác nhau. Mức phản ứng do kiểu gene quy định (tính trạng chất lượng có mức phản ứng hẹp; tính trạng số lượng có mức phản ứng rộng). 3) Thường biến (biến đổi kiểu hình): Biến đổi kiểu hình của cùng kiểu gene dưới tác động trực tiếp của môi trường, giúp thích nghi, mang tính đồng loạt, định hướng, không di truyền (Ví dụ chế độ ăn kiêng chất phenylalanine ngăn ngừa biểu hiện bệnh phenylketonuria). 4) Chọn giống bằng lai hữu tính: Tạo dòng thuần chủng bằng tự phối/giao phối gần; lai dòng thuần chủng khác nhau để tìm ưu thế lai vượt trội ở F1 (chỉ dùng làm thương phẩm, không làm giống). Thành tựu: Giống lợn Landrace siêu nạc, lúa ST25 gạo ngon nhất thế giới. Từ khóa: Mức phản ứng, thường biến, ưu thế lai, dòng thuần chủng, chọn giống vật nuôi, ST25, phenylketonuria."
+  },
+  {
+    "lessonId": "sinh12_b17",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương III: Mở rộng học thuyết di truyền nhiễm sắc thể",
+    "lessonOrder": 17,
+    "lessonContent": "Ý chính: Nguyên lý và quy trình thiết lập thí nghiệm trồng cây trong các điều kiện môi trường khác nhau để chứng minh sự hình thành thường biến ở cây trồng. Kiến thức trọng tâm: 1) Nguyên lý: Sử dụng các nhánh cây con có cùng kiểu gene (thu được bằng phương pháp giâm cành hoặc tách chồi từ cùng một cây mẹ, ví dụ cây rau muống, khoai lang) đem trồng trong các lô đối chứng (tưới nước, bón phân đầy đủ) và lô thực nghiệm (thiếu nước, bón phân quá liều, hoặc thay đổi cường độ ánh sáng). Sau một thời gian, đo đạc các chỉ số sinh trưởng (chiều cao, khối lượng, hình dạng lá) để chứng minh môi trường làm thay đổi kiểu hình (thường biến) mà không đổi kiểu gene. Sử dụng kiểm định toán học T-test để đánh giá sai khác có ý nghĩa thống kê hay không. 2) Quy trình: Chuẩn bị đất trồng -> ngắt các nhánh rau muống dài ~15 cm từ cùng một bụi -> trồng vào hai luống -> áp dụng chế độ chăm sóc khác nhau -> theo dõi chiều cao, cân nặng -> xử lý số liệu. Từ khóa: Thí nghiệm thường biến, giâm cành, cùng kiểu gene, lô đối chứng, thực nghiệm, kiểm định T-test."
+  },
+  {
+    "lessonId": "sinh12_b18",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương IV: Di truyền quần thể",
+    "lessonOrder": 18,
+    "lessonContent": "Ý chính: Khái niệm quần thể di truyền và vốn gene; đặc điểm di truyền quần thể tự phối, giao phối cận huyết; đặc điểm quần thể ngẫu phối và Định luật Hardy - Weinberg. Kiến thức trọng tâm: 1) Khái niệm: Quần thể là tập hợp cá thể cùng loài, cùng không gian và thời gian, có khả năng giao phối tạo thế hệ mới. Quần thể đặc trưng bởi vốn gene, cụ thể là tần số allele và thành phần kiểu gene. 2) Tự phối và giao phối gần: Làm tần số kiểu gene dị hợp tử giảm dần qua các thế hệ (Aa = (1/2)^n), đồng hợp tử tăng lên, tần số allele không đổi. Hệ quả: Làm nghèo vốn gene, xuất hiện đột biến lặn có hại ở trạng thái đồng hợp gây thoái hóa cận huyết; là cơ sở pháp lý cấm kết hôn cận huyết ở người. 3) Ngẫu phối: Cá thể giao phối hoàn toàn ngẫu nhiên, độ đa dạng di truyền rất cao, duy trì sự ổn định tần số allele và thành phần kiểu gene qua các thế hệ ở điều kiện lý tưởng. 4) Định luật Hardy - Weinberg: Trong quần thể ngẫu phối lý tưởng (kích thước lớn, không đột biến, không CLTN, không di - nhập gene), tần số allele và thành phần kiểu gene duy trì ổn định không đổi: (p+q)^2 = p^2AA + 2pqAa + q^2aa = 1. Giúp tính toán tần số allele từ kiểu hình. Từ khóa: Quần thể di truyền, vốn gene, tần số allele, tự phối, giao phối gần, thoái hóa giống, ngẫu phối, định luật Hardy - Weinberg."
+  },
+  {
+    "lessonId": "sinh12_b19",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương V: Bằng chứng và các học thuyết tiến hoá",
+    "lessonOrder": 19,
+    "lessonContent": "Ý chính: Các loại bằng chứng chứng minh nguồn gốc chung của sinh giới: bằng chứng hóa thạch, giải phẫu so sánh, tế bào học và sinh học phân tử. Kiến thức trọng tâm: 1) Bằng chứng hóa thạch: Tàn tích sinh vật được lưu giữ trong địa tầng vỏ Trái Đất. Là bằng chứng trực tiếp phản ánh lịch sử phát sinh, phát triển và diệt vong của các loài (Ví dụ hóa thạch chim cổ Archaeopteryx là dạng chuyển tiếp giữa bò sát và chim). Định tuổi hóa thạch bằng đồng vị phóng xạ (C-14 cho mẫu trẻ, U-238 cho mẫu cổ). 2) Bằng chứng giải phẫu so sánh: Cơ quan tương đồng (cùng nguồn gốc phát sinh nhưng chức năng khác nhau, ví dụ chi trước của người, mèo, cá voi, dơi; chứng minh tiến hóa phân ly); Cơ quan thoái hóa (mất chức năng ban đầu, ví dụ ruột thừa ở người; là cơ quan tương đồng); Cơ quan tương tự (khác nguồn gốc nhưng chức năng giống nhau do thích nghi môi trường tương tự, ví dụ cánh chim và cánh côn trùng; chứng minh tiến hóa hội tụ). 3) Bằng chứng tế bào và phân tử: Mọi sinh vật đều cấu tạo từ tế bào, có cùng mã di truyền, dùng chung 20 loại amino acid cấu tạo protein. Sự giống nhau về trình tự nucleotit trong DNA/amino acid phản ánh mức độ quan hệ họ hàng giữa các loài (thuyết phục nhất). Từ khóa: Bằng chứng tiến hóa, hóa thạch, cơ quan tương đồng, cơ quan tương tự, cơ quan thoái hóa, tiến hóa phân ly, sinh học phân tử, cytochrome C."
+  },
+  {
+    "lessonId": "sinh12_b20",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương V: Bằng chứng và các học thuyết tiến hoá",
+    "lessonOrder": 20,
+    "lessonContent": "Ý chính: Học thuyết tiến hóa của Charles Darwin; vai trò của biến dị cá thể, chọn lọc nhân tạo và chọn lọc tự nhiên; giải thích nguồn gốc loài mới và các đặc điểm thích nghi. Kiến thức trọng tâm: 1) Phương pháp: Quan sát thực địa tự nhiên (chuyến đi tàu Beagle, chim sẻ Galapagos) kết hợp chọn giống của con người, đề xuất giả thuyết và thực nghiệm kiểm chứng. 2) Biến dị cá thể: Các cá thể sinh ra từ cùng bố mẹ luôn có những sai khác nhỏ lẻ di truyền được; là nguyên liệu cho chọn lọc. 3) Chọn lọc nhân tạo (CLNT): Con người là động lực chọn lọc, giữ lại biến dị phù hợp lợi ích con người, đào thải biến dị không mong muốn, tạo ra hàng loạt giống vật nuôi, cây trồng từ một loài tổ tiên hoang dại (Ví dụ giống bắp cải, su hào từ cải hoang dã). 4) Chọn lọc tự nhiên (CLTN): Môi trường sống là động lực chọn lọc. Do sinh vật sinh sản nhiều vượt quá nguồn sống dẫn đến đấu tranh sinh tồn quyết liệt. Những cá thể mang biến dị thích nghi có khả năng sống sót và sinh sản tốt hơn sẽ truyền lại đặc điểm này cho đời sau. Qua nhiều thế hệ, các đặc điểm thích nghi được tích lũy tạo loài mới từ tổ tiên chung. Từ khóa: Charles Darwin, biến dị cá thể, chọn lọc nhân tạo, chọn lọc tự nhiên, đấu tranh sinh tồn, đặc điểm thích nghi, Galapagos, hình thành loài mới."
+  },
+  {
+    "lessonId": "sinh12_b21",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương V: Bằng chứng và các học thuyết tiến hoá",
+    "lessonOrder": 21,
+    "lessonContent": "Ý chính: Sự kết hợp học thuyết Darwin và di truyền học tạo nên thuyết tiến hóa hiện đại; khái niệm tiến hóa nhỏ; các nhân tố tiến hóa và cơ chế hình thành loài mới. Kiến thức trọng tâm: 1) Tiến hóa nhỏ: Quá trình biến đổi tần số allele và kiểu gene của quần thể dẫn đến cách li sinh sản với quần thể gốc và hình thành loài mới. Quần thể là đơn vị tiến hóa nhỏ nhất. 2) Các nhân tố tiến hóa: Đột biến (tạo allele mới, nguyên liệu sơ cấp, làm đổi tần số chậm); Phiêu bạt di truyền (biến động ngẫu nhiên do thiên tai làm giảm đột ngột kích thước quần thể, giảm đa dạng di truyền, mạnh nhất ở quần thể nhỏ); Dòng gene (di - nhập gene làm tăng/giảm đa dạng di truyền); Chọn lọc tự nhiên (nhân tố định hướng duy nhất, giữ kiểu hình thích nghi và loại bỏ kém thích nghi; chống lại allele trội xảy ra nhanh hơn allele lặn); Giao phối không ngẫu nhiên (tự phối, cận huyết; không đổi tần số allele nhưng tăng đồng hợp, giảm dị hợp). 3) Cơ chế hình thành loài: Bằng con đường địa lý (cách biệt địa lý ngăn cản dòng gene, tích lũy đột biến và CLTN phân hóa vốn gene, tạo cách li sinh sản; xảy ra chậm); Bằng con đường sinh thái, sinh học, lai xa kèm đa bội hóa (song lưỡng bội tạo cách li sinh sản tức thì ở thực vật). Từ khóa: Tiến hóa tổng hợp hiện đại, tiến hóa nhỏ, nhân tố tiến hóa, đột biến, phiêu bạt di truyền, dòng gene, chọn lọc tự nhiên, giao phối không ngẫu nhiên, cách li sinh sản, song lưỡng bội."
+  },
+  {
+    "lessonId": "sinh12_b22",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương V: Bằng chứng và các học thuyết tiến hoá",
+    "lessonOrder": 22,
+    "lessonContent": "Ý chính: Định nghĩa tiến hóa lớn; quá trình phát sinh sự sống trên Trái Đất qua ba giai đoạn; sơ đồ cây sự sống, các đại địa chất và quá trình phát sinh loài người. Kiến thức trọng tâm: 1) Tiến hóa lớn: Quá trình hình thành các đơn vị phân loại trên loài (chi, họ, bộ, lớp) xảy ra quy mô lớn qua thời gian địa chất dài. 2) Phát sinh sự sống: Tiến hóa hóa học (tổng hợp chất hữu cơ đơn giản từ chất vô cơ nhờ sấm sét, UV; Miller-Urey chứng minh tạo amino acid); Tiến hóa tiền sinh học (tổ hợp các đại phân tử tạo tế bào sơ khai protobiont có màng bán thấm lipid); Tiến hóa sinh học (hình thành tế bào nhân sơ cổ nhất 3.5 tỷ năm, tiến hóa tế bào nhân thực qua nội cộng sinh và sinh vật đa bào). 3) Đại địa chất: Chia thành 5 đại: Thái cổ, Nguyên cổ, Cổ sinh, Trung sinh, Tân sinh; biến đổi địa chất gây tuyệt chủng và bùng phát loài mới. 4) Cây sự sống: Sơ đồ phân nhánh thể hiện mối quan hệ phát sinh chủng loại từ tổ tiên chung, gồm 3 lãnh giới: Vi khuẩn, Cổ khuẩn, Sinh vật nhân thực. 5) Phát sinh loài người: Ardipithecus (4.4 triệu năm, leo trèo, đi thẳng thô sơ) -> Australopithecus (như Lucy, đi thẳng đứng hoàn toàn) -> Chi Homo (H. habilis, H. erectus, H. neanderthalensis và H. sapiens xuất hiện 300.000-200.000 năm trước tại châu Phi). Từ khóa: Tiến hóa lớn, tiến hóa hóa học, Stanley Miller, protobiont, đại địa chất, cây sự sống, Homo sapiens, Lucy."
+  },
+  {
+    "lessonId": "sinh12_b23",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VI: Môi trường và sinh thái học quần thể",
+    "lessonOrder": 23,
+    "lessonContent": "Ý chính: Khái niệm môi trường sống và phân loại; các nhân tố sinh thái vô sinh, hữu sinh; quy luật giới hạn sinh thái, tác động tổng hợp và không đồng đều; khái niệm nhịp sinh học. Kiến thức trọng tâm: 1) Môi trường sống: Toàn bộ nhân tố xung quanh sinh vật, ảnh hưởng trực tiếp/gián tiếp đến chúng (môi trường đất, trên cạn, nước, sinh vật). 2) Nhân tố sinh thái: Nhân tố vô sinh (ánh sáng ảnh hưởng quang hợp, định hướng động vật; nhiệt độ phân chia sinh vật đẳng nhiệt và biến nhiệt); Nhân tố hữu sinh (các sinh vật và mối quan hệ dinh dưỡng, cạnh tranh giữa chúng, con người có tác động to lớn). 3) Quy luật giới hạn sinh thái: Khoảng giá trị xác định của nhân tố sinh thái mà sinh vật có thể tồn tại (gồm giới hạn dưới, giới hạn trên, khoảng thuận lợi và khoảng chống chịu). 4) Quy luật tác động tổng hợp: Các nhân tố sinh thái tác động đồng thời, nhân tố này ảnh hưởng đến tác động nhân tố kia. 5) Quy luật tác động không đồng đều: Nhu cầu đối với nhân tố sinh thái khác nhau ở mỗi giai đoạn phát triển. 6) Nhịp sinh học: Phản ứng nhịp nhàng mang tính chu kỳ (ngày đêm, mùa) giúp sinh vật thích nghi biến đổi chu kỳ của môi trường. Từ khóa: Nhân tố vô sinh, nhân tố hữu sinh, đẳng nhiệt, biến nhiệt, giới hạn sinh thái, khoảng thuận lợi, tác động tổng hợp, nhịp sinh học."
+  },
+  {
+    "lessonId": "sinh12_b24",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VI: Môi trường và sinh thái học quần thể",
+    "lessonOrder": 24,
+    "lessonContent": "Ý chính: Khái niệm quần thể sinh vật và mối quan hệ giữa các cá thể; các đặc trưng cơ bản; các kiểu tăng trưởng; các kiểu biến động số lượng cá thể và ứng dụng thực tiễn. Kiến thức trọng tâm: 1) Khái niệm: Quần thể là hệ thống mở trao đổi chất và năng lượng với môi trường, các cá thể gắn kết chặt chẽ. 2) Mối quan hệ: Hỗ trợ (tụ họp thành nhóm giúp tự vệ, kiếm ăn hiệu quả; hiệu quả nhóm); Cạnh tranh (khi mật độ cao, thiếu nguồn sống; gây hiện tượng tỉa thưa tự nhiên ở thực vật, phân hóa thứ bậc ở động vật; duy trì mật độ ở mức phù hợp sức chứa). 3) Các đặc trưng cơ bản: Mật độ (đặc trưng quan trọng nhất); Kích thước (tối thiểu và tối đa); Kiểu phân bố (theo nhóm phổ biến nhất, đều, ngẫu nhiên); Tỉ lệ giới tính; Nhóm tuổi (tháp phát triển, ổn định, suy giảm). 4) Tăng trưởng: Theo tiềm năng sinh học (hình chữ J, môi trường lý tưởng); Tăng trưởng thực tế (hình chữ S, nguồn sống giới hạn, bị khống chế bởi sức chứa tối đa). 5) Biến động số lượng: Theo chu kỳ (biến đổi chu kỳ môi trường, ví dụ thỏ rừng Canada) và không theo chu kỳ (thiên tai, dịch bệnh, con người khai thác quá mức). Từ khóa: Sinh thái học quần thể, quan hệ hỗ trợ, quan hệ cạnh tranh, mật độ cá thể, kích thước quần thể, tháp tuổi, tăng trưởng chữ S, biến động chu kỳ, tỉa thưa tự nhiên."
+  },
+  {
+    "lessonId": "sinh12_b25",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VI: Môi trường và sinh thái học quần thể",
+    "lessonOrder": 25,
+    "lessonContent": "Ý chính: Phương pháp ô tiêu chuẩn (quadrat) để xác định kiểu phân bố, ước tính kích thước và mật độ của quần thể đối với các loài thực vật hoặc động vật di chuyển chậm. Kiến thức trọng tâm: 1) Nguyên lý: Sử dụng toán xác suất thống kê và phương pháp lấy mẫu bằng cách đặt ngẫu nhiên các ô vuông (ô tiêu chuẩn) có kích thước xác định trong khu vực phân bố của quần thể. Đếm số lượng cá thể trong các ô mẫu, từ đó tính giá trị trung bình để suy ra kích thước và mật độ của toàn bộ quần thể. 2) Công thức tính: N = (A/a) * n (với N là số lượng cá thể ước tính của quần thể, A là tổng diện tích khu vực khảo sát, a là diện tích một ô tiêu chuẩn, n là số lượng cá thể trung bình ở tất cả các ô vuông mẫu khảo sát). 3) Quy trình: Xác định khu vực phân bố, chia bản đồ thành các ô mẫu -> đặt ngẫu nhiên ô tiêu chuẩn -> đếm cá thể trong ô -> tính toán theo công thức -> viết báo cáo thực hành. Từ khóa: Thực hành sinh thái, phương pháp ô tiêu chuẩn (quadrat), ước tính kích thước, mật độ quần thể, lấy mẫu ngẫu nhiên."
+  },
+  {
+    "lessonId": "sinh12_b26",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 26,
+    "lessonContent": "Ý chính: Khái niệm quần xã sinh vật và mối quan hệ giữa các quần thể; các đặc trưng cơ bản của quần xã; các mối quan hệ liên loài; khái niệm ổ sinh thái; tác động của loài ngoại lai và biện pháp bảo vệ. Kiến thức trọng tâm: 1) Khái niệm: Tập hợp các quần thể sinh vật thuộc nhiều loài, cùng không gian và thời gian, gắn bó thành một thể thống nhất qua dinh dưỡng và nơi ở, có khả năng tự điều chỉnh cân bằng sinh thái. 2) Các đặc trưng: Thành phần loài thể hiện qua độ đa dạng (loài ưu thế có sinh khối lớn; loài đặc trưng có số lượng nhiều hoặc chỉ có ở 1 nơi; loài chủ chốt khống chế loài khác như sư tử); Cấu trúc không gian (phân tầng thẳng đứng hoặc phân bố chiều ngang giảm cạnh tranh, khai thác tối ưu nguồn sống); Cấu trúc dinh dưỡng. 3) Quan hệ liên loài: Hỗ trợ (cộng sinh như địa y; hợp tác như chim sáo trâu rừng; hội sinh như lan bám gỗ); Đối kháng (cạnh tranh gây phân li ổ sinh thái; kí sinh - vật chủ; sinh vật ăn sinh vật; ức chế - cảm nhiễm như tảo giáp gây thủy triều đỏ). 4) Ổ sinh thái: Không gian sinh thái đảm bảo loài tồn tại lâu dài (phân biệt với nơi ở); cạnh tranh dẫn đến phân li ổ sinh thái. 5) Loài ngoại lai: Du nhập từ nơi khác, dễ phát triển mạnh tàn phá loài bản địa (ốc bươu vàng, trinh nữ móc). Từ khóa: Quần xã sinh vật, loài ưu thế, loài chủ chốt, sự phân tầng, cộng sinh, hội sinh, ức chế - cảm nhiễm, ổ sinh thái, phân li ổ sinh thái, loài ngoại lai."
+  },
+  {
+    "lessonId": "sinh12_b27",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 27,
+    "lessonContent": "Ý chính: Hướng dẫn thực hành điều tra thực địa để xác định thành phần loài, cấu trúc dinh dưỡng và các đặc trưng cơ bản của quần xã sinh vật trong tự nhiên. Kiến thức trọng tâm: 1) Nguyên lý: Lập danh mục kiểm kê các nhóm loài sinh vật trong một hệ sinh thái cụ thể (rừng tự nhiên, ao hồ, bãi cỏ) dựa trên quan sát trực tiếp, chụp ảnh hoặc thu mẫu vật. Xác định vai trò của các nhóm loài trong cấu trúc dinh dưỡng (sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải) và thiết lập sơ đồ mối quan hệ dinh dưỡng (chuỗi thức ăn, lưới thức ăn) của quần xã. 2) Quy trình: Xác định quần xã -> dùng thước chăng ô mẫu -> thống kê số lượng cây gỗ, cây bụi, côn trùng -> lập bảng ghi nhận chiều cao, thức ăn -> phân loại nhóm dinh dưỡng -> vẽ sơ đồ mối quan hệ. Từ khóa: Thực hành sinh thái, điều tra quần xã, thành phần loài, cấu trúc dinh dưỡng, sơ đồ quan hệ dinh dưỡng."
+  },
+  {
+    "lessonId": "sinh12_b28",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 28,
+    "lessonContent": "Ý chính: Khái niệm hệ sinh thái là cấp độ tổ chức sống cao nhất; các thành phần cấu trúc; các kiểu hệ sinh thái tự nhiên và nhân tạo trên Trái Đất. Kiến thức trọng tâm: 1) Khái niệm: Hệ sinh thái gồm quần xã sinh vật và sinh cảnh, tương tác chặt chẽ tạo thành một hệ thống mở tự điều chỉnh qua vòng tuần hoàn vật chất và dòng năng lượng. 2) Thành phần cấu trúc: Sinh cảnh (môi trường vô sinh như khí hậu, chất vô cơ, hữu cơ); Quần xã sinh vật (sinh vật sản xuất là thực vật, tảo; sinh vật tiêu thụ là động vật; sinh vật phân giải là vi khuẩn, nấm). 3) Phân loại hệ sinh thái: Tự nhiên (trên cạn như rừng mưa, sa mạc; dưới nước như rừng ngập mặn, vùng khơi; có độ ổn định và đa dạng loài cao, tuần hoàn khép kín); Nhân tạo (ruộng lúa, vườn cam, ao cá; đa dạng loài và độ ổn định thấp, dễ bị dịch bệnh, dòng vật chất thất thoát nhiều qua thu hoạch, cần con người bổ sung vật chất và năng lượng). Từ khóa: Hệ sinh thái, sinh cảnh, quần xã, sinh vật sản xuất, sinh vật phân giải, hệ sinh thái tự nhiên, hệ sinh thái nhân tạo, vòng tuần hoàn vật chất, tự điều chỉnh."
+  },
+  {
+    "lessonId": "sinh12_b29",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 29,
+    "lessonContent": "Ý chính: Quá trình trao đổi vật chất qua chuỗi thức ăn và lưới thức ăn; các bậc dinh dưỡng; dòng năng lượng một chiều trong hệ sinh thái; khái niệm hiệu suất sinh thái và các loại tháp sinh thái. Kiến thức trọng tâm: 1) Trao đổi vật chất: Chuỗi thức ăn gồm nhiều loài liên kết dinh dưỡng (chuỗi tự dưỡng: cỏ->thỏ->rắn; chuỗi ăn mùn: mùn bã->giun đất->gà). Lưới thức ăn là tập hợp các chuỗi có mắt xích chung. Bậc dinh dưỡng là vị trí của một loài trong chuỗi/lưới (bậc 1 là sinh vật sản xuất, bậc 2 là sinh vật tiêu thụ bậc 1). 2) Dòng năng lượng: Đi một chiều duy nhất từ mặt trời qua sinh vật sản xuất đến các sinh vật tiêu thụ rồi thoát ra môi trường dưới dạng nhiệt (không tuần hoàn). Thất thoát năng lượng rất lớn (~90%) ở mỗi bậc do hô hấp, chất thải, rơi rụng; chỉ ~10% truyền lên bậc tiếp theo. 3) Hiệu suất sinh thái: Tỉ lệ phần trăm năng lượng chuyển hóa giữa hai bậc kế tiếp (thường 5-20%). 4) Tháp sinh thái: Tháp số lượng, tháp sinh khối (có thể bị ngược dưới nước), tháp năng lượng (luôn luôn có dạng chuẩn đáy rộng đỉnh hẹp). Từ khóa: Chuỗi thức ăn, lưới thức ăn, bậc dinh dưỡng, dòng năng lượng một chiều, hiệu suất sinh thái, tháp năng lượng, thất thoát năng lượng."
+  },
+  {
+    "lessonId": "sinh12_b30",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 30,
+    "lessonContent": "Ý chính: Định nghĩa diễn thế sinh thái; phân loại diễn thế nguyên sinh, thứ sinh; nguyên nhân, tầm quan trọng của việc nghiên cứu diễn thế; các hiện tượng ảnh hưởng xấu đến hệ sinh thái. Kiến thức trọng tâm: 1) Định nghĩa: Quá trình biến đổi tuần tự và có quy luật của quần xã theo thời gian, tương ứng biến đổi môi trường. Gồm giai đoạn tiên phong, các giai đoạn trung gian và giai đoạn đỉnh cực. 2) Phân loại: Diễn thế nguyên sinh khởi đầu từ môi trường trống trơn chưa có sự sống (đá trần, tro núi lửa; sinh vật tiên phong là rêu, địa y; tiến hóa tạo quần xã đỉnh cực rừng mưa); Diễn thế thứ sinh khởi đầu từ môi trường từng có quần xã sinh sống nhưng bị hủy diệt (do thiên tai, cháy rừng, con người tàn phá; quần xã tiên phong là cỏ dại; có thể phục hồi hoặc dẫn đến quần xã suy thoái). 3) Nguyên nhân: Do nhân tố bên ngoài (khí hậu, thiên tai, con người) và nhân tố bên trong (loài ưu thế biến đổi môi trường dẫn đến tự đào thải và tạo điều kiện cho loài mới). 4) Ảnh hưởng xấu đến hệ sinh thái: Hiện tượng phú dưỡng (thừa đạm, lân làm tảo bùng phát gây độc, thiếu oxy làm sinh vật thủy sinh chết); sự ấm lên toàn cầu (tăng khí nhà kính CO2, CH4); sa mạc hóa. Từ khóa: Diễn thế sinh thái, diễn thế nguyên sinh, diễn thế thứ sinh, sinh vật tiên phong, quần xã đỉnh cực, phú dưỡng, ấm lên toàn cầu, sa mạc hóa, hiệu ứng nhà kính."
+  },
+  {
+    "lessonId": "sinh12_b31",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 31,
+    "lessonContent": "Ý chính: Khái niệm sinh quyển; đặc điểm các khu sinh học (biome) trên cạn và dưới nước; các chu trình sinh - địa - hóa và vai trò của chúng; các biện pháp bảo vệ sinh quyển. Kiến thức trọng tâm: 1) Sinh quyển: Cấp độ tổ chức sống lớn nhất Trái Đất (dày ~20 km), có khả năng tự điều chỉnh cân bằng động. 2) Khu sinh học: Biome trên cạn (rừng mưa nhiệt đới giàu loài nhất, rừng lá kim, hoang mạc, savanna, đồng rêu); Biome dưới nước (nước ngọt sông hồ; nước mặn rừng ngập mặn, rạn san hô, khơi đại dương). 3) Chu trình sinh - địa - hóa: Sự tuần hoàn của các nguyên tố giữa môi trường vô sinh và sinh vật. Chu trình carbon (CO2 được thực vật cố định, truyền qua chuỗi thức ăn, giải phóng lại qua hô hấp, phân giải và đốt nhiên liệu hóa thạch); Chu trình nitrogen (N2 khí quyển được sinh vật cố định đạm Rhizobium, Azotobacter, sấm sét biến đổi thành NH4+ và NO3- thực vật hấp thụ; phản nitrat hóa chuyển NO3- lại thành N2; lạm dụng phân đạm gây xói mòn và phú dưỡng); Chu trình nước (bay hơi, mây, mưa, nước ngầm; phá rừng làm xói mòn và lũ lụt). 4) Biện pháp bảo vệ: Sử dụng năng lượng tái tạo (gió, mặt trời); trồng rừng, xây dựng khu dự trữ sinh quyển. Từ khóa: Sinh quyển, khu sinh học (biome), chu trình sinh - địa - hóa, chu trình carbon, chu trình nitrogen, chu trình nước, cố định đạm, phản nitrat hóa, năng lượng tái tạo."
+  },
+  {
+    "lessonId": "sinh12_b32",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VII: Sinh thái học quần xã",
+    "lessonOrder": 32,
+    "lessonContent": "Ý chính: Thiết kế và vận hành một mô hình hệ sinh thái nhân tạo thu nhỏ (bể nuôi cá cảnh) dựa trên các nguyên lý sinh thái học. Kiến thức trọng tâm: 1) Nguyên lý: Một hệ sinh thái tự duy trì cần có đầy đủ các thành phần chức năng: sinh cảnh (nước sạch, cát sỏi đáy bể, ánh sáng mặt trời hoặc đèn chiếu, máy lọc và sục khí cung cấp oxy) và quần xã (sinh vật sản xuất là rong đuôi chó, bèo hoa dâu; sinh vật tiêu thụ là cá bảy màu, cá vàng, cua, tôm; sinh vật phân giải là vi sinh vật tự nhiên trong cát sỏi). Các sinh vật tương tác tạo thành chu trình tuần hoàn vật chất và dòng năng lượng tự điều chỉnh trong không gian nhỏ. 2) Quy trình: Thiết kế cấu tạo bể cá trên máy tính -> rửa sạch cát sỏi làm nền đáy -> cho nước sạch vào -> lắp đặt máy lọc, sục khí và đèn chiếu -> trang trí -> bổ sung thực vật thủy sinh -> thả động vật thủy sinh -> theo dõi ghi chép hàng ngày. Từ khóa: Thực hành sinh thái, thiết kế hệ sinh thái, bể cá cảnh, sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải, tự duy trì."
+  },
+  {
+    "lessonId": "sinh12_b33",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VIII: Sinh thái học phục hồi, bảo tồn và phát triển bền vững",
+    "lessonOrder": 33,
+    "lessonContent": "Ý chính: Khái niệm sinh thái học phục hồi và bảo tồn; giá trị của các dịch vụ hệ sinh thái; các nguyên nhân gây suy thoái; các biện pháp phục hồi sinh học và hình thức bảo tồn đa dạng sinh học. Kiến thức trọng tâm: 1) Phục hồi sinh thái: Khoa học ứng dụng nguyên lý sinh thái khôi phục sức khỏe, tính toàn vẹn của hệ sinh thái bị suy thoái (trồng lại rừng ngập mặn, phục hồi rạn san hô). 2) Bảo tồn sinh thái: Bảo tồn các loài, cảnh quan nhanh chóng, tiết kiệm, hạn chế tác động xấu từ con người. 3) Dịch vụ hệ sinh thái: Cung cấp vật chất trực tiếp (lương thực, dược liệu, gỗ, gene) và dịch vụ gián tiếp vô giá (điều hòa khí hậu, thụ phấn, giữ đất chống xói mòn, du lịch). 4) Nguyên nhân suy thoái: Phá rừng làm mất sinh cảnh, săn bắn trộm, ô nhiễm chất thải, loài ngoại lai xâm hại. 5) Biện pháp phục hồi: Cải tạo sinh học (dùng sinh vật để làm sạch môi trường bị ô nhiễm, ví dụ vi khuẩn Shewanella, bèo hoa dâu lọc kim loại nặng); gia tăng sinh học (bổ sung loài thiết yếu như họ Đậu để tăng đạm). 6) Hình thức bảo tồn: Tại chỗ (in-situ, thành lập vườn quốc gia, hành lang sinh cảnh, ví dụ bảo tồn Voọc chà vá ở Sơn Trà; tối ưu nhất); Chuyển chỗ (ex-situ, bảo tồn ngoài tự nhiên khi bị đe dọa cực lớn như vườn thú, ngân hàng gene, trung tâm cứu hộ Gấu Tam Đảo). Từ khóa: Sinh thái học phục hồi, sinh thái học bảo tồn, dịch vụ hệ sinh thái, cải tạo sinh học, gia tăng sinh học, bảo tồn tại chỗ (in-situ), bảo tồn chuyển chỗ (ex-situ), vườn quốc gia, ngân hàng gene, Voọc chà vá chân nâu."
+  },
+  {
+    "lessonId": "sinh12_b34",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VIII: Sinh thái học phục hồi, bảo tồn và phát triển bền vững",
+    "lessonOrder": 34,
+    "lessonContent": "Ý chính: Khái niệm phát triển bền vững và 17 mục tiêu toàn cầu; mối quan hệ giữa ba trụ cột kinh tế - xã hội - môi trường; nông nghiệp bền vững; hạn chế ô nhiễm và sử dụng tài nguyên hợp lý; chính sách dân số và giáo dục môi trường. Kiến thức trọng tâm: 1) Phát triển bền vững: Đáp ứng nhu cầu thế hệ hiện tại mà không làm hại đến khả năng đáp ứng của thế hệ tương lai. 2) Ba trụ cột: Kinh tế bền vững (tăng trưởng xanh), Xã hội bền vững (công bằng, y tế, giáo dục), Môi trường bền vững (bảo tồn đa dạng sinh học, giảm rác thải). 3) Nông nghiệp bền vững: Bảo vệ đất, nước; đảm bảo thu nhập nông dân; không hại sức khỏe cộng đồng (dùng phân hữu cơ, luân canh, kiểm soát sinh học thay thế hóa chất). 4) Hạn chế ô nhiễm: Áp dụng quy chuẩn xả thải nghiêm ngặt; xử lý ô nhiễm sinh học; trồng rừng đầu nguồn và rừng ngập mặn. 5) Tài nguyên hợp lý: Tài nguyên tái tạo (sinh vật, đất, nước cần khai thác trong giới hạn tự tái tạo); tài nguyên không tái tạo (khoáng sản, dầu mỏ cần tiết kiệm, tìm chất thay thế); tài nguyên khí hậu vô tận (gió, mặt trời cần đẩy mạnh công nghệ khai thác). 6) Chính sách dân số: Giảm sức ép lên tài nguyên và ô nhiễm môi trường. 7) Giáo dục môi trường: Nâng cao nhận thức, thái độ và kỹ năng bảo vệ môi trường cho học sinh. Từ khóa: Phát triển bền vững, 17 mục tiêu toàn cầu, nông nghiệp bền vững, tài nguyên tái tạo, tài nguyên không tái tạo, ô nhiễm môi trường, chính sách dân số, giáo dục môi trường."
+  },
+  {
+    "lessonId": "sinh12_b35",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương VIII: Sinh thái học phục hồi, bảo tồn và phát triển bền vững",
+    "lessonOrder": 35,
+    "lessonContent": "Ý chính: Hướng dẫn lập kế hoạch, thực hiện và báo cáo một dự án điều tra thực tế về thực trạng công tác bảo tồn, phục hồi sinh thái tại địa phương của học sinh. Kiến thức trọng tâm: 1) Mục tiêu: Rèn luyện kỹ năng làm việc nhóm, lập kế hoạch, quan sát, phỏng vấn thực địa; rèn kỹ năng viết báo cáo và thuyết trình dự án; củng cố kiến thức đã học về đa dạng sinh học và bảo tồn sinh thái. 2) Quy trình: Bước 1 lập kế hoạch (thành lập nhóm, phân công nhiệm vụ thu thập tài liệu, đi phỏng vấn, quay phim chụp ảnh, chọn chủ đề loài nguy cấp hoặc sinh cảnh suy thoái); Bước 2 thực hiện dự án (đi thực địa phỏng vấn kiểm lâm/người dân, ghi chép số liệu, xử lý dữ liệu vẽ đồ thị); Bước 3 báo cáo đánh giá (viết báo cáo hoàn chỉnh gồm thực trạng và giải pháp đề xuất, thuyết trình slides/video trước lớp, thu nhận phản hồi từ giáo viên và bạn học). Từ khóa: Dự án sinh học, tìm hiểu thực địa, lập kế hoạch dự án, báo cáo thực trạng bảo tồn, đề xuất giải pháp bảo tồn, kỹ năng thuyết trình."
+  },
+  {
+    "lessonId": "sinh12_examskills",
+    "grade": 12,
+    "subject": "Sinh học",
+    "chapterName": "Chương IX: Kỹ năng làm bài thi THPT Quốc gia",
+    "lessonOrder": 36,
+    "lessonContent": "Ý chính: Tổng hợp chiến lược, mẹo làm bài và kỹ năng phòng thi thực chiến dựa trên kinh nghiệm phân tích cấu trúc đề thi THPT Quốc gia môn Sinh học các năm gần đây (chương trình 2025), nhằm tối ưu hóa điểm số trong 50 phút thi. Kiến thức trọng tâm: 1) Phân tích cấu trúc đề thi 3 phần (Phần I trắc nghiệm 4 đáp án 18 câu, Phần II đúng/sai 4 câu x 4 ý tính điểm theo số ý đúng, Phần III trả lời ngắn 6 câu) và chiến thuật phân bổ thời gian hợp lý cho từng phần. 2) Chiến thuật thứ tự làm bài: ưu tiên câu dễ/quen thuộc trước, đánh dấu câu khó để quay lại, không sa đà vào 1 câu quá lâu. 3) Kỹ thuật loại trừ đáp án, nhận diện từ khóa bẫy (phủ định, từ tuyệt đối như 'tất cả', 'luôn luôn', 'chỉ có'). 4) Kỹ thuật xử lý riêng biệt từng dạng câu hỏi: đúng/sai nhiều mệnh đề, trắc nghiệm trả lời ngắn (điền số không có đáp án gợi ý), câu có hình ảnh/đồ thị/phả hệ, câu liên hệ thực tiễn. 5) Kỹ năng trình bày nháp cho bài toán tính toán (Hardy-Weinberg, xác suất phép lai, hoán vị gene) để hạn chế sai sót và dễ kiểm tra lại. 6) Kỹ thuật tô đáp án tránh lệch dòng, nguyên tắc rà soát bài trước khi nộp theo thứ tự ưu tiên, tâm lý phòng thi khi gặp câu lạ. Từ khóa: chiến lược phòng thi, mẹo làm bài, phân tích cấu trúc đề thi, hack điểm, quản lý thời gian thi, kỹ thuật loại trừ, bẫy đề thi, tâm lý thi cử."
+  }
+]

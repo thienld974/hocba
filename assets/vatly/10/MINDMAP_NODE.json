@@ -1,0 +1,296 @@
+[
+  {
+    "nodeId": "root_vl10",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "VẬT LÍ 10 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "vatly10_node_ch_01",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương I: Mở đầu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b1",
+    "lessonId": "vatly10_b1",
+    "parentNodeId": "vatly10_node_ch_01",
+    "nodeName": "Bài 1: Làm quen với Vật lí",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b2",
+    "lessonId": "vatly10_b2",
+    "parentNodeId": "vatly10_node_ch_01",
+    "nodeName": "Bài 2: Các quy tắc an toàn trong phòng thực hành Vật lí",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_b3",
+    "lessonId": "vatly10_b3",
+    "parentNodeId": "vatly10_node_ch_01",
+    "nodeName": "Bài 3: Thực hành tính sai số trong phép đo. Ghi kết quả đo",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "vatly10_node_ch_02",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương II: Động học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_b4",
+    "lessonId": "vatly10_b4",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 4: Độ dịch chuyển và quãng đường đi được",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b5",
+    "lessonId": "vatly10_b5",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 5: Tốc độ và vận tốc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_b6",
+    "lessonId": "vatly10_b6",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 6: Thực hành: Đo tốc độ của vật chuyển động",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "vatly10_node_b7",
+    "lessonId": "vatly10_b7",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 7: Đồ thị độ dịch chuyển – thời gian",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "vatly10_node_b8",
+    "lessonId": "vatly10_b8",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 8: Chuyển động biến đổi. Gia tốc",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "vatly10_node_b9",
+    "lessonId": "vatly10_b9",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 9: Chuyển động thẳng biến đổi đều",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "vatly10_node_b10",
+    "lessonId": "vatly10_b10",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 10: Sự rơi tự do",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "vatly10_node_b11",
+    "lessonId": "vatly10_b11",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 11: Thực hành: Đo gia tốc rơi tự do",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "vatly10_node_b12",
+    "lessonId": "vatly10_b12",
+    "parentNodeId": "vatly10_node_ch_02",
+    "nodeName": "Bài 12: Chuyển động ném",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "vatly10_node_ch_03",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương III: Động lực học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "vatly10_node_b13",
+    "lessonId": "vatly10_b13",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 13: Tổng hợp và phân tích lực. Cân bằng lực",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b14",
+    "lessonId": "vatly10_b14",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 14: Định luật 1 Newton",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_b15",
+    "lessonId": "vatly10_b15",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 15: Định luật 2 Newton",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "vatly10_node_b16",
+    "lessonId": "vatly10_b16",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 16: Định luật 3 Newton",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "vatly10_node_b17",
+    "lessonId": "vatly10_b17",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 17: Trọng lực và lực căng",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "vatly10_node_b18",
+    "lessonId": "vatly10_b18",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 18: Lực ma sát",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "vatly10_node_b19",
+    "lessonId": "vatly10_b19",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 19: Lực cản và lực nâng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "vatly10_node_b20",
+    "lessonId": "vatly10_b20",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 20: Một số ví dụ về cách giải các bài toán thuộc phần động lực học",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "vatly10_node_b21",
+    "lessonId": "vatly10_b21",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 21: Moment lực. Cân bằng của vật rắn",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "vatly10_node_b22",
+    "lessonId": "vatly10_b22",
+    "parentNodeId": "vatly10_node_ch_03",
+    "nodeName": "Bài 22: Thực hành: Tổng hợp lực",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "vatly10_node_ch_04",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương IV: Năng lượng, Công, Công suất",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "vatly10_node_b23",
+    "lessonId": "vatly10_b23",
+    "parentNodeId": "vatly10_node_ch_04",
+    "nodeName": "Bài 23: Năng lượng. Công cơ học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b24",
+    "lessonId": "vatly10_b24",
+    "parentNodeId": "vatly10_node_ch_04",
+    "nodeName": "Bài 24: Công suất",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_b25",
+    "lessonId": "vatly10_b25",
+    "parentNodeId": "vatly10_node_ch_04",
+    "nodeName": "Bài 25: Động năng, thế năng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "vatly10_node_b26",
+    "lessonId": "vatly10_b26",
+    "parentNodeId": "vatly10_node_ch_04",
+    "nodeName": "Bài 26: Cơ năng và định luật bảo toàn cơ năng",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "vatly10_node_b27",
+    "lessonId": "vatly10_b27",
+    "parentNodeId": "vatly10_node_ch_04",
+    "nodeName": "Bài 27: Hiệu suất",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "vatly10_node_ch_05",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương V: Động lượng",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "vatly10_node_b28",
+    "lessonId": "vatly10_b28",
+    "parentNodeId": "vatly10_node_ch_05",
+    "nodeName": "Bài 28: Động lượng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b29",
+    "lessonId": "vatly10_b29",
+    "parentNodeId": "vatly10_node_ch_05",
+    "nodeName": "Bài 29: Định luật bảo toàn động lượng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_b30",
+    "lessonId": "vatly10_b30",
+    "parentNodeId": "vatly10_node_ch_05",
+    "nodeName": "Bài 30: Thực hành: Xác định động lượng của vật trước và sau va chạm",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "vatly10_node_ch_06",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương VI: Chuyển động tròn đều",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "vatly10_node_b31",
+    "lessonId": "vatly10_b31",
+    "parentNodeId": "vatly10_node_ch_06",
+    "nodeName": "Bài 31: Động học của chuyển động tròn đều",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b32",
+    "lessonId": "vatly10_b32",
+    "parentNodeId": "vatly10_node_ch_06",
+    "nodeName": "Bài 32: Lực hướng tâm và gia tốc hướng tâm",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "vatly10_node_ch_07",
+    "lessonId": null,
+    "parentNodeId": "root_vl10",
+    "nodeName": "Chương VII: Biến dạng của vật rắn. Áp suất chất lỏng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "vatly10_node_b33",
+    "lessonId": "vatly10_b33",
+    "parentNodeId": "vatly10_node_ch_07",
+    "nodeName": "Bài 33: Biến dạng của vật rắn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "vatly10_node_b34",
+    "lessonId": "vatly10_b34",
+    "parentNodeId": "vatly10_node_ch_07",
+    "nodeName": "Bài 34: Khối lượng riêng. Áp suất chất lỏng",
+    "orderIndex": 2
+  }
+]

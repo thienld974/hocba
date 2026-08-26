@@ -1,0 +1,310 @@
+[
+  {
+    "nodeId": "root_dl11",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "ĐỊA LÍ 11 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "dialy11_node_p1",
+    "lessonId": null,
+    "parentNodeId": "root_dl11",
+    "nodeName": "Phần một: Một số vấn đề về kinh tế – xã hội thế giới",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b1",
+    "lessonId": "dialy11_b1",
+    "parentNodeId": "dialy11_node_p1",
+    "nodeName": "Bài 1: Sự khác biệt về trình độ phát triển kinh tế – xã hội của các nhóm nước",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b2",
+    "lessonId": "dialy11_b2",
+    "parentNodeId": "dialy11_node_p1",
+    "nodeName": "Bài 2: Toàn cầu hoá và khu vực hoá kinh tế",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b3",
+    "lessonId": "dialy11_b3",
+    "parentNodeId": "dialy11_node_p1",
+    "nodeName": "Bài 3: Thực hành: Tìm hiểu về cơ hội và thách thức của toàn cầu hoá và khu vực hoá kinh tế",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_b4",
+    "lessonId": "dialy11_b4",
+    "parentNodeId": "dialy11_node_p1",
+    "nodeName": "Bài 4: Một số tổ chức quốc tế và khu vực, an ninh toàn cầu",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy11_node_b5",
+    "lessonId": "dialy11_b5",
+    "parentNodeId": "dialy11_node_p1",
+    "nodeName": "Bài 5: Thực hành: Viết báo cáo về đặc điểm và biểu hiện của nền kinh tế tri thức",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "dialy11_node_p2",
+    "lessonId": null,
+    "parentNodeId": "root_dl11",
+    "nodeName": "Phần hai: Địa lí khu vực và quốc gia",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_kv_mylatinh",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Khu vực Mỹ La-tinh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b6",
+    "lessonId": "dialy11_b6",
+    "parentNodeId": "dialy11_node_kv_mylatinh",
+    "nodeName": "Bài 6: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội khu vực Mỹ La-tinh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b7",
+    "lessonId": "dialy11_b7",
+    "parentNodeId": "dialy11_node_kv_mylatinh",
+    "nodeName": "Bài 7: Kinh tế khu vực Mỹ La-tinh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b8",
+    "lessonId": "dialy11_b8",
+    "parentNodeId": "dialy11_node_kv_mylatinh",
+    "nodeName": "Bài 8: Thực hành: Viết báo cáo về tình hình phát triển kinh tế – xã hội ở Cộng hoà Liên bang Bra-xin",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_eu",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Liên minh châu Âu (EU)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b9",
+    "lessonId": "dialy11_b9",
+    "parentNodeId": "dialy11_node_eu",
+    "nodeName": "Bài 9: Liên minh châu Âu – Một liên kết kinh tế khu vực lớn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b10",
+    "lessonId": "dialy11_b10",
+    "parentNodeId": "dialy11_node_eu",
+    "nodeName": "Bài 10: Thực hành: Viết báo cáo về sự phát triển công nghiệp của Cộng hoà Liên bang Đức",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_kv_dongnama",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Khu vực Đông Nam Á",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_b11",
+    "lessonId": "dialy11_b11",
+    "parentNodeId": "dialy11_node_kv_dongnama",
+    "nodeName": "Bài 11: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội khu vực Đông Nam Á",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b12",
+    "lessonId": "dialy11_b12",
+    "parentNodeId": "dialy11_node_kv_dongnama",
+    "nodeName": "Bài 12: Kinh tế khu vực Đông Nam Á",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b13",
+    "lessonId": "dialy11_b13",
+    "parentNodeId": "dialy11_node_kv_dongnama",
+    "nodeName": "Bài 13: Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_b14",
+    "lessonId": "dialy11_b14",
+    "parentNodeId": "dialy11_node_kv_dongnama",
+    "nodeName": "Bài 14: Thực hành: Tìm hiểu hoạt động kinh tế đối ngoại của khu vực Đông Nam Á",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy11_node_kv_taynama",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Khu vực Tây Nam Á",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy11_node_b15",
+    "lessonId": "dialy11_b15",
+    "parentNodeId": "dialy11_node_kv_taynama",
+    "nodeName": "Bài 15: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội khu vực Tây Nam Á",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b16",
+    "lessonId": "dialy11_b16",
+    "parentNodeId": "dialy11_node_kv_taynama",
+    "nodeName": "Bài 16: Kinh tế khu vực Tây Nam Á",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b17",
+    "lessonId": "dialy11_b17",
+    "parentNodeId": "dialy11_node_kv_taynama",
+    "nodeName": "Bài 17: Thực hành: Viết báo cáo về vấn đề dầu mỏ của khu vực Tây Nam Á",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_qg_hoaky",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Hợp chúng quốc Hoa Kỳ (Hoa Kỳ)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "dialy11_node_b18",
+    "lessonId": "dialy11_b18",
+    "parentNodeId": "dialy11_node_qg_hoaky",
+    "nodeName": "Bài 18: Vị trí địa lí, điều kiện tự nhiên và dân cư Hoa Kỳ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b19",
+    "lessonId": "dialy11_b19",
+    "parentNodeId": "dialy11_node_qg_hoaky",
+    "nodeName": "Bài 19: Kinh tế Hoa Kỳ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_qg_nga",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Liên bang Nga",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "dialy11_node_b20",
+    "lessonId": "dialy11_b20",
+    "parentNodeId": "dialy11_node_qg_nga",
+    "nodeName": "Bài 20: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội Liên bang Nga",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b21",
+    "lessonId": "dialy11_b21",
+    "parentNodeId": "dialy11_node_qg_nga",
+    "nodeName": "Bài 21: Kinh tế Liên bang Nga",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b22",
+    "lessonId": "dialy11_b22",
+    "parentNodeId": "dialy11_node_qg_nga",
+    "nodeName": "Bài 22: Thực hành: Tìm hiểu về công nghiệp khai thác dầu khí của Liên bang Nga",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_qg_nhatban",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Nhật Bản",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "dialy11_node_b23",
+    "lessonId": "dialy11_b23",
+    "parentNodeId": "dialy11_node_qg_nhatban",
+    "nodeName": "Bài 23: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội Nhật Bản",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b24",
+    "lessonId": "dialy11_b24",
+    "parentNodeId": "dialy11_node_qg_nhatban",
+    "nodeName": "Bài 24: Kinh tế Nhật Bản",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b25",
+    "lessonId": "dialy11_b25",
+    "parentNodeId": "dialy11_node_qg_nhatban",
+    "nodeName": "Bài 25: Thực hành: Viết báo cáo về hoạt động kinh tế đối ngoại của Nhật Bản",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_qg_trungquoc",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Cộng hoà Nhân dân Trung Hoa (Trung Quốc)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "dialy11_node_b26",
+    "lessonId": "dialy11_b26",
+    "parentNodeId": "dialy11_node_qg_trungquoc",
+    "nodeName": "Bài 26: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội Trung Quốc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b27",
+    "lessonId": "dialy11_b27",
+    "parentNodeId": "dialy11_node_qg_trungquoc",
+    "nodeName": "Bài 27: Kinh tế Trung Quốc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy11_node_b28",
+    "lessonId": "dialy11_b28",
+    "parentNodeId": "dialy11_node_qg_trungquoc",
+    "nodeName": "Bài 28: Thực hành: Viết báo cáo về sự thay đổi của kinh tế vùng duyên hải Trung Quốc",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy11_node_qg_australia",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Ô-xtrây-li-a",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "dialy11_node_b29",
+    "lessonId": "dialy11_b29",
+    "parentNodeId": "dialy11_node_qg_australia",
+    "nodeName": "Bài 29: Thực hành: Tìm hiểu về kinh tế của Ô-xtrây-li-a",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_qg_namphi",
+    "lessonId": null,
+    "parentNodeId": "dialy11_node_p2",
+    "nodeName": "Cộng hoà Nam Phi",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "dialy11_node_b30",
+    "lessonId": "dialy11_b30",
+    "parentNodeId": "dialy11_node_qg_namphi",
+    "nodeName": "Bài 30: Vị trí địa lí, điều kiện tự nhiên, dân cư và xã hội Cộng hoà Nam Phi",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy11_node_b31",
+    "lessonId": "dialy11_b31",
+    "parentNodeId": "dialy11_node_qg_namphi",
+    "nodeName": "Bài 31: Kinh tế Cộng hoà Nam Phi",
+    "orderIndex": 2
+  }
+]

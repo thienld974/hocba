@@ -1,0 +1,202 @@
+[
+  {
+    "lessonId": "hoa11_b1",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 1: Cân bằng hóa học",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Khái niệm về cân bằng hoá học. Ý chính: Khái niệm phản ứng một chiều, phản ứng thuận nghịch; định nghĩa trạng thái cân bằng hóa học; hằng số cân bằng Kc và ý nghĩa của nó; các yếu tố ảnh hưởng đến chuyển dịch cân bằng và nguyên lí Le Chatelier. Kiến thức trọng tâm: Phản ứng thuận nghịch xảy ra theo hai chiều trái ngược nhau trong cùng điều kiện; trạng thái cân bằng hóa học là trạng thái của phản ứng thuận nghịch tại đó tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch (vt = vn), là một cân bằng động; biểu thức hằng số cân bằng Kc = ([C]^c * [D]^d) / ([A]^a * [B]^b) (chất rắn không biểu diễn trong biểu thức, Kc chỉ phụ thuộc nhiệt độ); nguyên lí chuyển dịch cân bằng Le Chatelier: khi một hệ phản ứng thuận nghịch đang ở trạng thái cân bằng chịu một tác động bên ngoài (nồng độ, nhiệt độ, áp suất) thì cân bằng sẽ chuyển dịch theo chiều làm giảm tác động đó (tăng nhiệt độ chuyển dịch theo chiều thu nhiệt, tăng áp suất chuyển dịch theo chiều giảm số mol khí, tăng nồng độ chất phản ứng chuyển dịch theo chiều tạo sản phẩm). Từ khóa: Phản ứng thuận nghịch, cân bằng động, hằng số cân bằng Kc, nguyên lí Le Chatelier, chuyển dịch cân bằng."
+  },
+  {
+    "lessonId": "hoa11_b2",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 1: Cân bằng hóa học",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Cân bằng trong dung dịch nước. Ý chính: Khái niệm sự điện li, chất điện li mạnh, chất điện li yếu và chất không điện li; thuyết acid - base của Bronsted - Lowry; khái niệm và ý nghĩa của pH trong thực tiễn; sự thủy phân của các ion trong dung dịch muối; phương pháp chuẩn độ acid - base. Kiến thức trọng tâm: Sự điện li là quá trình phân li các chất trong nước ra ion; chất điện li mạnh phân li hoàn toàn thành ion (acid mạnh, base mạnh, hầu hết muối), chất điện li yếu phân li một phần; thuyết Bronsted - Lowry: acid là chất cho proton (H+), base là chất nhận proton (H+); tích số ion của nước Kw = [H+][OH-] = 10^-14 (ở 25°C); biểu thức pH = -lg[H+], thang pH từ 1 đến 14 (pH < 7: acid, pH = 7: trung tính, pH > 7: base); phản ứng thủy phân của các ion từ base/acid yếu tạo môi trường tương ứng cho dung dịch muối (cation Al3+, Fe3+ tạo môi trường acid, anion CO3^2-, CH3COO- tạo môi trường base); nguyên tắc chuẩn độ acid - base dựa trên phản ứng trung hòa H+ + OH- -> H2O để xác định nồng độ bằng dung dịch chuẩn và chất chỉ thị (phenolphtalein, quỳ tím). Từ khóa: Sự điện li, chất điện li, thuyết Bronsted-Lowry, pH, tích số ion của nước, thủy phân ion, chuẩn độ acid-base."
+  },
+  {
+    "lessonId": "hoa11_b3",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 1: Cân bằng hóa học",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3: Ôn tập chương 1. Ý chính: Tổng hợp và củng cố toàn bộ kiến thức lý thuyết và bài tập về cân bằng hóa học và cân bằng trong dung dịch nước. Kiến thức trọng tâm: Hệ thống hóa lý thuyết bằng sơ đồ; giải quyết bài tập dự đoán chiều chuyển dịch cân bằng theo nguyên lí Le Chatelier; tính toán hằng số cân bằng Kc; tính pH của dung dịch acid, base mạnh và yếu; giải thích môi trường dung dịch muối dựa trên phản ứng thủy phân ion; tính toán nồng độ chất trong phản ứng trung hòa và các bài toán chuẩn độ acid - base thực nghiệm. Từ khóa: Ôn tập chương 1, bài tập cân bằng hóa học, tính pH, phản ứng thủy phân, toán chuẩn độ."
+  },
+  {
+    "lessonId": "hoa11_b4",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Nitrogen – Sulfur",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4: Nitrogen. Ý chính: Trạng thái tự nhiên, cấu tạo nguyên tử và phân tử của nguyên tố nitrogen; tính chất vật lý của đơn chất nitrogen; tính chất hóa học (tính oxi hóa và tính khử); các ứng dụng chính của nitrogen trong công nghiệp và đời sống. Kiến thức trọng tâm: Nitrogen chiếm 78,1% thể tích khí quyển Trái Đất; cấu tạo phân tử N2 chứa liên kết ba bền vững (N≡N) với năng lượng liên kết rất lớn (945 kJ/mol) khiến nitrogen trơ về mặt hóa học ở nhiệt độ thường; tính chất hóa học: thể hiện cả tính oxi hóa (tác dụng với hydrogen ở nhiệt độ cao, áp suất cao, xúc tác tạo thành NH3; tác dụng với kim loại hoạt động mạnh tạo muối nitride) và tính khử (tác dụng với oxygen ở nhiệt độ 3000°C hoặc có tia lửa điện tạo thành khí NO); ứng dụng: dùng làm tác nhân làm lạnh (ở dạng lỏng), tạo khí quyển trơ để bảo quản thực phẩm, sản xuất ammonia, nitric acid. Từ khóa: Đơn chất nitrogen, liên kết ba bền vững, tính trơ hóa học, tính oxi hóa, tính khử, khí quyển trơ."
+  },
+  {
+    "lessonId": "hoa11_b5",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Nitrogen – Sulfur",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5: Ammonia • Muối ammonium. Ý chính: Cấu tạo phân tử, tính chất vật lý, hóa học của ammonia (NH3); quy trình tổng hợp ammonia trong công nghiệp; tính chất hóa học và ứng dụng của muối ammonium. Kiến thức trọng tâm: Phân tử NH3 có cấu tạo chóp tam giác, nguyên tử N còn một cặp electron chưa liên kết tạo tính base yếu; tính chất hóa học của ammonia: tính base yếu (tác dụng với nước tạo ion NH4+ và OH- làm quỳ tím hóa xanh, tác dụng với acid tạo muối ammonium) và tính khử mạnh (bị oxi hóa bởi oxygen tạo N2 hoặc NO); quá trình Haber - Bosch tổng hợp NH3: N2(g) + 3H2(g) ⇌ 2NH3(g) (ΔrH° = -91,8 kJ), thực hiện ở 400°C - 450°C, áp suất 150 - 200 bar, xúc tác Fe; muối ammonium dễ tan trong nước, phân li hoàn toàn thành ion; tác dụng với kiềm giải phóng khí NH3 có mùi khai đặc trưng (ứng dụng để nhận biết ion NH4+); kém bền nhiệt, dễ bị phân hủy khi nung nóng. Từ khóa: Ammonia, tính base yếu, tính khử mạnh, quá trình Haber-Bosch, muối ammonium, phân hủy nhiệt, nhận biết ion ammonium."
+  },
+  {
+    "lessonId": "hoa11_b6",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Nitrogen – Sulfur",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 6: Một số hợp chất của nitrogen với oxygen. Ý chính: Các oxide của nitrogen (NOx) trong không khí, nguồn gốc và tác hại; cấu tạo, tính chất hóa học và ứng dụng của nitric acid (HNO3); hiện tượng phú dưỡng. Kiến thức trọng tâm: Các oxide của nitrogen (NO, NO2, N2O, N2O4) gọi chung là NOx, phát sinh từ tự nhiên (sấm sét) hoặc hoạt động nhân tạo (khí thải động cơ, công nghiệp), gây ô nhiễm, mưa acid, hiện tượng sương mù quang hóa; nitric acid (HNO3): phân tử chứa N có số oxi hóa cao nhất (+5), có tính acid mạnh và tính oxi hóa cực mạnh (tác dụng với hầu hết kim loại trừ Au, Pt đưa kim loại lên số oxi hóa cao nhất và giải phóng các sản phẩm khử như NO2, NO, N2O, N2, NH4NO3); hiện tượng phú dưỡng (eutrophication): nguồn nước thừa chất dinh dưỡng (nitrate, phosphate) từ nước thải nông nghiệp, sinh hoạt làm tảo và thực vật thủy sinh phát triển quá mức, làm giảm lượng oxygen hòa tan, gây suy thoái hệ sinh thái ao hồ. Từ khóa: Oxide của nitrogen (NOx), nitric acid, tính oxi hóa mạnh, sản phẩm khử, hiện tượng phú dưỡng."
+  },
+  {
+    "lessonId": "hoa11_b7",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Nitrogen – Sulfur",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 7: Sulfur và sulfur dioxide. Ý chính: Trạng thái tự nhiên, cấu tạo thù hình và tính chất vật lý của lưu huỳnh (S); tính chất hóa học của sulfur; tính chất vật lý, hóa học, ứng dụng và tác hại của sulfur dioxide (SO2). Kiến thức trọng tâm: Sulfur tồn tại dạng thù hình tà phương và đơn tà; phân tử dạng vòng khép kín S8 nhưng viết đơn giản là S; số oxi hóa trung gian (0) giúp sulfur thể hiện cả tính oxi hóa (tác dụng với hydrogen, kim loại như Fe, Hg tạo sulfide) và tính khử (tác dụng với phi kim hoạt động mạnh như O2, F2); sulfur dioxide (SO2) là chất khí không màu, mùi hắc, độc, tan nhiều trong nước; SO2 vừa có tính oxi hóa (tác dụng với H2S tạo S) vừa có tính khử (tác dụng với O2, NO2 tạo SO3); SO2 là tác nhân chính gây mưa acid và viêm đường hô hấp, được ứng dụng để tẩy trắng giấy, diệt khuẩn chống nấm mốc và là sản phẩm trung gian sản xuất sulfuric acid. Từ khóa: Đơn chất sulfur, thù hình, tính oxi hóa, tính khử, sulfur dioxide, chất tẩy trắng, mưa acid."
+  },
+  {
+    "lessonId": "hoa11_b8",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Nitrogen – Sulfur",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 8: Sulfuric acid và muối sulfate. Ý chính: Cấu tạo phân tử, tính chất vật lý, quy tắc an toàn khi sử dụng sulfuric acid (H2SO4); tính chất hóa học của sulfuric acid loãng và đặc; quy trình sản xuất sulfuric acid bằng phương pháp tiếp xúc; ứng dụng và nhận biết muối sulfate. Kiến thức trọng tâm: H2SO4 đặc là chất lỏng sánh như dầu, rất háo nước và tỏa nhiệt cực lớn (quy tắc pha loãng: rót từ từ acid vào nước dọc theo đũa thủy tinh, không được đổ ngược lại); H2SO4 loãng là acid mạnh điển hình; H2SO4 đặc có tính acid mạnh, tính háo nước cực mạnh (than hóa các carbohydrate) và tính oxi hóa cực mạnh (oxi hóa hầu hết kim loại trừ Au, Pt và phi kim, giải phóng khí SO2, S hoặc H2S); quy trình sản xuất gồm 3 giai đoạn: Đốt lưu huỳnh/pyrite -> Oxi hóa SO2 thành SO3 (xúc tác V2O5, 450°C) -> Hấp thụ SO3 bằng H2SO4 đặc thành oleum, sau đó pha loãng; nhận biết muối sulfate và sulfuric acid bằng ion Ba2+ tạo kết tủa trắng BaSO4 không tan trong acid mạnh. Từ khóa: Sulfuric acid loãng, sulfuric acid đặc, tính háo nước, tính oxi hóa mạnh, oleum, phương pháp tiếp xúc, nhận biết muối sulfate, BaSO4."
+  },
+  {
+    "lessonId": "hoa11_b9",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Nitrogen – Sulfur",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 9: Ôn tập chương 2. Ý chính: Hệ thống hóa toàn bộ kiến thức lý thuyết về các nguyên tố phi kim nhóm VA (Nitrogen), VIA (Sulfur) và các hợp chất quan trọng của chúng; thực hành giải toán lý thuyết và ứng dụng thực tế. Kiến thức trọng tâm: Hệ thống hóa bằng bảng so sánh các mức số oxi hóa của nitrogen và sulfur; củng cố các phản ứng hóa học đặc trưng, đặc biệt là phản ứng oxi hóa - khử phức tạp của HNO3 và H2SO4 đặc; luyện tập các dạng bài tập tính hiệu suất phản ứng tổng hợp ammonia, tính toán lượng kim loại phản ứng với acid và bài toán nhận biết các ion ammonium, sulfate. Từ khóa: Ôn tập chương 2, hệ thống hóa kiến thức, chuỗi phản ứng nitrogen, chuỗi phản ứng sulfur, toán hiệu suất."
+  },
+  {
+    "lessonId": "hoa11_b10",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Đại cương về hoá học hữu cơ",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 10: Hợp chất hữu cơ và hoá học hữu cơ. Ý chính: Khái niệm hợp chất hữu cơ và hóa học hữu cơ; các đặc điểm chung của hợp chất hữu cơ; phân loại hợp chất hữu cơ; khái niệm nhóm chức và ứng dụng phổ hồng ngoại (IR) xác định nhóm chức. Kiến thức trọng tâm: Hợp chất hữu cơ là hợp chất của carbon (trừ CO, CO2, muối carbonate, cyanide, carbide...); đặc điểm chung: liên kết hóa học chủ yếu là cộng hóa trị, nhiệt độ nóng chảy/sôi thấp, kém bền nhiệt, phản ứng chậm và không hoàn toàn; phân loại: Hydrocarbon (chỉ có C, H) và Dẫn xuất của hydrocarbon (có thêm O, N, halogen, S...); nhóm chức là nguyên tử hoặc nhóm nguyên tử gây ra tính chất hóa học đặc trưng; phổ hồng ngoại (IR) hấp thụ bức xạ ở các số sóng đặc trưng (cm^-1) giúp xác định các nhóm chức như -OH, C=O, -COOH, -COO-. Từ khóa: Hợp chất hữu cơ, hydrocarbon, dẫn xuất hydrocarbon, nhóm chức, phổ hồng ngoại (IR), số sóng hấp thụ."
+  },
+  {
+    "lessonId": "hoa11_b11",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Đại cương về hoá học hữu cơ",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 11: Phương pháp tách biệt và tinh chế hợp chất hữu cơ. Ý chính: Các phương pháp vật lý dùng để tách biệt và tinh chế hợp chất hữu cơ bao gồm chưng cất, chiết, kết tinh và sắc kí cột. Kiến thức trọng tâm: Chưng cất dựa vào sự khác nhau về nhiệt độ sôi của các chất lỏng trong hỗn hợp ở một áp suất nhất định (chưng cất thường, chưng cất phân đoạn, chưng cất lôi cuốn hơi nước); chiết (lỏng - lỏng, lỏng - rắn) dựa vào sự hòa tan khác nhau của các chất trong hai môi trường không trộn lẫn vào nhau (chiết beta-carotene bằng hexane); kết tinh dựa vào độ tan khác nhau của chất rắn trong dung môi theo nhiệt độ để làm sạch chất rắn; sắc kí cột dựa vào sự phân bố khác nhau của các chất giữa pha động (dung môi) và pha tĩnh (chất hấp phụ như silica gel, alumina) để tách riêng các cấu tử trong hỗn hợp phức tạp. Từ khóa: Chưng cất, phương pháp chiết, kết tinh, sắc kí cột, tinh chế hợp chất hữu cơ, pha động, pha tĩnh."
+  },
+  {
+    "lessonId": "hoa11_b12",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Đại cương về hoá học hữu cơ",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 12: Công thức phân tử hợp chất hữu cơ. Ý chính: Định nghĩa công thức phân tử, công thức tổng quát và công thức đơn giản nhất; phương pháp xác định phân tử khối bằng phổ khối lượng (MS); lập công thức phân tử từ số liệu phân tích nguyên tố. Kiến thức trọng tâm: Công thức phân tử biểu thị số lượng nguyên tử mỗi nguyên tố trong phân tử; công thức đơn giản nhất biểu thị tỉ lệ tối giản số nguyên tử các nguyên tố; phổ khối lượng (MS) xác định phân tử khối chính xác dựa trên giá trị m/z của peak ion phân tử [M+] lớn nhất; quy trình lập công thức phân tử: từ % khối lượng -> lập tỉ lệ số mol x : y : z : t = %C/12 : %H/1 : %O/16 : %N/14 -> công thức đơn giản nhất -> kết hợp phân tử khối M để tìm công thức phân tử. Từ khóa: Công thức phân tử, công thức đơn giản nhất, phổ khối lượng (MS), ion phân tử [M+], phân tích nguyên tố."
+  },
+  {
+    "lessonId": "hoa11_b13",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Đại cương về hoá học hữu cơ",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 13: Cấu tạo hoá học hợp chất hữu cơ. Ý chính: Các luận điểm của thuyết cấu tạo hóa học Butlerov; khái niệm công thức cấu tạo; hiện tượng đồng phân và đồng đẳng trong hóa học hữu cơ. Kiến thức trọng tâm: Thuyết cấu tạo hóa học: nguyên tử liên kết theo đúng hóa trị và theo thứ tự nhất định, carbon luôn có hóa trị IV và có khả năng liên kết với nhau tạo mạch hở (không phân nhánh/phân nhánh) hoặc mạch vòng, tính chất chất hữu cơ phụ thuộc thành phần và cấu tạo; đồng phân là hiện tượng các chất khác nhau có cùng công thức phân tử (gồm đồng phân cấu tạo: mạch carbon, nhóm chức, vị trí nhóm chức; và đồng phân hình học cis-trans); đồng đẳng là hiện tượng các chất có cấu tạo và tính chất hóa học tương tự nhau nhưng thành phần phân tử hơn kém nhau một hay nhiều nhóm CH2. Từ khóa: Thuyết cấu tạo hóa học, công thức cấu tạo, mạch carbon, hiện tượng đồng phân, đồng đẳng, nhóm metylen."
+  },
+  {
+    "lessonId": "hoa11_b14",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Đại cương về hoá học hữu cơ",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 14: Ôn tập chương 3. Ý chính: Hệ thống hóa toàn bộ kiến thức lý thuyết đại cương về hóa học hữu cơ; rèn luyện giải các bài tập tổng hợp về tách chất, xác định công thức phân tử và viết công thức cấu tạo. Kiến thức trọng tâm: Ôn tập lý thuyết các phương pháp tách chất (chưng cất, chiết, kết tinh, sắc kí cột); giải bài toán lập công thức phân tử từ phần trăm khối lượng nguyên tố và phổ khối lượng MS; vẽ các đồng phân cấu tạo của hydrocarbon, alcohol từ công thức phân tử; phân biệt các khái niệm đồng phân, đồng đẳng. Từ khóa: Ôn tập chương 3, đại cương hóa hữu cơ, toán lập công thức phân tử, viết đồng phân cấu tạo."
+  },
+  {
+    "lessonId": "hoa11_b15",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Hydrocarbon",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 15: Alkane. Ý chính: Định nghĩa, danh pháp và cấu tạo phân tử của alkane (paraffin); tính chất vật lý của alkane; tính chất hóa học đặc trưng (thế halogen, cracking, reforming, oxi hóa); ứng dụng, điều chế alkane và ô nhiễm không khí từ phương tiện giao thông. Kiến thức trọng tâm: Alkane là các hydrocarbon no mạch hở chỉ chứa liên kết đơn C-C và C-H, công thức chung CnH2n+2 (n≥1); cấu tạo phân tử có dạng hình tứ diện quanh các carbon lai hóa; danh pháp thay thế: số chỉ vị trí nhánh - tên nhánh + tên mạch chính + 'ane'; tính chất hóa học: trơ ở nhiệt độ thường, phản ứng thế halogen ưu tiên thế H ở C bậc cao hơn dưới ánh sáng; phản ứng cracking bẻ gãy mạch carbon tạo alkane và alkene ngắn hơn; phản ứng reforming đồng phân hóa và đóng vòng tạo arene; phản ứng cháy tỏa nhiệt rất lớn; khí thải động cơ đốt alkane chứa các chất độc hại (CO, CO2, SO2, NOx, bụi mịn) gây ô nhiễm, cần nhiên liệu sạch và tiêu chuẩn khí thải (E5, E10, biodiesel). Từ khóa: Alkane, hydrocarbon no, liên kết đơn, thế halogen, phản ứng cracking, phản ứng reforming, phản ứng cháy, khí thải động cơ."
+  },
+  {
+    "lessonId": "hoa11_b16",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Hydrocarbon",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 16: Hydrocarbon không no. Ý chính: Định nghĩa, danh pháp và cấu tạo phân tử của alkene (CnH2n) và alkyne (CnH2n-2); đồng phân hình học cis-trans của alkene; tính chất vật lý và hóa học đặc trưng (phản ứng cộng, trùng hợp alkene, thế kim loại của alk-1-yne, oxi hóa); ứng dụng và phương pháp điều chế. Kiến thức trọng tâm: Alkene chứa một liên kết đôi C=C, alkyne chứa một liên kết ba C≡C; đồng phân hình học cis-trans xuất hiện khi mỗi C của liên kết đôi liên kết với hai nhóm khác nhau; tính chất hóa học đặc trưng: phản ứng cộng H2 (Ni, t°), cộng halogen (Br2, Cl2 làm mất màu nước bromine), cộng HX (HCl, HBr, H2O) tuân theo quy tắc Markovnikov (H cộng vào C có nhiều H hơn, X vào C có ít H hơn); phản ứng trùng hợp alkene tạo polymer (PE, PP); phản ứng thế bạc của alk-1-yne với AgNO3/NH3 tạo kết tủa vàng nhạt (nhận biết alk-1-yne); phản ứng oxi hóa không hoàn toàn bằng dung dịch KMnO4 (làm mất màu thuốc tím ở nhiệt độ thường) và phản ứng cháy tỏa nhiệt lớn. Từ khóa: Alkene, alkyne, liên kết đôi, liên kết ba, đồng phân cis-trans, phản ứng cộng, quy tắc Markovnikov, phản ứng trùng hợp, phản ứng thế bạc, thuốc tím KMnO4."
+  },
+  {
+    "lessonId": "hoa11_b17",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Hydrocarbon",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 17: Arene (Hydrocarbon thơm). Ý chính: Khái niệm, danh pháp và cấu tạo phân tử của benzene và các arene đồng đẳng; tính chất vật lý; tính chất hóa học đặc trưng (phản ứng thế vòng thơm, phản ứng cộng vào vòng thơm, phản ứng oxi hóa mạch nhánh); ứng dụng và phương pháp điều chế arene. Kiến thức trọng tâm: Benzene (C6H6) có cấu tạo vòng sáu cạnh phẳng đều, hệ liên kết liên hợp bền vững; arene đồng đẳng CnH2n-6 (n≥6); tính chất hóa học: dễ thế, khó cộng, bền với chất oxi hóa; phản ứng thế vòng thơm: thế halogen (xúc tác FeBr3) và nitro hóa (HNO3 đặc/H2SO4 đặc tạo nitrobenzene), toluene ưu tiên thế vào vị trí ortho- và para- và phản ứng dễ hơn benzene; phản ứng cộng vào vòng thơm: cộng Cl2 dưới ánh sáng tử ngoại tạo thuốc trừ sâu 666, cộng H2 tạo cyclohexane; phản ứng oxi hóa: vòng benzene bền không bị oxi hóa bởi KMnO4, nhưng mạch nhánh alkyl ở alkylbenzene bị oxi hóa khi đun nóng với dung dịch KMnO4 tạo muối benzoate (C6H5COOK). Từ khóa: Arene, vòng benzene, nhân thơm, alkylbenzene, phản ứng thế halogen, phản ứng nitro hóa, phản ứng oxi hóa mạch nhánh."
+  },
+  {
+    "lessonId": "hoa11_b18",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Hydrocarbon",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 18: Ôn tập chương 4. Ý chính: Tổng hợp và hệ thống hóa toàn bộ kiến thức về cấu tạo, tính chất vật lý, hóa học, điều chế và ứng dụng của hydrocarbon (alkane, alkene, alkyne, arene); rèn luyện giải các bài tập tổng hợp và thực tiễn. Kiến thức trọng tâm: Xây dựng bảng so sánh cấu tạo và phản ứng hóa học đặc trưng của bốn dòng hydrocarbon; rèn luyện kỹ năng viết chuỗi phản ứng hữu cơ; nhận biết và phân biệt các khí hydrocarbon mất nhãn bằng thuốc thử đặc trưng (nước bromine, thuốc tím KMnO4, AgNO3/NH3); giải bài toán tính lượng chất trong phản ứng cộng, phản ứng cháy. Từ khóa: Ôn tập chương 4, phân biệt hydrocarbon, chuỗi phản ứng hydrocarbon, bài toán phản ứng cộng, bài toán phản ứng cháy."
+  },
+  {
+    "lessonId": "hoa11_b19",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Dẫn xuất halogen – Alcohol – Phenol",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 19: Dẫn xuất halogen. Ý chính: Định nghĩa, danh pháp và cấu tạo phân tử của dẫn xuất halogen; tính chất vật lý; tính chất hóa học đặc trưng (thế nguyên tử halogen bởi nhóm -OH, phản ứng tách hydrogen halide); ứng dụng của dẫn xuất halogen và tác hại của CFC đối với tầng ozone. Kiến thức trọng tâm: Dẫn xuất halogen là hợp chất thu được khi thay thế nguyên tử H của hydrocarbon bằng nguyên tử halogen (R-X), liên kết C-X phân cực; tính chất hóa học: phản ứng thế halogen bằng nhóm -OH khi đun nóng với dung dịch kiềm (NaOH) tạo alcohol; phản ứng tách HX tạo alkene xảy ra khi đun nóng dẫn xuất halogen với base mạnh (NaOH/C2H5OH, t°) tuân theo quy tắc Zaitsev (halogen bị tách cùng với H ở C bên cạnh có bậc cao hơn để tạo alkene có nhiều nhóm thế hơn); các dẫn xuất CFC trước đây dùng làm chất làm lạnh nay bị cấm vì phá hủy tầng ozone, được thay thế bằng HFC, HFO thân thiện môi trường. Từ khóa: Dẫn xuất halogen, phản ứng thế nucleophil, phản ứng tách HX, quy tắc Zaitsev, hợp chất CFC, suy giảm tầng ozone."
+  },
+  {
+    "lessonId": "hoa11_b20",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Dẫn xuất halogen – Alcohol – Phenol",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 20: Alcohol. Ý chính: Khái niệm, phân loại, danh pháp và cấu tạo phân tử của alcohol; tính chất vật lý (liên kết hydrogen liên phân tử); tính chất hóa học đặc trưng (thế nguyên tử H của nhóm -OH, phản ứng tạo ether, phản ứng tách nước tạo alkene, phản ứng oxi hóa); ứng dụng, phương pháp điều chế và tác hại của lạm dụng đồ uống có cồn. Kiến thức trọng tâm: Alcohol chứa nhóm hydroxyl (-OH) liên kết trực tiếp với C no; alcohol no, đơn chức, mạch hở CnH2n+1OH (n≥1); polyalcohol chứa các nhóm -OH liền kề (như ethylene glycol, glycerol) tác dụng với Cu(OH)2 tạo dung dịch phức đồng màu xanh lam đậm; tính chất vật lý: nhiệt độ sôi cao hơn hydrocarbon cùng phân tử khối và tan vô hạn trong nước nhờ tạo liên kết hydrogen; tính chất hóa học: thế H của nhóm -OH bằng kim loại kiềm giải phóng H2; phản ứng tạo ether ở 140°C (H2SO4 đặc); phản ứng tách nước tạo alkene ở 180°C (H2SO4 đặc) tuân theo quy tắc Zaitsev; phản ứng oxi hóa không hoàn toàn bằng CuO, t° (alcohol bậc I tạo aldehyde, bậc II tạo ketone, bậc III bền); phản ứng cháy; điều chế ethanol bằng lên men tinh bột hoặc hydrate hóa ethylene. Từ khóa: Alcohol, nhóm hydroxyl, liên kết hydrogen, phức đồng xanh lam đậm, phản ứng tạo ether, phản ứng tách nước tạo alkene, oxi hóa không hoàn toàn, lên men tinh bột."
+  },
+  {
+    "lessonId": "hoa11_b21",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Dẫn xuất halogen – Alcohol – Phenol",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 21: Phenol. Ý chính: Khái niệm, danh pháp và đặc điểm cấu tạo phân tử của phenol; tính chất vật lý và tính chất hóa học đặc trưng (tính acid yếu, phản ứng thế vào vòng thơm); ứng dụng và phương pháp điều chế phenol. Kiến thức trọng tâm: Phenol là hợp chất hữu cơ có nhóm -OH liên kết trực tiếp với nguyên tử carbon của vòng benzene; do ảnh hưởng qua lại giữa nhóm -OH và vòng benzene làm liên kết O-H phân cực mạnh và tăng mật độ electron trên vòng thơm ở các vị trí ortho- và para-; tính chất hóa học: tính acid yếu (mạnh hơn alcohol, tác dụng với kim loại kiềm, dung dịch base NaOH, dung dịch Na2CO3 tạo muối phenolate, dung dịch không làm đổi màu quỳ tím); phản ứng thế ở vòng thơm xảy ra rất dễ dàng (tác dụng với nước bromine tạo kết tủa trắng 2,4,6-tribromophenol dùng nhận biết phenol, tác dụng với HNO3 đặc/H2SO4 đặc tạo kết tủa vàng picric acid); điều chế phenol từ cumene (isopropylbenzene) trong công nghiệp. Từ khóa: Hợp chất phenol, ảnh hưởng liên hợp, tính acid yếu, sodium phenolate, thế vòng thơm phenol, kết tủa trắng tribromophenol, sản xuất từ cumene."
+  },
+  {
+    "lessonId": "hoa11_b22",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Dẫn xuất halogen – Alcohol – Phenol",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 22: Ôn tập chương 5. Ý chính: Hệ thống hóa toàn bộ kiến thức lý thuyết về mối quan hệ giữa dẫn xuất halogen, alcohol và phenol; củng cố các phản ứng hóa học đặc trưng, phương pháp nhận biết và bài tập tính toán liên quan. Kiến thức trọng tâm: Xây dựng sơ đồ chuyển hóa giữa các nhóm chất; so sánh cấu tạo, tính chất vật lý (nhiệt độ sôi, độ tan) và độ linh động của nguyên tử H trong nhóm -OH giữa alcohol và phenol; luyện tập nhận biết các chất hữu cơ lỏng mất nhãn; giải các bài toán tính phần trăm khối lượng hỗn hợp phản ứng với Na, NaOH, nước bromine. Từ khóa: Ôn tập chương 5, sơ đồ chuyển hóa hữu cơ, so sánh alcohol và phenol, nhận biết phenol, bài toán hỗn hợp alcohol-phenol."
+  },
+  {
+    "lessonId": "hoa11_b23",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Hợp chất carbonyl – Carboxylic acid",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 23: Hợp chất carbonyl. Ý chính: Định nghĩa, danh pháp và cấu tạo phân tử của hợp chất carbonyl (aldehyde và ketone); tính chất vật lý; tính chất hóa học đặc trưng (phản ứng khử, phản ứng oxi hóa aldehyde, phản ứng cộng HCN, phản ứng tạo iodoform); ứng dụng và phương pháp điều chế. Kiến thức trọng tâm: Hợp chất carbonyl chứa nhóm chức carbonyl (C=O); aldehyde có dạng R-CHO, ketone có dạng R-CO-R'; danh pháp thay thế: tên hydrocarbon + 'al' (aldehyde) hoặc + số chỉ vị trí C=O + 'one' (ketone); tính chất hóa học: phản ứng khử bởi NaBH4 hoặc LiAlH4 tạo alcohol (aldehyde tạo alcohol bậc I, ketone tạo bậc II); phản ứng oxi hóa aldehyde (tác dụng nước bromine tạo carboxylic acid; tác dụng thuốc thử Tollens [Ag(NH3)2]OH tạo lớp bạc sáng bóng tráng gương; tác dụng Cu(OH)2/NaOH đun nóng tạo kết tủa đỏ gạch Cu2O); phản ứng cộng HCN vào liên kết đôi C=O; phản ứng tạo iodoform của các hợp chất chứa nhóm methyl ketone (CH3-CO-) tác dụng với I2 trong môi trường kiềm tạo kết tủa màu vàng iodoform (CHI3) dùng nhận biết nhóm này; điều chế: oxi hóa nhẹ ethylene tạo acetaldehyde, sản xuất acetone từ cumene. Từ khóa: Hợp chất carbonyl, aldehyde, ketone, phản ứng tráng bạc, thuốc thử Tollens, kết tủa đỏ gạch Cu2O, phản ứng cộng HCN, phản ứng tạo iodoform, kết tủa vàng CHI3."
+  },
+  {
+    "lessonId": "hoa11_b24",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Hợp chất carbonyl – Carboxylic acid",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 24: Carboxylic acid. Ý chính: Định nghĩa, danh pháp và cấu tạo phân tử của carboxylic acid; tính chất vật lý (liên kết hydrogen dạng dimer); tính chất hóa học đặc trưng (tính acid, phản ứng ester hóa); ứng dụng và phương pháp điều chế. Kiến thức trọng tâm: Carboxylic acid là hợp chất hữu cơ chứa nhóm carboxyl (-COOH) liên kết với C hoặc H, công thức chung R(COOH)n; danh pháp thay thế: tên hydrocarbon tương ứng (tính cả C của nhóm -COOH) + 'oic acid'; tính chất vật lý: nhiệt độ sôi cao nhất trong các nhóm chất có cùng phân tử khối và tan rất tốt trong nước nhờ tạo liên kết hydrogen dạng dimer hoặc polymer liên phân tử rất bền; tính chất hóa học: thể hiện đầy đủ tính acid của một acid yếu (làm đỏ quỳ tím, tác dụng kim loại trước H, tác dụng base, basic oxide, muối carbonate giải phóng khí CO2); phản ứng ester hóa là phản ứng thuận nghịch giữa carboxylic acid và alcohol với xúc tác H2SO4 đặc, đun nóng; điều chế: phương pháp lên men giấm từ ethanol (C2H5OH + O2 -> CH3COOH + H2O) hoặc oxi hóa cắt mạch alkane. Từ khóa: Carboxylic acid, nhóm carboxyl, liên kết hydrogen dạng dimer, tính acid yếu, phản ứng ester hóa, phản ứng thuận nghịch, lên men giấm."
+  },
+  {
+    "lessonId": "hoa11_b25",
+    "grade": 11,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Hợp chất carbonyl – Carboxylic acid",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 25: Ôn tập chương 6. Ý chính: Hệ thống hóa toàn bộ kiến thức lý thuyết về hợp chất carbonyl và carboxylic acid; so sánh tính chất vật lý và hóa học giữa các nhóm chất hữu cơ chứa oxygen đã học; củng cố phương pháp nhận biết và bài tập tính toán tổng hợp. Kiến thức trọng tâm: Xây dựng bảng so sánh nhiệt độ sôi, độ tan và tính acid của alkane, aldehyde, alcohol, carboxylic acid có khối lượng tương đương; củng cố các phản ứng hóa học chuyển đổi nhóm chức; nhận biết các nhóm hợp chất hữu cơ chứa oxygen bằng phản ứng đặc trưng (Tollens, Cu(OH)2, Na2CO3, nước bromine); giải bài toán tính hiệu suất phản ứng ester hóa, toán hỗn hợp và toán lập công thức phân tử dựa trên phản ứng trung hòa. Từ khóa: Ôn tập chương 6, so sánh nhiệt độ sôi, so sánh tính acid, chuỗi phản ứng chuyển đổi chức, nhận biết hợp chất chứa oxygen, toán hiệu suất ester hóa."
+  }
+]

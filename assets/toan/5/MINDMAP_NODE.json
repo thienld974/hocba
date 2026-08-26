@@ -1,0 +1,632 @@
+[
+  {
+    "nodeId": "root_th5",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TOÁN HỌC 5 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "toan5_node_t1",
+    "lessonId": null,
+    "parentNodeId": "root_th5",
+    "nodeName": "Toán 5 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t1",
+    "nodeName": "Chủ đề 1: Ôn tập và bổ sung",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b1",
+    "lessonId": "toan5_t1_b1",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 1: Ôn tập số tự nhiên",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b2",
+    "lessonId": "toan5_t1_b2",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 2: Ôn tập các phép tính với số tự nhiên",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b3",
+    "lessonId": "toan5_t1_b3",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 3: Ôn tập phân số",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b4",
+    "lessonId": "toan5_t1_b4",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 4: Phân số thập phân",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b5",
+    "lessonId": "toan5_t1_b5",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 5: Ôn tập các phép tính với phân số",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b6",
+    "lessonId": "toan5_t1_b6",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 6: Cộng, trừ hai phân số",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b7",
+    "lessonId": "toan5_t1_b7",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 7: Hỗn số",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b8",
+    "lessonId": "toan5_t1_b8",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 8: Ôn tập hình học và đo lường",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "toan5_node_t1_ch1_b9",
+    "lessonId": "toan5_t1_b9",
+    "parentNodeId": "toan5_node_t1_ch1",
+    "nodeName": "Bài 9: Luyện tập chung",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "toan5_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t1",
+    "nodeName": "Chủ đề 2: Số thập phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch2_b10",
+    "lessonId": "toan5_t1_b10",
+    "parentNodeId": "toan5_node_t1_ch2",
+    "nodeName": "Bài 10: Khái niệm số thập phân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch2_b11",
+    "lessonId": "toan5_t1_b11",
+    "parentNodeId": "toan5_node_t1_ch2",
+    "nodeName": "Bài 11: So sánh các số thập phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch2_b12",
+    "lessonId": "toan5_t1_b12",
+    "parentNodeId": "toan5_node_t1_ch2",
+    "nodeName": "Bài 12: Viết số đo đại lượng dưới dạng số thập phân",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch2_b13",
+    "lessonId": "toan5_t1_b13",
+    "parentNodeId": "toan5_node_t1_ch2",
+    "nodeName": "Bài 13: Làm tròn số thập phân",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch2_b14",
+    "lessonId": "toan5_t1_b14",
+    "parentNodeId": "toan5_node_t1_ch2",
+    "nodeName": "Bài 14: Luyện tập chung",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t1",
+    "nodeName": "Chủ đề 3: Một số đơn vị đo diện tích",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch3_b15",
+    "lessonId": "toan5_t1_b15",
+    "parentNodeId": "toan5_node_t1_ch3",
+    "nodeName": "Bài 15: Ki-lô-mét vuông. Héc-ta",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch3_b16",
+    "lessonId": "toan5_t1_b16",
+    "parentNodeId": "toan5_node_t1_ch3",
+    "nodeName": "Bài 16: Các đơn vị đo diện tích",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch3_b17",
+    "lessonId": "toan5_t1_b17",
+    "parentNodeId": "toan5_node_t1_ch3",
+    "nodeName": "Bài 17: Thực hành và trải nghiệm với một số đơn vị đo đại lượng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch3_b18",
+    "lessonId": "toan5_t1_b18",
+    "parentNodeId": "toan5_node_t1_ch3",
+    "nodeName": "Bài 18: Luyện tập chung",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t1",
+    "nodeName": "Chủ đề 4: Các phép tính với số thập phân",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4_b19",
+    "lessonId": "toan5_t1_b19",
+    "parentNodeId": "toan5_node_t1_ch4",
+    "nodeName": "Bài 19: Phép cộng số thập phân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4_b20",
+    "lessonId": "toan5_t1_b20",
+    "parentNodeId": "toan5_node_t1_ch4",
+    "nodeName": "Bài 20: Phép trừ số thập phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4_b21",
+    "lessonId": "toan5_t1_b21",
+    "parentNodeId": "toan5_node_t1_ch4",
+    "nodeName": "Bài 21: Phép nhân số thập phân",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4_b22",
+    "lessonId": "toan5_t1_b22",
+    "parentNodeId": "toan5_node_t1_ch4",
+    "nodeName": "Bài 22: Phép chia số thập phân",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4_b23",
+    "lessonId": "toan5_t1_b23",
+    "parentNodeId": "toan5_node_t1_ch4",
+    "nodeName": "Bài 23: Nhân, chia số thập phân với 10; 100; 1000;... hoặc với 0,1; 0,01; 0,001;...",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t1_ch4_b24",
+    "lessonId": "toan5_t1_b24",
+    "parentNodeId": "toan5_node_t1_ch4",
+    "nodeName": "Bài 24: Luyện tập chung",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t1",
+    "nodeName": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t1_ch5_b25",
+    "lessonId": "toan5_t1_b25",
+    "parentNodeId": "toan5_node_t1_ch5",
+    "nodeName": "Bài 25: Hình tam giác. Diện tích hình tam giác",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch5_b26",
+    "lessonId": "toan5_t1_b26",
+    "parentNodeId": "toan5_node_t1_ch5",
+    "nodeName": "Bài 26: Hình thang. Diện tích hình thang",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch5_b27",
+    "lessonId": "toan5_t1_b27",
+    "parentNodeId": "toan5_node_t1_ch5",
+    "nodeName": "Bài 27: Đường tròn. Chu vi và diện tích hình tròn",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch5_b28",
+    "lessonId": "toan5_t1_b28",
+    "parentNodeId": "toan5_node_t1_ch5",
+    "nodeName": "Bài 28: Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch5_b29",
+    "lessonId": "toan5_t1_b29",
+    "parentNodeId": "toan5_node_t1_ch5",
+    "nodeName": "Bài 29: Luyện tập chung",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t1",
+    "nodeName": "Chủ đề 6: Ôn tập học kì 1",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6_b30",
+    "lessonId": "toan5_t1_b30",
+    "parentNodeId": "toan5_node_t1_ch6",
+    "nodeName": "Bài 30: Ôn tập số thập phân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6_b31",
+    "lessonId": "toan5_t1_b31",
+    "parentNodeId": "toan5_node_t1_ch6",
+    "nodeName": "Bài 31: Ôn tập các phép tính với số thập phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6_b32",
+    "lessonId": "toan5_t1_b32",
+    "parentNodeId": "toan5_node_t1_ch6",
+    "nodeName": "Bài 32: Ôn tập một số hình phẳng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6_b33",
+    "lessonId": "toan5_t1_b33",
+    "parentNodeId": "toan5_node_t1_ch6",
+    "nodeName": "Bài 33: Ôn tập diện tích, chu vi một số hình phẳng",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6_b34",
+    "lessonId": "toan5_t1_b34",
+    "parentNodeId": "toan5_node_t1_ch6",
+    "nodeName": "Bài 34: Ôn tập đo lường",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t1_ch6_b35",
+    "lessonId": "toan5_t1_b35",
+    "parentNodeId": "toan5_node_t1_ch6",
+    "nodeName": "Bài 35: Ôn tập chung",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t2",
+    "lessonId": null,
+    "parentNodeId": "root_th5",
+    "nodeName": "Toán 5 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t2",
+    "nodeName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b36",
+    "lessonId": "toan5_t2_b36",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 36: Tỉ số. Tỉ số phần trăm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b37",
+    "lessonId": "toan5_t2_b37",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 37: Tỉ lệ bản đồ và ứng dụng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b38",
+    "lessonId": "toan5_t2_b38",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 38: Tìm hai số khi biết tổng và tỉ số của hai số đó",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b39",
+    "lessonId": "toan5_t2_b39",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 39: Tìm hai số khi biết hiệu và tỉ số của hai số đó",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b40",
+    "lessonId": "toan5_t2_b40",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 40: Tìm tỉ số phần trăm của hai số",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b41",
+    "lessonId": "toan5_t2_b41",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 41: Tìm giá trị phần trăm của một số",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b42",
+    "lessonId": "toan5_t2_b42",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 42: Máy tính cầm tay",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b43",
+    "lessonId": "toan5_t2_b43",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 43: Thực hành và trải nghiệm sử dụng máy tính cầm tay",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "toan5_node_t2_ch7_b44",
+    "lessonId": "toan5_t2_b44",
+    "parentNodeId": "toan5_node_t2_ch7",
+    "nodeName": "Bài 44: Luyện tập chung",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "toan5_node_t2_ch8",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t2",
+    "nodeName": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch8_b45",
+    "lessonId": "toan5_t2_b45",
+    "parentNodeId": "toan5_node_t2_ch8",
+    "nodeName": "Bài 45: Thể tích của một hình",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch8_b46",
+    "lessonId": "toan5_t2_b46",
+    "parentNodeId": "toan5_node_t2_ch8",
+    "nodeName": "Bài 46: Xăng-ti-mét khối. Đề-xi-mét khối",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch8_b47",
+    "lessonId": "toan5_t2_b47",
+    "parentNodeId": "toan5_node_t2_ch8",
+    "nodeName": "Bài 47: Mét khối",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch8_b48",
+    "lessonId": "toan5_t2_b48",
+    "parentNodeId": "toan5_node_t2_ch8",
+    "nodeName": "Bài 48: Luyện tập chung",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t2",
+    "nodeName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b49",
+    "lessonId": "toan5_t2_b49",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 49: Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b50",
+    "lessonId": "toan5_t2_b50",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 50: Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b51",
+    "lessonId": "toan5_t2_b51",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 51: Diện tích xung quanh và diện tích toàn phần của hình lập phương",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b52",
+    "lessonId": "toan5_t2_b52",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 52: Thể tích của hình hộp chữ nhật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b53",
+    "lessonId": "toan5_t2_b53",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 53: Thể tích của hình lập phương",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b54",
+    "lessonId": "toan5_t2_b54",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 54: Thực hành tính toán và ước lượng thể tích một số hình khối",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t2_ch9_b55",
+    "lessonId": "toan5_t2_b55",
+    "parentNodeId": "toan5_node_t2_ch9",
+    "nodeName": "Bài 55: Luyện tập chung",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t2",
+    "nodeName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b56",
+    "lessonId": "toan5_t2_b56",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 56: Các đơn vị đo thời gian",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b57",
+    "lessonId": "toan5_t2_b57",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 57: Cộng, trừ số đo thời gian",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b58",
+    "lessonId": "toan5_t2_b58",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 58: Nhân, chia số đo thời gian với một số",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b59",
+    "lessonId": "toan5_t2_b59",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 59: Vận tốc của một chuyển động đều",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b60",
+    "lessonId": "toan5_t2_b60",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 60: Quãng đường, thời gian của một chuyển động đều",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b61",
+    "lessonId": "toan5_t2_b61",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 61: Thực hành tính toán và ước lượng về vận tốc, quãng đường, thời gian trong chuyển động đều",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t2_ch10_b62",
+    "lessonId": "toan5_t2_b62",
+    "parentNodeId": "toan5_node_t2_ch10",
+    "nodeName": "Bài 62: Luyện tập chung",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan5_node_t2_ch11",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t2",
+    "nodeName": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t2_ch11_b63",
+    "lessonId": "toan5_t2_b63",
+    "parentNodeId": "toan5_node_t2_ch11",
+    "nodeName": "Bài 63: Thu thập, phân loại, sắp xếp các số liệu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch11_b64",
+    "lessonId": "toan5_t2_b64",
+    "parentNodeId": "toan5_node_t2_ch11",
+    "nodeName": "Bài 64: Biểu đồ hình quạt tròn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch11_b65",
+    "lessonId": "toan5_t2_b65",
+    "parentNodeId": "toan5_node_t2_ch11",
+    "nodeName": "Bài 65: Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch11_b66",
+    "lessonId": "toan5_t2_b66",
+    "parentNodeId": "toan5_node_t2_ch11",
+    "nodeName": "Bài 66: Thực hành và trải nghiệm thu thập, phân tích, biểu diễn các số liệu thống kê",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch11_b67",
+    "lessonId": "toan5_t2_b67",
+    "parentNodeId": "toan5_node_t2_ch11",
+    "nodeName": "Bài 67: Luyện tập chung",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12",
+    "lessonId": null,
+    "parentNodeId": "toan5_node_t2",
+    "nodeName": "Chủ đề 12: Ôn tập cuối năm",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b68",
+    "lessonId": "toan5_t2_b68",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 68: Ôn tập số tự nhiên, phân số, số thập phân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b69",
+    "lessonId": "toan5_t2_b69",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 69: Ôn tập các phép tính với số tự nhiên, phân số, số thập phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b70",
+    "lessonId": "toan5_t2_b70",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 70: Ôn tập tỉ số, tỉ số phần trăm",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b71",
+    "lessonId": "toan5_t2_b71",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 71: Ôn tập hình học",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b72",
+    "lessonId": "toan5_t2_b72",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 72: Ôn tập đo lường",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b73",
+    "lessonId": "toan5_t2_b73",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 73: Ôn tập toán chuyển động đều",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b74",
+    "lessonId": "toan5_t2_b74",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 74: Ôn tập một số yếu tố thống kê và xác suất",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan5_node_t2_ch12_b75",
+    "lessonId": "toan5_t2_b75",
+    "parentNodeId": "toan5_node_t2_ch12",
+    "nodeName": "Bài 75: Ôn tập chung",
+    "orderIndex": 8
+  }
+]

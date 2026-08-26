@@ -1,0 +1,261 @@
+[
+  {
+    "nodeId": "root_sh10",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "SINH HỌC 10 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "sinh10_node_pmd",
+    "lessonId": null,
+    "parentNodeId": "root_sh10",
+    "nodeName": "PHẦN MỞ ĐẦU",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b1",
+    "lessonId": "sinh10_b1",
+    "parentNodeId": "sinh10_node_pmd",
+    "nodeName": "Bài 1: Giới thiệu khái quát môn Sinh học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b2",
+    "lessonId": "sinh10_b2",
+    "parentNodeId": "sinh10_node_pmd",
+    "nodeName": "Bài 2: Phương pháp nghiên cứu và học tập môn Sinh học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b3",
+    "lessonId": "sinh10_b3",
+    "parentNodeId": "sinh10_node_pmd",
+    "nodeName": "Bài 3: Các cấp độ tổ chức của thế giới sống",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_p1",
+    "lessonId": null,
+    "parentNodeId": "root_sh10",
+    "nodeName": "PHẦN MỘT: SINH HỌC TẾ BÀO",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p1",
+    "nodeName": "CHƯƠNG 1: THÀNH PHẦN HOÁ HỌC CỦA TẾ BÀO",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b4",
+    "lessonId": "sinh10_b4",
+    "parentNodeId": "sinh10_node_ch1",
+    "nodeName": "Bài 4: Các nguyên tố hoá học và nước",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b5",
+    "lessonId": "sinh10_b5",
+    "parentNodeId": "sinh10_node_ch1",
+    "nodeName": "Bài 5: Các phân tử sinh học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b6",
+    "lessonId": "sinh10_b6",
+    "parentNodeId": "sinh10_node_ch1",
+    "nodeName": "Bài 6: Thực hành: Nhận biết một số phân tử sinh học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p1",
+    "nodeName": "CHƯƠNG 2: CẤU TRÚC TẾ BÀO",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b7",
+    "lessonId": "sinh10_b7",
+    "parentNodeId": "sinh10_node_ch2",
+    "nodeName": "Bài 7: Tế bào nhân sơ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b8",
+    "lessonId": "sinh10_b8",
+    "parentNodeId": "sinh10_node_ch2",
+    "nodeName": "Bài 8: Tế bào nhân thực",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b9",
+    "lessonId": "sinh10_b9",
+    "parentNodeId": "sinh10_node_ch2",
+    "nodeName": "Bài 9: Thực hành: Quan sát tế bào",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p1",
+    "nodeName": "CHƯƠNG 3: TRAO ĐỔI CHẤT QUA MÀNG VÀ TRUYỀN TIN TẾ BÀO",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_b10",
+    "lessonId": "sinh10_b10",
+    "parentNodeId": "sinh10_node_ch3",
+    "nodeName": "Bài 10: Trao đổi chất qua màng tế bào",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b11",
+    "lessonId": "sinh10_b11",
+    "parentNodeId": "sinh10_node_ch3",
+    "nodeName": "Bài 11: Thực hành: Thí nghiệm co và phản co nguyên sinh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b12",
+    "lessonId": "sinh10_b12",
+    "parentNodeId": "sinh10_node_ch3",
+    "nodeName": "Bài 12: Truyền tin tế bào",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p1",
+    "nodeName": "CHƯƠNG 4: CHUYỂN HOÁ NĂNG LƯỢNG TRONG TẾ BÀO",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh10_node_b13",
+    "lessonId": "sinh10_b13",
+    "parentNodeId": "sinh10_node_ch4",
+    "nodeName": "Bài 13: Khái quát về chuyển hoá vật chất và năng lượng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b14",
+    "lessonId": "sinh10_b14",
+    "parentNodeId": "sinh10_node_ch4",
+    "nodeName": "Bài 14: Phân giải và tổng hợp các chất trong tế bào",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b15",
+    "lessonId": "sinh10_b15",
+    "parentNodeId": "sinh10_node_ch4",
+    "nodeName": "Bài 15: Thực hành: Thí nghiệm phân tích ảnh hưởng của một số yếu tố đến hoạt tính của enzyme và kiểm tra hoạt tính của enzyme amylase",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p1",
+    "nodeName": "CHƯƠNG 5: CHU KÌ TẾ BÀO VÀ PHÂN BÀO",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sinh10_node_b16",
+    "lessonId": "sinh10_b16",
+    "parentNodeId": "sinh10_node_ch5",
+    "nodeName": "Bài 16: Chu kì tế bào và nguyên phân",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b17",
+    "lessonId": "sinh10_b17",
+    "parentNodeId": "sinh10_node_ch5",
+    "nodeName": "Bài 17: Giảm phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b18",
+    "lessonId": "sinh10_b18",
+    "parentNodeId": "sinh10_node_ch5",
+    "nodeName": "Bài 18: Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_b19",
+    "lessonId": "sinh10_b19",
+    "parentNodeId": "sinh10_node_ch5",
+    "nodeName": "Bài 19: Công nghệ tế bào",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh10_node_p2",
+    "lessonId": null,
+    "parentNodeId": "root_sh10",
+    "nodeName": "PHẦN HAI: SINH HỌC VI SINH VẬT VÀ VIRUS",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p2",
+    "nodeName": "CHƯƠNG 6: SINH HỌC VI SINH VẬT",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b20",
+    "lessonId": "sinh10_b20",
+    "parentNodeId": "sinh10_node_ch6",
+    "nodeName": "Bài 20: Sự đa dạng và phương pháp nghiên cứu vi sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b21",
+    "lessonId": "sinh10_b21",
+    "parentNodeId": "sinh10_node_ch6",
+    "nodeName": "Bài 21: Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b22",
+    "lessonId": "sinh10_b22",
+    "parentNodeId": "sinh10_node_ch6",
+    "nodeName": "Bài 22: Vai trò và ứng dụng của vi sinh vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sinh10_node_b23",
+    "lessonId": "sinh10_b23",
+    "parentNodeId": "sinh10_node_ch6",
+    "nodeName": "Bài 23: Thực hành: Một số phương pháp nghiên cứu vi sinh vật thông dụng, tìm hiểu về các sản phẩm công nghệ vi sinh vật và làm một số sản phẩm lên men từ vi sinh vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sinh10_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "sinh10_node_p2",
+    "nodeName": "CHƯƠNG 7: VIRUS",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b24",
+    "lessonId": "sinh10_b24",
+    "parentNodeId": "sinh10_node_ch7",
+    "nodeName": "Bài 24: Khái quát về virus",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sinh10_node_b25",
+    "lessonId": "sinh10_b25",
+    "parentNodeId": "sinh10_node_ch7",
+    "nodeName": "Bài 25: Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sinh10_node_b26",
+    "lessonId": "sinh10_b26",
+    "parentNodeId": "sinh10_node_ch7",
+    "nodeName": "Bài 26: Thực hành: Điều tra một số bệnh do virus và tuyên truyền phòng chống bệnh",
+    "orderIndex": 3
+  }
+]

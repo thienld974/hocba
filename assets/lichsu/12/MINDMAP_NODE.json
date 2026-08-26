@@ -1,0 +1,170 @@
+[
+  {
+    "nodeId": "root_ls12",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "LỊCH SỬ 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "su12_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_ls12",
+    "nodeName": "Chủ đề 1: Thế giới trong và sau Chiến tranh lạnh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b1",
+    "lessonId": "su12_b1",
+    "parentNodeId": "su12_node_ch1",
+    "nodeName": "Bài 1: Liên hợp quốc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b2",
+    "lessonId": "su12_b2",
+    "parentNodeId": "su12_node_ch1",
+    "nodeName": "Bài 2: Trật tự thế giới trong Chiến tranh lạnh",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_b3",
+    "lessonId": "su12_b3",
+    "parentNodeId": "su12_node_ch1",
+    "nodeName": "Bài 3: Trật tự thế giới sau Chiến tranh lạnh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su12_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_ls12",
+    "nodeName": "Chủ đề 2: ASEAN: Những chặng đường lịch sử",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_b4",
+    "lessonId": "su12_b4",
+    "parentNodeId": "su12_node_ch2",
+    "nodeName": "Bài 4: Sự ra đời và phát triển của ASEAN",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b5",
+    "lessonId": "su12_b5",
+    "parentNodeId": "su12_node_ch2",
+    "nodeName": "Bài 5: Cộng đồng ASEAN: Từ ý tưởng đến hiện thực",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_ls12",
+    "nodeName": "Chủ đề 3: Cách mạng tháng Tám 1945 và các cuộc chiến tranh giải phóng, bảo vệ Tổ quốc",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su12_node_b6",
+    "lessonId": "su12_b6",
+    "parentNodeId": "su12_node_ch3",
+    "nodeName": "Bài 6: Cách mạng tháng Tám năm 1945",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b7",
+    "lessonId": "su12_b7",
+    "parentNodeId": "su12_node_ch3",
+    "nodeName": "Bài 7: Cuộc kháng chiến chống thực dân Pháp (1945 - 1954)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_b8",
+    "lessonId": "su12_b8",
+    "parentNodeId": "su12_node_ch3",
+    "nodeName": "Bài 8: Cuộc kháng chiến chống Mỹ, cứu nước (1954 - 1975)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su12_node_b9",
+    "lessonId": "su12_b9",
+    "parentNodeId": "su12_node_ch3",
+    "nodeName": "Bài 9: Cuộc đấu tranh bảo vệ Tổ quốc từ sau tháng 4-1975 đến nay",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "su12_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_ls12",
+    "nodeName": "Chủ đề 4: Công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "su12_node_b10",
+    "lessonId": "su12_b10",
+    "parentNodeId": "su12_node_ch4",
+    "nodeName": "Bài 10: Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b11",
+    "lessonId": "su12_b11",
+    "parentNodeId": "su12_node_ch4",
+    "nodeName": "Bài 11: Thành tựu cơ bản và bài học của công cuộc Đổi mới",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_ls12",
+    "nodeName": "Chủ đề 5: Lịch sử đối ngoại của Việt Nam thời cận - hiện đại",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "su12_node_b12",
+    "lessonId": "su12_b12",
+    "parentNodeId": "su12_node_ch5",
+    "nodeName": "Bài 12: Hoạt động đối ngoại trong đấu tranh giành độc lập (đầu thế kỉ XX - 1945)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b13",
+    "lessonId": "su12_b13",
+    "parentNodeId": "su12_node_ch5",
+    "nodeName": "Bài 13: Hoạt động đối ngoại trong hai cuộc kháng chiến (1945 - 1975)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_b14",
+    "lessonId": "su12_b14",
+    "parentNodeId": "su12_node_ch5",
+    "nodeName": "Bài 14: Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "su12_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_ls12",
+    "nodeName": "Chủ đề 6: Hồ Chí Minh trong lịch sử Việt Nam",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "su12_node_b15",
+    "lessonId": "su12_b15",
+    "parentNodeId": "su12_node_ch6",
+    "nodeName": "Bài 15: Khái quát cuộc đời và sự nghiệp của Hồ Chí Minh",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "su12_node_b16",
+    "lessonId": "su12_b16",
+    "parentNodeId": "su12_node_ch6",
+    "nodeName": "Bài 16: Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "su12_node_b17",
+    "lessonId": "su12_b17",
+    "parentNodeId": "su12_node_ch6",
+    "nodeName": "Bài 17: Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+    "orderIndex": 3
+  }
+]

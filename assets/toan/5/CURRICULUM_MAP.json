@@ -1,0 +1,602 @@
+[
+  {
+    "lessonId": "toan5_t1_b1",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 1,
+    "lessonContent": "- Chủ đề: Ôn tập số tự nhiên trong hệ thập phân.\n- Kiến thức trọng tâm:\n  + Cách đọc, viết các số tự nhiên.\n  + Xác định giá trị chữ số theo hàng và lớp (đơn vị, chục, trăm, nghìn, triệu...).\n  + So sánh và xếp thứ tự số tự nhiên.\n  + Quy tắc làm tròn số (đến hàng nghìn, chục nghìn...).\n- Từ khóa: số tự nhiên, hệ thập phân, hàng và lớp, làm tròn số."
+  },
+  {
+    "lessonId": "toan5_t1_b2",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 2,
+    "lessonContent": "- Chủ đề: Ôn tập bốn phép tính với số tự nhiên.\n- Kiến thức trọng tâm:\n  + Thực hiện phép cộng, trừ, nhân, chia số tự nhiên.\n  + Tính chất phép toán: giao hoán, kết hợp, phân phối.\n  + Tính giá trị biểu thức chứa chữ.\n  + Giải bài toán thực tế (trung bình cộng, tính tiền...).\n- Từ khóa: phép tính, tính chất giao hoán, kết hợp, biểu thức chứa chữ, toán trung bình cộng."
+  },
+  {
+    "lessonId": "toan5_t1_b3",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 3,
+    "lessonContent": "- Chủ đề: Ôn tập phân số.\n- Kiến thức trọng tâm:\n  + Khái niệm, cách đọc, viết phân số.\n  + Nhận biết các phân số bằng nhau.\n  + Rút gọn phân số và quy đồng mẫu số các phân số.\n  + So sánh phân số.\n- Từ khóa: phân số, phân số bằng nhau, rút gọn phân số, quy đồng mẫu số."
+  },
+  {
+    "lessonId": "toan5_t1_b4",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 4,
+    "lessonContent": "- Chủ đề: Phân số thập phân.\n- Kiến thức trọng tâm:\n  + Khái niệm phân số thập phân (mẫu số là 10, 100, 1000...).\n  + Đọc, viết phân số thập phân.\n  + Chuyển phân số thường thành phân số thập phân bằng cách nhân/chia tử số và mẫu số.\n- Từ khóa: phân số thập phân, mẫu số 10/100/1000, chuyển đổi phân số."
+  },
+  {
+    "lessonId": "toan5_t1_b5",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 5,
+    "lessonContent": "- Chủ đề: Ôn tập các phép tính với phân số.\n- Kiến thức trọng tâm:\n  + Cộng, trừ, nhân, chia phân số.\n  + Tính giá trị biểu thức phân số.\n  + Tính bằng cách thuận tiện dựa trên các tính chất phép tính.\n  + Giải toán thực tế liên quan phân số.\n- Từ khóa: phép tính phân số, biểu thức phân số, tính thuận tiện."
+  },
+  {
+    "lessonId": "toan5_t1_b6",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 6,
+    "lessonContent": "- Chủ đề: Cộng, trừ hai phân số cùng và khác mẫu số.\n- Kiến thức trọng tâm:\n  + Quy tắc cộng/trừ phân số cùng mẫu số.\n  + Quy đồng mẫu số trước khi cộng/trừ phân số khác mẫu số.\n  + Áp dụng tính lượng nước, chiều dài, diện tích trong thực tế.\n- Từ khóa: cộng trừ phân số, quy đồng mẫu số, toán thực tế."
+  },
+  {
+    "lessonId": "toan5_t1_b7",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 7,
+    "lessonContent": "- Chủ đề: Hỗn số.\n- Kiến thức trọng tâm:\n  + Cấu tạo hỗn số gồm 2 phần: phần nguyên (số tự nhiên) và phần phân số (bé hơn 1).\n  + Cách đọc, viết hỗn số; biểu diễn hỗn số trên tia số.\n  + Chuyển hỗn số thành phân số hoặc phân số thập phân.\n- Từ khóa: hỗn số, phần nguyên, phần phân số, tia số, chuyển đổi hỗn số."
+  },
+  {
+    "lessonId": "toan5_t1_b8",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 8,
+    "lessonContent": "- Chủ đề: Ôn tập hình học và đo lường.\n- Kiến thức trọng tâm:\n  + Nhận biết các hình phẳng đã học.\n  + Hệ thống đơn vị đo độ dài, khối lượng, diện tích, thời gian.\n  + Kỹ năng đổi số đo đại lượng và giải toán thực tế.\n- Từ khóa: hình phẳng, đơn vị đo độ dài, khối lượng, diện tích, đổi đơn vị đo."
+  },
+  {
+    "lessonId": "toan5_t1_b9",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 1: Ôn tập và bổ sung",
+    "lessonOrder": 9,
+    "lessonContent": "- Chủ đề: Luyện tập chung ôn tập bổ sung.\n- Kiến thức trọng tâm:\n  + Củng cố số tự nhiên, phân số, hỗn số, các phép tính.\n  + Giải toán thực tế tổng hợp.\n- Từ khóa: ôn tập tổng hợp, số học, hình học, toán thực tế."
+  },
+  {
+    "lessonId": "toan5_t1_b10",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 2: Số thập phân",
+    "lessonOrder": 10,
+    "lessonContent": "- Chủ đề: Khái niệm số thập phân.\n- Kiến thức trọng tâm:\n  + Cấu tạo số thập phân gồm: phần nguyên (bên trái) và phần thập phân (bên phải), ngăn cách bởi dấu phẩy.\n  + Xác định các hàng và giá trị chữ số.\n  + Đọc, viết số thập phân.\n  + Chuyển đổi giữa phân số thập phân, hỗn số và số thập phân.\n- Từ khóa: số thập phân, phần nguyên, phần thập phân, hàng số thập phân, chuyển đổi số."
+  },
+  {
+    "lessonId": "toan5_t1_b11",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 2: Số thập phân",
+    "lessonOrder": 11,
+    "lessonContent": "- Chủ đề: So sánh các số thập phân.\n- Kiến thức trọng tâm:\n  + Quy tắc so sánh: so sánh phần nguyên trước; nếu phần nguyên bằng nhau thì so sánh lần lượt các hàng phần mười, phần trăm, phần nghìn...\n  + Sắp xếp thứ tự nhóm số thập phân.\n  + Khái niệm số thập phân bằng nhau (thêm/bỏ chữ số 0 ở tận cùng bên phải phần thập phân).\n- Từ khóa: so sánh số thập phân, phần nguyên, phần mười, số thập phân bằng nhau."
+  },
+  {
+    "lessonId": "toan5_t1_b12",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 2: Số thập phân",
+    "lessonOrder": 12,
+    "lessonContent": "- Chủ đề: Viết số đo đại lượng dưới dạng số thập phân.\n- Kiến thức trọng tâm:\n  + Phương pháp chuyển đổi số đo độ dài, khối lượng, diện tích sang dạng số thập phân.\n  + Áp dụng chuyển đổi và tính chất số thập phân.\n- Từ khóa: số đo đại lượng, số thập phân, số đo độ dài, khối lượng, diện tích."
+  },
+  {
+    "lessonId": "toan5_t1_b13",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 2: Số thập phân",
+    "lessonOrder": 13,
+    "lessonContent": "- Chủ đề: Làm tròn số thập phân.\n- Kiến thức trọng tâm:\n  + Quy tắc làm tròn số thập phân đến số tự nhiên gần nhất, hàng phần mười, hàng phần trăm.\n  + So sánh chữ số ngay bên phải hàng cần làm tròn với số 5 để làm tròn lên hoặc làm tròn xuống.\n- Từ khóa: làm tròn số thập phân, số tự nhiên gần nhất, hàng phần mười, hàng phần trăm, làm tròn lên/xuống."
+  },
+  {
+    "lessonId": "toan5_t1_b14",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 2: Số thập phân",
+    "lessonOrder": 14,
+    "lessonContent": "- Chủ đề: Luyện tập chung về số thập phân.\n- Kiến thức trọng tâm:\n  + Đọc, viết, so sánh, làm tròn số thập phân.\n  + Chuyển đổi số đo đại lượng dưới dạng số thập phân.\n- Từ khóa: số thập phân tổng hợp, đọc viết, so sánh, làm tròn, chuyển đổi số đo."
+  },
+  {
+    "lessonId": "toan5_t1_b15",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 3: Một số đơn vị đo diện tích",
+    "lessonOrder": 15,
+    "lessonContent": "- Chủ đề: Ki-lô-mét vuông. Héc-ta.\n- Kiến thức trọng tâm:\n  + Nhận biết đơn vị đo diện tích ki-lô-mét vuông ($km^2$) và héc-ta ($ha$).\n  + Mối quan hệ giữa các đơn vị đo diện tích: $1\\text{ ha} = 10\\,000\\text{ }m^2$; $1\\text{ }km^2 = 100\\text{ ha} = 1\\,000\\,000\\text{ }m^2$.\n  + Thực hành đổi số đo diện tích và giải toán thực tế.\n- Từ khóa: ki-lô-mét vuông ($km^2$), héc-ta ($ha$), đơn vị đo diện tích, đổi đơn vị."
+  },
+  {
+    "lessonId": "toan5_t1_b16",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 3: Một số đơn vị đo diện tích",
+    "lessonOrder": 16,
+    "lessonContent": "- Chủ đề: Các đơn vị đo diện tích.\n- Kiến thức trọng tâm:\n  + Bảng đơn vị đo diện tích đã học ($km^2, ha, dam^2, m^2, dm^2, cm^2, mm^2$).\n  + Mối quan hệ giữa các đơn vị đo diện tích liền kề (gấp kém nhau 100 lần).\n  + Viết số đo diện tích dưới dạng số thập phân.\n- Từ khóa: bảng đơn vị đo diện tích, đơn vị liền kề, số thập phân."
+  },
+  {
+    "lessonId": "toan5_t1_b17",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 3: Một số đơn vị đo diện tích",
+    "lessonOrder": 17,
+    "lessonContent": "- Chủ đề: Thực hành trải nghiệm đo đại lượng.\n- Kiến thức trọng tâm:\n  + Đo đạc thực tế (kích thước lớp học, sân trường, khu đất).\n  + Tính toán diện tích thực tế và ước lượng diện tích.\n- Từ khóa: thực hành đo đạc, đo diện tích thực tế, ước lượng diện tích."
+  },
+  {
+    "lessonId": "toan5_t1_b18",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 3: Một số đơn vị đo diện tích",
+    "lessonOrder": 18,
+    "lessonContent": "- Chủ đề: Luyện tập chung về diện tích.\n- Kiến thức trọng tâm:\n  + Đổi đơn vị đo diện tích.\n  + Giải toán thực tế diện tích ruộng đất, rừng, công trình.\n- Từ khóa: đổi đơn vị đo diện tích, giải toán diện tích thực tế."
+  },
+  {
+    "lessonId": "toan5_t1_b19",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 4: Các phép tính với số thập phân",
+    "lessonOrder": 19,
+    "lessonContent": "- Chủ đề: Phép cộng số thập phân.\n- Kiến thức trọng tâm:\n  + Quy tắc đặt tính và tính cộng số thập phân (dấu phẩy thẳng hàng, chữ số cùng hàng thẳng cột).\n  + Tính chất giao hoán, kết hợp của phép cộng số thập phân.\n  + Giải bài toán thực tế liên quan.\n- Từ khóa: đặt tính phép cộng, số thập phân, tính chất giao hoán, tính chất kết hợp."
+  },
+  {
+    "lessonId": "toan5_t1_b20",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 4: Các phép tính với số thập phân",
+    "lessonOrder": 20,
+    "lessonContent": "- Chủ đề: Phép trừ số thập phân.\n- Kiến thức trọng tâm:\n  + Quy tắc đặt tính và tính trừ số thập phân (dấu phẩy thẳng hàng, thêm chữ số 0 vào bên phải phần thập phân của số bị trừ nếu cần).\n  + Tìm hiệu hai số thập phân, giải toán thực tế.\n- Từ khóa: phép trừ số thập phân, đặt tính phép trừ, toán thực tế."
+  },
+  {
+    "lessonId": "toan5_t1_b21",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 4: Các phép tính với số thập phân",
+    "lessonOrder": 21,
+    "lessonContent": "- Chủ đề: Phép nhân số thập phân.\n- Kiến thức trọng tâm:\n  + Nhân một số thập phân với một số tự nhiên.\n  + Nhân một số thập phân với một số thập phân: thực hiện như nhân số tự nhiên rồi đếm số chữ số thập phân của cả hai thừa số để đặt dấu phẩy ở tích từ phải sang trái.\n  + Tính chất phép nhân số thập phân, giải toán thực tế.\n- Từ khóa: nhân số thập phân, đặt dấu phẩy tích, tính chất phép nhân, giải toán thực tế."
+  },
+  {
+    "lessonId": "toan5_t1_b22",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 4: Các phép tính với số thập phân",
+    "lessonOrder": 22,
+    "lessonContent": "- Chủ đề: Phép chia số thập phân.\n- Kiến thức trọng tâm:\n  + Chia số thập phân cho số tự nhiên.\n  + Chia số tự nhiên cho số tự nhiên thương là số thập phân.\n  + Chia số tự nhiên cho số thập phân.\n  + Chia số thập phân cho số thập phân.\n- Từ khóa: phép chia số thập phân, chia số tự nhiên, thương thập phân, đặt tính phép chia."
+  },
+  {
+    "lessonId": "toan5_t1_b23",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 4: Các phép tính với số thập phân",
+    "lessonOrder": 23,
+    "lessonContent": "- Chủ đề: Nhân, chia số thập phân nhẩm nhanh.\n- Kiến thức trọng tâm:\n  + Nhân với 10, 100, 1000... hoặc chia cho 0,1; 0,01; 0,001...: dịch dấu phẩy sang bên phải.\n  + Chia cho 10, 100, 1000... hoặc nhân với 0,1; 0,01; 0,001...: dịch dấu phẩy sang bên trái.\n- Từ khóa: tính nhẩm, dịch dấu phẩy, nhân chia số thập phân nhẩm."
+  },
+  {
+    "lessonId": "toan5_t1_b24",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 4: Các phép tính với số thập phân",
+    "lessonOrder": 24,
+    "lessonContent": "- Chủ đề: Luyện tập chung phép tính số thập phân.\n- Kiến thức trọng tâm:\n  + Phối hợp cộng, trừ, nhân, chia số thập phân.\n  + Tính giá trị biểu thức và giải toán thực tế phức hợp.\n- Từ khóa: phối hợp phép tính, biểu thức số thập phân, giải toán thực tế phức hợp."
+  },
+  {
+    "lessonId": "toan5_t1_b25",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
+    "lessonOrder": 25,
+    "lessonContent": "- Chủ đề: Hình tam giác. Diện tích hình tam giác.\n- Kiến thức trọng tâm:\n  + Nhận biết đáy, đường cao, chiều cao của hình tam giác.\n  + Công thức diện tích hình tam giác: $S = \\frac{a \\times h}{2}$ ($a$ là độ dài đáy, $h$ là chiều cao tương ứng - cùng đơn vị đo).\n  + Giải bài toán thực tế (tính diện tích đất hình tam giác).\n- Từ khóa: hình tam giác, đường cao, chiều cao, diện tích hình tam giác."
+  },
+  {
+    "lessonId": "toan5_t1_b26",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
+    "lessonOrder": 26,
+    "lessonContent": "- Chủ đề: Hình thang. Diện tích hình thang.\n- Kiến thức trọng tâm:\n  + Nhận biết hình thang (hai cạnh đáy song song, hai cạnh bên, chiều cao).\n  + Công thức diện tích hình thang: $S = \\frac{(a + b) \\times h}{2}$ ($a, b$ là hai đáy, $h$ là chiều cao).\n  + Giải toán thực tế tính diện tích ruộng, ao hình thang.\n- Từ khóa: hình thang, cạnh đáy, chiều cao hình thang, diện tích hình thang."
+  },
+  {
+    "lessonId": "toan5_t1_b27",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
+    "lessonOrder": 27,
+    "lessonContent": "- Chủ đề: Đường tròn. Chu vi và diện tích hình tròn.\n- Kiến thức trọng tâm:\n  + Nhận biết tâm, bán kính ($r$), đường kính ($d$) của hình tròn.\n  + Công thức chu vi hình tròn: $C = d \\times 3,14$ hoặc $C = r \\times 2 \\times 3,14$.\n  + Công thức diện tích hình tròn: $S = r \\times r \\times 3,14$.\n  + Giải toán thực tế chu vi bánh xe, diện tích mặt bàn.\n- Từ khóa: hình tròn, đường tròn, tâm, bán kính, chu vi hình tròn, diện tích hình tròn."
+  },
+  {
+    "lessonId": "toan5_t1_b28",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
+    "lessonOrder": 28,
+    "lessonContent": "- Chủ đề: Thực hành vẽ, lắp ghép tạo hình phẳng.\n- Kiến thức trọng tâm:\n  + Vẽ hình tam giác, hình thang, hình tròn bằng dụng cụ.\n  + Cắt dán, lắp ghép hình phẳng tạo mô hình hoặc hình nghệ thuật.\n- Từ khóa: thực hành vẽ hình, lắp ghép hình, cắt dán hình phẳng."
+  },
+  {
+    "lessonId": "toan5_t1_b29",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
+    "lessonOrder": 29,
+    "lessonContent": "- Chủ đề: Luyện tập chung về chu vi và diện tích hình phẳng.\n- Kiến thức trọng tâm:\n  + Củng cố công thức tính chu vi, diện tích tam giác, hình thang, hình tròn.\n  + Giải các bài toán thực tế phức hợp kết hợp nhiều hình.\n- Từ khóa: chu vi tổng hợp, diện tích tổng hợp, bài toán phức hợp hình học."
+  },
+  {
+    "lessonId": "toan5_t1_b30",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 6: Ôn tập học kì 1",
+    "lessonOrder": 30,
+    "lessonContent": "- Chủ đề: Ôn tập số thập phân học kì 1.\n- Kiến thức trọng tâm:\n  + Ôn tập cấu tạo, cách đọc, viết, xác định hàng số thập phân.\n  + So sánh và làm tròn số thập phân.\n- Từ khóa: ôn tập số thập phân, cấu tạo số, so sánh, làm tròn số."
+  },
+  {
+    "lessonId": "toan5_t1_b31",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 6: Ôn tập học kì 1",
+    "lessonOrder": 31,
+    "lessonContent": "- Chủ đề: Ôn tập phép tính với số thập phân học kì 1.\n- Kiến thức trọng tâm:\n  + Thực hiện bốn phép tính cộng, trừ, nhân, chia số thập phân.\n  + Tính nhẩm, tính biểu thức, tính bằng cách thuận tiện.\n- Từ khóa: phép tính số thập phân, biểu thức số thập phân, tính thuận tiện học kì 1."
+  },
+  {
+    "lessonId": "toan5_t1_b32",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 6: Ôn tập học kì 1",
+    "lessonOrder": 32,
+    "lessonContent": "- Chủ đề: Ôn tập nhận biết một số hình phẳng.\n- Kiến thức trọng tâm:\n  + Nhận diện các đặc điểm hình học của hình tam giác, hình thang, hình tròn, đường tròn.\n- Từ khóa: nhận diện hình tam giác, hình thang, hình tròn, đặc điểm hình học."
+  },
+  {
+    "lessonId": "toan5_t1_b33",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 6: Ôn tập học kì 1",
+    "lessonOrder": 33,
+    "lessonContent": "- Chủ đề: Ôn tập chu vi, diện tích một số hình phẳng.\n- Kiến thức trọng tâm:\n  + Ôn tập công thức tính chu vi, diện tích tam giác, hình thang, hình tròn.\n  + Giải bài toán thực tế có lời văn liên quan.\n- Từ khóa: chu vi diện tích hình phẳng, công thức hình học, toán thực tế."
+  },
+  {
+    "lessonId": "toan5_t1_b34",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 6: Ôn tập học kì 1",
+    "lessonOrder": 34,
+    "lessonContent": "- Chủ đề: Ôn tập đo lường học kì 1.\n- Kiến thức trọng tâm:\n  + Chuyển đổi số đo đại lượng: độ dài, khối lượng, diện tích.\n  + Tính toán đo lường trong bài toán thực tế.\n- Từ khóa: ôn tập đo lường, chuyển đổi số đo, tính toán đại lượng học kì 1."
+  },
+  {
+    "lessonId": "toan5_t1_b35",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 6: Ôn tập học kì 1",
+    "lessonOrder": 35,
+    "lessonContent": "- Chủ đề: Ôn tập tổng hợp cuối học kì 1.\n- Kiến thức trọng tâm:\n  + Đánh giá tổng hợp kiến thức số học, hình học, đo lường.\n  + Giải bài toán thực tế phức hợp học kì 1.\n- Từ khóa: ôn tập chung học kì 1, kiểm tra số học, đo lường, hình học."
+  },
+  {
+    "lessonId": "toan5_t2_b36",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 36,
+    "lessonContent": "- Chủ đề: Tỉ số. Tỉ số phần trăm.\n- Kiến thức trọng tâm:\n  + Khái niệm tỉ số của hai số $a$ và $b$ ($a:b$ hoặc $\\frac{a}{b}$ với $b \\neq 0$).\n  + Khái niệm tỉ số phần trăm và cách viết tỉ số dưới dạng tỉ số phần trăm.\n- Từ khóa: tỉ số, tỉ số phần trăm, ký hiệu %."
+  },
+  {
+    "lessonId": "toan5_t2_b37",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 37,
+    "lessonContent": "- Chủ đề: Tỉ lệ bản đồ và ứng dụng.\n- Kiến thức trọng tâm:\n  + Định nghĩa tỉ lệ bản đồ.\n  + Cách tính độ dài thật ngoài thực tế = độ dài trên bản đồ $\\times$ mẫu số tỉ lệ.\n  + Tính độ dài trên bản đồ = độ dài thật ngoài thực tế $/$ mẫu số tỉ lệ.\n- Từ khóa: tỉ lệ bản đồ, độ dài thực tế, độ dài trên bản đồ."
+  },
+  {
+    "lessonId": "toan5_t2_b38",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 38,
+    "lessonContent": "- Chủ đề: Tìm hai số khi biết tổng và tỉ số.\n- Kiến thức trọng tâm:\n  + Các bước giải dạng toán 'Tổng - Tỉ': Vẽ sơ đồ đoạn thẳng -> Tính tổng số phần bằng nhau -> Tìm giá trị của một phần -> Tính số lớn và số bé.\n- Từ khóa: dạng toán tổng tỉ, tổng số phần, giá trị một phần, số bé, số lớn."
+  },
+  {
+    "lessonId": "toan5_t2_b39",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 39,
+    "lessonContent": "- Chủ đề: Tìm hai số khi biết hiệu và tỉ số.\n- Kiến thức trọng tâm:\n  + Các bước giải dạng toán 'Hiệu - Tỉ': Vẽ sơ đồ đoạn thẳng -> Tính hiệu số phần bằng nhau -> Tìm giá trị của một phần -> Tính số lớn và số bé.\n- Từ khóa: dạng toán hiệu tỉ, hiệu số phần, giá trị một phần, số bé, số lớn."
+  },
+  {
+    "lessonId": "toan5_t2_b40",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 40,
+    "lessonContent": "- Chủ đề: Tìm tỉ số phần trăm của hai số.\n- Kiến thức trọng tâm:\n  + Phương pháp: chia số $a$ cho số $b$ tìm thương -> nhân thương đó với 100 rồi viết thêm kí hiệu % vào bên phải.\n  + Giải toán thực tế (tỉ lệ học sinh tham gia, tỉ lệ sản phẩm đạt chuẩn).\n- Từ khóa: tìm tỉ số phần trăm, thương, ký hiệu %."
+  },
+  {
+    "lessonId": "toan5_t2_b41",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 41,
+    "lessonContent": "- Chủ đề: Tìm giá trị phần trăm của một số.\n- Kiến thức trọng tâm:\n  + Phương pháp: muốn tìm $a\\%$ của số $B$, lấy $B : 100 \\times a$ hoặc $B \\times a : 100$.\n  + Giải bài toán thực tế (tính tiền lãi, thuế, hao hụt).\n- Từ khóa: tìm giá trị phần trăm, tính tiền lãi, tính thuế."
+  },
+  {
+    "lessonId": "toan5_t2_b42",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 42,
+    "lessonContent": "- Chủ đề: Máy tính cầm tay.\n- Kiến thức trọng tâm:\n  + Tìm hiểu các phím chức năng cơ bản: ON/AC (bật), OFF (tắt), các phím số 0-9, các phím phép tính (+, -, *, /), phím =, CE (xóa), %.\n  + Thực hành thực hiện phép tính và tính tỉ số phần trăm bằng máy tính.\n- Từ khóa: máy tính cầm tay, phím chức năng, tính tỉ số phần trăm."
+  },
+  {
+    "lessonId": "toan5_t2_b43",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 43,
+    "lessonContent": "- Chủ đề: Thực hành trải nghiệm sử dụng máy tính cầm tay.\n- Kiến thức trọng tâm:\n  + Áp dụng máy tính xử lý phép tính phức tạp.\n  + Tính tỉ lệ phần trăm số liệu thực tế đời sống.\n- Từ khóa: thực hành máy tính, phép tính phức tạp, tỉ lệ số liệu thực tế."
+  },
+  {
+    "lessonId": "toan5_t2_b44",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+    "lessonOrder": 44,
+    "lessonContent": "- Chủ đề: Luyện tập chung về tỉ số và tỉ lệ.\n- Kiến thức trọng tâm:\n  + Củng cố tỉ số, tỉ số phần trăm, tỉ lệ bản đồ.\n  + Giải toán Tổng-Tỉ, Hiệu-Tỉ, tìm tỉ số phần trăm.\n- Từ khóa: ôn tập tỉ số, tỉ số phần trăm, tỉ lệ bản đồ, tổng tỉ, hiệu tỉ."
+  },
+  {
+    "lessonId": "toan5_t2_b45",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+    "lessonOrder": 45,
+    "lessonContent": "- Chủ đề: Thể tích của một hình.\n- Kiến thức trọng tâm:\n  + Khái niệm thể tích của một hình (khoảng không gian hình đó chiếm).\n  + So sánh thể tích các hình bằng trực quan hoặc đếm khối lập phương đơn vị.\n- Từ khóa: thể tích hình, so sánh thể tích, khối lập phương đơn vị."
+  },
+  {
+    "lessonId": "toan5_t2_b46",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+    "lessonOrder": 46,
+    "lessonContent": "- Chủ đề: Xăng-ti-mét khối. Đề-xi-mét khối.\n- Kiến thức trọng tâm:\n  + Đơn vị đo thể tích xăng-ti-mét khối ($cm^3$) và đề-xi-mét khối ($dm^3$).\n  + Mối quan hệ: $1\\text{ }dm^3 = 1000\\text{ }cm^3$.\n  + Cách viết, đọc, chuyển đổi và tính toán với hai đơn vị này.\n- Từ khóa: xăng-ti-mét khối ($cm^3$), đề-xi-mét khối ($dm^3$), đổi đơn vị thể tích."
+  },
+  {
+    "lessonId": "toan5_t2_b47",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+    "lessonOrder": 47,
+    "lessonContent": "- Chủ đề: Mét khối.\n- Kiến thức trọng tâm:\n  + Đơn vị đo thể tích mét khối ($m^3$).\n  + Mối quan hệ: $1\\text{ }m^3 = 1000\\text{ }dm^3 = 1\\,000\\,000\\text{ }cm^3$.\n  + Thực hành đọc, viết, chuyển đổi số đo thể tích liên quan đến mét khối.\n- Từ khóa: mét khối ($m^3$), quan hệ đơn vị đo thể tích, đổi đơn vị mét khối."
+  },
+  {
+    "lessonId": "toan5_t2_b48",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+    "lessonOrder": 48,
+    "lessonContent": "- Chủ đề: Luyện tập chung về đơn vị đo thể tích.\n- Kiến thức trọng tâm:\n  + So sánh thể tích.\n  + Đổi đơn vị đo thể tích dưới dạng số thập phân và giải toán thực tế.\n- Từ khóa: ôn tập thể tích, so sánh thể tích, đổi số thập phân thể tích."
+  },
+  {
+    "lessonId": "toan5_t2_b49",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 49,
+    "lessonContent": "- Chủ đề: Hình khai triển của các hình khối.\n- Kiến thức trọng tâm:\n  + Nhận biết hình dạng mặt phẳng khai triển của hình hộp chữ nhật, hình lập phương, hình trụ.\n  + Cách ghép nối các mặt phẳng tạo thành hình khối tương ứng.\n- Từ khóa: hình khai triển, hình hộp chữ nhật, hình lập phương, hình trụ, lắp ghép hình."
+  },
+  {
+    "lessonId": "toan5_t2_b50",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 50,
+    "lessonContent": "- Chủ đề: Diện tích xung quanh và diện tích toàn phần hình hộp chữ nhật.\n- Kiến thức trọng tâm:\n  + Diện tích xung quanh $S_{xq} = P_{\\text{đáy}} \\times h$ (chu vi đáy nhân với chiều cao - cùng đơn vị đo).\n  + Diện tích toàn phần $S_{tp} = S_{xq} + 2 \\times S_{\\text{đáy}}$ (diện tích xung quanh cộng 2 lần diện tích đáy).\n  + Áp dụng giải toán quét sơn cái hộp, căn phòng.\n- Từ khóa: diện tích xung quanh, diện tích toàn phần, hình hộp chữ nhật, quét sơn."
+  },
+  {
+    "lessonId": "toan5_t2_b51",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 51,
+    "lessonContent": "- Chủ đề: Diện tích xung quanh và diện tích toàn phần hình lập phương.\n- Kiến thức trọng tâm:\n  + Diện tích xung quanh $S_{xq} = a \\times a \\times 4$ (diện tích một mặt nhân với 4).\n  + Diện tích toàn phần $S_{tp} = a \\times a \\times 6$ (diện tích một mặt nhân với 6).\n  + Giải bài toán thực tế liên quan.\n- Từ khóa: hình lập phương, diện tích xung quanh, diện tích toàn phần, diện tích một mặt."
+  },
+  {
+    "lessonId": "toan5_t2_b52",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 52,
+    "lessonContent": "- Chủ đề: Thể tích hình hộp chữ nhật.\n- Kiến thức trọng tâm:\n  + Công thức thể tích hình hộp chữ nhật: $V = a \\times b \\times c$ ($a$: chiều dài, $b$: chiều rộng, $c$: chiều cao - cùng đơn vị đo).\n  + Giải toán thể tích thùng chứa, bể nước.\n- Từ khóa: thể tích hình hộp chữ nhật, công thức $V = a \\times b \\times c$, thể tích bể nước."
+  },
+  {
+    "lessonId": "toan5_t2_b53",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 53,
+    "lessonContent": "- Chủ đề: Thể tích hình lập phương.\n- Kiến thức trọng tâm:\n  + Công thức thể tích hình lập phương: $V = a \\times a \\times a$ ($a$ là độ dài cạnh).\n  + Giải toán thực tế thể tích khối gỗ, thùng chứa lập phương.\n- Từ khóa: thể tích hình lập phương, công thức $V = a \\times a \\times a$, thể tích khối gỗ."
+  },
+  {
+    "lessonId": "toan5_t2_b54",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 54,
+    "lessonContent": "- Chủ đề: Thực hành đo đạc và ước lượng thể tích hình khối.\n- Kiến thức trọng tâm:\n  + Đo kích thước thực tế của đồ vật hình hộp chữ nhật, lập phương xung quanh.\n  + Tính toán diện tích, thể tích và rèn kỹ năng ước lượng.\n- Từ khóa: thực hành đo đạc, tính thể tích đồ vật, ước lượng thể tích."
+  },
+  {
+    "lessonId": "toan5_t2_b55",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+    "lessonOrder": 55,
+    "lessonContent": "- Chủ đề: Luyện tập chung diện tích và thể tích hình khối.\n- Kiến thức trọng tâm:\n  + Củng cố công thức $S_{xq}, S_{tp}, V$ của hình hộp chữ nhật và hình lập phương.\n  + Giải toán thực tế phức hợp (thể tích nước trong bể, thể tích đất đào...).\n- Từ khóa: diện tích hình khối, thể tích hình khối, giải toán bể nước, toán thực tế phức hợp."
+  },
+  {
+    "lessonId": "toan5_t2_b56",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 56,
+    "lessonContent": "- Chủ đề: Các đơn vị đo thời gian.\n- Kiến thức trọng tâm:\n  + Hệ thống bảng đơn vị đo thời gian đã học (thế kỷ, năm, tháng, tuần, ngày, giờ, phút, giây).\n  + Quy đổi đơn vị đo thời gian dưới dạng phân số, hỗn số hoặc số thập phân.\n- Từ khóa: bảng đơn vị đo thời gian, thế kỷ, năm nhuận, đổi đơn vị thời gian."
+  },
+  {
+    "lessonId": "toan5_t2_b57",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 57,
+    "lessonContent": "- Chủ đề: Cộng, trừ số đo thời gian.\n- Kiến thức trọng tâm:\n  + Cách đặt tính và thực hiện phép cộng, trừ số đo thời gian.\n  + Kỹ thuật đổi đơn vị lớn hơn khi cộng dư vượt giới hạn hoặc quy đổi mượn đơn vị khi trừ.\n- Từ khóa: đặt tính cộng thời gian, phép trừ thời gian, quy đổi đơn vị thời gian."
+  },
+  {
+    "lessonId": "toan5_t2_b58",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 58,
+    "lessonContent": "- Chủ đề: Nhân, chia số đo thời gian với một số.\n- Kiến thức trọng tâm:\n  + Nhân số đo thời gian với số tự nhiên: nhân từng loại đơn vị rồi quy đổi lớn hơn nếu cần.\n  + Chia số đo thời gian cho số tự nhiên: chia từ đơn vị lớn, phần dư chuyển đổi sang đơn vị nhỏ liền kề rồi cộng tiếp để chia.\n- Từ khóa: nhân số đo thời gian, chia số đo thời gian, quy đổi phần dư."
+  },
+  {
+    "lessonId": "toan5_t2_b59",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 59,
+    "lessonContent": "- Chủ đề: Vận tốc của chuyển động đều.\n- Kiến thức trọng tâm:\n  + Khái niệm vận tốc.\n  + Công thức tính vận tốc: $v = s : t$ ($v$: vận tốc, $s$: quãng đường, $t$: thời gian).\n  + Nhận biết các đơn vị đo vận tốc phổ biến ($km/h, m/s$).\n  + Tính vận tốc xe máy, ô tô, người đi bộ.\n- Từ khóa: vận tốc chuyển động đều, công thức $v = s : t$, đơn vị vận tốc $km/h, m/s$."
+  },
+  {
+    "lessonId": "toan5_t2_b60",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 60,
+    "lessonContent": "- Chủ đề: Quãng đường, thời gian chuyển động đều.\n- Kiến thức trọng tâm:\n  + Công thức quãng đường: $s = v \\times t$ (vận tốc nhân thời gian).\n  + Công thức thời gian: $t = s : v$ (quãng đường chia vận tốc).\n  + Lưu ý: Quy đổi đơn vị quãng đường, vận tốc, thời gian cho đồng bộ trước khi tính toán.\n- Từ khóa: tính quãng đường $s = v \\times t$, tính thời gian $t = s : v$, đồng bộ đơn vị."
+  },
+  {
+    "lessonId": "toan5_t2_b61",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 61,
+    "lessonContent": "- Chủ đề: Thực hành đo đạc tính toán chuyển động đều.\n- Kiến thức trọng tâm:\n  + Đo quãng đường và thời gian di chuyển (đi bộ, đi xe đạp) tính vận tốc thực tế.\n  + Thực hành ước lượng thời gian đi học, quãng đường đi xe.\n- Từ khóa: thực hành đo quãng đường, tính vận tốc thực tế, ước lượng thời gian."
+  },
+  {
+    "lessonId": "toan5_t2_b62",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+    "lessonOrder": 62,
+    "lessonContent": "- Chủ đề: Luyện tập chung chuyển động đều.\n- Kiến thức trọng tâm:\n  + Củng cố công thức chuyển động đều ($s, v, t$).\n  + Giải phép tính liên quan thời gian và chuyển động đều.\n- Từ khóa: bài toán chuyển động đều, công thức quãng đường, thời gian, vận tốc."
+  },
+  {
+    "lessonId": "toan5_t2_b63",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
+    "lessonOrder": 63,
+    "lessonContent": "- Chủ đề: Thu thập, phân loại, sắp xếp số liệu.\n- Kiến thức trọng tâm:\n  + Phương pháp thu thập dữ liệu.\n  + Phân loại số liệu thu thập theo các tiêu chí xác định.\n  + Sắp xếp và tổ chức số liệu vào bảng số liệu thống kê.\n- Từ khóa: thu thập dữ liệu, phân loại số liệu, bảng số liệu thống kê."
+  },
+  {
+    "lessonId": "toan5_t2_b64",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
+    "lessonOrder": 64,
+    "lessonContent": "- Chủ đề: Biểu đồ hình quạt tròn.\n- Kiến thức trọng tâm:\n  + Nhận biết biểu đồ hình quạt tròn.\n  + Đọc và phân tích thông tin tỉ lệ phần trăm các thành phần trong biểu đồ.\n  + Giải bài toán liên quan số liệu biểu đồ.\n- Từ khóa: biểu đồ hình quạt tròn, phân tích tỉ lệ %, phân tích số liệu."
+  },
+  {
+    "lessonId": "toan5_t2_b65",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
+    "lessonOrder": 65,
+    "lessonContent": "- Chủ đề: Tỉ số lần lặp lại một sự kiện.\n- Kiến thức trọng tâm:\n  + Định nghĩa tỉ số của số lần lặp lại sự kiện so với tổng số lần thực hiện thực nghiệm (gieo đồng xu, gieo xúc xắc...).\n  + Tính toán, so sánh tỉ số dưới dạng phân số hoặc tỉ số phần trăm.\n- Từ khóa: xác suất thực nghiệm, số lần lặp lại sự kiện, tổng số lần thực nghiệm, tỉ số."
+  },
+  {
+    "lessonId": "toan5_t2_b66",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
+    "lessonOrder": 66,
+    "lessonContent": "- Chủ đề: Thực hành trải nghiệm thu thập biểu diễn số liệu.\n- Kiến thức trọng tâm:\n  + Thực nghiệm thực tế: gieo xúc xắc, gieo đồng xu, quay vòng quay may mắn.\n  + Kiểm đếm và lập bảng thống kê số liệu thực nghiệm.\n- Từ khóa: thực nghiệm thống kê, kiểm đếm, bảng số liệu thực nghiệm, xác suất thực tế."
+  },
+  {
+    "lessonId": "toan5_t2_b67",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
+    "lessonOrder": 67,
+    "lessonContent": "- Chủ đề: Luyện tập chung về thống kê và xác suất.\n- Kiến thức trọng tâm:\n  + Ôn tập đọc bảng số liệu, biểu đồ quạt tròn.\n  + Tính tỉ số lần lặp lại sự kiện thực nghiệm.\n- Từ khóa: tổng ôn thống kê, biểu đồ quạt tròn, xác suất thực nghiệm."
+  },
+  {
+    "lessonId": "toan5_t2_b68",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 68,
+    "lessonContent": "- Chủ đề: Ôn tập các loại số đã học.\n- Kiến thức trọng tâm:\n  + Hệ thống hóa cách đọc, viết, cấu tạo, so sánh, xếp thứ tự, làm tròn.\n  + Áp dụng với: số tự nhiên, phân số, hỗn số, số thập phân.\n- Từ khóa: ôn tập hệ thống số, số tự nhiên, phân số, hỗn số, số thập phân, so sánh số."
+  },
+  {
+    "lessonId": "toan5_t2_b69",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 69,
+    "lessonContent": "- Chủ đề: Ôn tập phép tính cuối năm.\n- Kiến thức trọng tâm:\n  + Thực hiện phép cộng, trừ, nhân, chia.\n  + Tính giá trị biểu thức, tính bằng cách thuận tiện.\n  + Giải toán có lời văn phối hợp nhiều loại số đã học.\n- Từ khóa: ôn tập bốn phép tính, tính thuận tiện, toán có lời văn cuối năm."
+  },
+  {
+    "lessonId": "toan5_t2_b70",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 70,
+    "lessonContent": "- Chủ đề: Ôn tập tỉ số, tỉ số phần trăm.\n- Kiến thức trọng tâm:\n  + Ôn tập giải toán về tỉ số, tỉ lệ bản đồ.\n  + Giải bài toán thực tế tỉ số phần trăm (tìm tỉ số phần trăm, tìm giá trị phần trăm), bài toán Tổng-Tỉ, Hiệu-Tỉ.\n- Từ khóa: ôn tập tỉ số, tỉ số phần trăm, tổng tỉ, hiệu tỉ, tỉ lệ bản đồ cuối năm."
+  },
+  {
+    "lessonId": "toan5_t2_b71",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 71,
+    "lessonContent": "- Chủ đề: Ôn tập hình học cuối năm.\n- Kiến thức trọng tâm:\n  + Nhận diện hình phẳng (tam giác, hình thang, hình tròn) và hình khối (hình hộp chữ nhật, lập phương).\n  + Củng cố công thức tính chu vi, diện tích hình phẳng, diện tích xung quanh, diện tích toàn phần, thể tích hình khối.\n- Từ khóa: tổng ôn hình học, chu vi hình phẳng, diện tích hình phẳng, diện tích xung quanh, thể tích hình khối."
+  },
+  {
+    "lessonId": "toan5_t2_b72",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 72,
+    "lessonContent": "- Chủ đề: Ôn tập đo lường cuối năm.\n- Kiến thức trọng tâm:\n  + Đổi đơn vị đo và tính toán với các số đo đại lượng: độ dài, khối lượng, diện tích, thể tích, thời gian.\n- Từ khóa: tổng ôn đo lường, đổi đơn vị đo, tính toán đại lượng cuối năm."
+  },
+  {
+    "lessonId": "toan5_t2_b73",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 73,
+    "lessonContent": "- Chủ đề: Ôn tập toán chuyển động đều cuối năm.\n- Kiến thức trọng tâm:\n  + Tổng hợp các dạng chuyển động đều phổ biến: chuyển động của một vật, chuyển động ngược chiều gặp nhau, chuyển động cùng chiều đuổi nhau, chuyển động trên dòng nước.\n- Từ khóa: ôn tập chuyển động đều, chuyển động ngược chiều, chuyển động cùng chiều, chuyển động dòng nước."
+  },
+  {
+    "lessonId": "toan5_t2_b74",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 74,
+    "lessonContent": "- Chủ đề: Ôn tập thống kê và xác suất cuối năm.\n- Kiến thức trọng tâm:\n  + Kỹ năng đọc bảng số liệu, biểu đồ quạt tròn.\n  + Tính tỉ số số lần lặp lại sự kiện của thực nghiệm (gieo xúc xắc, gieo đồng xu).\n- Từ khóa: ôn tập thống kê, đọc bảng số liệu, biểu đồ quạt tròn, xác suất thực nghiệm cuối năm."
+  },
+  {
+    "lessonId": "toan5_t2_b75",
+    "grade": 5,
+    "subject": "Toán",
+    "chapterName": "Chủ đề 12: Ôn tập cuối năm",
+    "lessonOrder": 75,
+    "lessonContent": "- Chủ đề: Ôn tập tổng hợp cuối năm.\n- Kiến thức trọng tâm:\n  + Bài tập tổng hợp đánh giá toàn diện năng lực Toán học lớp 5.\n- Từ khóa: ôn tập chung cả năm, tự đánh giá năng lực Toán 5."
+  }
+]

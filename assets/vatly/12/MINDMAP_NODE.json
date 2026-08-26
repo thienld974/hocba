@@ -1,0 +1,457 @@
+[
+{
+"nodeId": "root_vl12",
+"lessonId": null,
+"parentNodeId": null,
+"nodeName": "VẬT LÍ 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+"orderIndex": 0
+},
+{
+"nodeId": "vatly12_node_ch_01",
+"lessonId": null,
+"parentNodeId": "root_vl12",
+"nodeName": "Chương I: Vật lí nhiệt",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b1",
+"lessonId": "vatly12_b1",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 1: Cấu trúc của chất. Sự chuyển thể",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b1_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b1",
+"nodeName": "Mô hình động học phân tử về cấu tạo chất",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b1_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b1",
+"nodeName": "Cấu trúc vật rắn, chất lỏng và chất khí",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b1_3",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b1",
+"nodeName": "Sự chuyển thể và giải thích bằng mô hình động học",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b2",
+"lessonId": "vatly12_b2",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 2: Nội năng. Định luật I của nhiệt động lực học",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b2_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b2",
+"nodeName": "Khái niệm nội năng $U$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b2_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b2",
+"nodeName": "Định luật I của nhiệt động lực học $\\Delta U = A + Q$",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b3",
+"lessonId": "vatly12_b3",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 3: Nhiệt độ. Thang nhiệt độ - Nhiệt kế",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b3_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b3",
+"nodeName": "Khái niệm nhiệt độ và trạng thái cân bằng nhiệt",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b3_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b3",
+"nodeName": "Thang nhiệt độ Celsius và Kelvin",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b4",
+"lessonId": "vatly12_b4",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 4: Nhiệt dung riêng",
+"orderIndex": 4
+},
+{
+"nodeId": "vatly12_node_b4_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b4",
+"nodeName": "Công thức tính nhiệt lượng $Q = mc\\Delta T$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b5",
+"lessonId": "vatly12_b5",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 5: Nhiệt nóng chảy riêng",
+"orderIndex": 5
+},
+{
+"nodeId": "vatly12_node_b6",
+"lessonId": "vatly12_b6",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 6: Nhiệt hoá hơi riêng",
+"orderIndex": 6
+},
+{
+"nodeId": "vatly12_node_b7",
+"lessonId": "vatly12_b7",
+"parentNodeId": "vatly12_node_ch_01",
+"nodeName": "Bài 7: Bài tập về vật lí nhiệt",
+"orderIndex": 7
+},
+{
+"nodeId": "vatly12_node_ch_02",
+"lessonId": null,
+"parentNodeId": "root_vl12",
+"nodeName": "Chương II: Khí lí tưởng",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b8",
+"lessonId": "vatly12_b8",
+"parentNodeId": "vatly12_node_ch_02",
+"nodeName": "Bài 8: Mô hình động học phân tử chất khí",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b8_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b8",
+"nodeName": "Chuyển động Brown và tương tác phân tử khí",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b8_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b8",
+"nodeName": "Mô hình khí lí tưởng",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b9",
+"lessonId": "vatly12_b9",
+"parentNodeId": "vatly12_node_ch_02",
+"nodeName": "Bài 9: Định luật Boyle",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b9_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b9",
+"nodeName": "Quá trình đẳng nhiệt và định luật $pV = \\text{const}$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b10",
+"lessonId": "vatly12_b10",
+"parentNodeId": "vatly12_node_ch_02",
+"nodeName": "Bài 10: Định luật Charles",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b10_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b10",
+"nodeName": "Quá trình đẳng áp và định luật $V/T = \\text{const}$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b11",
+"lessonId": "vatly12_b11",
+"parentNodeId": "vatly12_node_ch_02",
+"nodeName": "Bài 11: Phương trình trạng thái của khí lí tưởng",
+"orderIndex": 4
+},
+{
+"nodeId": "vatly12_node_b11_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b11",
+"nodeName": "Phương trình Clapeyron $pV = nRT$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b12",
+"lessonId": "vatly12_b12",
+"parentNodeId": "vatly12_node_ch_02",
+"nodeName": "Bài 12: Áp suất khí và Động năng phân tử",
+"orderIndex": 5
+},
+{
+"nodeId": "vatly12_node_b12_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b12",
+"nodeName": "Áp suất khí $p = \\frac{1}{3} \\mu m \\overline{v^2}$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b12_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b12",
+"nodeName": "Quan hệ giữa động năng $\\overline{E_d}$ và nhiệt độ $T$",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b13",
+"lessonId": "vatly12_b13",
+"parentNodeId": "vatly12_node_ch_02",
+"nodeName": "Bài 13: Bài tập về khí lí tưởng",
+"orderIndex": 6
+},
+{
+"nodeId": "vatly12_node_ch_03",
+"lessonId": null,
+"parentNodeId": "root_vl12",
+"nodeName": "Chương III: Từ trường",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b14",
+"lessonId": "vatly12_b14",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 14: Từ trường",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b14_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b14",
+"nodeName": "Tương tác từ và Khái niệm từ trường",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b14_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b14",
+"nodeName": "Cảm ứng từ $\\vec{B}$ và Đường sức từ",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b14_3",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b14",
+"nodeName": "Quy tắc nắm tay phải (Dòng điện thẳng, tròn, ống dây)",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b15",
+"lessonId": "vatly12_b15",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 15: Lực từ. Cảm ứng từ",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b15_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b15",
+"nodeName": "Lực từ tác dụng lên dây dẫn $F = BIl\\sin\\alpha$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b15_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b15",
+"nodeName": "Quy tắc bàn tay trái xác định chiều $\\vec{F}$",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b16",
+"lessonId": "vatly12_b16",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 16: Từ thông. Hiện tượng cảm ứng điện từ",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b16_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b16",
+"nodeName": "Từ thông $\\Phi = BS\\cos\\alpha$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b16_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b16",
+"nodeName": "Định luật Lenz về chiều dòng điện cảm ứng",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b16_3",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b16",
+"nodeName": "Định luật Faraday $e_c = -N\\frac{\\Delta\\Phi}{\\Delta t}$",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b17",
+"lessonId": "vatly12_b17",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 17: Máy phát điện xoay chiều",
+"orderIndex": 4
+},
+{
+"nodeId": "vatly12_node_b17_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b17",
+"nodeName": "Nguyên tắc tạo ra dòng điện xoay chiều",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b17_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b17",
+"nodeName": "Giá trị hiệu dụng $I = \\frac{I_0}{\\sqrt{2}}$; $U = \\frac{U_0}{\\sqrt{2}}$",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b18",
+"lessonId": "vatly12_b18",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 18: Ứng dụng hiện tượng cảm ứng điện từ",
+"orderIndex": 5
+},
+{
+"nodeId": "vatly12_node_b18_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b18",
+"nodeName": "Máy biến áp $\\frac{U_1}{U_2} = \\frac{N_1}{N_2}$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b18_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b18",
+"nodeName": "Dòng điện Foucault và ứng dụng",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b19",
+"lessonId": "vatly12_b19",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 19: Điện từ trường. Mô hình sóng điện từ",
+"orderIndex": 6
+},
+{
+"nodeId": "vatly12_node_b20",
+"lessonId": "vatly12_b20",
+"parentNodeId": "vatly12_node_ch_03",
+"nodeName": "Bài 20: Bài tập về từ trường",
+"orderIndex": 7
+},
+{
+"nodeId": "vatly12_node_ch_04",
+"lessonId": null,
+"parentNodeId": "root_vl12",
+"nodeName": "Chương IV: Vật lí hạt nhân",
+"orderIndex": 4
+},
+{
+"nodeId": "vatly12_node_b21",
+"lessonId": "vatly12_b21",
+"parentNodeId": "vatly12_node_ch_04",
+"nodeName": "Bài 21: Cấu trúc hạt nhân",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b21_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b21",
+"nodeName": "Nucleon, Kí hiệu $^A_Z X$ và Đồng vị",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b21_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b21",
+"nodeName": "Đơn vị khối lượng nguyên tử (amu)",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b22",
+"lessonId": "vatly12_b22",
+"parentNodeId": "vatly12_node_ch_04",
+"nodeName": "Bài 22: Phản ứng hạt nhân và Năng lượng liên kết",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b22_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b22",
+"nodeName": "Độ hụt khối $\\Delta m$ và Năng lượng liên kết $E_{lk} = \\Delta m c^2$",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b22_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b22",
+"nodeName": "Phản ứng phân hạch và nhiệt hạch",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b23",
+"lessonId": "vatly12_b23",
+"parentNodeId": "vatly12_node_ch_04",
+"nodeName": "Bài 23: Hiện tượng phóng xạ",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b23_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b23",
+"nodeName": "Các tia phóng xạ $\\alpha, \\beta, \\gamma$ và tính chất",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b23_2",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b23",
+"nodeName": "Định luật phóng xạ $N_t = N_0 \\cdot 2^{-\\frac{t}{T}}$",
+"orderIndex": 2
+},
+{
+"nodeId": "vatly12_node_b23_3",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b23",
+"nodeName": "Độ phóng xạ $H$ và Quy tắc an toàn",
+"orderIndex": 3
+},
+{
+"nodeId": "vatly12_node_b24",
+"lessonId": "vatly12_b24",
+"parentNodeId": "vatly12_node_ch_04",
+"nodeName": "Bài 24: Công nghiệp hạt nhân",
+"orderIndex": 4
+},
+{
+"nodeId": "vatly12_node_b24_1",
+"lessonId": null,
+"parentNodeId": "vatly12_node_b24",
+"nodeName": "Nhà máy điện hạt nhân và Y học hạt nhân (PET/CT)",
+"orderIndex": 1
+},
+{
+"nodeId": "vatly12_node_b25",
+"lessonId": "vatly12_b25",
+"parentNodeId": "vatly12_node_ch_04",
+"nodeName": "Bài 25: Bài tập về vật lí hạt nhân",
+"orderIndex": 5
+}
+]

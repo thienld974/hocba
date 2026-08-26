@@ -1,0 +1,226 @@
+[
+  {
+    "nodeId": "root_h11",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "HÓA 11 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "hoa11_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_h11",
+    "nodeName": "Chương 1: Cân bằng hóa học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b1",
+    "lessonId": "hoa11_b1",
+    "parentNodeId": "hoa11_node_ch1",
+    "nodeName": "Bài 1: Khái niệm về cân bằng hoá học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b2",
+    "lessonId": "hoa11_b2",
+    "parentNodeId": "hoa11_node_ch1",
+    "nodeName": "Bài 2: Cân bằng trong dung dịch nước",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b3",
+    "lessonId": "hoa11_b3",
+    "parentNodeId": "hoa11_node_ch1",
+    "nodeName": "Bài 3: Ôn tập chương 1",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa11_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_h11",
+    "nodeName": "Chương 2: Nitrogen – Sulfur",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b4",
+    "lessonId": "hoa11_b4",
+    "parentNodeId": "hoa11_node_ch2",
+    "nodeName": "Bài 4: Nitrogen",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b5",
+    "lessonId": "hoa11_b5",
+    "parentNodeId": "hoa11_node_ch2",
+    "nodeName": "Bài 5: Ammonia • Muối ammonium",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b6",
+    "lessonId": "hoa11_b6",
+    "parentNodeId": "hoa11_node_ch2",
+    "nodeName": "Bài 6: Một số hợp chất của nitrogen với oxygen",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa11_node_b7",
+    "lessonId": "hoa11_b7",
+    "parentNodeId": "hoa11_node_ch2",
+    "nodeName": "Bài 7: Sulfur và sulfur dioxide",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa11_node_b8",
+    "lessonId": "hoa11_b8",
+    "parentNodeId": "hoa11_node_ch2",
+    "nodeName": "Bài 8: Sulfuric acid và muối sulfate",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "hoa11_node_b9",
+    "lessonId": "hoa11_b9",
+    "parentNodeId": "hoa11_node_ch2",
+    "nodeName": "Bài 9: Ôn tập chương 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "hoa11_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_h11",
+    "nodeName": "Chương 3: Đại cương về hoá học hữu cơ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa11_node_b10",
+    "lessonId": "hoa11_b10",
+    "parentNodeId": "hoa11_node_ch3",
+    "nodeName": "Bài 10: Hợp chất hữu cơ và hoá học hữu cơ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b11",
+    "lessonId": "hoa11_b11",
+    "parentNodeId": "hoa11_node_ch3",
+    "nodeName": "Bài 11: Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b12",
+    "lessonId": "hoa11_b12",
+    "parentNodeId": "hoa11_node_ch3",
+    "nodeName": "Bài 12: Công thức phân tử hợp chất hữu cơ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa11_node_b13",
+    "lessonId": "hoa11_b13",
+    "parentNodeId": "hoa11_node_ch3",
+    "nodeName": "Bài 13: Cấu tạo hoá học hợp chất hữu cơ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa11_node_b14",
+    "lessonId": "hoa11_b14",
+    "parentNodeId": "hoa11_node_ch3",
+    "nodeName": "Bài 14: Ôn tập chương 3",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "hoa11_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_h11",
+    "nodeName": "Chương 4: Hydrocarbon",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa11_node_b15",
+    "lessonId": "hoa11_b15",
+    "parentNodeId": "hoa11_node_ch4",
+    "nodeName": "Bài 15: Alkane",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b16",
+    "lessonId": "hoa11_b16",
+    "parentNodeId": "hoa11_node_ch4",
+    "nodeName": "Bài 16: Hydrocarbon không no",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b17",
+    "lessonId": "hoa11_b17",
+    "parentNodeId": "hoa11_node_ch4",
+    "nodeName": "Bài 17: Arene (Hydrocarbon thơm)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa11_node_b18",
+    "lessonId": "hoa11_b18",
+    "parentNodeId": "hoa11_node_ch4",
+    "nodeName": "Bài 18: Ôn tập chương 4",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa11_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_h11",
+    "nodeName": "Chương 5: Dẫn xuất halogen – Alcohol – Phenol",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "hoa11_node_b19",
+    "lessonId": "hoa11_b19",
+    "parentNodeId": "hoa11_node_ch5",
+    "nodeName": "Bài 19: Dẫn xuất halogen",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b20",
+    "lessonId": "hoa11_b20",
+    "parentNodeId": "hoa11_node_ch5",
+    "nodeName": "Bài 20: Alcohol",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b21",
+    "lessonId": "hoa11_b21",
+    "parentNodeId": "hoa11_node_ch5",
+    "nodeName": "Bài 21: Phenol",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "hoa11_node_b22",
+    "lessonId": "hoa11_b22",
+    "parentNodeId": "hoa11_node_ch5",
+    "nodeName": "Bài 22: Ôn tập chương 5",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "hoa11_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_h11",
+    "nodeName": "Chương 6: Hợp chất carbonyl – Carboxylic acid",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "hoa11_node_b23",
+    "lessonId": "hoa11_b23",
+    "parentNodeId": "hoa11_node_ch6",
+    "nodeName": "Bài 23: Hợp chất carbonyl",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "hoa11_node_b24",
+    "lessonId": "hoa11_b24",
+    "parentNodeId": "hoa11_node_ch6",
+    "nodeName": "Bài 24: Carboxylic acid",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "hoa11_node_b25",
+    "lessonId": "hoa11_b25",
+    "parentNodeId": "hoa11_node_ch6",
+    "nodeName": "Bài 25: Ôn tập chương 6",
+    "orderIndex": 3
+  }
+]

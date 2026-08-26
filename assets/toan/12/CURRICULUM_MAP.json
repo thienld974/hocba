@@ -1,0 +1,258 @@
+[
+  {
+    "lessonId": "toan12_t1_b1",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "lessonOrder": 1,
+    "lessonContent": "Ý chính: Tính đơn điệu (đồng biến, nghịch biến) và cực trị (cực đại, cực tiểu) của hàm số. Kiến thức trọng tâm: 1) Điều kiện cần và đủ của tính đơn điệu: f'(x) >= 0 hoặc f'(x) <= 0 trên khoảng K. 2) Khái niệm cực trị và điều kiện đủ để hàm số có cực trị (dấu hiệu đổi dấu của f'(x) qua x0). 3) Quy tắc 4 bước tìm khoảng đơn điệu và quy tắc tìm cực trị bằng bảng biến thiên. Từ khóa: Đồng biến, nghịch biến, bảng biến thiên, cực đại, cực tiểu, cực trị."
+  },
+  {
+    "lessonId": "toan12_t1_b2",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "lessonOrder": 2,
+    "lessonContent": "Ý chính: Khái niệm và phương pháp tìm giá trị lớn nhất (GTLN) và giá trị nhỏ nhất (GTNN) của hàm số. Kiến thức trọng tâm: 1) Định nghĩa GTLN (M = max f(x)) và GTNN (m = min f(x)) trên tập D. 2) Định lý về sự tồn tại GTLN, GTNN trên đoạn liên tục [a; b]. 3) Quy tắc tìm GTLN, GTNN trên đoạn [a; b] bằng cách so sánh giá trị tại các điểm biên và điểm làm f'(x) = 0 hoặc không xác định. Từ khóa: Giá trị lớn nhất, giá trị nhỏ nhất, biên, đạo hàm."
+  },
+  {
+    "lessonId": "toan12_t1_b3",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "lessonOrder": 3,
+    "lessonContent": "Ý chính: Khái niệm và phương pháp xác định các đường tiệm cận của đồ thị hàm số. Kiến thức trọng tâm: 1) Tiệm cận ngang: y = y0 nếu lim_{x -> +inf} f(x) = y0 hoặc lim_{x -> -inf} f(x) = y0. 2) Tiệm cận đứng: x = x0 nếu lim_{x -> x0^+} f(x) = +-inf hoặc lim_{x -> x0^-} f(x) = +-inf. 3) Tiệm cận xiên: y = ax + b (a != 0) nếu lim_{x -> +-inf} [f(x) - (ax+b)] = 0, xác định bằng a = lim_{x -> +-inf} [f(x)/x] và b = lim_{x -> +-inf} [f(x) - ax]. Từ khóa: Tiệm cận đứng, tiệm cận ngang, tiệm cận xiên, giới hạn vô cực."
+  },
+  {
+    "lessonId": "toan12_t1_b4",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "lessonOrder": 4,
+    "lessonContent": "Ý chính: Khảo sát sự biến thiên và vẽ đồ thị của các hàm số đa thức và phân thức cơ bản. Kiến thức trọng tâm: 1) Sơ đồ khảo sát hàm số 3 bước (Tìm TXĐ, khảo sát sự biến thiên, vẽ đồ thị). 2) Khảo sát hàm đa thức bậc ba: y = ax^3 + bx^2 + cx + d (a != 0), nhận điểm uốn (y'' = 0) làm tâm đối xứng. 3) Khảo sát hàm phân thức hữu tỉ bậc nhất/bậc nhất: y = (ax+b)/(cx+d) (c != 0, ad-bc != 0) và bậc hai/bậc nhất: y = (ax^2+bx+c)/(px+q), nhận giao điểm hai đường tiệm cận làm tâm đối xứng. Từ khóa: Khảo sát hàm số, đa thức bậc ba, phân thức hữu tỉ, tâm đối xứng, giao điểm tiệm cận."
+  },
+  {
+    "lessonId": "toan12_t1_b5",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "lessonOrder": 5,
+    "lessonContent": "Ý chính: Ứng dụng đạo hàm và khảo sát hàm số để giải quyết các bài toán tối ưu hóa trong vật lý, hóa học, sinh học và kinh tế. Kiến thức trọng tâm: 1) Ý nghĩa vật lý: tốc độ thay đổi tức thời f'(t), vận tốc v(t) = s'(t), gia tốc a(t) = v'(t). 2) Ý nghĩa kinh tế: chi phí biên C'(x), doanh thu biên R'(x), lợi nhuận biên P'(x). 3) Quy trình giải bài toán tối ưu hóa thực tế gồm thiết lập hàm số, tìm tập xác định thực tế và tìm GTLN/GTNN. Từ khóa: Tối ưu hóa, tốc độ thay đổi tức thời, chi phí biên, doanh thu biên, lợi nhuận biên."
+  },
+  {
+    "lessonId": "toan12_t1_ch1_bt",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+    "lessonOrder": 6,
+    "lessonContent": "Ý chính: Tổng hợp và củng cố toàn bộ kiến thức Chương I về ứng dụng đạo hàm. Kiến thức trọng tâm: Hệ thống hóa lý thuyết về tính đơn điệu, cực trị, GTLN/GTNN, tiệm cận, sơ đồ khảo sát hàm số và giải các bài tập trắc nghiệm, tự luận, bài toán ứng dụng thực tiễn của đạo hàm. Từ khóa: Hệ thống hóa, bài tập trắc nghiệm, bài tập tự luận."
+  },
+  {
+    "lessonId": "toan12_t1_b6",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Vectơ và hệ trục tọa độ trong không gian",
+    "lessonOrder": 8,
+    "lessonContent": "Ý chính: Định nghĩa vectơ trong không gian và các phép toán cộng, trừ, nhân vectơ với một số. Kiến thức trọng tâm: 1) Khái niệm vectơ, độ dài, hai vectơ cùng phương, cùng hướng, bằng nhau, vectơ-không. 2) Phép cộng và trừ vectơ trong không gian, quy tắc ba điểm, quy tắc hình bình hành. 3) Quy tắc hình hộp: AB + AD + AA' = AC'. 4) Phép nhân vectơ với một số và các tính chất (kết hợp, phân phối). Điều kiện đồng phẳng của ba vectơ. Từ khóa: Vectơ trong không gian, quy tắc hình hộp, phép cộng vectơ, tích vectơ với một số."
+  },
+  {
+    "lessonId": "toan12_t1_b7",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Vectơ và hệ trục tọa độ trong không gian",
+    "lessonOrder": 9,
+    "lessonContent": "Ý chính: Thiết lập hệ tọa độ Descartes vuông góc Oxyz trong không gian và tọa độ của điểm, vectơ. Kiến thức trọng tâm: 1) Định nghĩa hệ tọa độ Oxyz gồm ba trục Ox, Oy, Oz vuông góc từng đôi một với các vectơ đơn vị i, j, k. 2) Tọa độ của điểm M(x; y; z) <=> OM = xi + yj + zk. 3) Tọa độ của vectơ a(x; y; z) <=> a = xi + yj + zk. 4) Tọa độ của vectơ MN xác định bởi tọa độ hai điểm đầu mút: MN = (x_N - x_M; y_N - y_M; z_N - z_M). Từ khóa: Hệ trục tọa độ Oxyz, tọa độ điểm, tọa độ vectơ, trục tọa độ, mặt phẳng tọa độ."
+  },
+  {
+    "lessonId": "toan12_t1_b8",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Vectơ và hệ trục tọa độ trong không gian",
+    "lessonOrder": 10,
+    "lessonContent": "Ý chính: Biểu thức tọa độ của các phép toán vectơ và tích vô hướng của hai vectơ. Kiến thức trọng tâm: 1) Biểu thức tọa độ phép cộng, trừ vectơ và nhân vectơ với một số. 2) Tọa độ trung điểm đoạn thẳng và trọng tâm tam giác. 3) Biểu thức tọa độ tích vô hướng: a.b = xx' + yy' + zz'. 4) Công thức độ dài vectơ, khoảng cách giữa hai điểm, góc giữa hai vectơ. Điều kiện vuông góc: a.b = 0 <=> xx' + yy' + zz' = 0. Từ khóa: Phép toán vectơ, tích vô hướng, trung điểm, trọng tâm, góc giữa hai vectơ, độ dài."
+  },
+  {
+    "lessonId": "toan12_t1_ch2_bt",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Vectơ và hệ trục tọa độ trong không gian",
+    "lessonOrder": 11,
+    "lessonContent": "Ý chính: Hệ thống hóa lý thuyết và bài tập về vectơ và tọa độ trong không gian. Kiến thức trọng tâm: 1) Ôn tập các khái niệm vectơ, các quy tắc toán học (hình hộp, ba điểm, hình bình hành). 2) Ôn tập hệ tọa độ Oxyz, tọa độ điểm, tọa độ vectơ và các biểu thức tọa độ liên quan. 3) Giải hệ thống bài tập trắc nghiệm và tự luận tổng hợp Chương II. Từ khóa: Hệ thống hóa, bài tập chương II, tọa độ không gian."
+  },
+  {
+    "lessonId": "toan12_t1_b9",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+    "lessonOrder": 13,
+    "lessonContent": "Ý chính: Cách xác định và ý nghĩa của khoảng biến thiên và khoảng tứ phân vị cho mẫu số liệu ghép nhóm. Kiến thức trọng tâm: 1) Khoảng biến thiên R = a_{k+1} - a_1 (hiệu giữa đầu mút phải nhóm cuối và đầu mút trái nhóm đầu). 2) Khoảng tứ phân vị Delta_Q = Q3 - Q1, đo mức độ phân tán của 50% số liệu ở giữa. 3) Công thức nội suy tìm các tứ phân vị Q1, Q3 từ bảng ghép nhóm. 4) Ý nghĩa thực tiễn trong đánh giá độ phân tán và loại bỏ giá trị bất thường. Từ khóa: Mẫu số liệu ghép nhóm, khoảng biến thiên, tứ phân vị, khoảng tứ phân vị, độ phân tán."
+  },
+  {
+    "lessonId": "toan12_t1_b10",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+    "lessonOrder": 14,
+    "lessonContent": "Ý chính: Công thức tính và ý nghĩa của phương sai, độ lệch chuẩn đối với mẫu số liệu ghép nhóm. Kiến thức trọng tâm: 1) Giá trị đại diện x_i của nhóm [a_i; a_{i+1}) là trung điểm nhóm. 2) Số trung bình của mẫu số liệu ghép nhóm. 3) Công thức phương sai s^2 và độ lệch chuẩn s = sqrt(s^2). 4) Ý nghĩa: Đo độ phân tán số liệu quanh số trung bình. Thường ứng dụng trong tài chính để đo lường độ rủi ro của danh mục đầu tư. Từ khóa: Phương sai, độ lệch chuẩn, số trung bình, rủi ro tài chính."
+  },
+  {
+    "lessonId": "toan12_t1_ch3_bt",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+    "lessonOrder": 15,
+    "lessonContent": "Ý chính: Tổng hợp và củng cố kiến thức về đo mức độ phân tán của mẫu số liệu ghép nhóm. Kiến thức trọng tâm: 1) Ôn tập các công thức tính khoảng biến thiên, khoảng tứ phân vị, phương sai, độ lệch chuẩn. 2) So sánh độ phân tán của hai mẫu số liệu thông qua các số đặc trưng. 3) Giải bài tập tổng hợp trắc nghiệm và tự luận Chương III. Từ khóa: Ôn tập chương III, so sánh số liệu, bài tập thực tế."
+  },
+  {
+    "lessonId": "toan12_t1_th1",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 17,
+    "lessonContent": "Ý chính: Ứng dụng phần mềm GeoGebra để khảo sát sự biến thiên và vẽ đồ thị hàm số. Kiến thức trọng tâm: 1) Sử dụng các câu lệnh Derivative để tính đạo hàm cấp một, cấp cao. 2) Câu lệnh Extremum tìm cực trị, lệnh Max, Min tìm GTLN, GTNN trên một miền. 3) Câu lệnh Asymptote xác định các đường tiệm cận của đồ thị hàm số và hiển thị đồ họa trực quan. Từ khóa: GeoGebra, lệnh Derivative, Extremum, Asymptote, vẽ đồ thị."
+  },
+  {
+    "lessonId": "toan12_t1_th2",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 18,
+    "lessonContent": "Ý chính: Sử dụng phần mềm GeoGebra vẽ vectơ tổng của ba vectơ trong không gian. Kiến thức trọng tâm: 1) Khởi động không gian làm việc 3D (View -> 3D Graphics) trong GeoGebra. 2) Thực hành vẽ các điểm, dựng các vectơ từ gốc chung. 3) Sử dụng công cụ dựng đường song song để hoàn thành hình hộp chữ nhật/hình hộp, xác định vectơ đường chéo chính làm vectơ tổng theo quy tắc hình hộp. Từ khóa: GeoGebra 3D, quy tắc hình hộp, dựng vectơ tổng."
+  },
+  {
+    "lessonId": "toan12_t1_th3",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 19,
+    "lessonContent": "Ý chính: Thu thập dữ liệu thực tế về độ dài gang tay học sinh và phân tích thống kê bằng Excel. Kiến thức trọng tâm: 1) Quy trình thu thập số liệu thực tế, lập bảng tần số ghép nhóm. 2) Sử dụng bảng tính Excel để thực hành nhập dữ liệu, tính giá trị trung bình, phương sai, độ lệch chuẩn bằng các hàm toán học (AVERAGE, SQRT, SUM). 3) Phân tích và so sánh độ phân tán chiều dài gang tay giữa học sinh nam và nữ. Từ khóa: Thực hành trải nghiệm, thống kê, bảng tần số ghép nhóm, phân tích bằng Excel."
+  },
+  {
+    "lessonId": "toan12_t2_b11",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Nguyên hàm và tích phân",
+    "lessonOrder": 21,
+    "lessonContent": "Ý chính: Khái niệm nguyên hàm, họ nguyên hàm và các tính chất, công thức nguyên hàm cơ bản. Kiến thức trọng tâm: 1) Định nghĩa nguyên hàm: F'(x) = f(x). Họ nguyên hàm: S f(x) dx = F(x) + C. 2) Các tính chất cơ bản (tích với hằng số, nguyên hàm của một tổng, một hiệu). 3) Bảng nguyên hàm của các hàm số thường gặp (hàm lũy thừa, hàm lượng giác, hàm mũ, hàm phân thức cơ bản). Từ khóa: Nguyên hàm, họ nguyên hàm, hằng số tích phân, bảng nguyên hàm cơ bản."
+  },
+  {
+    "lessonId": "toan12_t2_b12",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Nguyên hàm và tích phân",
+    "lessonOrder": 22,
+    "lessonContent": "Ý chính: Khái niệm tích phân dựa trên diện tích hình thang cong và công thức Newton-Leibniz. Kiến thức trọng tâm: 1) Định nghĩa tích phân từ a đến b: S_a^b f(x)dx = F(b) - F(a). 2) Ý nghĩa hình học: diện tích hình thang cong giới hạn bởi đồ thị hàm số liên tục, không âm. 3) Các tính chất của tích phân (tách đoạn tích phân, đổi cận, cộng trừ tích phân, nhân hằng số). Từ khóa: Tích phân, cận tích phân, hình thang cong, công thức Newton-Leibniz, tính chất tích phân."
+  },
+  {
+    "lessonId": "toan12_t2_b13",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Nguyên hàm và tích phân",
+    "lessonOrder": 23,
+    "lessonContent": "Ý chính: Ứng dụng của tích phân để tính diện tích hình phẳng và thể tích các vật thể hình học. Kiến thức trọng tâm: 1) Công thức tính diện tích hình phẳng giới hạn bởi đồ thị y=f(x), Ox, x=a, x=b hoặc giới hạn bởi hai đồ thị y=f(x), y=g(x). 2) Công thức tính thể tích vật thể có diện tích thiết diện S(x). 3) Công thức tính thể tích khối tròn xoay tạo thành khi quay hình thang cong quanh trục Ox: V = pi * S_a^b f^2(x) dx. Từ khóa: Diện tích hình phẳng, thể tích vật thể, khối tròn xoay, thiết diện."
+  },
+  {
+    "lessonId": "toan12_t2_ch4_bt",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Nguyên hàm và tích phân",
+    "lessonOrder": 24,
+    "lessonContent": "Ý chính: Ôn tập toàn bộ lý thuyết và phương pháp giải bài tập Chương IV về nguyên hàm và tích phân. Kiến thức trọng tâm: Hệ thống hóa công thức tính nguyên hàm, tích phân, các tính chất cơ bản và ứng dụng hình học (tính diện tích, thể tích khối tròn xoay). Giải các bài tập trắc nghiệm và tự luận từ cơ bản đến nâng cao. Từ khóa: Ôn tập chương IV, bài tập nguyên hàm, tích phân."
+  },
+  {
+    "lessonId": "toan12_t2_b14",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Phương pháp tọa độ trong không gian",
+    "lessonOrder": 26,
+    "lessonContent": "Ý chính: Khái niệm vectơ pháp tuyến, cặp vectơ chỉ phương và phương trình tổng quát của mặt phẳng. Kiến thức trọng tâm: 1) Khái niệm VTPT, tích có hướng của hai vectơ chỉ phương [u, v]. 2) Phương trình tổng quát mặt phẳng Ax + By + Cz + D = 0. 3) Cách lập phương trình mặt phẳng đi qua một điểm và biết VTPT, hoặc đi qua ba điểm không thẳng hàng. 4) Điều kiện song song, vuông góc giữa hai mặt phẳng. Công thức tính khoảng cách từ một điểm đến mặt phẳng. Từ khóa: Vectơ pháp tuyến, tích có hướng, phương trình mặt phẳng, khoảng cách."
+  },
+  {
+    "lessonId": "toan12_t2_b15",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Phương pháp tọa độ trong không gian",
+    "lessonOrder": 27,
+    "lessonContent": "Ý chính: Cách lập phương trình đường thẳng trong không gian và xét vị trí tương đối giữa hai đường thẳng. Kiến thức trọng tâm: 1) Khái niệm vectơ chỉ phương (VTCP) của đường thẳng. 2) Phương trình tham số và phương trình chính tắc của đường thẳng. 3) Phương pháp viết phương trình đường thẳng đi qua hai điểm, hoặc song song, vuông góc với các đối tượng khác. 4) Tiêu chuẩn xét vị trí tương đối giữa hai đường thẳng (song song, trùng nhau, cắt nhau, chéo nhau) dựa vào hệ phương trình tọa độ. Từ khóa: Vectơ chỉ phương, phương trình tham số, phương trình chính tắc, vị trí tương đối, đường thẳng chéo nhau."
+  },
+  {
+    "lessonId": "toan12_t2_b16",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Phương pháp tọa độ trong không gian",
+    "lessonOrder": 28,
+    "lessonContent": "Ý chính: Các công thức tính góc giữa hai đường thẳng, giữa đường thẳng với mặt phẳng, và giữa hai mặt phẳng. Kiến thức trọng tâm: 1) Công thức cosin góc giữa hai đường thẳng bằng trị tuyệt đối cosin góc giữa hai VTCP. 2) Công thức sin góc giữa đường thẳng và mặt phẳng bằng trị tuyệt đối sin góc tạo bởi VTCP và VTPT. 3) Công thức cosin góc giữa hai mặt phẳng dựa trên VTPT của chúng. Từ khóa: Góc trong không gian, góc giữa hai đường thẳng, góc đường thẳng và mặt phẳng, góc giữa hai mặt phẳng."
+  },
+  {
+    "lessonId": "toan12_t2_b17",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Phương pháp tọa độ trong không gian",
+    "lessonOrder": 29,
+    "lessonContent": "Ý chính: Định nghĩa và phương trình mặt cầu trong không gian Oxyz, cùng các ứng dụng thực tiễn. Kiến thức trọng tâm: 1) Phương trình chính tắc của mặt cầu tâm I(a; b; c) bán kính R: (x-a)^2 + (y-b)^2 + (z-c)^2 = R^2. 2) Phương trình tổng quát x^2+y^2+z^2-2ax-2by-2cz+d = 0 (với điều kiện a^2+b^2+c^2-d > 0). 3) Xác định tâm và bán kính mặt cầu từ phương trình tổng quát. 4) Ứng dụng phương trình mặt cầu để giải quyết các bài toán tọa độ địa lý Trái Đất và hệ thống GPS. Từ khóa: Mặt cầu, tâm mặt cầu, bán kính mặt cầu, GPS, tọa độ Trái Đất."
+  },
+  {
+    "lessonId": "toan12_t2_ch5_bt",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Phương pháp tọa độ trong không gian",
+    "lessonOrder": 30,
+    "lessonContent": "Ý chính: Hệ thống hóa kiến thức và rèn luyện kỹ năng giải toán về hình học tọa độ trong không gian. Kiến thức trọng tâm: Tổng hợp các kiến thức cốt lõi về phương trình mặt phẳng, đường thẳng, mặt cầu, các bài toán tính góc và khoảng cách. Thực hành giải hệ thống bài tập trắc nghiệm, tự luận Chương V. Từ khóa: Ôn tập chương V, hình học không gian Oxyz."
+  },
+  {
+    "lessonId": "toan12_t2_b18",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Xác suất có điều kiện",
+    "lessonOrder": 32,
+    "lessonContent": "Ý chính: Định nghĩa xác suất có điều kiện, công thức nhân xác suất và kiểm tra tính độc lập của hai biến cố. Kiến thức trọng tâm: 1) Khái niệm xác suất có điều kiện: P(A|B) = P(AB)/P(B). 2) Công thức nhân xác suất P(AB) = P(B)*P(A|B) = P(A)*P(B|A). 3) Mối liên hệ với biến cố độc lập: A và B độc lập <=> P(AB) = P(A)*P(B), tức P(A|B) = P(A). Sử dụng bảng dữ liệu thống kê 2x2. Từ khóa: Xác suất có điều kiện, công thức nhân xác suất, biến cố độc lập, bảng thống kê 2x2."
+  },
+  {
+    "lessonId": "toan12_t2_b19",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Xác suất có điều kiện",
+    "lessonOrder": 33,
+    "lessonContent": "Ý chính: Cách áp dụng công thức xác suất toàn phần và công thức Bayes trong việc tính xác suất và cập nhật thông tin. Kiến thức trọng tâm: 1) Công thức xác suất toàn phần: P(B) = P(A)*P(B|A) + P(not A)*P(B|not A). 2) Sơ đồ hình cây mô tả xác suất của các biến cố liên tiếp. 3) Công thức Bayes: P(A|B) = [P(A)*P(B|A)]/P(B). 4) Ý nghĩa thực tiễn: Công thức Bayes dùng để cập nhật xác suất của giả thuyết ban đầu khi xuất hiện dữ kiện mới (ứng dụng y tế, kinh tế, CNTT). Từ khóa: Xác suất toàn phần, công thức Bayes, sơ đồ hình cây, cập nhật Bayesian."
+  },
+  {
+    "lessonId": "toan12_t2_ch6_bt",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Xác suất có điều kiện",
+    "lessonOrder": 34,
+    "lessonContent": "Ý chính: Củng cố lý thuyết và rèn luyện kỹ năng giải các bài toán xác suất nâng cao. Kiến thức trọng tâm: Hệ thống hóa khái niệm xác suất có điều kiện, công thức nhân, công thức xác suất toàn phần và công thức Bayes. Giải quyết các bài tập tổng hợp trắc nghiệm, tự luận Chương VI và ứng dụng thực tiễn (chuẩn đoán y tế, đánh giá rủi ro). Từ khóa: Ôn tập chương VI, bài tập xác suất có điều kiện, bài tập Bayes."
+  },
+  {
+    "lessonId": "toan12_t2_th1",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 36,
+    "lessonContent": "Ý chính: Ứng dụng phần mềm GeoGebra để thực hành tính toán nguyên hàm và tích phân. Kiến thức trọng tâm: 1) Sử dụng lệnh IntegralSymbolic(hàm số) để tìm họ nguyên hàm của các hàm số lượng giác, mũ, lũy thừa dưới dạng biểu thức ký hiệu. 2) Sử dụng lệnh NIntegral(hàm số, giá trị đầu, giá trị cuối) để tính nhanh và chính xác tích phân xác định của các hàm số phức tạp. Từ khóa: GeoGebra, lệnh IntegralSymbolic, NIntegral, nguyên hàm, tích phân."
+  },
+  {
+    "lessonId": "toan12_t2_th2",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 37,
+    "lessonContent": "Ý chính: Thực hành tính gần đúng tích phân của các hàm không có nguyên hàm sơ cấp bằng phương pháp hình thang. Kiến thức trọng tâm: 1) Quy tắc hình thang chia đoạn [a; b] thành n đoạn bằng nhau. 2) Công thức xấp xỉ tích phân: f(x)dx ~ (b-a)/(2n) * [f(x0) + 2f(x1) + ... + 2f(x_{n-1}) + f(xn)]. 3) Công thức đánh giá sai số tuyệt đối |E| <= ((b-a)^3 * M)/(12n^2) với M là GTLN của |f''(x)| trên [a;b]. Từ khóa: Phương pháp hình thang, tính gần đúng, xấp xỉ tích phân, đánh giá sai số."
+  },
+  {
+    "lessonId": "toan12_t2_th3",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 38,
+    "lessonContent": "Ý chính: Ứng dụng GeoGebra 3D để thiết lập và vẽ đồ họa các mô hình không gian phức tạp. Kiến thức trọng tâm: 1) Kỹ năng sử dụng các câu lệnh nâng cao trong GeoGebra như DaGiac, HinhLangTru, BeMat. 2) Thực hành vẽ mô hình hình học 'không thể có thực' - Tam giác Penrose (Impossible Triangle). 3) Thực hành thiết lập phương trình tham số và vẽ dải băng một mặt kỳ diệu - Mặt Mobius (Mobius Strip) trong hệ trục tọa độ Oxyz. Từ khóa: GeoGebra 3D, lệnh BeMat, Tam giác Penrose, Mặt Mobius, đồ họa không gian."
+  },
+  {
+    "lessonId": "toan12_t2_kn_thi",
+    "grade": 12,
+    "subject": "Toán",
+    "chapterName": "Kỹ năng khi đi thi",
+    "lessonOrder": 39,
+    "lessonContent": "Ý chính: Trang bị chiến lược phòng thi và mẹo làm bài thực chiến để tối ưu hóa điểm số trong kỳ thi Tốt nghiệp THPT môn Toán (cấu trúc đề mới 2025: 12 câu trắc nghiệm 4 lựa chọn + 4 câu Đúng-Sai (4 ý) + 6 câu trả lời ngắn, 90 phút, thang điểm 10). Kiến thức trọng tâm: 1) Cấu trúc đề thi và cách phân bổ thời gian hợp lý cho từng phần. 2) Thứ tự làm bài tối ưu để chắc điểm dễ trước, tránh sa lầy câu khó. 3) Chiến thuật tối đa hóa điểm kỳ vọng ở phần Đúng-Sai (thang điểm bậc thang 0.1/0.25/0.5/1). 4) Kỹ thuật loại trừ đáp án, thử ngược đáp án (CALC), dùng máy tính Casio rút ngắn thời gian. 5) Kỹ thuật rà soát bài trước khi nộp, tránh bẫy tâm lý đổi đáp án cảm tính, tránh bỏ trống câu. Từ khóa: chiến thuật phòng thi, phân bổ thời gian, thang điểm Đúng-Sai, CALC, loại trừ đáp án, rà soát bài thi, tâm lý phòng thi."
+  }
+]

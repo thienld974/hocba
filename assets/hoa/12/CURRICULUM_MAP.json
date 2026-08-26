@@ -1,0 +1,250 @@
+[
+  {
+    "lessonId": "hoa12_b1",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 1: Ester - Lipid",
+    "lessonOrder": 1,
+    "lessonContent": "Ý chính: Định nghĩa, danh pháp, tính chất và điều chế ester, lipid. Kiến thức trọng tâm: Ester là dẫn xuất acid carboxylic có nhóm -OH thay thế bằng -OR'. Thủy phân trong môi trường acid (thuận nghịch) và kiềm (một chiều - xà phòng hóa). Lipid gồm chất béo (triester của glycerol với acid béo như palmitic, stearic, oleic). Từ khóa: Ester, lipid, chất béo, phản ứng thủy phân, xà phòng hóa."
+  },
+  {
+    "lessonId": "hoa12_b2",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 1: Ester - Lipid",
+    "lessonOrder": 2,
+    "lessonContent": "Ý chính: Khái niệm, cấu tạo và cơ chế tẩy rửa của xà phòng, chất giặt rửa. Kiến thức trọng tâm: Xà phòng là muối sodium/potassium của acid béo. Chất giặt rửa tổng hợp chứa alkylsulfate hoặc alkylbenzene sulfonate. Cấu tạo gồm đầu phân cực (ưa nước) và đuôi hydrocarbon không phân cực (kị nước). Từ khóa: Xà phòng, chất giặt rửa tổng hợp, đầu ưa nước, đuôi kị nước."
+  },
+  {
+    "lessonId": "hoa12_b3",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 1: Ester - Lipid",
+    "lessonOrder": 3,
+    "lessonContent": "Ý chính: Hệ thống hóa lý thuyết và bài tập về ester, lipid, xà phòng. Kiến thức trọng tâm: Mối liên hệ cấu tạo và tính chất hóa học của ester và chất béo; phân biệt xà phòng và chất giặt rửa tổng hợp; giải bài tập xác định công thức, tính hiệu suất phản ứng ester hóa. Từ khóa: Hệ thống hóa, ester, chất béo, ôn tập chương 1."
+  },
+  {
+    "lessonId": "hoa12_b4",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Carbohydrate",
+    "lessonOrder": 4,
+    "lessonContent": "Ý chính: Khái niệm carbohydrate, cấu tạo và tính chất của glucose, fructose. Kiến thức trọng tâm: Glucose (C6H12O6) là polyhydroxy aldehyde mạch hở và vòng (alpha, beta). Fructose là polyhydroxy ketone. Tính chất polyalcohol (tác dụng Cu(OH)2 tạo dung dịch xanh lam) và aldehyde (tráng bạc, tác dụng nước bromine). Từ khóa: Monosaccharide, glucose, fructose, phản ứng tráng bạc, Cu(OH)2."
+  },
+  {
+    "lessonId": "hoa12_b5",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Carbohydrate",
+    "lessonOrder": 5,
+    "lessonContent": "Ý chính: Cấu tạo, tính chất và ứng dụng của saccharose và maltose. Kiến thức trọng tâm: Saccharose (C12H22O11) cấu tạo từ alpha-glucose và beta-fructose qua liên kết glycoside, không có nhóm hemiacetal tự do (không tráng bạc). Maltose cấu tạo từ hai đơn vị glucose, có tính khử. Thủy phân sinh monosaccharide. Từ khóa: Disaccharide, saccharose, maltose, phản ứng thủy phân, tính khử."
+  },
+  {
+    "lessonId": "hoa12_b6",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Carbohydrate",
+    "lessonOrder": 6,
+    "lessonContent": "Ý chính: Cấu tạo và tính chất hóa học của tinh bột và cellulose. Kiến thức trọng tâm: Tinh bột gồm amylose (mạch không phân nhánh, xoắn) và amylopectin (mạch phân nhánh). Cellulose là polymer không phân nhánh, liên kết beta-1,4-glycoside. Tinh bột tạo màu xanh tím với iodine. Cellulose tác dụng với HNO3 đặc tạo cellulose trinitrate. Từ khóa: Polysaccharide, tinh bột, cellulose, hồ tinh bột, phản ứng màu iodine, cellulose trinitrate."
+  },
+  {
+    "lessonId": "hoa12_b7",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 2: Carbohydrate",
+    "lessonOrder": 7,
+    "lessonContent": "Ý chính: Ôn tập cấu tạo, tính chất của các nhóm carbohydrate. Kiến thức trọng tâm: So sánh cấu tạo mạch hở/mạch vòng và tính chất của glucose, fructose, saccharose, tinh bột, cellulose. Giải bài tập phản ứng tráng bạc, thủy phân, lên men rượu. Từ khóa: Hệ thống hóa, carbohydrate, monosaccharide, disaccharide, polysaccharide."
+  },
+  {
+    "lessonId": "hoa12_b8",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Hợp chất chứa nitrogen",
+    "lessonOrder": 8,
+    "lessonContent": "Ý chính: Khái niệm, phân loại, danh pháp và tính chất của amine. Kiến thức trọng tâm: Amine là dẫn xuất của ammonia (NH3) khi thay thế nguyên tử H bằng gốc hydrocarbon. Phân loại theo bậc amine (bậc 1, 2, 3). Tính base yếu (alkalamine làm quỳ tím hóa xanh, aniline không làm đổi màu quỳ). Aniline tác dụng nước bromine tạo kết tủa trắng 2,4,6-tribromoaniline. Từ khóa: Amine, bậc amine, tính base, aniline, quỳ tím, kết tủa trắng."
+  },
+  {
+    "lessonId": "hoa12_b9",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Hợp chất chứa nitrogen",
+    "lessonOrder": 9,
+    "lessonContent": "Ý chính: Cấu tạo, tính chất của amino acid và khái niệm peptide. Kiến thức trọng tâm: Amino acid là hợp chất hữu cơ tạp chức chứa đồng thời nhóm -NH2 và -COOH, tồn tại dạng ion lưỡng cực, có tính lưỡng tính. Peptide gồm các đơn vị alpha-amino acid liên kết qua liên kết peptide (-CO-NH-). Phản ứng màu biuret của peptide (từ tripeptide trở lên) với Cu(OH)2 tạo dung dịch màu tím. Từ khóa: Amino acid, ion lưỡng cực, tính lưỡng tính, peptide, liên kết peptide, phản ứng màu biuret."
+  },
+  {
+    "lessonId": "hoa12_b10",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Hợp chất chứa nitrogen",
+    "lessonOrder": 10,
+    "lessonContent": "Ý chính: Khái niệm, cấu tạo, tính chất của protein và vai trò của enzyme. Kiến thức trọng tâm: Protein là những polypeptide cao phân tử. Phản ứng đông tụ bởi nhiệt, acid hoặc ion kim loại nặng. Phản ứng màu biuret tạo phức tím. Enzyme là chất xúc tác sinh học có tính chọn lọc cao. Từ khóa: Protein, đông tụ protein, phản ứng màu biuret, enzyme, xúc tác sinh học."
+  },
+  {
+    "lessonId": "hoa12_b11",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 3: Hợp chất chứa nitrogen",
+    "lessonOrder": 11,
+    "lessonContent": "Ý chính: Tổng hợp lý thuyết về amine, amino acid, peptide và protein. Kiến thức trọng tâm: Hệ thống hóa tính chất base của amine, tính lưỡng tính của amino acid, phản ứng thủy phân peptide và protein. Giải các bài tập tính toán liên quan đến phản ứng chứa nitrogen. Từ khóa: Ôn tập chương 3, amine, amino acid, peptide, protein."
+  },
+  {
+    "lessonId": "hoa12_b12",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Polymer",
+    "lessonOrder": 12,
+    "lessonContent": "Ý chính: Khái niệm, cấu trúc, tính chất và phương pháp tổng hợp polymer. Kiến thức trọng tâm: Polymer là hợp chất có phân tử khối rất lớn gồm nhiều mắt xích liên kết nhau. Phân loại theo nguồn gốc (tự nhiên, tổng hợp, bán tổng hợp). Phản ứng cắt mạch, tăng mạch và giữ nguyên mạch. Tổng hợp bằng phản ứng trùng hợp (monomer có liên kết đôi) hoặc trùng ngưng (monomer có ít nhất hai nhóm chức). Từ khóa: Polymer, monomer, mắt xích, trùng hợp, trùng ngưng."
+  },
+  {
+    "lessonId": "hoa12_b13",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Polymer",
+    "lessonOrder": 13,
+    "lessonContent": "Ý chính: Cấu tạo, tính chất và ứng dụng của các vật liệu polymer trong đời sống. Kiến thức trọng tâm: Chất dẻo (PE, PP, PVC, PS, poly(methyl methacrylate)); Vật liệu composite (vật liệu nền và vật liệu cốt); Tơ tự nhiên (bông, len, tơ tằm) và tơ hóa học (nylon-6,6, capron, visco, cellulose acetate); Cao su tự nhiên và tổng hợp (buna, buna-S, buna-N); Keo dán. Từ khóa: Chất dẻo, tơ tổng hợp, cao su lưu hóa, vật liệu composite, keo dán."
+  },
+  {
+    "lessonId": "hoa12_b14",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 4: Polymer",
+    "lessonOrder": 14,
+    "lessonContent": "Ý chính: Ôn tập tính chất, ứng dụng và phương pháp tổng hợp vật liệu polymer. Kiến thức trọng tâm: Hệ thống hóa công thức cấu tạo của các polymer thông dụng, phân biệt cơ chế trùng hợp và trùng ngưng. Giải các bài tập tính khối lượng polymer, số mắt xích. Từ khóa: Hệ thống hóa, polymer, trùng hợp, trùng ngưng, chất dẻo, cao su."
+  },
+  {
+    "lessonId": "hoa12_b15",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Pin điện và điện phân",
+    "lessonOrder": 15,
+    "lessonContent": "Ý chính: Khái niệm cặp oxi hóa - khử, thế điện cực chuẩn và cấu tạo nguồn điện hóa học. Kiến thức trọng tâm: Cặp oxi hóa - khử Mn+/M. Thế điện cực chuẩn E0(Mn+/M) đo khả năng khử của M và oxi hóa của Mn+. Pin Galvani gồm hai điện cực, anode xảy ra sự oxi hóa, cathode xảy ra sự khử; sức điện động chuẩn: E0_pin = E0_cat - E0_an. Giới thiệu acquy, pin nhiên liệu, pin Mặt Trời. Từ khóa: Cặp oxi hóa - khử, thế điện cực chuẩn, pin Galvani, anode, cathode, sức điện động chuẩn."
+  },
+  {
+    "lessonId": "hoa12_b16",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Pin điện và điện phân",
+    "lessonOrder": 16,
+    "lessonContent": "Ý chính: Nguyên tắc, quá trình và ứng dụng của hiện tượng điện phân. Kiến thức trọng tâm: Điện phân là quá trình oxi hóa - khử xảy ra ở các điện cực dưới tác dụng của dòng điện một chiều. Ở cực âm (cathode) xảy ra sự khử ion dương; ở cực dương (anode) xảy ra sự oxi hóa ion âm hoặc nước. Ứng dụng: sản xuất kim loại (Al, Na, Ca), tinh chế kim loại (Cu) và mạ điện. Từ khóa: Điện phân, nóng chảy, dung dịch, cathode, anode, mạ điện, tinh chế kim loại."
+  },
+  {
+    "lessonId": "hoa12_b17",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 5: Pin điện và điện phân",
+    "lessonOrder": 17,
+    "lessonContent": "Ý chính: Hệ thống hóa kiến thức về pin điện và điện phân. Kiến thức trọng tâm: Ôn tập ý nghĩa dãy thế điện cực chuẩn, quy tắc alpha để dự đoán chiều phản ứng oxi hóa - khử; viết quá trình xảy ra tại các điện cực khi pin hoạt động và khi điện phân. Giải bài tập điện phân. Từ khóa: Ôn tập chương 5, thế điện cực chuẩn, quy tắc alpha, điện phân."
+  },
+  {
+    "lessonId": "hoa12_b18",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Đại cương về kim loại",
+    "lessonOrder": 18,
+    "lessonContent": "Ý chính: Đặc điểm cấu tạo nguyên tử và liên kết trong tinh thể kim loại. Kiến thức trọng tâm: Nguyên tử kim loại có ít electron lớp ngoài cùng (1-3e), bán kính nguyên tử lớn, độ âm điện nhỏ. Tinh thể kim loại cấu tạo từ các cation kim loại ở nút mạng mạng tinh thể và các electron tự do chuyển động hỗn loạn. Liên kết kim loại hình thành do lực hút tĩnh điện giữa các electron tự do với các cation. Từ khóa: Nguyên tử kim loại, tinh thể kim loại, electron tự do, liên kết kim loại."
+  },
+  {
+    "lessonId": "hoa12_b19",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Đại cương về kim loại",
+    "lessonOrder": 19,
+    "lessonContent": "Ý chính: Tính chất vật lí và tính chất hóa học đặc trưng của kim loại. Kiến thức trọng tâm: Tính chất vật lí chung (tính dẻo, dẫn điện, dẫn nhiệt, ánh kim) do electron tự do quyết định. Tính chất hóa học chung là tính khử (tác dụng phi kim, nước, acid, dung dịch muối). Quy luật phản ứng của kim loại với acid loại 1 (HCl, H2SO4 loãng giải phóng H2) và acid loại 2 (HNO3, H2SO4 đặc nóng tạo sản phẩm khử). Từ khóa: Tính dẻo, dẫn điện, tính khử, phản ứng oxi hóa - khử, dãy hoạt động hóa học."
+  },
+  {
+    "lessonId": "hoa12_b20",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Đại cương về kim loại",
+    "lessonOrder": 20,
+    "lessonContent": "Ý chính: Trạng thái tự nhiên, nguyên tắc và các phương pháp điều chế kim loại. Kiến thức trọng tâm: Kim loại tồn tại dạng đơn chất (vàng, platinum) hoặc hợp chất (oxide, muối trong quặng bauxite, hematite). Nguyên tắc điều chế: Khử ion kim loại thành nguyên tử (Mn+ + ne -> M). Phương pháp: Điện phân nóng chảy (kim loại mạnh IA, IIA, Al); Nhiệt luyện, thủy luyện, điện phân dung dịch (kim loại trung bình và yếu). Từ khóa: Quặng, điều chế kim loại, điện phân nóng chảy, nhiệt luyện, thủy luyện."
+  },
+  {
+    "lessonId": "hoa12_b21",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Đại cương về kim loại",
+    "lessonOrder": 21,
+    "lessonContent": "Ý chính: Khái niệm, tính chất và các hợp kim quan trọng của sắt, nhôm. Kiến thức trọng tâm: Hợp kim là vật liệu kim loại chứa kim loại cơ bản và các nguyên tố khác. Tính chất vật lí (dẫn điện, dẫn nhiệt, nhiệt độ nóng chảy) thường kém hơn nhưng độ cứng cao hơn kim loại nguyên chất. Hợp kim của sắt (gang, thép) và nhôm (duralumin). Từ khóa: Hợp kim, gang, thép, duralumin, độ cứng."
+  },
+  {
+    "lessonId": "hoa12_b22",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Đại cương về kim loại",
+    "lessonOrder": 22,
+    "lessonContent": "Ý chính: Khái niệm, cơ chế và phương pháp phòng chống ăn mòn kim loại. Kiến thức trọng tâm: Ăn mòn kim loại là sự phá hủy kim loại do tác dụng của chất trong môi trường. Ăn mòn hóa học (phản ứng trực tiếp, không sinh dòng điện) và ăn mòn điện hóa (hình thành cặp pin điện hóa, có dòng electron dịch chuyển). Bảo vệ bằng phương pháp điện hóa (gắn kim loại mạnh hơn làm anode hy sinh) và phủ bề mặt. Từ khóa: Ăn mòn hóa học, ăn mòn điện hóa, anode hy sinh, bảo vệ bề mặt."
+  },
+  {
+    "lessonId": "hoa12_b23",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 6: Đại cương về kim loại",
+    "lessonOrder": 23,
+    "lessonContent": "Ý chính: Ôn tập đại cương về cấu tạo, tính chất, điều chế và ăn mòn kim loại. Kiến thức trọng tâm: Hệ thống hóa tính chất vật lí và hóa học của kim loại; các phương pháp điều chế kim loại tương ứng với mức độ hoạt động hóa học; phân biệt ăn mòn hóa học và ăn mòn điện hóa. Giải bài tập kim loại tác dụng acid, muối. Từ khóa: Ôn tập chương 6, tính khử, điện phân, ăn mòn điện hóa."
+  },
+  {
+    "lessonId": "hoa12_b24",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 7: Nguyên tố nhóm IA và nhóm IIA",
+    "lessonOrder": 24,
+    "lessonContent": "Ý chính: Trạng thái tự nhiên, tính chất và ứng dụng của các nguyên tố nhóm IA (kim loại kiềm). Kiến thức trọng tâm: Nhóm IA (Li, Na, K, Rb, Cs) có cấu hình lớp ngoài cùng ns1, chỉ có số oxi hóa +1. Tính khử rất mạnh tăng dần từ Li đến Cs, phản ứng mãnh liệt với nước tạo dung dịch kiềm và khí H2. Ứng dụng quan trọng của NaCl, NaHCO3 (bột nở), Na2CO3 (công nghiệp thủy tinh). Từ khóa: Kim loại kiềm, nhóm IA, phản ứng với nước, sodium chloride, sodium hydrogencarbonate."
+  },
+  {
+    "lessonId": "hoa12_b25",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 7: Nguyên tố nhóm IA và nhóm IIA",
+    "lessonOrder": 25,
+    "lessonContent": "Ý chính: Tính chất, ứng dụng của nguyên tố nhóm IIA (kim loại kiềm thổ) và hiện tượng nước cứng. Kiến thức trọng tâm: Nhóm IIA (Be, Mg, Ca, Sr, Ba) có cấu hình ns2, số oxi hóa +2. Tính khử mạnh. Khái niệm nước cứng chứa nhiều ion Ca2+ và Mg2+. Phân loại nước cứng (tạm thời, vĩnh cửu, toàn phần). Phương pháp làm mềm nước cứng: kết tủa (dùng Na2CO3, Na3PO4) hoặc trao đổi ion. Từ khóa: Kim loại kiềm thổ, nhóm IIA, nước cứng, làm mềm nước cứng, phương pháp kết tủa."
+  },
+  {
+    "lessonId": "hoa12_b26",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 7: Nguyên tố nhóm IA và nhóm IIA",
+    "lessonOrder": 26,
+    "lessonContent": "Ý chính: Hệ thống hóa lý thuyết về kim loại nhóm IA, IIA và các hợp chất. Kiến thức trọng tâm: So sánh tính chất vật lí, hóa học của kim loại kiềm và kiềm thổ. Nhận biết các ion kim loại bằng màu ngọn lửa (Li+ đỏ tía, Na+ vàng, K+ tím, Ca2+ đỏ cam, Ba2+ lục). Phương pháp điều chế xút - clo và phương pháp Solvay sản xuất soda. Từ khóa: Ôn tập chương 7, màu ngọn lửa ngâm, phương pháp Solvay."
+  },
+  {
+    "lessonId": "hoa12_b27",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 8: Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+    "lessonOrder": 27,
+    "lessonContent": "Ý chính: Đặc điểm cấu tạo, tính chất của các nguyên tố chuyển tiếp dãy thứ nhất. Kiến thức trọng tâm: Kim loại chuyển tiếp thuộc nhóm B, phân lớp d đang điền electron (Sc đến Cu), có nhiều trạng thái oxi hóa (+2, +3, +4, +6, +7). Có độ cứng cao, nhiệt độ nóng chảy cao. Trạng thái và màu sắc đặc trưng của các ion trong dung dịch (Fe2+ xanh nhạt, Fe3+ vàng nâu, Cu2+ xanh lam). Chuẩn độ Fe(II) bằng KMnO4. Từ khóa: Kim loại chuyển tiếp, phân lớp d, màu sắc ion, chuẩn độ KMnO4."
+  },
+  {
+    "lessonId": "hoa12_b28",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 8: Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+    "lessonOrder": 28,
+    "lessonContent": "Ý chính: Khái niệm cơ bản, dạng hình học và liên kết trong phức chất. Kiến thức trọng tâm: Phức chất gồm nguyên tử trung tâm M (cation kim loại chuyển tiếp) liên kết cho - nhận với các phối tử L (anion hoặc phân tử có cặp electron chưa liên kết). Dạng hình học phổ biến: tứ diện, vuông phẳng, bát diện. Sự hình thành phức chất aqua khi ion kim loại tan trong nước. Từ khóa: Phức chất, nguyên tử trung tâm, phối tử, liên kết phối trí, phức chất aqua."
+  },
+  {
+    "lessonId": "hoa12_b29",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 8: Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+    "lessonOrder": 29,
+    "lessonContent": "Ý chính: Một số dấu hiệu tạo phức, phản ứng thế phối tử và ứng dụng phức chất. Kiến thức trọng tâm: Dấu hiệu tạo phức chất: đổi màu dung dịch, hòa tan kết tủa, tạo kết tủa màu. Phản ứng thế phối tử xảy ra khi phối tử mới liên kết bền hơn phối tử cũ. Ứng dụng phức chất trong y học (thuốc cisplatin trị ung thư), sinh học (chlorophyll, heme) và hóa học phân tích. Từ khóa: Phản ứng tạo phức, thế phối tử, cisplatin, chlorophyll, heme."
+  },
+  {
+    "lessonId": "hoa12_b30",
+    "grade": 12,
+    "subject": "Hóa",
+    "chapterName": "Chương 8: Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+    "lessonOrder": 30,
+    "lessonContent": "Ý chính: Tổng hợp kiến thức về kim loại chuyển tiếp và phức chất. Kiến thức trọng tâm: Hệ thống hóa cấu hình electron của nguyên tử và ion kim loại chuyển tiếp; định nghĩa, danh pháp và cấu trúc hình học phức chất; các dấu hiệu nhận biết phản ứng tạo phức và phản ứng thế phối tử. Giải bài tập thực tiễn. Từ khóa: Ôn tập chương 8, kim loại chuyển tiếp, phức chất, phối tử."
+  },
+  {
+    "lessonId": "hoa12_kynangthi",
+    "grade": 12,
+    "subject": "Hoá học",
+    "chapterName": "Kỹ năng làm bài thi",
+    "lessonOrder": 31,
+    "lessonContent": "### KỸ NĂNG LÀM BÀI THI TỐT NGHIỆP THPT MÔN HOÁ HỌC (Chương trình GDPT 2018)\n- **Ý chính / Chủ đề**: Chiến lược phòng thi, phân bổ thời gian, mẹo xử lý từng phần của đề thi (Phần I trắc nghiệm nhiều lựa chọn, Phần II đúng/sai, Phần III trả lời ngắn) và kỹ thuật tránh bẫy thường gặp, đúc kết từ kinh nghiệm thực tế của giáo viên luyện thi qua các kỳ thi 2025-2026.\n- **Kiến thức trọng tâm**:\n  1. **Cấu trúc đề thi**: 28 câu hỏi tương đương 40 lệnh hỏi, làm trong 50 phút. Phần I: 18 câu trắc nghiệm 4 phương án (0,25đ/câu = 4,5đ). Phần II: 4 câu đúng/sai, mỗi câu 4 ý (chấm theo số ý đúng: 1 ý=0,1đ; 2 ý=0,25đ; 3 ý=0,5đ; 4 ý=1đ; tối đa 4đ). Phần III: 6 câu trả lời ngắn tự điền đáp số (0,25đ/câu = 1,5đ).\n  2. **Phân bổ thời gian**: Ưu tiên làm chắc Phần I và các câu dễ của Phần III trước (tốc độ nhanh, ít sai sót); dành nhiều thời gian nhất cho Phần II vì đây là phần phân hóa cao nhất, chỉ sai 1 ý có thể mất gần nửa điểm của cả câu; dành 5-10 phút cuối để rà soát và tô phiếu.\n  3. **Mẹo theo từng phần**: Phần I cần đọc nhanh - chọn chắc - tránh bị nhiễu bởi đáp án gây rối; Phần II cần đọc chậm, phân tích từng ý, tận dụng mối liên hệ logic giữa 4 ý để suy luận chéo, đặc biệt cẩn thận với câu thí nghiệm/thực hành; Phần III không có đáp án để đối chiếu nên phải tính toán chính xác tuyệt đối, chỉ làm tròn ở bước cuối cùng theo đúng yêu cầu đề, kiểm tra đơn vị trước khi tô đáp số.\n  4. **Bẫy thường gặp**: các chủ đề hay bị cài bẫy tinh vi là điện phân, kim loại, ester - amine, và các câu hỏi tình huống thí nghiệm; xu hướng đề gần đây tăng cường câu hỏi gắn với thực tiễn (xăng E5/E10, chuẩn độ acid-base, vật liệu polymer...).\n  5. **Kỹ thuật tính nhanh**: sử dụng thành thạo 3 phương pháp bảo toàn (khối lượng, electron, nguyên tố) để rút ngắn thời gian giải toán, đặc biệt hữu ích cho Phần III.\n  6. **Tâm lý phòng thi**: giữ bình tĩnh, không sa lầy vào câu khó (quy tắc không quá 2-3 phút/câu chưa giải được), chuẩn bị thể lực và tinh thần tốt trước ngày thi.\n- **Từ khóa**: Cấu trúc đề thi, phân bổ thời gian, chấm điểm Phần II, làm tròn số, bẫy đề thi, câu hỏi thực tiễn, bảo toàn khối lượng, bảo toàn electron, tâm lý phòng thi."
+  }
+]

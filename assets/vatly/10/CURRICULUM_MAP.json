@@ -1,0 +1,274 @@
+[
+  {
+    "lessonId": "vatly10_b1",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương I: Mở đầu",
+    "lessonOrder": 1,
+    "lessonContent": "### BÀI 1: LÀM QUEN VỚI VẬT LÍ\n- **Chủ đề**: Đối tượng, mục tiêu, vai trò của Vật lí và các phương pháp nghiên cứu.\n- **Kiến thức trọng tâm**:\n  1. **Đối tượng**: Nghiên cứu các dạng vận động của vật chất và năng lượng.\n  2. **Phương pháp thực nghiệm** (Galileo): *Xác định vấn đề -> Quan sát -> Giả thuyết -> Thí nghiệm -> Kết luận*.\n  3. **Phương pháp mô hình**: Xây dựng mô hình vật chất (quả địa cầu), mô hình lí thuyết (chất điểm, tia sáng), hoặc mô hình toán học (phương trình $s = v \\cdot t$).\n- **Từ khóa**: Vật chất, Năng lượng, Thực nghiệm, Mô hình, Chất điểm."
+  },
+  {
+    "lessonId": "vatly10_b2",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương I: Mở đầu",
+    "lessonOrder": 2,
+    "lessonContent": "### BÀI 2: CÁC QUY TẮC AN TOÀN TRONG PHÒNG THỰC HÀNH VẬT LÍ\n- **Chủ đề**: Quy tắc an toàn khi sử dụng thiết bị điện, nhiệt, thủy tinh, quang học và các biển cảnh báo.\n- **Kiến thức trọng tâm**:\n  1. **Thiết bị điện**: Phân biệt nguồn điện một chiều (DC, cực dương $+$, cực âm $-$) và xoay chiều (AC, $\\sim$). Đặt điện áp nguồn thấp nhất trước khi bật.\n  2. **Nguy cơ**: Điện giật (tiếp xúc dây sờn), hỏng ampe kế (đo quá giới hạn), cháy nổ (chập mạch, để vật dễ cháy gần đèn cồn). Dùng bình $CO_2$ dập lửa điện/xăng dầu, cấm dùng nước.\n  3. **Biển cảnh báo**: Kí hiệu độc sức khỏe, độc môi trường, nguy hiểm điện, chất ăn mòn, chất phóng xạ.\n- **Từ khóa**: An toàn phòng thực hành, Kí hiệu điện, Biển cảnh báo, Bình dập lửa CO2."
+  },
+  {
+    "lessonId": "vatly10_b3",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương I: Mở đầu",
+    "lessonOrder": 3,
+    "lessonContent": "### BÀI 3: THỰC HÀNH TÍNH SAI SỐ TRONG PHÉP ĐO. GHI KẾT QUẢ ĐO\n- **Chủ đề**: Phép đo trực tiếp/gián tiếp; Sai số hệ thống/ngẫu nhiên; Cách xác định sai số và ghi kết quả.\n- **Kiến thức trọng tâm**:\n  1. **Sai số hệ thống** (sai số dụng cụ $\\Delta A_{dc}$): Do dụng cụ đo, thường lấy bằng nửa hoặc một ĐCNN.\n  2. **Sai số ngẫu nhiên**: Do con người/môi trường. Giá trị trung bình: $\\bar{A} = \\frac{A_1 + ... + A_n}{n}$. Sai số ngẫu nhiên tuyệt đối trung bình: $\\bar{\\Delta A} = \\frac{\\Delta A_1 + ... + \\Delta A_n}{n}$.\n  3. **Sai số tuyệt đối**: $\\Delta A = \\bar{\\Delta A} + \\Delta A_{dc}$.\n  4. **Sai số tỉ đối**: $$\\delta A = \\frac{\\Delta A}{\\bar{A}} \\cdot 100\\%$$\n  5. **Phép đo gián tiếp**: Với $F = X \\pm Y \\Rightarrow \\Delta F = \\Delta X + \\Delta Y$; Với $F = X \\cdot Y$ hoặc $F = \\frac{X}{Y} \\Rightarrow \\delta F = \\delta X + \\delta Y$.\n  6. **Ghi kết quả**: $A = \\bar{A} \\pm \\Delta A$.\n- **Từ khóa**: Sai số ngẫu nhiên, Sai số dụng cụ, Sai số tỉ đối, Làm tròn số."
+  },
+  {
+    "lessonId": "vatly10_b4",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 4,
+    "lessonContent": "### BÀI 4: ĐỘ DỊCH CHUYỂN VÀ QUÃNG ĐƯỜNG ĐI ĐƯỢC\n- **Chủ đề**: Xác định vị trí bằng hệ tọa độ; Vectơ độ dịch chuyển; Phân biệt quãng đường và độ dịch chuyển.\n- **Kiến thức trọng tâm**:\n  1. **Hệ quy chiếu** = Hệ tọa độ (vật làm mốc, các trục Ox, Oy) + Mốc thời gian và đồng hồ.\n  2. **Độ dịch chuyển (Vectơ $\\vec{d}$)**: Đại lượng vectơ nối vị trí đầu và vị trí cuối của chuyển động.\n  3. **Phân biệt $s$ và $d$**:\n    - Quãng đường $s$: Độ dài quỹ đạo thực tế (vô hướng, luôn dương).\n    - Độ dịch chuyển $d$: Khoảng cách theo hướng xác định (vectơ, có thể âm, dương hoặc 0).\n    - Chuyển động thẳng không đổi chiều: độ lớn $d = s$. Chuyển động đổi chiều hoặc cong: độ lớn $d < s$.\n  4. **Tổng hợp**: Phép cộng vectơ: $$\\vec{d} = \\vec{d}_1 + \\vec{d}_2$$\n- **Từ khóa**: Hệ quy chiếu, Quãng đường, Độ dịch chuyển, Cộng vectơ."
+  },
+  {
+    "lessonId": "vatly10_b5",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 5,
+    "lessonContent": "### BÀI 5: TỐC ĐỘ VÀ VẬN TỐC\n- **Chủ đề**: Tốc độ trung bình/tức thời; Vận tốc trung bình/tức thời; Công thức cộng vận tốc.\n- **Kiến thức trọng tâm**:\n  1. **Tốc độ trung bình**: $v_{tb} = \\frac{s}{t}$ (vô hướng, đặc trưng cho mức nhanh chậm).\n  2. **Vận tốc trung bình**: $$\\vec{v} = \\frac{\\vec{d}}{t}$$\n    - Độ lớn vận tốc trung bình: $v = \\frac{d}{t}$ (vectơ, đặc trưng cho cả tốc độ và hướng chuyển động).\n  3. **Vận tốc tức thời $\\vec{v}_t$**: Vận tốc tại một thời điểm, phương tiếp tuyến quỹ đạo, chiều là chiều chuyển động.\n  4. **Công thức cộng vận tốc**: $$\\vec{v}_{13} = \\vec{v}_{12} + \\vec{v}_{23}$$\n    - Cùng chiều: $v_{13} = v_{12} + v_{23}$; Ngược chiều: $v_{13} = |v_{12} - v_{23}|$; Vuông góc: $v_{13} = \\sqrt{v_{12}^2 + v_{23}^2}$.\n- **Từ khóa**: Tốc độ, Vận tốc tức thời, Cộng vận tốc, Hệ quy chiếu."
+  },
+  {
+    "lessonId": "vatly10_b6",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 6,
+    "lessonContent": "### BÀI 6: THỰC HÀNH: ĐO TỐC ĐỘ CỦA VẬT CHUYỂN ĐỘNG\n- **Chủ đề**: Phương pháp đo tốc độ bằng cổng quang điện và đồng hồ đo thời gian hiện số MC964.\n- **Kiến thức trọng tâm**:\n  1. **Nguyên lí**: Đo quãng đường $s$ và khoảng thời gian $t$, tính $v = \\frac{s}{t}$.\n  2. **Thiết bị**: Đồng hồ MC964 (độ chính xác $0,001 \\text{ s}$); Cổng quang điện cảm biến ngắt sáng.\n  3. **Phương án**:\n    - *Đo tốc độ trung bình*: Dùng 2 cổng quang cách nhau quãng đường $s$. Đo thời gian $t$ vật đi từ cổng 1 đến cổng 2. Tính $v = \\frac{s}{t}$.\n    - *Đo tốc độ tức thời*: Dùng 1 cổng quang điện. Đo thời gian $t$ tấm cản quang có chiều rộng $d$ đi qua cổng quang. Tính $v \\approx \\frac{d}{t}$.\n- **Từ khóa**: Đồng hồ hiện số MC964, Cổng quang điện, Tấm cản quang, Tốc độ trung bình/tức thời."
+  },
+  {
+    "lessonId": "vatly10_b7",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 7,
+    "lessonContent": "### BÀI 7: ĐỒ THỊ ĐỘ DỊCH CHUYỂN – THỜI GIAN\n- **Chủ đề**: Chuyển động thẳng đều; Phương trình và đồ thị $d-t$; Xác định vận tốc từ độ dốc đồ thị.\n- **Kiến thức trọng tâm**:\n  1. **Chuyển động thẳng đều**: Chuyển động thẳng, tốc độ không đổi. Phương trình: $d = v \\cdot t$.\n  2. **Đồ thị $d-t$**: Là đường thẳng xuất phát từ gốc tọa độ (nếu vị trí ban đầu bằng 0).\n  3. **Xác định vận tốc**: Vận tốc bằng hệ số góc (độ dốc) của đường thẳng $d-t$:\n    $$v = \\text{độ dốc} = \\frac{\\Delta d}{\\Delta t}$$\n    - Độ dốc dương ($v > 0$): Vật chuyển động theo chiều dương.\n    - Độ dốc âm ($v < 0$): Vật chuyển động theo chiều âm.\n    - Độ dốc bằng 0 ($v = 0$): Vật đứng yên.\n- **Từ khóa**: Chuyển động thẳng đều, Đồ thị d-t, Hệ số góc, Vận tốc."
+  },
+  {
+    "lessonId": "vatly10_b8",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 8,
+    "lessonContent": "### BÀI 8: CHUYỂN ĐỘNG BIẾN ĐỔI. GIA TỐC\n- **Chủ đề**: Khái niệm chuyển động biến đổi; Gia tốc trung bình; Chiều vectơ gia tốc trong chuyển động nhanh/chậm dần.\n- **Kiến thức trọng tâm**:\n  1. **Chuyển động biến đổi**: Chuyển động thẳng có vận tốc thay đổi theo thời gian.\n  2. **Gia tốc (Vectơ $\\vec{a}$)**: Đặc trưng cho sự thay đổi nhanh chậm của vận tốc. Đơn vị: $m/s^2$:\n    $$\\vec{a} = \\frac{\\Delta \\vec{v}}{\\Delta t} = \\frac{\\vec{v}_t - \\vec{v}_0}{t - t_0}$$\n  3. **Mối quan hệ chiều**:\n    - Chuyển động nhanh dần: $\\vec{a}$ cùng chiều với $\\vec{v}$ (tích $a \\cdot v > 0$).\n    - Chuyển động chậm dần: $\\vec{a}$ ngược chiều với $\\vec{v}$ (tích $a \\cdot v < 0$).\n- **Từ khóa**: Chuyển động biến đổi, Gia tốc, Biến thiên vận tốc, Nhanh dần, Chậm dần."
+  },
+  {
+    "lessonId": "vatly10_b9",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 9,
+    "lessonContent": "### BÀI 9: CHUYỂN ĐỘNG THẲNG BIẾN ĐỔI ĐỀU\n- **Chủ đề**: Định nghĩa chuyển động thẳng biến đổi đều; Các công thức cốt lõi; Đồ thị vận tốc - thời gian ($v-t$).\n- **Kiến thức trọng tâm**:\n  1. **Định nghĩa**: Chuyển động thẳng có gia tốc $a$ không đổi theo thời gian.\n  2. **Công thức chuyển động**:\n    - Vận tốc tức thời: $$v_t = v_0 + a \\cdot t$$\n    - Độ dịch chuyển: $$d = v_0 \\cdot t + \\frac{1}{2} a \\cdot t^2$$\n    - Hệ thức liên hệ độc lập thời gian: $$v_t^2 - v_0^2 = 2a \\cdot d$$\n  3. **Đồ thị $v-t$**: Là đường thẳng có hệ số góc bằng gia tốc $a$. Diện tích hình giới hạn dưới đồ thị $v-t$ bằng độ lớn của độ dịch chuyển $d$.\n- **Từ khóa**: Biến đổi đều, Công thức chuyển động, Hệ thức độc lập thời gian, Đồ thị v-t."
+  },
+  {
+    "lessonId": "vatly10_b10",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 10,
+    "lessonContent": "### BÀI 10: SỰ RƠI TỰ DO\n- **Chủ đề**: Định nghĩa rơi tự do; Đặc điểm vật lí và các công thức rơi tự do; Gia tốc rơi tự do g.\n- **Kiến thức trọng tâm**:\n  1. **Sự rơi trong không khí**: Do sức cản không khí khác nhau nên các vật rơi nhanh chậm khác nhau. Trong chân không, mọi vật rơi nhanh như nhau.\n  2. **Rơi tự do**: Là sự rơi chỉ dưới tác dụng của trọng lực.\n  3. **Đặc điểm**: Phương thẳng đứng, chiều từ trên xuống, là chuyển động thẳng nhanh dần đều có $v_0 = 0$.\n  4. **Gia tốc rơi tự do $g$**: Sát mặt đất, mọi vật rơi tự do với cùng gia tốc $g \\approx 9,8 \\text{ m/s}^2$.\n  5. **Các công thức rơi tự do**:\n    - Vận tốc: $v = g \\cdot t$; Quãng đường: $s = \\frac{1}{2} g \\cdot t^2$; Liên hệ: $v^2 = 2g \\cdot s$.\n- **Từ khóa**: Rơi tự do, Trọng lực, Chân không, Gia tốc trọng trường g, Thí nghiệm Newton."
+  },
+  {
+    "lessonId": "vatly10_b11",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 11,
+    "lessonContent": "### BÀI 11: THỰC HÀNH: ĐO GIA TỐC RƠI TỰ DO\n- **Chủ đề**: Phương án thí nghiệm đo gia tốc rơi tự do $g$ dùng cổng quang điện và xử lý số liệu.\n- **Kiến thức trọng tâm**:\n  1. **Nguyên lí**: Thả vật rơi tự do qua quãng đường $s$, đo khoảng thời gian rơi $t$ bằng đồng hồ hiện số nối cổng quang điện. Tính gia tốc từ công thức: $$g = \\frac{2s}{t^2}$$\n  2. **Dụng cụ**: Giá thí nghiệm, dây dọi, nam châm điện giữ bi thép, cổng quang điện, đồng hồ đo thời gian hiện số MC964.\n  3. **Xử lý số liệu**: Đo ít nhất 5 lần, tính giá trị trung bình $\\bar{g}$ và sai số tuyệt đối $\\Delta g$. Ghi kết quả: $g = \\bar{g} \\pm \\Delta g$.\n- **Từ khóa**: Đo gia tốc g, Cổng quang điện, Nam châm điện, Thí nghiệm rơi tự do, Sai số số liệu."
+  },
+  {
+    "lessonId": "vatly10_b12",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương II: Động học",
+    "lessonOrder": 12,
+    "lessonContent": "### BÀI 12: CHUYỂN ĐỘNG NÉM\n- **Chủ đề**: Phân tích chuyển động ném; Chuyển động ném ngang và ném xiên; Tầm xa, tầm cao.\n- **Kiến thức trọng tâm**:\n  1. **Phương pháp**: Phân tích thành 2 chuyển động độc lập trên trục nằm ngang $Ox$ và trục thẳng đứng $Oy$.\n  2. **Chuyển động ném ngang** (từ độ cao $H$ với vận tốc $v_0$):\n    - Trục $Ox$ (thẳng đều): $v_x = v_0$, $x = v_0 \\cdot t$.\n    - Trục $Oy$ (rơi tự do): $v_y = g \\cdot t$, $y = \\frac{1}{2} g \\cdot t^2$.\n    - Thời gian rơi: $t_{max} = \\sqrt{\\frac{2H}{g}}$. Tầm xa: $L = v_0 \\cdot \\sqrt{\\frac{2H}{g}}$.\n  3. **Chuyển động ném xiên** (với góc ném $\\alpha$):\n    - Tầm cao: $$H = \\frac{v_0^2 \\sin^2\\alpha}{2g}$$\n    - Tầm xa: $$L = \\frac{v_0^2 \\sin(2\\alpha)}{g}$$ (đạt cực đại khi $\\alpha = 45^\\circ$).\n- **Từ khóa**: Chuyển động ném, Ném ngang, Ném xiên, Quỹ đạo parabol, Tầm xa, Tầm cao."
+  },
+  {
+    "lessonId": "vatly10_b13",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 13,
+    "lessonContent": "### BÀI 13: TỔNG HỢP VÀ PHÂN TÍCH LỰC. CÂN BẰNG LỰC\n- **Chủ đề**: Khái niệm lực; Hợp lực và quy tắc tổng hợp lực; Phân tích lực thành các thành phần vuông góc; Lực cân bằng.\n- **Kiến thức trọng tâm**:\n  1. **Lực ($\\vec{F}$)**: Đại lượng vectơ đặc trưng cho tác dụng vật này lên vật khác, gây gia tốc hoặc biến dạng. Đơn vị: Niutơn ($N$).\n  2. **Các lực cân bằng**: Các lực tác dụng lên cùng một vật có hợp lực bằng không: $\\vec{F}_1 + \\vec{F}_2 + ... = \\vec{0}$. Vật sẽ đứng yên hoặc chuyển động thẳng đều.\n  3. **Quy tắc hình bình hành**: Hợp lực $\\vec{F} = \\vec{F}_1 + \\vec{F}_2$ biểu diễn bởi đường chéo của hình bình hành có hai cạnh là $\\vec{F}_1$ và $\\vec{F}_2$. Độ lớn:\n    $$F = \\sqrt{F_1^2 + F_2^2 + 2F_1F_2\\cos\\alpha}$$\n    - Điều kiện giới hạn: $|F_1 - F_2| \\le F \\le F_1 + F_2$.\n  4. **Phân tích lực**: Thay thế một lực bằng hai lực thành phần vuông góc để tính toán.\n- **Từ khóa**: Hợp lực, Quy tắc hình bình hành, Phân tích lực, Lực cân bằng."
+  },
+  {
+    "lessonId": "vatly10_b14",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 14,
+    "lessonContent": "### BÀI 14: ĐỊNH LUẬT 1 NEWTON\n- **Chủ đề**: Nội dung định luật 1 Newton; Khái niệm Quán tính và ứng dụng trong đời sống.\n- **Kiến thức trọng tâm**:\n  1. **Định luật 1 Newton**: *Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng 0, vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động sẽ tiếp tục chuyển động thẳng đều*.\n  2. **Quán tính**: Tính chất bảo toàn trạng thái đứng yên hay chuyển động của vật.\n    - Khối lượng càng lớn thì mức quán tính càng lớn (vật càng khó thay đổi vận tốc).\n    - Ví dụ: Hành khách bị ngã về phía trước khi xe phanh gấp đột ngột.\n- **Từ khóa**: Định luật 1 Newton, Quán tính, Khối lượng, Trạng thái chuyển động, Phanh gấp."
+  },
+  {
+    "lessonId": "vatly10_b15",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 15,
+    "lessonContent": "### BÀI 15: ĐỊNH LUẬT 2 NEWTON\n- **Chủ đề**: Định luật 2 Newton; Mối quan hệ lực, khối lượng và gia tốc; Khối lượng là đặc trưng quán tính.\n- **Kiến thức trọng tâm**:\n  1. **Nội dung Định luật 2**: *Gia tốc của một vật cùng hướng với lực tác dụng. Độ lớn gia tốc tỉ lệ thuận với lực và tỉ lệ nghịch với khối lượng của vật*:\n    $$\\vec{a} = \\frac{\\vec{F}}{m} \\quad \\Rightarrow \\quad \\vec{F} = m \\cdot \\vec{a}$$\n    - Nếu nhiều lực tác dụng thì $\\vec{F}$ là hợp lực: $\\vec{F}_{hl} = m \\cdot \\vec{a}$.\n  2. **Đơn vị lực**: $1 \\text{ N} = 1 \\text{ kg} \\cdot \\text{m/s}^2$.\n  3. **Mức quán tính**: Khối lượng đặc trưng cho mức quán tính của vật. Vật có khối lượng lớn thu gia tốc nhỏ dưới cùng một lực, tức mức quán tính lớn.\n- **Từ khóa**: Định luật 2 Newton, Gia tốc, Hợp lực, Khối lượng, Mức quán tính."
+  },
+  {
+    "lessonId": "vatly10_b16",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 16,
+    "lessonContent": "### BÀI 16: ĐỊNH LUẬT 3 NEWTON\n- **Chủ đề**: Tương tác lực giữa hai vật; Nội dung định luật 3 Newton; Đặc điểm cặp lực và phản lực.\n- **Kiến thức trọng tâm**:\n  1. **Định luật 3 Newton**: *Khi vật A tác dụng lên vật B một lực, thì vật B cũng tác dụng lại vật A một lực. Hai lực này ngược chiều, cùng giá và cùng độ lớn*:\n    $$\\vec{F}_{AB} = -\\vec{F}_{BA}$$\n  2. **Đặc điểm lực và phản lực**:\n    - Xuất hiện và mất đi đồng thời.\n    - Cùng giá, ngược chiều, cùng độ lớn.\n    - Đặt vào hai vật khác nhau (không bao giờ tự triệt tiêu nhau, không phải là lực cân bằng).\n    - Cùng loại (cùng bản chất vật lí).\n- **Từ khóa**: Định luật 3 Newton, Lực và phản lực, Cặp lực trực đối, Điểm đặt lực."
+  },
+  {
+    "lessonId": "vatly10_b17",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 17,
+    "lessonContent": "### BÀI 17: TRỌNG LỰC VÀ LỰC CĂNG\n- **Chủ đề**: Đặc điểm trọng lực; Sự khác nhau giữa khối lượng và trọng lượng; Trọng tâm; Đặc điểm lực căng dây.\n- **Kiến thức trọng tâm**:\n  1. **Trọng lực ($\\vec{P}$)**: Lực hấp dẫn của Trái Đất tác dụng lên vật. Phương thẳng đứng, chiều hướng về tâm Trái Đất. Công thức: $$\\vec{P} = m \\cdot \\vec{g}$$\n  2. **Trọng lượng ($P$)**: Độ lớn trọng lực ($P = m \\cdot g$). Trọng lượng thay đổi tùy vị trí địa lí và độ cao, còn khối lượng $m$ không đổi.\n  3. **Trọng tâm**: Điểm đặt của trọng lực lên vật.\n  4. **Lực căng dây ($\\vec{T}$)**: Xuất hiện dọc theo sợi dây khi bị kéo căng, điểm đặt tại vị trí tiếp xúc giữa dây và vật, phương trùng dây, chiều hướng vào trong sợi dây.\n- **Từ khóa**: Trọng lực, Trọng lượng, Trọng tâm, Lực căng dây, Hệ thức P = mg."
+  },
+  {
+    "lessonId": "vatly10_b18",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 18,
+    "lessonContent": "### BÀI 18: LỰC MA SÁT\n- **Chủ đề**: Bản chất ma sát nghỉ; Lực ma sát trượt và công thức tính; Vai trò ma sát trong thực tế.\n- **Kiến thức trọng tâm**:\n  1. **Lực ma sát nghỉ**: Xuất hiện ở mặt tiếp xúc khi vật có xu hướng chuyển động nhưng chưa chuyển động. Có giá trị cân bằng với ngoại lực song song bề mặt.\n  2. **Lực ma sát trượt**: Xuất hiện ở mặt tiếp xúc khi một vật đang trượt trên bề mặt vật khác, ngược hướng chuyển động.\n    - *Công thức độ lớn*: $$F_{ms} = \\mu \\cdot N$$\n    Trong đó: $\\mu$ là hệ số ma sát trượt (không đơn vị, phụ thuộc vật liệu, trạng thái tiếp xúc); $N$ là áp lực lên bề mặt.\n  3. **Vai trò**: Ma sát nghỉ giúp bám đường; ma sát trượt hãm phanh. Ma sát cản trở chuyển động và mài mòn chi tiết máy (cần dùng ổ bi/bôi trơn để giảm).\n- **Từ khóa**: Ma sát nghỉ, Ma sát trượt, Hệ số ma sát, Áp lực, Ổ bi."
+  },
+  {
+    "lessonId": "vatly10_b19",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 19,
+    "lessonContent": "### BÀI 19: LỰC CẢN VÀ LỰC NÂNG\n- **Chủ đề**: Lực cản chất lưu và sự phụ thuộc; Lực nâng chất lưu; Lực đẩy Archimedes.\n- **Kiến thức trọng tâm**:\n  1. **Lực cản của chất lưu** (chất lỏng và khí): Tác dụng lên vật chuyển động ngược hướng vận tốc. Phụ thuộc vào hình dạng khí động học (vật hình con thoi chịu lực cản nhỏ) và tốc độ vật.\n  2. **Lực nâng**: Xuất hiện do chênh lệch áp suất giữa mặt trên và mặt dưới vật khi chuyển động trong chất lưu (như cánh máy bay nâng lên).\n  3. **Lực đẩy Archimedes**: Lực nâng khi vật đứng yên trong chất lưu:\n    $$F_A = \\rho \\cdot g \\cdot V$$\n    Trong đó: $\\rho$ là khối lượng riêng chất lưu; $V$ là thể tích chất lưu bị vật chiếm chỗ.\n- **Từ khóa**: Chất lưu, Lực cản, Khí động học, Lực nâng, Lực đẩy Archimedes."
+  },
+  {
+    "lessonId": "vatly10_b20",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 20,
+    "lessonContent": "### BÀI 20: MỘT SỐ VÍ DỤ VỀ CÁCH GIẢI CÁC BÀI TOÁN THUỘC PHẦN ĐỘNG LỰC HỌC\n- **Chủ đề**: Các bước giải bài toán động lực học bằng phương pháp động lực học (chiếu vectơ lực).\n- **Kiến thức trọng tâm**:\n  1. **Phương pháp giải**:\n    - *Bước 1*: Chọn vật khảo sát, phân tích các lực tác dụng lên vật (trọng lực, ma sát, phản lực, lực kéo...).\n    - *Bước 2*: Chọn hệ trục tọa độ vuông góc $Oxy$ phù hợp (Ox thường trùng hướng chuyển động).\n    - *Bước 3*: Viết phương trình định luật 2 Newton: $\\vec{F}_{hl} = m \\cdot \\vec{a}$.\n    - *Bước 4*: Chiếu phương trình lên 2 trục $Ox$, $Oy$ để chuyển thành các phương trình đại số:\n      + Trục $Oy$: $N + F_{ky} - P_y = 0 \\Rightarrow$ Xác định áp lực $N$ (để tính $F_{ms}$).\n      + Trục $Ox$: $F_{kx} - F_{ms} - P_x = m \\cdot a \\Rightarrow$ Xác định gia tốc $a$.\n    - *Bước 5*: Giải hệ và tìm đại lượng động học liên quan.\n- **Từ khóa**: Phương pháp động lực học, Phân tích lực, Chiếu vectơ, Trục tọa độ Oxy, Mặt phẳng nghiêng."
+  },
+  {
+    "lessonId": "vatly10_b21",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 21,
+    "lessonContent": "### BÀI 21: MOMENT LỰC. CÂN BẰNG CỦA VẬT RẮN\n- **Chủ đề**: Tác dụng làm quay của lực; Định nghĩa Moment lực; Quy tắc moment lực (cân bằng vật rắn); Ngẫu lực.\n- **Kiến thức trọng tâm**:\n  1. **Cánh tay đòn ($d$)**: Khoảng cách từ trục quay đến giá của lực.\n  2. **Moment lực ($M$)**: Đặc trưng cho tác dụng làm quay của lực:\n    $$M = F \\cdot d$$\n    - Đơn vị: Niutơn mét ($N \\cdot m$).\n  3. **Quy tắc moment lực** (điều kiện cân bằng vật rắn có trục quay cố định): tổng moment lực quay theo chiều kim đồng hồ bằng tổng moment lực quay ngược chiều kim đồng hồ: $$\\sum M_{\\text{thuận}} = \\sum M_{\\text{ngược}}$$\n  4. **Ngẫu lực**: Hệ hai lực song song, ngược chiều, độ lớn bằng nhau cùng tác dụng làm vật quay. Moment ngẫu lực: $M = F \\cdot d$ ($d$ là khoảng cách giữa 2 giá lực).\n- **Từ khóa**: Moment lực, Cánh tay đòn, Quy tắc moment, Ngẫu lực, Cân bằng vật rắn."
+  },
+  {
+    "lessonId": "vatly10_b22",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương III: Động lực học",
+    "lessonOrder": 22,
+    "lessonContent": "### BÀI 22: THỰC HÀNH: TỔNG HỢP LỰC\n- **Chủ đề**: Thí nghiệm kiểm chứng quy tắc hình bình hành và quy tắc tổng hợp hai lực song song cùng chiều.\n- **Kiến thức trọng tâm**:\n  1. **Tổng hợp lực đồng quy**: Dùng lực kế kéo dây cao su xác định lực thành phần $F_1, F_2$ và góc $\\alpha$. Đo hợp lực thực nghiệm $F_{tn}$ khi kéo vòng dây về đúng vị trí cũ. So sánh kết quả thực nghiệm với lí thuyết định lí hàm cos: $F_{lt} = \\sqrt{F_1^2 + F_2^2 + 2F_1F_2\\cos\\alpha}$.\n  2. **Tổng hợp lực song song cùng chiều**: Treo các quả nặng để thanh kim loại nằm ngang. Xác định các lực $F_1, F_2$ và khoảng cách $d_1, d_2$. Kiểm chứng hợp lực $F = F_1 + F_2$ và hệ thức cánh tay đòn tỉ lệ nghịch: $$\\frac{F_1}{F_2} = \\frac{d_2}{d_1}$$\n- **Từ khóa**: Thực hành vật lí, Lực đồng quy, Lực song song cùng chiều, Định lí hàm cos, Tỉ lệ nghịch."
+  },
+  {
+    "lessonId": "vatly10_b23",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương IV: Năng lượng, Công, Công suất",
+    "lessonOrder": 23,
+    "lessonContent": "### BÀI 23: NĂNG LƯỢNG. CÔNG CƠ HỌC\n- **Chủ đề**: Khái niệm năng lượng và bảo toàn năng lượng; Công cơ học và công thức tính; Công phát động, công cản.\n- **Kiến thức trọng tâm**:\n  1. **Năng lượng**: Đại lượng đặc trưng cho khả năng thực hiện công, được bảo toàn (chỉ truyền hoặc chuyển hóa dạng).\n  2. **Công cơ học ($A$)**: Số đo phần năng lượng được truyền hoặc chuyển hóa. Công thức tính với lực không đổi:\n    $$A = F \\cdot s \\cdot \\cos\\alpha$$\n    - Đơn vị: Jun ($J$).\n  3. **Tính chất công theo góc $\\alpha$**:\n    - $0^\\circ \\le \\alpha < 90^\\circ$: $\\cos\\alpha > 0 \\Rightarrow A > 0$, **công phát động**.\n    - $\\alpha = 90^\\circ$: $\\cos\\alpha = 0 \\Rightarrow A = 0$, lực vuông góc hướng chuyển động **không sinh công** (như lực hướng tâm).\n    - $90^\\circ < \\alpha \\le 180^\\circ$: $\\cos\\alpha < 0 \\Rightarrow A < 0$, **công cản** (như lực ma sát).\n- **Từ khóa**: Năng lượng, Công cơ học, Công phát động, Công cản, Lực không sinh công."
+  },
+  {
+    "lessonId": "vatly10_b24",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương IV: Năng lượng, Công, Công suất",
+    "lessonOrder": 24,
+    "lessonContent": "### BÀI 24: CÔNG SUẤT\n- **Chủ đề**: Khái niệm công suất; Công thức tính công suất trung bình/tức thời; Liên hệ công suất, lực và vận tốc.\n- **Kiến thức trọng tâm**:\n  1. **Công suất ($\\mathcal{P}$)**: Đặc trưng cho tốc độ thực hiện công, đo bằng công thực hiện trong một đơn vị thời gian.\n  2. **Công thức**: $$\\mathcal{P} = \\frac{A}{t}$$\n    - Đơn vị: Oát ($W$, $1 \\text{ W} = 1 \\text{ J/s}$). Bội số: $1 \\text{ kW} = 10^3 \\text{ W}$. Điện năng tiêu thụ $1 \\text{ kW.h} = 3,6 \\cdot 10^6 \\text{ J}$.\n  3. **Liên hệ $\\mathcal{P}$, $F$, $v$**: Chuyển động cùng hướng lực kéo:\n    $$\\mathcal{P} = F \\cdot v$$\n    - Công suất tức thời: $\\mathcal{P}_t = F \\cdot v_t$. Khi công suất động cơ không đổi, muốn tăng lực kéo $F$ phải giảm tốc độ $v$ (đi xe số nhỏ khi lên dốc).\n- **Từ khóa**: Công suất, Tốc độ sinh công, Watt, Công thức P = Fv, Lên dốc xe máy."
+  },
+  {
+    "lessonId": "vatly10_b25",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương IV: Năng lượng, Công, Công suất",
+    "lessonOrder": 25,
+    "lessonContent": "### BÀI 25: ĐỘNG NĂNG, THẾ NĂNG\n- **Chủ đề**: Khái niệm và công thức động năng, định lí động năng; Thế năng trọng trường; Công trọng lực.\n- **Kiến thức trọng tâm**:\n  1. **Động năng ($W_đ$)**: Năng lượng vật có được do chuyển động: $$W_đ = \\frac{1}{2} m v^2$$\n  2. **Định lí động năng**: Công ngoại lực bằng độ biến thiên động năng:\n    $$A = \\Delta W_đ = W_{đ2} - W_{đ1} = \\frac{1}{2} m v_2^2 - \\frac{1}{2} m v_1^2$$\n  3. **Thế năng trọng trường ($W_t$)**: Dạng năng lượng tương tác giữa vật và Trái Đất, phụ thuộc độ cao:\n    $$W_t = m \\cdot g \\cdot h$$\n    (với $h$ là độ cao so với mốc thế năng được chọn).\n  4. **Công trọng lực**: Bằng độ giảm thế năng, không phụ thuộc đường đi:\n    $$A_{12} = W_{t1} - W_{t2} = m \\cdot g \\cdot (h_1 - h_2)$$\n- **Từ khóa**: Động năng, Thế năng trọng trường, Định lí động năng, Mốc thế năng, Lực thế."
+  },
+  {
+    "lessonId": "vatly10_b26",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương IV: Năng lượng, Công, Công suất",
+    "lessonOrder": 26,
+    "lessonContent": "### BÀI 26: CƠ NĂNG VÀ ĐỊNH LUẬT BẢO TOÀN CƠ NĂNG\n- **Chủ đề**: Khái niệm cơ năng; Sự chuyển hóa động năng - thế năng; Định luật bảo toàn cơ năng trong trường lực thế.\n- **Kiến thức trọng tâm**:\n  1. **Cơ năng ($W$)**: Tổng động năng và thế năng của vật: $$W = W_đ + W_t = \\frac{1}{2} m v^2 + m \\cdot g \\cdot h$$\n  2. **Định luật bảo toàn cơ năng**: *Khi một vật chuyển động chỉ chịu tác dụng của trọng lực (hoặc lực đàn hồi) thì cơ năng của vật bảo toàn*:\n    $$W = \\frac{1}{2} m v^2 + m \\cdot g \\cdot h = \\text{hằng số}$$\n    - Động năng tăng thì thế năng giảm và ngược lại (chuyển hóa qua lại).\n  3. **Khi có lực ma sát, lực cản**: Cơ năng không bảo toàn, độ biến thiên cơ năng bằng công lực cản hãm:\n    $$A_{cl} = W_2 - W_1$$\n- **Từ khóa**: Cơ năng, Bảo toàn cơ năng, Sự chuyển hóa năng lượng, Công lực cản."
+  },
+  {
+    "lessonId": "vatly10_b27",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương IV: Năng lượng, Công, Công suất",
+    "lessonOrder": 27,
+    "lessonContent": "### BÀI 27: HIỆU SUẤT\n- **Chủ đề**: Năng lượng có ích và hao phí; Định nghĩa hiệu suất; Công thức tính hiệu suất động cơ.\n- **Kiến thức trọng tâm**:\n  1. **Phân chia năng lượng**: Năng lượng đầu vào toàn phần $W_{tp} = W_{ci} (có ích) + W_{hp} (hao phí)$. Hao phí thường ở dạng nhiệt năng tỏa ra môi trường.\n  2. **Hiệu suất ($H$)**: Tỉ số năng lượng có ích so với năng lượng toàn phần đưa vào máy:\n    $$H = \\frac{W_{ci}}{W_{tp}} \\cdot 100\\% \\quad \\text{hoặc} \\quad H = \\frac{\\mathcal{P}_{ci}}{\\mathcal{P}_{tp}} \\cdot 100\\%$$\n  3. **Đặc điểm**: Hiệu suất luôn nhỏ hơn $100\\%$ ($H < 1$) do hao phí không thể tránh khỏi.\n  4. **Thiết bị**: Đèn dây tóc có hiệu suất quang năng rất thấp (7%), đèn LED hiệu suất cao (95%), động cơ điện hiệu suất rất cao (96%).\n- **Từ khóa**: Năng lượng có ích, Năng lượng hao phí, Hiệu suất H, Tỏa nhiệt hao phí, Thiết bị đèn LED."
+  },
+  {
+    "lessonId": "vatly10_b28",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương V: Động lượng",
+    "lessonOrder": 28,
+    "lessonContent": "### BÀI 28: ĐỘNG LƯỢNG\n- **Chủ đề**: Định nghĩa động năng lượng (động lượng); Xung lượng của lực; Định lí biến thiên động lượng.\n- **Kiến thức trọng tâm**:\n  1. **Động lượng ($\\vec{p}$)**: Đại lượng vectơ đặc trưng cho sự truyền tương tác chuyển động của vật:\n    $$\\vec{p} = m \\cdot \\vec{v}$$\n    - Đơn vị: $kg \\cdot m/s$. Vectơ $\\vec{p}$ cùng hướng với vận tốc $\\vec{v}$.\n  2. **Xung lượng của lực**: Tích $\\vec{F} \\cdot \\Delta t$ ($N \\cdot s$, với $1 \\text{ N.s} = 1 \\text{ kg.m/s}$).\n  3. **Định lí biến thiên động lượng**: Độ biến thiên động lượng bằng xung lượng của hợp lực tác dụng lên vật:\n    $$\\vec{F} \\cdot \\Delta t = \\vec{p}_2 - \\vec{p}_1 = \\Delta \\vec{p}$$\n    - Giải thích các hiện tượng tương tác mạnh xảy ra trong thời gian ngắn (vợt đánh bóng, va chạm).\n- **Từ khóa**: Động lượng, Vectơ động lượng, Xung lượng của lực, Biến thiên động lượng."
+  },
+  {
+    "lessonId": "vatly10_b29",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương V: Động lượng",
+    "lessonOrder": 29,
+    "lessonContent": "### BÀI 29: ĐỊNH LUẬT BẢO TOÀN ĐỘNG LƯỢNG\n- **Chủ đề**: Định nghĩa hệ kín; Định luật bảo toàn động lượng; Va chạm mềm/đàn hồi; Chuyển động bằng phản lực.\n- **Kiến thức trọng tâm**:\n  1. **Hệ kín**: Hệ vật không chịu ngoại lực tác dụng hoặc ngoại lực triệt tiêu lẫn nhau (hợp ngoại lực bằng không).\n  2. **Định luật bảo toàn động lượng**: Động lượng toàn phần của hệ kín được bảo toàn:\n    $$\\vec{p} = \\vec{p}_1 + \\vec{p}_2 + ... = \\text{hằng số}$$\n  3. **Ứng dụng va chạm mềm** (hai vật dính nhau sau va chạm cùng vận tốc $\\vec{v}$):\n    $$m_1 \\vec{v}_1 + m_2 \\vec{v}_2 = (m_1 + m_2)\\vec{v} \\quad \\Rightarrow \\quad \\vec{v} = \\frac{m_1 \\vec{v}_1 + m_2 \\vec{v}_2}{m_1 + m_2}$$\n  4. **Chuyển động bằng phản lực**: Một phần tách ra chuyển động về phía trước đẩy phần còn lại chuyển động lùi lại sau (tên lửa phụt khí).\n- **Từ khóa**: Hệ kín, Bảo toàn động lượng, Va chạm mềm, Va chạm đàn hồi, Phản lực, Tên lửa."
+  },
+  {
+    "lessonId": "vatly10_b30",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương V: Động lượng",
+    "lessonOrder": 30,
+    "lessonContent": "### BÀI 30: THỰC HÀNH: XÁC ĐỊNH ĐỘNG LƯỢNG CỦA VẬT TRƯỚC VÀ SAU VA CHẠM\n- **Chủ đề**: Thí nghiệm kiểm chứng định luật bảo toàn động lượng trong va chạm trên đệm khí giảm ma sát.\n- **Kiến thức trọng tâm**:\n  1. **Nguyên lí**: Đo khối lượng $m_1, m_2$ và đo vận tốc bằng cổng quang trước va chạm ($v_1, v_2$) và sau va chạm ($v'_1, v'_2$). Kiểm chứng hệ thức bảo toàn động lượng.\n  2. **Thiết bị**: Băng đệm khí thổi hơi nâng xe trượt (giảm ma sát để tạo hệ kín); Cổng quang điện và đồng hồ thời gian hiện số để tính vận tốc $v = \\frac{d}{t}$.\n  3. **Phương án**:\n    - *Va chạm mềm*: Ghép dính hai xe trượt nhờ miếng nhựa dính sau va chạm.\n    - *Va chạm đàn hồi*: Hai xe va chạm nảy ra nhờ lò xo lắp ở đầu xe.\n- **Từ khóa**: Đệm khí giảm ma sát, Thí nghiệm va chạm, Xác định động lượng, Cổng quang điện."
+  },
+  {
+    "lessonId": "vatly10_b31",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương VI: Chuyển động tròn đều",
+    "lessonOrder": 31,
+    "lessonContent": "### BÀI 31: ĐỘNG HỌC CỦA CHUYỂN ĐỘNG TRÒN ĐỀU\n- **Chủ đề**: Định nghĩa tròn đều; Độ dịch chuyển góc; Tốc độ dài/góc; Chu kì, tần số quay và công thức liên hệ.\n- **Kiến thức trọng tâm**:\n  1. **Chuyển động tròn đều**: Chuyển động tròn có tốc độ dài không đổi.\n  2. **Độ dịch chuyển góc ($\\theta$ trong rad)**: Góc ở tâm chắn cung $s$:\n    $$\\theta = \\frac{s}{r} \\quad (180^\\circ = \\pi \\text{ rad})$$\n  3. **Tốc độ góc ($\\omega$ trong rad/s)**: Độ dịch chuyển góc trong một đơn vị thời gian: $$\\omega = \\frac{\\theta}{t}$$\n  4. **Chu kì ($T$) và Tần số ($f$)**:\n    - Chu kì $T$ (thời gian quay 1 vòng): $T = \\frac{2\\pi}{\\omega}$.\n    - Tần số $f$ (số vòng quay trong 1 giây): $f = \\frac{1}{T}$ ($Hz$).\n  5. **Tốc độ dài ($v$) và liên hệ**: $v = \\frac{s}{t} \\Rightarrow v = \\omega \\cdot r$. Vectơ vận tốc tức thời tiếp tuyến quỹ đạo đường tròn, hướng thay đổi liên tục.\n- **Từ khóa**: Chuyển động tròn đều, Radian, Tốc độ góc, Tốc độ dài, Chu kì, Tần số."
+  },
+  {
+    "lessonId": "vatly10_b32",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương VI: Chuyển động tròn đều",
+    "lessonOrder": 32,
+    "lessonContent": "### BÀI 32: LỰC HƯỚNG TÂM VÀ GIA TỐC HƯỚNG TÂM\n- **Chủ đề**: Nguyên nhân và công thức gia tốc hướng tâm; Bản chất lực hướng tâm và ứng dụng thực tế.\n- **Kiến thức trọng tâm**:\n  1. **Gia tốc hướng tâm ($a_{ht}$)**: Xuất hiện do sự thay đổi hướng liên tục của vectơ vận tốc trong chuyển động tròn đều, hướng vào tâm:\n    $$a_{ht} = \\frac{v^2}{r} = \\omega^2 \\cdot r$$\n  2. **Lực hướng tâm ($F_{ht}$)**: Lực (hoặc hợp lực) tác dụng lên vật gây ra gia tốc hướng tâm, hướng vào tâm quỹ đạo:\n    $$F_{ht} = m \\cdot a_{ht} = m \\cdot \\frac{v^2}{r} = m \\cdot \\omega^2 \\cdot r$$\n    - *Bản chất*: Không phải lực mới. Là vai trò của các lực có sẵn (như ma sát nghỉ giữ ô tô rẽ khúc cua tròn, lực căng dây quay vật, lực hấp dẫn giữ vệ tinh).\n- **Từ khóa**: Gia tốc hướng tâm, Lực hướng tâm, Quỹ đạo tròn, Khúc cua nghiêng bám đường."
+  },
+  {
+    "lessonId": "vatly10_b33",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương VII: Biến dạng của vật rắn. Áp suất chất lỏng",
+    "lessonOrder": 33,
+    "lessonContent": "### BÀI 33: BIẾN DẠNG CỦA VẬT RẮN\n- **Chủ đề**: Biến dạng cơ kéo/nén; Giới hạn đàn hồi; Lực đàn hồi và phát biểu Định luật Hooke.\n- **Kiến thức trọng tâm**:\n  1. **Biến dạng cơ**: Gồm biến dạng kéo (vật dãn dài ra) và biến dạng nén (vật ngắn lại).\n  2. **Biến dạng đàn hồi**: Biến dạng biến mất khi ngừng lực. Giới hạn đàn hồi: Lực tối đa để vật còn đàn hồi.\n  3. **Định luật Hooke**: *Trong giới hạn đàn hồi, độ lớn lực đàn hồi tỉ lệ thuận với độ biến dạng của lò xo*:\n    $$F_{đh} = k \\cdot |\\Delta l|$$\n    Trong đó: $k$ là độ cứng (hệ số đàn hồi) của lò xo ($N/m$); $\\Delta l = |l - l_0|$ là độ biến dạng dãn hay nén ($m$).\n- **Từ khóa**: Biến dạng kéo, Biến dạng nén, Giới hạn đàn hồi, Lực đàn hồi, Định luật Hooke, Độ cứng k."
+  },
+  {
+    "lessonId": "vatly10_b34",
+    "grade": 10,
+    "subject": "Vật lí",
+    "chapterName": "Chương VII: Biến dạng của vật rắn. Áp suất chất lỏng",
+    "lessonOrder": 34,
+    "lessonContent": "### BÀI 34: KHỐI LƯỢNG RIÊNG. ÁP SUẤT CHẤT LỎNG\n- **Chủ đề**: Khối lượng riêng; Khái niệm áp lực, áp suất; Áp suất tĩnh của cột chất lỏng và chênh lệch áp suất.\n- **Kiến thức trọng tâm**:\n  1. **Khối lượng riêng ($\\rho$)**: Khối lượng của một đơn vị thể tích chất: $$\\rho = \\frac{m}{V} \\quad (1 \\text{ g/cm}^3 = 1000 \\text{ kg/m}^3)$$\n  2. **Áp lực**: Lực ép vuông góc bề mặt.\n  3. **Áp suất ($p$)**: Độ lớn áp lực trên một đơn vị diện tích: $$p = \\frac{F_N}{S}$$\n    - Đơn vị: Pascan ($Pa$, $1 \\text{ Pa} = 1 \\text{ N/m}^2$).\n  4. **Áp suất chất lỏng đứng yên** ở độ sâu $h$ từ mặt thoáng:\n    $$p = p_0 + \\rho \\cdot g \\cdot h$$\n    - Trong đó: $p_0$ là áp suất khí quyển; $\\rho \\cdot g \\cdot h$ là áp suất tĩnh chất lỏng.\n    - Chênh lệch áp suất giữa hai điểm: $\\Delta p = \\rho \\cdot g \\cdot \\Delta h$.\n- **Từ khóa**: Khối lượng riêng, Áp lực, Áp suất, Pascal, Áp suất tĩnh, Thủy tĩnh học."
+  }
+]

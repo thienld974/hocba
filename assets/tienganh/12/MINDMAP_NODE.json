@@ -1,0 +1,800 @@
+[
+  {
+    "nodeId": "root_ta12",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TIẾNG ANH 12 - GLOBAL SUCCESS",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "tienganh12_node_u1",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 1: Life Stories We Admire",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u1_gettingstarted",
+    "lessonId": "tienganh12_u1_gettingstarted",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u1_language",
+    "lessonId": "tienganh12_u1_language",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u1_reading",
+    "lessonId": "tienganh12_u1_reading",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u1_speaking",
+    "lessonId": "tienganh12_u1_speaking",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u1_listening",
+    "lessonId": "tienganh12_u1_listening",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u1_writing",
+    "lessonId": "tienganh12_u1_writing",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u1_communication_culture",
+    "lessonId": "tienganh12_u1_communication_culture",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u1_lookingback",
+    "lessonId": "tienganh12_u1_lookingback",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u1_project",
+    "lessonId": "tienganh12_u1_project",
+    "parentNodeId": "tienganh12_node_u1",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u2",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 2: A Multicultural World",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u2_gettingstarted",
+    "lessonId": "tienganh12_u2_gettingstarted",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u2_language",
+    "lessonId": "tienganh12_u2_language",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u2_reading",
+    "lessonId": "tienganh12_u2_reading",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u2_speaking",
+    "lessonId": "tienganh12_u2_speaking",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u2_listening",
+    "lessonId": "tienganh12_u2_listening",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u2_writing",
+    "lessonId": "tienganh12_u2_writing",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u2_communication_culture",
+    "lessonId": "tienganh12_u2_communication_culture",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u2_lookingback",
+    "lessonId": "tienganh12_u2_lookingback",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u2_project",
+    "lessonId": "tienganh12_u2_project",
+    "parentNodeId": "tienganh12_node_u2",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u3",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 3: Green Living",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u3_gettingstarted",
+    "lessonId": "tienganh12_u3_gettingstarted",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u3_language",
+    "lessonId": "tienganh12_u3_language",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u3_reading",
+    "lessonId": "tienganh12_u3_reading",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u3_speaking",
+    "lessonId": "tienganh12_u3_speaking",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u3_listening",
+    "lessonId": "tienganh12_u3_listening",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u3_writing",
+    "lessonId": "tienganh12_u3_writing",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u3_communication_culture",
+    "lessonId": "tienganh12_u3_communication_culture",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u3_lookingback",
+    "lessonId": "tienganh12_u3_lookingback",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u3_project",
+    "lessonId": "tienganh12_u3_project",
+    "parentNodeId": "tienganh12_node_u3",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_r1",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Review 1 (Unit 1-2-3)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_r1_language",
+    "lessonId": "tienganh12_r1_language",
+    "parentNodeId": "tienganh12_node_r1",
+    "nodeName": "Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_r1_skills",
+    "lessonId": "tienganh12_r1_skills",
+    "parentNodeId": "tienganh12_node_r1",
+    "nodeName": "Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u4",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 4: Urbanisation",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u4_gettingstarted",
+    "lessonId": "tienganh12_u4_gettingstarted",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u4_language",
+    "lessonId": "tienganh12_u4_language",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u4_reading",
+    "lessonId": "tienganh12_u4_reading",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u4_speaking",
+    "lessonId": "tienganh12_u4_speaking",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u4_listening",
+    "lessonId": "tienganh12_u4_listening",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u4_writing",
+    "lessonId": "tienganh12_u4_writing",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u4_communication_culture",
+    "lessonId": "tienganh12_u4_communication_culture",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u4_lookingback",
+    "lessonId": "tienganh12_u4_lookingback",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u4_project",
+    "lessonId": "tienganh12_u4_project",
+    "parentNodeId": "tienganh12_node_u4",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u5",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 5: The World of Work",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u5_gettingstarted",
+    "lessonId": "tienganh12_u5_gettingstarted",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u5_language",
+    "lessonId": "tienganh12_u5_language",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u5_reading",
+    "lessonId": "tienganh12_u5_reading",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u5_speaking",
+    "lessonId": "tienganh12_u5_speaking",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u5_listening",
+    "lessonId": "tienganh12_u5_listening",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u5_writing",
+    "lessonId": "tienganh12_u5_writing",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u5_communication_culture",
+    "lessonId": "tienganh12_u5_communication_culture",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u5_lookingback",
+    "lessonId": "tienganh12_u5_lookingback",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u5_project",
+    "lessonId": "tienganh12_u5_project",
+    "parentNodeId": "tienganh12_node_u5",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_r2",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Review 2 (Unit 4-5)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_r2_language",
+    "lessonId": "tienganh12_r2_language",
+    "parentNodeId": "tienganh12_node_r2",
+    "nodeName": "Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_r2_skills",
+    "lessonId": "tienganh12_r2_skills",
+    "parentNodeId": "tienganh12_node_r2",
+    "nodeName": "Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u6",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 6: Artificial Intelligence",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u6_gettingstarted",
+    "lessonId": "tienganh12_u6_gettingstarted",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u6_language",
+    "lessonId": "tienganh12_u6_language",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u6_reading",
+    "lessonId": "tienganh12_u6_reading",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u6_speaking",
+    "lessonId": "tienganh12_u6_speaking",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u6_listening",
+    "lessonId": "tienganh12_u6_listening",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u6_writing",
+    "lessonId": "tienganh12_u6_writing",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u6_communication_culture",
+    "lessonId": "tienganh12_u6_communication_culture",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u6_lookingback",
+    "lessonId": "tienganh12_u6_lookingback",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u6_project",
+    "lessonId": "tienganh12_u6_project",
+    "parentNodeId": "tienganh12_node_u6",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u7",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 7: The World of Mass Media",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u7_gettingstarted",
+    "lessonId": "tienganh12_u7_gettingstarted",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u7_language",
+    "lessonId": "tienganh12_u7_language",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u7_reading",
+    "lessonId": "tienganh12_u7_reading",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u7_speaking",
+    "lessonId": "tienganh12_u7_speaking",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u7_listening",
+    "lessonId": "tienganh12_u7_listening",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u7_writing",
+    "lessonId": "tienganh12_u7_writing",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u7_communication_culture",
+    "lessonId": "tienganh12_u7_communication_culture",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u7_lookingback",
+    "lessonId": "tienganh12_u7_lookingback",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u7_project",
+    "lessonId": "tienganh12_u7_project",
+    "parentNodeId": "tienganh12_node_u7",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u8",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 8: Wildlife Conservation",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "tienganh12_node_u8_gettingstarted",
+    "lessonId": "tienganh12_u8_gettingstarted",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u8_language",
+    "lessonId": "tienganh12_u8_language",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u8_reading",
+    "lessonId": "tienganh12_u8_reading",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u8_speaking",
+    "lessonId": "tienganh12_u8_speaking",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u8_listening",
+    "lessonId": "tienganh12_u8_listening",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u8_writing",
+    "lessonId": "tienganh12_u8_writing",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u8_communication_culture",
+    "lessonId": "tienganh12_u8_communication_culture",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u8_lookingback",
+    "lessonId": "tienganh12_u8_lookingback",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u8_project",
+    "lessonId": "tienganh12_u8_project",
+    "parentNodeId": "tienganh12_node_u8",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_r3",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Review 3 (Unit 6-7-8)",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "tienganh12_node_r3_language",
+    "lessonId": "tienganh12_r3_language",
+    "parentNodeId": "tienganh12_node_r3",
+    "nodeName": "Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_r3_skills",
+    "lessonId": "tienganh12_r3_skills",
+    "parentNodeId": "tienganh12_node_r3",
+    "nodeName": "Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u9",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 9: Career Paths",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "tienganh12_node_u9_gettingstarted",
+    "lessonId": "tienganh12_u9_gettingstarted",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u9_language",
+    "lessonId": "tienganh12_u9_language",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u9_reading",
+    "lessonId": "tienganh12_u9_reading",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u9_speaking",
+    "lessonId": "tienganh12_u9_speaking",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u9_listening",
+    "lessonId": "tienganh12_u9_listening",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u9_writing",
+    "lessonId": "tienganh12_u9_writing",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u9_communication_culture",
+    "lessonId": "tienganh12_u9_communication_culture",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u9_lookingback",
+    "lessonId": "tienganh12_u9_lookingback",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u9_project",
+    "lessonId": "tienganh12_u9_project",
+    "parentNodeId": "tienganh12_node_u9",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_u10",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Unit 10: Lifelong Learning",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "tienganh12_node_u10_gettingstarted",
+    "lessonId": "tienganh12_u10_gettingstarted",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_u10_language",
+    "lessonId": "tienganh12_u10_language",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Language",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_u10_reading",
+    "lessonId": "tienganh12_u10_reading",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Reading",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh12_node_u10_speaking",
+    "lessonId": "tienganh12_u10_speaking",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Speaking",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh12_node_u10_listening",
+    "lessonId": "tienganh12_u10_listening",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Listening",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh12_node_u10_writing",
+    "lessonId": "tienganh12_u10_writing",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Writing",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh12_node_u10_communication_culture",
+    "lessonId": "tienganh12_u10_communication_culture",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Communication and Culture / CLIL",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh12_node_u10_lookingback",
+    "lessonId": "tienganh12_u10_lookingback",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Looking Back",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh12_node_u10_project",
+    "lessonId": "tienganh12_u10_project",
+    "parentNodeId": "tienganh12_node_u10",
+    "nodeName": "Project",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh12_node_r4",
+    "lessonId": null,
+    "parentNodeId": "root_ta12",
+    "nodeName": "Review 4 (Unit 9-10)",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "tienganh12_node_r4_language",
+    "lessonId": "tienganh12_r4_language",
+    "parentNodeId": "tienganh12_node_r4",
+    "nodeName": "Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh12_node_r4_skills",
+    "lessonId": "tienganh12_r4_skills",
+    "parentNodeId": "tienganh12_node_r4",
+    "nodeName": "Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh12_node_glossary",
+    "lessonId": "tienganh12_glossary",
+    "parentNodeId": "root_ta12",
+    "nodeName": "Glossary",
+    "orderIndex": 15
+  }
+]

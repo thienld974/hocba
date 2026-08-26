@@ -1,0 +1,667 @@
+[
+  {
+    "nodeId": "root_nv10",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 10 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan10_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nv10",
+    "nodeName": "Ngữ văn 10 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol1",
+    "nodeName": "Bài 1: Sức hấp dẫn của truyện kể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_tt",
+    "lessonId": "nguvan10_t1_b1_tt",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_d1",
+    "lessonId": "nguvan10_t1_b1_d1",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Đọc: Truyện về các vị thần sáng tạo thế giới (Thần thoại Việt Nam)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_d2",
+    "lessonId": "nguvan10_t1_b1_d2",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Đọc: Tản Viên từ Phán sự lục (Nguyễn Dữ)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_d3",
+    "lessonId": "nguvan10_t1_b1_d3",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Đọc: Chữ người tử tù (Nguyễn Tuân)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_thtv",
+    "lessonId": "nguvan10_t1_b1_thtv",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Thực hành tiếng Việt: Sử dụng từ Hán Việt",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_v",
+    "lessonId": "nguvan10_t1_b1_v",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Viết: Viết văn bản nghị luận phân tích, đánh giá một tác phẩm truyện",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_nn",
+    "lessonId": "nguvan10_t1_b1_nn",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Nói và Nghe: Giới thiệu, đánh giá về nội dung và nghệ thuật của một tác phẩm truyện",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_cgmr",
+    "lessonId": "nguvan10_t1_b1_cgmr",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b1_thd",
+    "lessonId": "nguvan10_t1_b1_thd",
+    "parentNodeId": "nguvan10_node_t1_b1",
+    "nodeName": "Thực hành đọc: Tê-đê (Thần thoại Hy Lạp)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol1",
+    "nodeName": "Bài 2: Vẻ đẹp của thơ ca",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_tt",
+    "lessonId": "nguvan10_t1_b2_tt",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_d1",
+    "lessonId": "nguvan10_t1_b2_d1",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Đọc: Chùm thơ hai-cư (haiku) Nhật Bản",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_d2",
+    "lessonId": "nguvan10_t1_b2_d2",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Đọc: Thu hứng (Đỗ Phủ)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_d3",
+    "lessonId": "nguvan10_t1_b2_d3",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Đọc: Mùa xuân chín (Hàn Mặc Tử)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_d4",
+    "lessonId": "nguvan10_t1_b2_d4",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Đọc: Bản hoà âm ngôn từ trong Tiếng thu của Lưu Trọng Lư",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_thtv",
+    "lessonId": "nguvan10_t1_b2_thtv",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Thực hành tiếng Việt: Lỗi dùng từ, lỗi về trật tự từ và cách sửa",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_v",
+    "lessonId": "nguvan10_t1_b2_v",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Viết: Viết văn bản nghị luận phân tích, đánh giá một tác phẩm thơ",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_nn",
+    "lessonId": "nguvan10_t1_b2_nn",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Nói và Nghe: Giới thiệu, đánh giá về nội dung và nghệ thuật của một tác phẩm thơ",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_cgmr",
+    "lessonId": "nguvan10_t1_b2_cgmr",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b2_thd",
+    "lessonId": "nguvan10_t1_b2_thd",
+    "parentNodeId": "nguvan10_node_t1_b2",
+    "nodeName": "Thực hành đọc: Cánh đồng (Ngân Hoa)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol1",
+    "nodeName": "Bài 3: Nghệ thuật thuyết phục trong văn nghị luận",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_tt",
+    "lessonId": "nguvan10_t1_b3_tt",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_d1",
+    "lessonId": "nguvan10_t1_b3_d1",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Đọc: Hiền tài là nguyên khí của quốc gia (Thân Nhân Trung)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_d2",
+    "lessonId": "nguvan10_t1_b3_d2",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Đọc: Yêu và đồng cảm (Phong Tử Khải)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_d3",
+    "lessonId": "nguvan10_t1_b3_d3",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Đọc: Chữ bầu lên nhà thơ (Lê Đạt)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_thtv",
+    "lessonId": "nguvan10_t1_b3_thtv",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Thực hành tiếng Việt: Lỗi về mạch lạc và liên kết trong đoạn văn, văn bản",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_v",
+    "lessonId": "nguvan10_t1_b3_v",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Viết: Viết bài luận thuyết phục người khác từ bỏ một thói quen hay một quan niệm",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_nn",
+    "lessonId": "nguvan10_t1_b3_nn",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Nói và Nghe: Thảo luận về một vấn đề xã hội có ý kiến khác nhau",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_cgmr",
+    "lessonId": "nguvan10_t1_b3_cgmr",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b3_thd",
+    "lessonId": "nguvan10_t1_b3_thd",
+    "parentNodeId": "nguvan10_node_t1_b3",
+    "nodeName": "Thực hành đọc: Thế giới mạng & tôi (Nguyễn Thị Hậu)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol1",
+    "nodeName": "Bài 4: Sức sống của sử thi",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_tt",
+    "lessonId": "nguvan10_t1_b4_tt",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_d1",
+    "lessonId": "nguvan10_t1_b4_d1",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Đọc: Héc-to từ biệt Ăng-đrô-mác (I-li-át)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_d2",
+    "lessonId": "nguvan10_t1_b4_d2",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Đọc: Đăm Săn đi bắt Nữ Thần Mặt Trời (Đăm Săn)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_thtv",
+    "lessonId": "nguvan10_t1_b4_thtv",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Thực hành tiếng Việt: Sử dụng trích dẫn, cước chú và cách đánh dấu phần bị tỉnh lược",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_v",
+    "lessonId": "nguvan10_t1_b4_v",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Viết: Viết báo cáo nghiên cứu về một vấn đề",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_nn",
+    "lessonId": "nguvan10_t1_b4_nn",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Nói và Nghe: Trình bày báo cáo kết quả nghiên cứu về một vấn đề",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_cgmr",
+    "lessonId": "nguvan10_t1_b4_cgmr",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b4_thd",
+    "lessonId": "nguvan10_t1_b4_thd",
+    "parentNodeId": "nguvan10_node_t1_b4",
+    "nodeName": "Thực hành đọc: Ra-ma buộc tội (Ra-ma-ya-na)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol1",
+    "nodeName": "Bài 5: Tích trò sân khấu dân gian",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_tt",
+    "lessonId": "nguvan10_t1_b5_tt",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_d1",
+    "lessonId": "nguvan10_t1_b5_d1",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Đọc: Xuý Vân giả dại (Kim Nham)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_d2",
+    "lessonId": "nguvan10_t1_b5_d2",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Đọc: Huyện đường (Nghêu, Sò, Ốc, Hến)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_d3",
+    "lessonId": "nguvan10_t1_b5_d3",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Đọc: Múa rối nước – hiện đại soi bóng tiền nhân (Phạm Thuỳ Dung)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_v",
+    "lessonId": "nguvan10_t1_b5_v",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Viết: Viết báo cáo nghiên cứu (Về một vấn đề văn hoá truyền thống Việt Nam)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_nn",
+    "lessonId": "nguvan10_t1_b5_nn",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Nói và Nghe: Lắng nghe và phản hồi về một bài thuyết trình kết quả nghiên cứu",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_cgmr",
+    "lessonId": "nguvan10_t1_b5_cgmr",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t1_b5_thd",
+    "lessonId": "nguvan10_t1_b5_thd",
+    "parentNodeId": "nguvan10_node_t1_b5",
+    "nodeName": "Thực hành đọc: Hồn thiêng đưa đường (Sơn Hậu)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t1_ontap_node",
+    "lessonId": "nguvan10_t1_ontap",
+    "parentNodeId": "nguvan10_node_vol1",
+    "nodeName": "Ôn tập học kì I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nv10",
+    "nodeName": "Ngữ văn 10 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol2",
+    "nodeName": "Bài 6: Nguyễn Trãi – “Dành còn để trợ dân này”",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_tt",
+    "lessonId": "nguvan10_t2_b6_tt",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_tgnt",
+    "lessonId": "nguvan10_t2_b6_tgnt",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Tác gia Nguyễn Trãi",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_d1",
+    "lessonId": "nguvan10_t2_b6_d1",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Đọc: Bình Ngô đại cáo (Nguyễn Trãi)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_d2",
+    "lessonId": "nguvan10_t2_b6_d2",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Đọc: Bảo kính cảnh giới (Nguyễn Trãi)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_d3",
+    "lessonId": "nguvan10_t2_b6_d3",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Đọc: Dục Thuý sơn (Nguyễn Trãi)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_thtv",
+    "lessonId": "nguvan10_t2_b6_thtv",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Thực hành tiếng Việt: Sử dụng từ Hán Việt (tiếp theo)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_v",
+    "lessonId": "nguvan10_t2_b6_v",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Viết: Viết văn bản nghị luận về một vấn đề xã hội",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_nn",
+    "lessonId": "nguvan10_t2_b6_nn",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Nói và Nghe: Thảo luận về một vấn đề xã hội có ý kiến khác nhau",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_cgmr",
+    "lessonId": "nguvan10_t2_b6_cgmr",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b6_thd",
+    "lessonId": "nguvan10_t2_b6_thd",
+    "parentNodeId": "nguvan10_node_t2_b6",
+    "nodeName": "Thực hành đọc: Ngôn chí, bài 3; Bạch Đằng hải khẩu",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol2",
+    "nodeName": "Bài 7: Quyền năng của người kể chuyện",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_tt",
+    "lessonId": "nguvan10_t2_b7_tt",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_d1",
+    "lessonId": "nguvan10_t2_b7_d1",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Đọc: Người cầm quyền khôi phục uy quyền (Victor Hugo)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_d2",
+    "lessonId": "nguvan10_t2_b7_d2",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Đọc: Dưới bóng hoàng lan (Thạch Lam)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_d3",
+    "lessonId": "nguvan10_t2_b7_d3",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Đọc: Một chuyện đùa nho nhỏ (Anton Chekhov)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_thtv",
+    "lessonId": "nguvan10_t2_b7_thtv",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Thực hành tiếng Việt: Biện pháp chêm xen, biện pháp liệt kê",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_v",
+    "lessonId": "nguvan10_t2_b7_v",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Viết: Viết bài văn nghị luận phân tích, đánh giá một tác phẩm văn học",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_nn",
+    "lessonId": "nguvan10_t2_b7_nn",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Nói và Nghe: Thảo luận về một vấn đề văn học có ý kiến khác nhau",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_cgmr",
+    "lessonId": "nguvan10_t2_b7_cgmr",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b7_thd",
+    "lessonId": "nguvan10_t2_b7_thd",
+    "parentNodeId": "nguvan10_node_t2_b7",
+    "nodeName": "Thực hành đọc: Con khướu số lồng (Nguyễn Quang Sáng)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol2",
+    "nodeName": "Bài 8: Thế giới đa dạng của thông tin",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_tt",
+    "lessonId": "nguvan10_t2_b8_tt",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_d1",
+    "lessonId": "nguvan10_t2_b8_d1",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Đọc: Sự sống và cái chết (Trịnh Xuân Thuận)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_d2",
+    "lessonId": "nguvan10_t2_b8_d2",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Đọc: Nghệ thuật truyền thống của người Việt (Nguyễn Văn Huyên)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_d3",
+    "lessonId": "nguvan10_t2_b8_d3",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Đọc: Phục hồi tầng ozone: Thành công hiếm hoi của nỗ lực toàn cầu",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_thtv",
+    "lessonId": "nguvan10_t2_b8_thtv",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Thực hành tiếng Việt: Sử dụng phương tiện phi ngôn ngữ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_v",
+    "lessonId": "nguvan10_t2_b8_v",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Viết: Viết một văn bản nội quy hoặc văn bản hướng dẫn nơi công cộng",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_nn",
+    "lessonId": "nguvan10_t2_b8_nn",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Nói và Nghe: Thảo luận về văn bản nội quy hoặc văn bản hướng dẫn nơi công cộng",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_cgmr",
+    "lessonId": "nguvan10_t2_b8_cgmr",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b8_thd",
+    "lessonId": "nguvan10_t2_b8_thd",
+    "parentNodeId": "nguvan10_node_t2_b8",
+    "nodeName": "Thực hành đọc: Tính cách của cây (Peter Wohlleben)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9",
+    "lessonId": null,
+    "parentNodeId": "nguvan10_node_vol2",
+    "nodeName": "Bài 9: Hành trang cuộc sống",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_tt",
+    "lessonId": "nguvan10_t2_b9_tt",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_d1",
+    "lessonId": "nguvan10_t2_b9_d1",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Đọc: Về chính chúng ta (Carlo Rovelli)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_d2",
+    "lessonId": "nguvan10_t2_b9_d2",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Đọc: Con đường không chọn (Robert Frost)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_d3",
+    "lessonId": "nguvan10_t2_b9_d3",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Đọc: Một đời như kẻ tìm đường (Phan Văn Trường)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_thtv",
+    "lessonId": "nguvan10_t2_b9_thtv",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Thực hành tiếng Việt: Sử dụng phương tiện phi ngôn ngữ (tiếp theo)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_v",
+    "lessonId": "nguvan10_t2_b9_v",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Viết: Viết bài luận về bản thân",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_nn",
+    "lessonId": "nguvan10_t2_b9_nn",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Nói và Nghe: Thuyết trình về một vấn đề xã hội có sử dụng kết hợp phương tiện ngôn ngữ và phi ngôn ngữ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_cgmr",
+    "lessonId": "nguvan10_t2_b9_cgmr",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan10_node_t2_b9_thd",
+    "lessonId": "nguvan10_t2_b9_thd",
+    "parentNodeId": "nguvan10_node_t2_b9",
+    "nodeName": "Thực hành đọc: Mãi mãi tuổi hai mươi (Nguyễn Văn Thạc)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan10_node_t2_ontap_node",
+    "lessonId": "nguvan10_t2_ontap",
+    "parentNodeId": "nguvan10_node_vol2",
+    "nodeName": "Ôn tập học kì II",
+    "orderIndex": 5
+  }
+]

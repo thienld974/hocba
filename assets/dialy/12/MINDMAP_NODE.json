@@ -1,0 +1,289 @@
+[
+  {
+    "nodeId": "root_dl12",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "ĐỊA LÍ 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "dialy12_node_p1",
+    "lessonId": null,
+    "parentNodeId": "root_dl12",
+    "nodeName": "Phần 1: Địa lí tự nhiên",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy12_node_b1",
+    "lessonId": "dialy12_b1",
+    "parentNodeId": "dialy12_node_p1",
+    "nodeName": "Bài 1: Vị trí địa lí và phạm vi lãnh thổ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy12_node_b2",
+    "lessonId": "dialy12_b2",
+    "parentNodeId": "dialy12_node_p1",
+    "nodeName": "Bài 2: Thiên nhiên nhiệt đới ẩm gió mùa",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy12_node_b3",
+    "lessonId": "dialy12_b3",
+    "parentNodeId": "dialy12_node_p1",
+    "nodeName": "Bài 3: Sự phân hoá đa dạng của thiên nhiên",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy12_node_b4",
+    "lessonId": "dialy12_b4",
+    "parentNodeId": "dialy12_node_p1",
+    "nodeName": "Bài 4: Thực hành: Viết báo cáo về sự phân hoá tự nhiên Việt Nam",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy12_node_b5",
+    "lessonId": "dialy12_b5",
+    "parentNodeId": "dialy12_node_p1",
+    "nodeName": "Bài 5: Vấn đề sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường",
+    "orderIndex": 5
+  },
+ {
+    "nodeId": "dialy12_node_p2",
+    "lessonId": null,
+    "parentNodeId": "root_dl12",
+    "nodeName": "Phần 2: Địa lí dân cư",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy12_node_b6",
+    "lessonId": "dialy12_b6",
+    "parentNodeId": "dialy12_node_p2",
+    "nodeName": "Bài 6: Dân số Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy12_node_b7",
+    "lessonId": "dialy12_b7",
+    "parentNodeId": "dialy12_node_p2",
+    "nodeName": "Bài 7: Lao động và việc làm",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy12_node_b8",
+    "lessonId": "dialy12_b8",
+    "parentNodeId": "dialy12_node_p2",
+    "nodeName": "Bài 8: Đô thị hoá",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy12_node_b9",
+    "lessonId": "dialy12_b9",
+    "parentNodeId": "dialy12_node_p2",
+    "nodeName": "Bài 9: Thực hành: Viết báo cáo về một chủ đề dân cư ở Việt Nam",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy12_node_p3",
+    "lessonId": null,
+    "parentNodeId": "root_dl12",
+    "nodeName": "Phần 3: Địa lí các ngành kinh tế",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy12_node_b10",
+    "lessonId": "dialy12_b10",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 10: Chuyển dịch cơ cấu kinh tế",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy12_node_b11",
+    "lessonId": "dialy12_b11",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 11: Vấn đề phát triển ngành nông nghiệp",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy12_node_b12",
+    "lessonId": "dialy12_b12",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 12: Vấn đề phát triển ngành lâm nghiệp và ngành thuỷ sản",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy12_node_b13",
+    "lessonId": "dialy12_b13",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 13: Tổ chức lãnh thổ nông nghiệp",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy12_node_b14",
+    "lessonId": "dialy12_b14",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 14: Thực hành: Tìm hiểu vai trò ngành nông nghiệp, lâm nghiệp và thuỷ sản",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "dialy12_node_b15",
+    "lessonId": "dialy12_b15",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 15: Chuyển dịch cơ cấu ngành công nghiệp",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "dialy12_node_b16",
+    "lessonId": "dialy12_b16",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 16: Một số ngành công nghiệp",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "dialy12_node_b17",
+    "lessonId": "dialy12_b17",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 17: Tổ chức lãnh thổ công nghiệp",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "dialy12_node_b18",
+    "lessonId": "dialy12_b18",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 18: Thực hành: Vẽ biểu đồ, nhận xét và giải thích tình hình phát triển công nghiệp",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "dialy12_node_b19",
+    "lessonId": "dialy12_b19",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 19: Vai trò, các nhân tố ảnh hưởng đến phát triển và phân bố các ngành dịch vụ",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "dialy12_node_b20",
+    "lessonId": "dialy12_b20",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 20: Giao thông vận tải và bưu chính viễn thông",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "dialy12_node_b21",
+    "lessonId": "dialy12_b21",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 21: Thương mại và du lịch",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "dialy12_node_b22",
+    "lessonId": "dialy12_b22",
+    "parentNodeId": "dialy12_node_p3",
+    "nodeName": "Bài 22: Thực hành: Tìm hiểu sự phát triển một số ngành dịch vụ",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "dialy12_node_p4",
+    "lessonId": null,
+    "parentNodeId": "root_dl12",
+    "nodeName": "Phần 4: Địa lí các vùng kinh tế",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy12_node_b23",
+    "lessonId": "dialy12_b23",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 23: Khai thác thế mạnh ở Trung du và miền núi Bắc Bộ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy12_node_b24",
+    "lessonId": "dialy12_b24",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 24: Phát triển kinh tế - xã hội ở Đồng bằng sông Hồng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "dialy12_node_b25",
+    "lessonId": "dialy12_b25",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 25: Phát triển nông nghiệp, lâm nghiệp và thuỷ sản ở Bắc Trung Bộ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "dialy12_node_b26",
+    "lessonId": "dialy12_b26",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 26: Phát triển kinh tế biển ở Duyên hải Nam Trung Bộ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "dialy12_node_b27",
+    "lessonId": "dialy12_b27",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 27: Thực hành: Ý nghĩa phát triển kinh tế biển đối với quốc phòng an ninh",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "dialy12_node_b28",
+    "lessonId": "dialy12_b28",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 28: Khai thác thế mạnh để phát triển kinh tế ở Tây Nguyên",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "dialy12_node_b29",
+    "lessonId": "dialy12_b29",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 29: Phát triển kinh tế - xã hội ở Đông Nam Bộ",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "dialy12_node_b30",
+    "lessonId": "dialy12_b30",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 30: Sử dụng hợp lí tự nhiên để phát triển kinh tế ở ĐBSCL",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "dialy12_node_b31",
+    "lessonId": "dialy12_b31",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 31: Thực hành: Viết báo cáo về biến đổi khí hậu ở ĐBSCL",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "dialy12_node_b32",
+    "lessonId": "dialy12_b32",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 32: Phát triển các vùng kinh tế trọng điểm",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "dialy12_node_b33",
+    "lessonId": "dialy12_b33",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 33: Phát triển kinh tế và quốc phòng an ninh ở Biển Đông",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "dialy12_node_b34",
+    "lessonId": "dialy12_b34",
+    "parentNodeId": "dialy12_node_p4",
+    "nodeName": "Bài 34: Thực hành: Bảo vệ chủ quyền biển, đảo của Việt Nam",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "dialy12_node_p5",
+    "lessonId": null,
+    "parentNodeId": "root_dl12",
+    "nodeName": "Phần 5: Địa lí địa phương",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "dialy12_node_b35",
+    "lessonId": "dialy12_b35",
+    "parentNodeId": "dialy12_node_p5",
+    "nodeName": "Bài 35: Thực hành: Tìm hiểu địa lí địa phương",
+    "orderIndex": 1
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "nodeId": "root_nv11",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 11 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan11_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nv11",
+    "nodeName": "Ngữ văn 11 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol1",
+    "nodeName": "Bài 1: Câu chuyện và điểm nhìn trong truyện kể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_tt",
+    "lessonId": "nguvan11_t1_b1_tt",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_d1",
+    "lessonId": "nguvan11_t1_b1_d1",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Đọc: Vợ nhặt (Kim Lân)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_d2",
+    "lessonId": "nguvan11_t1_b1_d2",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Đọc: Chí Phèo (Nam Cao)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_thtv",
+    "lessonId": "nguvan11_t1_b1_thtv",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Thực hành tiếng Việt: Đặc điểm cơ bản của ngôn ngữ nói và ngôn ngữ viết",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_v",
+    "lessonId": "nguvan11_t1_b1_v",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Viết: Viết văn bản nghị luận về một tác phẩm truyện",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_nn",
+    "lessonId": "nguvan11_t1_b1_nn",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Nói và nghe: Thuyết trình về nghệ thuật kể chuyện trong một tác phẩm truyện",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b1_thd",
+    "lessonId": "nguvan11_t1_b1_thd",
+    "parentNodeId": "nguvan11_node_t1_b1",
+    "nodeName": "Thực hành đọc: Cải ơi! (Nguyễn Ngọc Tư)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol1",
+    "nodeName": "Bài 2: Cấu tứ và hình ảnh trong thơ trữ tình",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_tt",
+    "lessonId": "nguvan11_t1_b2_tt",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_d1",
+    "lessonId": "nguvan11_t1_b2_d1",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Đọc: Nhớ đồng (Tố Hữu)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_d2",
+    "lessonId": "nguvan11_t1_b2_d2",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Đọc: Tràng giang (Huy Cận)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_d3",
+    "lessonId": "nguvan11_t1_b2_d3",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Đọc: Con đường mùa đông (A. S. Pushkin)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_thtv",
+    "lessonId": "nguvan11_t1_b2_thtv",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Thực hành tiếng Việt: Một số hiện tượng phá vỡ những quy tắc ngôn ngữ thông thường",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_v",
+    "lessonId": "nguvan11_t1_b2_v",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Viết: Viết văn bản nghị luận về một tác phẩm thơ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_nn",
+    "lessonId": "nguvan11_t1_b2_nn",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Nói và nghe: Giới thiệu một tác phẩm nghệ thuật",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b2_thd",
+    "lessonId": "nguvan11_t1_b2_thd",
+    "parentNodeId": "nguvan11_node_t1_b2",
+    "nodeName": "Thực hành đọc: Thời gian (Văn Cao)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol1",
+    "nodeName": "Bài 3: Cấu trúc của văn bản nghị luận",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_tt",
+    "lessonId": "nguvan11_t1_b3_tt",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_d1",
+    "lessonId": "nguvan11_t1_b3_d1",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Đọc: Cầu hiền chiếu (Ngô Thì Nhậm)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_d2",
+    "lessonId": "nguvan11_t1_b3_d2",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Đọc: Tôi có một ước mơ (M. L. King)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_d3",
+    "lessonId": "nguvan11_t1_b3_d3",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Đọc: Một thời đại trong thi ca (Hoài Thanh)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_thtv",
+    "lessonId": "nguvan11_t1_b3_thtv",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Thực hành tiếng Việt: Đặc điểm cơ bản của ngôn ngữ nói và ngôn ngữ viết (tiếp theo)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_v",
+    "lessonId": "nguvan11_t1_b3_v",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Viết: Viết bài văn nghị luận về một vấn đề xã hội",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_nn",
+    "lessonId": "nguvan11_t1_b3_nn",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Nói và nghe: Trình bày ý kiến đánh giá, bình luận một vấn đề xã hội",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b3_thd",
+    "lessonId": "nguvan11_t1_b3_thd",
+    "parentNodeId": "nguvan11_node_t1_b3",
+    "nodeName": "Thực hành đọc: Tiếp xúc với tác phẩm nghệ thuật (Thái Bá Vân)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol1",
+    "nodeName": "Bài 4: Tự sự trong truyện thơ dân gian và trong thơ trữ tình",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_tt",
+    "lessonId": "nguvan11_t1_b4_tt",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_d1",
+    "lessonId": "nguvan11_t1_b4_d1",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Đọc: Lời tiễn dặn (Xống chụ xon xao)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_d2",
+    "lessonId": "nguvan11_t1_b4_d2",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Đọc: Dương phụ hành (Cao Bá Quát)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_d3",
+    "lessonId": "nguvan11_t1_b4_d3",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Đọc: Thuyền và biển (Xuân Quỳnh)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_thtv",
+    "lessonId": "nguvan11_t1_b4_thtv",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Thực hành tiếng Việt: Lỗi về thành phần câu và cách sửa",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_v",
+    "lessonId": "nguvan11_t1_b4_v",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Viết: Viết bài văn nghị luận về một vấn đề xã hội (Hình thành lối sống tích cực)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_nn",
+    "lessonId": "nguvan11_t1_b4_nn",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Nói và nghe: Thảo luận về một vấn đề trong đời sống",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b4_thd",
+    "lessonId": "nguvan11_t1_b4_thd",
+    "parentNodeId": "nguvan11_node_t1_b4",
+    "nodeName": "Thực hành đọc: Nàng Ờm nhắn nhủ (Truyện thơ Mường)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol1",
+    "nodeName": "Bài 5: Nhân vật và xung đột trong bi kịch",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5_tt",
+    "lessonId": "nguvan11_t1_b5_tt",
+    "parentNodeId": "nguvan11_node_t1_b5",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5_d1",
+    "lessonId": "nguvan11_t1_b5_d1",
+    "parentNodeId": "nguvan11_node_t1_b5",
+    "nodeName": "Đọc: Sống, hay không sống – đó là vấn đề (William Shakespeare)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5_d2",
+    "lessonId": "nguvan11_t1_b5_d2",
+    "parentNodeId": "nguvan11_node_t1_b5",
+    "nodeName": "Đọc: Vĩnh biệt Cửu Trùng Đài (Nguyễn Huy Tưởng)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5_v",
+    "lessonId": "nguvan11_t1_b5_v",
+    "parentNodeId": "nguvan11_node_t1_b5",
+    "nodeName": "Viết: Viết báo cáo nghiên cứu về một vấn đề tự nhiên hoặc xã hội",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5_nn",
+    "lessonId": "nguvan11_t1_b5_nn",
+    "parentNodeId": "nguvan11_node_t1_b5",
+    "nodeName": "Nói và nghe: Trình bày báo cáo kết quả nghiên cứu",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t1_b5_thd",
+    "lessonId": "nguvan11_t1_b5_thd",
+    "parentNodeId": "nguvan11_node_t1_b5",
+    "nodeName": "Thực hành đọc: Prô-mê-tê bị xiềng (Aeschylus)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t1_ontap",
+    "lessonId": "nguvan11_t1_ontap",
+    "parentNodeId": "nguvan11_node_vol1",
+    "nodeName": "Ôn tập học kì I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nv11",
+    "nodeName": "Ngữ văn 11 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol2",
+    "nodeName": "Bài 6: Nguyễn Du - “Những điều trông thấy mà đau đớn lòng”",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_tt",
+    "lessonId": "nguvan11_t2_b6_tt",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_d1",
+    "lessonId": "nguvan11_t2_b6_d1",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Đọc: Tác gia Nguyễn Du",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_d2",
+    "lessonId": "nguvan11_t2_b6_d2",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Đọc: Trao duyên (Trích Truyện Kiều)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_d3",
+    "lessonId": "nguvan11_t2_b6_d3",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Đọc: Độc Tiểu Thanh kí (Nguyễn Du)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_thtv",
+    "lessonId": "nguvan11_t2_b6_thtv",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Thực hành tiếng Việt: Biện pháp tu từ lặp cấu trúc, biện pháp tu từ đối",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_v",
+    "lessonId": "nguvan11_t2_b6_v",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Viết: Viết văn bản thuyết minh về một tác phẩm văn học",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_nn",
+    "lessonId": "nguvan11_t2_b6_nn",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Nói và nghe: Giới thiệu một tác phẩm văn học",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_thd1",
+    "lessonId": "nguvan11_t2_b6_thd1",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Thực hành đọc: Chí khí anh hùng (Trích Truyện Kiều)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b6_thd2",
+    "lessonId": "nguvan11_t2_b6_thd2",
+    "parentNodeId": "nguvan11_node_t2_b6",
+    "nodeName": "Thực hành đọc: Mộng đắc thái liên (Nguyễn Du)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol2",
+    "nodeName": "Bài 7: Ghi chép và tưởng tượng trong kí",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_tt",
+    "lessonId": "nguvan11_t2_b7_tt",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_d1",
+    "lessonId": "nguvan11_t2_b7_d1",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Đọc: Ai đã đặt tên cho dòng sông? (Hoàng Phủ Ngọc Tường)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_d2",
+    "lessonId": "nguvan11_t2_b7_d2",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Đọc: “Và tôi vẫn muốn mẹ...” (Svetlana Alexievich)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_d3",
+    "lessonId": "nguvan11_t2_b7_d3",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Đọc: Cà Mau quê xứ (Trần Tuấn)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_thtv",
+    "lessonId": "nguvan11_t2_b7_thtv",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Thực hành tiếng Việt: Một số hiện tượng phá vỡ quy tắc ngôn ngữ thông thường (tiếp theo)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_v",
+    "lessonId": "nguvan11_t2_b7_v",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Viết: Viết văn bản thuyết minh về một hiện tượng xã hội",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_nn",
+    "lessonId": "nguvan11_t2_b7_nn",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Nói và nghe: Thảo luận, tranh luận về một vấn đề trong đời sống",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b7_thd",
+    "lessonId": "nguvan11_t2_b7_thd",
+    "parentNodeId": "nguvan11_node_t2_b7",
+    "nodeName": "Thực hành đọc: Cây diêm cuối cùng (Cao Huy Thuần)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol2",
+    "nodeName": "Bài 8: Cấu trúc của văn bản thông tin",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_tt",
+    "lessonId": "nguvan11_t2_b8_tt",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_d1",
+    "lessonId": "nguvan11_t2_b8_d1",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Đọc: Nữ phóng viên đầu tiên (Trần Nhật Vy)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_d2",
+    "lessonId": "nguvan11_t2_b8_d2",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Đọc: Trí thông minh nhân tạo (Richard Watson)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_d3",
+    "lessonId": "nguvan11_t2_b8_d3",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Đọc: Pa-ra-lim-pích (Paralympic): Một lịch sử chữa lành những vết thương (Huy Đăng)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_thtv",
+    "lessonId": "nguvan11_t2_b8_thtv",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Thực hành tiếng Việt: Sử dụng phương tiện phi ngôn ngữ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_v",
+    "lessonId": "nguvan11_t2_b8_v",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Viết: Viết văn bản thuyết minh về một vấn đề của xã hội đương đại",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_nn",
+    "lessonId": "nguvan11_t2_b8_nn",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Nói và nghe: Tranh biện về một vấn đề trong đời sống",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b8_thd",
+    "lessonId": "nguvan11_t2_b8_thd",
+    "parentNodeId": "nguvan11_node_t2_b8",
+    "nodeName": "Thực hành đọc: Ca nhạc ở Miệt Vườn (Sơn Nam)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9",
+    "lessonId": null,
+    "parentNodeId": "nguvan11_node_vol2",
+    "nodeName": "Bài 9: Lựa chọn và hành động",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_tt",
+    "lessonId": "nguvan11_t2_b9_tt",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_d1",
+    "lessonId": "nguvan11_t2_b9_d1",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Đọc: Bài ca ngất ngưởng (Nguyễn Công Trứ)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_d2",
+    "lessonId": "nguvan11_t2_b9_d2",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Đọc: Văn tế nghĩa sĩ Cần Giuộc (Nguyễn Đình Chiểu)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_d3",
+    "lessonId": "nguvan11_t2_b9_d3",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Đọc: Cộng đồng và cá thể (Albert Einstein)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_thtv",
+    "lessonId": "nguvan11_t2_b9_thtv",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Thực hành tiếng Việt: Cách giải thích nghĩa của từ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_v",
+    "lessonId": "nguvan11_t2_b9_v",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Viết: Viết văn bản nghị luận về một tác phẩm nghệ thuật",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_nn",
+    "lessonId": "nguvan11_t2_b9_nn",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Nói và nghe: Giới thiệu một tác phẩm nghệ thuật (tiếp theo)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan11_node_t2_b9_thd",
+    "lessonId": "nguvan11_t2_b9_thd",
+    "parentNodeId": "nguvan11_node_t2_b9",
+    "nodeName": "Thực hành đọc: “Làm việc” cũng là “làm người”! (Giản Tư Trung)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan11_node_t2_ontap",
+    "lessonId": "nguvan11_t2_ontap",
+    "parentNodeId": "nguvan11_node_vol2",
+    "nodeName": "Ôn tập học kì II",
+    "orderIndex": 5
+  }
+]

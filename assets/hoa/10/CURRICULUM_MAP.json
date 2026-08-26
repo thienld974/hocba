@@ -1,0 +1,194 @@
+[
+  {
+    "lessonId": "hoa10_modau",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Mở đầu",
+    "lessonOrder": 1,
+    "lessonContent": "### MỞ ĐẦU: NHẬP MÔN HOÁ HỌC\n- **Ý chính / Chủ đề**: Đối tượng nghiên cứu, vai trò của hoá học đối với đời sống, sản xuất và phương pháp học tập, nghiên cứu hoá học.\n- **Kiến thức trọng tâm**:\n  1. **Đối tượng nghiên cứu**: Hoá học nghiên cứu về chất, sự biến đổi của chất và các hiện tượng vật lí, hoá học đi kèm.\n  2. **Vai trò**: Cung cấp nguyên liệu, dược phẩm, năng lượng, vật liệu mới; giải quyết vấn đề lương thực và môi trường.\n  3. **Phương pháp học tập và nghiên cứu**: Sử dụng kết hợp các phương pháp thực nghiệm (quan sát, giả thuyết, thí nghiệm, phân tích, kết luận), phương pháp mô hình và phương pháp lí thuyết.\n- **Từ khóa**: Hoá học, Chất, Sự biến đổi chất, Thực nghiệm, Mô hình."
+  },
+  {
+    "lessonId": "hoa10_b1",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 1: Cấu tạo nguyên tử",
+    "lessonOrder": 2,
+    "lessonContent": "### BÀI 1: THÀNH PHẦN CỦA NGUYÊN TỬ\n- **Ý chính / Chủ đề**: Các hạt cấu tạo nên nguyên tử; Kích thước, điện tích và khối lượng của nguyên tử.\n- **Kiến thức trọng tâm**:\n  1. **Thành phần nguyên tử**: Gồm hạt nhân (proton $p$ mang điện tích $+1$, neutron $n$ không mang điện) và lớp vỏ (electron $e$ mang điện tích $-1$). Trong nguyên tử trung hoà về điện, số $p$ luôn bằng số $e$.\n  2. **Khối lượng**: Tập trung hầu hết ở hạt nhân vì khối lượng electron vô cùng nhỏ ($m_e \\approx 0,00055\\text{ amu}$ so với $m_p \\approx 1\\text{ amu}$ và $m_n \\approx 1\\text{ amu}$).\n  3. **Kích thước**: Nguyên tử vô cùng nhỏ bé. Đường kính vỏ nguyên tử khoảng $10^{-10}\\text{ m}$, lớn hơn đường kính hạt nhân (khoảng $10^{-14}\\text{ m}$) khoảng $10^4$ lần.\n- **Công thức**: $1\\text{ amu} = 1,661 \\cdot 10^{-27}\\text{ kg}$.\n- **Từ khóa**: Hạt nhân, Vỏ nguyên tử, Proton, Neutron, Electron, amu."
+  },
+  {
+    "lessonId": "hoa10_b2",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 1: Cấu tạo nguyên tử",
+    "lessonOrder": 3,
+    "lessonContent": "### BÀI 2: NGUYÊN TỐ HOÁ HỌC\n- **Ý chính / Chủ đề**: Khái niệm nguyên tố hoá học; Kí hiệu nguyên tử; Đồng vị; Nguyên tử khối và nguyên tử khối trung bình.\n- **Kiến thức trọng tâm**:\n  1. **Nguyên tố hoá học**: Tập hợp các nguyên tử có cùng điện tích hạt nhân (số hiệu nguyên tử $Z$).\n  2. **Kí hiệu nguyên tử**: $_Z^A X$, với $Z$ là số hiệu nguyên tử (số $p$), $A$ là số khối ($A = Z + N$, với $N$ là số neutron).\n  3. **Đồng vị**: Các nguyên tử có cùng số proton ($Z$) nhưng khác số neutron ($N$), do đó số khối ($A$) khác nhau.\n  4. **Nguyên tử khối**: Khối lượng tương đối của nguyên tử. Nguyên tử khối trung bình ($\\\\bar{A}$) tính theo phổ khối lượng của các đồng vị bền.\n- **Công thức**: $$\\bar{A} = \\frac{A_1 \\cdot x + A_2 \\cdot y + ...}{100}$$\n  Trong đó $A_1, A_2$ là số khối các đồng vị, $x, y$ là phần trăm số nguyên tử tương ứng.\n- **Từ khóa**: Số hiệu nguyên tử, Số khối, Đồng vị, Nguyên tử khối trung bình."
+  },
+  {
+    "lessonId": "hoa10_b3",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 1: Cấu tạo nguyên tử",
+    "lessonOrder": 4,
+    "lessonContent": "### BÀI 3: CẤU TRÚC LỚP VỎ ELECTRON NGUYÊN TỬ\n- **Ý chính / Chủ đề**: Chuyển động của electron; Orbital nguyên tử (AO); Lớp và phân lớp electron; Cấu hình electron và dự đoán tính chất nguyên tố.\n- **Kiến thức trọng tâm**:\n  1. **Chuyển động của electron**: Electron chuyển động rất nhanh trong không gian xung quanh hạt nhân tạo thành đám mây electron. Vùng không gian xung quanh hạt nhân có xác suất tìm thấy electron lớn nhất gọi là orbital nguyên tử (AO).\n  2. **Hình dạng AO**: AO $s$ hình cầu, AO $p$ hình số 8 nổi.\n  3. **Lớp và phân lớp**: Lớp electron gồm các electron có mức năng lượng gần bằng nhau ($n = 1, 2, 3...$ hay $K, L, M...$). Phân lớp gồm các electron có mức năng lượng bằng nhau ($s, p, d, f$).\n  4. **Cấu hình electron**: Phân bố các electron trên lớp và phân lớp theo nguyên lí vững bền, nguyên lí Pauli và quy tắc Hund. Số electron tối đa trong lớp $n$ là $2n^2$.\n  5. **Dự đoán tính chất**: 1, 2, 3 electron lớp ngoài cùng là kim loại; 5, 6, 7 electron là phi kim; 8 electron là khí hiếm (trừ He có 2 electron).\n- **Từ khóa**: Orbital nguyên tử, Lớp electron, Phân lớp, Cấu hình electron, Electron hoá trị."
+  },
+  {
+    "lessonId": "hoa10_b4",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 1: Cấu tạo nguyên tử",
+    "lessonOrder": 5,
+    "lessonContent": "### BÀI 4: ÔN TẬP CHƯƠNG 1\n- **Ý chính / Chủ đề**: Hệ thống hoá kiến thức về thành phần nguyên tử, lớp và phân lớp electron; Luyện tập viết cấu hình electron.\n- **Kiến thức trọng tâm**:\n  1. **Khái quát**: Tổng hợp mối quan hệ giữa các hạt dưới nguyên tử ($p, n, e$), cấu tạo vỏ nguyên tử và cách viết cấu hình electron.\n  2. **Nguyên lí sắp xếp**: Nắm vững nguyên lí vững bền, nguyên lí Pauli và quy tắc Hund để biểu diễn cấu hình electron theo ô orbital.\n  3. **Luyện tập**: Giải quyết các bài toán biện luận số hạt, xác định số hiệu nguyên tử, số khối và dự đoán tính chất kim loại, phi kim, khí hiếm.\n- **Từ khóa**: Ôn tập cấu tạo nguyên tử, Hệ thống hoá kiến thức."
+  },
+  {
+    "lessonId": "hoa10_b5",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 2: Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+    "lessonOrder": 6,
+    "lessonContent": "### BÀI 5: CẤU TẠO CỦA BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC\n- **Ý chính / Chủ đề**: Lịch sử phát minh bảng tuần hoàn; Nguyên tắc sắp xếp; Cấu tạo của bảng tuần hoàn (ô, chu kì, nhóm).\n- **Kiến thức trọng tâm**:\n  1. **Lịch sử**: D. I. Mendeleev công bố bảng tuần hoàn đầu tiên năm 1869 dựa trên khối lượng nguyên tử tương đối.\n  2. **Nguyên tắc sắp xếp**: Theo chiều tăng dần của điện tích hạt nhân nguyên tử; Các nguyên tố có cùng số lớp electron xếp thành một hàng; Các nguyên tố có cấu hình electron tương tự nhau xếp thành một cột.\n  3. **Cấu tạo**: Gồm ô nguyên tố (cho biết số hiệu nguyên tử, kí hiệu, tên nguyên tố, nguyên tử khối trung bình); Chu kì (7 chu kì, số thứ tự chu kì = số lớp electron); Nhóm (8 nhóm A và 8 nhóm B, số thứ tự nhóm A = số electron lớp ngoài cùng).\n- **Từ khóa**: Bảng tuần hoàn, Ô nguyên tố, Chu kì, Nhóm nguyên tố, Mendeleev."
+  },
+  {
+    "lessonId": "hoa10_b6",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 2: Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+    "lessonOrder": 7,
+    "lessonContent": "### BÀI 6: XU HƯỚNG BIẾN ĐỔI MỘT SỐ TÍNH CHẤT CỦA NGUYÊN TỬ TRONG MỘT CHU KÌ VÀ TRONG MỘT NHÓM\n- **Ý chính / Chủ đề**: Sự biến đổi bán kính nguyên tử, độ âm điện, tính kim loại và tính phi kim.\n- **Kiến thức trọng tâm**:\n  1. **Bán kính nguyên tử**: Trong một chu kì, bán kính giảm dần từ trái sang phải (do điện tích hạt nhân tăng làm tăng lực hút tĩnh điện với electron vỏ). Trong một nhóm A, bán kính tăng dần từ trên xuống dưới (do số lớp electron tăng).\n  2. **Độ âm điện ($\\chi$)**: Đặc trưng cho khả năng hút electron khi tạo liên kết. Trong một chu kì, độ âm điện tăng dần; trong một nhóm A, độ âm điện giảm dần.\n  3. **Tính kim loại và phi kim**: Tính kim loại là khả năng nhường electron, tính phi kim là khả năng nhận electron. Trong một chu kì, tính kim loại giảm và tính phi kim tăng. Trong một nhóm A, tính kim loại tăng và tính phi kim giảm.\n- **Từ khóa**: Bán kính nguyên tử, Độ âm điện, Tính kim loại, Tính phi kim, Biến đổi tuần hoàn."
+  },
+  {
+    "lessonId": "hoa10_b7",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 2: Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+    "lessonOrder": 8,
+    "lessonContent": "### BÀI 7: XU HƯỚNG BIẾN ĐỔI THÀNH PHẦN VÀ MỘT SỐ TÍNH CHẤT CỦA HỢP CHẤT TRONG MỘT CHU KÌ\n- **Ý chính / Chủ đề**: Xu hướng biến đổi thành phần và tính acid - base của các oxide cao nhất và hydroxide tương ứng trong một chu kì.\n- **Kiến thức trọng tâm**:\n  1. **Thành phần oxide và hydroxide**: Thay đổi có tính tuần hoàn khi đi từ trái sang phải trong một chu kì.\n  2. **Tính chất acid - base**: Trong một chu kì, theo chiều tăng dần của điện tích hạt nhân, tính base của các oxide cao nhất và hydroxide tương ứng giảm dần, đồng thời tính acid của chúng tăng dần.\n  3. **Ví dụ (Chu kì 3)**: $Na_2O$ (base mạnh) $\\rightarrow$ $MgO$ (base yếu) $\\rightarrow$ $Al_2O_3$ (lưỡng tính) $\\rightarrow$ $SiO_2$ (acid rất yếu) $\\rightarrow$ $P_2O_5$ (acid trung bình) $\\rightarrow$ $SO_3$ (acid mạnh) $\\rightarrow$ $Cl_2O_7$ (acid rất mạnh).\n- **Từ khóa**: Oxide cao nhất, Hydroxide, Tính acid, Tính base, Lưỡng tính."
+  },
+  {
+    "lessonId": "hoa10_b8",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 2: Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+    "lessonOrder": 9,
+    "lessonContent": "### BÀI 8: ĐỊNH LUẬT TUẦN HOÀN. Ý NGHĨA CỦA BẢNG TUẦN HOÀN\n- **Ý chính / Chủ đề**: Nội dung định luật tuần hoàn; Ý nghĩa thực tiễn và mối liên hệ giữa vị trí, cấu hình electron và tính chất của nguyên tố.\n- **Kiến thức trọng tâm**:\n  1. **Định luật tuần hoàn**: Tính chất của các đơn chất cũng như thành phần và tính chất của các hợp chất tạo nên từ các nguyên tố hoá học biến đổi tuần hoàn theo chiều tăng của điện tích hạt nhân nguyên tử.\n  2. **Ý nghĩa bảng tuần hoàn**:\n    - Cầu nối liên hệ chặt chẽ giữa vị trí (ô, chu kì, nhóm) với cấu hình electron của nguyên tử và tính chất hoá học cơ bản của nguyên tố đó.\n    - Cho phép dự đoán tính chất của nguyên tố và hợp chất của nó khi biết vị trí trong bảng tuần hoàn mà không cần qua thực nghiệm.\n- **Từ khóa**: Định luật tuần hoàn, Cấu hình electron, Vị trí, Tính chất hoá học."
+  },
+  {
+    "lessonId": "hoa10_b9",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 2: Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+    "lessonOrder": 10,
+    "lessonContent": "### BÀI 9: ÔN TẬP CHƯƠNG 2\n- **Ý chính / Chủ đề**: Hệ thống hoá kiến thức về bảng tuần hoàn và xu hướng biến đổi tuần hoàn của các tính chất.\n- **Kiến thức trọng tâm**:\n  1. **Tổng kết xu hướng**: Bán kính nguyên tử, độ âm điện, tính kim loại, tính phi kim, tính acid-base của oxide cao nhất và hydroxide tương ứng biến đổi tuần hoàn.\n  2. **Luyện tập**: Giải bài tập so sánh tính chất của các nguyên tố lân cận, bài tập xác định công thức oxide và hydroxide dựa vào vị trí của nguyên tố trong bảng tuần hoàn.\n- **Từ khóa**: Hệ thống hoá chương 2, So sánh tính chất, Oxide, Hydroxide."
+  },
+  {
+    "lessonId": "hoa10_b10",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 3: Liên kết hoá học",
+    "lessonOrder": 11,
+    "lessonContent": "### BÀI 10: QUY TẮC OCTET\n- **Ý chính / Chủ đề**: Định nghĩa liên kết hoá học và nội dung quy tắc octet.\n- **Kiến thức trọng tâm**:\n  1. **Liên kết hoá học**: Sự kết hợp giữa các nguyên tử tạo thành phân tử hay tinh thể bền vững hơn.\n  2. **Quy tắc octet**: Khi hình thành liên kết hoá học, các nguyên tử nhóm A có xu hướng nhường, nhận hoặc góp chung electron để đạt được lớp vỏ ngoài cùng có cấu hình bền vững như của khí hiếm gần nhất với 8 electron lớp ngoài cùng (hoặc 2 electron đối với helium).\n  3. **Ứng dụng**: Giải thích sự hình thành liên kết trong các phân tử đơn giản như $F_2$, $Cl_2$, $H_2O$, $NH_3$.\n- **Từ khóa**: Liên kết hoá học, Quy tắc octet, Cấu hình khí hiếm, Electron dùng chung."
+  },
+  {
+    "lessonId": "hoa10_b11",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 3: Liên kết hoá học",
+    "lessonOrder": 12,
+    "lessonContent": "### BÀI 11: LIÊN KẾT ION\n- **Ý chính / Chủ đề**: Sự tạo thành ion; Sự hình thành liên kết ion; Cấu trúc tinh thể ion và tính chất vật lí của hợp chất ion.\n- **Kiến thức trọng tâm**:\n  1. **Sự tạo thành ion**: Nguyên tử kim loại nhường electron tạo cation (ion dương); nguyên tử phi kim nhận electron tạo anion (ion âm).\n  2. **Liên kết ion**: Hình thành bởi lực hút tĩnh điện giữa các ion mang điện tích trái dấu.\n  3. **Tinh thể ion**: Tinh thể $NaCl$ gồm các ion $Na^+$ và $Cl^-$ sắp xếp luân phiên xen kẽ nhau tại các nút mạng; mỗi ion được bao quanh bởi 6 ion trái dấu.\n  4. **Tính chất hợp chất ion**: Thường ở trạng thái rắn ở điều kiện thường, nhiệt độ nóng chảy và nhiệt độ sôi cao; dẫn điện tốt khi nóng chảy hoặc khi tan trong nước, không dẫn điện ở trạng thái tinh thể rắn.\n- **Từ khóa**: Cation, Anion, Lực hút tĩnh điện, Tinh thể NaCl, Nhiệt độ nóng chảy."
+  },
+  {
+    "lessonId": "hoa10_b12",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 3: Liên kết hoá học",
+    "lessonOrder": 13,
+    "lessonContent": "### BÀI 12: LIÊN KẾT CỘNG HOÁ TRỊ\n- **Ý chính / Chủ đề**: Sự hình thành liên kết cộng hoá trị; Công thức Lewis; Liên kết cho-nhận; Độ âm điện và liên kết; Xen phủ orbital nguyên tử và năng lượng liên kết.\n- **Kiến thức trọng tâm**:\n  1. **Liên kết cộng hoá trị**: Hình thành giữa hai nguyên tử bằng một hay nhiều cặp electron dùng chung. Có liên kết cộng hoá trị không phân cực (góp chung đều) và phân cực (cặp electron lệch về phía nguyên tử có độ âm điện lớn hơn).\n  2. **Liên kết cho - nhận**: Là một dạng liên kết cộng hoá trị đặc biệt, trong đó cặp electron dùng chung chỉ do một nguyên tử đóng góp (ví dụ: sự tạo thành ion $NH_4^+$).\n  3. **Phân loại theo độ âm điện**: $0 \\le \\Delta\\chi < 0,4$ (Cộng hoá trị không phân cực); $0,4 \\le \\Delta\\chi < 1,7$ (Cộng hoá trị phân cực); $\\Delta\\chi \\ge 1,7$ (Liên kết ion).\n  4. **Xen phủ orbital**: Sự xen phủ trục tạo liên kết $\\sigma$ bền vững; sự xen phủ bên tạo liên kết $\\pi$ kém bền hơn.\n  5. **Năng lượng liên kết ($E_b$)**: Năng lượng cần thiết để phá vỡ một liên kết hoá học ở thể khí. Giá trị $E_b$ càng lớn, liên kết càng bền vững.\n- **Từ khóa**: Cộng hoá trị, Công thức Lewis, Liên kết cho-nhận, Xen phủ orbital, Liên kết $\\sigma$, Liên kết $\\pi$, Năng lượng liên kết $E_b$."
+  },
+  {
+    "lessonId": "hoa10_b13",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 3: Liên kết hoá học",
+    "lessonOrder": 14,
+    "lessonContent": "### BÀI 13: LIÊN KẾT HYDROGEN VÀ TƯƠNG TÁC VAN DER WAALS\n- **Ý chính / Chủ đề**: Khái niệm liên kết hydrogen; Tương tác van der Waals và ảnh hưởng của chúng đến tính chất vật lí của các chất.\n- **Kiến thức trọng tâm**:\n  1. **Liên kết hydrogen**: Liên kết yếu hình thành giữa nguyên tử $H$ (đã liên kết với một nguyên tử có độ âm điện lớn như $N, O, F$) và một nguyên tử có độ âm điện lớn khác (thường có cặp electron chưa liên kết).\n  2. **Vai trò của liên kết hydrogen**: Làm tăng nhiệt độ sôi và nhiệt độ nóng chảy của nước, đóng vai trò quan trọng trong việc cấu trúc mạng tinh thể của nước đá và cấu trúc các đại phân tử sinh học.\n  3. **Tương tác van der Waals**: Lực tương tác tĩnh điện yếu giữa các lưỡng cực tạm thời hoặc cảm ứng trong các phân tử. Làm tăng nhiệt độ nóng chảy, nhiệt độ sôi của các chất khi khối lượng phân tử và kích thước phân tử tăng.\n- **Từ khóa**: Liên kết hydrogen, Tương tác van der Waals, Nhiệt độ sôi, Nhiệt độ nóng chảy."
+  },
+  {
+    "lessonId": "hoa10_b14",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 3: Liên kết hoá học",
+    "lessonOrder": 15,
+    "lessonContent": "### BÀI 14: ÔN TẬP CHƯƠNG 3\n- **Ý chính / Chủ đề**: Hệ thống hoá kiến thức về các loại liên kết hoá học và tương tác giữa các phân tử.\n- **Kiến thức trọng tâm**:\n  1. **Khái quát**: Phân biệt liên kết ion, liên kết cộng hoá trị không phân cực và phân cực dựa trên bản chất liên kết và hiệu độ âm điện.\n  2. **Biểu diễn cấu trúc**: Viết công thức electron, công thức cấu tạo và công thức Lewis của một số phân tử đơn giản.\n  3. **Tương tác liên phân tử**: Củng cố vai trò và cơ chế hình thành của liên kết hydrogen cùng tương tác van der Waals đối với trạng thái vật lí của chất.\n- **Từ khóa**: Ôn tập liên kết hoá học, Công thức Lewis, Phân biệt liên kết."
+  },
+  {
+    "lessonId": "hoa10_b15",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 4: Phản ứng oxi hoá – khử",
+    "lessonOrder": 16,
+    "lessonContent": "### BÀI 15: PHẢN ỨNG OXI HOÁ - KHỬ\n- **Ý chính / Chủ đề**: Khái niệm và cách xác định số oxi hoá; Định nghĩa phản ứng oxi hoá - khử; Lập phương trình bằng thăng bằng electron và vai trò thực tiễn.\n- **Kiến thức trọng tâm**:\n  1. **Số oxi hoá**: Điện tích quy ước của nguyên tử trong phân tử nếu giả định tất cả các liên kết đều là liên kết ion.\n  2. **Chất khử và Chất oxi hoá**: Chất khử là chất nhường electron (số oxi hoá tăng sau phản ứng). Chất oxi hoá là chất nhận electron (số oxi hoá giảm sau phản ứng).\n  3. **Quá trình**: Quá trình oxi hoá là quá trình nhường electron; quá trình khử là quá trình nhận electron.\n  4. **Thăng bằng electron**: Phương pháp cân bằng phản ứng dựa trên nguyên tắc: Tổng số electron do chất khử nhường = Tổng số electron do chất oxi hoá nhận.\n  5. **Ý nghĩa**: Có vai trò thiết yếu trong tự nhiên và công nghiệp (sự cháy, luyện kim, sản xuất hoá chất, pin điện).\n- **Công thức**: $$\\sum e_{nhường} = \\sum e_{nhận}$$\n- **Từ khóa**: Số oxi hoá, Chất khử, Chất oxi hoá, Quá trình oxi hoá, Quá trình khử, Thăng bằng electron."
+  },
+  {
+    "lessonId": "hoa10_b16",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 4: Phản ứng oxi hoá – khử",
+    "lessonOrder": 17,
+    "lessonContent": "### BÀI 16: ÔN TẬP CHƯƠNG 4\n- **Ý chính / Chủ đề**: Luyện tập phân tích số oxi hoá và cân bằng phản ứng oxi hoá - khử phức tạp.\n- **Kiến thức trọng tâm**:\n  1. **Hệ thống lý thuyết**: Củng cố chắc chắn định nghĩa và phân biệt rõ ràng chất khử/chất oxi hoá, quá trình oxi hoá/quá trình khử.\n  2. **Kĩ năng cân bằng**: Luyện tập nhuần nhuyễn 4 bước của phương pháp thăng bằng electron đối với phản ứng oxi hoá - khử đơn giản, tự oxi hoá - khử và phản ứng có môi trường.\n  3. **Ứng dụng thực tế**: Đánh giá vai trò có lợi và có hại của các quá trình oxi hoá - khử trong đời sống và sản xuất.\n- **Từ khóa**: Ôn tập phản ứng oxi hoá - khử, Thăng bằng electron, Cân bằng phương trình."
+  },
+  {
+    "lessonId": "hoa10_b17",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 5: Năng lượng hoá học",
+    "lessonOrder": 18,
+    "lessonContent": "### BÀI 17: BIẾN THIÊN ENTHALPY TRONG CÁC PHẢN ỨNG HOÁ HỌC\n- **Ý chính / Chủ đề**: Phản ứng toả nhiệt và thu nhiệt; Biến thiên enthalpy chuẩn; Nhiệt tạo thành chuẩn; Cách tính nhiệt phản ứng từ nhiệt tạo thành hoặc năng lượng liên kết.\n- **Kiến thức trọng tâm**:\n  1. **Phản ứng toả nhiệt và thu nhiệt**: Phản ứng toả nhiệt giải phóng năng lượng ($\\\\Delta_r H_{298}^o < 0$). Phản ứng thu nhiệt hấp thụ năng lượng ($\\\\Delta_r H_{298}^o > 0$).\n  2. **Biến thiên enthalpy chuẩn ($\\\\Delta_r H_{298}^o$)**: Nhiệt lượng toả ra hay thu vào của phản ứng hoá học được đo ở điều kiện chuẩn (áp suất 1 bar đối với chất khí, nồng độ $1\\text{ mol/L}$ đối với chất tan ở $25^o C$).\n  3. **Nhiệt tạo thành chuẩn (Enthalpy tạo thành chuẩn $\\\\Delta_f H_{298}^o$)**: Biến thiên enthalpy của phản ứng tạo thành 1 mol chất từ các đơn chất ở dạng bền vững nhất trong điều kiện chuẩn. Nhiệt tạo thành chuẩn của các đơn chất bền vững bằng 0.\n  4. **Tính biến thiên enthalpy**:\n    - Theo nhiệt tạo thành: $$\\Delta_r H_{298}^o = \\sum \\Delta_f H_{298}^o(sp) - \\sum \\Delta_f H_{298}^o(cđ)$$\n    - Theo năng lượng liên kết (áp dụng cho chất khí): $$\\Delta_r H_{298}^o = \\sum E_b(cđ) - \\sum E_b(sp)$$\n- **Từ khóa**: Biến thiên enthalpy chuẩn, Nhiệt tạo thành chuẩn, Năng lượng liên kết, Toả nhiệt, Thu nhiệt."
+  },
+  {
+    "lessonId": "hoa10_b18",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 5: Năng lượng hoá học",
+    "lessonOrder": 19,
+    "lessonContent": "### BÀI 18: ÔN TẬP CHƯƠNG 5\n- **Ý chính / Chủ đề**: Hệ thống hoá công thức tính toán năng lượng phản ứng; Thực hành bài tập biến thiên enthalpy.\n- **Kiến thức trọng tâm**:\n  1. **Hệ thống công thức**: Ôn tập lại cách tính nhiệt lượng phản ứng hoá học dựa vào bảng giá trị nhiệt tạo thành chuẩn và bảng năng lượng liên kết $E_b$.\n  2. **Ý nghĩa dấu**: Nắm rõ cách biện luận chiều hướng diễn ra của phản ứng dựa vào dấu của $\\\\Delta_r H_{298}^o$ (thuận lợi khi toả nhiệt âm).\n  3. **Thực hành**: Giải các bài toán nhiệt hoá học thực tế như tính lượng nhiệt toả ra khi đốt cháy nhiên liệu (gas, xăng, than).\n- **Từ khóa**: Ôn tập năng lượng hoá học, Toả nhiệt, Thu nhiệt, Enthalpy phản ứng."
+  },
+  {
+    "lessonId": "hoa10_b19",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 6: Tốc độ phản ứng",
+    "lessonOrder": 20,
+    "lessonContent": "### BÀI 19: TỐC ĐỘ PHẢN ỨNG\n- **Ý chính / Chủ đề**: Định nghĩa tốc độ phản ứng; Tốc độ trung bình; Định luật tác dụng khối lượng; Các yếu tố ảnh hưởng đến tốc độ phản ứng và hệ số nhiệt độ Van't Hoff.\n- **Kiến thức trọng tâm**:\n  1. **Tốc độ phản ứng**: Đại lượng đặc trưng cho mức độ nhanh chậm của một phản ứng hoá học.\n  2. **Tốc độ trung bình ($v_{tb}$)**: Tính bằng sự thay đổi nồng độ chất phản ứng hoặc sản phẩm trong một khoảng thời gian: $$v_{tb} = -\\frac{1}{a} \\frac{\\Delta C_A}{\\Delta t} = \\frac{1}{b} \\frac{\\Delta C_B}{\\Delta t}$$\n  3. **Định luật tác dụng khối lượng**: Tốc độ phản ứng đơn giản tỉ lệ thuận với tích nồng độ các chất tham gia phản ứng với số mũ là hệ số tỉ lượng tương ứng: $$v = k \\cdot C_A^a \\cdot C_B^b$$\n  4. **Các yếu tố ảnh hưởng**: Nồng độ (tăng làm tăng tốc độ), Nhiệt độ (tăng làm tăng tốc độ), Áp suất (chất khí, tăng làm tăng tốc độ), Diện tích bề mặt tiếp xúc (chất rắn, tăng làm tăng tốc độ), Chất xúc tác (làm tăng tốc độ nhưng không bị biến đổi sau phản ứng).\n  5. **Hệ số nhiệt độ Van't Hoff ($\\gamma$)**: Khi nhiệt độ tăng lên $10^o C$, tốc độ phản ứng tăng từ 2 đến 4 lần: $$\\frac{v_{T_2}}{v_{T_1}} = \\gamma^{\\frac{T_2 - T_1}{10}}$$\n- **Từ khóa**: Tốc độ phản ứng, Định luật tác dụng khối lượng, Hằng số tốc độ $k$, Yếu tố ảnh hưởng, Hệ số nhiệt độ Van't Hoff."
+  },
+  {
+    "lessonId": "hoa10_b20",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 6: Tốc độ phản ứng",
+    "lessonOrder": 21,
+    "lessonContent": "### BÀI 20: ÔN TẬP CHƯƠNG 6\n- **Ý chính / Chủ đề**: Hệ thống hoá các yếu tố ảnh hưởng đến tốc độ phản ứng và giải thích các hiện tượng thực tế đời sống.\n- **Kiến thức trọng tâm**:\n  1. **Lý thuyết tổng hợp**: Nắm vững cơ sở khoa học của sự va chạm hiệu quả giữa các tiểu phân dẫn đến phản ứng nhanh hay chậm.\n  2. **Giải thích thực tế**: Áp dụng các yếu tố ảnh hưởng để giải thích việc bảo quản thức ăn trong tủ lạnh, nấu chín thực phẩm trong nồi áp suất, chẻ nhỏ củi khi nhóm bếp, vai trò của men tiêu hoá.\n  3. **Tính toán**: Luyện tập bài tập liên quan đến tốc độ trung bình và hệ số nhiệt độ Van't Hoff.\n- **Từ khóa**: Ôn tập tốc độ phản ứng, Sự va chạm hiệu quả, Giải thích thực tế."
+  },
+  {
+    "lessonId": "hoa10_b21",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 7: Nguyên tố nhóm halogen",
+    "lessonOrder": 22,
+    "lessonContent": "### BÀI 21: NHÓM HALOGEN\n- **Ý chính / Chủ đề**: Trạng thái tự nhiên; Cấu tạo nguyên tử, phân tử; Tính chất vật lí; Xu hướng phản ứng hoá học; Tính oxi hoá mạnh của đơn chất halogen và phương pháp điều chế chlorine.\n- **Kiến thức trọng tâm**:\n  1. **Đặc điểm chung**: Nhóm VIIA gồm $F, Cl, Br, I$ (Halogen có 7 electron lớp ngoài cùng $ns^2 np^5$). Trong tự nhiên chỉ tồn tại dạng hợp chất.\n  2. **Tính chất vật lí**: Đơn chất tồn tại dạng phân tử hai nguyên tử $X_2$. Từ fluorine đến iodine, trạng thái biến đổi từ khí $\\rightarrow$ lỏng $\\rightarrow$ rắn; màu sắc đậm dần; nhiệt độ nóng chảy và nhiệt độ sôi tăng dần do tương tác van der Waals tăng.\n  3. **Tính chất hoá học**: Là các phi kim điển hình có tính oxi hoá mạnh (giảm dần từ $F_2$ đến $I_2$). Phản ứng mạnh với kim loại tạo muối halide, phản ứng với hydrogen tạo hydrogen halide.\n  4. **Phản ứng với nước**: $F_2$ phân huỷ nước mãnh liệt; $Cl_2, Br_2$ phản ứng thuận nghịch tự oxi hoá - khử; $I_2$ hầu như không phản ứng.\n  5. **Điều chế chlorine**: Trong phòng thí nghiệm: $MnO_2 + 4HCl_{(đặc)} \\\\rightarrow MnCl_2 + Cl_2 + 2H_2O$. Trong công nghiệp: Điện phân dung dịch $NaCl$ bão hoà có màng ngăn xốp.\n- **Từ khóa**: Halogen, Tính oxi hoá mạnh, Tương tác van der Waals, Điện phân dung dịch có màng ngăn, Phản ứng tự oxi hoá - khử."
+  },
+  {
+    "lessonId": "hoa10_b22",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 7: Nguyên tố nhóm halogen",
+    "lessonOrder": 23,
+    "lessonContent": "### BÀI 22: HYDROGEN HALIDE. MUỐI HALIDE\n- **Ý chính / Chủ đề**: Xu hướng biến đổi nhiệt độ sôi và tính acid của các hydrogen halide; Tính khử của các ion halide; Phương pháp phân biệt các ion $F^-, Cl^-, Br^-, I^-$.\n- **Kiến thức trọng tâm**:\n  1. **Nhiệt độ sôi**: Tăng dần từ $HCl$ đến $HI$. Riêng $HF$ có nhiệt độ sôi cao bất thường do có khả năng tạo liên kết hydrogen mạnh giữa các phân tử.\n  2. **Tính acid**: Tính acid của các hydrohalic acid tăng dần từ $HF$ (acid yếu) $\\rightarrow$ $HCl$ $\\rightarrow$ $HBr$ $\\rightarrow$ $HI$ (acid rất mạnh).\n  3. **Tính khử**: Tính khử của các ion halide tăng dần theo chiều $Cl^- < Br^- < I^-$. Ion $Br^-, I^-$ có thể khử được $H_2SO_4$ đặc thành các sản phẩm khử của lưu huỳnh.\n  4. **Nhận biết ion halide**: Dùng dung dịch $AgNO_3$ làm thuốc thử: $AgF$ tan; $AgCl\\downarrow$ trắng; $AgBr\\downarrow$ vàng nhạt; $AgI\\downarrow$ vàng đậm.\n  5. **Ứng dụng**: $NaCl$ dùng làm muối ăn và nguyên liệu hoá chất; $HF$ dùng để khắc chữ lên thuỷ tinh.\n- **Từ khóa**: Hydrogen halide, Hydrohalic acid, Liên kết hydrogen, Tính acid, Tính khử, Nhận biết ion halide."
+  },
+  {
+    "lessonId": "hoa10_b23",
+    "grade": 10,
+    "subject": "Hoá học",
+    "chapterName": "Chương 7: Nguyên tố nhóm halogen",
+    "lessonOrder": 24,
+    "lessonContent": "### BÀI 23: ÔN TẬP CHƯƠNG 7\n- **Ý chính / Chủ đề**: Hệ thống hoá cấu trúc nguyên tử, tính chất vật lí và tính chất hoá học của các halogen cùng các hợp chất của chúng.\n- **Kiến thức trọng tâm**:\n  1. **Khái quát cấu trúc**: Củng cố xu hướng biến đổi cấu hình electron, độ âm điện, bán kính của các halogen nhóm VIIA.\n  2. **Mối quan hệ**: Hệ thống hoá sự tương quan giữa bán kính nguyên tử và độ âm điện với tính chất oxi hoá của đơn chất, tính acid và tính khử của hợp chất hydrohalic acid.\n  3. **Bài tập tổng hợp**: Luyện tập giải các bài toán chuỗi phản ứng, phân biệt muối halide và bài tập tính toán lượng chất thu được sau phản ứng.\n- **Từ khóa**: Ôn tập halogen, Hệ thống hoá chương 7, Chuỗi phản ứng."
+  }
+]

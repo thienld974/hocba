@@ -1,0 +1,330 @@
+[
+  {
+    "lessonId": "toan10_t1_b1",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương I: Mệnh đề và tập hợp",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Mệnh đề\n- **Khái niệm mệnh đề:** Khẳng định có tính đúng hoặc sai. Một mệnh đề không thể vừa đúng vừa sai.\n- **Mệnh đề chứa biến:** Khẳng định chứa biến, tính đúng sai phụ thuộc vào giá trị của biến. Ví dụ: \"$n$ chia hết cho 2\".\n- **Mệnh đề phủ định:** Phủ định của $P$ kí hiệu là $\\overline{P}$. Nếu $P$ đúng thì $\\overline{P}$ sai, và ngược lại.\n- **Mệnh đề kéo theo:** Mệnh đề \"Nếu $P$ thì $Q$\", kí hiệu $P \\Rightarrow Q$. Đúng trong mọi trường hợp trừ khi $P$ đúng mà $Q$ sai. Phát biểu khác: \"$P$ là điều kiện đủ để có $Q$\" hoặc \"$Q$ là điều kiện cần để có $P$\". Mệnh đề đảo của $P \\Rightarrow Q$ là $Q \\Rightarrow P$.\n- **Mệnh đề tương đương:** Mệnh đề \"$P$ khi và chỉ khi $Q$\", kí hiệu $P \\Leftrightarrow Q$. Đúng khi cả $P \\Rightarrow Q$ và $Q \\Rightarrow P$ đều đúng. Phát biểu: \"$P$ là điều kiện cần và đủ để có $Q$\".\n- **Kí hiệu $\\forall$ và $\\exists$:\n  + Kí hiệu $\\forall$ (với mọi): \"$\\forall x \\in M, P(x)$\" phát biểu là \"Với mọi $x$ thuộc $M$, $P(x)$ đúng\". Phủ định là \"$\\exists x \\in M, \\overline{P(x)}$\".\n  + Kí hiệu $\\exists$ (tồn tại): \"$\\exists x \\in M, P(x)$\" phát biểu là \"Tồn tại ít nhất một $x$ thuộc $M$ để $P(x)$ đúng\". Phủ định là \"$\\forall x \\in M, \\overline{P(x)}$\"."
+  },
+  {
+    "lessonId": "toan10_t1_b2",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương I: Mệnh đề và tập hợp",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Tập hợp và các phép toán trên tập hợp\n- **Khái niệm tập hợp:** Cách mô tả tập hợp bằng cách liệt kê phần tử hoặc chỉ ra tính chất đặc trưng. Phần tử $a$ thuộc tập hợp $S$ kí hiệu $a \\in S$, ngược lại $a \\notin S$. Tập rỗng kí hiệu $\\emptyset$.\n- **Tập hợp con:** Tập $A$ gọi là tập con của $B$, kí hiệu $A \\subset B$, nếu mọi phần tử của $A$ đều thuộc $B$. Quy ước $\\emptyset \\subset A$ với mọi tập hợp $A$.\n- **Tập hợp bằng nhau:** $A = B \\Leftrightarrow (A \\subset B \\text{ và } B \\subset A)$.\n- **Các tập hợp số:** Tập số tự nhiên $\\mathbb{N}$, tập số nguyên $\\mathbb{Z}$, tập số hữu tỉ $\\mathbb{Q}$, tập số thực $\\mathbb{R}$. Ta có: $\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$.\n- **Các tập con thường dùng của $\\mathbb{R}$:\n  + Khoảng: $(a; b) = \\{x \\in \\mathbb{R} \\mid a < x < b\\}$, $(a; +\\infty) = \\{x \\in \\mathbb{R} \\mid x > a\\}$, $(-\\infty; b) = \\{x \\in \\mathbb{R} \\mid x < b\\}$.\n  + Đoạn: $[a; b] = \\{x \\in \\mathbb{R} \\mid a \\le x \\le b\\}$.\n  + Nửa khoảng: $[a; b) = \\{x \\in \\mathbb{R} \\mid a \\le x < b\\}$, $(a; b] = \\{x \\in \\mathbb{R} \\mid a < x \\le b\\}$, $[a; +\\infty) = \\{x \\in \\mathbb{R} \\mid x \\ge a\\}$, $(-\\infty; b] = \\{x \\in \\mathbb{R} \\mid x \\le b\\}$.\n- **Các phép toán trên tập hợp:\n  + Giao của hai tập hợp: $A \\cap B = \\{x \\mid x \\in A \\text{ và } x \\in B\\}$.\n  + Hợp của hai tập hợp: $A \\cup B = \\{x \\mid x \\in A \\text{ hoặc } x \\in B\\}$.\n  + Hiệu của hai tập hợp: $A \\setminus B = \\{x \\mid x \\in A \\text{ và } x \\notin B\\}$. Khi $B \\subset A$ thì $A \\setminus B$ được gọi là phần bù của $B$ trong $A$, kí hiệu $C_A B$.\n  + Biểu đồ Ven được dùng để trực quan hóa các phép toán tập hợp. Công thức số phần tử: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$."
+  },
+  {
+    "lessonId": "toan10_t1_btc_c1",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương I: Mệnh đề và tập hợp",
+    "lessonOrder": 3,
+    "lessonContent": "Bài tập cuối chương I\n- **Hệ thống kiến thức:** Tổng ôn tập lý thuyết mệnh đề toán học, mệnh đề phủ định, kéo theo, tương đương, điều kiện cần, điều kiện đủ, tập hợp con, tập hợp bằng nhau, các phép toán giao, hợp, hiệu, phần bù và biểu diễn các tập con của số thực $\\mathbb{R}$ trên trục số.\n- **Các dạng toán trọng tâm:\n  + Xét tính đúng sai và lập mệnh đề phủ định.\n  + Xác định các tập hợp bằng cách liệt kê hoặc nêu tính chất đặc trưng.\n  + Thực hiện các phép toán $A \\cap B$, $A \\cup B$, $A \\setminus B$, $C_R A$ trên các khoảng, đoạn, nửa khoảng.\n  + Giải quyết các bài toán thực tế sử dụng công thức số phần tử $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$ và biểu đồ Ven."
+  },
+  {
+    "lessonId": "toan10_t1_b3",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương II: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 3: Bất phương trình bậc nhất hai ẩn\n- **Khái niệm:** Có dạng tổng quát $ax + by < c$ (hoặc $ax+by \\le c$, $ax+by > c$, $ax+by \\ge c$) trong đó $a, b, c$ là các số thực cho trước, $a$ và $b$ không đồng thời bằng $0$, và $x, y$ là các ẩn số.\n- **Nghiệm:** Mỗi cặp số $(x_0; y_0)$ thỏa mãn bất phương trình khi thay thế vào là một khẳng định đúng.\n- **Biểu diễn miền nghiệm trên mặt phẳng tọa độ Oxy:\n  1. Vẽ đường thẳng $d: ax + by = c$.\n  2. Chọn một điểm $M_0(x_0; y_0)$ không thuộc $d$ (thường chọn gốc tọa độ $O(0;0)$ nếu $c \\ne 0$).\n  3. Tính giá trị $ax_0 + by_0$ và so sánh với $c$. Nếu $ax_0 + by_0 < c$ đúng thì nửa mặt phẳng chứa $M_0$ (không kể bờ $d$ nếu bất phương trình không có dấu bằng) là miền nghiệm. Ngược lại, nửa mặt phẳng không chứa $M_0$ là miền nghiệm.\n- **Đặc điểm:** Bất phương trình bậc nhất hai ẩn luôn có vô số nghiệm và miền nghiệm của nó là nửa mặt phẳng được phân chia bởi đường thẳng $d$."
+  },
+  {
+    "lessonId": "toan10_t1_b4",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương II: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 4: Hệ bất phương trình bậc nhất hai ẩn\n- **Khái niệm:** Hệ gồm hai hay nhiều bất phương trình bậc nhất hai ẩn $x, y$.\n- **Nghiệm:** Cặp số $(x_0; y_0)$ đồng thời là nghiệm của tất cả các bất phương trình trong hệ.\n- **Biểu diễn miền nghiệm trên mặt phẳng tọa độ Oxy:\n  + Trên cùng một mặt phẳng tọa độ, xác định miền nghiệm của mỗi bất phương trình trong hệ và gạch bỏ miền còn lại.\n  + Phần không bị gạch (bao gồm cả các bờ nếu có dấu bằng) là miền nghiệm của hệ bất phương trình.\n- **Ứng dụng quy hoạch tuyến tính:\n  + Miền nghiệm của hệ thường là một đa giác (hoặc miền đa diện).\n  + Để tìm giá trị lớn nhất hoặc nhỏ nhất của biểu thức bậc nhất $F(x; y) = ax + by$ trên miền đa giác lồi, ta chỉ cần tính giá trị của $F(x; y)$ tại tất cả các đỉnh của đa giác đó. Giá trị lớn nhất/nhỏ nhất sẽ đạt được tại một trong các đỉnh này."
+  },
+  {
+    "lessonId": "toan10_t1_btc_c2",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương II: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+    "lessonOrder": 6,
+    "lessonContent": "Bài tập cuối chương II\n- **Hệ thống kiến thức:** Khái quát phương pháp giải và biểu diễn miền nghiệm của bất phương trình bậc nhất hai ẩn và hệ bất phương trình bậc nhất hai ẩn.\n- **Các dạng bài tập:\n  + Nhận biết cặp số $(x; y)$ có là nghiệm của bất phương trình hay hệ bất phương trình cho trước.\n  + Xác định và vẽ miền nghiệm của bất phương trình và hệ bất phương trình bậc nhất hai ẩn.\n  + Áp dụng toán học vào các bài toán kinh tế thực tế: tối ưu hóa chi phí sản xuất, lập kế hoạch quảng cáo, lập kế hoạch kinh doanh mua sắm thiết bị để đạt lợi nhuận tối đa bằng cách mô hình hóa thành hệ bất phương trình bậc nhất hai ẩn và giải bài toán quy hoạch tuyến tính trên miền đa giác."
+  },
+  {
+    "lessonId": "toan10_t1_b5",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương III: Hệ thức lượng trong tam giác",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 5: Giá trị lượng giác của một góc từ 0° đến 180°\n- **Nửa đường tròn đơn vị:** Đường tròn tâm $O$, bán kính $R=1$ nằm phía trên trục hoành trong mặt phẳng tọa độ $Oxy$.\n- **Định nghĩa:** Với góc $\\alpha$ ($0^\\circ \\le \\alpha \\le 180^\\circ$), gọi $M(x_0; y_0)$ là điểm tương ứng trên nửa đường tròn đơn vị sao cho $\\widehat{xOM} = \\alpha$. Khi đó:\n  + $\\sin \\alpha = y_0$\n  + $\\cos \\alpha = x_0$\n  + $\\tan \\alpha = \\frac{y_0}{x_0}$ (với $\\alpha \\ne 90^\\circ$)\n  + $\\cot \\alpha = \\frac{x_0}{y_0}$ (với $\\alpha \\ne 0^\\circ, \\alpha \\ne 180^\\circ$)\n- **Tính chất đối với hai góc bù nhau ($\\alpha$ và $180^\\circ - \\alpha$):\n  + $\\sin(180^\\circ - \\alpha) = \\sin \\alpha$\n  + $\\cos(180^\\circ - \\alpha) = -\\cos \\alpha$\n  + \\tan(180^\\circ - \\alpha) = -\\tan \\alpha (\\alpha \\ne 90^\\circ)\n  + \\cot(180^\\circ - \\alpha) = -\\cot \\alpha (0^\\circ < \\alpha < 180^\\circ)\n- **Các hệ thức lượng giác cơ bản:\n  + $\\sin^2 \\alpha + \\cos^2 \\alpha = 1$\n  + $1 + \\tan^2 \\alpha = \\frac{1}{\\cos^2 \\alpha}$ ($\\alpha \\ne 90^\\circ$)\n  + $1 + \\cot^2 \\alpha = \\frac{1}{\\sin^2 \\alpha}$ ($0^\\circ < \\alpha < 180^\\circ$)\n  + $\\tan \\alpha \\cdot \\cot \\alpha = 1$ ($\\alpha \\notin \\{0^\\circ; 90^\\circ; 180^\\circ\\}$)"
+  },
+  {
+    "lessonId": "toan10_t1_b6",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương III: Hệ thức lượng trong tam giác",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 6: Hệ thức lượng trong tam giác\n- **Định lí côsin:** Trong tam giác $ABC$ với các cạnh $a, b, c$ đối diện các góc $A, B, C$:\n  $$a^2 = b^2 + c^2 - 2bc \\cos A$$\n  $$b^2 = a^2 + c^2 - 2ac \\cos B$$\n  $$c^2 = a^2 + b^2 - 2ab \\cos C$$\n- **Định lí sin:**\n  $$\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C} = 2R$$\n  (với $R$ là bán kính đường tròn ngoại tiếp tam giác $ABC$).\n- **Công thức tính diện tích tam giác $S$:\n  + $S = \\frac{1}{2} a h_a = \\frac{1}{2} b h_b = \\frac{1}{2} c h_c$ (với $h_a, h_b, h_c$ là các đường cao).\n  + $S = \\frac{1}{2} bc \\sin A = \\frac{1}{2} ac \\sin B = \\frac{1}{2} ab \\sin C$.\n  + $S = \\frac{abc}{4R}$.\n  + $S = pr$ (với $p = \\frac{a+b+c}{2}$ là nửa chu vi, $r$ là bán kính đường tròn nội tiếp).\n  + Công thức Heron: $S = \\sqrt{p(p-a)(p-b)(p-c)}$.\n- **Giải tam giác:** Tính các cạnh và các góc của tam giác khi biết trước các yếu tố cho trước (như biết 2 cạnh và góc xen giữa, biết 3 cạnh, hoặc biết 1 cạnh và 2 góc kề)."
+  },
+  {
+    "lessonId": "toan10_t1_btc_c3",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương III: Hệ thức lượng trong tam giác",
+    "lessonOrder": 9,
+    "lessonContent": "Bài tập cuối chương III\n- **Hệ thống kiến thức:** Ôn tập toàn bộ công thức lượng giác của góc từ $0^\\circ$ đến $180^\\circ$, định lí côsin, định lí sin, công thức trung tuyến $m_a^2 = \\frac{2(b^2+c^2)-a^2}{4}$, và 5 công thức tính diện tích tam giác.\n- **Các dạng toán trọng tâm:\n  + Tính giá trị biểu thức lượng giác không dùng máy tính hoặc dùng máy tính cầm tay.\n  + Chứng minh đẳng thức lượng giác, chứng minh các hệ thức lượng trong tam giác.\n  + Giải tam giác và ứng dụng đo đạc thực tế: tính khoảng cách từ đất liền đến đảo, tính chiều cao của tháp, tính khoảng cách giữa hai đỉnh núi bằng phương pháp ngắm và đo góc gián tiếp."
+  },
+  {
+    "lessonId": "toan10_t1_b7",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Vectơ",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 7: Các khái niệm mở đầu\n- **Định nghĩa:** Vectơ là một đoạn thẳng có hướng, nghĩa là trong hai điểm mút đã chỉ rõ điểm đầu và điểm cuối. Kí hiệu $\\vec{a}, \\vec{b}$ hoặc $\\overrightarrow{AB}$ (điểm đầu $A$, điểm cuối $B$).\n- **Độ dài của vectơ:** Là khoảng cách giữa điểm đầu và điểm cuối của nó, kí hiệu $|\\overrightarrow{AB}| = AB$, $|\\vec{a}|$.\n- **Vectơ cùng phương, cùng hướng:\n  + Đường thẳng đi qua điểm đầu và điểm cuối của vectơ gọi là giá của vectơ.\n  + Hai vectơ được gọi là cùng phương nếu giá của chúng song song hoặc trùng nhau.\n  + Hai vectơ cùng phương thì có thể cùng hướng hoặc ngược hướng.\n- **Hai vectơ bằng nhau:** Nếu chúng cùng hướng và cùng độ dài, kí hiệu $\\vec{a} = \\vec{b}$.\n- **Vectơ-không:** Điểm đầu trùng với điểm cuối, kí hiệu $\\vec{0}$. Độ dài $|\\vec{0}| = 0$. Vectơ $\\vec{0}$ cùng phương và cùng hướng với mọi vectơ."
+  },
+  {
+    "lessonId": "toan10_t1_b8",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Vectơ",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 8: Tổng và hiệu của hai vectơ\n- **Tổng của hai vectơ:** Cho hai vectơ $\\vec{a}, \\vec{b}$. Lấy điểm $A$ tùy ý, dựng $\\overrightarrow{AB} = \\vec{a}$ và $\\overrightarrow{BC} = \\vec{b}$. Vectơ $\\overrightarrow{AC}$ được gọi là tổng của hai vectơ $\\vec{a}$ và $\\vec{b}$, kí hiệu $\\vec{a} + \\vec{b}$.\n- **Các quy tắc cộng:\n  + Quy tắc ba điểm: Với ba điểm $A, B, C$ bất kì, ta có $\\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{AC}$.\n  + Quy tắc hình bình hành: Nếu $ABCD$ là hình bình hành thì $\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{AC}$.\n- **Tính chất:** Phép cộng vectơ có tính giao hoán $\\vec{a} + \\vec{b} = \\vec{b} + \\vec{a}$, kết hợp $(\\vec{a} + \\vec{b}) + \\vec{c} = \\vec{a} + (\\vec{b} + \\vec{c})$, và cộng với vectơ-không $\\vec{a} + \\vec{0} = \\vec{a}$.\n- **Hiệu của hai vectơ:\n  + Vectơ đối của $\\vec{a}$ kí hiệu là $-\\vec{a}$, là vectơ cùng độ dài nhưng ngược hướng với $\\vec{a}$. Ta có $\\vec{a} + (-\\vec{a}) = \\vec{0}$.\n  + Hiệu của hai vectơ: $\\vec{a} - \\vec{b} = \\vec{a} + (-\\vec{b})$.\n  + Quy tắc hiệu: Với ba điểm $O, M, N$ bất kì, ta có $\\overrightarrow{MN} = \\overrightarrow{ON} - \\overrightarrow{OM}$.\n- **Hệ thức trung điểm và trọng tâm:\n  + $I$ là trung điểm $AB \\Leftrightarrow \\overrightarrow{IA} + \\overrightarrow{IB} = \\vec{0}$. Với mọi điểm $O$ ta có $\\overrightarrow{OA} + \\overrightarrow{OB} = 2\\overrightarrow{OI}$.\n  + $G$ là trọng tâm tam giác $ABC \\Leftrightarrow \\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC} = \\vec{0}$. Với mọi điểm $O$ ta có $\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} = 3\\overrightarrow{OG}$."
+  },
+  {
+    "lessonId": "toan10_t1_b9",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Vectơ",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 9: Tích của một vectơ với một số\n- **Định nghĩa:** Tích của vectơ $\\vec{a} \\ne \\vec{0}$ với một số thực $k \\ne 0$ là một vectơ, kí hiệu $k\\vec{a}$.\n  + Độ dài $|k\\vec{a}| = |k| \\cdot |\\vec{a}|$.\n  + Cùng hướng với $\\vec{a}$ nếu $k > 0$, ngược hướng with $\\vec{a}$ nếu $k < 0$.\n  + Quy ước $0\\vec{a} = \\vec{0}$ và $k\\vec{0} = \\vec{0}$.\n- **Tính chất:\n  + $k(l\\vec{a}) = (kl)\\vec{a}$\n  + $(k+l)\\vec{a} = k\\vec{a} + l\\vec{a}$\n  + $k(\\vec{a} + \\vec{b}) = k\\vec{a} + k\\vec{b}$\n  + $1\\vec{a} = \\vec{a}$, $(-1)\\vec{a} = -\\vec{a}$.\n- **Điều kiện để hai vectơ cùng phương:** Hai vectơ $\\vec{a}$ và $\\vec{b}$ ($\\vec{a} \\ne \\vec{0}$) cùng phương khi và chỉ khi có số thực $k$ sao cho $\\vec{b} = k\\vec{a}$. Từ đó ba điểm phân biệt $A, B, C$ thẳng hàng $\\Leftrightarrow \\overrightarrow{AB} = k\\overrightarrow{AC}$.\n- **Biểu diễn một vectơ qua hai vectơ không cùng phương:** Cho hai vectơ không cùng phương $\\vec{a}$ và $\\vec{b}$. Với mọi vectơ $\\vec{u}$, tồn tại duy nhất cặp số thực $(x; y)$ sao cho $\\vec{u} = x\\vec{a} + y\\vec{b}$."
+  },
+  {
+    "lessonId": "toan10_t1_b10",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Vectơ",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 10: Vectơ trong mặt phẳng tọa độ\n- **Hệ trục tọa độ Oxy:** Gồm hai trục vuông góc $Ox$ (trục hoành, vectơ đơn vị $\\vec{i}$) và $Oy$ (trục tung, vectơ đơn vị $\\vec{j}$), $\\vec{i}^2 = \\vec{j}^2 = 1, \\vec{i} \\cdot \\vec{j} = 0$.\n- **Tọa độ của vectơ:** Với mỗi vectơ $\\vec{u}$ trên mặt phẳng tọa độ, tồn tại duy nhất cặp số $(x; y)$ sao cho $\\vec{u} = x\\vec{i} + y\\vec{j}$. Ta viết $\\vec{u} = (x; y)$.\n  + Hai vectơ bằng nhau khi và chỉ khi các tọa độ tương ứng bằng nhau: $(x; y) = (x'; y') \\Leftrightarrow x = x' \\text{ và } y = y'$.\n- **Biểu thức tọa độ của các phép toán:** Cho $\\vec{u} = (x; y)$, $\\vec{v} = (x'; y')$, số thực $k$:\n  + $\\vec{u} + \\vec{v} = (x + x'; y + y')$\n  + $\\vec{u} - \\vec{v} = (x - x'; y - y')$\n  + $k\\vec{u} = (kx; ky)$.\n- **Tọa độ điểm và liên hệ vectơ:\n  + Điểm $M(x; y) \\Leftrightarrow \\overrightarrow{OM} = (x; y)$. Khi đó độ dài $|\\overrightarrow{OM}| = \\sqrt{x^2 + y^2}$.\n  + Cho $A(x_A; y_A), B(x_B; y_B) \\Rightarrow \\overrightarrow{AB} = (x_B - x_A; y_B - y_A)$. Khoảng cách giữa hai điểm $AB = \\sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$.\n  + Tọa độ trung điểm $I$ của $AB$: $x_I = \\frac{x_A + x_B}{2}, y_I = \\frac{y_A + y_B}{2}$.\n  + Tọa độ trọng tâm $G$ của tam giác $ABC$: $x_G = \\frac{x_A+x_B+x_C}{3}, y_G = \\frac{y_A+y_B+y_C}{3}$."
+  },
+  {
+    "lessonId": "toan10_t1_b11",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Vectơ",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 11: Tích vô hướng của hai vectơ\n- **Góc giữa hai vectơ:** Cho hai vectơ $\\vec{u}, \\vec{v} \\ne \\vec{0}$. Lấy điểm $A$ tùy ý, dựng $\\overrightarrow{AB} = \\vec{u}, \\overrightarrow{AC} = \\vec{v}$. Góc $\\widehat{BAC}$ ($0^\\circ \\le \\widehat{BAC} \\le 180^\\circ$) được gọi là góc giữa hai vectơ $\\vec{u}, \\vec{v}$, kí hiệu $(\\vec{u}, \\vec{v})$. Quy ước nếu có một vectơ bằng $\\vec{0}$, góc giữa hai vectơ có thể nhận giá trị tùy ý.\n- **Tích vô hướng:** Tích vô hướng của hai vectơ $\\vec{u}$ và $\\vec{v}$ là một số thực, kí hiệu $\\vec{u} \\cdot \\vec{v}$, xác định bởi công thức:\n  $$\\vec{u} \\cdot \\vec{v} = |\\vec{u}| \\cdot |\\vec{v}| \\cdot \\cos(\\vec{u}, \\vec{v})$$\n  + Bình phương vô hướng: $\\vec{u}^2 = |\\vec{u}|^2$.\n  + $\\vec{u} \\perp \\vec{v} \\Leftrightarrow \\vec{u} \\cdot \\vec{v} = 0$.\n- **Biểu thức tọa độ của tích vô hướng:** Cho $\\vec{u} = (x; y)$, $\\vec{v} = (x'; y')$:\n  $$\\vec{u} \\cdot \\vec{v} = xx' + yy'$$\n  + Độ dài vectơ: $|\\vec{u}| = \\sqrt{x^2 + y^2}$.\n  + Góc giữa hai vectơ: $\\cos(\\vec{u}, \\vec{v}) = \\frac{xx' + yy'}{\\sqrt{x^2+y^2} \\cdot \\sqrt{x'^2+y'^2}}$.\n  + Điều kiện vuông góc: $\\vec{u} \\perp \\vec{v} \\Leftrightarrow xx' + yy' = 0$.\n- **Tính chất:** $\\vec{u} \\cdot \\vec{v} = \\vec{v} \\cdot \\vec{u}$, $\\vec{u}(\\vec{v} + \\vec{w}) = \\vec{u}\\cdot\\vec{v} + \\vec{u}\\cdot\\vec{w}$, $(k\\vec{u})\\vec{v} = k(\\vec{u}\\cdot\\vec{v})$."
+  },
+  {
+    "lessonId": "toan10_t1_btc_c4",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IV: Vectơ",
+    "lessonOrder": 15,
+    "lessonContent": "Bài tập cuối chương IV\n- **Hệ thống kiến thức:** Tổng ôn tập toàn bộ lý thuyết về định nghĩa vectơ, các phép toán cộng, trừ vectơ, tích vectơ với một số, hệ tọa độ trong mặt phẳng, phép toán tọa độ và tích vô hướng của hai vectơ.\n- **Các dạng toán trọng tâm:\n  + Chứng minh các đẳng thức vectơ, biểu diễn một vectơ theo hai vectơ không cùng phương.\n  + Giải quyết các bài toán tọa độ điểm, tính độ dài đoạn thẳng, tìm tọa độ trung điểm, trọng tâm tam giác, tọa độ đỉnh thứ tư của hình bình hành.\n  + Tính góc giữa hai vectơ, tích vô hướng và ứng dụng chứng minh vuông góc, thẳng hàng.\n  + Ứng dụng vectơ vào giải quyết các bài toán Vật lý thực tế: tính hợp lực, tính công sinh bởi lực $\\vec{F}$ không đổi tác động làm vật di chuyển theo vectơ $\\vec{d}$ ($A = \\vec{F} \\cdot \\vec{d}$)."
+  },
+  {
+    "lessonId": "toan10_t1_b12",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương V: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 12: Số gần đúng và sai số\n- **Số gần đúng:** Số biểu thị giá trị xấp xỉ của một số đúng $\\overline{a}$ trong thực tế đo đạc, tính toán, kí hiệu là $a$.\n- **Sai số tuyệt đối:** Sai số tuyệt đối của số gần đúng $a$ so với số đúng $\\overline{a}$ là $\\Delta_a = |a - \\overline{a}|$.\n- **Độ chính xác $d$:** Nếu ta biết $\\Delta_a \\le d$ thì viết $\\overline{a} = a \\pm d$ (nghĩa là số đúng $\\overline{a}$ nằm trong đoạn $[a - d; a + d]$).\n- **Sai số tương đối:** Là tỉ số giữa sai số tuyệt đối và $|a|$, kí hiệu $\\delta_a = \\frac{\\Delta_a}{|a|} \\le \\frac{d}{|a|}$ (thường viết dưới dạng phần trăm). Sai số tương đối càng nhỏ thì phép đo càng chính xác.\n- **Quy tròn số gần đúng:**\n  + Nguyên tắc làm tròn số bình thường.\n  + Khi làm tròn số gần đúng $a$ với độ chính xác $d$, hàng làm tròn là hàng thấp nhất mà lớn hơn hoặc bằng độ chính xác $d$. (Ví dụ độ chính xác đến hàng trăm $d=200$ thì quy tròn $a$ đến hàng nghìn)."
+  },
+  {
+    "lessonId": "toan10_t1_b13",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương V: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 13: Các số đặc trưng đo xu thế trung tâm\n- **Số trung bình (Số trung bình cộng) $\\bar{x}$:**\n  $$\\bar{x} = \\frac{x_1 + x_2 + ... + x_n}{n} = \\frac{m_1x_1 + m_2x_2 + ... + m_kx_k}{n}$$\n  (với $m_i$ là tần số của giá trị $x_i$, $n = \\sum m_i$).\n- **Trung vị $M_e$:** Là số đứng ở vị trí chính giữa khi mẫu số liệu được sắp xếp theo thứ tự không giảm.\n  + Nếu số phần tử $n$ lẻ, trung vị là số ở vị trí $\\frac{n+1}{2}$.\n  + Nếu số phần tử $n$ chẵn, trung vị là trung bình cộng của hai số ở vị trí $\\frac{n}{2}$ và $\\frac{n}{2}+1$.\n  + Ý nghĩa: Phản ánh trung tâm mẫu số liệu, không bị ảnh hưởng bởi giá trị dị biệt rất lớn hay rất nhỏ.\n- **Tứ phân vị gồm ba giá trị $Q_1, Q_2, Q_3$ chia mẫu số liệu đã sắp xếp thành 4 phần bằng nhau:\n  + $Q_2$ chính là trung vị $M_e$.\n  + $Q_1$ là trung vị của nửa số liệu bên trái $Q_2$.\n  + $Q_3$ là trung vị của nửa số liệu bên phải $Q_2$.\n- **Mốt $M_o$:** Là giá trị xuất hiện với tần số lớn nhất trong mẫu số liệu."
+  },
+  {
+    "lessonId": "toan10_t1_b14",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương V: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 14: Các số đặc trưng đo độ phân tán\n- **Khoảng biến thiên $R$:** Là hiệu giữa giá trị lớn nhất và nhỏ nhất của mẫu số liệu: $R = x_{max} - x_{min}$. Ý nghĩa: Mẫu số liệu có khoảng biến thiên càng lớn thì độ phân tán càng cao.\n- **Khoảng tứ phân vị $\\Delta_Q$:** $\\Delta_Q = Q_3 - Q_1$. Ý nghĩa: Đo độ phân tán của 50% số liệu chính giữa của mẫu số liệu.\n- **Phương sai $s^2$:** Là giá trị đo mức độ phân tán trung bình của các số liệu xung quanh số trung bình $\\bar{x}$:\n  $$s^2 = \\frac{(x_1 - \\bar{x})^2 + (x_2 - \\bar{x})^2 + ... + (x_n - \\bar{x})^2}{n}$$\n- **Độ lệch chuẩn $s$:** Căn bậc hai số học của phương sai: $s = \\sqrt{s^2}$.\n- **Phát hiện số liệu bất thường (giá trị dị biệt):** Giá trị $x$ được xem là dị biệt nếu $x > Q_3 + 1.5 \\cdot \\Delta_Q$ hoặc $x < Q_1 - 1.5 \\cdot \\Delta_Q$. Thường được biểu diễn trực quan bằng biểu đồ hộp."
+  },
+  {
+    "lessonId": "toan10_t1_btc_c5",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương V: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+    "lessonOrder": 19,
+    "lessonContent": "Bài tập cuối chương V\n- **Hệ thống kiến thức:** Tổng ôn tập toàn bộ các số đặc trưng đo xu thế trung tâm (số trung bình, trung vị, tứ phân vị, mốt) và các số đặc trưng đo độ phân tán (khoảng biến thiên, khoảng tứ phân vị, phương sai, độ lệch chuẩn).\n- **Các dạng bài tập:\n  + Tính toán các số đặc trưng đo xu thế trung tâm và độ phân tán của mẫu dữ liệu không ghép nhóm.\n  + Đọc hiểu, vẽ biểu đồ hộp, xác định các giá trị bất thường (dị biệt).\n  + Sử dụng các số đặc trưng để so sánh, phân tích thực tế chất lượng học tập của hai tổ, mức độ đồng đều của nhiệt độ hai khu vực, hay độ ổn định của hai dây chuyền sản xuất."
+  },
+  {
+    "lessonId": "toan10_t1_hd1",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 20,
+    "lessonContent": "Tìm hiểu một số kiến thức về tài chính\n- **Tiết kiệm và đầu tư:** Hiểu rõ bản chất toán học của tích lũy tài chính. Tìm hiểu công thức lãi kép:\n  $$T = A \\cdot (1 + r\\%)^n$$\n  (với $T$ là tổng số tiền nhận được, $A$ là tiền gốc gửi vào ngân hàng, $r\\%$ là lãi suất năm, $n$ là số năm gửi).\n- **Đầu tư chứng khoán:** Tìm hiểu sự biến động của giá cổ phiếu và cách ước tính lợi nhuận đầu tư dựa trên đồ thị chứng khoán biểu diễn theo thời gian thực.\n- **Thuế thu nhập cá nhân:** Tìm hiểu biểu thuế suất lũy tiến từng phần gồm các bậc thuế, các khoản giảm trừ gia cảnh (bản thân, người phụ thuộc). Lập công thức toán học mô tả mối quan hệ giữa thu nhập tính thuế và mức thuế phải nộp bằng các hàm số bậc nhất trên từng khoảng."
+  },
+  {
+    "lessonId": "toan10_t1_hd2",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 21,
+    "lessonContent": "Mạng xã hội: Lợi và hại\n- **Thu thập dữ liệu:** Thiết lập phiếu khảo sát thực tế về việc sử dụng mạng xã hội của học sinh (giới tính, mục đích lớn nhất, thời gian trung bình sử dụng trong một ngày, các tác động tiêu cực gặp phải).\n- **Xử lý và phân tích số liệu:** Sử dụng các kiến thức thống kê đã học để lập bảng tần số về lợi ích/bất lợi, thời gian sử dụng mạng xã hội.\n- **Tính toán số đặc trưng:** Sử dụng máy tính cầm tay (CASIO) hoặc các phần mềm bảng tính (Excel) để nhập dữ liệu thô và dùng các hàm (AVERAGE, MEDIAN, MODE, QUARTILE, VAR, STDEV) để tính nhanh số trung bình, trung vị, tứ phân vị, độ lệch chuẩn. Rút ra kết luận khoa học để đánh giá thực trạng sử dụng mạng xã hội lành mạnh."
+  },
+  {
+    "lessonId": "toan10_t2_b15",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 15: Hàm số\n- **Khái niệm:** Nếu với mỗi giá trị của $x$ thuộc tập hợp số $D$ có một và chỉ một giá trị tương ứng của $y$ thuộc tập hợp số thực $\\mathbb{R}$ thì ta có một hàm số, kí hiệu $y = f(x)$. $x$ là biến số, $y$ là hàm số của $x$. Tập $D$ gọi là tập xác định, tập tất cả các giá trị $y$ nhận được gọi là tập giá trị.\n- **Đồ thị của hàm số:** Đồ thị của hàm số $y = f(x)$ xác định trên tập $D$ là tập hợp tất cả các điểm $M(x; f(x))$ trên mặt phẳng tọa độ $Oxy$ với mọi $x \\in D$.\n- **Sự đồng biến, nghịch biến của hàm số:\n  + Đồng biến (tăng): trên khoảng $(a; b)$ nếu $\\forall x_1, x_2 \\in (a; b), x_1 < x_2 \\Rightarrow f(x_1) < f(x_2)$ (đồ thị đi lên từ trái sang phải).\n  + Nghịch biến (giảm): trên khoảng $(a; b)$ nếu $\\forall x_1, x_2 \\in (a; b), x_1 < x_2 \\Rightarrow f(x_1) > f(x_2)$ (đồ thị đi xuống từ trái sang phải).\n- **Tìm tập xác định:** Điều kiện xác định đối với hàm phân thức (mẫu số khác $0$) và hàm chứa căn bậc hai (biểu thức dưới căn không âm)."
+  },
+  {
+    "lessonId": "toan10_t2_b16",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 16: Hàm số bậc hai\n- **Khái niệm:** Hàm số bậc hai là hàm số được cho bởi công thức $y = ax^2 + bx + c$ ($a \\ne 0$). Tập xác định là $\\mathbb{R}$.\n- **Đồ thị (Parabol):** Đồ thị của hàm số bậc hai là một parabol có đỉnh là điểm $I\\left(-\\frac{b}{2a}; -\\frac{\\Delta}{4a}\\right)$ với $\\Delta = b^2 - 4ac$, có trục đối xứng là đường thẳng $x = -\\frac{b}{2a}$. Parabol này quay bề lõm lên trên nếu $a > 0$, quay xuống dưới nếu $a < 0$.\n- **Sự biến thiên của hàm số bậc hai:\n  + Khi $a > 0$: Hàm số nghịch biến trên khoảng $\\left(-\\infty; -\\frac{b}{2a}\\right)$, đồng biến trên khoảng $\\left(-\\frac{b}{2a}; +\\infty\\right)$. Giá trị nhỏ nhất là $-\\frac{\\Delta}{4a}$ tại $x = -\\frac{b}{2a}$.\n  + Khi $a < 0$: Hàm số đồng biến trên khoảng $\\left(-\\infty; -\\frac{b}{2a}\\right)$, nghịch biến trên khoảng $\\left(-\\frac{b}{2a}; +\\infty\\right)$. Giá trị lớn nhất là $-\\frac{\\Delta}{4a}$ tại $x = -\\frac{b}{2a}$.\n- **Cách vẽ:** Xác định đỉnh $I$, trục đối xứng $x = -\\frac{b}{2a}$, tìm các giao điểm với trục tung $A(0; c)$, trục hoành (nếu có), vẽ parabol đối xứng."
+  },
+  {
+    "lessonId": "toan10_t2_b17",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 17: Dấu của tam thức bậc hai\n- **Tam thức bậc hai:** Là biểu thức có dạng $f(x) = ax^2 + bx + c$ ($a \\ne 0$). Nghiệm của phương trình $ax^2 + bx + c = 0$ chính là nghiệm của tam thức bậc hai.\n- **Định lí về dấu của tam thức bậc hai:\n  + Nếu $\\Delta < 0$: $f(x)$ luôn cùng dấu với hệ số $a$ với mọi $x \\in \\mathbb{R}$.\n  + Nếu $\\Delta = 0$: $f(x)$ luôn cùng dấu với hệ số $a$ với mọi $x \\ne -\\frac{b}{2a}$.\n  + Nếu $\\Delta > 0$: $f(x)$ có hai nghiệm phân biệt $x_1, x_2$ ($x_1 < x_2$). Khi đó, $f(x)$ trái dấu với hệ số $a$ với mọi $x$ thuộc khoảng $(x_1; x_2)$; $f(x)$ cùng dấu với hệ số $a$ với mọi $x$ nằm ngoài đoạn $[x_1; x_2]$ (quy tắc \"Trong trái, ngoài cùng\").\n- **Bất phương trình bậc hai một ẩn:** Là bất phương trình có dạng $ax^2 + bx + c > 0$ (hoặc $\\ge 0, < 0, \\le 0$). Cách giải là xét dấu tam thức bậc hai và chọn các khoảng thỏa mãn chiều của bất phương trình."
+  },
+  {
+    "lessonId": "toan10_t2_b18",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 18: Phương trình quy về phương trình bậc hai\n- **Dạng 1: Phương trình $\\sqrt{ax^2+bx+c} = \\sqrt{dx^2+ex+f}$\n  + Phương pháp giải: Bình phương hai vế để khử căn thức ta được phương trình bậc nhất hoặc bậc hai: $ax^2 + bx + c = dx^2 + ex + f$.\n  + Giải phương trình thu được, rồi thay tất cả các giá trị $x$ tìm được vào biểu thức dưới dấu căn để kiểm tra và loại nghiệm ngoại lai.\n- **Dạng 2: Phương trình $\\sqrt{ax^2+bx+c} = dx + e$\n  + Phương pháp giải: Bình phương hai vế để khử căn thức ta được phương trình: $ax^2 + bx + c = (dx + e)^2$.\n  + Giải phương trình thu được để tìm các nghiệm tạm thời.\n  + Thử lại các giá trị $x$ tìm được vào phương trình ban đầu để chọn ra nghiệm chính xác nhất (loại bỏ các nghiệm làm cho vế phải $dx+e$ âm)."
+  },
+  {
+    "lessonId": "toan10_t2_btc_c6",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "lessonOrder": 26,
+    "lessonContent": "Bài tập cuối chương VI\n- **Hệ thống kiến thức:** Tổng hợp toàn bộ chuyên đề về hàm số, sự biến thiên, đồ thị hàm số bậc hai, dấu của tam thức bậc hai, giải bất phương trình bậc hai một ẩn và hai dạng phương trình chứa căn thức.\n- **Các dạng toán trọng tâm:\n  + Tìm tập xác định, xét khoảng đồng biến, nghịch biến của hàm số.\n  + Viết phương trình parabol khi biết các điểm đi qua hoặc biết tọa độ đỉnh.\n  + Giải bất phương trình bậc hai, bất phương trình bậc hai chứa tham số $m$.\n  + Giải phương trình chứa căn thức.\n  + Ứng dụng toán học giải quyết các bài toán tối ưu thực tế (quỹ đạo bay parabol của vật ném lên, xác định chiều cao cổng parabol, bài toán doanh thu kinh doanh)."
+  },
+  {
+    "lessonId": "toan10_t2_b19",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Phương pháp tọa độ trong mặt phẳng",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 19: Phương trình đường thẳng\n- **Vectơ pháp tuyến (VTPT):** Vectơ $\\vec{n} \\ne \\vec{0}$ vuông góc với đường thẳng $\\Delta$. Nếu $\\vec{n}$ là VTPT thì $k\\vec{n}$ ($k \\ne 0$) cũng là VTPT.\n- **Vectơ chỉ phương (VTCP):** Vectơ $\\vec{u} \\ne \\vec{0}$ có giá song song hoặc trùng với đường thẳng $\\Delta$. Ta có $\\vec{u} \\perp \\vec{n}$ nên nếu $\\vec{u} = (a; b) \\Rightarrow \\vec{n} = (-b; a)$.\n- **Phương trình tổng quát:** Đường thẳng $\\Delta$ đi qua điểm $M(x_0; y_0)$ và có VTPT $\\vec{n} = (a; b)$ có phương trình:\n  $$a(x - x_0) + b(y - y_0) = 0 \\Leftrightarrow ax + by + c = 0$$\n- **Phương trình tham số:** Đường thẳng $\\Delta$ đi qua điểm $M(x_0; y_0)$ và có VTCP $\\vec{u} = (a; b)$ có phương trình tham số:\n  $$\\begin{cases} x = x_0 + at \\\\ y = y_0 + bt \\end{cases} \\quad (t \\in \\mathbb{R})$$\n- **Các phương trình đặc biệt:** Phương trình đường thẳng theo đoạn chắn đi qua $A(a; 0), B(0; b)$ với $ab \\ne 0$ là $\\frac{x}{a} + \\frac{y}{b} = 1$. Phương trình đường thẳng có hệ số góc $k$ là $y = kx + m$."
+  },
+  {
+    "lessonId": "toan10_t2_b20",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Phương pháp tọa độ trong mặt phẳng",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 20: Vị trí tương đối giữa hai đường thẳng. Góc và khoảng cách\n- **Vị trí tương đối giữa hai đường thẳng:** Cho $\\Delta_1: a_1x + b_1y + c_1 = 0$ và $\\Delta_2: a_2x + b_2y + c_2 = 0$. Giao điểm của hai đường thẳng là nghiệm của hệ phương trình tạo bởi hai phương trình đường thẳng. Hai đường thẳng cắt nhau (hệ có nghiệm duy nhất), song song (hệ vô nghiệm), trùng nhau (hệ vô số nghiệm).\n- **Góc giữa hai đường thẳng:** Góc $\\varphi$ ($0^\\circ \\le \\varphi \\le 90^\\circ$) được xác định thông qua các VTPT $\\vec{n}_1 = (a_1; b_1)$, $\\vec{n}_2 = (a_2; b_2)$:\n  $$\\cos \\varphi = |\\cos(\\vec{n}_1, \\vec{n}_2)| = \\frac{|a_1a_2 + b_1b_2|}{\\sqrt{a_1^2+b_1^2} \\cdot \\sqrt{a_2^2+b_2^2}}$$\n  + Đặc biệt: $\\Delta_1 \\perp \\Delta_2 \\Leftrightarrow a_1a_2 + b_1b_2 = 0$. Hai đường thẳng có hệ số góc $y=kx+m$ vuông góc $\\Leftrightarrow k_1k_2 = -1$.\n- **Khoảng cách từ một điểm đến một đường thẳng:** Khoảng cách từ điểm $M(x_0; y_0)$ đến đường thẳng $\\Delta: ax + by + c = 0$ xác định bởi công thức:\n  $$d(M, \\Delta) = \\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2+b^2}}$$"
+  },
+  {
+    "lessonId": "toan10_t2_b21",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Phương pháp tọa độ trong mặt phẳng",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 21: Đường tròn trong mặt phẳng tọa độ\n- **Phương trình đường tròn:** Đường tròn tâm $I(a; b)$ bán kính $R$ có phương trình chính tắc:\n  $$(x - a)^2 + (y - b)^2 = R^2$$\n- **Phương trình khai triển:** $x^2 + y^2 - 2ax - 2by + c = 0$. Đây là phương trình đường tròn khi và chỉ khi $a^2 + b^2 - c > 0$. Khi đó tâm là $I(a; b)$, bán kính $R = \\sqrt{a^2 + b^2 - c}$.\n- **Phương trình tiếp tuyến của đường tròn:\n  + Cho điểm $M_0(x_0; y_0)$ thuộc đường tròn $(C)$ tâm $I(a; b)$.\n  + Tiếp tuyến $\\Delta$ của đường tròn tại điểm $M_0$ vuông góc với bán kính $IM_0$, do đó nó đi qua điểm $M_0(x_0; y_0)$ và nhận vectơ $\\overrightarrow{IM_0} = (x_0 - a; y_0 - b)$ làm VTPT. Phương trình tiếp tuyến là:\n    $$(x_0 - a)(x - x_0) + (y_0 - b)(y - y_0) = 0$$"
+  },
+  {
+    "lessonId": "toan10_t2_b22",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Phương pháp tọa độ trong mặt phẳng",
+    "lessonOrder": 30,
+    "lessonContent": "Bài 22: Ba đường conic\n- **Elip (E):** Cho hai điểm cố định $F_1, F_2$, $F_1F_2 = 2c$. Tập hợp điểm $M$ thỏa mãn $MF_1 + MF_2 = 2a$ (với $a > c > 0$) gọi là elip.\n  + Phương trình chính tắc: $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ (với $b^2 = a^2 - c^2$, $a > b > 0$).\n  + Tiêu điểm: $F_1(-c; 0), F_2(c; 0)$. Tiêu cự: $2c$. Độ dài trục lớn $2a$, độ dài trục nhỏ $2b$.\n- **Hyperbol (H):** Cho hai điểm cố định $F_1, F_2$, $F_1F_2 = 2c$. Tập hợp điểm $M$ thỏa mãn $|MF_1 - MF_2| = 2a$ (với $0 < a < c$) gọi là hyperbol.\n  + Phương trình chính tắc: $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ (với $b^2 = c^2 - a^2$).\n  + Tiêu điểm: $F_1(-c; 0), F_2(c; 0)$. Tiêu cự: $2c$.\n- **Parabol (P):** Tập hợp các điểm $M$ cách đều một điểm $F$ cố định (tiêu điểm) và một đường thẳng $\\Delta$ cố định (đường chuẩn).\n  + Phương trình chính tắc: $y^2 = 2px$ (với $p > 0$ là tham số tiêu).\n  + Tiêu điểm: $F\\left(\\frac{p}{2}; 0\\right)$. Phương trình đường chuẩn: $x = -\\frac{p}{2}$.\n- **Tính chất quang học của ba đường conic:** Tia sáng xuất phát từ tiêu điểm sẽ có hướng phản xạ tuân theo các quy luật hình học đặc trưng đối với gương elip, hyperbol và gương parabol phẳng."
+  },
+  {
+    "lessonId": "toan10_t2_btc_c7",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VII: Phương pháp tọa độ trong mặt phẳng",
+    "lessonOrder": 31,
+    "lessonContent": "Bài tập cuối chương VII\n- **Hệ thống kiến thức:** Tổng ôn tập toàn bộ lý thuyết về phương trình đường thẳng, vị trí tương đối, góc, khoảng cách, phương trình đường tròn, tiếp tuyến của đường tròn và các đường conic (elip, hyperbol, parabol).\n- **Các dạng toán trọng tâm:\n  + Viết phương trình tổng quát, tham số của đường thẳng.\n  + Tính góc giữa hai đường thẳng, khoảng cách từ điểm đến đường thẳng, tìm điểm đối xứng.\n  + Viết phương trình đường tròn đi qua 3 điểm, tiếp xúc đường thẳng, viết phương trình tiếp tuyến.\n  + Xác định các thông số (tiêu điểm, trục, tiêu cự) của elip, hyperbol, parabol và viết phương trình chính tắc của chúng.\n  + Ứng dụng phương pháp tọa độ để giải quyết các mô hình thực tế: thiết kế gương, tính quỹ đạo tàu vũ trụ, thiết kế vòm cầu."
+  },
+  {
+    "lessonId": "toan10_t2_b23",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Đại số tổ hợp",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 23: Quy tắc đếm\n- **Quy tắc cộng:** Giả sử một công việc nào đó có thể thực hiện theo một trong hai phương án khác nhau:\n  + Phương án thứ nhất có $n$ cách thực hiện.\n  + Phương án thứ hai có $m$ cách thực hiện không trùng với cách nào của phương án thứ nhất.\n  + Khi đó công việc có thể thực hiện bằng $n + m$ cách.\n- **Quy tắc nhân:** Giả sử một công việc nào đó phải hoàn thành qua hai công đoạn liên tiếp:\n  + Công đoạn thứ nhất có $n$ cách thực hiện.\n  + Với mỗi cách thực hiện công đoạn thứ nhất, có $m$ cách thực hiện công đoạn thứ hai.\n  + Khi đó công việc có thể thực hiện bằng $n \\cdot m$ cách.\n- **Sơ đồ hình cây:** Là sơ đồ minh họa một cách trực quan, đầy đủ các công đoạn hoặc phương án lựa chọn, giúp đếm chính xác số lượng khả năng xảy ra của một bài toán đếm đơn giản mà không bỏ sót."
+  },
+  {
+    "lessonId": "toan10_t2_b24",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Đại số tổ hợp",
+    "lessonOrder": 33,
+    "lessonContent": "Bài 24: Hoán vị, chỉnh hợp và tổ hợp\n- **Hoán vị:** Số hoán vị của tập hợp có $n$ phần tử ($n \\ge 1$) là số cách sắp xếp có thứ tự $n$ phần tử đó, kí hiệu là $P_n$:\n  $$P_n = n! = n \\cdot (n-1) \\cdots 2 \\cdot 1$$\n- **Chỉnh hợp:** Một chỉnh hợp chập $k$ của $n$ là một cách sắp xếp có thứ tự $k$ phần tử từ một tập hợp $n$ phần tử ($1 \\le k \\le n$), kí hiệu $A_n^k$:\n  $$A_n^k = \\frac{n!}{(n-k)!} = n(n-1)\\cdots(n-k+1)$$\n- **Tổ hợp:** Một tổ hợp chập $k$ của $n$ là một cách chọn không có thứ tự $k$ phần tử từ một tập hợp $n$ phần tử ($0 \\le k \\le n$), kí hiệu $C_n^k$:\n  $$C_n^k = \\frac{n!}{k!(n-k)!} = \\frac{A_n^k}{k!}$$\n  + Quy ước $0! = 1$ nên $C_n^0 = 1$. Tính chất: $C_n^k = C_n^{n-k}$."
+  },
+  {
+    "lessonId": "toan10_t2_b25",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Đại số tổ hợp",
+    "lessonOrder": 34,
+    "lessonContent": "Bài 25: Nhị thức Newton\n- **Công thức nhị thức Newton với số mũ thấp ($n = 4$ và $n = 5$):\n  + Công thức khai triển $(a+b)^4$:\n    $$(a+b)^4 = C_4^0 a^4 + C_4^1 a^3b + C_4^2 a^2b^2 + C_4^3 ab^3 + C_4^4 b^4 = a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4$$\n  + Công thức khai triển $(a+b)^5$:\n    $$(a+b)^5 = C_5^0 a^5 + C_5^1 a^4b + C_5^2 a^3b^2 + C_5^3 a^2b^3 + C_5^4 ab^4 + C_5^5 b^5 = a^5 + 5a^4b + 10a^3b^2 + 10a^2b^3 + 5ab^4 + b^5$$\n- **Các tính chất đặc trưng trong khai triển:\n  + Số các số hạng trong khai triển nhị thức $(a+b)^n$ là $n+1$.\n  + Số mũ của $a$ giảm dần từ $n$ về $0$, số mũ của $b$ tăng dần từ $0$ lên $n$, nhưng tổng số mũ của $a$ và $b$ trong mỗi số hạng luôn bằng $n$.\n  + Các hệ số đối xứng qua số hạng chính giữa: $C_n^k = C_n^{n-k}$.\n- **Ứng dụng:** Tìm hệ số của một số hạng trong khai triển, tính tổng các hệ số tổ hợp, hoặc tính gần đúng các lũy thừa số thập phân có số mũ thấp."
+  },
+  {
+    "lessonId": "toan10_t2_btc_c8",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương VIII: Đại số tổ hợp",
+    "lessonOrder": 35,
+    "lessonContent": "Bài tập cuối chương VIII\n- **Hệ thống kiến thức:** Tổng ôn tập toàn bộ các quy tắc đếm cơ bản (quy tắc cộng, quy tắc nhân), phân biệt và áp dụng chuẩn xác hoán vị, chỉnh hợp, tổ hợp, công thức khai triển nhị thức Newton với $n=4, n=5$.\n- **Các dạng bài tập:\n  + Giải quyết các bài toán đếm sắp xếp hàng ngang, chọn ban cán sự, chọn cầu thủ đá bóng, sắp xếp chữ số lập số tự nhiên.\n  + Tìm số các số hạng, tìm hệ số của số hạng chứa $x^k$ trong khai triển nhị thức Newton.\n  + Giải các phương trình tổ hợp, chỉnh hợp có tính chất toán học cơ bản."
+  },
+  {
+    "lessonId": "toan10_t2_b26",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Tính xác suất theo định nghĩa cổ điển",
+    "lessonOrder": 36,
+    "lessonContent": "Bài 26: Biến cố và định nghĩa cổ điển của xác suất\n- **Không gian mẫu $\\Omega$:** Tập hợp tất cả các kết quả có thể xảy ra của một phép thử ngẫu nhiên.\n- **Biến cố $E$:** Là một tập con của không gian mẫu $\\Omega$. Tập hợp các kết quả thuận lợi cho $E$ kí hiệu là $n(E)$.\n- **Biến cố đối:** Biến cố \"$E$ không xảy ra\", kí hiệu là $\\overline{E}$. Ta có $\\overline{E} = \\Omega \\setminus E$ và $P(\\overline{E}) = 1 - P(E)$.\n- **Định nghĩa cổ điển của xác suất:** Giả sử phép thử có không gian mẫu $\\Omega$ gồm hữu hạn kết quả có khả năng xảy ra như nhau. Khi đó xác suất của biến cố $E$, kí hiệu $P(E)$, là:\n  $$P(E) = \\frac{n(E)}{n(\\Omega)}$$\n  + Tính chất: $0 \\le P(E) \\le 1$.\n  + Xác suất của biến cố chắc chắn: $P(\\Omega) = 1$.\n  + Xác suất của biến cố không thể: $P(\\emptyset) = 0$.\n- **Nguyên lý xác suất bé:** Nếu một biến cố có xác suất rất bé thì trong một phép thử biến cố đó sẽ không xảy ra."
+  },
+  {
+    "lessonId": "toan10_t2_b27",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Tính xác suất theo định nghĩa cổ điển",
+    "lessonOrder": 37,
+    "lessonContent": "Bài 27: Thực hành tính xác suất theo định nghĩa cổ điển\n- **Sử dụng phương pháp tổ hợp để tính xác suất:** Áp dụng hoán vị, chỉnh hợp, tổ hợp để xác định chính xác số phần tử của không gian mẫu $n(\\Omega)$ và số kết quả thuận lợi cho biến cố $n(E)$ mà không cần liệt kê chi tiết.\n- **Sử dụng sơ đồ hình cây để tính xác suất:** Áp dụng khi phép thử được thực hiện qua nhiều công đoạn kế tiếp, giúp mô phỏng không gian mẫu một cách trực quan.\n- **Sử dụng biến cố đối để tính xác suất:**\n  $$P(E) = 1 - P(\\overline{E})$$\n  Phương pháp này cực kỳ hiệu quả đối với các bài toán có yêu cầu chứa từ \"có ít nhất\", giúp đơn giản hóa việc đếm các trường hợp xảy ra."
+  },
+  {
+    "lessonId": "toan10_t2_btc_c9",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Chương IX: Tính xác suất theo định nghĩa cổ điển",
+    "lessonOrder": 38,
+    "lessonContent": "Bài tập cuối chương IX\n- **Hệ thống kiến thức:** Khái quát lại lý thuyết xác suất cổ điển, cách xây dựng không gian mẫu, cách tìm biến cố thuận lợi, xác suất của biến cố đối.\n- **Các dạng toán trọng tâm:\n  + Mô tả không gian mẫu, xác định biến cố đối của một biến cố.\n  + Thực hành tính xác suất của các trò chơi thực tế: tung xúc xắc, gieo đồng xu, bốc thẻ ngẫu nhiên, gieo đồng xu liên tiếp.\n  + Giải quyết các bài toán tính xác suất của các biến cố xuất hiện trong thực tế chọn ngẫu nhiên học sinh, bốc ngẫu nhiên bóng từ hộp."
+  },
+  {
+    "lessonId": "toan10_t2_hd3",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 39,
+    "lessonContent": "Một số nội dung cho hoạt động trải nghiệm hình học\n- **Kiểm tra kết quả hình học bằng ví dụ cụ thể:** Thực hành kiểm nghiệm định lý sin, định lý côsin trong tam giác, công thức diện tích tam giác thông qua việc đo đạc trực tiếp các góc và độ dài bằng thước kẻ, máy tính cầm tay.\n- **Đo đạc khoảng cách thực tế:** Thực hành chia nhóm đi đo đạc khoảng cách thực tế giữa các điểm không đến được bằng dụng cụ đo góc (giác kế) và thước dây.\n- **Gấp giấy xác định conic:** Thực hành cắt, gấp giấy để dựng các đường elip, hyperbol từ các tiêu điểm và đường chuẩn.\n- **Ứng dụng phần mềm máy tính:** Sử dụng phần mềm dựng hình GeoGebra để vẽ và khảo sát sự chuyển động, quỹ tích tạo nên đường elip, đường parabol hay hyperbol trong phòng máy tính."
+  },
+  {
+    "lessonId": "toan10_t2_hd4",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 40,
+    "lessonContent": "Ước tính số cá thể trong một quần thể\n- **Phương pháp đánh dấu và bắt lại (Capture-Recapture):** Tìm hiểu ứng dụng toán học của xác suất cổ điển vào nghiên cứu thực tiễn sinh thái học sinh vật.\n- **Quy trình ước tính gồm hai bước:\n  + Bước 1: Chọn $M$ cá thể ngẫu nhiên từ quần thể, đánh dấu rồi thả lại quần thể.\n  + Bước 2: Sau một thời gian, bắt ngẫu nhiên $n$ cá thể trong quần thể, kiểm tra thấy có $k$ cá thể có dấu. Khi đó xác suất một cá thể bất kì được đánh dấu xấp xỉ tỉ lệ có dấu $\\frac{k}{n} \\approx \\frac{M}{N}$ (với $N$ là tổng số cá thể).\n- **Công thức ước tính tổng số cá thể $N$:\n  $$N \\approx M \\cdot \\frac{n}{k}$$\n- **Thực hành thực nghiệm:** Tiến hành ước lượng số lượng hạt lạc có trong một hộp kín bằng cách lấy ra một cốc hạt lạc để nhuộm màu đánh dấu rồi thực hành tính toán sai số tuyệt đối, sai số tương đối của phép tính ước lượng này."
+  },
+  {
+    "lessonId": "toan10_t2_ontap",
+    "grade": 10,
+    "subject": "Toán",
+    "chapterName": "Ôn tập",
+    "lessonOrder": 41,
+    "lessonContent": "Bài tập ôn tập cuối năm\n- **Tổng kết chương trình Toán lớp 10:** Ôn luyện toàn bộ 9 chương học của hai tập sách:\n  + **Đại số & Giải tích:** Mệnh đề, tập hợp, bất phương trình bậc nhất hai ẩn, hệ thức lượng tam giác, hàm số, đồ thị hàm số bậc hai, dấu tam thức bậc hai, đại số tổ hợp (quy tắc đếm, hoán vị, chỉnh hợp, tổ hợp, nhị thức Newton), tính xác suất cổ điển.\n  + **Hình học:** Vectơ, tổng hiệu vectơ, tích vectơ với một số, tích vô hướng của hai vectơ, phương pháp tọa độ phẳng Oxy (phương trình đường thẳng, vị trí tương đối, góc, khoảng cách, phương trình đường tròn, ba đường conic elip, hyperbol, parabol).\n  + **Thống kê:** Số gần đúng, sai số, các số đo xu thế trung tâm và độ phân tán.\n- **Mục tiêu:** Rèn luyện tư duy tổng hợp, xâu chuỗi liên kết các mảng kiến thức đại số và hình học để nâng cao kỹ năng giải quyết các đề thi học kì lồng ghép ứng dụng thực tế."
+  }
+]
