@@ -1,0 +1,14 @@
+[
+ {
+    "cardId": "tin5_fctest",
+    "lessonId": "tin5_test",
+    "front": "test",
+    "back": "test",
+    "mnemonic": "test",
+    "facebook_post_id": null,
+    "sm2_n": 0,
+    "sm2_ef": 2.5,
+    "sm2_interval": 0,
+    "nextReviewDate": 1772365200
+  }
+]
