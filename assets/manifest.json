@@ -29,6 +29,7 @@
     { "grade": 5, "subject": "nguvan", "path": "nguvan/5" },
     { "grade": 5, "subject": "tienganh", "path": "tienganh/5" },
     { "grade": 5, "subject": "tin", "path": "tin/5" },
-    { "grade": 10, "subject": "tin", "path": "tin/10" }
+    { "grade": 10, "subject": "tin", "path": "tin/10" },
+	{ "grade": 10, "subject": "tin", "path": "tin/11" }
   ]
 }
