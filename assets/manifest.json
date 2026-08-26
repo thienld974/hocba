@@ -31,6 +31,7 @@
     { "grade": 5, "subject": "tin", "path": "tin/5" },
     { "grade": 10, "subject": "tin", "path": "tin/10" },
 	{ "grade": 11, "subject": "tin", "path": "tin/11" },
+	{ "grade": 9, "subject": "tin", "path": "tin/9" },
 	{ "grade": 12, "subject": "tin", "path": "tin/12" }
   ]
 }
