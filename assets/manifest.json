@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 1,
   "available_data": [
     { "grade": 12, "subject": "toan", "path": "toan/12" },
     { "grade": 12, "subject": "vatly", "path": "vatly/12" },
