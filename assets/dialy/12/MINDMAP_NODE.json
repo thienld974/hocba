@@ -285,5 +285,12 @@
     "parentNodeId": "dialy12_node_p5",
     "nodeName": "Bài 35: Thực hành: Tìm hiểu địa lí địa phương",
     "orderIndex": 1
+  },
+  {
+    "nodeId": "dialy12_node_examskills",
+    "lessonId": "dialy12_examskills",
+    "parentNodeId": "root_dl12",
+    "nodeName": "Kỹ năng làm bài thi",
+    "orderIndex": 6
   }
 ]

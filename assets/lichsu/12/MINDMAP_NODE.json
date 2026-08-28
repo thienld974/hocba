@@ -166,5 +166,12 @@
     "parentNodeId": "su12_node_ch6",
     "nodeName": "Bài 17: Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
     "orderIndex": 3
+  },
+  {
+    "nodeId": "su12_node_examtactics",
+    "lessonId": "su12_examtactics",
+    "parentNodeId": "root_ls12",
+    "nodeName": "Kỹ năng làm bài thi",
+    "orderIndex": 7
   }
 ]

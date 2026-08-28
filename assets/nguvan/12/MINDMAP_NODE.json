@@ -516,5 +516,12 @@
     "parentNodeId": "nguvan12_node_examskill",
     "nodeName": "Cấu trúc đề TN THPT 2025 - Phần Viết",
     "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan12_node_examskill_hackdiem",
+    "lessonId": "nguvan12_examtactics_hackdiem",
+    "parentNodeId": "nguvan12_node_examskill",
+    "nodeName": "Kỹ năng làm bài thi",
+    "orderIndex": 3
   }
 ]

@@ -1,202 +1,210 @@
 [
-{
-"lessonId": "vatly12_b1",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 1,
-"lessonContent": "Ý chính: Thuyết động học phân tử về cấu tạo chất; cấu trúc của chất rắn, lỏng, khí và các hiện tượng chuyển thể. Kiến thức trọng tâm: 1) Mô hình động học phân tử về cấu tạo chất: các chất được cấu tạo từ các phân tử riêng biệt, chuyển động hỗn loạn không ngừng (chuyển động nhiệt), giữa các phân tử có lực hút và lực đẩy. 2) Cấu trúc thể rắn (sắp xếp có trật tự, dao động quanh vị trí cân bằng cố định, lực liên kết rất mạnh), thể lỏng (kém trật tự hơn, dao động quanh vị trí cân bằng dịch chuyển, lực liên kết yếu hơn), thể khí (hỗn loạn không ngừng, chiếm toàn bộ thể tích bình chứa, tương tác rất yếu). 3) Chuyển thể: quá trình nóng chảy - đông đặc, hoá hơi (gồm bay hơi xảy ra ở mặt thoáng và sự sôi xảy ra ở cả mặt thoáng và trong lòng chất lỏng ở nhiệt độ sôi xác định), ngưng tụ, thăng hoa và ngưng kết. 4) Phân biệt chất rắn kết tinh (có cấu trúc tinh thể, nhiệt độ nóng chảy xác định) và chất rắn vô định hình (không có cấu trúc tinh thể, không có nhiệt độ nóng chảy xác định). Từ khóa: Động học phân tử, thể rắn, thể lỏng, thể khí, sự chuyển thể, bay hơi, sự sôi, chất rắn kết tinh, chất rắn vô định hình."
-},
-{
-"lessonId": "vatly12_b2",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 2,
-"lessonContent": "Ý chính: Định nghĩa nội năng, hai phương thức làm biến đổi nội năng; nội dung và quy ước dấu của Định luật I nhiệt động lực học; nguyên lí và cấu tạo của động cơ nhiệt. Kiến thức trọng tâm: 1) Nội năng (U) của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nội năng là một dạng năng lượng phụ thuộc vào nhiệt độ (T) và thể tích (V) của vật, có đơn vị là jun (J). 2) Hai cách làm biến đổi nội năng: Thực hiện công (có sự chuyển hóa từ cơ năng thành nội năng) và Truyền nhiệt (chỉ có sự truyền nhiệt năng mà không có sự chuyển hóa năng lượng, đại lượng đo bằng nhiệt lượng Q). 3) Định luật I Nhiệt động lực học: delta U = A + Q. Quy ước dấu: Q > 0 (vật nhận nhiệt lượng), Q < 0 (vật truyền nhiệt lượng), A > 0 (vật nhận công), A < 0 (vật thực hiện công). 4) Động cơ nhiệt: Thiết bị biến đổi nội năng của nhiên liệu thành cơ năng, gồm 3 bộ phận chính: Nguồn nóng (cung cấp nhiệt lượng Q1 ở nhiệt độ T1), Bộ phận phát động (tác nhân nhận nhiệt, thực hiện công A), Nguồn lạnh (thu nhiệt lượng Q2 ở nhiệt độ T2 < T1). Từ khóa: Nội năng, truyền nhiệt, thực hiện công, định luật I nhiệt động lực học, động cơ nhiệt."
-},
-{
-"lessonId": "vatly12_b3",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 3,
-"lessonContent": "Ý chính: Khái niệm nhiệt độ, trạng thái cân bằng nhiệt, các thang đo nhiệt độ và nguyên lí hoạt động của các loại nhiệt kế. Kiến thức trọng tâm: 1) Trạng thái cân bằng nhiệt: Khi hai vật có nhiệt độ khác nhau tiếp xúc nhau, nhiệt năng sẽ truyền từ vật có nhiệt độ cao sang vật có nhiệt độ thấp hơn cho đến khi nhiệt độ hai vật bằng nhau và quá trình truyền nhiệt dừng lại. 2) Thang nhiệt độ Celsius (oC): Có hai mốc là nhiệt độ đóng băng của nước tinh khiết (0 oC) và nhiệt độ sôi của nước tinh khiết (100 oC) dưới áp suất tiêu chuẩn. 3) Thang nhiệt độ Kelvin (K) (thang đo tuyệt đối): Nhiệt độ thấp nhất lý thuyết mà các chất có động năng phân tử bằng không gọi là không độ tuyệt đối (0 K, tương đương -273,15 oC). Điểm ba của nước tinh khiết là mốc chuẩn thứ hai tương ứng với 0,01 oC (tức 273,16 K). 4) Công thức chuyển đổi: T (K) = t (oC) + 273,15 (thường làm tròn thành T = t + 273). 5) Nhiệt kế: Thiết bị đo nhiệt độ dựa trên các tính chất vật lí phụ thuộc vào nhiệt độ như sự nở vì nhiệt của chất lỏng, sự thay đổi điện trở của dây kim loại (bạch kim), hoặc bước sóng bức xạ hồng ngoại. Từ khóa: Nhiệt độ, cân bằng nhiệt, thang Celsius, thang Kelvin, không độ tuyệt đối, nhiệt kế điện trở."
-},
-{
-"lessonId": "vatly12_b4",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 4,
-"lessonContent": "Ý chính: Định nghĩa nhiệt dung riêng, công thức tính nhiệt lượng truyền trong quá trình thay đổi nhiệt độ và thực hành đo nhiệt dung riêng của nước. Kiến thức trọng tâm: 1) Nhiệt dung riêng (c) của một chất là nhiệt lượng cần cung cấp cho một kilôgam chất đó để làm cho nhiệt độ của nó tăng thêm 1 K (hoặc 1 oC). Đơn vị là J/kg.K. 2) Công thức tính nhiệt lượng truyền trong quá trình truyền nhiệt để thay đổi nhiệt độ: Q = m.c.delta T, với m là khối lượng (kg), delta T là độ tăng nhiệt độ (K hoặc oC). 3) Phương pháp thực hành đo nhiệt dung riêng của nước bằng nhiệt lượng kế: Sử dụng nguồn điện xoay chiều cấp cho dây điện trở chìm trong nước để tỏa ra nhiệt lượng Q = P.tau (với P là công suất điện kế, tau là thời gian tỏa nhiệt), đo khối lượng nước m và độ tăng nhiệt độ delta T, từ đó tính nhiệt dung riêng c = (P.tau) / (m.delta T). Từ khóa: Nhiệt dung riêng, nhiệt lượng, nhiệt lượng kế, công suất tỏa nhiệt, thực hành vật lí."
-},
-{
-"lessonId": "vatly12_b5",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 5,
-"lessonContent": "Ý chính: Khái niệm nhiệt nóng chảy riêng, công thức tính nhiệt lượng cung cấp để làm nóng chảy hoàn toàn vật rắn kết tinh và thực hành đo nhiệt nóng chảy riêng của nước đá. Kiến thức trọng tâm: 1) Nhiệt nóng chảy riêng (lamda) của một chất là nhiệt lượng cần cung cấp cho một kilôgam chất đó để nó chuyển hoàn toàn từ thể rắn sang thể lỏng ở nhiệt độ nóng chảy xác định. Đơn vị là J/kg. 2) Công thức tính nhiệt lượng cung cấp cho vật rắn kết tinh nóng chảy hoàn toàn ở nhiệt độ nóng chảy: Q = lamda.m, với m là khối lượng vật rắn (kg). 3) Ý nghĩa thực tiễn: Xác định năng lượng cần cung cấp cho lò nung, thời gian nung, thời điểm đổ khuôn kim loại trong công nghiệp đúc và luyện kim. 4) Thực hành đo nhiệt nóng chảy riêng của nước đá: Đo nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn nước đá ở 0 oC bằng dây điện trở tỏa nhiệt trong bình nhiệt lượng kế, ghi nhận công suất P và thời gian nóng chảy tau_M để tính lamda = (P.tau_M) / m. Từ khóa: Nhiệt nóng chảy riêng, nhiệt độ nóng chảy, nóng chảy hoàn toàn, thực hành vật lí."
-},
-{
-"lessonId": "vatly12_b6",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 6,
-"lessonContent": "Ý chính: Khái niệm nhiệt hoá hơi riêng, công thức tính nhiệt lượng cung cấp để làm hoá hơi hoàn toàn chất lỏng ở nhiệt độ sôi không đổi và thực hành đo nhiệt hoá hơi riêng của nước. Kiến thức trọng tâm: 1) Nhiệt hoá hơi riêng (L) của một chất lỏng là nhiệt lượng cần cung cấp cho một kilôgam chất lỏng đó hoá hơi hoàn toàn ở nhiệt độ sôi xác định dưới áp suất tiêu chuẩn. Đơn vị là J/kg. 2) Công thức tính nhiệt lượng cung cấp để hoá hơi hoàn toàn một lượng chất lỏng ở nhiệt độ sôi: Q = L.m, với m là khối lượng chất lỏng (kg). 3) Ứng dụng thực tiễn: Thiết kế các thiết bị trao đổi nhiệt, làm lạnh (điều hòa, tủ lạnh), nồi hấp tiệt trùng y tế, xử lý rác thải bằng công nghệ nhiệt hóa hơi. 4) Thực hành đo nhiệt hoá hơi riêng của nước: Đun sôi nước trong bình nhiệt lượng kế, đo lượng nước hóa hơi m_P - m_Q trong khoảng thời gian tau_Q - tau_P dưới công suất tỏa nhiệt trung bình P của điện trở, tính toán L = P.(tau_Q - tau_P) / (m_P - m_Q). Từ khóa: Nhiệt hoá hơi riêng, nhiệt độ sôi, hoá hơi hoàn toàn, thực hành vật lí."
-},
-{
-"lessonId": "vatly12_b7",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí nhiệt",
-"lessonOrder": 7,
-"lessonContent": "Ý chính: Tổng hợp lý thuyết, rèn luyện kỹ năng và phương pháp giải các dạng bài tập định tính, định lượng và bài tập thí nghiệm về nhiệt học Chương I. Kiến thức trọng tâm: 1) Bài tập định tính: Giải thích các hiện tượng thực tế liên quan đến cấu trúc phân tử, tính chất của các thể, cơ chế chuyển thể (sự bay hơi, ngưng tụ, nóng chảy). 2) Bài tập định lượng: Áp dụng phương trình cân bằng nhiệt |Q_tỏa| = |Q_thu| (Q_tỏa + Q_thu = 0), định luật bảo toàn năng lượng; hệ thức định luật I nhiệt động lực học delta U = A + Q kết hợp công cơ học A = F.s.cos(alpha) hoặc công suất điện P = A/t; công thức nhiệt lượng thay đổi nhiệt độ Q = m.c.delta T, nóng chảy Q = lamda.m, hoá hơi Q = L.m. 3) Bài tập thí nghiệm: Phương pháp xử lý sai số, đọc đồ thị biến thiên nhiệt độ theo thời gian và xác định các đại lượng nhiệt dung riêng, nhiệt ẩn từ dữ liệu thực nghiệm. Từ khóa: Phương trình cân bằng nhiệt, định luật I nhiệt động lực học, độ biến thiên nội năng, bài tập nhiệt học."
-},
-{
-"lessonId": "vatly12_b8",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Khí lí tưởng",
-"lessonOrder": 8,
-"lessonContent": "Ý chính: Khái quát về chuyển động và lực tương tác phân tử chất khí; nội dung Thuyết động học phân tử chất khí và định nghĩa mô hình khí lí tưởng. Kiến thức trọng tâm: 1) Chuyển động Brown của các hạt bụi khói trong không khí chứng minh các phân tử khí chuyển động hỗn loạn không ngừng. Khi nhiệt độ khí càng cao, tốc độ chuyển động hỗn loạn càng lớn. 2) Ở điều kiện chuẩn (0 oC, 1 atm), tốc độ trung bình của phân tử oxygen đạt khoảng 400 m/s. 3) Thuyết động học phân tử chất khí: a) Chất khí được cấu tạo từ các phân tử có kích thước rất nhỏ so với khoảng cách giữa chúng. b) Các phân tử khí chuyển động hỗn loạn không ngừng; nhiệt độ càng cao thì chuyển động càng nhanh. c) Khi chuyển động hỗn loạn, các phân tử va chạm với nhau và va chạm vào thành bình, tác dụng lực lên thành bình gây nên áp suất khí. 4) Mô hình khí lí tưởng: Là chất khí trong đó các phân tử được coi là các chất điểm (bỏ qua thể tích riêng), không tương tác với nhau khi chưa va chạm, và các va chạm giữa chúng với nhau và với thành bình là va chạm hoàn toàn đàn hồi. Từ khóa: Thuyết động học phân tử, chuyển động hỗn loạn, va chạm đàn hồi, chất điểm, khí lí tưởng."
-},
-{
-"lessonId": "vatly12_b9",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Khí lí tưởng",
-"lessonOrder": 9,
-"lessonContent": "Ý chính: Khái niệm các thông số trạng thái của khối khí; định nghĩa quá trình đẳng nhiệt và định luật Boyle về mối quan hệ giữa áp suất và thể tích. Kiến thức trọng tâm: 1) Một lượng khí xác định được đặc trưng bởi ba thông số trạng thái: Áp suất (p, đơn vị Pa, atm, mmHg), Thể tích (V, đơn vị m3, lít, cm3), và Nhiệt độ tuyệt đối (T, đơn vị K). 2) Quá trình đẳng nhiệt là quá trình biến đổi trạng thái của một lượng khí xác định khi nhiệt độ giữ không đổi (T = hằng số). 3) Định luật Boyle (Bôi-lơ): Khi nhiệt độ của một khối lượng khí xác định giữ không đổi thì áp suất gây ra bởi khí tỉ lệ nghịch với thể tích của nó: p.V = hằng số, hay p1.V1 = p2.V2. 4) Đường đẳng nhiệt: Đường biểu diễn sự biến thiên của áp suất theo thể tích trong quá trình đẳng nhiệt. Trong hệ toạ độ (p, V), đường đẳng nhiệt là một nhánh của đường hypebol. Trong các đường đẳng nhiệt của cùng một lượng khí, đường ở trên ứng với nhiệt độ cao hơn (T2 > T1). Từ khóa: Thông số trạng thái, đẳng nhiệt, định luật Boyle, đường đẳng nhiệt, hypebol."
-},
-{
-"lessonId": "vatly12_b10",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Khí lí tưởng",
-"lessonOrder": 10,
-"lessonContent": "Ý chính: Định nghĩa quá trình đẳng áp, nội dung định luật Charles về mối quan hệ giữa thể tích và nhiệt độ tuyệt đối, và thực hành kiểm chứng định luật. Kiến thức trọng tâm: 1) Quá trình đẳng áp là quá trình biến đổi trạng thái của một lượng khí xác định khi áp suất giữ không đổi (p = hằng số). 2) Định luật Charles (Sác-lơ): Khi áp suất của một khối lượng khí xác định giữ không đổi thì thể tích của khí tỉ lệ thuận với nhiệt độ tuyệt đối của nó: V / T = hằng số, hay V1 / T1 = V2 / T2. 3) Đường đẳng áp: Đường biểu diễn sự biến thiên của thể tích theo nhiệt độ tuyệt đối khi áp suất không đổi. Trong hệ trục tọa độ (V, T), đường đẳng áp là đường thẳng kéo dài đi qua gốc toạ độ (0 K, tương đương -273 oC). Đường ở dưới ứng với áp suất cao hơn (p2 > p1). 4) Thực hành kiểm chứng định luật Charles bằng xi lanh thuỷ tinh chứa khối khí kín đặt trong cốc nước nóng/lạnh, đo thể tích qua vạch chia trên xi lanh ở áp suất khí quyển. 5) Định luật Boyle và định luật Charles là định luật gần đúng, chỉ đúng ở áp suất thấp (p <= 10^6 Pa) và nhiệt độ cao (T >= 200 K). Từ khóa: Đẳng áp, định luật Charles, đường đẳng áp, nhiệt độ tuyệt đối, thực hành vật lí."
-},
-{
-"lessonId": "vatly12_b11",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Khí lí tưởng",
-"lessonOrder": 11,
-"lessonContent": "Ý chính: Thiết lập và ứng dụng phương trình trạng thái của khí lí tưởng, phương trình Clapeyron và hằng số khí lí tưởng. Kiến thức trọng tâm: 1) Phương trình trạng thái của khí lí tưởng (biểu diễn mối liên hệ giữa ba thông số p, V, T của một khối khí xác định biến đổi qua các trạng thái): (p1.V1) / T1 = (p2.V2) / T2, hay p.V / T = hằng số. 2) Phương trình Clapeyron (Cla-pây-rông) xác định trạng thái của n mol khí lí tưởng bất kỳ: p.V = n.R.T, với n là số mol (n = m/M, m là khối lượng khí, M là khối lượng mol). 3) Hằng số khí lí tưởng R: Có giá trị không đổi R = 8,31 J/mol.K đối với mọi chất khí ở điều kiện chuẩn (V = 22,4.10^-3 m3, T = 273 K, p = 1,013.10^5 Pa). 4) Ứng dụng thực tế: Thiết kế bóng thám không (thể tích nở to khi lên cao gặp áp suất giảm); hệ thống túi khí ô tô bảo vệ người lái (phản ứng phân hủy muối natri azide NaN3 tạo ra lượng lớn khí nitơ N2 làm phồng túi khí khi va chạm). Từ khóa: Phương trình trạng thái, phương trình Clapeyron, hằng số khí lí tưởng, túi khí ô tô."
-},
-{
-"lessonId": "vatly12_b12",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Khí lí tưởng",
-"lessonOrder": 12,
-"lessonContent": "Ý chính: Giải thích nguồn gốc áp suất khí dưới góc độ động học phân tử; xây dựng công thức tính áp suất khí và biểu thức mối liên hệ giữa động năng phân tử với nhiệt độ tuyệt đối. Kiến thức trọng tâm: 1) Áp suất của khí lên thành bình được gây ra bởi sự va chạm hoàn toàn đàn hồi của các phân tử khí vào thành bình, làm thay đổi động lượng phân tử |delta p| = 2m.v. 2) Công thức tính áp suất chất khí theo mô hình động học phân tử: p = (1/3).mu.m.v_sqr = (2/3).mu.E_d, trong đó mu = N/V là mật độ phân tử khí, m là khối lượng của một phân tử, v_sqr là trung bình của các bình phương tốc độ phân tử, và E_d là động năng tịnh tiến trung bình của phân tử. 3) Mối quan hệ giữa động năng phân tử và nhiệt độ tuyệt đối: E_d = (3/2).k.T, với T là nhiệt độ tuyệt đối (K), k = R / N_A = 1,38.10^-23 J/K là hằng số Boltzmann. 4) Ý nghĩa: Nhiệt độ tuyệt đối là thước đo động năng tịnh tiến trung bình của các phân tử khí. 5) Tốc độ căn quân phương của phân tử khí: v_cqp = sqrt(v_sqr) = sqrt(3kT / m). Từ khóa: Áp suất chất khí, mật độ phân tử, động năng tịnh tiến trung bình, hằng số Boltzmann, tốc độ căn quân phương."
-},
-{
-"lessonId": "vatly12_b13",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Khí lí tưởng",
-"lessonOrder": 13,
-"lessonContent": "Ý chính: Hệ thống hóa phương pháp giải bài tập định tính, định lượng và bài tập thực nghiệm đồ thị về trạng thái của khí lí tưởng Chương II. Kiến thức trọng tâm: 1) Phương pháp giải bài tập định lượng 3 bước: Xác định khối lượng/số mol khí có thay đổi không; Xác định các thông số trạng thái đầu (p1, V1, T1) và cuối (p2, V2, T2) của các quá trình biến đổi; Áp dụng hệ thức tương ứng (Boyle, Charles, phương trình trạng thái, phương trình Clapeyron p.V = n.R.T). 2) Giải bài tập đồ thị: Chuyển đổi đồ thị biểu diễn các đẳng quá trình giữa các hệ trục tọa độ (p, V), (V, T), (p, T). Đường đẳng tích trong hệ toạ độ (p, T) là đường thẳng kéo dài đi qua gốc toạ độ. 3) Bài tập thực tế: Tính toán sự thay đổi áp suất, thể tích khí thoát ra ngoài, lực tối thiểu mở nắp bình có pit-tông chịu lực áp suất trong và ngoài thành bình. Từ khóa: Đẳng tích, đồ thị chất khí, phương trình Clapeyron, bài tập khí lí tưởng."
-},
-{
-"lessonId": "vatly12_b14",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 14,
-"lessonContent": "Ý chính: Khái niệm tương tác từ, lực từ và từ trường; định nghĩa vectơ cảm ứng từ; khái niệm đường sức từ và các quy tắc xác định chiều đường sức từ. Kiến thức trọng tâm: 1) Tương tác từ là lực tương tác giữa nam châm với nam châm, dòng điện với nam châm, và dòng điện với dòng điện. Lực tương tác này gọi là lực từ. 2) Từ trường là một dạng vật chất tồn tại xung quanh nam châm hoặc dòng điện, biểu hiện cụ thể là sự xuất hiện của lực từ tác dụng lên một nam châm khác hoặc một dây dẫn mang dòng điện khác đặt trong nó. 3) Vectơ cảm ứng từ (B) là đại lượng đặc trưng cho từ trường về mặt tác dụng lực. Phương trùng với trục của nam châm thử đặt cân bằng tại điểm khảo sát, chiều đi từ cực Nam (S) sang cực Bắc (N) của nam châm thử. 4) Đường sức từ: Đường vẽ trong không gian có từ trường sao cho tiếp tuyến tại mỗi điểm trùng với phương của vectơ cảm ứng từ tại điểm đó. Các đường sức từ là những đường cong khép kín (hoặc vô hạn ở hai đầu), không cắt nhau, nơi từ trường mạnh vẽ dày hơn và nơi yếu vẽ thưa hơn. Chiều đi ra từ cực Bắc và đi vào cực Nam của nam châm. 5) Quy tắc nắm bàn tay phải xác định chiều đường sức từ: a) Đối với dòng điện thẳng dài: Ngón tay cái chỉ chiều dòng điện, bốn ngón tay khum chỉ chiều đường sức từ. b) Đối với dòng điện tròn và ống dây: Bốn ngón tay khum theo chiều dòng điện, ngón tay cái choãi ra chỉ chiều của đường sức từ trong lòng ống dây. Từ khóa: Tương tác từ, từ trường, cảm ứng từ, đường sức từ, quy tắc nắm bàn tay phải."
-},
-{
-"lessonId": "vatly12_b15",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 15,
-"lessonContent": "Ý chính: Định luật Ampere về lực từ tác dụng lên đoạn dây dẫn thẳng mang dòng điện trong từ trường đều; công thức độ lớn cảm ứng từ và thực hành đo cảm ứng từ. Kiến thức trọng tâm: 1) Lực từ (F) tác dụng lên đoạn dây dẫn thẳng có chiều dài L mang dòng điện có cường độ I đặt trong từ trường đều B: Có điểm đặt tại trung điểm đoạn dây, phương vuông góc với dây dẫn và vuông góc với vectơ cảm ứng từ B. 2) Chiều của lực từ xác định theo Quy tắc bàn tay trái: Đặt bàn tay trái sao cho cảm ứng từ B hướng vào lòng bàn tay, chiều từ cổ tay đến ngón tay chỉ chiều dòng điện I, ngón tay cái choãi ra 90 độ chỉ chiều lực từ F. 3) Công thức định luật Ampere: F = B.I.L.sin(alpha), với alpha là góc hợp bởi đoạn dây mang dòng điện và vectơ cảm ứng từ B. 4) Công thức độ lớn cảm ứng từ: B = F / (I.L.sin(alpha)). Đơn vị cảm ứng từ trong hệ SI là tesla (T), với 1 T = 1 N/(A.m). 5) Thực hành đo cảm ứng từ bằng thiết bị lực kế hoặc cân điện tử: Đo lực từ F tác dụng lên khung dây vuông góc đặt trong từ trường, xác định B từ độ dốc của đồ thị quan hệ giữa lực từ F và cường độ dòng điện I. 6) Ứng dụng: Tàu đệm từ (Maglev) sử dụng lực hút/đẩy từ trường cực mạnh để nâng tàu lên khỏi đường ray và dẫn lái tàu chạy tốc độ cao, êm ái. Từ khóa: Lực Ampere, quy tắc bàn tay trái, cảm ứng từ, đo cảm ứng từ, tàu đệm từ."
-},
-{
-"lessonId": "vatly12_b16",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 16,
-"lessonContent": "Ý chính: Khái niệm từ thông qua diện tích vòng dây kín; hiện tượng cảm ứng điện từ; định luật Lenz về chiều dòng điện cảm ứng và định luật Faraday về suất điện động cảm ứng. Kiến thức trọng tâm: 1) Từ thông (phi) qua diện tích S đặt trong từ trường đều B: phi = B.S.cos(alpha), với alpha là góc hợp bởi vectơ pháp tuyến n của mặt phẳng vòng dây và vectơ cảm ứng từ B. Đơn vị từ thông là vêbe (Wb), với 1 Wb = 1 T.m2. 2) Hiện tượng cảm ứng điện từ: Khi có sự biến thiên từ thông qua mạch kín, trong mạch sẽ xuất hiện dòng điện cảm ứng. Hiện tượng này chỉ tồn tại trong suốt khoảng thời gian từ thông qua mạch kín biến thiên. 3) Định luật Lenz (Len-xơ) về chiều dòng điện cảm ứng: Dòng điện cảm ứng xuất hiện trong mạch kín có chiều sao cho từ trường do nó sinh ra (Bc) có tác dụng chống lại sự biến thiên từ thông sinh ra nó (nếu từ thông tăng thì Bc ngược chiều B, nếu giảm thì Bc cùng chiều B). 4) Định luật Faraday về cảm ứng điện từ: Độ lớn suất điện động cảm ứng (e_c) trong mạch kín tỉ lệ với tốc độ biến thiên từ thông qua mạch: |e_c| = |delta phi / delta t|. Nếu mạch điện là một cuộn dây có N vòng dây khép kín: e_c = -N.(delta phi / delta t). Từ khóa: Từ thông, cảm ứng điện từ, dòng điện cảm ứng, định luật Lenz, định luật Faraday, suất điện động cảm ứng."
-},
-{
-"lessonId": "vatly12_b17",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 17,
-"lessonContent": "Ý chính: Nguyên tắc tạo ra dòng điện xoay chiều; biểu thức suất điện động, điện áp và dòng điện xoay chiều; khái niệm giá trị hiệu dụng; cấu tạo máy phát điện xoay chiều một pha và ba pha. Kiến thức trọng tâm: 1) Nguyên tắc tạo dòng điện xoay chiều: Dựa trên hiện tượng cảm ứng điện từ. Khi khung dây dẫn phẳng quay đều với tốc độ góc omega quanh một trục vuông góc với từ trường đều B, từ thông qua khung dây biến thiên điều hòa theo thời gian làm xuất hiện suất điện động cảm ứng biến thiên điều hòa: e = E0.cos(omega.t + phi_0), với suất điện động cực đại E0 = N.B.S.omega. 2) Biểu thức điện áp và cường độ dòng điện xoay chiều: u = U0.cos(omega.t + phi_u) và i = I0.cos(omega.t + phi_i). 3) Khái niệm giá trị hiệu dụng (xây dựng dựa trên tác dụng nhiệt của dòng điện): I = I0 / sqrt(2) và U = U0 / sqrt(2). 4) Cấu tạo máy phát điện xoay chiều: gồm Phần cảm (roto hoặc stato, tạo từ trường bằng nam châm vĩnh cửu hoặc nam châm điện) và Phần ứng (stato hoặc roto, gồm các cuộn dây dẫn sinh ra suất điện động). 5) Máy phát điện xoay chiều ba pha: Có roto là nam châm điện quay ở giữa và stato gồm ba cuộn dây giống hệt nhau đặt lệch nhau 120 độ trên vành tròn, tạo ra ba suất điện động lệch pha nhau từng đôi một góc 2.pi / 3. Từ khóa: Dòng điện xoay chiều, suất điện động cực đại, giá trị hiệu dụng, stato, roto, máy phát điện ba pha."
-},
-{
-"lessonId": "vatly12_b18",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 18,
-"lessonContent": "Ý chính: Cấu tạo, nguyên lí và ứng dụng của máy biến áp, sạc điện thoại không dây, đàn ghi ta điện và dòng điện Foucault. Kiến thức trọng tâm: 1) Máy biến áp: Thiết bị biến đổi điện áp xoay chiều mà không làm thay đổi tần số, hoạt động dựa trên hiện tượng cảm ứng điện từ. Gồm lõi sắt (ghép từ các lá thép kỹ thuật điện sơn cách điện) và hai cuộn dây: sơ cấp (N1 vòng, nối với nguồn xoay chiều) và thứ cấp (N2 vòng, nối với tải tiêu thụ). Hệ thức biến thế không tải: U1 / U2 = N1 / N2. Máy tăng áp nếu N2 > N1, máy hạ áp nếu N2 < N1. 2) Sạc không dây: Dòng điện xoay chiều ở đế sạc sinh từ thông biến thiên, cảm ứng sang cuộn dây thu đặt ở mặt lưng điện thoại sinh ra dòng điện cảm ứng để sạc pin. 3) Đàn ghi ta điện: Dây đàn bằng thép đặt sát nam châm vĩnh cửu của bộ cảm ứng điện từ (pickup), khi gảy dây đàn dao động làm biến thiên từ thông qua cuộn cảm ứng quấn quanh nam châm, sinh suất điện động cảm ứng đưa đến bộ tăng âm. 4) Dòng điện Foucault (dòng điện xoáy): Dòng điện cảm ứng xuất hiện trong khối vật dẫn khi đặt trong từ trường biến thiên hoặc chuyển động cắt các đường sức từ. Ứng dụng: bếp từ, phanh điện từ, lò cảm ứng luyện kim. Tác hại: gây tỏa nhiệt hao phí năng lượng trong lõi sắt động cơ và máy biến áp (khắc phục bằng cách ghép lõi sắt từ các lá thép mỏng cách điện). Từ khóa: Máy biến áp, sạc không dây, đàn ghi ta điện, dòng điện Foucault, hao phí tỏa nhiệt."
-},
-{
-"lessonId": "vatly12_b19",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 19,
-"lessonContent": "Ý chính: Khái niệm điện từ trường và thuyết Maxwell; mô hình sóng điện từ, các đặc điểm lan truyền và tính chất vật lí của sóng điện từ. Kiến thức trọng tâm: 1) Thuyết điện từ Maxwell: Khẳng định mối liên hệ khăng khít giữa điện trường và từ trường. Nếu tại một nơi có từ trường biến thiên theo thời gian thì nơi đó xuất hiện một điện trường xoáy (điện trường có các đường sức kín). Ngược lại, nếu có điện trường biến thiên theo thời gian thì nơi đó xuất hiện một từ trường biến thiên (có các đường sức từ khép kín). Điện trường biến thiên và từ trường biến thiên biến đổi mật thiết với nhau, là hai thành phần cấu thành một trường thống nhất gọi là điện từ trường. 2) Sóng điện từ: Là điện từ trường lan truyền trong không gian dưới dạng sóng. Sóng điện từ lan truyền được trong chân không với tốc độ bằng tốc độ ánh sáng c xấp xỉ 3.10^8 m/s. Bước sóng trong chân không: lamda = c.T = c/f. 3) Đặc điểm lan truyền sóng điện từ: a) Sóng điện từ là sóng ngang. Tại mỗi điểm trên phương truyền sóng, vectơ cường độ điện trường E và vectơ cảm ứng từ B luôn vuông góc vuông góc với nhau và vuông góc với phương truyền sóng. b) Cả E và B luôn đồng pha với nhau (đạt cực đại và cực tiểu cùng một thời điểm). c) Mang năng lượng lớn và tuân theo các quy luật truyền thẳng, phản xạ, khúc xạ, giao thoa, nhiễu xạ giống như sóng cơ học. Từ khóa: Điện trường xoáy, từ trường biến thiên, điện từ trường, sóng điện từ, sóng ngang, đồng pha, lan truyền chân không."
-},
-{
-"lessonId": "vatly12_b20",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Từ trường",
-"lessonOrder": 20,
-"lessonContent": "Ý chính: Hệ thống hóa kiến thức lý thuyết, phương pháp giải và rèn luyện kỹ năng giải các dạng bài tập định tính, định lượng, đồ thị và bài tập thực hành Chương III Từ trường. Kiến thức trọng tâm: 1) Bài tập định tính: Xác định chiều vectơ cảm ứng từ B (quy tắc nắm bàn tay phải), chiều lực từ tác dụng lên dây dẫn mang dòng điện (quy tắc bàn tay trái), chiều dòng điện cảm ứng trong vòng dây kín khi đưa nam châm lại gần hoặc ra xa (định luật Lenz). 2) Bài tập định lượng: Áp dụng công thức lực từ Ampere F = B.I.L.sin(alpha); tính từ thông phi = B.S.cos(alpha); suất điện động cảm ứng Faraday e_c = -N.(delta phi / delta t); suất điện động cực đại máy phát điện E0 = N.B.S.omega; công thức máy biến áp U1 / U2 = N1 / N2. 3) Bài tập thí nghiệm và đồ thị: Đọc và khai thác số liệu thực nghiệm từ đồ thị biểu diễn mối quan hệ giữa lực từ F và cường độ dòng điện I để xác định độ lớn cảm ứng từ B của nam châm điện. Từ khóa: Lực Ampere, suất điện động cảm ứng, từ thông, tỉ số biến áp, bài tập từ trường."
-},
-{
-"lessonId": "vatly12_b21",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí hạt nhân",
-"lessonOrder": 21,
-"lessonContent": "Ý chính: Thí nghiệm tán xạ hạt alpha và mô hình nguyên tử Rutherford; cấu tạo hạt nhân; kí hiệu hạt nhân và định nghĩa đồng vị. Kiến thức trọng tâm: 1) Thí nghiệm tán xạ hạt alpha của Rutherford (1911): Bắn phá chùm hạt alpha vào lá vàng mỏng, một số ít hạt bị lệch hướng rất mạnh chứng tỏ nguyên tử có cấu tạo rỗng, ở tâm có một hạt nhân mang điện tích dương có kích thước rất nhỏ (nhỏ hơn nguyên tử khoảng 10.000 lần) nhưng tập trung hầu hết khối lượng của nguyên tử. 2) Cấu tạo hạt nhân: Hạt nhân được cấu tạo từ hai loại hạt gọi chung là các nucleon: Proton (p) mang điện tích +1e, khối lượng m_p xấp xỉ 1,00728 u; và Neutron (n) trung hòa về điện, khối lượng m_n xấp xỉ 1,00866 u. 3) Kí hiệu hạt nhân: AX_Z, trong đó X là tên nguyên tố hóa học, Z là số hiệu nguyên tử (số proton, đồng thời là số thứ tự trong bảng tuần hoàn), A là số khối (tổng số nucleon A = Z + N, với N là số neutron). Bán kính hạt nhân: R = 1,2.10^-15.A^(1/3) (m). 4) Đơn vị khối lượng nguyên tử: 1 amu (hoặc u) bằng 1/12 khối lượng nguyên tử đồng vị Carbon-12; 1 u xấp xỉ 1,66054.10^-27 kg. 5) Đồng vị: Các hạt nhân có cùng số proton Z nhưng khác số neutron N (do đó khác số khối A). Ví dụ: Hydrogen có 3 đồng vị là 1H_1 (thường), 2H_1 (Deuterium D), 3H_1 (Tritium T). Từ khóa: Tán xạ hạt alpha, nguyên tử Rutherford, nucleon, proton, neutron, số khối, đơn vị u, đồng vị."
-},
-{
-"lessonId": "vatly12_b22",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí hạt nhân",
-"lessonOrder": 22,
-"lessonContent": "Ý chính: Định nghĩa phản ứng hạt nhân và các định luật bảo toàn; lực hạt nhân; độ hụt khối và năng lượng liên kết; đặc điểm phản ứng phân hạch và nhiệt hạch. Kiến thức trọng tâm: 1) Phản ứng hạt nhân: Quá trình biến đổi hạt nhân này thành hạt nhân khác, gồm phản ứng tự phát (phóng xạ) và phản ứng kích thích (va chạm giữa các hạt nhân). Các định luật bảo toàn trong phản ứng hạt nhân: Bảo toàn số nucleon (bảo toàn số khối A), Bảo toàn điện tích (bảo toàn Z), Bảo toàn năng lượng toàn phần, Bảo toàn động lượng (chú ý không có bảo toàn khối lượng nghỉ). 2) Lực hạt nhân: Lực hút liên kết các nucleon trong hạt nhân, là lực tương tác mạnh chỉ có tác dụng trong phạm vi kích thước hạt nhân (khoảng 10^-15 m). 3) Độ hụt khối (delta m) của hạt nhân AX_Z: delta m = Z.m_p + (A - Z).m_n - m_X > 0. 4) Năng lượng liên kết (E_lk): Năng lượng tối thiểu cần để tách một hạt nhân thành các nucleon riêng rẽ: E_lk = delta m.c2. 5) Năng lượng liên kết riêng (E_lkr = E_lk / A): Đại lượng đặc trưng cho mức độ bền vững của hạt nhân. Hạt nhân có E_lkr càng lớn thì càng bền vững (bền vững nhất là các hạt nhân có số khối trung bình từ 50 đến 95). 6) Phản ứng phân hạch: Hạt nhân nặng (U235) hấp thụ một neutron chậm rồi vỡ thành hai hạt nhân trung bình và giải phóng một số neutron cùng năng lượng tỏa ra khoảng 200 MeV. Phản ứng dây chuyền xảy ra khi số neutron trung bình kích thích phân hạch tiếp theo k >= 1. 7) Phản ứng tổng hợp hạt nhân (nhiệt hạch): Hai hạt nhân nhẹ (H2, H3) kết hợp thành hạt nhân nặng hơn ở nhiệt độ cực cao (10^7 - 10^8 K), tỏa năng lượng cực lớn. Từ khóa: Phản ứng hạt nhân, bảo toàn số khối, lực hạt nhân, độ hụt khối, năng lượng liên kết riêng, phân hạch, nhiệt hạch."
-},
-{
-"lessonId": "vatly12_b23",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí hạt nhân",
-"lessonOrder": 23,
-"lessonContent": "Ý chính: Định nghĩa hiện tượng phóng xạ, các dạng tia phóng xạ và tính chất vật lí; định luật phân rã phóng xạ, chu kì bán rã và độ phóng xạ; ảnh hưởng sinh học và các nguyên tắc an toàn phóng xạ. Kiến thức trọng tâm: 1) Hiện tượng phóng xạ: Quá trình phân rã tự phát của một hạt nhân không bền vững, biến đổi thành hạt nhân khác đồng thời phát ra các tia phóng xạ. Quá trình này có tính ngẫu nhiên, tự phát, không điều khiển được bằng các tác nhân vật lí, hóa học thông thường. 2) Các loại phóng xạ chính: a) Phóng xạ alpha (dòng hạt nhân 4He_2): di chuyển v = 2.10^7 m/s, ion hóa mạnh, đâm xuyên yếu (bị cản bởi tờ giấy). b) Phóng xạ beta (gồm beta- là electron và beta+ là positron): di chuyển xấp xỉ tốc độ ánh sáng, đâm xuyên trung bình (xuyên qua giấy, bị chặn bởi tấm nhôm dày vài mm). c) Phóng xạ gamma (sóng điện từ bước sóng cực ngắn <10^-11 m): không mang điện, đâm xuyên cực mạnh (cần lớp chì dày vài cm hoặc bê tông dày để cản), khả năng ion hóa yếu. 3) Định luật phóng xạ: Số hạt nhân chưa phân rã còn lại giảm theo quy luật hàm mũ theo thời gian: N_t = N_0.2^(-t/T) = N_0.e^(-lambda.t), với T là chu kì bán rã, lambda = ln2/T là hằng số phóng xạ. 4) Độ phóng xạ (H): Đại lượng đặc trưng cho tính phóng xạ mạnh hay yếu, bằng số hạt phân rã trong một giây: H_t = lambda.N_t = H_0.e^(-lambda.t). Đơn vị là becoren (Bq, 1 Bq = 1 phân rã/s), đơn vị cũ là curi (1 Ci = 3,7.10^10 Bq). 5) Định tuổi bằng Carbon-14 (14C, chu kì bán rã 5.730 năm) dựa trên việc đo tỉ lệ 14C/12C trong sinh vật chết. 6) An toàn phóng xạ: Liều hấp thụ có hiệu dụng D_hd = D.W đo bằng siver (Sv); Tuân thủ ba nguyên tắc bảo vệ: giữ khoảng cách đủ xa nguồn, sử dụng tấm chắn (chì, kính pha chì), giảm thiểu thời gian phơi nhiễm. Từ khóa: Phóng xạ alpha/beta/gamma, định luật phóng xạ, chu kì bán rã, độ phóng xạ, định tuổi cacbon-14, liều hấp thụ, an toàn phóng xạ."
-},
-{
-"lessonId": "vatly12_b24",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí hạt nhân",
-"lessonOrder": 24,
-"lessonContent": "Ý chính: Cấu tạo và nguyên lí hoạt động của nhà máy điện hạt nhân; ưu nhược điểm của năng lượng hạt nhân; các ứng dụng của đồng vị phóng xạ trong y học, công nghiệp và nông nghiệp. Kiến thức trọng tâm: 1) Nhà máy điện hạt nhân: Chuyển năng lượng tỏa ra từ phản ứng phân hạch Uranium trong lò phản ứng thành nhiệt năng của chất tải nhiệt (nước áp suất cao), từ đó sinh hơi nước làm quay tuabin máy phát điện. 2) Lò phản ứng hạt nhân gồm: Thanh nhiên liệu (U235 hoặc Pu239), Chất làm chậm neutron (nước, than graphite), Thanh điều khiển hấp thụ neutron (boron hoặc cadmium để duy trì k = 1), Chất tải nhiệt, và Lớp vỏ bảo vệ bằng bê tông cốt thép dày. 3) Ưu điểm: Hiệu suất năng lượng cực cao (phân hạch hoàn toàn 1 kg U235 tỏa năng lượng tương đương đốt 3.000 tấn than), không thải khí nhà kính (CO2, SO2). Nhược điểm: Chi phí đầu tư cao, nguy cơ tai nạn rò rỉ chất phóng xạ nghiêm trọng, khó khăn trong lưu trữ và xử lý chất thải hạt nhân có chu kỳ bán rã dài. 4) Y học hạt nhân: Chẩn đoán hình ảnh chức năng bằng kỹ thuật SPECT và PET (tiêm đồng vị phóng xạ 18F, 11C làm chất đánh dấu); Điều trị ung thư bằng xạ trị ngoài (tia gamma từ Co60) hoặc xạ trị trong (dùng dược chất phóng xạ như I131 điều trị ung thư tuyến giáp, Ra223). 5) Nông nghiệp và Công nghiệp: Chiếu xạ hạt nhân để gây đột biến gen tạo giống cây trồng mới năng suất cao, chống sâu bệnh; chiếu xạ bảo quản thực phẩm ngăn ngừa mọc mầm, diệt vi trùng; đo độ dày màng vật liệu trong nhà máy giấy, thép. Từ khóa: Nhà máy điện hạt nhân, thanh điều khiển, chất làm chậm, y học hạt nhân, chụp ảnh PET, xạ trị, chiếu xạ thực phẩm."
-},
-{
-"lessonId": "vatly12_b25",
-"grade": 12,
-"subject": "Vật lý",
-"chapterName": "Vật lí hạt nhân",
-"lessonOrder": 25,
-"lessonContent": "Ý chính: Hệ thống hóa phương pháp giải và rèn luyện kỹ năng giải các dạng bài tập định tính, định lượng và bài tập có nội dung thực tiễn về Vật lí hạt nhân Chương IV. Kiến thức trọng tâm: 1) Bài tập định tính: Mô tả cấu tạo hạt nhân, viết phương trình phản ứng phân rã phóng xạ alpha, beta-, beta+, gamma; giải thích cơ chế ion hóa không khí của chất phóng xạ làm giảm điện tích tĩnh điện kế. 2) Bài tập định lượng: Cân bằng phương trình phản ứng hạt nhân dựa trên bảo toàn số khối A và bảo toàn điện tích Z; tính độ hụt khối delta m = Z.m_p + (A-Z).m_n - m_X; tính năng lượng liên kết E_lk = delta m.c2; tính năng lượng liên kết riêng E_lkr = E_lk / A; tính năng lượng tỏa ra/thu vào của phản ứng hạt nhân E = (m_trước - m_sau).c2; áp dụng định luật phóng xạ N_t = N_0.2^(-t/T) và tính độ phóng xạ H = lambda.N. 3) Bài tập ứng dụng thực tế: Tính toán chu kỳ bảo dưỡng định kỳ và chu kỳ thay mới nguồn phóng xạ (Co60) cho máy xạ trị trong bệnh viện khi độ phóng xạ giảm đi một lượng xác định (ví dụ giảm 7% và 50%); tính lượng nhiên liệu Uranium tiêu thụ hàng năm của nhà máy điện hạt nhân dựa trên công suất phát điện và hiệu suất lò phản ứng. Từ khóa: Bảo toàn số khối, bảo toàn điện tích, độ hụt khối, năng lượng phản ứng hạt nhân, chu kỳ bảo dưỡng nguồn, bài tập hạt nhân."
-}
+  {
+    "lessonId": "vatly12_b1",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 1,
+    "lessonContent": "Ý chính: Thuyết động học phân tử về cấu tạo chất; cấu trúc của chất rắn, lỏng, khí và các hiện tượng chuyển thể. Kiến thức trọng tâm: 1) Mô hình động học phân tử về cấu tạo chất: các chất được cấu tạo từ các phân tử riêng biệt, chuyển động hỗn loạn không ngừng (chuyển động nhiệt), giữa các phân tử có lực hút và lực đẩy. 2) Cấu trúc thể rắn (sắp xếp có trật tự, dao động quanh vị trí cân bằng cố định, lực liên kết rất mạnh), thể lỏng (kém trật tự hơn, dao động quanh vị trí cân bằng dịch chuyển, lực liên kết yếu hơn), thể khí (hỗn loạn không ngừng, chiếm toàn bộ thể tích bình chứa, tương tác rất yếu). 3) Chuyển thể: quá trình nóng chảy - đông đặc, hoá hơi (gồm bay hơi xảy ra ở mặt thoáng và sự sôi xảy ra ở cả mặt thoáng và trong lòng chất lỏng ở nhiệt độ sôi xác định), ngưng tụ, thăng hoa và ngưng kết. 4) Phân biệt chất rắn kết tinh (có cấu trúc tinh thể, nhiệt độ nóng chảy xác định) và chất rắn vô định hình (không có cấu trúc tinh thể, không có nhiệt độ nóng chảy xác định). Từ khóa: Động học phân tử, thể rắn, thể lỏng, thể khí, sự chuyển thể, bay hơi, sự sôi, chất rắn kết tinh, chất rắn vô định hình."
+  },
+  {
+    "lessonId": "vatly12_b2",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 2,
+    "lessonContent": "Ý chính: Định nghĩa nội năng, hai phương thức làm biến đổi nội năng; nội dung và quy ước dấu của Định luật I nhiệt động lực học; nguyên lí và cấu tạo của động cơ nhiệt. Kiến thức trọng tâm: 1) Nội năng (U) của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nội năng là một dạng năng lượng phụ thuộc vào nhiệt độ (T) và thể tích (V) của vật, có đơn vị là jun (J). 2) Hai cách làm biến đổi nội năng: Thực hiện công (có sự chuyển hóa từ cơ năng thành nội năng) và Truyền nhiệt (chỉ có sự truyền nhiệt năng mà không có sự chuyển hóa năng lượng, đại lượng đo bằng nhiệt lượng Q). 3) Định luật I Nhiệt động lực học: delta U = A + Q. Quy ước dấu: Q > 0 (vật nhận nhiệt lượng), Q < 0 (vật truyền nhiệt lượng), A > 0 (vật nhận công), A < 0 (vật thực hiện công). 4) Động cơ nhiệt: Thiết bị biến đổi nội năng của nhiên liệu thành cơ năng, gồm 3 bộ phận chính: Nguồn nóng (cung cấp nhiệt lượng Q1 ở nhiệt độ T1), Bộ phận phát động (tác nhân nhận nhiệt, thực hiện công A), Nguồn lạnh (thu nhiệt lượng Q2 ở nhiệt độ T2 < T1). Từ khóa: Nội năng, truyền nhiệt, thực hiện công, định luật I nhiệt động lực học, động cơ nhiệt."
+  },
+  {
+    "lessonId": "vatly12_b3",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 3,
+    "lessonContent": "Ý chính: Khái niệm nhiệt độ, trạng thái cân bằng nhiệt, các thang đo nhiệt độ và nguyên lí hoạt động của các loại nhiệt kế. Kiến thức trọng tâm: 1) Trạng thái cân bằng nhiệt: Khi hai vật có nhiệt độ khác nhau tiếp xúc nhau, nhiệt năng sẽ truyền từ vật có nhiệt độ cao sang vật có nhiệt độ thấp hơn cho đến khi nhiệt độ hai vật bằng nhau và quá trình truyền nhiệt dừng lại. 2) Thang nhiệt độ Celsius (oC): Có hai mốc là nhiệt độ đóng băng của nước tinh khiết (0 oC) và nhiệt độ sôi của nước tinh khiết (100 oC) dưới áp suất tiêu chuẩn. 3) Thang nhiệt độ Kelvin (K) (thang đo tuyệt đối): Nhiệt độ thấp nhất lý thuyết mà các chất có động năng phân tử bằng không gọi là không độ tuyệt đối (0 K, tương đương -273,15 oC). Điểm ba của nước tinh khiết là mốc chuẩn thứ hai tương ứng với 0,01 oC (tức 273,16 K). 4) Công thức chuyển đổi: T (K) = t (oC) + 273,15 (thường làm tròn thành T = t + 273). 5) Nhiệt kế: Thiết bị đo nhiệt độ dựa trên các tính chất vật lí phụ thuộc vào nhiệt độ như sự nở vì nhiệt của chất lỏng, sự thay đổi điện trở của dây kim loại (bạch kim), hoặc bước sóng bức xạ hồng ngoại. Từ khóa: Nhiệt độ, cân bằng nhiệt, thang Celsius, thang Kelvin, không độ tuyệt đối, nhiệt kế điện trở."
+  },
+  {
+    "lessonId": "vatly12_b4",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 4,
+    "lessonContent": "Ý chính: Định nghĩa nhiệt dung riêng, công thức tính nhiệt lượng truyền trong quá trình thay đổi nhiệt độ và thực hành đo nhiệt dung riêng của nước. Kiến thức trọng tâm: 1) Nhiệt dung riêng (c) của một chất là nhiệt lượng cần cung cấp cho một kilôgam chất đó để làm cho nhiệt độ của nó tăng thêm 1 K (hoặc 1 oC). Đơn vị là J/kg.K. 2) Công thức tính nhiệt lượng truyền trong quá trình truyền nhiệt để thay đổi nhiệt độ: Q = m.c.delta T, với m là khối lượng (kg), delta T là độ tăng nhiệt độ (K hoặc oC). 3) Phương pháp thực hành đo nhiệt dung riêng của nước bằng nhiệt lượng kế: Sử dụng nguồn điện xoay chiều cấp cho dây điện trở chìm trong nước để tỏa ra nhiệt lượng Q = P.tau (với P là công suất điện kế, tau là thời gian tỏa nhiệt), đo khối lượng nước m và độ tăng nhiệt độ delta T, từ đó tính nhiệt dung riêng c = (P.tau) / (m.delta T). Từ khóa: Nhiệt dung riêng, nhiệt lượng, nhiệt lượng kế, công suất tỏa nhiệt, thực hành vật lí."
+  },
+  {
+    "lessonId": "vatly12_b5",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 5,
+    "lessonContent": "Ý chính: Khái niệm nhiệt nóng chảy riêng, công thức tính nhiệt lượng cung cấp để làm nóng chảy hoàn toàn vật rắn kết tinh và thực hành đo nhiệt nóng chảy riêng của nước đá. Kiến thức trọng tâm: 1) Nhiệt nóng chảy riêng (lamda) của một chất là nhiệt lượng cần cung cấp cho một kilôgam chất đó để nó chuyển hoàn toàn từ thể rắn sang thể lỏng ở nhiệt độ nóng chảy xác định. Đơn vị là J/kg. 2) Công thức tính nhiệt lượng cung cấp cho vật rắn kết tinh nóng chảy hoàn toàn ở nhiệt độ nóng chảy: Q = lamda.m, với m là khối lượng vật rắn (kg). 3) Ý nghĩa thực tiễn: Xác định năng lượng cần cung cấp cho lò nung, thời gian nung, thời điểm đổ khuôn kim loại trong công nghiệp đúc và luyện kim. 4) Thực hành đo nhiệt nóng chảy riêng của nước đá: Đo nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn nước đá ở 0 oC bằng dây điện trở tỏa nhiệt trong bình nhiệt lượng kế, ghi nhận công suất P và thời gian nóng chảy tau_M để tính lamda = (P.tau_M) / m. Từ khóa: Nhiệt nóng chảy riêng, nhiệt độ nóng chảy, nóng chảy hoàn toàn, thực hành vật lí."
+  },
+  {
+    "lessonId": "vatly12_b6",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 6,
+    "lessonContent": "Ý chính: Khái niệm nhiệt hoá hơi riêng, công thức tính nhiệt lượng cung cấp để làm hoá hơi hoàn toàn chất lỏng ở nhiệt độ sôi không đổi và thực hành đo nhiệt hoá hơi riêng của nước. Kiến thức trọng tâm: 1) Nhiệt hoá hơi riêng (L) của một chất lỏng là nhiệt lượng cần cung cấp cho một kilôgam chất lỏng đó hoá hơi hoàn toàn ở nhiệt độ sôi xác định dưới áp suất tiêu chuẩn. Đơn vị là J/kg. 2) Công thức tính nhiệt lượng cung cấp để hoá hơi hoàn toàn một lượng chất lỏng ở nhiệt độ sôi: Q = L.m, với m là khối lượng chất lỏng (kg). 3) Ứng dụng thực tiễn: Thiết kế các thiết bị trao đổi nhiệt, làm lạnh (điều hòa, tủ lạnh), nồi hấp tiệt trùng y tế, xử lý rác thải bằng công nghệ nhiệt hóa hơi. 4) Thực hành đo nhiệt hoá hơi riêng của nước: Đun sôi nước trong bình nhiệt lượng kế, đo lượng nước hóa hơi m_P - m_Q trong khoảng thời gian tau_Q - tau_P dưới công suất tỏa nhiệt trung bình P của điện trở, tính toán L = P.(tau_Q - tau_P) / (m_P - m_Q). Từ khóa: Nhiệt hoá hơi riêng, nhiệt độ sôi, hoá hơi hoàn toàn, thực hành vật lí."
+  },
+  {
+    "lessonId": "vatly12_b7",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí nhiệt",
+    "lessonOrder": 7,
+    "lessonContent": "Ý chính: Tổng hợp lý thuyết, rèn luyện kỹ năng và phương pháp giải các dạng bài tập định tính, định lượng và bài tập thí nghiệm về nhiệt học Chương I. Kiến thức trọng tâm: 1) Bài tập định tính: Giải thích các hiện tượng thực tế liên quan đến cấu trúc phân tử, tính chất của các thể, cơ chế chuyển thể (sự bay hơi, ngưng tụ, nóng chảy). 2) Bài tập định lượng: Áp dụng phương trình cân bằng nhiệt |Q_tỏa| = |Q_thu| (Q_tỏa + Q_thu = 0), định luật bảo toàn năng lượng; hệ thức định luật I nhiệt động lực học delta U = A + Q kết hợp công cơ học A = F.s.cos(alpha) hoặc công suất điện P = A/t; công thức nhiệt lượng thay đổi nhiệt độ Q = m.c.delta T, nóng chảy Q = lamda.m, hoá hơi Q = L.m. 3) Bài tập thí nghiệm: Phương pháp xử lý sai số, đọc đồ thị biến thiên nhiệt độ theo thời gian và xác định các đại lượng nhiệt dung riêng, nhiệt ẩn từ dữ liệu thực nghiệm. Từ khóa: Phương trình cân bằng nhiệt, định luật I nhiệt động lực học, độ biến thiên nội năng, bài tập nhiệt học."
+  },
+  {
+    "lessonId": "vatly12_b8",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Khí lí tưởng",
+    "lessonOrder": 8,
+    "lessonContent": "Ý chính: Khái quát về chuyển động và lực tương tác phân tử chất khí; nội dung Thuyết động học phân tử chất khí và định nghĩa mô hình khí lí tưởng. Kiến thức trọng tâm: 1) Chuyển động Brown của các hạt bụi khói trong không khí chứng minh các phân tử khí chuyển động hỗn loạn không ngừng. Khi nhiệt độ khí càng cao, tốc độ chuyển động hỗn loạn càng lớn. 2) Ở điều kiện chuẩn (0 oC, 1 atm), tốc độ trung bình của phân tử oxygen đạt khoảng 400 m/s. 3) Thuyết động học phân tử chất khí: a) Chất khí được cấu tạo từ các phân tử có kích thước rất nhỏ so với khoảng cách giữa chúng. b) Các phân tử khí chuyển động hỗn loạn không ngừng; nhiệt độ càng cao thì chuyển động càng nhanh. c) Khi chuyển động hỗn loạn, các phân tử va chạm với nhau và va chạm vào thành bình, tác dụng lực lên thành bình gây nên áp suất khí. 4) Mô hình khí lí tưởng: Là chất khí trong đó các phân tử được coi là các chất điểm (bỏ qua thể tích riêng), không tương tác với nhau khi chưa va chạm, và các va chạm giữa chúng với nhau và với thành bình là va chạm hoàn toàn đàn hồi. Từ khóa: Thuyết động học phân tử, chuyển động hỗn loạn, va chạm đàn hồi, chất điểm, khí lí tưởng."
+  },
+  {
+    "lessonId": "vatly12_b9",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Khí lí tưởng",
+    "lessonOrder": 9,
+    "lessonContent": "Ý chính: Khái niệm các thông số trạng thái của khối khí; định nghĩa quá trình đẳng nhiệt và định luật Boyle về mối quan hệ giữa áp suất và thể tích. Kiến thức trọng tâm: 1) Một lượng khí xác định được đặc trưng bởi ba thông số trạng thái: Áp suất (p, đơn vị Pa, atm, mmHg), Thể tích (V, đơn vị m3, lít, cm3), và Nhiệt độ tuyệt đối (T, đơn vị K). 2) Quá trình đẳng nhiệt là quá trình biến đổi trạng thái của một lượng khí xác định khi nhiệt độ giữ không đổi (T = hằng số). 3) Định luật Boyle (Bôi-lơ): Khi nhiệt độ của một khối lượng khí xác định giữ không đổi thì áp suất gây ra bởi khí tỉ lệ nghịch với thể tích của nó: p.V = hằng số, hay p1.V1 = p2.V2. 4) Đường đẳng nhiệt: Đường biểu diễn sự biến thiên của áp suất theo thể tích trong quá trình đẳng nhiệt. Trong hệ toạ độ (p, V), đường đẳng nhiệt là một nhánh của đường hypebol. Trong các đường đẳng nhiệt của cùng một lượng khí, đường ở trên ứng với nhiệt độ cao hơn (T2 > T1). Từ khóa: Thông số trạng thái, đẳng nhiệt, định luật Boyle, đường đẳng nhiệt, hypebol."
+  },
+  {
+    "lessonId": "vatly12_b10",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Khí lí tưởng",
+    "lessonOrder": 10,
+    "lessonContent": "Ý chính: Định nghĩa quá trình đẳng áp, nội dung định luật Charles về mối quan hệ giữa thể tích và nhiệt độ tuyệt đối, và thực hành kiểm chứng định luật. Kiến thức trọng tâm: 1) Quá trình đẳng áp là quá trình biến đổi trạng thái của một lượng khí xác định khi áp suất giữ không đổi (p = hằng số). 2) Định luật Charles (Sác-lơ): Khi áp suất của một khối lượng khí xác định giữ không đổi thì thể tích của khí tỉ lệ thuận với nhiệt độ tuyệt đối của nó: V / T = hằng số, hay V1 / T1 = V2 / T2. 3) Đường đẳng áp: Đường biểu diễn sự biến thiên của thể tích theo nhiệt độ tuyệt đối khi áp suất không đổi. Trong hệ trục tọa độ (V, T), đường đẳng áp là đường thẳng kéo dài đi qua gốc toạ độ (0 K, tương đương -273 oC). Đường ở dưới ứng với áp suất cao hơn (p2 > p1). 4) Thực hành kiểm chứng định luật Charles bằng xi lanh thuỷ tinh chứa khối khí kín đặt trong cốc nước nóng/lạnh, đo thể tích qua vạch chia trên xi lanh ở áp suất khí quyển. 5) Định luật Boyle và định luật Charles là định luật gần đúng, chỉ đúng ở áp suất thấp (p <= 10^6 Pa) và nhiệt độ cao (T >= 200 K). Từ khóa: Đẳng áp, định luật Charles, đường đẳng áp, nhiệt độ tuyệt đối, thực hành vật lí."
+  },
+  {
+    "lessonId": "vatly12_b11",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Khí lí tưởng",
+    "lessonOrder": 11,
+    "lessonContent": "Ý chính: Thiết lập và ứng dụng phương trình trạng thái của khí lí tưởng, phương trình Clapeyron và hằng số khí lí tưởng. Kiến thức trọng tâm: 1) Phương trình trạng thái của khí lí tưởng (biểu diễn mối liên hệ giữa ba thông số p, V, T của một khối khí xác định biến đổi qua các trạng thái): (p1.V1) / T1 = (p2.V2) / T2, hay p.V / T = hằng số. 2) Phương trình Clapeyron (Cla-pây-rông) xác định trạng thái của n mol khí lí tưởng bất kỳ: p.V = n.R.T, với n là số mol (n = m/M, m là khối lượng khí, M là khối lượng mol). 3) Hằng số khí lí tưởng R: Có giá trị không đổi R = 8,31 J/mol.K đối với mọi chất khí ở điều kiện chuẩn (V = 22,4.10^-3 m3, T = 273 K, p = 1,013.10^5 Pa). 4) Ứng dụng thực tế: Thiết kế bóng thám không (thể tích nở to khi lên cao gặp áp suất giảm); hệ thống túi khí ô tô bảo vệ người lái (phản ứng phân hủy muối natri azide NaN3 tạo ra lượng lớn khí nitơ N2 làm phồng túi khí khi va chạm). Từ khóa: Phương trình trạng thái, phương trình Clapeyron, hằng số khí lí tưởng, túi khí ô tô."
+  },
+  {
+    "lessonId": "vatly12_b12",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Khí lí tưởng",
+    "lessonOrder": 12,
+    "lessonContent": "Ý chính: Giải thích nguồn gốc áp suất khí dưới góc độ động học phân tử; xây dựng công thức tính áp suất khí và biểu thức mối liên hệ giữa động năng phân tử với nhiệt độ tuyệt đối. Kiến thức trọng tâm: 1) Áp suất của khí lên thành bình được gây ra bởi sự va chạm hoàn toàn đàn hồi của các phân tử khí vào thành bình, làm thay đổi động lượng phân tử |delta p| = 2m.v. 2) Công thức tính áp suất chất khí theo mô hình động học phân tử: p = (1/3).mu.m.v_sqr = (2/3).mu.E_d, trong đó mu = N/V là mật độ phân tử khí, m là khối lượng của một phân tử, v_sqr là trung bình của các bình phương tốc độ phân tử, và E_d là động năng tịnh tiến trung bình của phân tử. 3) Mối quan hệ giữa động năng phân tử và nhiệt độ tuyệt đối: E_d = (3/2).k.T, với T là nhiệt độ tuyệt đối (K), k = R / N_A = 1,38.10^-23 J/K là hằng số Boltzmann. 4) Ý nghĩa: Nhiệt độ tuyệt đối là thước đo động năng tịnh tiến trung bình của các phân tử khí. 5) Tốc độ căn quân phương của phân tử khí: v_cqp = sqrt(v_sqr) = sqrt(3kT / m). Từ khóa: Áp suất chất khí, mật độ phân tử, động năng tịnh tiến trung bình, hằng số Boltzmann, tốc độ căn quân phương."
+  },
+  {
+    "lessonId": "vatly12_b13",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Khí lí tưởng",
+    "lessonOrder": 13,
+    "lessonContent": "Ý chính: Hệ thống hóa phương pháp giải bài tập định tính, định lượng và bài tập thực nghiệm đồ thị về trạng thái của khí lí tưởng Chương II. Kiến thức trọng tâm: 1) Phương pháp giải bài tập định lượng 3 bước: Xác định khối lượng/số mol khí có thay đổi không; Xác định các thông số trạng thái đầu (p1, V1, T1) và cuối (p2, V2, T2) của các quá trình biến đổi; Áp dụng hệ thức tương ứng (Boyle, Charles, phương trình trạng thái, phương trình Clapeyron p.V = n.R.T). 2) Giải bài tập đồ thị: Chuyển đổi đồ thị biểu diễn các đẳng quá trình giữa các hệ trục tọa độ (p, V), (V, T), (p, T). Đường đẳng tích trong hệ toạ độ (p, T) là đường thẳng kéo dài đi qua gốc toạ độ. 3) Bài tập thực tế: Tính toán sự thay đổi áp suất, thể tích khí thoát ra ngoài, lực tối thiểu mở nắp bình có pit-tông chịu lực áp suất trong và ngoài thành bình. Từ khóa: Đẳng tích, đồ thị chất khí, phương trình Clapeyron, bài tập khí lí tưởng."
+  },
+  {
+    "lessonId": "vatly12_b14",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 14,
+    "lessonContent": "Ý chính: Khái niệm tương tác từ, lực từ và từ trường; định nghĩa vectơ cảm ứng từ; khái niệm đường sức từ và các quy tắc xác định chiều đường sức từ. Kiến thức trọng tâm: 1) Tương tác từ là lực tương tác giữa nam châm với nam châm, dòng điện với nam châm, và dòng điện với dòng điện. Lực tương tác này gọi là lực từ. 2) Từ trường là một dạng vật chất tồn tại xung quanh nam châm hoặc dòng điện, biểu hiện cụ thể là sự xuất hiện của lực từ tác dụng lên một nam châm khác hoặc một dây dẫn mang dòng điện khác đặt trong nó. 3) Vectơ cảm ứng từ (B) là đại lượng đặc trưng cho từ trường về mặt tác dụng lực. Phương trùng với trục của nam châm thử đặt cân bằng tại điểm khảo sát, chiều đi từ cực Nam (S) sang cực Bắc (N) của nam châm thử. 4) Đường sức từ: Đường vẽ trong không gian có từ trường sao cho tiếp tuyến tại mỗi điểm trùng với phương của vectơ cảm ứng từ tại điểm đó. Các đường sức từ là những đường cong khép kín (hoặc vô hạn ở hai đầu), không cắt nhau, nơi từ trường mạnh vẽ dày hơn và nơi yếu vẽ thưa hơn. Chiều đi ra từ cực Bắc và đi vào cực Nam của nam châm. 5) Quy tắc nắm bàn tay phải xác định chiều đường sức từ: a) Đối với dòng điện thẳng dài: Ngón tay cái chỉ chiều dòng điện, bốn ngón tay khum chỉ chiều đường sức từ. b) Đối với dòng điện tròn và ống dây: Bốn ngón tay khum theo chiều dòng điện, ngón tay cái choãi ra chỉ chiều của đường sức từ trong lòng ống dây. Từ khóa: Tương tác từ, từ trường, cảm ứng từ, đường sức từ, quy tắc nắm bàn tay phải."
+  },
+  {
+    "lessonId": "vatly12_b15",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 15,
+    "lessonContent": "Ý chính: Định luật Ampere về lực từ tác dụng lên đoạn dây dẫn thẳng mang dòng điện trong từ trường đều; công thức độ lớn cảm ứng từ và thực hành đo cảm ứng từ. Kiến thức trọng tâm: 1) Lực từ (F) tác dụng lên đoạn dây dẫn thẳng có chiều dài L mang dòng điện có cường độ I đặt trong từ trường đều B: Có điểm đặt tại trung điểm đoạn dây, phương vuông góc với dây dẫn và vuông góc với vectơ cảm ứng từ B. 2) Chiều của lực từ xác định theo Quy tắc bàn tay trái: Đặt bàn tay trái sao cho cảm ứng từ B hướng vào lòng bàn tay, chiều từ cổ tay đến ngón tay chỉ chiều dòng điện I, ngón tay cái choãi ra 90 độ chỉ chiều lực từ F. 3) Công thức định luật Ampere: F = B.I.L.sin(alpha), với alpha là góc hợp bởi đoạn dây mang dòng điện và vectơ cảm ứng từ B. 4) Công thức độ lớn cảm ứng từ: B = F / (I.L.sin(alpha)). Đơn vị cảm ứng từ trong hệ SI là tesla (T), với 1 T = 1 N/(A.m). 5) Thực hành đo cảm ứng từ bằng thiết bị lực kế hoặc cân điện tử: Đo lực từ F tác dụng lên khung dây vuông góc đặt trong từ trường, xác định B từ độ dốc của đồ thị quan hệ giữa lực từ F và cường độ dòng điện I. 6) Ứng dụng: Tàu đệm từ (Maglev) sử dụng lực hút/đẩy từ trường cực mạnh để nâng tàu lên khỏi đường ray và dẫn lái tàu chạy tốc độ cao, êm ái. Từ khóa: Lực Ampere, quy tắc bàn tay trái, cảm ứng từ, đo cảm ứng từ, tàu đệm từ."
+  },
+  {
+    "lessonId": "vatly12_b16",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 16,
+    "lessonContent": "Ý chính: Khái niệm từ thông qua diện tích vòng dây kín; hiện tượng cảm ứng điện từ; định luật Lenz về chiều dòng điện cảm ứng và định luật Faraday về suất điện động cảm ứng. Kiến thức trọng tâm: 1) Từ thông (phi) qua diện tích S đặt trong từ trường đều B: phi = B.S.cos(alpha), với alpha là góc hợp bởi vectơ pháp tuyến n của mặt phẳng vòng dây và vectơ cảm ứng từ B. Đơn vị từ thông là vêbe (Wb), với 1 Wb = 1 T.m2. 2) Hiện tượng cảm ứng điện từ: Khi có sự biến thiên từ thông qua mạch kín, trong mạch sẽ xuất hiện dòng điện cảm ứng. Hiện tượng này chỉ tồn tại trong suốt khoảng thời gian từ thông qua mạch kín biến thiên. 3) Định luật Lenz (Len-xơ) về chiều dòng điện cảm ứng: Dòng điện cảm ứng xuất hiện trong mạch kín có chiều sao cho từ trường do nó sinh ra (Bc) có tác dụng chống lại sự biến thiên từ thông sinh ra nó (nếu từ thông tăng thì Bc ngược chiều B, nếu giảm thì Bc cùng chiều B). 4) Định luật Faraday về cảm ứng điện từ: Độ lớn suất điện động cảm ứng (e_c) trong mạch kín tỉ lệ với tốc độ biến thiên từ thông qua mạch: |e_c| = |delta phi / delta t|. Nếu mạch điện là một cuộn dây có N vòng dây khép kín: e_c = -N.(delta phi / delta t). Từ khóa: Từ thông, cảm ứng điện từ, dòng điện cảm ứng, định luật Lenz, định luật Faraday, suất điện động cảm ứng."
+  },
+  {
+    "lessonId": "vatly12_b17",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 17,
+    "lessonContent": "Ý chính: Nguyên tắc tạo ra dòng điện xoay chiều; biểu thức suất điện động, điện áp và dòng điện xoay chiều; khái niệm giá trị hiệu dụng; cấu tạo máy phát điện xoay chiều một pha và ba pha. Kiến thức trọng tâm: 1) Nguyên tắc tạo dòng điện xoay chiều: Dựa trên hiện tượng cảm ứng điện từ. Khi khung dây dẫn phẳng quay đều với tốc độ góc omega quanh một trục vuông góc với từ trường đều B, từ thông qua khung dây biến thiên điều hòa theo thời gian làm xuất hiện suất điện động cảm ứng biến thiên điều hòa: e = E0.cos(omega.t + phi_0), với suất điện động cực đại E0 = N.B.S.omega. 2) Biểu thức điện áp và cường độ dòng điện xoay chiều: u = U0.cos(omega.t + phi_u) và i = I0.cos(omega.t + phi_i). 3) Khái niệm giá trị hiệu dụng (xây dựng dựa trên tác dụng nhiệt của dòng điện): I = I0 / sqrt(2) và U = U0 / sqrt(2). 4) Cấu tạo máy phát điện xoay chiều: gồm Phần cảm (roto hoặc stato, tạo từ trường bằng nam châm vĩnh cửu hoặc nam châm điện) và Phần ứng (stato hoặc roto, gồm các cuộn dây dẫn sinh ra suất điện động). 5) Máy phát điện xoay chiều ba pha: Có roto là nam châm điện quay ở giữa và stato gồm ba cuộn dây giống hệt nhau đặt lệch nhau 120 độ trên vành tròn, tạo ra ba suất điện động lệch pha nhau từng đôi một góc 2.pi / 3. Từ khóa: Dòng điện xoay chiều, suất điện động cực đại, giá trị hiệu dụng, stato, roto, máy phát điện ba pha."
+  },
+  {
+    "lessonId": "vatly12_b18",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 18,
+    "lessonContent": "Ý chính: Cấu tạo, nguyên lí và ứng dụng của máy biến áp, sạc điện thoại không dây, đàn ghi ta điện và dòng điện Foucault. Kiến thức trọng tâm: 1) Máy biến áp: Thiết bị biến đổi điện áp xoay chiều mà không làm thay đổi tần số, hoạt động dựa trên hiện tượng cảm ứng điện từ. Gồm lõi sắt (ghép từ các lá thép kỹ thuật điện sơn cách điện) và hai cuộn dây: sơ cấp (N1 vòng, nối với nguồn xoay chiều) và thứ cấp (N2 vòng, nối với tải tiêu thụ). Hệ thức biến thế không tải: U1 / U2 = N1 / N2. Máy tăng áp nếu N2 > N1, máy hạ áp nếu N2 < N1. 2) Sạc không dây: Dòng điện xoay chiều ở đế sạc sinh từ thông biến thiên, cảm ứng sang cuộn dây thu đặt ở mặt lưng điện thoại sinh ra dòng điện cảm ứng để sạc pin. 3) Đàn ghi ta điện: Dây đàn bằng thép đặt sát nam châm vĩnh cửu của bộ cảm ứng điện từ (pickup), khi gảy dây đàn dao động làm biến thiên từ thông qua cuộn cảm ứng quấn quanh nam châm, sinh suất điện động cảm ứng đưa đến bộ tăng âm. 4) Dòng điện Foucault (dòng điện xoáy): Dòng điện cảm ứng xuất hiện trong khối vật dẫn khi đặt trong từ trường biến thiên hoặc chuyển động cắt các đường sức từ. Ứng dụng: bếp từ, phanh điện từ, lò cảm ứng luyện kim. Tác hại: gây tỏa nhiệt hao phí năng lượng trong lõi sắt động cơ và máy biến áp (khắc phục bằng cách ghép lõi sắt từ các lá thép mỏng cách điện). Từ khóa: Máy biến áp, sạc không dây, đàn ghi ta điện, dòng điện Foucault, hao phí tỏa nhiệt."
+  },
+  {
+    "lessonId": "vatly12_b19",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 19,
+    "lessonContent": "Ý chính: Khái niệm điện từ trường và thuyết Maxwell; mô hình sóng điện từ, các đặc điểm lan truyền và tính chất vật lí của sóng điện từ. Kiến thức trọng tâm: 1) Thuyết điện từ Maxwell: Khẳng định mối liên hệ khăng khít giữa điện trường và từ trường. Nếu tại một nơi có từ trường biến thiên theo thời gian thì nơi đó xuất hiện một điện trường xoáy (điện trường có các đường sức kín). Ngược lại, nếu có điện trường biến thiên theo thời gian thì nơi đó xuất hiện một từ trường biến thiên (có các đường sức từ khép kín). Điện trường biến thiên và từ trường biến thiên biến đổi mật thiết với nhau, là hai thành phần cấu thành một trường thống nhất gọi là điện từ trường. 2) Sóng điện từ: Là điện từ trường lan truyền trong không gian dưới dạng sóng. Sóng điện từ lan truyền được trong chân không với tốc độ bằng tốc độ ánh sáng c xấp xỉ 3.10^8 m/s. Bước sóng trong chân không: lamda = c.T = c/f. 3) Đặc điểm lan truyền sóng điện từ: a) Sóng điện từ là sóng ngang. Tại mỗi điểm trên phương truyền sóng, vectơ cường độ điện trường E và vectơ cảm ứng từ B luôn vuông góc vuông góc với nhau và vuông góc với phương truyền sóng. b) Cả E và B luôn đồng pha với nhau (đạt cực đại và cực tiểu cùng một thời điểm). c) Mang năng lượng lớn và tuân theo các quy luật truyền thẳng, phản xạ, khúc xạ, giao thoa, nhiễu xạ giống như sóng cơ học. Từ khóa: Điện trường xoáy, từ trường biến thiên, điện từ trường, sóng điện từ, sóng ngang, đồng pha, lan truyền chân không."
+  },
+  {
+    "lessonId": "vatly12_b20",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Từ trường",
+    "lessonOrder": 20,
+    "lessonContent": "Ý chính: Hệ thống hóa kiến thức lý thuyết, phương pháp giải và rèn luyện kỹ năng giải các dạng bài tập định tính, định lượng, đồ thị và bài tập thực hành Chương III Từ trường. Kiến thức trọng tâm: 1) Bài tập định tính: Xác định chiều vectơ cảm ứng từ B (quy tắc nắm bàn tay phải), chiều lực từ tác dụng lên dây dẫn mang dòng điện (quy tắc bàn tay trái), chiều dòng điện cảm ứng trong vòng dây kín khi đưa nam châm lại gần hoặc ra xa (định luật Lenz). 2) Bài tập định lượng: Áp dụng công thức lực từ Ampere F = B.I.L.sin(alpha); tính từ thông phi = B.S.cos(alpha); suất điện động cảm ứng Faraday e_c = -N.(delta phi / delta t); suất điện động cực đại máy phát điện E0 = N.B.S.omega; công thức máy biến áp U1 / U2 = N1 / N2. 3) Bài tập thí nghiệm và đồ thị: Đọc và khai thác số liệu thực nghiệm từ đồ thị biểu diễn mối quan hệ giữa lực từ F và cường độ dòng điện I để xác định độ lớn cảm ứng từ B của nam châm điện. Từ khóa: Lực Ampere, suất điện động cảm ứng, từ thông, tỉ số biến áp, bài tập từ trường."
+  },
+  {
+    "lessonId": "vatly12_b21",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí hạt nhân",
+    "lessonOrder": 21,
+    "lessonContent": "Ý chính: Thí nghiệm tán xạ hạt alpha và mô hình nguyên tử Rutherford; cấu tạo hạt nhân; kí hiệu hạt nhân và định nghĩa đồng vị. Kiến thức trọng tâm: 1) Thí nghiệm tán xạ hạt alpha của Rutherford (1911): Bắn phá chùm hạt alpha vào lá vàng mỏng, một số ít hạt bị lệch hướng rất mạnh chứng tỏ nguyên tử có cấu tạo rỗng, ở tâm có một hạt nhân mang điện tích dương có kích thước rất nhỏ (nhỏ hơn nguyên tử khoảng 10.000 lần) nhưng tập trung hầu hết khối lượng của nguyên tử. 2) Cấu tạo hạt nhân: Hạt nhân được cấu tạo từ hai loại hạt gọi chung là các nucleon: Proton (p) mang điện tích +1e, khối lượng m_p xấp xỉ 1,00728 u; và Neutron (n) trung hòa về điện, khối lượng m_n xấp xỉ 1,00866 u. 3) Kí hiệu hạt nhân: AX_Z, trong đó X là tên nguyên tố hóa học, Z là số hiệu nguyên tử (số proton, đồng thời là số thứ tự trong bảng tuần hoàn), A là số khối (tổng số nucleon A = Z + N, với N là số neutron). Bán kính hạt nhân: R = 1,2.10^-15.A^(1/3) (m). 4) Đơn vị khối lượng nguyên tử: 1 amu (hoặc u) bằng 1/12 khối lượng nguyên tử đồng vị Carbon-12; 1 u xấp xỉ 1,66054.10^-27 kg. 5) Đồng vị: Các hạt nhân có cùng số proton Z nhưng khác số neutron N (do đó khác số khối A). Ví dụ: Hydrogen có 3 đồng vị là 1H_1 (thường), 2H_1 (Deuterium D), 3H_1 (Tritium T). Từ khóa: Tán xạ hạt alpha, nguyên tử Rutherford, nucleon, proton, neutron, số khối, đơn vị u, đồng vị."
+  },
+  {
+    "lessonId": "vatly12_b22",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí hạt nhân",
+    "lessonOrder": 22,
+    "lessonContent": "Ý chính: Định nghĩa phản ứng hạt nhân và các định luật bảo toàn; lực hạt nhân; độ hụt khối và năng lượng liên kết; đặc điểm phản ứng phân hạch và nhiệt hạch. Kiến thức trọng tâm: 1) Phản ứng hạt nhân: Quá trình biến đổi hạt nhân này thành hạt nhân khác, gồm phản ứng tự phát (phóng xạ) và phản ứng kích thích (va chạm giữa các hạt nhân). Các định luật bảo toàn trong phản ứng hạt nhân: Bảo toàn số nucleon (bảo toàn số khối A), Bảo toàn điện tích (bảo toàn Z), Bảo toàn năng lượng toàn phần, Bảo toàn động lượng (chú ý không có bảo toàn khối lượng nghỉ). 2) Lực hạt nhân: Lực hút liên kết các nucleon trong hạt nhân, là lực tương tác mạnh chỉ có tác dụng trong phạm vi kích thước hạt nhân (khoảng 10^-15 m). 3) Độ hụt khối (delta m) của hạt nhân AX_Z: delta m = Z.m_p + (A - Z).m_n - m_X > 0. 4) Năng lượng liên kết (E_lk): Năng lượng tối thiểu cần để tách một hạt nhân thành các nucleon riêng rẽ: E_lk = delta m.c2. 5) Năng lượng liên kết riêng (E_lkr = E_lk / A): Đại lượng đặc trưng cho mức độ bền vững của hạt nhân. Hạt nhân có E_lkr càng lớn thì càng bền vững (bền vững nhất là các hạt nhân có số khối trung bình từ 50 đến 95). 6) Phản ứng phân hạch: Hạt nhân nặng (U235) hấp thụ một neutron chậm rồi vỡ thành hai hạt nhân trung bình và giải phóng một số neutron cùng năng lượng tỏa ra khoảng 200 MeV. Phản ứng dây chuyền xảy ra khi số neutron trung bình kích thích phân hạch tiếp theo k >= 1. 7) Phản ứng tổng hợp hạt nhân (nhiệt hạch): Hai hạt nhân nhẹ (H2, H3) kết hợp thành hạt nhân nặng hơn ở nhiệt độ cực cao (10^7 - 10^8 K), tỏa năng lượng cực lớn. Từ khóa: Phản ứng hạt nhân, bảo toàn số khối, lực hạt nhân, độ hụt khối, năng lượng liên kết riêng, phân hạch, nhiệt hạch."
+  },
+  {
+    "lessonId": "vatly12_b23",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí hạt nhân",
+    "lessonOrder": 23,
+    "lessonContent": "Ý chính: Định nghĩa hiện tượng phóng xạ, các dạng tia phóng xạ và tính chất vật lí; định luật phân rã phóng xạ, chu kì bán rã và độ phóng xạ; ảnh hưởng sinh học và các nguyên tắc an toàn phóng xạ. Kiến thức trọng tâm: 1) Hiện tượng phóng xạ: Quá trình phân rã tự phát của một hạt nhân không bền vững, biến đổi thành hạt nhân khác đồng thời phát ra các tia phóng xạ. Quá trình này có tính ngẫu nhiên, tự phát, không điều khiển được bằng các tác nhân vật lí, hóa học thông thường. 2) Các loại phóng xạ chính: a) Phóng xạ alpha (dòng hạt nhân 4He_2): di chuyển v = 2.10^7 m/s, ion hóa mạnh, đâm xuyên yếu (bị cản bởi tờ giấy). b) Phóng xạ beta (gồm beta- là electron và beta+ là positron): di chuyển xấp xỉ tốc độ ánh sáng, đâm xuyên trung bình (xuyên qua giấy, bị chặn bởi tấm nhôm dày vài mm). c) Phóng xạ gamma (sóng điện từ bước sóng cực ngắn <10^-11 m): không mang điện, đâm xuyên cực mạnh (cần lớp chì dày vài cm hoặc bê tông dày để cản), khả năng ion hóa yếu. 3) Định luật phóng xạ: Số hạt nhân chưa phân rã còn lại giảm theo quy luật hàm mũ theo thời gian: N_t = N_0.2^(-t/T) = N_0.e^(-lambda.t), với T là chu kì bán rã, lambda = ln2/T là hằng số phóng xạ. 4) Độ phóng xạ (H): Đại lượng đặc trưng cho tính phóng xạ mạnh hay yếu, bằng số hạt phân rã trong một giây: H_t = lambda.N_t = H_0.e^(-lambda.t). Đơn vị là becoren (Bq, 1 Bq = 1 phân rã/s), đơn vị cũ là curi (1 Ci = 3,7.10^10 Bq). 5) Định tuổi bằng Carbon-14 (14C, chu kì bán rã 5.730 năm) dựa trên việc đo tỉ lệ 14C/12C trong sinh vật chết. 6) An toàn phóng xạ: Liều hấp thụ có hiệu dụng D_hd = D.W đo bằng siver (Sv); Tuân thủ ba nguyên tắc bảo vệ: giữ khoảng cách đủ xa nguồn, sử dụng tấm chắn (chì, kính pha chì), giảm thiểu thời gian phơi nhiễm. Từ khóa: Phóng xạ alpha/beta/gamma, định luật phóng xạ, chu kì bán rã, độ phóng xạ, định tuổi cacbon-14, liều hấp thụ, an toàn phóng xạ."
+  },
+  {
+    "lessonId": "vatly12_b24",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí hạt nhân",
+    "lessonOrder": 24,
+    "lessonContent": "Ý chính: Cấu tạo và nguyên lí hoạt động của nhà máy điện hạt nhân; ưu nhược điểm của năng lượng hạt nhân; các ứng dụng của đồng vị phóng xạ trong y học, công nghiệp và nông nghiệp. Kiến thức trọng tâm: 1) Nhà máy điện hạt nhân: Chuyển năng lượng tỏa ra từ phản ứng phân hạch Uranium trong lò phản ứng thành nhiệt năng của chất tải nhiệt (nước áp suất cao), từ đó sinh hơi nước làm quay tuabin máy phát điện. 2) Lò phản ứng hạt nhân gồm: Thanh nhiên liệu (U235 hoặc Pu239), Chất làm chậm neutron (nước, than graphite), Thanh điều khiển hấp thụ neutron (boron hoặc cadmium để duy trì k = 1), Chất tải nhiệt, và Lớp vỏ bảo vệ bằng bê tông cốt thép dày. 3) Ưu điểm: Hiệu suất năng lượng cực cao (phân hạch hoàn toàn 1 kg U235 tỏa năng lượng tương đương đốt 3.000 tấn than), không thải khí nhà kính (CO2, SO2). Nhược điểm: Chi phí đầu tư cao, nguy cơ tai nạn rò rỉ chất phóng xạ nghiêm trọng, khó khăn trong lưu trữ và xử lý chất thải hạt nhân có chu kỳ bán rã dài. 4) Y học hạt nhân: Chẩn đoán hình ảnh chức năng bằng kỹ thuật SPECT và PET (tiêm đồng vị phóng xạ 18F, 11C làm chất đánh dấu); Điều trị ung thư bằng xạ trị ngoài (tia gamma từ Co60) hoặc xạ trị trong (dùng dược chất phóng xạ như I131 điều trị ung thư tuyến giáp, Ra223). 5) Nông nghiệp và Công nghiệp: Chiếu xạ hạt nhân để gây đột biến gen tạo giống cây trồng mới năng suất cao, chống sâu bệnh; chiếu xạ bảo quản thực phẩm ngăn ngừa mọc mầm, diệt vi trùng; đo độ dày màng vật liệu trong nhà máy giấy, thép. Từ khóa: Nhà máy điện hạt nhân, thanh điều khiển, chất làm chậm, y học hạt nhân, chụp ảnh PET, xạ trị, chiếu xạ thực phẩm."
+  },
+  {
+    "lessonId": "vatly12_b25",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Vật lí hạt nhân",
+    "lessonOrder": 25,
+    "lessonContent": "Ý chính: Hệ thống hóa phương pháp giải và rèn luyện kỹ năng giải các dạng bài tập định tính, định lượng và bài tập có nội dung thực tiễn về Vật lí hạt nhân Chương IV. Kiến thức trọng tâm: 1) Bài tập định tính: Mô tả cấu tạo hạt nhân, viết phương trình phản ứng phân rã phóng xạ alpha, beta-, beta+, gamma; giải thích cơ chế ion hóa không khí của chất phóng xạ làm giảm điện tích tĩnh điện kế. 2) Bài tập định lượng: Cân bằng phương trình phản ứng hạt nhân dựa trên bảo toàn số khối A và bảo toàn điện tích Z; tính độ hụt khối delta m = Z.m_p + (A-Z).m_n - m_X; tính năng lượng liên kết E_lk = delta m.c2; tính năng lượng liên kết riêng E_lkr = E_lk / A; tính năng lượng tỏa ra/thu vào của phản ứng hạt nhân E = (m_trước - m_sau).c2; áp dụng định luật phóng xạ N_t = N_0.2^(-t/T) và tính độ phóng xạ H = lambda.N. 3) Bài tập ứng dụng thực tế: Tính toán chu kỳ bảo dưỡng định kỳ và chu kỳ thay mới nguồn phóng xạ (Co60) cho máy xạ trị trong bệnh viện khi độ phóng xạ giảm đi một lượng xác định (ví dụ giảm 7% và 50%); tính lượng nhiên liệu Uranium tiêu thụ hàng năm của nhà máy điện hạt nhân dựa trên công suất phát điện và hiệu suất lò phản ứng. Từ khóa: Bảo toàn số khối, bảo toàn điện tích, độ hụt khối, năng lượng phản ứng hạt nhân, chu kỳ bảo dưỡng nguồn, bài tập hạt nhân."
+  },
+  {
+    "lessonId": "vatly12_b26",
+    "grade": 12,
+    "subject": "Vật lý",
+    "chapterName": "Kỹ năng khi đi thi",
+    "lessonOrder": 26,
+    "lessonContent": "Ý chính: Tổng hợp kỹ năng thực chiến phòng thi tốt nghiệp THPT môn Vật lý (cấu trúc 3 phần, 28 câu/40 lệnh hỏi, 50 phút), đúc kết từ kinh nghiệm và nhận định của giáo viên qua các kỳ thi/đề thi thử gần đây. Kiến thức trọng tâm: 1) Chiến lược quản lý thời gian phòng thi theo nhiều lượt (đọc đề tổng quan, làm câu dễ trước, câu tính toán sau, câu khó cuối cùng, dành thời gian rà soát). 2) Kỹ thuật tối ưu điểm số riêng cho từng phần: Phần I (trắc nghiệm 4 lựa chọn) - kỹ thuật loại trừ, không bỏ trống; Phần II (Đúng/Sai 4 ý) - phân tích độc lập từng ý, tận dụng thang điểm luỹ tiến; Phần III (trả lời ngắn) - kiểm tra định dạng đáp số, tránh sai sót trình bày. 3) Kỹ năng xử lý tình huống phòng thi: kiểm tra đề/phiếu trả lời, quy tắc tô đáp án, xử lý khi hết thời gian. 4) Tâm lý và thể lực trước - trong ngày thi. Từ khóa: Chiến lược phòng thi, quản lý thời gian, mẹo làm bài, tối ưu điểm số, kỹ thuật loại trừ, tô phiếu trả lời trắc nghiệm."
+  }
 ]

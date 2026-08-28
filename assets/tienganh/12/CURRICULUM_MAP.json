@@ -559,7 +559,7 @@
     "grade": 12,
     "subject": "tiếng anh"
   },
-	{
+  {
     "lessonId": "tienganh12_u8_speaking",
     "chapterName": "Unit 8: Wildlife Conservation",
     "lessonOrder": 71,
@@ -784,10 +784,10 @@
     "subject": "tiếng anh"
   },
   {
-    "lessonId": "tienganh12_glossary",
-    "chapterName": "Glossary",
-    "lessonOrder": 99,
-    "lessonContent": "Ý chính: Danh mục bảng từ vựng (Glossary) tổng hợp tất cả các từ và cụm từ cốt lõi học sinh đã học từ Unit 1 đến Unit 10. Kiến thức trọng tâm: Hệ thống hóa từ vựng đi kèm phiên âm quốc tế chuẩn xác, từ loại tương ứng (danh từ, động từ, tính từ, trạng từ, cụm từ) và nghĩa tiếng Việt chi tiết của từng từ nhằm phục vụ việc ôn tập, tra cứu nhanh chóng và củng cố vốn từ vựng chuẩn hóa bậc THPT. Từ khóa: Vocabulary list, phonetics, word classes, Vietnamese definitions, reference index.",
+    "lessonId": "tienganh12_examskills",
+    "chapterName": "Kỹ Năng Khi Đi Thi (Exam Strategy & Tips)",
+    "lessonOrder": 100,
+    "lessonContent": "Ý chính: Tổng hợp kinh nghiệm thực chiến, chiến lược phòng thi và mẹo làm bài từ giáo viên luyện thi, dựa trên phân tích cấu trúc đề thi tốt nghiệp THPT môn Tiếng Anh 2025 (Bộ GD&ĐT). Kiến thức trọng tâm: Phân bổ thời gian tối ưu cho từng dạng bài trong 50 phút/40 câu; thứ tự làm bài để tối đa hóa điểm số (làm dễ trước, khó sau); kỹ thuật loại trừ đáp án nhiễu (elimination technique) cho từng dạng câu hỏi; mẹo đọc lướt (skimming) và đọc quét (scanning) cho 2 bài đọc hiểu; chiến thuật xử lý dạng Sắp xếp đoạn dựa vào tín hiệu liên kết; cách tô đáp án và quản lý thời gian an toàn (không bỏ trống câu nào); các lỗi tâm lý phòng thi phổ biến cần tránh (dành quá nhiều thời gian cho 1 câu khó, hoảng loạn khi gặp từ lạ). Từ khóa: exam strategy, time management, elimination technique, skimming, scanning, guessing strategy, process of elimination, exam psychology.",
     "grade": 12,
     "subject": "tiếng anh"
   }

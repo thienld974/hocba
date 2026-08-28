@@ -791,10 +791,10 @@
     "orderIndex": 2
   },
   {
-    "nodeId": "tienganh12_node_glossary",
-    "lessonId": "tienganh12_glossary",
+    "nodeId": "tienganh12_node_examskills",
+    "lessonId": "tienganh12_examskills",
     "parentNodeId": "root_ta12",
-    "nodeName": "Glossary",
-    "orderIndex": 15
+    "nodeName": "Kỹ năng làm bài thi",
+    "orderIndex": 16
   }
 ]

@@ -453,5 +453,12 @@
 "parentNodeId": "vatly12_node_ch_04",
 "nodeName": "Bài 25: Bài tập về vật lí hạt nhân",
 "orderIndex": 5
+},
+{
+"nodeId": "vatly12_node_examskill",
+"lessonId": "vatly12_b26",
+"parentNodeId": "root_vl12",
+"nodeName": "Kỹ năng khi đi thi",
+"orderIndex": 5
 }
 ]
