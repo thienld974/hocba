@@ -1,0 +1,807 @@
+[
+  {
+    "nodeId": "root_nguvan7",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 7 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan7_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan7",
+    "nodeName": "Ngữ văn 7 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan7_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan7",
+    "nodeName": "Ngữ văn 7 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan7_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol1",
+    "nodeName": "Bài 1. Bầu trời tuổi thơ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan7_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol1",
+    "nodeName": "Bài 2. Khúc nhạc tâm hồn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan7_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol1",
+    "nodeName": "Bài 3. Cội nguồn yêu thương",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan7_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol1",
+    "nodeName": "Bài 4. Giai điệu đất nước",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan7_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol1",
+    "nodeName": "Bài 5. Màu sắc trăm miền",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan7_node_t1_ot",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol1",
+    "nodeName": "Chương trình Ôn tập Học kì I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan7_node_t2_ch6",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol2",
+    "nodeName": "Bài 6. Bài học cuộc sống",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan7_node_t2_ch7",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol2",
+    "nodeName": "Bài 7. Thế giới viễn tưởng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan7_node_t2_ch8",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol2",
+    "nodeName": "Bài 8. Trải nghiệm để trưởng thành",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan7_node_t2_ch9",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol2",
+    "nodeName": "Bài 9. Hoà điệu với tự nhiên",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan7_node_t2_ch10",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol2",
+    "nodeName": "Bài 10. Trang sách và cuộc sống",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan7_node_t2_ot",
+    "lessonId": null,
+    "parentNodeId": "nguvan7_node_vol2",
+    "nodeName": "Chương trình Ôn tập Học kì II",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p1",
+    "lessonId": "nguvan7_t1_b1_p1",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Tri thức ngữ văn (Bài 1)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p2",
+    "lessonId": "nguvan7_t1_b1_p2",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Bầy chim chìa vôi (Nguyễn Quang Thiều)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p3",
+    "lessonId": "nguvan7_t1_b1_p3",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Thực hành tiếng Việt (trang 17)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p4",
+    "lessonId": "nguvan7_t1_b1_p4",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Đi lấy mật (trích Đất rừng phương Nam, Đoàn Giỏi)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p5",
+    "lessonId": "nguvan7_t1_b1_p5",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Thực hành tiếng Việt (trang 24)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p6",
+    "lessonId": "nguvan7_t1_b1_p6",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Ngàn sao làm việc (Võ Quảng)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p7",
+    "lessonId": "nguvan7_t1_b1_p7",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p8",
+    "lessonId": "nguvan7_t1_b1_p8",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p9",
+    "lessonId": "nguvan7_t1_b1_p9",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Củng cố, mở rộng (Bài 1)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b1_p10",
+    "lessonId": "nguvan7_t1_b1_p10",
+    "parentNodeId": "nguvan7_node_t1_ch1",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p1",
+    "lessonId": "nguvan7_t1_b2_p1",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Tri thức ngữ văn (Bài 2)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p2",
+    "lessonId": "nguvan7_t1_b2_p2",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Đồng dao mùa xuân (Nguyễn Khoa Điềm)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p3",
+    "lessonId": "nguvan7_t1_b2_p3",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Thực hành tiếng Việt (trang 42)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p4",
+    "lessonId": "nguvan7_t1_b2_p4",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Gặp lá cơm nếp (Thanh Thảo)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p5",
+    "lessonId": "nguvan7_t1_b2_p5",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Trở gió (Nguyễn Ngọc Tư)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p6",
+    "lessonId": "nguvan7_t1_b2_p6",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Thực hành tiếng Việt (trang 47)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p7",
+    "lessonId": "nguvan7_t1_b2_p7",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p8",
+    "lessonId": "nguvan7_t1_b2_p8",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Viết",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p9",
+    "lessonId": "nguvan7_t1_b2_p9",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p10",
+    "lessonId": "nguvan7_t1_b2_p10",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Củng cố, mở rộng (Bài 2)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b2_p11",
+    "lessonId": "nguvan7_t1_b2_p11",
+    "parentNodeId": "nguvan7_node_t1_ch2",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p1",
+    "lessonId": "nguvan7_t1_b3_p1",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Tri thức ngữ văn (Bài 3)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p2",
+    "lessonId": "nguvan7_t1_b3_p2",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Vừa nhắm mắt vừa mở cửa sổ (Nguyễn Ngọc Thuấn)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p3",
+    "lessonId": "nguvan7_t1_b3_p3",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Thực hành tiếng Việt (trang 64)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p4",
+    "lessonId": "nguvan7_t1_b3_p4",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Người thầy đầu tiên (trích, Trin-ghi-dơ Ai-tơ-ma-tốp)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p5",
+    "lessonId": "nguvan7_t1_b3_p5",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Thực hành tiếng Việt (trang 72)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p6",
+    "lessonId": "nguvan7_t1_b3_p6",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Quê hương (Tế Hanh)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p7",
+    "lessonId": "nguvan7_t1_b3_p7",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p8",
+    "lessonId": "nguvan7_t1_b3_p8",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p9",
+    "lessonId": "nguvan7_t1_b3_p9",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Củng cố, mở rộng (Bài 3)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b3_p10",
+    "lessonId": "nguvan7_t1_b3_p10",
+    "parentNodeId": "nguvan7_node_t1_ch3",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p1",
+    "lessonId": "nguvan7_t1_b4_p1",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Tri thức ngữ văn (Bài 4)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p2",
+    "lessonId": "nguvan7_t1_b4_p2",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Mùa xuân nho nhỏ (Thanh Hải)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p3",
+    "lessonId": "nguvan7_t1_b4_p3",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Thực hành tiếng Việt (trang 92)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p4",
+    "lessonId": "nguvan7_t1_b4_p4",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Gò Me (trích, Hoàng Tố Nguyên)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p5",
+    "lessonId": "nguvan7_t1_b4_p5",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Thực hành tiếng Việt (trang 95)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p6",
+    "lessonId": "nguvan7_t1_b4_p6",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Bài thơ 'Đường núi' của Nguyễn Đình Thi (Vũ Quần Phương)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p7",
+    "lessonId": "nguvan7_t1_b4_p7",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p8",
+    "lessonId": "nguvan7_t1_b4_p8",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p9",
+    "lessonId": "nguvan7_t1_b4_p9",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Củng cố, mở rộng (Bài 4)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b4_p10",
+    "lessonId": "nguvan7_t1_b4_p10",
+    "parentNodeId": "nguvan7_node_t1_ch4",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p1",
+    "lessonId": "nguvan7_t1_b5_p1",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Tri thức ngữ văn (Bài 5)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p2",
+    "lessonId": "nguvan7_t1_b5_p2",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Tháng Giêng, mơ về trăng non rét ngọt (trích, Vũ Bằng)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p3",
+    "lessonId": "nguvan7_t1_b5_p3",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Thực hành tiếng Việt (trang 110)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p4",
+    "lessonId": "nguvan7_t1_b5_p4",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Chuyện cơm hến (Hoàng Phủ Ngọc Tường)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p5",
+    "lessonId": "nguvan7_t1_b5_p5",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Thực hành tiếng Việt (trang 116)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p6",
+    "lessonId": "nguvan7_t1_b5_p6",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Hội lồng tồng (Trần Quốc Vượng - Lê Văn Hảo - Dương Tất Từ)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p7",
+    "lessonId": "nguvan7_t1_b5_p7",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p8",
+    "lessonId": "nguvan7_t1_b5_p8",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p9",
+    "lessonId": "nguvan7_t1_b5_p9",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Củng cố, mở rộng (Bài 5)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t1_b5_p10",
+    "lessonId": "nguvan7_t1_b5_p10",
+    "parentNodeId": "nguvan7_node_t1_ch5",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t1_ot_p1",
+    "lessonId": "nguvan7_t1_ot_p1",
+    "parentNodeId": "nguvan7_node_t1_ot",
+    "nodeName": "Ôn tập Học kì I",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p1",
+    "lessonId": "nguvan7_t2_b6_p1",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Tri thức ngữ văn (Bài 6)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p2",
+    "lessonId": "nguvan7_t2_b6_p2",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Đẽo cày giữa đường (Ngụ ngôn Việt Nam)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p3",
+    "lessonId": "nguvan7_t2_b6_p3",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Ếch ngồi đáy giếng (Trang Tử)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p4",
+    "lessonId": "nguvan7_t2_b6_p4",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Con mối và con kiến (Nam Hương)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p5",
+    "lessonId": "nguvan7_t2_b6_p5",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Thực hành tiếng Việt (trang 10)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p6",
+    "lessonId": "nguvan7_t2_b6_p6",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Một số câu tục ngữ Việt Nam",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p7",
+    "lessonId": "nguvan7_t2_b6_p7",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Thực hành tiếng Việt (trang 13)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p8",
+    "lessonId": "nguvan7_t2_b6_p8",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Con hổ có nghĩa (Vũ Trinh)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p9",
+    "lessonId": "nguvan7_t2_b6_p9",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Viết",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p10",
+    "lessonId": "nguvan7_t2_b6_p10",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b6_p11",
+    "lessonId": "nguvan7_t2_b6_p11",
+    "parentNodeId": "nguvan7_node_t2_ch6",
+    "nodeName": "Củng cố, mở rộng (Bài 6) & Thực hành đọc",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p1",
+    "lessonId": "nguvan7_t2_b7_p1",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Tri thức ngữ văn (Bài 7)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p2",
+    "lessonId": "nguvan7_t2_b7_p2",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Cuộc chạm trán trên đại dương (trích Hai vạn dặm dưới biển, Giuyn Véc-nơ)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p3",
+    "lessonId": "nguvan7_t2_b7_p3",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Thực hành tiếng Việt (trang 34)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p4",
+    "lessonId": "nguvan7_t2_b7_p4",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Đường vào trung tâm vũ trụ (trích Thiên Mã, Hà Thuỷ Nguyên)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p5",
+    "lessonId": "nguvan7_t2_b7_p5",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Thực hành tiếng Việt (trang 41)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p6",
+    "lessonId": "nguvan7_t2_b7_p6",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Dấu ấn Hồ Khanh (Nhật Văn)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p7",
+    "lessonId": "nguvan7_t2_b7_p7",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p8",
+    "lessonId": "nguvan7_t2_b7_p8",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p9",
+    "lessonId": "nguvan7_t2_b7_p9",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Củng cố, mở rộng (Bài 7)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b7_p10",
+    "lessonId": "nguvan7_t2_b7_p10",
+    "parentNodeId": "nguvan7_node_t2_ch7",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p1",
+    "lessonId": "nguvan7_t2_b8_p1",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Tri thức ngữ văn (Bài 8)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p2",
+    "lessonId": "nguvan7_t2_b8_p2",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Bản đồ dẫn đường (Đa-ni-en Gốt-li-ep)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p3",
+    "lessonId": "nguvan7_t2_b8_p3",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Thực hành tiếng Việt (trang 59)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p4",
+    "lessonId": "nguvan7_t2_b8_p4",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Hãy cầm lấy và đọc (Huỳnh Như Phương)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p5",
+    "lessonId": "nguvan7_t2_b8_p5",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Thực hành tiếng Việt (trang 64)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p6",
+    "lessonId": "nguvan7_t2_b8_p6",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Nói với con (Y Phương)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p7",
+    "lessonId": "nguvan7_t2_b8_p7",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p8",
+    "lessonId": "nguvan7_t2_b8_p8",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p9",
+    "lessonId": "nguvan7_t2_b8_p9",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Củng cố, mở rộng (Bài 8)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b8_p10",
+    "lessonId": "nguvan7_t2_b8_p10",
+    "parentNodeId": "nguvan7_node_t2_ch8",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p1",
+    "lessonId": "nguvan7_t2_b9_p1",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Tri thức ngữ văn (Bài 9)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p2",
+    "lessonId": "nguvan7_t2_b9_p2",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Thuỷ tiên tháng Một (Thô-mát L. Phrít-man)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p3",
+    "lessonId": "nguvan7_t2_b9_p3",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Thực hành tiếng Việt (trang 83)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p4",
+    "lessonId": "nguvan7_t2_b9_p4",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Lễ rửa làng của người Lô Lô (Phạm Thuỳ Dung)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p5",
+    "lessonId": "nguvan7_t2_b9_p5",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Bản tin về hoa anh đào (Nguyễn Vĩnh Nguyên)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p6",
+    "lessonId": "nguvan7_t2_b9_p6",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Thực hành tiếng Việt (trang 90)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p7",
+    "lessonId": "nguvan7_t2_b9_p7",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Viết",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p8",
+    "lessonId": "nguvan7_t2_b9_p8",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p9",
+    "lessonId": "nguvan7_t2_b9_p9",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Củng cố, mở rộng (Bài 9)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b9_p10",
+    "lessonId": "nguvan7_t2_b9_p10",
+    "parentNodeId": "nguvan7_node_t2_ch9",
+    "nodeName": "Thực hành đọc",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b10_p1",
+    "lessonId": "nguvan7_t2_b10_p1",
+    "parentNodeId": "nguvan7_node_t2_ch10",
+    "nodeName": "Tri thức ngữ văn (Bài 10)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b10_p2",
+    "lessonId": "nguvan7_t2_b10_p2",
+    "parentNodeId": "nguvan7_node_t2_ch10",
+    "nodeName": "Đọc",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b10_p3",
+    "lessonId": "nguvan7_t2_b10_p3",
+    "parentNodeId": "nguvan7_node_t2_ch10",
+    "nodeName": "Vẻ đẹp giản dị và chân thật của Quê nội (Võ Quảng)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b10_p4",
+    "lessonId": "nguvan7_t2_b10_p4",
+    "parentNodeId": "nguvan7_node_t2_ch10",
+    "nodeName": "Đọc và trải nghiệm cùng nhân vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b10_p5",
+    "lessonId": "nguvan7_t2_b10_p5",
+    "parentNodeId": "nguvan7_node_t2_ch10",
+    "nodeName": "Viết",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan7_t2_b10_p6",
+    "lessonId": "nguvan7_t2_b10_p6",
+    "parentNodeId": "nguvan7_node_t2_ch10",
+    "nodeName": "Nói và nghe",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan7_t2_ot_p1",
+    "lessonId": "nguvan7_t2_ot_p1",
+    "parentNodeId": "nguvan7_node_t2_ot",
+    "nodeName": "Ôn tập Học kì II",
+    "orderIndex": 1
+  }
+]

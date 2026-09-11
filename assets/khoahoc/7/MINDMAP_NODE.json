@@ -1,0 +1,373 @@
+[
+  {
+    "nodeId": "root_kh7",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "KHOA HỌC TỰ NHIÊN 7 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "node_kh7_b1",
+    "lessonId": "kh7_b1",
+    "parentNodeId": "root_kh7",
+    "nodeName": "Bài 1. Phương pháp và kĩ năng học tập môn Khoa học tự nhiên",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh7_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b2",
+    "lessonId": "kh7_b2",
+    "parentNodeId": "kh7_node_ch1",
+    "nodeName": "Bài 2. Nguyên tử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b3",
+    "lessonId": "kh7_b3",
+    "parentNodeId": "kh7_node_ch1",
+    "nodeName": "Bài 3. Nguyên tố hoá học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b4",
+    "lessonId": "kh7_b4",
+    "parentNodeId": "kh7_node_ch1",
+    "nodeName": "Bài 4. Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương II. Phân tử. Liên kết hoá học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_kh7_b5",
+    "lessonId": "kh7_b5",
+    "parentNodeId": "kh7_node_ch2",
+    "nodeName": "Bài 5. Phân tử - Đơn chất - Hợp chất",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b6",
+    "lessonId": "kh7_b6",
+    "parentNodeId": "kh7_node_ch2",
+    "nodeName": "Bài 6. Giới thiệu về liên kết hoá học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b7",
+    "lessonId": "kh7_b7",
+    "parentNodeId": "kh7_node_ch2",
+    "nodeName": "Bài 7. Hoá trị và công thức hoá học",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương III. Tốc độ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_kh7_b8",
+    "lessonId": "kh7_b8",
+    "parentNodeId": "kh7_node_ch3",
+    "nodeName": "Bài 8. Tốc độ chuyển động",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b9",
+    "lessonId": "kh7_b9",
+    "parentNodeId": "kh7_node_ch3",
+    "nodeName": "Bài 9. Đo tốc độ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b10",
+    "lessonId": "kh7_b10",
+    "parentNodeId": "kh7_node_ch3",
+    "nodeName": "Bài 10. Đồ thị quãng đường - thời gian",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_kh7_b11",
+    "lessonId": "kh7_b11",
+    "parentNodeId": "kh7_node_ch3",
+    "nodeName": "Bài 11. Thảo luận về ảnh hưởng của tốc độ trong an toàn giao thông",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh7_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương IV. Âm thanh",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_kh7_b12",
+    "lessonId": "kh7_b12",
+    "parentNodeId": "kh7_node_ch4",
+    "nodeName": "Bài 12. Sóng âm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b13",
+    "lessonId": "kh7_b13",
+    "parentNodeId": "kh7_node_ch4",
+    "nodeName": "Bài 13. Độ to và độ cao của âm",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b14",
+    "lessonId": "kh7_b14",
+    "parentNodeId": "kh7_node_ch4",
+    "nodeName": "Bài 14. Phản xạ âm, chống ô nhiễm tiếng ồn",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương V. Ánh sáng",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_kh7_b15",
+    "lessonId": "kh7_b15",
+    "parentNodeId": "kh7_node_ch5",
+    "nodeName": "Bài 15. Năng lượng ánh sáng. Tia sáng, vùng tối",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b16",
+    "lessonId": "kh7_b16",
+    "parentNodeId": "kh7_node_ch5",
+    "nodeName": "Bài 16. Sự phản xạ ánh sáng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b17",
+    "lessonId": "kh7_b17",
+    "parentNodeId": "kh7_node_ch5",
+    "nodeName": "Bài 17. Ảnh của vật qua gương phẳng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương VI. Từ",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_kh7_b18",
+    "lessonId": "kh7_b18",
+    "parentNodeId": "kh7_node_ch6",
+    "nodeName": "Bài 18. Nam châm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b19",
+    "lessonId": "kh7_b19",
+    "parentNodeId": "kh7_node_ch6",
+    "nodeName": "Bài 19. Từ trường",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b20",
+    "lessonId": "kh7_b20",
+    "parentNodeId": "kh7_node_ch6",
+    "nodeName": "Bài 20. Chế tạo nam châm điện đơn giản",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_kh7_b21",
+    "lessonId": "kh7_b21",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 21. Khái quát về trao đổi chất và chuyển hoá năng lượng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b22",
+    "lessonId": "kh7_b22",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 22. Quang hợp ở thực vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b23",
+    "lessonId": "kh7_b23",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 23. Một số yếu tố ảnh hưởng đến quang hợp",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_kh7_b24",
+    "lessonId": "kh7_b24",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 24. Thực hành: Chứng minh quang hợp ở cây xanh",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_kh7_b25",
+    "lessonId": "kh7_b25",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 25. Hô hấp tế bào",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_kh7_b26",
+    "lessonId": "kh7_b26",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 26. Một số yếu tố ảnh hưởng đến hô hấp tế bào",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_kh7_b27",
+    "lessonId": "kh7_b27",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 27. Thực hành: Hô hấp ở thực vật",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_kh7_b28",
+    "lessonId": "kh7_b28",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 28. Trao đổi khí ở sinh vật",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_kh7_b29",
+    "lessonId": "kh7_b29",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 29. Vai trò của nước và chất dinh dưỡng đối với sinh vật",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_kh7_b30",
+    "lessonId": "kh7_b30",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 30. Trao đổi nước và chất dinh dưỡng ở thực vật",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_kh7_b31",
+    "lessonId": "kh7_b31",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 31. Trao đổi nước và chất dinh dưỡng ở động vật",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_kh7_b32",
+    "lessonId": "kh7_b32",
+    "parentNodeId": "kh7_node_ch7",
+    "nodeName": "Bài 32. Thực hành: Chứng minh thân vận chuyển nước và lá thoát hơi nước",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "kh7_node_ch8",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương VIII. Cảm ứng ở sinh vật",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_kh7_b33",
+    "lessonId": "kh7_b33",
+    "parentNodeId": "kh7_node_ch8",
+    "nodeName": "Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b34",
+    "lessonId": "kh7_b34",
+    "parentNodeId": "kh7_node_ch8",
+    "nodeName": "Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b35",
+    "lessonId": "kh7_b35",
+    "parentNodeId": "kh7_node_ch8",
+    "nodeName": "Bài 35. Thực hành: Cảm ứng ở sinh vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch9",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương IX. Sinh trưởng và phát triển ở sinh vật",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_kh7_b36",
+    "lessonId": "kh7_b36",
+    "parentNodeId": "kh7_node_ch9",
+    "nodeName": "Bài 36. Khái quát về sinh trưởng và phát triển ở sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b37",
+    "lessonId": "kh7_b37",
+    "parentNodeId": "kh7_node_ch9",
+    "nodeName": "Bài 37. Ứng dụng sinh trưởng và phát triển ở sinh vật vào thực tiễn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b38",
+    "lessonId": "kh7_b38",
+    "parentNodeId": "kh7_node_ch9",
+    "nodeName": "Bài 38. Thực hành: Quan sát, mô tả sự sinh trưởng và phát triển ở một số sinh vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh7_node_ch10",
+    "lessonId": null,
+    "parentNodeId": "root_kh7",
+    "nodeName": "Chương X. Sinh sản ở sinh vật",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_kh7_b39",
+    "lessonId": "kh7_b39",
+    "parentNodeId": "kh7_node_ch10",
+    "nodeName": "Bài 39. Sinh sản vô tính ở sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_kh7_b40",
+    "lessonId": "kh7_b40",
+    "parentNodeId": "kh7_node_ch10",
+    "nodeName": "Bài 40. Sinh sản hữu tính ở sinh vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_kh7_b41",
+    "lessonId": "kh7_b41",
+    "parentNodeId": "kh7_node_ch10",
+    "nodeName": "Bài 41. Một số yếu tố ảnh hưởng và điều hoà, điều khiển sinh sản ở sinh vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_kh7_b42",
+    "lessonId": "kh7_b42",
+    "parentNodeId": "kh7_node_ch10",
+    "nodeName": "Bài 42. Cơ thể sinh vật là một thể thống nhất",
+    "orderIndex": 4
+  }
+]

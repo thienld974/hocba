@@ -1,0 +1,602 @@
+[
+  {
+    "lessonId": "toan8_t1_b1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Đơn thức\n- Khái niệm đơn thức: Biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một dạng tích của những số và biến.\n- Đơn thức thu gọn: Đơn thức chỉ gồm một số, hoặc có dạng tích của một số với những biến, mỗi biến chỉ xuất hiện một lần và đã được nâng lên lũy thừa với số mũ nguyên dương. Hệ số là phần số, phần còn lại là phần biến.\n- Bậc của đơn thức: Tổng số mũ của các biến có trong đơn thức thu gọn với hệ số khác 0.\n- Đơn thức đồng dạng: Hai đơn thức với hệ số khác 0 và có phần biến giống nhau.\n- Cộng và trừ đơn thức đồng dạng: Cộng (hay trừ) các hệ số với nhau và giữ nguyên phần biến.\n- Từ khóa: Đơn thức, đơn thức thu gọn, bậc đơn thức, đơn thức đồng dạng."
+  },
+  {
+    "lessonId": "toan8_t1_b2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Đa thức\n- Khái niệm đa thức: Đa thức là tổng của những đơn thức; mỗi đơn thức trong tổng gọi là một hạng tử của đa thức đó.\n- Đa thức thu gọn: Đa thức không chứa hai hạng tử nào đồng dạng.\n- Thu gọn đa thức: Cộng các hạng tử đồng dạng trong đa thức để đưa về đa thức thu gọn.\n- Bậc của đa thức: Bậc của hạng tử có bậc cao nhất trong dạng thu gọn của đa thức đó.\n- Từ khóa: Đa thức, hạng tử, bậc đa thức, đa thức thu gọn."
+  },
+  {
+    "lessonId": "toan8_t1_b3",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3: Phép cộng và phép trừ đa thức\n- Phép cộng đa thức: Để cộng hai đa thức, ta nối hai đa thức bởi dấu cộng rồi thực hiện thu gọn các hạng tử đồng dạng.\n- Phép trừ đa thức: Để trừ đa thức A cho đa thức B, ta nối đa thức A với đa thức đối của B (đổi dấu tất cả các hạng tử của B) rồi thực hiện thu gọn.\n- Quy tắc dấu ngoặc: Khi bỏ ngoặc có dấu '-' đằng trước, phải đổi dấu tất cả hạng tử trong ngoặc.\n- Từ khóa: Cộng đa thức, trừ đa thức, quy tắc dấu ngoặc."
+  },
+  {
+    "lessonId": "toan8_t1_ch1_ltc1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 4,
+    "lessonContent": "Luyện tập chung (trang 17)\n- Luyện tập chung (Chương I): Hệ thống hóa kiến thức và luyện tập kỹ năng thực hiện phép tính trên đơn thức và đa thức nhiều biến. Trọng tâm thực hành gồm: thu gọn đơn thức, tìm bậc đơn thức, xác định các hạng tử của đa thức và thu gọn đa thức; thực hiện các phép tính cộng, trừ đa thức nhiều biến; tính giá trị của biểu thức tại các giá trị cho trước của biến."
+  },
+  {
+    "lessonId": "toan8_t1_b4",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 4: Phép nhân đa thức\n- Nhân đơn thức với đơn thức: Nhân hệ số với nhau, nhân các phần biến có cùng cơ số với nhau rồi nhân kết quả lại.\n- Nhân đơn thức với đa thức: Nhân đơn thức với từng hạng tử của đa thức rồi cộng các tích với nhau.\n- Nhân đa thức với đa thức: Nhân mỗi hạng tử của đa thức này với từng hạng tử của đa thức kia rồi cộng các tích với nhau.\n- Từ khóa: Nhân đơn thức, nhân đa thức, phân phối."
+  },
+  {
+    "lessonId": "toan8_t1_b5",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 5: Phép chia đa thức cho đơn thức\n- Chia đơn thức cho đơn thức: Đơn thức A chia hết cho đơn thức B (B khác 0) khi mỗi biến của B đều là biến của A với số mũ không lớn hơn số mũ của nó trong A. Thực hiện chia hệ số của A cho hệ số của B, chia lũy thừa của từng biến trong A cho lũy thừa của cùng biến đó trong B.\n- Chia đa thức cho đơn thức: Đa thức A chia hết cho đơn thức B nếu mọi hạng tử của A đều chia hết cho B. Muốn chia đa thức A cho đơn thức B, ta chia từng hạng tử của A cho B rồi cộng các kết quả lại.\n- Từ khóa: Chia đơn thức, chia đa thức."
+  },
+  {
+    "lessonId": "toan8_t1_ch1_ltc2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 7,
+    "lessonContent": "Luyện tập chung (trang 25)\n- Luyện tập chung (Chương I): Củng cố kiến thức và thực hành nâng cao các phép toán nhân và chia đa thức. Trọng tâm gồm: thực hiện phép nhân đơn thức với đa thức, đa thức với đa thức; phép chia đa thức cho đơn thức (trường hợp chia hết); rút gọn biểu thức đại số chứa nhiều phép tính và giải bài toán thực tế sử dụng các phép toán đa thức."
+  },
+  {
+    "lessonId": "toan8_t1_ch1_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương I. Đa thức",
+    "lessonOrder": 8,
+    "lessonContent": "Bài tập cuối chương I (trang 27)\n- Bài tập cuối chương I: Ôn tập, củng cố toàn bộ hệ thống kiến thức chương Đa thức qua hệ thống câu hỏi trắc nghiệm và tự luận tổng hợp. Các dạng toán trọng tâm gồm: phân loại đơn thức, đa thức; thực hiện các phép tính cộng, trừ, nhân, chia đa thức nhiều biến; rút gọn biểu thức; giải bài toán thực tế liên quan đến diện tích, thể tích biểu thị bằng các đa thức."
+  },
+  {
+    "lessonId": "toan8_t1_b6",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 6: Hiệu hai bình phương. Bình phương của một tổng hay một hiệu\n- Hằng đẳng thức: Là đẳng thức mà hai vế luôn cùng nhận một giá trị với mọi giá trị của biến.\n- Hiệu hai bình phương: A^2 - B^2 = (A - B)(A + B).\n- Bình phương của một tổng: (A + B)^2 = A^2 + 2AB + B^2.\n- Bình phương của một hiệu: (A - B)^2 = A^2 - 2AB + B^2.\n- Từ khóa: Hiệu hai bình phương, bình phương một tổng, bình phương một hiệu, hằng đẳng thức."
+  },
+  {
+    "lessonId": "toan8_t1_b7",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 7: Lập phương của một tổng hay một hiệu\n- Lập phương của một tổng: (A + B)^3 = A^3 + 3A^2B + 3AB^2 + B^3.\n- Lập phương của một hiệu: (A - B)^3 = A^3 - 3A^2B + 3AB^2 - B^3.\n- Từ khóa: Lập phương một tổng, lập phương một hiệu."
+  },
+  {
+    "lessonId": "toan8_t1_b8",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 8: Tổng và hiệu hai lập phương\n- Tổng hai lập phương: A^3 + B^3 = (A + B)(A^2 - AB + B^2). Biểu thức A^2 - AB + B^2 gọi là bình phương thiếu của hiệu.\n- Hiệu hai lập phương: A^3 - B^3 = (A - B)(A^2 + AB + B^2). Biểu thức A^2 + AB + B^2 gọi là bình phương thiếu của tổng.\n- Từ khóa: Tổng hai lập phương, hiệu hai lập phương, bình phương thiếu."
+  },
+  {
+    "lessonId": "toan8_t1_ch2_ltc1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 12,
+    "lessonContent": "Luyện tập chung (trang 40)\n- Luyện tập chung (Chương II): Củng cố và thực hành thành thạo các hằng đẳng thức đáng nhớ đầu tiên. Nội dung bao gồm: khai triển các biểu thức có dạng hiệu hai bình phương, bình phương của một tổng hay một hiệu, lập phương của một tổng hay một hiệu, tổng và hiệu hai lập phương; viết các biểu thức dưới dạng hằng đẳng thức; áp dụng hằng đẳng thức để tính nhanh, tính nhẩm hợp lý và rút gọn biểu thức."
+  },
+  {
+    "lessonId": "toan8_t1_b9",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 9: Phân tích đa thức thành nhân tử\n- Khái niệm: Biến đổi đa thức đã cho thành một tích của những đa thức khác.\n- Phương pháp đặt nhân tử chung: Tìm nhân tử chung của các hạng tử rồi đặt ra ngoài ngoặc.\n- Phương pháp sử dụng hằng đẳng thức: Áp dụng các hằng đẳng thức đáng nhớ để đưa đa thức về dạng tích.\n- Phương pháp nhóm hạng tử: Nhóm các hạng tử một cách thích hợp để xuất hiện nhân tử chung hoặc hằng đẳng thức.\n- Từ khóa: Phân tích thành nhân tử, đặt nhân tử chung, nhóm hạng tử."
+  },
+  {
+    "lessonId": "toan8_t1_ch2_ltc2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 14,
+    "lessonContent": "Luyện tập chung (trang 45)\n- Luyện tập chung (Chương II): Ôn tập kiến thức và rèn luyện kỹ năng phân tích đa thức thành nhân tử. Thực hành các phương pháp phân tích cốt lõi gồm: đặt nhân tử chung, sử dụng hằng đẳng thức, nhóm các hạng tử thích hợp; phối hợp các phương pháp để phân tích đa thức phức tạp thành nhân tử; ứng dụng phân tích đa thức thành nhân tử để giải phương trình (tìm x) và tính nhanh giá trị biểu thức."
+  },
+  {
+    "lessonId": "toan8_t1_ch2_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "lessonOrder": 15,
+    "lessonContent": "Bài tập cuối chương II (trang 47)\n- Bài tập cuối chương II: Ôn tập và tự đánh giá năng lực về hằng đẳng thức đáng nhớ và phân tích đa thức thành nhân tử. Nội dung bao gồm: hệ thống lại 7 hằng đẳng thức đáng nhớ; rèn luyện kỹ năng nhận diện và vận dụng hằng đẳng thức trong các bài toán rút gọn biểu thức, chứng minh đẳng thức, bài toán tìm x và tính toán thực tế."
+  },
+  {
+    "lessonId": "toan8_t1_b10",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 10: Tứ giác\n- Tứ giác lồi: Tứ giác mà hai đỉnh thuộc một cạnh bất kì luôn nằm về một phía của đường thẳng đi qua hai đỉnh còn lại.\n- Tổng các góc của một tứ giác: Tổng các góc của một tứ giác lồi luôn bằng 360 độ.\n- Từ khóa: Tứ giác lồi, tổng các góc."
+  },
+  {
+    "lessonId": "toan8_t1_b11",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 11: Hình thang cân\n- Hình thang: Tứ giác có hai cạnh đối song song.\n- Hình thang cân: Hình thang có hai góc kề một đáy bằng nhau.\n- Tính chất hình thang cân: Trong hình thang cân, hai cạnh bên bằng nhau; hai đường chéo bằng nhau.\n- Dấu hiệu nhận biết: Hình thang có hai đường chéo bằng nhau là hình thang cân.\n- Từ khóa: Hình thang, hình thang cân, cạnh bên, đường chéo."
+  },
+  {
+    "lessonId": "toan8_t1_ch3_ltc1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 18,
+    "lessonContent": "Luyện tập chung (trang 56)\n- Luyện tập chung (Chương III): Thực hành củng cố các kiến thức về tứ giác và hình thang cân. Nội dung trọng tâm: áp dụng định lý tổng bốn góc trong một tứ giác bằng 360 độ để tính các góc chưa biết; chứng minh và vận dụng các tính chất của hình thang, hình thang cân (hai góc kề một đáy bằng nhau, hai đường chéo bằng nhau, hai cạnh bên bằng nhau) để giải bài tập hình học."
+  },
+  {
+    "lessonId": "toan8_t1_b12",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 12: Hình bình hành\n- Định nghĩa: Tứ giác có các cạnh đối song song.\n- Tính chất hình bình hành: Các cạnh đối bằng nhau; các góc đối bằng nhau; hai đường chéo cắt nhau tại trung điểm của mỗi đường.\n- Dấu hiệu nhận biết: Tứ giác có các cạnh đối song song hoặc bằng nhau; tứ giác có một cặp cạnh đối song song và bằng nhau; tứ giác có các góc đối bằng nhau; tứ giác có hai đường chéo cắt nhau tại trung điểm của mỗi đường.\n- Từ khóa: Hình bình hành, cạnh đối song song, trung điểm đường chéo."
+  },
+  {
+    "lessonId": "toan8_t1_ch3_ltc2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 20,
+    "lessonContent": "Luyện tập chung (trang 62)\n- Luyện tập chung (Chương III): Ôn tập và thực hành chứng minh các bài toán liên quan đến hình bình hành. Rèn luyện kỹ năng nhận diện hình bình hành qua các dấu hiệu (các cạnh đối song song hoặc bằng nhau, một cặp cạnh đối song song và bằng nhau, các góc đối bằng nhau, hai đường chéo cắt nhau tại trung điểm của mỗi đường); áp dụng tính chất của hình bình hành để chứng minh các đoạn thẳng bằng nhau, các góc bằng nhau, các đường thẳng song song hoặc đồng quy."
+  },
+  {
+    "lessonId": "toan8_t1_b13",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 13: Hình chữ nhật\n- Định nghĩa: Tứ giác có bốn góc vuông.\n- Tính chất hình chữ nhật: Có tất cả các tính chất của hình bình hành và hình thang cân; hai đường chéo bằng nhau và cắt nhau tại trung điểm của mỗi đường. Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền bằng nửa cạnh huyền.\n- Dấu hiệu nhận biết: Hình bình hành có một góc vuông hoặc có hai đường chéo bằng nhau.\n- Từ khóa: Hình chữ nhật, góc vuông, trung tuyến cạnh huyền."
+  },
+  {
+    "lessonId": "toan8_t1_b14",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 14: Hình thoi và hình vuông\n- Hình thoi: Tứ giác có bốn cạnh bằng nhau. Hai đường chéo vuông góc với nhau và là đường phân giác của các góc của hình thoi.\n- Dấu hiệu nhận biết hình thoi: Hình bình hành có hai cạnh kề bằng nhau, hai đường chéo vuông góc, hoặc một đường chéo là đường phân giác của một góc.\n- Hình vuông: Tứ giác có bốn góc vuông và bốn cạnh bằng nhau. Có đầy đủ tính chất của hình chữ nhật và hình thoi.\n- Dấu hiệu nhận biết hình vuông: Hình chữ nhật có hai cạnh kề bằng nhau, hai đường chéo vuông góc, hoặc một đường chéo là phân giác; Hình thoi có một góc vuông hoặc hai đường chéo bằng nhau.\n- Từ khóa: Hình thoi, hình vuông, đường chéo vuông góc, cạnh bằng nhau."
+  },
+  {
+    "lessonId": "toan8_t1_ch3_ltc3",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 23,
+    "lessonContent": "Luyện tập chung (trang 73)\n- Luyện tập chung (Chương III): Tổng hợp kiến thức và rèn luyện kỹ năng phân biệt, chứng minh các loại tứ giác đặc biệt gồm hình chữ nhật, hình thoi, hình vuông. Nội dung thực hành: áp dụng các định nghĩa, tính chất đường chéo của từng loại hình để chứng minh các yếu tố hình học; nhận biết một tứ giác hay một hình bình hành là hình chữ nhật, hình thoi hay hình vuông qua các dấu hiệu đặc trưng."
+  },
+  {
+    "lessonId": "toan8_t1_ch3_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương III. Tứ giác",
+    "lessonOrder": 24,
+    "lessonContent": "Bài tập cuối chương III (trang 74)\n- Bài tập cuối chương III: Ôn tập và hệ thống hóa toàn bộ kiến thức về các loại tứ giác đã học (tứ giác, hình thang, hình thang cân, hình bình hành, hình chữ nhật, hình thoi, hình vuông) qua hệ thống câu hỏi trắc nghiệm và bài tập tự luận tổng hợp. Rèn luyện tư duy logic, kỹ năng vẽ hình chuẩn xác, viết giả thiết - kết luận và lập luận chứng minh chặt chẽ."
+  },
+  {
+    "lessonId": "toan8_t1_b15",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Định lí Thalès",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 15: Định lí Thalès trong tam giác\n- Đoạn thẳng tỉ lệ: Hai đoạn thẳng AB và CD tỉ lệ với hai đoạn thẳng A'B' và C'D' nếu có tỉ lệ thức AB/CD = A'B'/C'D'.\n- Định lí Thalès: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\n- Định lí Thalès đảo: Nếu một đường thẳng cắt hai cạnh của một tam giác và định ra trên hai cạnh này những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó song song với cạnh còn lại của tam giác.\n- Từ khóa: Đoạn thẳng tỉ lệ, định lí Thalès, định lí Thalès đảo."
+  },
+  {
+    "lessonId": "toan8_t1_b16",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Định lí Thalès",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 16: Đường trung bình của tam giác\n- Định nghĩa: Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh của tam giác.\n- Tính chất: Đường trung bình của tam giác song song với cạnh thứ ba và bằng nửa cạnh ấy.\n- Từ khóa: Đường trung bình, song song, trung điểm."
+  },
+  {
+    "lessonId": "toan8_t1_b17",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Định lí Thalès",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 17: Tính chất đường phân giác của tam giác\n- Định lí: Trong một tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề hai đoạn ấy (DB/DC = AB/AC).\n- Từ khóa: Đường phân giác, cạnh đối diện, tỉ lệ."
+  },
+  {
+    "lessonId": "toan8_t1_ch4_ltc",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Định lí Thalès",
+    "lessonOrder": 28,
+    "lessonContent": "Luyện tập chung (trang 87)\n- Luyện tập chung (Chương IV): Củng cố lý thuyết và rèn luyện kỹ năng tính toán, chứng minh hình học sử dụng định lý Thalès (thuận và đảo), đường trung bình của tam giác và tính chất đường phân giác trong tam giác. Các bài tập trọng tâm bao gồm: tính độ dài đoạn thẳng trên hình vẽ, chứng minh hai đường thẳng song song, chứng minh các hệ thức tỉ lệ đoạn thẳng."
+  },
+  {
+    "lessonId": "toan8_t1_ch4_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Định lí Thalès",
+    "lessonOrder": 29,
+    "lessonContent": "Bài tập cuối chương IV (trang 89)\n- Bài tập cuối chương IV: Ôn tập, tổng hợp kiến thức định lý Thalès và các đường đặc biệt trong tam giác. Hệ thống bài tập bao gồm: các câu hỏi trắc nghiệm kiểm tra lý thuyết và bài tập tự luận chứng minh tổng hợp liên kết nhiều kiến thức (Thalès, đường trung bình, đường phân giác) để giải quyết các yêu cầu thực tiễn như đo đạc khoảng cách gián tiếp."
+  },
+  {
+    "lessonId": "toan8_t1_b18",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương V. Dữ liệu và biểu đồ",
+    "lessonOrder": 30,
+    "lessonContent": "Bài 18: Thu thập và phân loại dữ liệu\n- Thu thập dữ liệu: Có thể thu thập trực tiếp (quan sát, làm thí nghiệm, lập bảng hỏi...) hoặc gián tiếp (từ sách báo, Internet, nguồn có sẵn).\n- Phân loại dữ liệu: Dữ liệu là số (số liệu rời rạc - đếm được; số liệu liên tục - đo lường) và dữ liệu không là số (không thể sắp thứ tự; có thể sắp thứ tự).\n- Từ khóa: Thu thập dữ liệu, phân loại dữ liệu, số liệu rời rạc, số liệu liên tục."
+  },
+  {
+    "lessonId": "toan8_t1_b19",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương V. Dữ liệu và biểu đồ",
+    "lessonOrder": 31,
+    "lessonContent": "Bài 19: Biểu diễn dữ liệu bằng bảng, biểu đồ\n- Lựa chọn biểu đồ phù hợp: Biểu đồ tranh, biểu đồ cột (so sánh số lượng), biểu đồ cột kép (so sánh hai tập dữ liệu), biểu đồ đoạn thẳng (biểu diễn sự thay đổi theo thời gian), biểu đồ hình quạt tròn (so sánh tỉ lệ phần trăm các phần trong tổng thể).\n- Từ khóa: Bảng thống kê, biểu đồ cột kép, biểu đồ đoạn thẳng, biểu đồ hình quạt tròn."
+  },
+  {
+    "lessonId": "toan8_t1_b20",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương V. Dữ liệu và biểu đồ",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 20: Phân tích số liệu thống kê dựa vào biểu đồ\n- Nhận biết tính hợp lí của dữ liệu: Phát hiện sai sót, điểm bất thường trên các biểu đồ (ví dụ biểu đồ cột gốc không bắt đầu từ 0 gây hiểu lầm).\n- Phân tích số liệu: Đọc và giải thích số liệu, so sánh tốc độ tăng/giảm giữa các khoảng thời gian, tìm mối liên hệ thực tế.\n- Từ khóa: Phân tích số liệu, tính hợp lí, giải thích biểu đồ."
+  },
+  {
+    "lessonId": "toan8_t1_ch5_ltc",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương V. Dữ liệu và biểu đồ",
+    "lessonOrder": 33,
+    "lessonContent": "Luyện tập chung (trang 106)\n- Luyện tập chung (Chương V): Ôn tập kiến thức và thực hành các kỹ năng về dữ liệu và thống kê. Trọng tâm gồm: phân loại dữ liệu (số liệu rời rạc, liên tục, dữ liệu không là số); lựa chọn bảng thống kê và biểu đồ phù hợp để biểu diễn dữ liệu (biểu đồ tranh, biểu đồ cột, biểu đồ đoạn thẳng, biểu đồ hình quạt tròn); đọc và phân tích số liệu thống kê để rút ra kết luận hợp lý."
+  },
+  {
+    "lessonId": "toan8_t1_ch5_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương V. Dữ liệu và biểu đồ",
+    "lessonOrder": 34,
+    "lessonContent": "Bài tập cuối chương V (trang 109)\n- Bài tập cuối chương V: Hệ thống hóa kiến thức chương Dữ liệu và biểu đồ qua trắc nghiệm và tự luận. Thực hành tổng hợp các bước của một quá trình thống kê: thu thập dữ liệu bằng các phương pháp trực tiếp/gián tiếp; phân loại và tổ chức dữ liệu vào bảng thống kê; vẽ và hoàn thiện biểu đồ; nhận xét, giải thích các xu thế và giải quyết các bài toán thực tế dựa trên phân tích số liệu."
+  },
+  {
+    "lessonId": "toan8_t1_hdtn_b1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 35,
+    "lessonContent": "Công thức lãi kép (trang 111)\n- Công thức lãi kép: Tìm hiểu và ứng dụng công thức tính lãi kép trong thực tế ngân hàng và tài chính. Nội dung chính gồm: khái niệm lãi kép gửi tiết kiệm có kỳ hạn; xây dựng công thức tính tổng số tiền nhận được (cả vốn lẫn lãi) sau N kì gửi tiết kiệm: A = P*(1+r)^N; thực hành giải toán thực tế tư vấn phương án gửi tiết kiệm tối ưu cho khách hàng."
+  },
+  {
+    "lessonId": "toan8_t1_hdtn_b2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 36,
+    "lessonContent": "Thực hiện tính toán trên đa thức với phần mềm GeoGebra (trang 113)\n- Thực hiện tính toán trên đa thức với phần mềm GeoGebra: Hướng dẫn sử dụng công cụ máy tính CAS trong GeoGebra để thực hiện các phép tính đại số phức tạp. Học sinh thực hành nhập đơn thức, đa thức; sử dụng lệnh Expand để khai triển các hằng đẳng thức; sử dụng lệnh Factor hoặc IFactor để phân tích đa thức thành nhân tử; thực hiện phép chia đa thức và tìm dư."
+  },
+  {
+    "lessonId": "toan8_t1_hdtn_b3",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 37,
+    "lessonContent": "Vẽ hình đơn giản với phần mềm GeoGebra (trang 115)\n- Vẽ hình đơn giản với phần mềm GeoGebra: Học sinh thực hành sử dụng các công cụ vẽ điểm, đoạn thẳng, đường vuông góc, đường song song, đường tròn để dựng các hình hình học phẳng cốt lõi gồm hình chữ nhật, hình bình hành, hình thang trên phần mềm GeoGebra. Rèn luyện kỹ năng lưu hình vẽ thành tệp ảnh phục vụ học tập."
+  },
+  {
+    "lessonId": "toan8_t1_hdtn_b4",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 38,
+    "lessonContent": "Phân tích đặc điểm khí hậu Việt Nam (trang 120)\n- Phân tích đặc điểm khí hậu Việt Nam: Hoạt động liên môn Toán học - Địa lý giúp học sinh thực hành xử lý số liệu thực tế. Học sinh tiến hành: thu thập dữ liệu về nhiệt độ, lượng mưa, độ ẩm các tháng tại một số địa phương; lập bảng thống kê; lựa chọn loại biểu đồ phù hợp để biểu diễn dữ liệu; phân tích đặc điểm và sự khác biệt khí hậu giữa các miền."
+  },
+  {
+    "lessonId": "toan8_t2_b21",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 39,
+    "lessonContent": "Bài 21: Phân thức đại số\n- Định nghĩa: Phân thức đại số là biểu thức có dạng A/B, trong đó A và B là các đa thức, B khác 0. A gọi là tử thức, B gọi là mẫu thức.\n- Hai phân thức bằng nhau: A/B = C/D nếu A.D = B.C.\n- Điều kiện xác định: Điều kiện của biến để mẫu thức B khác 0.\n- Giá trị của phân thức: Giá trị của biểu thức A/B tại các giá trị của biến thỏa mãn điều kiện xác định.\n- Từ khóa: Phân thức đại số, tử thức, mẫu thức, hai phân thức bằng nhau, điều kiện xác định."
+  },
+  {
+    "lessonId": "toan8_t2_b22",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 40,
+    "lessonContent": "Bài 22: Tính chất cơ bản của phân thức đại số\n- Tính chất cơ bản: Nhân cả tử và mẫu với cùng một đa thức khác 0, ta được phân thức bằng phân thức đã cho. Chia cả tử và mẫu cho một nhân tử chung, ta được phân thức bằng phân thức đã cho.\n- Quy tắc đổi dấu: A/B = -A/-B.\n- Rút gọn phân thức: Phân tích tử và mẫu thành nhân tử để tìm nhân tử chung, rồi chia cả tử và mẫu cho nhân tử chung đó.\n- Quy đồng mẫu thức nhiều phân thức: Tìm mẫu thức chung (MTC), tìm nhân tử phụ của từng phân thức, nhân cả tử và mẫu với nhân tử phụ tương ứng.\n- Từ khóa: Tính chất cơ bản, quy tắc đổi dấu, rút gọn phân thức, quy đồng mẫu thức."
+  },
+  {
+    "lessonId": "toan8_t2_ch6_ltc1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 41,
+    "lessonContent": "Luyện tập chung (trang 13)\n- Luyện tập chung (Chương VI): Thực hành củng cố khái niệm phân thức đại số và quy đồng mẫu thức nhiều phân thức. Nội dung trọng tâm gồm: tìm điều kiện xác định của phân thức; tính giá trị phân thức tại một giá trị cho trước; rút gọn phân thức bằng cách phân tích tử và mẫu thành nhân tử; xác định mẫu thức chung (MTC) và thực hiện quy đồng mẫu thức nhiều phân thức."
+  },
+  {
+    "lessonId": "toan8_t2_b23",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 42,
+    "lessonContent": "Bài 23: Phép cộng và phép trừ phân thức đại số\n- Cộng hai phân thức cùng mẫu: Cộng các tử thức với nhau và giữ nguyên mẫu thức.\n- Cộng hai phân thức khác mẫu: Quy đồng mẫu thức các phân thức rồi cộng các phân thức cùng mẫu vừa tìm được.\n- Trừ hai phân thức: Muốn trừ phân thức A/B cho phân thức C/D, ta cộng A/B với phân thức đối của C/D (tức là A/B - C/D = A/B + (-C/D)).\n- Từ khóa: Cộng phân thức, trừ phân thức, phân thức đối."
+  },
+  {
+    "lessonId": "toan8_t2_b24",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 43,
+    "lessonContent": "Bài 24: Phép nhân và phép chia phân thức đại số\n- Nhân hai phân thức: Nhân các tử thức với nhau và nhân các mẫu thức với nhau ((A/B).(C/D) = (A.C)/(B.D)).\n- Chia hai phân thức: Nhân phân thức bị chia với phân thức nghịch đảo của phân thức chia ((A/B) : (C/D) = (A/B).(D/C) với C/D khác 0).\n- Từ khóa: Nhân phân thức, chia phân thức, phân thức nghịch đảo."
+  },
+  {
+    "lessonId": "toan8_t2_ch6_ltc2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 44,
+    "lessonContent": "Luyện tập chung (trang 23)\n- Luyện tập chung (Chương VI): Tổng hợp kỹ năng thực hiện các phép tính trên phân thức đại số. Thực hành phối hợp các phép tính: cộng, trừ phân thức (cùng mẫu và khác mẫu), phép nhân và phép chia phân thức đại số; áp dụng quy tắc dấu ngoặc và tính chất giao hoán, kết hợp, phân phối để rút gọn các biểu thức phân thức phức tạp."
+  },
+  {
+    "lessonId": "toan8_t2_ch6_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân thức đại số",
+    "lessonOrder": 45,
+    "lessonContent": "Bài tập cuối chương VI (trang 25)\n- Bài tập cuối chương VI: Ôn tập toàn bộ chương Phân thức đại số qua hệ thống trắc nghiệm và tự luận. Tổng hợp kiến thức và kỹ năng giải quyết các dạng toán: rút gọn biểu thức chứa nhiều phép tính phân thức đại số; chứng minh biểu thức không phụ thuộc vào biến; tìm giá trị nguyên của x để biểu thức phân thức nhận giá trị nguyên; giải quyết bài toán thực tế sử dụng phân thức đại số."
+  },
+  {
+    "lessonId": "toan8_t2_b25",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 46,
+    "lessonContent": "Bài 25: Phương trình bậc nhất một ẩn\n- Định nghĩa phương trình bậc nhất một ẩn: Phương trình có dạng ax + b = 0, trong đó a và b là hai số đã cho, a khác 0.\n- Cách giải: Sử dụng quy tắc chuyển vế (chuyển hạng tử sang vế kia và đổi dấu) và quy tắc nhân (nhân cả hai vế với cùng một số khác 0). Nghiệm duy nhất là x = -b/a.\n- Từ khóa: Phương trình một ẩn, phương trình bậc nhất, quy tắc chuyển vế, quy tắc nhân."
+  },
+  {
+    "lessonId": "toan8_t2_b26",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 47,
+    "lessonContent": "Bài 26: Giải bài toán bằng cách lập phương trình\n- Bước 1. Lập phương trình: Chọn ẩn số và đặt điều kiện thích hợp cho ẩn; biểu diễn các đại lượng chưa biết theo ẩn và các đại lượng đã biết; lập phương trình biểu thị mối quan hệ giữa các đại lượng.\n- Bước 2. Giải phương trình.\n- Bước 3. Trả lời: Kiểm tra xem các nghiệm của phương trình có thỏa mãn điều kiện của ẩn hay không, rồi kết luận.\n- Từ khóa: Giải bài toán bằng cách lập phương trình, chọn ẩn số, lập phương trình."
+  },
+  {
+    "lessonId": "toan8_t2_ch7_ltc1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 48,
+    "lessonContent": "Luyện tập chung (trang 37)\n- Luyện tập chung (Chương VII): Củng cố kỹ năng giải phương trình bậc nhất một ẩn và giải bài toán bằng cách lập phương trình. Trọng tâm thực hành gồm: giải phương trình đưa được về dạng ax + b = 0 qua các bước quy đồng mẫu, khử mẫu, khai triển dấu ngoặc và thu gọn; thực hành đầy đủ các bước giải bài toán thực tế (kinh tế, hóa học, chuyển động) bằng cách lập phương trình."
+  },
+  {
+    "lessonId": "toan8_t2_b27",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 49,
+    "lessonContent": "Bài 27: Khái niệm hàm số và đồ thị của hàm số\n- Khái niệm hàm số: Nếu đại lượng y phụ thuộc vào đại lượng thay đổi x sao cho với mỗi giá trị của x ta luôn xác định được chỉ một giá trị tương ứng của y thì y được gọi là hàm số của x (x là biến số).\n- Mặt phẳng tọa độ Oxy: Gồm hai trục số Ox (trục hoành) và Oy (trục tung) vuông góc với nhau tại gốc O. Mỗi điểm M xác định bởi cặp số (x0; y0) là tọa độ của M.\n- Đồ thị của hàm số: Là tập hợp tất cả các điểm biểu diễn các cặp giá trị tương ứng (x; y) trên mặt phẳng tọa độ Oxy.\n- Từ khóa: Hàm số, biến số, mặt phẳng tọa độ Oxy, tọa độ, đồ thị hàm số."
+  },
+  {
+    "lessonId": "toan8_t2_b28",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 50,
+    "lessonContent": "Bài 28: Hàm số bậc nhất và đồ thị của hàm số bậc nhất\n- Định nghĩa hàm số bậc nhất: Hàm số cho bởi công thức y = ax + b, trong đó a, b là các số cho trước và a khác 0.\n- Đồ thị của hàm số bậc nhất y = ax + b (a khác 0) là một đường thẳng. Cách vẽ: Xác định hai điểm đặc biệt trên đồ thị (thường là giao điểm với hai trục tọa độ: P(0; b) và Q(-b/a; 0)), vẽ đường thẳng đi qua hai điểm đó.\n- Từ khóa: Hàm số bậc nhất, đồ thị hàm số bậc nhất, đường thẳng."
+  },
+  {
+    "lessonId": "toan8_t2_b29",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 51,
+    "lessonContent": "Bài 29: Hệ số góc của đường thẳng\n- Hệ số góc: Hệ số a trong phương trình y = ax + b được gọi là hệ số góc của đường thẳng y = ax + b.\n- Đường thẳng song song: Hai đường thẳng y = ax + b (a khác 0) và y = a'x + b' (a' khác 0) song song với nhau khi a = a', b khác b'.\n- Đường thẳng cắt nhau: Hai đường thẳng y = ax + b (a khác 0) và y = a'x + b' (a' khác 0) cắt nhau khi a khác a'.\n- Từ khóa: Hệ số góc, đường thẳng song song, đường thẳng cắt nhau."
+  },
+  {
+    "lessonId": "toan8_t2_ch7_ltc2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 52,
+    "lessonContent": "Luyện tập chung (trang 55)\n- Luyện tập chung (Chương VII): Tổng hợp kiến thức về hàm số bậc nhất và đồ thị. Thực hành các nội dung cốt lõi: xác định công thức hàm số bậc nhất; vẽ đồ thị hàm số bậc nhất y = ax + b (a khác 0) bằng cách tìm giao điểm với hai trục tọa độ; tìm hệ số góc a của đường thẳng; chứng minh hai đường thẳng song song hoặc cắt nhau dựa vào hệ số góc."
+  },
+  {
+    "lessonId": "toan8_t2_ch7_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "lessonOrder": 53,
+    "lessonContent": "Bài tập cuối chương VII (trang 57)\n- Bài tập cuối chương VII: Ôn tập tổng hợp chương Phương trình bậc nhất và hàm số bậc nhất. Hệ thống hóa các kiến thức trọng tâm qua trắc nghiệm và tự luận: giải phương trình bậc nhất; giải bài toán thực tế bằng cách lập phương trình; vẽ đồ thị và phân tích tính chất của hàm số bậc nhất; giải quyết các bài toán liên quan đến ứng dụng thực tiễn của hàm số."
+  },
+  {
+    "lessonId": "toan8_t2_b30",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+    "lessonOrder": 54,
+    "lessonContent": "Bài 30: Kết quả có thể và kết quả thuận lợi\n- Kết quả có thể: Các kết quả có thể xảy ra của một hành động, thực nghiệm.\n- Kết quả thuận lợi: Các kết quả của thực nghiệm làm cho một biến cố xảy ra được gọi là kết quả thuận lợi cho biến cố đó.\n- Từ khóa: Kết quả có thể, thực nghiệm, biến cố, kết quả thuận lợi."
+  },
+  {
+    "lessonId": "toan8_t2_b31",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+    "lessonOrder": 55,
+    "lessonContent": "Bài 31: Cách tính xác suất của biến cố bằng tỉ số\n- Công thức tính xác suất: Giả thiết các kết quả có thể của một thực nghiệm là đồng khả năng. Xác suất của biến cố E, kí hiệu là P(E), bằng tỉ số giữa số kết quả thuận lợi cho E và tổng số kết quả có thể: P(E) = (Số kết quả thuận lợi cho E) / (Tổng số kết quả có thể).\n- Từ khóa: Công thức tính xác suất, đồng khả năng, tỉ số."
+  },
+  {
+    "lessonId": "toan8_t2_b32",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+    "lessonOrder": 56,
+    "lessonContent": "Bài 32: Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng\n- Mối liên hệ: Xác suất thực nghiệm của biến cố E được ước lượng bằng xác suất của E khi số lần thực nghiệm n là đủ lớn: P(E) xấp xỉ k/n (với k là số lần biến cố E xảy ra).\n- Từ khóa: Xác suất thực nghiệm, ước lượng xác suất, thực nghiệm đủ lớn."
+  },
+  {
+    "lessonId": "toan8_t2_ch8_ltc",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+    "lessonOrder": 57,
+    "lessonContent": "Luyện tập chung (trang 74)\n- Luyện tập chung (Chương VIII): Củng cố kiến thức về xác suất của biến cố. Trọng tâm thực hành gồm: liệt kê tất cả các kết quả có thể xảy ra của một hành động, thực nghiệm; xác định các kết quả thuận lợi cho một biến cố; áp dụng công thức tính xác suất bằng tỉ số giữa số kết quả thuận lợi và tổng số kết quả có thể; ước lượng xác suất của biến cố dựa trên xác suất thực nghiệm."
+  },
+  {
+    "lessonId": "toan8_t2_ch8_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+    "lessonOrder": 58,
+    "lessonContent": "Bài tập cuối chương VIII (trang 76)\n- Bài tập cuối chương VIII: Ôn tập và củng cố toàn bộ chương Mở đầu về tính xác suất của biến cố. Học sinh thực hành giải quyết các bài toán xác suất thông qua trắc nghiệm và tự luận: tính xác suất của biến cố trong các trò chơi đơn giản (gieo xúc xắc, rút thẻ, chọn bóng); ứng dụng xác suất thực nghiệm để dự đoán số lần xảy ra sự kiện trong thực tế."
+  },
+  {
+    "lessonId": "toan8_t2_b33",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 59,
+    "lessonContent": "Bài 33: Hai tam giác đồng dạng\n- Định nghĩa: Tam giác A'B'C' gọi là đồng dạng với tam giác ABC nếu các cạnh tương ứng tỉ lệ và các góc tương ứng bằng nhau (A'B'/AB = B'C'/BC = A'C'/AC; góc A' = A, B' = B, C' = C).\n- Định lí: Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh còn lại thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\n- Từ khóa: Tam giác đồng dạng, tỉ số đồng dạng, cạnh tương ứng."
+  },
+  {
+    "lessonId": "toan8_t2_b34",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 60,
+    "lessonContent": "Bài 34: Ba trường hợp đồng dạng của hai tam giác\n- Trường hợp 1 (cạnh - cạnh - cạnh): Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng.\n- Trường hợp 2 (cạnh - góc - cạnh): Nếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau thì hai tam giác đó đồng dạng.\n- Trường hợp 3 (góc - góc): Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng.\n- Từ khóa: Trường hợp đồng dạng, cạnh-cạnh-cạnh, cạnh-góc-cạnh, góc-góc."
+  },
+  {
+    "lessonId": "toan8_t2_ch9_ltc1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 61,
+    "lessonContent": "Luyện tập chung (trang 91)\n- Luyện tập chung (Chương IX): Củng cố lý thuyết và kỹ năng chứng minh tam giác đồng dạng. Trọng tâm thực hành: chứng minh hai tam giác đồng dạng theo 3 trường hợp cơ bản (cạnh-cạnh-cạnh, cạnh-góc-cạnh, góc-góc); vận dụng tỉ số đồng dạng để tính độ dài đoạn thẳng và tỉ số diện tích giữa các tam giác đồng dạng; giải bài toán thực tế đo khoảng cách gián tiếp."
+  },
+  {
+    "lessonId": "toan8_t2_b35",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 62,
+    "lessonContent": "Bài 35: Định lí Pythagore và ứng dụng\n- Định lí Pythagore: Trong một tam giác vuông, bình phương của cạnh huyền bằng tổng các bình phương của hai cạnh góc vuông (BC^2 = AB^2 + AC^2).\n- Định lí Pythagore đảo: Nếu một tam giác có bình phương của một cạnh bằng tổng các bình phương của hai cạnh kia thì tam giác đó là tam giác vuông.\n- Từ khóa: Định lí Pythagore, định lí Pythagore đảo, tam giác vuông, cạnh huyền, cạnh góc vuông."
+  },
+  {
+    "lessonId": "toan8_t2_b36",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 63,
+    "lessonContent": "Bài 36: Các trường hợp đồng dạng của hai tam giác vuông\n- Các dấu hiệu đồng dạng của hai tam giác vuông: 1. Nếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia; 2. Nếu tam giác vuông này có hai cạnh góc vuông tỉ lệ với hai cạnh góc vuông của tam giác vuông kia; 3. (Định lí đặc biệt) Nếu cạnh huyền và một cạnh góc vuông của tam giác vuông này tỉ lệ với cạnh huyền và một cạnh góc vuông của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\n- Từ khóa: Tam giác vuông đồng dạng, cạnh huyền, cạnh góc vuông."
+  },
+  {
+    "lessonId": "toan8_t2_b37",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 64,
+    "lessonContent": "Bài 37: Hình đồng dạng\n- Hình đồng dạng phối cảnh: Hai hình gọi là đồng dạng phối cảnh nếu có một điểm O sao cho các cặp điểm tương ứng tỉ lệ khoảng cách tới O.\n- Hình đồng dạng: Hai hình gọi là đồng dạng nếu chúng có hình dạng giống nhau (hình này là phóng to hoặc thu nhỏ của hình kia).\n- Từ khóa: Hình đồng dạng, đồng dạng phối cảnh, phóng to, thu nhỏ."
+  },
+  {
+    "lessonId": "toan8_t2_ch9_ltc2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 65,
+    "lessonContent": "Luyện tập chung (trang 108)\n- Luyện tập chung (Chương IX): Ôn tập nâng cao và thực hành chứng minh hình học đồng dạng. Thực hành chứng minh tam giác đồng dạng trong tam giác vuông (áp dụng định lý Thalès, định lý Pythagore); nhận biết các hình đồng dạng, hình đồng dạng phối cảnh trong thực tiễn cuộc sống, nghệ thuật, tự nhiên và kiến trúc."
+  },
+  {
+    "lessonId": "toan8_t2_ch9_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Tam giác đồng dạng",
+    "lessonOrder": 66,
+    "lessonContent": "Bài tập cuối chương IX (trang 110)\n- Bài tập cuối chương IX: Hệ thống hóa toàn bộ kiến thức chương Tam giác đồng dạng qua câu hỏi trắc nghiệm và tự luận chứng minh tổng hợp. Học sinh thực hành vẽ hình, lập luận logic chứng minh các tam giác đồng dạng, chứng minh hệ thức hình học; áp dụng định lý Pythagore và tam giác đồng dạng giải quyết bài toán đo đạc thực tế phức tạp."
+  },
+  {
+    "lessonId": "toan8_t2_b38",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 67,
+    "lessonContent": "Bài 38: Hình chóp tam giác đều\n- Đặc điểm hình chóp tam giác đều: Đáy là một tam giác đều, các mặt bên là các tam giác cân bằng nhau chung đỉnh (đỉnh của hình chóp). Đường cao vẽ từ đỉnh tới đáy gặp đáy tại điểm cách đều các đỉnh của đáy.\n- Diện tích xung quanh: S_xq = p.d, trong đó p là nửa chu vi đáy, d là trung đoạn (độ dài đường cao vẽ từ đỉnh của mặt bên).\n- Thể tích: V = 1/3 S.h, trong đó S là diện tích đáy, h là chiều cao hình chóp.\n- Từ khóa: Hình chóp tam giác đều, diện tích xung quanh, thể tích, trung đoạn, chiều cao."
+  },
+  {
+    "lessonId": "toan8_t2_b39",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 68,
+    "lessonContent": "Bài 39: Hình chóp tứ giác đều\n- Đặc điểm hình chóp tứ giác đều: Đáy là hình vuông, các mặt bên là các tam giác cân bằng nhau chung đỉnh. Chân đường cao kẻ từ đỉnh tới đáy là giao điểm hai đường chéo của mặt đáy.\n- Diện tích xung quanh: S_xq = p.d, với p là nửa chu vi đáy, d là trung đoạn.\n- Thể tích: V = 1/3 S.h, với S là diện tích đáy (hình vuông), h là chiều cao hình chóp.\n- Từ khóa: Hình chóp tứ giác đều, mặt đáy hình vuông, diện tích xung quanh, thể tích."
+  },
+  {
+    "lessonId": "toan8_t2_ch10_ltc",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 69,
+    "lessonContent": "Luyện tập chung (trang 121)\n- Luyện tập chung (Chương X): Thực hành ôn tập tính chất và công thức của hình chóp đều. Trọng tâm gồm: nhận biết đỉnh, mặt bên, mặt đáy, chiều cao, trung đoạn của hình chóp tam giác đều và hình chóp tứ giác đều; vận dụng thành thạo các công thức tính diện tích xung quanh (S_xq = p*d) và thể tích (V = 1/3 * S * h) của hình chóp đều."
+  },
+  {
+    "lessonId": "toan8_t2_ch10_bt",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 70,
+    "lessonContent": "Bài tập cuối chương X (trang 123)\n- Bài tập cuối chương X: Ôn tập và tự đánh giá năng lực về hình khối trong thực tế. Giải các bài tập trắc nghiệm và tự luận tổng hợp liên quan đến hình chóp tam giác đều và hình chóp tứ giác đều: vẽ hình khai triển và dựng hình chóp; tính diện tích, thể tích hình chóp đều trong các mô hình thực tế (kim tự tháp, lều vải, khối bê tông, hộp quà)."
+  },
+  {
+    "lessonId": "toan8_t2_hdtn_b1",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 71,
+    "lessonContent": "Một vài ứng dụng của hàm số bậc nhất trong tài chính (trang 125)\n- Một vài ứng dụng của hàm số bậc nhất trong tài chính: Hoạt động thực hành giúp học sinh liên hệ Toán học với kinh tế thực tế. Học sinh tiến hành: xây dựng công thức hàm số bậc nhất biểu diễn chi phí dịch vụ (lắp đặt, cước phí) của các hãng viễn thông hoặc internet; tính giá trị sổ sách của tài sản bằng phương pháp khấu hao đường thẳng; lập bảng tính toán so sánh và vẽ đồ thị để lựa chọn dịch vụ kinh tế tối ưu."
+  },
+  {
+    "lessonId": "toan8_t2_hdtn_b2",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 72,
+    "lessonContent": "Ứng dụng định lí Thalès, định lí Pythagore và tam giác đồng dạng để đo chiều cao, khoảng cách (trang 128)\n- Ứng dụng định lí Thalès, định lí Pythagore và tam giác đồng dạng để đo chiều cao, khoảng cách: Thực hành đo đạc ngoài trời sử dụng dụng cụ ngắm, thước cuộn, giác kế để xác định gián tiếp các kích thước thực tế. Trọng tâm gồm: đo chiều cao ngọn cây, tòa nhà bằng định lý Thalès và bóng nắng; đo khoảng cách giữa hai điểm không tới được bằng tam giác đồng dạng và định lý Pythagore."
+  },
+  {
+    "lessonId": "toan8_t2_hdtn_b3",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 73,
+    "lessonContent": "Thực hành tính toán trên phân thức đại số và vẽ đồ thị hàm số với phần mềm GeoGebra (trang 130)\n- Thực hành tính toán trên phân thức đại số và vẽ đồ thị hàm số với phần mềm GeoGebra: Học sinh thực hành sử dụng phần mềm GeoGebra để giải quyết các bài toán đại số phức tạp. Nội dung gồm: rút gọn phân thức đại số bằng lệnh Simplify; cộng, trừ, nhân, chia phân thức; giải phương trình bậc nhất bằng lệnh Solve hoặc Solutions; vẽ đồ thị hàm số bậc nhất bằng cách nhập hàm số trực tiếp."
+  },
+  {
+    "lessonId": "toan8_t2_hdtn_b4",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 74,
+    "lessonContent": "Mô tả thí nghiệm ngẫu nhiên với phần mềm Excel (trang 133)\n- Mô tả thí nghiệm ngẫu nhiên với phần mềm Excel: Học sinh thực hành mô phỏng thực nghiệm toán học trên máy tính. Nội dung gồm: sử dụng hàm RANDBETWEEN để sinh số ngẫu nhiên mô phỏng hành động lấy bóng ngẫu nhiên trong túi kín; sử dụng hàm VLOOKUP để ánh xạ kết quả số sang màu sắc của bóng; sử dụng hàm COUNTIF để đếm tần suất và tính xác suất thực nghiệm."
+  },
+  {
+    "lessonId": "toan8_t2_otcn",
+    "grade": 8,
+    "subject": "Toán",
+    "chapterName": "Bài tập ôn tập cuối năm",
+    "lessonOrder": 75,
+    "lessonContent": "Bài tập ôn tập cuối năm (trang 135)\n- Bài tập ôn tập cuối năm: Tổng ôn tập kiến thức môn Toán lớp 8 toàn diện cả năm học về Số học, Đại số, Hình học phẳng, Thống kê và Xác suất. Học sinh thực hành giải quyết các bài tập tự luận tổng hợp: rút gọn biểu thức đại số và phân thức; giải phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình; chứng minh các tính chất hình học phẳng (tam giác đồng dạng, định lý Thalès); phân tích và vẽ biểu đồ thống kê, tính xác suất biến cố."
+  }
+]

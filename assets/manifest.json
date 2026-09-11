@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "available_data": [
     { "grade": 12, "subject": "toan", "path": "toan/12" },
     { "grade": 12, "subject": "vatly", "path": "vatly/12" },
@@ -27,6 +27,28 @@
     { "grade": 10, "subject": "dialy", "path": "dialy/10" },
     { "grade": 5, "subject": "toan", "path": "toan/5" },
     { "grade": 5, "subject": "nguvan", "path": "nguvan/5" },
-    { "grade": 5, "subject": "tienganh", "path": "tienganh/5" }
+    { "grade": 5, "subject": "tienganh", "path": "tienganh/5" },
+    { "grade": 5, "subject": "khoahoc", "path": "khoahoc/5" },
+    { "grade": 5, "subject": "lichsu", "path": "lichsu/5" },
+    { "grade": 6, "subject": "toan", "path": "toan/6" },
+    { "grade": 6, "subject": "nguvan", "path": "nguvan/6" },
+    { "grade": 6, "subject": "tienganh", "path": "tienganh/6" },
+    { "grade": 6, "subject": "khoahoc", "path": "khoahoc/6" },
+    { "grade": 6, "subject": "lichsu", "path": "lichsu/6" },
+    { "grade": 7, "subject": "toan", "path": "toan/7" },
+    { "grade": 7, "subject": "nguvan", "path": "nguvan/7" },
+    { "grade": 7, "subject": "tienganh", "path": "tienganh/7" },
+    { "grade": 7, "subject": "khoahoc", "path": "khoahoc/7" },
+    { "grade": 7, "subject": "lichsu", "path": "lichsu/7" },
+    { "grade": 8, "subject": "toan", "path": "toan/8" },
+    { "grade": 8, "subject": "nguvan", "path": "nguvan/8" },
+    { "grade": 8, "subject": "tienganh", "path": "tienganh/8" },
+    { "grade": 8, "subject": "khoahoc", "path": "khoahoc/8" },
+    { "grade": 8, "subject": "lichsu", "path": "lichsu/8" },
+    { "grade": 9, "subject": "toan", "path": "toan/9" },
+    { "grade": 9, "subject": "nguvan", "path": "nguvan/9" },
+    { "grade": 9, "subject": "tienganh", "path": "tienganh/9" },
+    { "grade": 9, "subject": "khoahoc", "path": "khoahoc/9" },
+    { "grade": 9, "subject": "lichsu", "path": "lichsu/9" }
   ]
 }

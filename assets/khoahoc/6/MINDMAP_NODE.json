@@ -1,0 +1,464 @@
+[
+  {
+    "nodeId": "root_khtn6",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "KHOA HỌC TỰ NHIÊN 6 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "khtn6_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương I. Mở đầu về Khoa học tự nhiên",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khtn6_node_l_1",
+    "lessonId": "khtn6_ch1_b1",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 1. Giới thiệu về Khoa học tự nhiên",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khtn6_node_l_2",
+    "lessonId": "khtn6_ch1_b2",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 2. An toàn trong phòng thực hành",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khtn6_node_l_3",
+    "lessonId": "khtn6_ch1_b3",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 3. Sử dụng kính lúp",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khtn6_node_l_4",
+    "lessonId": "khtn6_ch1_b4",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 4. Sử dụng kính hiển vi quang học",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khtn6_node_l_5",
+    "lessonId": "khtn6_ch1_b5",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 5. Đo chiều dài",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khtn6_node_l_6",
+    "lessonId": "khtn6_ch1_b6",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 6. Đo khối lượng",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khtn6_node_l_7",
+    "lessonId": "khtn6_ch1_b7",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 7. Đo thời gian",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "khtn6_node_l_8",
+    "lessonId": "khtn6_ch1_b8",
+    "parentNodeId": "khtn6_node_ch1",
+    "nodeName": "Bài 8. Đo nhiệt độ",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "khtn6_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương II. Chất quanh ta",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khtn6_node_l_9",
+    "lessonId": "khtn6_ch2_b9",
+    "parentNodeId": "khtn6_node_ch2",
+    "nodeName": "Bài 9. Sự đa dạng của chất",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "khtn6_node_l_10",
+    "lessonId": "khtn6_ch2_b10",
+    "parentNodeId": "khtn6_node_ch2",
+    "nodeName": "Bài 10. Các thể của chất và sự chuyển thể",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "khtn6_node_l_11",
+    "lessonId": "khtn6_ch2_b11",
+    "parentNodeId": "khtn6_node_ch2",
+    "nodeName": "Bài 11. Oxygen. Không khí",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "khtn6_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương III. Một số vật liệu, nguyên liệu, nhiên liệu, lương thực - thực phẩm thông dụng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khtn6_node_l_12",
+    "lessonId": "khtn6_ch3_b12",
+    "parentNodeId": "khtn6_node_ch3",
+    "nodeName": "Bài 12. Một số vật liệu",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "khtn6_node_l_13",
+    "lessonId": "khtn6_ch3_b13",
+    "parentNodeId": "khtn6_node_ch3",
+    "nodeName": "Bài 13. Một số nguyên liệu",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "khtn6_node_l_14",
+    "lessonId": "khtn6_ch3_b14",
+    "parentNodeId": "khtn6_node_ch3",
+    "nodeName": "Bài 14. Một số nhiên liệu",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "khtn6_node_l_15",
+    "lessonId": "khtn6_ch3_b15",
+    "parentNodeId": "khtn6_node_ch3",
+    "nodeName": "Bài 15. Một số lương thực, thực phẩm",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "khtn6_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương IV. Hỗn hợp. Tách chất ra khỏi hỗn hợp",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khtn6_node_l_16",
+    "lessonId": "khtn6_ch4_b16",
+    "parentNodeId": "khtn6_node_ch4",
+    "nodeName": "Bài 16. Hỗn hợp các chất",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "khtn6_node_l_17",
+    "lessonId": "khtn6_ch4_b17",
+    "parentNodeId": "khtn6_node_ch4",
+    "nodeName": "Bài 17. Tách chất khỏi hỗn hợp",
+    "orderIndex": 17
+  },
+  {
+    "nodeId": "khtn6_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương V. Tế bào",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khtn6_node_l_18",
+    "lessonId": "khtn6_ch5_b18",
+    "parentNodeId": "khtn6_node_ch5",
+    "nodeName": "Bài 18. Tế bào - Đơn vị cơ bản của sự sống",
+    "orderIndex": 18
+  },
+  {
+    "nodeId": "khtn6_node_l_19",
+    "lessonId": "khtn6_ch5_b19",
+    "parentNodeId": "khtn6_node_ch5",
+    "nodeName": "Bài 19. Cấu tạo và chức năng các thành phần của tế bào",
+    "orderIndex": 19
+  },
+  {
+    "nodeId": "khtn6_node_l_20",
+    "lessonId": "khtn6_ch5_b20",
+    "parentNodeId": "khtn6_node_ch5",
+    "nodeName": "Bài 20. Sự lớn lên và sinh sản của tế bào",
+    "orderIndex": 20
+  },
+  {
+    "nodeId": "khtn6_node_l_21",
+    "lessonId": "khtn6_ch5_b21",
+    "parentNodeId": "khtn6_node_ch5",
+    "nodeName": "Bài 21. Thực hành: Quan sát và phân biệt một số loại tế bào",
+    "orderIndex": 21
+  },
+  {
+    "nodeId": "khtn6_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương VI. Từ tế bào đến cơ thể",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khtn6_node_l_22",
+    "lessonId": "khtn6_ch6_b22",
+    "parentNodeId": "khtn6_node_ch6",
+    "nodeName": "Bài 22. Cơ thể sinh vật",
+    "orderIndex": 22
+  },
+  {
+    "nodeId": "khtn6_node_l_23",
+    "lessonId": "khtn6_ch6_b23",
+    "parentNodeId": "khtn6_node_ch6",
+    "nodeName": "Bài 23. Tổ chức cơ thể đa bào",
+    "orderIndex": 23
+  },
+  {
+    "nodeId": "khtn6_node_l_24",
+    "lessonId": "khtn6_ch6_b24",
+    "parentNodeId": "khtn6_node_ch6",
+    "nodeName": "Bài 24. Thực hành: Quan sát và mô tả cơ thể đơn bào, cơ thể đa bào",
+    "orderIndex": 24
+  },
+  {
+    "nodeId": "khtn6_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương VII. Đa dạng thế giới sống",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "khtn6_node_l_25",
+    "lessonId": "khtn6_ch7_b25",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 25. Hệ thống phân loại sinh vật",
+    "orderIndex": 25
+  },
+  {
+    "nodeId": "khtn6_node_l_26",
+    "lessonId": "khtn6_ch7_b26",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 26. Khoá lưỡng phân",
+    "orderIndex": 26
+  },
+  {
+    "nodeId": "khtn6_node_l_27",
+    "lessonId": "khtn6_ch7_b27",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 27. Vi khuẩn",
+    "orderIndex": 27
+  },
+  {
+    "nodeId": "khtn6_node_l_28",
+    "lessonId": "khtn6_ch7_b28",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 28. Thực hành: Làm sữa chua và quan sát vi khuẩn",
+    "orderIndex": 28
+  },
+  {
+    "nodeId": "khtn6_node_l_29",
+    "lessonId": "khtn6_ch7_b29",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 29. Virus",
+    "orderIndex": 29
+  },
+  {
+    "nodeId": "khtn6_node_l_30",
+    "lessonId": "khtn6_ch7_b30",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 30. Nguyên sinh vật",
+    "orderIndex": 30
+  },
+  {
+    "nodeId": "khtn6_node_l_31",
+    "lessonId": "khtn6_ch7_b31",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 31. Thực hành: Quan sát nguyên sinh vật",
+    "orderIndex": 31
+  },
+  {
+    "nodeId": "khtn6_node_l_32",
+    "lessonId": "khtn6_ch7_b32",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 32. Nấm",
+    "orderIndex": 32
+  },
+  {
+    "nodeId": "khtn6_node_l_33",
+    "lessonId": "khtn6_ch7_b33",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 33. Thực hành: Quan sát các loại nấm",
+    "orderIndex": 33
+  },
+  {
+    "nodeId": "khtn6_node_l_34",
+    "lessonId": "khtn6_ch7_b34",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 34. Thực vật",
+    "orderIndex": 34
+  },
+  {
+    "nodeId": "khtn6_node_l_35",
+    "lessonId": "khtn6_ch7_b35",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 35. Thực hành: Quan sát và phân biệt một số nhóm thực vật",
+    "orderIndex": 35
+  },
+  {
+    "nodeId": "khtn6_node_l_36",
+    "lessonId": "khtn6_ch7_b36",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 36. Động vật",
+    "orderIndex": 36
+  },
+  {
+    "nodeId": "khtn6_node_l_37",
+    "lessonId": "khtn6_ch7_b37",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 37. Thực hành: Quan sát và nhận biết một số nhóm động vật ngoài thiên nhiên",
+    "orderIndex": 37
+  },
+  {
+    "nodeId": "khtn6_node_l_38",
+    "lessonId": "khtn6_ch7_b38",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 38. Đa dạng sinh học",
+    "orderIndex": 38
+  },
+  {
+    "nodeId": "khtn6_node_l_39",
+    "lessonId": "khtn6_ch7_b39",
+    "parentNodeId": "khtn6_node_ch7",
+    "nodeName": "Bài 39. Tìm hiểu sinh vật ngoài thiên nhiên",
+    "orderIndex": 39
+  },
+  {
+    "nodeId": "khtn6_node_ch8",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương VIII. Lực trong đời sống",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "khtn6_node_l_40",
+    "lessonId": "khtn6_ch8_b40",
+    "parentNodeId": "khtn6_node_ch8",
+    "nodeName": "Bài 40. Lực là gì?",
+    "orderIndex": 40
+  },
+  {
+    "nodeId": "khtn6_node_l_41",
+    "lessonId": "khtn6_ch8_b41",
+    "parentNodeId": "khtn6_node_ch8",
+    "nodeName": "Bài 41. Biểu diễn lực",
+    "orderIndex": 41
+  },
+  {
+    "nodeId": "khtn6_node_l_42",
+    "lessonId": "khtn6_ch8_b42",
+    "parentNodeId": "khtn6_node_ch8",
+    "nodeName": "Bài 42. Biến dạng của lò xo",
+    "orderIndex": 42
+  },
+  {
+    "nodeId": "khtn6_node_l_43",
+    "lessonId": "khtn6_ch8_b43",
+    "parentNodeId": "khtn6_node_ch8",
+    "nodeName": "Bài 43. Trọng lượng, lực hấp dẫn",
+    "orderIndex": 43
+  },
+  {
+    "nodeId": "khtn6_node_l_44",
+    "lessonId": "khtn6_ch8_b44",
+    "parentNodeId": "khtn6_node_ch8",
+    "nodeName": "Bài 44. Lực ma sát",
+    "orderIndex": 44
+  },
+  {
+    "nodeId": "khtn6_node_l_45",
+    "lessonId": "khtn6_ch8_b45",
+    "parentNodeId": "khtn6_node_ch8",
+    "nodeName": "Bài 45. Lực cản của nước",
+    "orderIndex": 45
+  },
+  {
+    "nodeId": "khtn6_node_ch9",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương IX. Năng lượng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "khtn6_node_l_46",
+    "lessonId": "khtn6_ch9_b46",
+    "parentNodeId": "khtn6_node_ch9",
+    "nodeName": "Bài 46. Năng lượng và sự truyền năng lượng",
+    "orderIndex": 46
+  },
+  {
+    "nodeId": "khtn6_node_l_47",
+    "lessonId": "khtn6_ch9_b47",
+    "parentNodeId": "khtn6_node_ch9",
+    "nodeName": "Bài 47. Một số dạng năng lượng",
+    "orderIndex": 47
+  },
+  {
+    "nodeId": "khtn6_node_l_48",
+    "lessonId": "khtn6_ch9_b48",
+    "parentNodeId": "khtn6_node_ch9",
+    "nodeName": "Bài 48. Sự chuyển hoá năng lượng",
+    "orderIndex": 48
+  },
+  {
+    "nodeId": "khtn6_node_l_49",
+    "lessonId": "khtn6_ch9_b49",
+    "parentNodeId": "khtn6_node_ch9",
+    "nodeName": "Bài 49. Năng lượng hao phí",
+    "orderIndex": 49
+  },
+  {
+    "nodeId": "khtn6_node_l_50",
+    "lessonId": "khtn6_ch9_b50",
+    "parentNodeId": "khtn6_node_ch9",
+    "nodeName": "Bài 50. Năng lượng tái tạo",
+    "orderIndex": 50
+  },
+  {
+    "nodeId": "khtn6_node_l_51",
+    "lessonId": "khtn6_ch9_b51",
+    "parentNodeId": "khtn6_node_ch9",
+    "nodeName": "Bài 51. Tiết kiệm năng lượng",
+    "orderIndex": 51
+  },
+  {
+    "nodeId": "khtn6_node_ch10",
+    "lessonId": null,
+    "parentNodeId": "root_khtn6",
+    "nodeName": "Chương X. Trái Đất và bầu trời",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "khtn6_node_l_52",
+    "lessonId": "khtn6_ch10_b52",
+    "parentNodeId": "khtn6_node_ch10",
+    "nodeName": "Bài 52. Chuyển động nhìn thấy của Mặt Trời. Thiên thể",
+    "orderIndex": 52
+  },
+  {
+    "nodeId": "khtn6_node_l_53",
+    "lessonId": "khtn6_ch10_b53",
+    "parentNodeId": "khtn6_node_ch10",
+    "nodeName": "Bài 53. Mặt Trăng",
+    "orderIndex": 53
+  },
+  {
+    "nodeId": "khtn6_node_l_54",
+    "lessonId": "khtn6_ch10_b54",
+    "parentNodeId": "khtn6_node_ch10",
+    "nodeName": "Bài 54. Hệ Mặt Trời",
+    "orderIndex": 54
+  },
+  {
+    "nodeId": "khtn6_node_l_55",
+    "lessonId": "khtn6_ch10_b55",
+    "parentNodeId": "khtn6_node_ch10",
+    "nodeName": "Bài 55. Ngân Hà",
+    "orderIndex": 55
+  }
+]

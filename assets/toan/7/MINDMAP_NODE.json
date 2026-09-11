@@ -1,0 +1,590 @@
+[
+  {
+    "nodeId": "root_toan7",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TOÁN 7 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "toan7_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_toan7",
+    "nodeName": "Toán 7 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan7_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_toan7",
+    "nodeName": "Toán 7 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan7_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol1",
+    "nodeName": "Chương I. Số hữu tỉ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan7_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol1",
+    "nodeName": "Chương II. Số thực",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan7_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol1",
+    "nodeName": "Chương III. Góc và đường thẳng song song",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan7_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol1",
+    "nodeName": "Chương IV. Tam giác bằng nhau",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan7_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol1",
+    "nodeName": "Chương V. Thu thập và biểu diễn dữ liệu",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan7_node_t2_ch6",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol2",
+    "nodeName": "Chương VI. Tỉ lệ thức và đại lượng tỉ lệ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan7_node_t2_ch7",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol2",
+    "nodeName": "Chương VII. Biểu thức đại số và đa thức một biến",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan7_node_t2_ch8",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol2",
+    "nodeName": "Chương VIII. Làm quen với biến cố và xác suất của biến cố",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan7_node_t2_ch9",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol2",
+    "nodeName": "Chương IX. Quan hệ giữa các yếu tố trong một tam giác",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan7_node_t2_ch10",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol2",
+    "nodeName": "Chương X. Một số hình khối trong thực tiễn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan7_node_t1_hdtn",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol1",
+    "nodeName": "Hoạt động thực hành trải nghiệm (Tập Một)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan7_node_t2_hdtn",
+    "lessonId": null,
+    "parentNodeId": "toan7_node_vol2",
+    "nodeName": "Hoạt động thực hành trải nghiệm (Tập Hai)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t1_b1",
+    "lessonId": "toan7_t1_b1",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Bài 1. Tập hợp các số hữu tỉ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t1_b2",
+    "lessonId": "toan7_t1_b2",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Bài 2. Cộng, trừ, nhân, chia số hữu tỉ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc1",
+    "lessonId": "toan7_t1_ltc1",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Luyện tập chung (trang 14)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t1_b3",
+    "lessonId": "toan7_t1_b3",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Bài 3. Lũy thừa với số mũ tự nhiên của một số hữu tỉ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t1_b4",
+    "lessonId": "toan7_t1_b4",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Bài 4. Thứ tự thực hiện các phép tính. Quy tắc chuyển vế",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc2",
+    "lessonId": "toan7_t1_ltc2",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Luyện tập chung (trang 22)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t1_cuoichuong1",
+    "lessonId": "toan7_t1_cuoichuong1",
+    "parentNodeId": "toan7_node_t1_ch1",
+    "nodeName": "Bài tập cuối chương I",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan7_t1_b5",
+    "lessonId": "toan7_t1_b5",
+    "parentNodeId": "toan7_node_t1_ch2",
+    "nodeName": "Bài 5. Làm quen với số thập phân vô hạn tuần hoàn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t1_b6",
+    "lessonId": "toan7_t1_b6",
+    "parentNodeId": "toan7_node_t1_ch2",
+    "nodeName": "Bài 6. Số vô tỉ. Căn bậc hai số học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t1_b7",
+    "lessonId": "toan7_t1_b7",
+    "parentNodeId": "toan7_node_t1_ch2",
+    "nodeName": "Bài 7. Tập hợp các số thực",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc3",
+    "lessonId": "toan7_t1_ltc3",
+    "parentNodeId": "toan7_node_t1_ch2",
+    "nodeName": "Luyện tập chung (trang 38)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t1_cuoichuong2",
+    "lessonId": "toan7_t1_cuoichuong2",
+    "parentNodeId": "toan7_node_t1_ch2",
+    "nodeName": "Bài tập cuối chương II",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t1_b8",
+    "lessonId": "toan7_t1_b8",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Bài 8. Góc ở vị trí đặc biệt. Tia phân giác của một góc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t1_b9",
+    "lessonId": "toan7_t1_b9",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Bài 9. Hai đường thẳng song song và dấu hiệu nhận biết",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc4",
+    "lessonId": "toan7_t1_ltc4",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Luyện tập chung (trang 50)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t1_b10",
+    "lessonId": "toan7_t1_b10",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Bài 10. Tiên đề Euclid. Tính chất của hai đường thẳng song song",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t1_b11",
+    "lessonId": "toan7_t1_b11",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Bài 11. Định lí và chứng minh định lí",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc5",
+    "lessonId": "toan7_t1_ltc5",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Luyện tập chung (trang 56)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t1_cuoichuong3",
+    "lessonId": "toan7_t1_cuoichuong3",
+    "parentNodeId": "toan7_node_t1_ch3",
+    "nodeName": "Bài tập cuối chương III",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan7_t1_b12",
+    "lessonId": "toan7_t1_b12",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Bài 12. Tổng các góc trong một tam giác",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t1_b13",
+    "lessonId": "toan7_t1_b13",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Bài 13. Hai tam giác bằng nhau. Trường hợp bằng nhau thứ nhất của tam giác",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc6",
+    "lessonId": "toan7_t1_ltc6",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Luyện tập chung (trang 69)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t1_b14",
+    "lessonId": "toan7_t1_b14",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Bài 14. Trường hợp bằng nhau thứ hai và thứ ba của tam giác",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc7",
+    "lessonId": "toan7_t1_ltc7",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Luyện tập chung (trang 74)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t1_b15",
+    "lessonId": "toan7_t1_b15",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Bài 15. Các trường hợp bằng nhau của tam giác vuông",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t1_b16",
+    "lessonId": "toan7_t1_b16",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Bài 16. Tam giác cân. Đường trung trực của đoạn thẳng",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc8",
+    "lessonId": "toan7_t1_ltc8",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Luyện tập chung (trang 85)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_toan7_t1_cuoichuong4",
+    "lessonId": "toan7_t1_cuoichuong4",
+    "parentNodeId": "toan7_node_t1_ch4",
+    "nodeName": "Bài tập cuối chương IV",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_toan7_t1_b17",
+    "lessonId": "toan7_t1_b17",
+    "parentNodeId": "toan7_node_t1_ch5",
+    "nodeName": "Bài 17. Thu thập và phân loại dữ liệu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t1_b18",
+    "lessonId": "toan7_t1_b18",
+    "parentNodeId": "toan7_node_t1_ch5",
+    "nodeName": "Bài 18. Biểu đồ hình quạt tròn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t1_b19",
+    "lessonId": "toan7_t1_b19",
+    "parentNodeId": "toan7_node_t1_ch5",
+    "nodeName": "Bài 19. Biểu đồ đoạn thẳng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t1_ltc9",
+    "lessonId": "toan7_t1_ltc9",
+    "parentNodeId": "toan7_node_t1_ch5",
+    "nodeName": "Luyện tập chung (trang 101)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t1_cuoichuong5",
+    "lessonId": "toan7_t1_cuoichuong5",
+    "parentNodeId": "toan7_node_t1_ch5",
+    "nodeName": "Bài tập cuối chương V",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t1_hdtn1",
+    "lessonId": "toan7_t1_hdtn1",
+    "parentNodeId": "toan7_node_t1_hdtn",
+    "nodeName": "Vẽ hình đơn giản với phần mềm GeoGebra",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t1_hdtn2",
+    "lessonId": "toan7_t1_hdtn2",
+    "parentNodeId": "toan7_node_t1_hdtn",
+    "nodeName": "Dân số và cơ cấu dân số Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_b20",
+    "lessonId": "toan7_t2_b20",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Bài 20. Tỉ lệ thức",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t2_b21",
+    "lessonId": "toan7_t2_b21",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Bài 21. Tính chất của dãy tỉ số bằng nhau",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc10",
+    "lessonId": "toan7_t2_ltc10",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Luyện tập chung (trang 10)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t2_b22",
+    "lessonId": "toan7_t2_b22",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Bài 22. Đại lượng tỉ lệ thuận",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t2_b23",
+    "lessonId": "toan7_t2_b23",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Bài 23. Đại lượng tỉ lệ nghịch",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc11",
+    "lessonId": "toan7_t2_ltc11",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Luyện tập chung (trang 20)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t2_cuoichuong6",
+    "lessonId": "toan7_t2_cuoichuong6",
+    "parentNodeId": "toan7_node_t2_ch6",
+    "nodeName": "Bài tập cuối chương VI",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan7_t2_b24",
+    "lessonId": "toan7_t2_b24",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Bài 24. Biểu thức đại số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t2_b25",
+    "lessonId": "toan7_t2_b25",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Bài 25. Đa thức một biến",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc12",
+    "lessonId": "toan7_t2_ltc12",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Luyện tập chung (trang 31)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t2_b26",
+    "lessonId": "toan7_t2_b26",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Bài 26. Phép cộng và phép trừ đa thức một biến",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t2_b27",
+    "lessonId": "toan7_t2_b27",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Bài 27. Phép nhân đa thức một biến",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t2_b28",
+    "lessonId": "toan7_t2_b28",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Bài 28. Phép chia đa thức một biến",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc13",
+    "lessonId": "toan7_t2_ltc13",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Luyện tập chung (trang 45)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan7_t2_cuoichuong7",
+    "lessonId": "toan7_t2_cuoichuong7",
+    "parentNodeId": "toan7_node_t2_ch7",
+    "nodeName": "Bài tập cuối chương VII",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_toan7_t2_b29",
+    "lessonId": "toan7_t2_b29",
+    "parentNodeId": "toan7_node_t2_ch8",
+    "nodeName": "Bài 29. Làm quen với biến cố",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t2_b30",
+    "lessonId": "toan7_t2_b30",
+    "parentNodeId": "toan7_node_t2_ch8",
+    "nodeName": "Bài 30. Làm quen với xác suất của biến cố",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc14",
+    "lessonId": "toan7_t2_ltc14",
+    "parentNodeId": "toan7_node_t2_ch8",
+    "nodeName": "Luyện tập chung (trang 56)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t2_cuoichuong8",
+    "lessonId": "toan7_t2_cuoichuong8",
+    "parentNodeId": "toan7_node_t2_ch8",
+    "nodeName": "Bài tập cuối chương VIII",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t2_b31",
+    "lessonId": "toan7_t2_b31",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Bài 31. Quan hệ giữa góc và cạnh đối diện trong một tam giác",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t2_b32",
+    "lessonId": "toan7_t2_b32",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Bài 32. Quan hệ giữa đường vuông góc và đường xiên",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc15",
+    "lessonId": "toan7_t2_ltc15",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Luyện tập chung (trang 69)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t2_b33",
+    "lessonId": "toan7_t2_b33",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Bài 33. Quan hệ giữa ba cạnh của một tam giác",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t2_b34",
+    "lessonId": "toan7_t2_b34",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Bài 34. Sự đồng quy của ba đường trung tuyến, ba đường phân giác trong một tam giác",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan7_t2_b35",
+    "lessonId": "toan7_t2_b35",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Bài 35. Sự đồng quy của ba đường trung trực, ba đường cao trong một tam giác",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc16",
+    "lessonId": "toan7_t2_ltc16",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Luyện tập chung (trang 83)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan7_t2_cuoichuong9",
+    "lessonId": "toan7_t2_cuoichuong9",
+    "parentNodeId": "toan7_node_t2_ch9",
+    "nodeName": "Bài tập cuối chương IX",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_toan7_t2_b36",
+    "lessonId": "toan7_t2_b36",
+    "parentNodeId": "toan7_node_t2_ch10",
+    "nodeName": "Bài 36. Hình hộp chữ nhật và hình lập phương",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t2_b37",
+    "lessonId": "toan7_t2_b37",
+    "parentNodeId": "toan7_node_t2_ch10",
+    "nodeName": "Bài 37. Hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_ltc17",
+    "lessonId": "toan7_t2_ltc17",
+    "parentNodeId": "toan7_node_t2_ch10",
+    "nodeName": "Luyện tập chung (trang 101)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan7_t2_cuoichuong10",
+    "lessonId": "toan7_t2_cuoichuong10",
+    "parentNodeId": "toan7_node_t2_ch10",
+    "nodeName": "Bài tập cuối chương X",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan7_t2_hdtn1",
+    "lessonId": "toan7_t2_hdtn1",
+    "parentNodeId": "toan7_node_t2_hdtn",
+    "nodeName": "Đại lượng tỉ lệ trong đời sống",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan7_t2_hdtn2",
+    "lessonId": "toan7_t2_hdtn2",
+    "parentNodeId": "toan7_node_t2_hdtn",
+    "nodeName": "Vòng quay may mắn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan7_t2_hdtn3",
+    "lessonId": "toan7_t2_hdtn3",
+    "parentNodeId": "toan7_node_t2_hdtn",
+    "nodeName": "Hộp quà và chân đế lịch để bàn của em",
+    "orderIndex": 3
+  }
+]

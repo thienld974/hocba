@@ -1,0 +1,814 @@
+[
+  {
+    "nodeId": "root_nguvan6",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 6 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan6_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan6",
+    "nodeName": "Ngữ văn 6 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan6_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan6",
+    "nodeName": "Ngữ văn 6 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan6_v1_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol1",
+    "nodeName": "Bài 1. Tôi và các bạn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t1",
+    "lessonId": "nguvan6_t1_b1_t1",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Tri thức ngữ văn (trang 11)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t2",
+    "lessonId": "nguvan6_t1_b1_t2",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Bài học đường đời đầu tiên (trang 12)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t3",
+    "lessonId": "nguvan6_t1_b1_t3",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Thực hành tiếng Việt (trang 21)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t4",
+    "lessonId": "nguvan6_t1_b1_t4",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Nếu cậu muốn có một người bạn... (trang 22)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t5",
+    "lessonId": "nguvan6_t1_b1_t5",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Thực hành tiếng Việt (trang 29)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t6",
+    "lessonId": "nguvan6_t1_b1_t6",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Bắt nạt (trang 30)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t7",
+    "lessonId": "nguvan6_t1_b1_t7",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Viết: Viết bài văn kể lại một trải nghiệm của em (trang 32)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t8",
+    "lessonId": "nguvan6_t1_b1_t8",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Nói và nghe: Kể lại một trải nghiệm của em (trang 35)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t9",
+    "lessonId": "nguvan6_t1_b1_t9",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Củng cố, mở rộng (trang 37)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b1_t10",
+    "lessonId": "nguvan6_t1_b1_t10",
+    "parentNodeId": "nguvan6_v1_ch1",
+    "nodeName": "Thực hành đọc: Cốc kem dành cho người thông minh (trang 38)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan6_v1_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol1",
+    "nodeName": "Bài 2. Gõ cửa trái tim",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t1",
+    "lessonId": "nguvan6_t1_b2_t1",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Tri thức ngữ văn (trang 43)",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t2",
+    "lessonId": "nguvan6_t1_b2_t2",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Chuyện cổ tích về loài người (trang 44)",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t3",
+    "lessonId": "nguvan6_t1_b2_t3",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Thực hành tiếng Việt (trang 48)",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t4",
+    "lessonId": "nguvan6_t1_b2_t4",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Mây và sóng (trang 49)",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t5",
+    "lessonId": "nguvan6_t1_b2_t5",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Thực hành tiếng Việt (trang 52)",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t6",
+    "lessonId": "nguvan6_t1_b2_t6",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Bức tranh của em gái tôi (trang 53)",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t7",
+    "lessonId": "nguvan6_t1_b2_t7",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Viết: Viết đoạn văn ghi lại cảm xúc về một bài thơ có yếu tố tự sự và miêu tả (trang 57)",
+    "orderIndex": 17
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t8",
+    "lessonId": "nguvan6_t1_b2_t8",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một vấn đề trong đời sống gia đình (trang 60)",
+    "orderIndex": 18
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t9",
+    "lessonId": "nguvan6_t1_b2_t9",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Củng cố, mở rộng (trang 62)",
+    "orderIndex": 19
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b2_t10",
+    "lessonId": "nguvan6_t1_b2_t10",
+    "parentNodeId": "nguvan6_v1_ch2",
+    "nodeName": "Thực hành đọc: Những cánh buồm (trang 63)",
+    "orderIndex": 20
+  },
+  {
+    "nodeId": "nguvan6_v1_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol1",
+    "nodeName": "Bài 3. Yêu thương và chia sẻ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t1",
+    "lessonId": "nguvan6_t1_b3_t1",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Tri thức ngữ văn (trang 66)",
+    "orderIndex": 21
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t2",
+    "lessonId": "nguvan6_t1_b3_t2",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Cô bé bán diêm (trang 67)",
+    "orderIndex": 22
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t3",
+    "lessonId": "nguvan6_t1_b3_t3",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Thực hành tiếng Việt (trang 73)",
+    "orderIndex": 23
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t4",
+    "lessonId": "nguvan6_t1_b3_t4",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Gió lạnh đầu mùa (trang 74)",
+    "orderIndex": 24
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t5",
+    "lessonId": "nguvan6_t1_b3_t5",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Thực hành tiếng Việt (trang 81)",
+    "orderIndex": 25
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t6",
+    "lessonId": "nguvan6_t1_b3_t6",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Con chào mào (trang 82)",
+    "orderIndex": 26
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t7",
+    "lessonId": "nguvan6_t1_b3_t7",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Viết: Viết bài văn kể lại một trải nghiệm của em (trang 84)",
+    "orderIndex": 27
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t8",
+    "lessonId": "nguvan6_t1_b3_t8",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Nói và nghe: Kể lại một trải nghiệm của em (trang 89)",
+    "orderIndex": 28
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t9",
+    "lessonId": "nguvan6_t1_b3_t9",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Củng cố, mở rộng (trang 90)",
+    "orderIndex": 29
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t10",
+    "lessonId": "nguvan6_t1_b3_t10",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Thực hành đọc: Lắc-ki thực sự may mắn (trang 91)",
+    "orderIndex": 30
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b3_t11",
+    "lessonId": "nguvan6_t1_b3_t11",
+    "parentNodeId": "nguvan6_v1_ch3",
+    "nodeName": "Đọc mở rộng (trang 95)",
+    "orderIndex": 31
+  },
+  {
+    "nodeId": "nguvan6_v1_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol1",
+    "nodeName": "Bài 4. Quê hương yêu dấu",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t1",
+    "lessonId": "nguvan6_t1_b4_t1",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Tri thức ngữ văn (trang 97)",
+    "orderIndex": 32
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t2",
+    "lessonId": "nguvan6_t1_b4_t2",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Chùm ca dao về quê hương đất nước (trang 98)",
+    "orderIndex": 33
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t3",
+    "lessonId": "nguvan6_t1_b4_t3",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Thực hành tiếng Việt (trang 101)",
+    "orderIndex": 34
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t4",
+    "lessonId": "nguvan6_t1_b4_t4",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Chuyện cổ nước mình (trang 102)",
+    "orderIndex": 35
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t5",
+    "lessonId": "nguvan6_t1_b4_t5",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Cây tre Việt Nam (trang 104)",
+    "orderIndex": 36
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t6",
+    "lessonId": "nguvan6_t1_b4_t6",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Thực hành tiếng Việt (trang 108)",
+    "orderIndex": 37
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t7",
+    "lessonId": "nguvan6_t1_b4_t7",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Viết: Tập làm một bài thơ lục bát & Viết đoạn văn thể hiện cảm xúc về một bài thơ lục bát (trang 109)",
+    "orderIndex": 38
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t8",
+    "lessonId": "nguvan6_t1_b4_t8",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về tình cảm gắn bó của con người với quê hương (trang 114)",
+    "orderIndex": 39
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t9",
+    "lessonId": "nguvan6_t1_b4_t9",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Củng cố, mở rộng (trang 115)",
+    "orderIndex": 40
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b4_t10",
+    "lessonId": "nguvan6_t1_b4_t10",
+    "parentNodeId": "nguvan6_v1_ch4",
+    "nodeName": "Thực hành đọc: Hành trình của bầy ong (trang 116)",
+    "orderIndex": 41
+  },
+  {
+    "nodeId": "nguvan6_v1_ch5",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol1",
+    "nodeName": "Bài 5. Những nẻo đường xứ sở",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t1",
+    "lessonId": "nguvan6_t1_b5_t1",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Tri thức ngữ văn (trang 119)",
+    "orderIndex": 42
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t2",
+    "lessonId": "nguvan6_t1_b5_t2",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Cô Tô (trang 120)",
+    "orderIndex": 43
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t3",
+    "lessonId": "nguvan6_t1_b5_t3",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Thực hành tiếng Việt (trang 124)",
+    "orderIndex": 44
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t4",
+    "lessonId": "nguvan6_t1_b5_t4",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Hang Én (trang 125)",
+    "orderIndex": 45
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t5",
+    "lessonId": "nguvan6_t1_b5_t5",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Thực hành tiếng Việt (trang 129)",
+    "orderIndex": 46
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t6",
+    "lessonId": "nguvan6_t1_b5_t6",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Cửu Long Giang ta ơi (trang 130)",
+    "orderIndex": 47
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t7",
+    "lessonId": "nguvan6_t1_b5_t7",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Viết: Viết bài văn tả cảnh sinh hoạt (trang 133)",
+    "orderIndex": 48
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t8",
+    "lessonId": "nguvan6_t1_b5_t8",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Nói và nghe: Chia sẻ một trải nghiệm về nơi em sống hoặc từng đến (trang 137)",
+    "orderIndex": 49
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t9",
+    "lessonId": "nguvan6_t1_b5_t9",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Củng cố, mở rộng (trang 139)",
+    "orderIndex": 50
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t10",
+    "lessonId": "nguvan6_t1_b5_t10",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Thực hành đọc: Nghìn năm tháp Khương Mỹ (trang 140)",
+    "orderIndex": 51
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t11",
+    "lessonId": "nguvan6_t1_b5_t11",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Đọc mở rộng (trang 142)",
+    "orderIndex": 52
+  },
+  {
+    "nodeId": "node_nguvan6_t1_b5_t12",
+    "lessonId": "nguvan6_t1_b5_t12",
+    "parentNodeId": "nguvan6_v1_ch5",
+    "nodeName": "Ôn tập học kì I (trang 143)",
+    "orderIndex": 53
+  },
+  {
+    "nodeId": "nguvan6_v2_ch6",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol2",
+    "nodeName": "Bài 6. Chuyện kể về những người anh hùng",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t1",
+    "lessonId": "nguvan6_t2_b6_t1",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Tri thức ngữ văn (trang 5)",
+    "orderIndex": 54
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t2",
+    "lessonId": "nguvan6_t2_b6_t2",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Thánh Gióng (trang 6)",
+    "orderIndex": 55
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t3",
+    "lessonId": "nguvan6_t2_b6_t3",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Thực hành tiếng Việt (trang 12)",
+    "orderIndex": 56
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t4",
+    "lessonId": "nguvan6_t2_b6_t4",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Sơn Tinh, Thủy Tinh (trang 13)",
+    "orderIndex": 57
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t5",
+    "lessonId": "nguvan6_t2_b6_t5",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Thực hành tiếng Việt (trang 16)",
+    "orderIndex": 58
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t6",
+    "lessonId": "nguvan6_t2_b6_t6",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Ai ơi mồng chín tháng tư (trang 17)",
+    "orderIndex": 59
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t7",
+    "lessonId": "nguvan6_t2_b6_t7",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Viết: Viết bài văn thuyết minh thuật lại một sự kiện (trang 19)",
+    "orderIndex": 60
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t8",
+    "lessonId": "nguvan6_t2_b6_t8",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Nói và nghe: Kể lại một truyền thuyết (trang 23)",
+    "orderIndex": 61
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t9",
+    "lessonId": "nguvan6_t2_b6_t9",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Củng cố, mở rộng (trang 25)",
+    "orderIndex": 62
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b6_t10",
+    "lessonId": "nguvan6_t2_b6_t10",
+    "parentNodeId": "nguvan6_v2_ch6",
+    "nodeName": "Thực hành đọc: Sự tích Hồ Gươm (trang 25)",
+    "orderIndex": 63
+  },
+  {
+    "nodeId": "nguvan6_v2_ch7",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol2",
+    "nodeName": "Bài 7. Thế giới cổ tích",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t1",
+    "lessonId": "nguvan6_t2_b7_t1",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Tri thức ngữ văn (trang 29)",
+    "orderIndex": 64
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t2",
+    "lessonId": "nguvan6_t2_b7_t2",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Thạch Sanh (trang 30)",
+    "orderIndex": 65
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t3",
+    "lessonId": "nguvan6_t2_b7_t3",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Thực hành tiếng Việt (trang 35)",
+    "orderIndex": 66
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t4",
+    "lessonId": "nguvan6_t2_b7_t4",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Cây khế (trang 37)",
+    "orderIndex": 67
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t5",
+    "lessonId": "nguvan6_t2_b7_t5",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Thực hành tiếng Việt (trang 41)",
+    "orderIndex": 68
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t6",
+    "lessonId": "nguvan6_t2_b7_t6",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Vua chích choè (trang 42)",
+    "orderIndex": 69
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t7",
+    "lessonId": "nguvan6_t2_b7_t7",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Viết: Viết bài văn nhập vai nhân vật kể lại một truyện cổ tích (trang 48)",
+    "orderIndex": 70
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t8",
+    "lessonId": "nguvan6_t2_b7_t8",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Nói và nghe: Kể lại một truyện cổ tích qua lời một nhân vật (trang 53)",
+    "orderIndex": 71
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t9",
+    "lessonId": "nguvan6_t2_b7_t9",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Củng cố, mở rộng (trang 55)",
+    "orderIndex": 72
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t10",
+    "lessonId": "nguvan6_t2_b7_t10",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Thực hành đọc: Sọ Dừa (trang 55)",
+    "orderIndex": 73
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b7_t11",
+    "lessonId": "nguvan6_t2_b7_t11",
+    "parentNodeId": "nguvan6_v2_ch7",
+    "nodeName": "Đọc mở rộng (trang 59)",
+    "orderIndex": 74
+  },
+  {
+    "nodeId": "nguvan6_v2_ch8",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol2",
+    "nodeName": "Bài 8. Khác biệt và gần gũi",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t1",
+    "lessonId": "nguvan6_t2_b8_t1",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Tri thức ngữ văn (trang 61)",
+    "orderIndex": 75
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t2",
+    "lessonId": "nguvan6_t2_b8_t2",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Xem người ta kìa! (trang 62)",
+    "orderIndex": 76
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t3",
+    "lessonId": "nguvan6_t2_b8_t3",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Thực hành tiếng Việt (trang 66)",
+    "orderIndex": 77
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t4",
+    "lessonId": "nguvan6_t2_b8_t4",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Tiếng cười không muốn nghe (trang 67)",
+    "orderIndex": 78
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t5",
+    "lessonId": "nguvan6_t2_b8_t5",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Thực hành tiếng Việt (trang 71)",
+    "orderIndex": 79
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t6",
+    "lessonId": "nguvan6_t2_b8_t6",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Bài tập làm văn (trang 73)",
+    "orderIndex": 80
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t7",
+    "lessonId": "nguvan6_t2_b8_t7",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Viết: Viết bài văn trình bày ý kiến về một hiện tượng (vấn đề) mà em quan tâm (trang 77)",
+    "orderIndex": 81
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t8",
+    "lessonId": "nguvan6_t2_b8_t8",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một hiện tượng (vấn đề) mà em quan tâm (trang 80)",
+    "orderIndex": 82
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t9",
+    "lessonId": "nguvan6_t2_b8_t9",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Củng cố, mở rộng (trang 82)",
+    "orderIndex": 83
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b8_t10",
+    "lessonId": "nguvan6_t2_b8_t10",
+    "parentNodeId": "nguvan6_v2_ch8",
+    "nodeName": "Thực hành đọc: Hai loại khác biệt (trang 83)",
+    "orderIndex": 84
+  },
+  {
+    "nodeId": "nguvan6_v2_ch9",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol2",
+    "nodeName": "Bài 9. Trái Đất - ngôi nhà chung",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t1",
+    "lessonId": "nguvan6_t2_b9_t1",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Tri thức ngữ văn (trang 88)",
+    "orderIndex": 85
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t2",
+    "lessonId": "nguvan6_t2_b9_t2",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Trái Đất - cái nôi của sự sống (trang 89)",
+    "orderIndex": 86
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t3",
+    "lessonId": "nguvan6_t2_b9_t3",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Thực hành tiếng Việt (trang 94)",
+    "orderIndex": 87
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t4",
+    "lessonId": "nguvan6_t2_b9_t4",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Các loài chung sống với nhau như thế nào? (trang 95)",
+    "orderIndex": 88
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t5",
+    "lessonId": "nguvan6_t2_b9_t5",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Thực hành tiếng Việt (trang 99)",
+    "orderIndex": 89
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t6",
+    "lessonId": "nguvan6_t2_b9_t6",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Trái Đất (trang 100)",
+    "orderIndex": 90
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t7",
+    "lessonId": "nguvan6_t2_b9_t7",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Viết: Viết biên bản một cuộc họp, cuộc thảo luận & Tóm tắt bằng sơ đồ nội dung của một văn bản đơn giản (trang 101)",
+    "orderIndex": 91
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t8",
+    "lessonId": "nguvan6_t2_b9_t8",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một vấn đề môi trường (trang 106)",
+    "orderIndex": 92
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t9",
+    "lessonId": "nguvan6_t2_b9_t9",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Củng cố, mở rộng (trang 108)",
+    "orderIndex": 93
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t10",
+    "lessonId": "nguvan6_t2_b9_t10",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Thực hành đọc: Sinh vật trên Trái Đất được hình thành như thế nào? (trang 110)",
+    "orderIndex": 94
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b9_t11",
+    "lessonId": "nguvan6_t2_b9_t11",
+    "parentNodeId": "nguvan6_v2_ch9",
+    "nodeName": "Đọc mở rộng (trang 112)",
+    "orderIndex": 95
+  },
+  {
+    "nodeId": "nguvan6_v2_ch10",
+    "lessonId": null,
+    "parentNodeId": "nguvan6_vol2",
+    "nodeName": "Bài 10. Cuốn sách tôi yêu",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t1",
+    "lessonId": "nguvan6_t2_b10_t1",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Tri thức ngữ văn (trang 116)",
+    "orderIndex": 96
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t2",
+    "lessonId": "nguvan6_t2_b10_t2",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Thách thức đầu tiên: Hoạt động 1 & 2 (trang 115)",
+    "orderIndex": 97
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t3",
+    "lessonId": "nguvan6_t2_b10_t3",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Hoạt động 3: Gặp gỡ tác giả (trang 116)",
+    "orderIndex": 98
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t4",
+    "lessonId": "nguvan6_t2_b10_t4",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Hoạt động 4: Phiêu lưu cùng trang sách (trang 118)",
+    "orderIndex": 99
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t5",
+    "lessonId": "nguvan6_t2_b10_t5",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Viết: Giới thiệu về một nhân vật trong cuốn sách yêu thích (trang 119)",
+    "orderIndex": 100
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t6",
+    "lessonId": "nguvan6_t2_b10_t6",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Sáng tạo sản phẩm nghệ thuật & Dựng hoạt cảnh biểu diễn (trang 121)",
+    "orderIndex": 101
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t7",
+    "lessonId": "nguvan6_t2_b10_t7",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Nói và nghe: Ngày hội với sách (trang 123)",
+    "orderIndex": 102
+  },
+  {
+    "nodeId": "node_nguvan6_t2_b10_t8",
+    "lessonId": "nguvan6_t2_b10_t8",
+    "parentNodeId": "nguvan6_v2_ch10",
+    "nodeName": "Ôn tập học kì II (trang 124)",
+    "orderIndex": 103
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "lessonId": "khth8_b1",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Mở đầu",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Sử dụng một số hoá chất, thiết bị cơ bản trong phòng thí nghiệm\n- Nhận biết hóa chất và quy tắc sử dụng hóa chất an toàn: hóa chất đựng trong chai/lọ kín phải có nhãn mác đầy đủ ghi tên, công thức, độ tinh khiết, nhà sản xuất, các kí hiệu cảnh báo nguy hiểm... Không dùng tay trực tiếp lấy hóa chất, không hít ngửi trực tiếp, không đổ hóa chất thừa lại bình chứa.\n- Giới thiệu dụng cụ thí nghiệm thông dụng: ống nghiệm, cốc thủy tinh, bình nón (bình tam giác), phễu lọc, ống đong, ống hút nhỏ giọt, kẹp gỗ... Biết cách sử dụng và đun nóng hóa chất trong ống nghiệm an toàn.\n- Giới thiệu thiết bị và cách sử dụng: thiết bị đo pH (máy đo pH, bút đo pH) để xác định độ pH của dung dịch; huyết áp kế đồng hồ để đo huyết áp; thiết bị cung cấp nguồn điện (pin, biến áp nguồn), thiết bị đo điện (ampe kế đo cường độ dòng điện, vôn kế đo hiệu điện thế); joulemeter (jun kế) đo dòng điện, điện áp, công suất và năng lượng điện.\n- Từ khóa: Hóa chất an toàn, dụng cụ thí nghiệm, máy đo pH, huyết áp kế, ampe kế, vôn kế, joulemeter."
+  },
+  {
+    "lessonId": "khth8_b2",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Phản ứng hoá học",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Phản ứng hoá học\n- Biến đổi vật lý và biến đổi hóa học: Biến đổi vật lý là quá trình chất chỉ chuyển đổi trạng thái, hình dạng mà không tạo thành chất mới (ví dụ: nước đá nóng chảy, nước bay hơi). Biến đổi hóa học là quá trình có sự tạo thành chất mới (ví dụ: đốt cháy sắt và lưu huỳnh tạo sắt(II) sulfide, đốt nến).\n- Khái niệm phản ứng hóa học: là quá trình biến đổi từ chất này thành chất khác. Chất ban đầu bị biến đổi gọi là chất phản ứng, chất mới sinh ra gọi là sản phẩm. Biểu diễn bằng phương trình chữ: Tên các chất phản ứng -> Tên các chất sản phẩm.\n- Diễn biến phản ứng hóa học: Trong phản ứng có sự phá vỡ liên kết cũ trong phân tử chất phản ứng và hình thành liên kết mới để tạo ra phân tử sản phẩm. Số lượng nguyên tử của mỗi nguyên tố giữ nguyên không đổi.\n- Dấu hiệu nhận biết: Có chất mới xuất hiện với đặc điểm khác biệt như thay đổi màu sắc, xuất hiện khí sủi bọt, chất kết tủa, tỏa nhiệt và phát sáng.\n- Phản ứng tỏa nhiệt và phản ứng thu nhiệt: Phản ứng tỏa nhiệt giải phóng năng lượng dạng nhiệt ra môi trường (ví dụ: đốt than, xăng, gas). Phản ứng thu nhiệt cần cung cấp năng lượng dạng nhiệt từ môi trường trong suốt quá trình xảy ra (ví dụ: nung đá vôi, phân hủy copper(II) hydroxide).\n- Từ khóa: Biến đổi vật lý, biến đổi hóa học, phản ứng hóa học, chất phản ứng, sản phẩm, phản ứng tỏa nhiệt, phản ứng thu nhiệt."
+  },
+  {
+    "lessonId": "khth8_b3",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Phản ứng hoá học",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3: Mol và tỉ khối chất khí\n- Khái niệm Mol: Mol là lượng chất có chứa N_A (6,022 x 10^23) nguyên tử hoặc phân tử của chất đó. N_A được gọi là số Avogadro.\n- Khối lượng mol (M): là khối lượng tính bằng gam của N_A nguyên tử hoặc phân tử chất đó, có trị số bằng khối lượng nguyên tử hoặc phân tử chất đó tính theo đơn vị amu. Công thức tính số mol: n = m / M (mol).\n- Thể tích mol của chất khí: là thể tích chiếm bởi N_A phân tử của chất khí đó. Ở điều kiện chuẩn (nhiệt độ 25 °C, áp suất 1 bar), 1 mol chất khí bất kì đều chiếm thể tích là 24,79 lít. Công thức: V = 24,79 x n (lít).\n- Tỉ khối của chất khí: dùng để so sánh khí A nặng hay nhẹ hơn khí B bao nhiêu lần. Công thức: d_A/B = M_A / M_B. Tỉ khối của khí A so với không khí (khối lượng mol trung bình của không khí là 29 g/mol): d_A/kk = M_A / 29.\n- Từ khóa: Mol, số Avogadro, khối lượng mol, thể tích mol chất khí, điều kiện chuẩn, tỉ khối chất khí."
+  },
+  {
+    "lessonId": "khth8_b4",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Phản ứng hoá học",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4: Dung dịch và nồng độ\n- Khái niệm dung dịch, chất tan và dung môi: Dung dịch là hỗn hợp đồng nhất của chất tan và dung môi. Dung môi là chất có khả năng hòa tan chất khác để tạo thành dung dịch (thường là nước). Chất tan là chất bị hòa tan trong dung môi.\n- Dung dịch chưa bão hòa và bão hòa: Dung dịch chưa bão hòa là dung dịch có thể hòa tan thêm chất tan ở nhiệt độ xác định. Dung dịch bão hòa là dung dịch không thể hòa tan thêm chất tan ở nhiệt độ đó.\n- Khái niệm độ tan (S): là số gam chất đó hòa tan trong 100 gam nước để tạo thành dung dịch bão hòa ở nhiệt độ, áp suất xác định. Công thức: S = (m_ct / m_nước) * 100 (g/100g nước).\n- Nồng độ phần trăm (C%): cho biết số gam chất tan có trong 100 gam dung dịch. Công thức: C% = (m_ct / m_dd) * 100%, với m_dd = m_ct + m_dm (khối lượng dung dịch = khối lượng chất tan + khối lượng dung môi).\n- Nồng độ mol (C_M): cho biết số mol chất tan có trong 1 lít dung dịch. Công thức: C_M = n / V (mol/L hoặc M).\n- Thực hành pha chế dung dịch theo nồng độ phần trăm hoặc nồng độ mol cho trước.\n- Từ khóa: Dung dịch, độ tan, nồng độ phần trăm, nồng độ mol, pha chế dung dịch."
+  },
+  {
+    "lessonId": "khth8_b5",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Phản ứng hoá học",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5: Định luật bảo toàn khối lượng và phương trình hoá học\n- Định luật bảo toàn khối lượng: Trong một phản ứng hóa học, tổng khối lượng của các chất sản phẩm bằng tổng khối lượng của các chất tham gia phản ứng. Giải thích: trong phản ứng hóa học chỉ có liên kết giữa các nguyên tử thay đổi, số nguyên tử của mỗi nguyên tố giữ nguyên nên tổng khối lượng được bảo toàn.\n- Phương trình hóa học: dùng để biểu diễn ngắn gọn phản ứng hóa học. Gồm công thức hóa học của các chất tham gia và chất sản phẩm với hệ số thích hợp.\n- Các bước lập phương trình hóa học:\n  1. Viết sơ đồ phản ứng (gồm công thức hóa học của các chất phản ứng và sản phẩm).\n  2. Cân bằng số nguyên tử của mỗi nguyên tố ở hai vế (tìm hệ số thích hợp đặt trước công thức hóa học).\n  3. Viết phương trình hóa học hoàn chỉnh.\n- Ý nghĩa của phương trình hóa học: cho biết trong phản ứng hóa học, lượng các chất tham gia và các chất sản phẩm tuân theo một tỉ lệ xác định về số phân tử, số mol hoặc khối lượng.\n- Từ khóa: Bảo toàn khối lượng, lập phương trình hóa học, hệ số cân bằng, tỉ lệ số mol."
+  },
+  {
+    "lessonId": "khth8_b6",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Phản ứng hoá học",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 6: Tính theo phương trình hoá học\n- Tính lượng chất tham gia và sản phẩm: Dựa vào phương trình hóa học, khi biết lượng một chất phản ứng hoặc sản phẩm (theo số mol, khối lượng hoặc thể tích khí ở đkc), ta tính được lượng các chất còn lại theo các bước:\n  1. Viết phương trình hóa học và cân bằng.\n  2. Tính số mol chất đã biết dựa vào đề bài.\n  3. Dựa vào tỉ lệ hệ số trong phương trình để tìm số mol chất cần tính.\n  4. Chuyển đổi số mol chất cần tính thành khối lượng hoặc thể tích khí ở điều kiện chuẩn.\n- Hiệu suất phản ứng (H): Trong thực tế, lượng sản phẩm thu được thường nhỏ hơn lượng sản phẩm tính theo lý thuyết do hao hụt, phản ứng không hoàn toàn. Công thức tính hiệu suất: H = (m'_sp / m_sp) * 100% hoặc H = (n'_sp / n_sp) * 100%, với m'_sp, n'_sp là khối lượng, số mol thực tế thu được, m_sp, n_sp là khối lượng, số mol tính theo lý thuyết.\n- Từ khóa: Tính theo phương trình, hiệu suất phản ứng, lượng thực tế, lượng lý thuyết."
+  },
+  {
+    "lessonId": "khth8_b7",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Phản ứng hoá học",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 7: Tốc độ phản ứng và chất xúc tác\n- Khái niệm tốc độ phản ứng: là đại lượng đặc trưng cho mức độ nhanh hay chậm của một phản ứng hóa học (ví dụ: phản ứng cháy nổ xảy ra rất nhanh, phản ứng gỉ sắt xảy ra chậm).\n- Các yếu tố ảnh hưởng đến tốc độ phản ứng:\n  1. Nồng độ: Khi tăng nồng độ chất phản ứng, tốc độ phản ứng tăng lên.\n  2. Nhiệt độ: Khi tăng nhiệt độ, tốc độ phản ứng tăng lên.\n  3. Diện tích bề mặt tiếp xúc: Đối với chất rắn, khi tăng diện tích tiếp xúc (nghiền nhỏ, đập nhỏ), tốc độ phản ứng tăng lên.\n  4. Chất xúc tác: là chất làm tăng tốc độ phản ứng nhưng không bị biến đổi về khối lượng và tính chất hóa học sau phản ứng (ví dụ: MnO2 phân hủy H2O2, các enzyme tiêu hóa).\n- Từ khóa: Tốc độ phản ứng, ảnh hưởng nồng độ, ảnh hưởng nhiệt độ, diện tích tiếp xúc, chất xúc tác, enzyme."
+  },
+  {
+    "lessonId": "khth8_b8",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Một số hợp chất thông dụng",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 8: Acid\n- Khái niệm acid: là những hợp chất trong phân tử có chứa nguyên tử hydrogen liên kết với gốc acid. Khi tan trong nước, acid giải phóng ra ion H+. Công thức tổng quát: H_xR (R là gốc acid).\n- Tính chất hóa học của acid:\n  1. Làm đổi màu chất chỉ thị: Dung dịch acid làm giấy quỳ tím chuyển sang màu đỏ.\n  2. Tác dụng với kim loại: Dung dịch acid tác dụng với một số kim loại đứng trước hydrogen (như Mg, Zn, Fe, Al) tạo thành muối và giải phóng khí hydrogen (H2).\n- Một số acid thông dụng:\n  1. Sulfuric acid (H2SO4): Chất lỏng không màu, không bay hơi, sánh như dầu, hút ẩm mạnh. Dùng để sản xuất phân bón, chất dẻo, chất tẩy rửa. Cực kỳ lưu ý an toàn khi pha loãng dung dịch H2SO4 đặc.\n  2. Hydrochloric acid (HCl): Chất lỏng không màu, có trong dạ dày giúp tiêu hóa thức ăn. Dùng để tẩy gỉ thép, xử lý nước bể bơi.\n  3. Acetic acid (CH3COOH): Chất lỏng không màu, vị chua, có trong giấm ăn (nồng độ 2-5%). Dùng trong công nghiệp thực phẩm, sản xuất tơ sợi.\n- Từ khóa: Acid, ion H+, gốc acid, quỳ tím hóa đỏ, tác dụng kim loại, khí hydrogen, sulfuric acid, acetic acid."
+  },
+  {
+    "lessonId": "khth8_b9",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Một số hợp chất thông dụng",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 9: Base. Thang pH\n- Khái niệm base: là những hợp chất trong phân tử có nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide (-OH). Khi tan trong nước, base tạo ra ion OH-. Công thức tổng quát: M(OH)_n (M là kim loại).\n- Tên gọi base: Tên kim loại (kèm hóa trị nếu kim loại có nhiều hóa trị) + hydroxide.\n- Phân loại base: Base tan trong nước gọi là kiềm (như NaOH, KOH, Ba(OH)2, Ca(OH)2) và base không tan trong nước (như Cu(OH)2, Fe(OH)3, Al(OH)3).\n- Tính chất hóa học của base:\n  1. Làm đổi màu chất chỉ thị: Dung dịch kiềm làm quỳ tím hóa xanh, dung dịch phenolphtalein không màu hóa hồng.\n  2. Tác dụng với acid: Tạo thành muối và nước (phản ứng trung hòa). Ví dụ: Ca(OH)2 + H2SO4 -> CaSO4 + 2H2O.\n- Thang pH: là tập hợp các con số từ 1 đến 14 dùng để đánh giá mức độ acid - base của dung dịch. pH < 7: môi trường acid (pH càng nhỏ acid càng mạnh); pH = 7: môi trường trung tính; pH > 7: môi trường base.\n- Từ khóa: Base, hydroxide, ion OH-, kiềm, phản ứng trung hòa, quỳ tím hóa xanh, phenolphtalein, thang pH."
+  },
+  {
+    "lessonId": "khth8_b10",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Một số hợp chất thông dụng",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 10: Oxide\n- Khái niệm oxide: là hợp chất gồm hai nguyên tố, trong đó có một nguyên tố là oxygen. Tên gọi oxide: Tên nguyên tố + oxide (kèm hóa trị hoặc tiền tố chỉ số nguyên tử phi kim).\n- Phân loại oxide:\n  1. Oxide acid: thường là oxide phi kim, tác dụng với dung dịch base tạo thành muối và nước (như CO2, SO2, SO3, P2O5).\n  2. Oxide base: thường là oxide kim loại, tác dụng với dung dịch acid tạo thành muối và nước (như Na2O, CaO, CuO, Fe2O3).\n  3. Oxide lưỡng tính: tác dụng với cả dung dịch acid và dung dịch base tạo muối và nước (như Al2O3, ZnO).\n  4. Oxide trung tính: không tác dụng với dung dịch acid và dung dịch base ở điều kiện thường, không tạo muối (như CO, NO).\n- Từ khóa: Oxide, oxide acid, oxide base, oxide lưỡng tính, oxide trung tính, tên gọi oxide."
+  },
+  {
+    "lessonId": "khth8_b11",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Một số hợp chất thông dụng",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 11: Muối\n- Khái niệm muối: là hợp chất được hình thành từ sự thay thế ion H+ của acid bằng ion kim loại hoặc ion ammonium (NH4+). Tên gọi: Tên kim loại (kèm hóa trị) + tên gốc acid.\n- Tính tan của muối: Đa số muối là chất rắn, có tính tan rất khác nhau trong nước (tan tốt, ít tan hoặc không tan), tra cứu bằng bảng tính tan.\n- Tính chất hóa học của muối:\n  1. Dung dịch muối tác dụng với kim loại: Tạo muối mới và kim loại mới (kim loại hoạt động mạnh đẩy kim loại yếu ra khỏi muối).\n  2. Tác dụng với dung dịch acid: Tạo muối mới và acid mới. Sản phẩm phải có chất kết tủa, chất khí hoặc nước.\n  3. Dung dịch muối tác dụng với dung dịch base: Tạo muối mới và base mới (phải có kết tủa hoặc chất khí).\n  4. Tác dụng với dung dịch muối: Hai dung dịch muối tác dụng với nhau tạo hai muối mới (phải có chất kết tủa).\n- Phản ứng trao đổi: là phản ứng trong đó hai hợp chất tham gia trao đổi thành phần cấu tạo để tạo chất mới, điều kiện xảy ra là sản phẩm có chất kết tủa hoặc chất khí.\n- Từ khóa: Muối, bảng tính tan, phản ứng trao đổi, chất kết tủa, kim loại đẩy kim loại."
+  },
+  {
+    "lessonId": "khth8_b12",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Một số hợp chất thông dụng",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 12: Phân bón hoá học\n- Vai trò các nguyên tố dinh dưỡng: Cây trồng cần các nguyên tố đa lượng (N, P, K), trung lượng (Ca, Mg, S) và vi lượng (Zn, Fe, Cu, Mn...) để sinh trưởng, phát triển và nâng cao năng suất.\n- Khái niệm phân bón hóa học: là những hóa chất chứa các nguyên tố dinh dưỡng cung cấp cho cây trồng.\n- Một số loại phân bón thông thường:\n  1. Phân đạm: cung cấp nguyên tố nitrogen (N), thúc đẩy quá trình sinh trưởng, giúp cây phát triển thân, rễ, lá (như phân urea, ammonium nitrate).\n  2. Phân lân: cung cấp nguyên tố phosphorus (P), giúp cây ra hoa, đậu quả, phát triển rễ (như supephosphate, phân lân nung chảy).\n  3. Phân kali: cung cấp nguyên tố potassium (K), giúp cây cứng cáp, tăng hấp thụ nước, chống chịu sâu bệnh và chịu lạnh.\n  4. Phân NPK: là phân hỗn hợp chứa cả ba nguyên tố dinh dưỡng N, P, K.\n- Cách sử dụng phân bón hiệu quả và an toàn: sử dụng đúng liều lượng, đúng chủng loại, đúng lúc và đúng phương pháp theo quy tắc \"4 đúng\" để tránh gây ô nhiễm đất, nguồn nước và bảo vệ sức khỏe con người.\n- Từ khóa: Phân bón hóa học, phân đạm, phân lân, phân kali, phân NPK, quy tắc 4 đúng, bảo vệ môi trường."
+  },
+  {
+    "lessonId": "khth8_b13",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Khối lượng riêng và áp suất",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 13: Khối lượng riêng\n- Khái niệm khối lượng riêng: của một chất cho ta biết khối lượng của một đơn vị thể tích chất đó. Công thức: D = m / V (với m là khối lượng, V là thể tích).\n- Đơn vị khối lượng riêng: thường dùng là kg/m³ hoặc g/cm³, g/mL. Quy đổi: 1 g/cm³ = 1000 kg/m³.\n- Khái niệm trọng lượng riêng (d): là trọng lượng của một đơn vị thể tích chất đó. Công thức: d = P / V (đơn vị N/m³). Mối liên hệ: d = 10D (khi D tính bằng kg/m³).\n- Từ khóa: Khối lượng riêng, khối lượng, thể tích, đơn vị đo, trọng lượng riêng."
+  },
+  {
+    "lessonId": "khth8_b14",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Khối lượng riêng và áp suất",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 14: Thực hành xác định khối lượng riêng\n- Xác định khối lượng riêng của khối hình hộp chữ nhật: dùng cân điện tử xác định khối lượng m; dùng thước đo các kích thước dài, rộng, cao để tính thể tích V = a * b * c; tính khối lượng riêng D = m / V.\n- Xác định khối lượng riêng của một lượng nước: đo thể tích nước V bằng ống đong; đo khối lượng nước m bằng cân điện tử (khối lượng ống đong chứa nước trừ khối lượng ống đong rỗng); tính D = m / V.\n- Xác định khối lượng riêng của vật rắn có hình dạng bất kì không thấm nước (như hòn sỏi): đo khối lượng m bằng cân; đo thể tích V của vật bằng phương pháp nước dâng trong ống đong (V = V2 - V1); tính D = m / V.\n- Từ khóa: Thực hành đo, khối lượng riêng, ống đong, cân điện tử, thể tích nước dâng."
+  },
+  {
+    "lessonId": "khth8_b15",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Khối lượng riêng và áp suất",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 15: Áp suất trên một bề mặt\n- Khái niệm áp lực: là lực ép có phương vuông góc với mặt bị ép (ví dụ: trọng lượng của người đứng trên sàn, lực ngón tay ấn đinh).\n- Áp suất: được tính bằng độ lớn của áp lực trên một đơn vị diện tích bị ép. Công thức: p = F / S (với F là áp lực, S là diện tích bị ép).\n- Đơn vị áp suất: trong hệ SI là paxcan (Pa), với 1 Pa = 1 N/m². Các đơn vị khác: atm (atmốtphe), mmHg (milimét thủy ngân), bar.\n- Công dụng của việc tăng, giảm áp suất: tăng áp suất bằng cách tăng áp lực hoặc giảm diện tích bị ép (mũi đinh nhọn, dao sắc); giảm áp suất bằng cách giảm áp lực hoặc tăng diện tích bị ép (bản xích xe tăng, móng nhà rộng).\n- Từ khóa: Áp lực, áp suất, diện tích bị ép, đơn vị paxcan (Pa), tăng giảm áp suất."
+  },
+  {
+    "lessonId": "khth8_b16",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Khối lượng riêng và áp suất",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 16: Áp suất chất lỏng. Áp suất khí quyển\n- Áp suất chất lỏng: Chất lỏng gây ra áp suất theo mọi phương lên các vật đặt trong lòng nó và lên thành bình, đáy bình. Vật càng ở sâu trong lòng chất lỏng thì áp suất tác dụng lên nó càng lớn.\n- Sự truyền áp suất chất lỏng: Áp suất tác dụng vào chất lỏng được chất lỏng truyền đi nguyên vẹn theo mọi hướng (Nguyên lí Pascal). Ứng dụng trong máy nén thủy lực: tác dụng một lực nhỏ lên pittông nhỏ tạo ra lực lớn nâng xe ô tô ở pittông lớn.\n- Áp suất khí quyển: Bao bọc quanh Trái Đất là lớp không khí dày hàng nghìn kilômét gọi là khí quyển. Không khí có trọng lượng và gây ra áp suất tác dụng lên mọi vật trên Trái Đất theo mọi phương gọi là áp suất khí quyển. Thí nghiệm chứng minh sự tồn tại của áp suất khí quyển (cốc nước úp ngược không chảy nước, giác mút treo tường).\n- Ảnh hưởng và ứng dụng: Tiếng động trong tai khi thay đổi áp suất đột ngột (đi máy bay, leo núi), hoạt động của bình xịt nước, tàu đệm khí nâng tàu khỏi mặt nước.\n- Từ khóa: Áp suất chất lỏng, nguyên lí Pascal, máy nén thủy lực, áp suất khí quyển, giác mút, tàu đệm khí."
+  },
+  {
+    "lessonId": "khth8_b17",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Khối lượng riêng và áp suất",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 17: Lực đẩy Archimedes\n- Lực đẩy tác dụng lên vật đặt trong chất lỏng: Một vật đặt trong chất lỏng chịu tác dụng của một lực đẩy hướng thẳng đứng từ dưới lên gọi là lực đẩy Archimedes (F_A).\n- Điều kiện chìm, nổi của vật:\n  1. Vật chìm xuống khi lực đẩy Archimedes nhỏ hơn trọng lượng của vật (F_A < P).\n  2. Vật nổi lên khi lực đẩy Archimedes lớn hơn trọng lượng của vật (F_A > P). Vật nổi lơ lửng khi F_A = P.\n- Công thức tính lực đẩy Archimedes: F_A = d * V (với d là trọng lượng riêng của chất lỏng, V là thể tích phần chất lỏng bị vật chiếm chỗ). Trọng lượng của phần chất lỏng bị vật chiếm chỗ bằng đúng độ lớn lực đẩy Archimedes.\n- Từ khóa: Lực đẩy Archimedes, hướng thẳng đứng dưới lên, trọng lượng riêng chất lỏng, thể tích bị chiếm chỗ, điều kiện chìm nổi."
+  },
+  {
+    "lessonId": "khth8_b18",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Tác dụng làm quay của lực",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 18: Tác dụng làm quay của lực. Moment lực\n- Lực có thể làm quay vật: Khi lực tác dụng vào vật có giá không song song và không cắt trục quay thì sẽ làm quay vật quanh một điểm hoặc một trục (ví dụ: đẩy cửa quay quanh bản lề, dùng cờ lê vặn ốc).\n- Khái niệm moment lực: là đại lượng đặc trưng cho tác dụng làm quay của lực.\n- Đặc điểm phụ thuộc của moment lực:\n  1. Lực tác dụng càng lớn, moment lực càng lớn, tác dụng làm quay càng lớn.\n  2. Giá của lực càng cách xa trục quay, moment lực càng lớn, tác dụng làm quay càng lớn (ví dụ: tay cầm cờ lê càng xa ốc thì vặn càng dễ).\n- Từ khóa: Tác dụng làm quay, moment lực, lực làm quay, trục quay, khoảng cách đến trục quay."
+  },
+  {
+    "lessonId": "khth8_b19",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Tác dụng làm quay của lực",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 19: Đòn bẩy và ứng dụng\n- Tác dụng của đòn bẩy: Đòn bẩy quay quanh một điểm tựa cố định gọi là điểm tựa O. Khoảng cách từ giá của lực tác dụng tới điểm tựa gọi là cánh tay đòn. Đòn bẩy có thể làm thay đổi hướng tác dụng của lực và giúp ta được lợi về lực.\n- Các loại đòn bẩy thông dụng:\n  1. Đòn bẩy loại 1: Điểm tựa O nằm trong khoảng giữa điểm đặt của lực tác dụng F1 và lực cản F2 (ví dụ: bập bênh, búa nhổ đinh).\n  2. Đòn bẩy loại 2: Điểm tựa O nằm ngoài khoảng giữa hai lực, lực tác dụng nằm xa điểm tựa O hơn lực cản (ví dụ: xe cút kít, bấm móng tay, khui nắp chai) -> giúp lợi về lực.\n  3. Đòn bẩy loại 3 (hoặc loại 2 không lợi lực): lực tác dụng nằm gần điểm tựa O hơn lực cản (ví dụ: cần câu cá, nhíp gắp, đũa ăn).\n- Ứng dụng đòn bẩy trong đời sống và cơ thể: máy bơm nước bằng tay; đòn bẩy trong cơ thể người như đốt sống cổ (đòn bẩy loại 1), cánh tay (đòn bẩy loại 2).\n- Từ khóa: Đòn bẩy, điểm tựa O, cánh tay đòn, đòn bẩy loại 1, đòn bẩy loại 2, lợi về lực."
+  },
+  {
+    "lessonId": "khth8_b20",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Điện",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 20: Hiện tượng nhiễm điện do cọ xát\n- Hiện tượng nhiễm điện do cọ xát: Nhiều vật sau khi cọ xát có khả năng hút các vật nhẹ khác (mẩu giấy vụn, sợi tóc) gọi là vật nhiễm điện hay vật mang điện tích (ví dụ: chải tóc bằng lược nhựa vào ngày hanh khô).\n- Hai loại điện tích: Có hai loại điện tích là điện tích dương (+) và điện tích âm (-). Quy ước: điện tích ở đũa thủy tinh cọ xát vào lụa là điện tích dương (+); điện tích ở đũa nhựa cọ xát vào len là điện tích âm (-).\n- Tương tác điện tích: Các vật nhiễm điện cùng loại thì đẩy nhau, khác loại thì hút nhau.\n- Giải thích sự nhiễm điện do cọ xát: Do sự dịch chuyển electron từ vật này sang vật khác khi cọ xát. Vật mất bớt electron nhiễm điện dương, vật nhận thêm electron nhiễm điện âm.\n- Hiện tượng tự nhiên: Sấm sét lúc trời mưa dông do sự phóng điện giữa các đám mây nhiễm điện trái dấu. Thiết bị kiểm tra điện tích là điện nghiệm.\n- Từ khóa: Nhiễm điện do cọ xát, điện tích âm, điện tích dương, tương tác điện tích, electron dịch chuyển, sấm sét, điện nghiệm."
+  },
+  {
+    "lessonId": "khth8_b21",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Điện",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 21: Dòng điện, nguồn điện\n- Khái niệm dòng điện: là dòng chuyển dời có hướng của các hạt mang điện (các hạt mang điện có thể là electron tự do, ion dương, ion âm).\n- Khái niệm nguồn điện: là thiết bị có khả năng cung cấp và duy trì dòng điện cho các thiết bị điện hoạt động. Mỗi nguồn điện đều có hai cực: cực dương (+) và cực âm (-). Ví dụ: pin tiểu, acquy.\n- Vật dẫn điện và vật không dẫn điện (vật cách điện):\n  1. Vật dẫn điện: là vật cho dòng điện chạy qua, chứa nhiều hạt mang điện tự do (ví dụ: các kim loại đồng, nhôm, sắt, dung dịch muối, axit).\n  2. Vật không dẫn điện: là vật không cho dòng điện chạy qua, chứa rất ít hạt mang điện tự do (ví dụ: nhựa, cao su, thủy tinh, sứ, gỗ khô).\n- Sơ lược lịch sử: Pin Volta (Von-ta) là pin điện đầu tiên trên thế giới gồm tấm đồng và kẽm nhúng trong dung dịch acid loãng.\n- Từ khóa: Dòng điện, nguồn điện, cực dương, cực âm, vật dẫn điện, vật cách điện, pin Volta."
+  },
+  {
+    "lessonId": "khth8_b22",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Điện",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 22: Mạch điện đơn giản\n- Sơ đồ mạch điện: biểu diễn mạch điện bằng các kí hiệu quy ước của các thiết bị điện như nguồn điện (pin), bóng đèn, dây nối, công tắc đóng/mở, điện trở, ampe kế, vôn kế, điốt, điốt phát quang (LED), biến trở, chuông điện.\n- Mạch điện đơn giản: gồm nguồn điện, công tắc, dây nối và thiết bị tiêu thụ năng lượng điện (bóng đèn).\n- Chiều dòng điện: Quy ước chiều dòng điện trong mạch điện kín là chiều từ cực dương của nguồn điện qua dây nối và các thiết bị điện tới cực âm của nguồn điện (ngược chiều dịch chuyển của electron tự do).\n- Các thiết bị bảo vệ, an toàn điện:\n  1. Cầu chì: tự động nóng chảy và ngắt mạch điện khi dòng điện tăng quá mức cho phép.\n  2. Cầu dao tự động (Aptomat): tự động ngắt mạch khi có sự cố quá tải hoặc chập mạch.\n  3. Rơle (Relay): thiết bị đóng ngắt mạch điện tự động bằng điện.\n  4. Chuông điện: phát ra âm thanh báo hiệu khi có dòng điện chạy qua.\n- Từ khóa: Sơ đồ mạch điện, kí hiệu điện, chiều dòng điện, cầu chì, cầu dao tự động, rơle, chuông điện."
+  },
+  {
+    "lessonId": "khth8_b23",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Điện",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 23: Tác dụng của dòng điện\n- Dòng điện có các tác dụng cơ bản sau:\n  1. Tác dụng nhiệt: Vật dẫn nóng lên khi có dòng điện chạy qua (ví dụ: bàn là, nồi cơm điện, mỏ hàn, bóng đèn dây tóc).\n  2. Tác dụng phát sáng: Dòng điện chạy qua làm phát sáng các loại đèn như đèn LED (đốt phát quang), đèn neon, đèn huỳnh quang mà không cần nóng lên đến nhiệt độ cao.\n  3. Tác dụng hóa học: Dòng điện chạy qua dung dịch chất điện phân (như CuSO4) làm tách các chất hóa học, kim loại bám vào điện cực. Ứng dụng trong mạ điện (mạ đồng, mạ vàng, bảo vệ kim loại).\n  4. Tác dụng sinh lí: Dòng điện chạy qua cơ thể người và động vật gây co cơ, giật điện, tim ngừng đập, ngạt thở. Ứng dụng trong y học để sốc điện tim cứu người, châm cứu điện.\n- Từ khóa: Tác dụng nhiệt, tác dụng phát sáng, tác dụng hóa học, tác dụng sinh lí, mạ điện, sốc điện."
+  },
+  {
+    "lessonId": "khth8_b24",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Điện",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 24: Cường độ dòng điện và hiệu điện thế\n- Cường độ dòng điện: đặc trưng cho tác dụng mạnh, yếu của dòng điện. Kí hiệu là I. Đơn vị đo là ampe (A) hoặc miliampe (mA), với 1 A = 1000 mA. Thiết bị đo là ampe kế (được kí hiệu và mắc nối tiếp vào mạch điện cần đo).\n- Hiệu điện thế (điện áp): đặc trưng cho khả năng sinh ra dòng điện của nguồn điện giữa hai cực của nó. Kí hiệu là U. Đơn vị đo là vôn (V), milivôn (mV), kilôvôn (kV). Thiết bị đo là vôn kế (được kí hiệu và mắc song song vào hai điểm cần đo điện áp).\n- Quy tắc an toàn điện: Các nguồn điện dưới 40V được coi là an toàn khi tiếp xúc trong phòng thí nghiệm. Hiệu điện thế mạng lưới điện gia đình là 220V, nếu chạm vào dây điện không bọc cách điện sẽ gây nguy hiểm tính mạng.\n- Từ khóa: Cường độ dòng điện, ampe kế, hiệu điện thế, vôn kế, an toàn điện."
+  },
+  {
+    "lessonId": "khth8_b25",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Điện",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 25: Thực hành đo cường độ dòng điện và hiệu điện thế\n- Chuẩn bị dụng cụ: nguồn điện (pin), bóng đèn, ampe kế, vôn kế, công tắc, dây nối.\n- Cách tiến hành đo cường độ dòng điện: Mắc ampe kế nối tiếp với bóng đèn và nguồn điện. Chú ý nối chốt (+) của ampe kế về phía cực dương của nguồn. Đóng công tắc, đọc số chỉ ampe kế tại các vị trí khác nhau trong mạch nối tiếp.\n- Cách tiến hành đo hiệu điện thế: Mắc vôn kế song song với hai đầu bóng đèn, chốt (+) vôn kế nối với cực dương nguồn. Đóng công tắc, đọc số chỉ hiệu điện thế trên vôn kế và so sánh với hiệu điện thế của nguồn.\n- Đọc và hoàn thành báo cáo thực hành theo mẫu.\n- Từ khóa: Thực hành đo, cường độ dòng điện, ampe kế mắc nối tiếp, hiệu điện thế, vôn kế mắc song song."
+  },
+  {
+    "lessonId": "khth8_b26",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Nhiệt",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 26: Năng lượng nhiệt và nội năng\n- Cấu tạo phân tử của các chất: Các chất được cấu tạo từ các phân tử, nguyên tử chuyển động hỗn loạn không ngừng. Nhiệt độ càng cao, các phân tử cấu tạo nên vật chuyển động càng nhanh.\n- Khái niệm năng lượng nhiệt: là năng lượng vật có được nhờ chuyển động nhiệt của các phân tử cấu tạo nên vật (gọi tắt là nhiệt năng).\n- Khái niệm nội năng: Nội năng của một vật là tổng động năng chuyển động nhiệt và thế năng tương tác của các phân tử, nguyên tử cấu tạo nên vật.\n- Sự tăng, giảm nội năng: Khi vật được làm nóng, các phân tử chuyển động nhanh lên, động năng tăng dẫn đến nội năng của vật tăng. Ngược lại khi lạnh đi nội năng giảm.\n- Từ khóa: Thuyết cấu tạo phân tử, năng lượng nhiệt, nội năng, chuyển động nhiệt, động năng phân tử."
+  },
+  {
+    "lessonId": "khth8_b27",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Nhiệt",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 27: Thực hành đo năng lượng nhiệt bằng joulemeter\n- Chuẩn bị dụng cụ: Bình nhiệt lượng kế có dây đốt, nhiệt kế, thiết bị đo năng lượng điện cung cấp (joulemeter), nguồn điện 12V, nước sạch.\n- Cách tiến hành đo năng lượng nhiệt nước nhận được khi đun nóng:\n  1. Đổ nước ngập dây đốt trong bình nhiệt lượng kế, khuấy nhẹ và đọc nhiệt độ ban đầu t0.\n  2. Bật nguồn điện đun nóng nước, đọc giá trị năng lượng điện trên màn hình hiển thị của joulemeter tương ứng với các độ tăng nhiệt độ 3 °C, 6 °C, 9 °C.\n- Khái niệm nhiệt lượng (Q): là phần nhiệt năng mà vật nhận được hay mất đi trong quá trình truyền nhiệt. Công thức: Q = m * c * (t2 - t1), với c là nhiệt dung riêng (đối với nước c = 4180 J/kg.K), m là khối lượng nước.\n- Từ khóa: Thực hành đo, năng lượng nhiệt, joulemeter, nhiệt lượng, bình nhiệt lượng kế, nhiệt dung riêng."
+  },
+  {
+    "lessonId": "khth8_b28",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Nhiệt",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 28: Sự truyền nhiệt\n- Có ba hình thức truyền nhiệt chính:\n  1. Dẫn nhiệt: là sự truyền năng lượng trực tiếp từ các phân tử có động năng lớn hơn sang phân tử có động năng nhỏ hơn qua va chạm (ví dụ: nung thanh đồng). Chất rắn dẫn nhiệt tốt nhất (kim loại tốt nhất), chất lỏng và chất khí dẫn nhiệt kém.\n  2. Đối lưu: là sự truyền nhiệt bằng các dòng chất lưu (chất lỏng và chất khí) di chuyển từ vùng nóng lên vùng lạnh (ví dụ: đun nước sôi từ đáy ấm).\n  3. Bức xạ nhiệt: là sự truyền năng lượng nhiệt bằng các tia nhiệt (tia hồng ngoại) đi thẳng, có thể truyền qua cả chân không (ví dụ: năng lượng mặt trời truyền tới Trái Đất). Vật có bề mặt xù xì, màu sẫm hấp thụ bức xạ nhiệt tốt hơn.\n- Hiệu ứng nhà kính: Bức xạ nhiệt mặt trời truyền qua khí quyển làm Trái Đất nóng lên, Trái Đất bức xạ lại năng lượng dạng nhiệt bị khí nhà kính (CO2) giữ lại, làm khí quyển ấm lên.\n- Từ khóa: Dẫn nhiệt, đối lưu, bức xạ nhiệt, chân không, hiệu ứng nhà kính, khí carbon dioxide."
+  },
+  {
+    "lessonId": "khth8_b29",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Nhiệt",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 29: Sự nở vì nhiệt\n- Sự nở vì nhiệt của các chất:\n  1. Chất rắn: nở ra khi nóng lên, co lại khi lạnh đi. Các chất rắn khác nhau nở vì nhiệt khác nhau (nhôm nở nhiều hơn đồng, đồng nở nhiều hơn sắt). Thí nghiệm với băng kép (hai thanh kim loại ghép chặt bị cong đi khi nóng/lạnh).\n  2. Chất lỏng: nở ra khi nóng lên, co lại khi lạnh đi. Các chất lỏng khác nhau nở vì nhiệt khác nhau. Sự nở vì nhiệt đặc biệt của nước: nước ở 4 °C có khối lượng riêng lớn nhất.\n  3. Chất khí: nở ra khi nóng lên, co lại khi lạnh đi. Các chất khí khác nhau nở vì nhiệt giống nhau. Chất khí nở vì nhiệt nhiều hơn chất lỏng, chất lỏng nở nhiều hơn chất rắn.\n- Ứng dụng và tác hại: Băng kép dùng trong rơle ngắt điện tự động (bàn là, bình nóng lạnh); để khe hở đường ray xe lửa, đầu cầu sắt tránh bị cong vỡ khi thời tiết nắng nóng.\n- Từ khóa: Sự nở vì nhiệt, chất rắn lỏng khí, băng kép, rơle tự động, co dãn vì nhiệt."
+  },
+  {
+    "lessonId": "khth8_b30",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 30,
+    "lessonContent": "Bài 30: Khái quát về cơ thể người\n- Khái quát cấu tạo cơ thể người: gồm các phần đầu, cổ, thân, hai tay và hai chân, được bao bọc bởi da, dưới da là lớp mỡ, cơ và xương.\n- Các hệ cơ quan chính và vai trò:\n  1. Hệ vận động (cơ, xương, khớp): định hình cơ thể, bảo vệ nội quan, giúp cử động.\n  2. Hệ tuần hoàn (tim, mạch máu): vận chuyển chất dinh dưỡng, khí, hormone và chất thải.\n  3. Hệ hô hấp (đường dẫn khí, phổi): thực hiện trao đổi khí O2 và CO2.\n  4. Hệ tiêu hóa (ống tiêu hóa, tuyến tiêu hóa): biến đổi thức ăn thành chất dinh dưỡng.\n  5. Hệ bài tiết (phổi, thận, da): lọc và đào thải chất thải có hại ra ngoài.\n  6. Hệ thần kinh (não, tủy sống, dây thần kinh): thu nhận kích thích, điều hòa phối hợp hoạt động.\n  7. Hệ nội tiết (các tuyến nội tiết): điều hòa hoạt động cơ thể qua hormone.\n  8. Hệ sinh dục: thực hiện chức năng sinh sản.\n- Từ khóa: Cấu tạo cơ thể, hệ vận động, hệ tuần hoàn, hệ hô hấp, hệ tiêu hóa, hệ bài tiết, hệ thần kinh, hệ nội tiết, hệ sinh dục."
+  },
+  {
+    "lessonId": "khth8_b31",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 31,
+    "lessonContent": "Bài 31: Hệ vận động ở người\n- Cấu tạo hệ vận động: gồm bộ xương (khoảng 206 xương bám nhau nhờ các khớp gồm khớp động, khớp bán động, khớp bất động) và hệ cơ (khoảng 600 cơ bám vào xương nhờ gân).\n- Chức năng: nâng đỡ cơ thể, bảo vệ các cơ quan, giúp di chuyển thông qua cơ chế co cơ liên kết đòn bẩy.\n- Các bệnh, tật về hệ vận động: Tật cong vẹo cột sống (do ngồi học sai tư thế, mang vác nặng lệch bên), bệnh loãng xương (do thiếu calcium và phosphorus ở người già, người ít vận động).\n- Thực hành: Sơ cứu và băng bó khi người khác bị gãy xương (gãy xương cẳng tay bằng nẹp gỗ và băng y tế; gãy xương đùi/chân).\n- Tầm quan trọng của luyện tập thể dục, thể thao nâng cao sức khỏe hệ vận động.\n- Từ khóa: Bộ xương, hệ cơ, khớp động, cong vẹo cột sống, loãng xương, sơ cứu gãy xương, nẹp y tế."
+  },
+  {
+    "lessonId": "khth8_b32",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 32: Dinh dưỡng và tiêu hoá ở người\n- Chất dinh dưỡng và dinh dưỡng: Chất dinh dưỡng là các chất có trong thức ăn cung cấp nguyên liệu và năng lượng cho cơ thể hoạt động (carbohydrate, protein, lipid, vitamin, khoáng chất). Dinh dưỡng là quá trình thu nhận, biến đổi và sử dụng chất dinh dưỡng.\n- Cấu tạo hệ tiêu hóa: gồm ống tiêu hóa (miệng, hầu, thực quản, dạ dày, ruột non, ruột già, trực tràng, hậu môn) và tuyến tiêu hóa (tuyến nước bọt, gan, túi mật, tuyến tụy).\n- Quá trình tiêu hóa: Tiêu hóa cơ học (nhai, nghiền, bóp trộn thức ăn) và tiêu hóa hóa học (phân giải chất dinh dưỡng phức tạp thành chất đơn giản nhờ enzyme như amylase ở miệng, pepsin ở dạ dày, lipase ở ruột non). Ruột non là nơi hấp thụ chủ yếu chất dinh dưỡng nhờ lớp niêm mạc có nhiều lông ruột.\n- Bệnh hệ tiêu hóa: sâu răng (do vệ sinh kém), viêm loét dạ dày - tá tràng (do vi khuẩn Helicobacter pylori, căng thẳng, ăn uống không điều độ).\n- Xây dựng chế độ dinh dưỡng hợp lý và đảm bảo vệ sinh an toàn thực phẩm.\n- Từ khóa: Chất dinh dưỡng, hệ tiêu hóa, tiêu hóa cơ học, enzyme tiêu hóa, ruột non hấp thụ, vi khuẩn HP, an toàn thực phẩm."
+  },
+  {
+    "lessonId": "khth8_b33",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 33,
+    "lessonContent": "Bài 33: Máu và hệ tuần hoàn của cơ thể người\n- Thành phần của máu: Gồm huyết tương (chiếm 55% chủ yếu là nước, chất dinh dưỡng, chất thải) và các tế bào máu (chiếm 45% gồm hồng cầu vận chuyển khí O2 và CO2, bạch cầu bảo vệ cơ thể, tiểu cầu tham gia đông máu).\n- Miễn dịch và vaccine: Bạch cầu bảo vệ cơ thể bằng cơ chế thực bào và kháng thể trung hòa kháng nguyên. Tiêm vaccine kích thích bạch cầu tạo kháng thể tạo miễn dịch chủ động.\n- Nhóm máu và truyền máu: 4 nhóm máu hệ ABO (A, B, AB, O), sơ đồ truyền máu an toàn (tránh ngưng kết hồng cầu).\n- Hệ tuần hoàn: gồm tim (bơm máu) và hệ mạch (động mạch, tĩnh mạch, mao mạch) hình thành vòng tuần hoàn nhỏ (phổi) và vòng tuần hoàn lớn (cơ thể).\n- Bệnh hệ tuần hoàn: thiếu máu, huyết áp cao, xơ vữa động mạch.\n- Thực hành: Sơ cứu chảy máu đứt động mạch/tĩnh mạch, đo huyết áp.\n- Từ khóa: Tế bào máu, hồng cầu, bạch cầu, miễn dịch, vaccine, hệ ABO, vòng tuần hoàn, cao huyết áp, sơ cứu cầm máu."
+  },
+  {
+    "lessonId": "khth8_b34",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 34,
+    "lessonContent": "Bài 34: Hệ hô hấp ở người\n- Cấu tạo hệ hô hấp: gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quan) giúp lọc bụi, làm ấm, làm ẩm không khí; và hai lá phổi là cơ quan trao đổi khí gồm hàng triệu phế nang.\n- Chức năng hô hấp: Thông khí ở phổi (hít vào, thở ra) nhờ cử động lồng ngực và cơ hoành; trao đổi khí ở phổi (phế nang nhận O2 vào máu, thải CO2) và trao đổi khí ở tế bào theo cơ chế khuếch tán.\n- Bệnh hệ hô hấp: viêm đường hô hấp (viêm mũi, viêm phế quản), viêm phổi, lao phổi. Tác hại của khói thuốc lá làm hỏng biểu mô phế quản và gây ung thư phổi.\n- Thực hành: Hô hấp nhân tạo và cấp cứu người đuối nước (phương pháp hà hơi thổi ngạt, ấn lồng ngực).\n- Từ khóa: Đường dẫn khí, phổi, phế nang, thông khí phổi, khuếch tán khí, viêm phế quản, lao phổi, thuốc lá, hô hấp nhân tạo."
+  },
+  {
+    "lessonId": "khth8_b35",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 35,
+    "lessonContent": "Bài 35: Hệ bài tiết ở người\n- Chức năng bài tiết: lọc và thải ra môi trường các chất cặn bã từ quá trình chuyển hóa tế bào (thải khí qua phổi, thải mồ hôi qua da, thải nước tiểu qua thận). Thận thải tới 90% sản phẩm bài tiết dạng nước tiểu.\n- Cấu tạo hệ bài tiết nước tiểu: gồm hai quả thận, ống dẫn nước tiểu, bóng đái, ống đái. Mỗi quả thận chứa khoảng 1 triệu đơn vị chức năng (cầu thận, nang cầu thận, ống thận) thực hiện quá trình lọc máu tạo nước tiểu.\n- Bệnh hệ bài tiết: sỏi thận (lắng đọng calcium oxalate, muối urate), viêm cầu thận, suy thận.\n- Thành tựu y học: ghép thận từ người hiến tặng, chạy thận nhân tạo bằng máy lọc chất độc khỏi máu khi thận suy giảm chức năng.\n- Từ khóa: Hệ bài tiết, đơn vị chức năng thận, cầu thận, sỏi thận, suy thận, chạy thận nhân tạo, ghép thận."
+  },
+  {
+    "lessonId": "khth8_b36",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 36,
+    "lessonContent": "Bài 36: Điều hoà môi trường trong của cơ thể người\n- Môi trường trong cơ thể: gồm máu, nước mô và bạch huyết, thường xuyên liên hệ với môi trường ngoài thông qua các hệ cơ quan.\n- Cân bằng môi trường trong: là sự duy trì ổn định của môi trường trong cơ thể (nồng độ glucose, nồng độ muối, urea, axit uric, pH máu...) để tế bào hoạt động bình thường. Nếu mất cân bằng sẽ gây bệnh nguy hiểm (bệnh đái tháo đường do glucose máu cao, bệnh gout do axit uric máu cao gây lắng đọng tinh thể khớp).\n- Đọc kết quả xét nghiệm chỉ số glucose và uric acid trong xét nghiệm máu.\n- Từ khóa: Môi trường trong, cân bằng môi trường trong, đái tháo đường, bệnh gout, xét nghiệm máu."
+  },
+  {
+    "lessonId": "khth8_b37",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 37,
+    "lessonContent": "Bài 37: Hệ thần kinh và các giác quan ở người\n- Hệ thần kinh:\n  1. Cấu tạo: gồm bộ phận trung ương (não, tủy sống) và bộ phận ngoại biên (các dây thần kinh, hạch thần kinh).\n  2. Chức năng: điều khiển, điều hòa, phối hợp hoạt động các cơ quan. Một số bệnh: Parkinson, động kinh, Alzheimer. Tác hại chất gây nghiện (ma túy, nicotine).\n- Các giác quan:\n  1. Thị giác (mắt): cấu tạo cầu mắt (giác mạc, thể thủy tinh, võng mạc...). Quá trình thu nhận ánh sáng. Các bệnh, tật: cận thị, viễn thị, loạn thị, viêm đau mắt đỏ.\n  2. Thính giác (tai): cấu tạo tai ngoài (vành tai, ống tai), tai giữa (màng nhĩ, chuỗi xương tai), tai trong (ốc tai chứa tế bào thụ cảm thính giác). Quá trình thu nhận âm thanh. Bệnh về tai: viêm tai giữa, ù tai.\n- Từ khóa: Hệ thần kinh trung ương, tủy sống, chất gây nghiện, cầu mắt, võng mạc, cận thị, màng nhĩ, ốc tai, viêm tai giữa."
+  },
+  {
+    "lessonId": "khth8_b38",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 38,
+    "lessonContent": "Bài 38: Hệ nội tiết ở người\n- Chức năng hệ nội tiết: điều hòa các quá trình sinh lí (sinh trưởng, chuyển hóa, sinh sản) của cơ thể thông qua các hormone do các tuyến nội tiết tiết trực tiếp vào máu.\n- Các tuyến nội tiết chủ yếu:\n  1. Tuyến yên: tiết hormone điều hòa sinh trưởng GH và kích thích hoạt động các tuyến nội tiết khác.\n  2. Tuyến giáp: tiết hormone thyroxine chứa iodine giúp trao đổi chất.\n  3. Tuyến tụy: phần nội tiết tiết insulin (giảm đường huyết) và glucagon (tăng đường huyết).\n  4. Tuyến trên thận: tiết adrenaline tăng nhịp tim và điều hòa muối, đường.\n  5. Tuyến sinh dục (tinh hoàn ở nam, buồng trứng ở nữ): tiết testosterone và estrogen phát triển đặc điểm giới tính.\n- Bệnh liên quan hệ nội tiết: đái tháo đường (thiếu insulin), bướu cổ (thiếu iodine tuyến giáp sưng to).\n- Từ khóa: Tuyến nội tiết, hormone, tuyến yên, tuyến giáp, tuyến tụy, insulin, tuyến sinh dục, bướu cổ."
+  },
+  {
+    "lessonId": "khth8_b39",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 39,
+    "lessonContent": "Bài 39: Da và điều hoà thân nhiệt ở người\n- Cấu tạo da ở người: gồm lớp biểu bì (tầng sừng, tế bào sống), lớp bì (tuyến mồ hôi, tuyến nhờn, cơ co chân lông, thụ quan, mạch máu, thần kinh) và lớp mỡ dưới da. Có chức năng bảo vệ, cảm giác, bài tiết, điều hòa thân nhiệt.\n- Bệnh về da: hắc lào, lang ben, mụn trứng cá. Cách chăm sóc, bảo vệ da an toàn.\n- Điều hòa thân nhiệt ở người: Thân nhiệt bình thường ổn định khoảng 37 °C. Da và hệ thần kinh điều hòa thân nhiệt qua cơ chế co giãn mạch máu dưới da, tiết mồ hôi, co cơ chân lông, run để cân bằng quá trình sinh nhiệt và tỏa nhiệt.\n- Phương pháp chống nóng, chống lạnh cho cơ thể, xử lý say nắng (cảm nóng), cảm lạnh.\n- Từ khóa: Cấu tạo da, tuyến mồ hôi, điều hòa thân nhiệt, cơ co chân lông, say nắng, cảm lạnh."
+  },
+  {
+    "lessonId": "khth8_b40",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Sinh học cơ thể người",
+    "lessonOrder": 40,
+    "lessonContent": "Bài 40: Sinh sản ở người\n- Cơ quan sinh dục: Cơ quan sinh dục nam (tinh hoàn sinh tinh trùng, mào tinh, ống dẫn tinh, dương vật, tuyến tiền liệt); cơ quan sinh dục nữ (buồng trứng sinh trứng, ống dẫn trứng, tử cung nuôi thai, âm đạo).\n- Thụ tinh và thụ thai: Thụ tinh diễn ra tại ống dẫn trứng khi tinh trùng kết hợp với trứng tạo hợp tử. Thụ thai diễn ra khi hợp tử phân chia thành phôi, di chuyển xuống tử cung bám vào lớp niêm mạc làm tổ.\n- Hiện tượng kinh nguyệt và các biện pháp tránh thai (sử dụng bao cao su, thuốc tránh thai hằng ngày, đặt vòng tránh thai).\n- Bệnh lây truyền qua đường sinh dục: giang mai (xoắn khuẩn), lậu (song cầu khuẩn), AIDS (virus HIV). Bảo vệ sức khỏe sinh sản tuổi vị thành niên.\n- Từ khóa: Hệ sinh dục, tinh hoàn, buồng trứng, thụ tinh, thụ thai, kinh nguyệt, tránh thai, HIV/AIDS."
+  },
+  {
+    "lessonId": "khth8_b41",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 41,
+    "lessonContent": "Bài 41: Môi trường và các nhân tố sinh thái\n- Khái niệm môi trường sống: là nơi sinh sống của sinh vật, bao gồm các nhân tố bao quanh có ảnh hưởng trực tiếp hoặc gián tiếp đến sự tồn tại, sinh trưởng, phát triển của sinh vật.\n- Bốn loại môi trường chủ yếu: môi trường trên cạn, môi trường nước, môi trường trong đất và môi trường sinh vật.\n- Nhân tố sinh thái: là những yếu tố của môi trường tác động đến sinh vật, chia làm hai nhóm:\n  1. Nhân tố vô sinh (nhân tố không sống): nhiệt độ, ánh sáng, độ ẩm, đất, nước...\n  2. Nhân tố hữu sinh (nhân tố sống): con người và các sinh vật khác.\n- Giới hạn sinh thái: là khoảng giá trị của một nhân tố sinh thái mà trong đó sinh vật có thể tồn tại và phát triển ổn định theo thời gian (ví dụ: giới hạn nhiệt độ của cá rô phi từ 5,6 °C đến 42 °C, khoảng thuận lợi từ 20 °C đến 35 °C).\n- Từ khóa: Môi trường sống, nhân tố vô sinh, nhân tố hữu sinh, giới hạn sinh thái, khoảng thuận lợi."
+  },
+  {
+    "lessonId": "khth8_b42",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 42,
+    "lessonContent": "Bài 42: Quần thể sinh vật\n- Khái niệm quần thể sinh vật: là tập hợp các cá thể cùng loài, sinh sống trong một khoảng không gian xác định, ở một thời điểm nhất định và có khả năng sinh sản để tạo thành những thế hệ mới.\n- Các đặc trưng cơ bản của quần thể:\n  1. Kích thước quần thể: số lượng hoặc khối lượng cá thể phân bố trong không gian quần thể.\n  2. Mật độ cá thể: số lượng cá thể trên một đơn vị diện tích hoặc thể tích của quần thể.\n  3. Tỉ lệ giới tính: tỉ lệ giữa số lượng cá thể đực và cá thể cái.\n  4. Nhóm tuổi: cấu trúc tuổi biểu diễn bằng tháp tuổi (tháp phát triển, tháp ổn định, tháp suy thoái).\n  5. Kiểu phân bố cá thể: phân bố đều, phân bố theo nhóm (phổ biến nhất), phân bố ngẫu nhiên.\n- Biện pháp bảo vệ quần thể: thành lập vườn quốc gia, bảo tồn sinh cảnh sống của quần thể có nguy cơ tuyệt chủng.\n- Từ khóa: Quần thể sinh vật, mật độ cá thể, tỉ lệ giới tính, tháp tuổi, phân bố cá thể, bảo tồn hoang dã."
+  },
+  {
+    "lessonId": "khth8_b43",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 43,
+    "lessonContent": "Bài 43: Quần xã sinh vật\n- Khái niệm quần xã sinh vật: là một tập hợp các quần thể sinh vật thuộc nhiều loài khác nhau, cùng sống trong một không gian và thời gian nhất định, các sinh vật có mối quan hệ gắn bó hữu cơ với nhau tạo thành một thể thống nhất tương đối ổn định.\n- Các đặc trưng cơ bản của quần xã:\n  1. Độ đa dạng: phong phú về số lượng loài và số lượng cá thể của mỗi loài trong quần xã.\n  2. Loài ưu thế: loài có số lượng cá thể nhiều, hoạt động mạnh, đóng vai trò quan trọng trong quần xã (ví dụ: lúa trong ruộng lúa).\n  3. Loài đặc trưng: loài chỉ có ở một quần xã hoặc có số lượng nhiều hơn hẳn các loài khác (ví dụ: cá cóc ở Tam Đảo).\n- Bảo vệ đa dạng sinh học trong quần xã: ngăn cấm săn bắn trái phép, bảo vệ rừng đặc dụng và phòng chống cháy rừng.\n- Từ khóa: Quần xã sinh vật, độ đa dạng, loài ưu thế, loài đặc trưng, đa dạng sinh học, bảo tồn quần xã."
+  },
+  {
+    "lessonId": "khth8_b44",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 44,
+    "lessonContent": "Bài 44: Hệ sinh thái\n- Khái niệm hệ sinh thái: gồm quần xã sinh vật và môi trường sống của chúng (sinh cảnh). Các sinh vật trong quần xã luôn tác động qua lại lẫn nhau và tác động với môi trường tạo thành một chu trình sinh học bền vững.\n- Thành phần cấu trúc hệ sinh thái:\n  1. Thành phần vô sinh (sinh cảnh): các nhân tố không sống như đất, nước, không khí, ánh sáng.\n  2. Thành phần hữu sinh (quần xã): Sinh vật sản xuất (thực vật, tảo); Sinh vật tiêu thụ (động vật ăn thực vật, động vật ăn thịt); Sinh vật phân giải (vi khuẩn, nấm phân giải chất hữu cơ thành vô cơ).\n- Trao đổi chất và chuyển hóa năng lượng:\n  1. Chuỗi thức ăn: gồm nhiều loài có quan hệ dinh dưỡng với nhau, loài đứng sau tiêu thụ loài đứng trước (ví dụ: Cỏ -> Châu chấu -> Ếch -> Rắn -> Đại bàng).\n  2. Lưới thức ăn: tập hợp các chuỗi thức ăn có nhiều mắt xích chung trong hệ sinh thái.\n  3. Tháp sinh thái (tháp số lượng, tháp sinh khối, tháp năng lượng).\n- Bảo vệ các hệ sinh thái tự nhiên và nông nghiệp bền vững.\n- Từ khóa: Hệ sinh thái, sinh cảnh, sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải, chuỗi thức ăn, lưới thức ăn, tháp sinh thái."
+  },
+  {
+    "lessonId": "khth8_b45",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 45,
+    "lessonContent": "Bài 45: Sinh quyển\n- Khái niệm sinh quyển: là toàn bộ sinh vật sống trên Trái Đất cùng với các nhân tố vô sinh cấu thành môi trường sống của chúng. Sinh quyển bao gồm lớp đất (thạch quyển), lớp không khí có sự sống (khí quyển) và lớp nước (thủy quyển).\n- Các khu sinh học chủ yếu (Biom):\n  1. Khu sinh học trên cạn: phân bố theo nhiệt độ và độ ẩm từ cực đến xích đạo gồm đồng rêu hàn đới, rừng lá kim phương bắc, rừng ôn đới, thảo nguyên, sa mạc, savan, rừng mưa nhiệt đới.\n  2. Khu sinh học nước ngọt: khu nước đứng (ao, hồ, đầm) và khu nước chảy (sông, suối).\n  3. Khu sinh học biển: vùng ven bờ có đa dạng cao và vùng khơi đại dương phân chia theo độ sâu.\n- Từ khóa: Sinh quyển, thạch quyển, khí quyển, thủy quyển, khu sinh học trên cạn, khu sinh học nước ngọt, khu sinh học biển."
+  },
+  {
+    "lessonId": "khth8_b46",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 46,
+    "lessonContent": "Bài 46: Cân bằng tự nhiên\n- Khái niệm cân bằng tự nhiên: là trạng thái ổn định tự nhiên của các cấp độ tổ chức sống, hướng tới sự thích nghi cao nhất với điều kiện sống. Biểu hiện ở sự cân bằng số lượng cá thể quần thể, khống chế sinh học trong quần xã và cân bằng hệ sinh thái.\n- Khống chế sinh học: là hiện tượng số lượng cá thể của quần thể này bị khống chế ở mức độ nhất định bởi quần thể khác trong quần xã (ví dụ: mối quan hệ thiên địch giữa thỏ tuyết và linh miêu).\n- Nguyên nhân mất cân bằng tự nhiên: chủ yếu do tác động quá mạnh của con người như phá rừng, săn bắt động vật hoang dã, ô nhiễm môi trường.\n- Biện pháp duy trì cân bằng tự nhiên: hạn chế ô nhiễm, bảo vệ rừng và đa dạng sinh học, khai thác hợp lý tài nguyên.\n- Từ khóa: Cân bằng tự nhiên, khống chế sinh học, thiên địch, mất cân bằng tự nhiên, bảo vệ cân bằng."
+  },
+  {
+    "lessonId": "khth8_b47",
+    "grade": 8,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Sinh vật và môi trường",
+    "lessonOrder": 47,
+    "lessonContent": "Bài 47: Bảo vệ môi trường\n- Tác động của con người qua các thời kỳ: thời kỳ nguyên thủy (tác động nhỏ), thời kỳ nông nghiệp (gây xói mòn xáo trộn lớn), thời kỳ công nghiệp và hậu công nghiệp (đô thị hóa, cơ giới hóa gây ô nhiễm và suy thoái nghiêm trọng).\n- Ô nhiễm môi trường: là sự biến đổi tính chất vật lý, hóa học, sinh học của thành phần môi trường, gây hại sức khỏe và sinh vật. Nguyên nhân chủ yếu từ chất thải công nghiệp, sinh hoạt, thuốc bảo vệ thực vật, phóng xạ.\n- Biện pháp hạn chế ô nhiễm: trồng cây xanh, phân loại rác thải, xử lý nước thải, sử dụng năng lượng tái tạo (gió, mặt trời).\n- Biến đổi khí hậu và thích ứng: do nồng độ CO2 tăng gây hiệu ứng nhà kính. Biện pháp thích ứng: kiên cố hóa đê điều, bảo vệ rừng phòng hộ, trồng rừng chống xói mòn.\n- Bảo vệ đa dạng sinh học, bảo vệ các động vật hoang dã nguy cấp tuyệt chủng (CITES).\n- Từ khóa: Tác động con người, ô nhiễm môi trường, năng lượng tái tạo, biến đổi khí hậu, hiệu ứng nhà kính, bảo vệ đa dạng sinh học."
+  }
+]

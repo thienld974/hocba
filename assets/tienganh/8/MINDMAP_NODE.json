@@ -1,0 +1,849 @@
+[
+  {
+    "nodeId": "root_tienganh8",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TIẾNG ANH 8 - GLOBAL SUCCESS",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "tienganh8_node_u1",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 1: Leisure Time",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p1",
+    "lessonId": "tienganh8_u1_p1",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p2",
+    "lessonId": "tienganh8_u1_p2",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p3",
+    "lessonId": "tienganh8_u1_p3",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p4",
+    "lessonId": "tienganh8_u1_p4",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p5",
+    "lessonId": "tienganh8_u1_p5",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p6",
+    "lessonId": "tienganh8_u1_p6",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p7",
+    "lessonId": "tienganh8_u1_p7",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh8_node_u1_p8",
+    "lessonId": "tienganh8_u1_p8",
+    "parentNodeId": "tienganh8_node_u1",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh8_node_u2",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 2: Life in the Countryside",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p1",
+    "lessonId": "tienganh8_u2_p1",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "Getting Started",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p2",
+    "lessonId": "tienganh8_u2_p2",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p3",
+    "lessonId": "tienganh8_u2_p3",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p4",
+    "lessonId": "tienganh8_u2_p4",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "Communication",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p5",
+    "lessonId": "tienganh8_u2_p5",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "Skills 1",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p6",
+    "lessonId": "tienganh8_u2_p6",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "Skills 2",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p7",
+    "lessonId": "tienganh8_u2_p7",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "Looking Back",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "tienganh8_node_u2_p8",
+    "lessonId": "tienganh8_u2_p8",
+    "parentNodeId": "tienganh8_node_u2",
+    "nodeName": "Project",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "tienganh8_node_u3",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 3: Teenagers",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p1",
+    "lessonId": "tienganh8_u3_p1",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "Getting Started",
+    "orderIndex": 17
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p2",
+    "lessonId": "tienganh8_u3_p2",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 18
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p3",
+    "lessonId": "tienganh8_u3_p3",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 19
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p4",
+    "lessonId": "tienganh8_u3_p4",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "Communication",
+    "orderIndex": 20
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p5",
+    "lessonId": "tienganh8_u3_p5",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "Skills 1",
+    "orderIndex": 21
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p6",
+    "lessonId": "tienganh8_u3_p6",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "Skills 2",
+    "orderIndex": 22
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p7",
+    "lessonId": "tienganh8_u3_p7",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "Looking Back",
+    "orderIndex": 23
+  },
+  {
+    "nodeId": "tienganh8_node_u3_p8",
+    "lessonId": "tienganh8_u3_p8",
+    "parentNodeId": "tienganh8_node_u3",
+    "nodeName": "Project",
+    "orderIndex": 24
+  },
+  {
+    "nodeId": "tienganh8_node_r1",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Review 1 (Units 1 - 2 - 3)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "tienganh8_node_r1_p1",
+    "lessonId": "tienganh8_r1_p1",
+    "parentNodeId": "tienganh8_node_r1",
+    "nodeName": "Language",
+    "orderIndex": 25
+  },
+  {
+    "nodeId": "tienganh8_node_r1_p2",
+    "lessonId": "tienganh8_r1_p2",
+    "parentNodeId": "tienganh8_node_r1",
+    "nodeName": "Skills",
+    "orderIndex": 26
+  },
+  {
+    "nodeId": "tienganh8_node_u4",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 4: Ethnic Groups of Viet Nam",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p1",
+    "lessonId": "tienganh8_u4_p1",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "Getting Started",
+    "orderIndex": 27
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p2",
+    "lessonId": "tienganh8_u4_p2",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 28
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p3",
+    "lessonId": "tienganh8_u4_p3",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 29
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p4",
+    "lessonId": "tienganh8_u4_p4",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "Communication",
+    "orderIndex": 30
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p5",
+    "lessonId": "tienganh8_u4_p5",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "Skills 1",
+    "orderIndex": 31
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p6",
+    "lessonId": "tienganh8_u4_p6",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "Skills 2",
+    "orderIndex": 32
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p7",
+    "lessonId": "tienganh8_u4_p7",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "Looking Back",
+    "orderIndex": 33
+  },
+  {
+    "nodeId": "tienganh8_node_u4_p8",
+    "lessonId": "tienganh8_u4_p8",
+    "parentNodeId": "tienganh8_node_u4",
+    "nodeName": "Project",
+    "orderIndex": 34
+  },
+  {
+    "nodeId": "tienganh8_node_u5",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 5: Our Customs and Traditions",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p1",
+    "lessonId": "tienganh8_u5_p1",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "Getting Started",
+    "orderIndex": 35
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p2",
+    "lessonId": "tienganh8_u5_p2",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 36
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p3",
+    "lessonId": "tienganh8_u5_p3",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 37
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p4",
+    "lessonId": "tienganh8_u5_p4",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "Communication",
+    "orderIndex": 38
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p5",
+    "lessonId": "tienganh8_u5_p5",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "Skills 1",
+    "orderIndex": 39
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p6",
+    "lessonId": "tienganh8_u5_p6",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "Skills 2",
+    "orderIndex": 40
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p7",
+    "lessonId": "tienganh8_u5_p7",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "Looking Back",
+    "orderIndex": 41
+  },
+  {
+    "nodeId": "tienganh8_node_u5_p8",
+    "lessonId": "tienganh8_u5_p8",
+    "parentNodeId": "tienganh8_node_u5",
+    "nodeName": "Project",
+    "orderIndex": 42
+  },
+  {
+    "nodeId": "tienganh8_node_u6",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 6: Lifestyles",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p1",
+    "lessonId": "tienganh8_u6_p1",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "Getting Started",
+    "orderIndex": 43
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p2",
+    "lessonId": "tienganh8_u6_p2",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 44
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p3",
+    "lessonId": "tienganh8_u6_p3",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 45
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p4",
+    "lessonId": "tienganh8_u6_p4",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "Communication",
+    "orderIndex": 46
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p5",
+    "lessonId": "tienganh8_u6_p5",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "Skills 1",
+    "orderIndex": 47
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p6",
+    "lessonId": "tienganh8_u6_p6",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "Skills 2",
+    "orderIndex": 48
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p7",
+    "lessonId": "tienganh8_u6_p7",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "Looking Back",
+    "orderIndex": 49
+  },
+  {
+    "nodeId": "tienganh8_node_u6_p8",
+    "lessonId": "tienganh8_u6_p8",
+    "parentNodeId": "tienganh8_node_u6",
+    "nodeName": "Project",
+    "orderIndex": 50
+  },
+  {
+    "nodeId": "tienganh8_node_r2",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Review 2 (Units 4 - 5 - 6)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "tienganh8_node_r2_p1",
+    "lessonId": "tienganh8_r2_p1",
+    "parentNodeId": "tienganh8_node_r2",
+    "nodeName": "Language",
+    "orderIndex": 51
+  },
+  {
+    "nodeId": "tienganh8_node_r2_p2",
+    "lessonId": "tienganh8_r2_p2",
+    "parentNodeId": "tienganh8_node_r2",
+    "nodeName": "Skills",
+    "orderIndex": 52
+  },
+  {
+    "nodeId": "tienganh8_node_u7",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 7: Environmental Protection",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p1",
+    "lessonId": "tienganh8_u7_p1",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "Getting Started",
+    "orderIndex": 53
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p2",
+    "lessonId": "tienganh8_u7_p2",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 54
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p3",
+    "lessonId": "tienganh8_u7_p3",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 55
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p4",
+    "lessonId": "tienganh8_u7_p4",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "Communication",
+    "orderIndex": 56
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p5",
+    "lessonId": "tienganh8_u7_p5",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "Skills 1",
+    "orderIndex": 57
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p6",
+    "lessonId": "tienganh8_u7_p6",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "Skills 2",
+    "orderIndex": 58
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p7",
+    "lessonId": "tienganh8_u7_p7",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "Looking Back",
+    "orderIndex": 59
+  },
+  {
+    "nodeId": "tienganh8_node_u7_p8",
+    "lessonId": "tienganh8_u7_p8",
+    "parentNodeId": "tienganh8_node_u7",
+    "nodeName": "Project",
+    "orderIndex": 60
+  },
+  {
+    "nodeId": "tienganh8_node_u8",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 8: Shopping",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p1",
+    "lessonId": "tienganh8_u8_p1",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "Getting Started",
+    "orderIndex": 61
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p2",
+    "lessonId": "tienganh8_u8_p2",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 62
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p3",
+    "lessonId": "tienganh8_u8_p3",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 63
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p4",
+    "lessonId": "tienganh8_u8_p4",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "Communication",
+    "orderIndex": 64
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p5",
+    "lessonId": "tienganh8_u8_p5",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "Skills 1",
+    "orderIndex": 65
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p6",
+    "lessonId": "tienganh8_u8_p6",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "Skills 2",
+    "orderIndex": 66
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p7",
+    "lessonId": "tienganh8_u8_p7",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "Looking Back",
+    "orderIndex": 67
+  },
+  {
+    "nodeId": "tienganh8_node_u8_p8",
+    "lessonId": "tienganh8_u8_p8",
+    "parentNodeId": "tienganh8_node_u8",
+    "nodeName": "Project",
+    "orderIndex": 68
+  },
+  {
+    "nodeId": "tienganh8_node_u9",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 9: Natural Disasters",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p1",
+    "lessonId": "tienganh8_u9_p1",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "Getting Started",
+    "orderIndex": 69
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p2",
+    "lessonId": "tienganh8_u9_p2",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 70
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p3",
+    "lessonId": "tienganh8_u9_p3",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 71
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p4",
+    "lessonId": "tienganh8_u9_p4",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "Communication",
+    "orderIndex": 72
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p5",
+    "lessonId": "tienganh8_u9_p5",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "Skills 1",
+    "orderIndex": 73
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p6",
+    "lessonId": "tienganh8_u9_p6",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "Skills 2",
+    "orderIndex": 74
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p7",
+    "lessonId": "tienganh8_u9_p7",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "Looking Back",
+    "orderIndex": 75
+  },
+  {
+    "nodeId": "tienganh8_node_u9_p8",
+    "lessonId": "tienganh8_u9_p8",
+    "parentNodeId": "tienganh8_node_u9",
+    "nodeName": "Project",
+    "orderIndex": 76
+  },
+  {
+    "nodeId": "tienganh8_node_r3",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Review 3 (Units 7 - 8 - 9)",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "tienganh8_node_r3_p1",
+    "lessonId": "tienganh8_r3_p1",
+    "parentNodeId": "tienganh8_node_r3",
+    "nodeName": "Language",
+    "orderIndex": 77
+  },
+  {
+    "nodeId": "tienganh8_node_r3_p2",
+    "lessonId": "tienganh8_r3_p2",
+    "parentNodeId": "tienganh8_node_r3",
+    "nodeName": "Skills",
+    "orderIndex": 78
+  },
+  {
+    "nodeId": "tienganh8_node_u10",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 10: Communication in the Future",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p1",
+    "lessonId": "tienganh8_u10_p1",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "Getting Started",
+    "orderIndex": 79
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p2",
+    "lessonId": "tienganh8_u10_p2",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 80
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p3",
+    "lessonId": "tienganh8_u10_p3",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 81
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p4",
+    "lessonId": "tienganh8_u10_p4",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "Communication",
+    "orderIndex": 82
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p5",
+    "lessonId": "tienganh8_u10_p5",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "Skills 1",
+    "orderIndex": 83
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p6",
+    "lessonId": "tienganh8_u10_p6",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "Skills 2",
+    "orderIndex": 84
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p7",
+    "lessonId": "tienganh8_u10_p7",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "Looking Back",
+    "orderIndex": 85
+  },
+  {
+    "nodeId": "tienganh8_node_u10_p8",
+    "lessonId": "tienganh8_u10_p8",
+    "parentNodeId": "tienganh8_node_u10",
+    "nodeName": "Project",
+    "orderIndex": 86
+  },
+  {
+    "nodeId": "tienganh8_node_u11",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 11: Science and Technology",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p1",
+    "lessonId": "tienganh8_u11_p1",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "Getting Started",
+    "orderIndex": 87
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p2",
+    "lessonId": "tienganh8_u11_p2",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 88
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p3",
+    "lessonId": "tienganh8_u11_p3",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 89
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p4",
+    "lessonId": "tienganh8_u11_p4",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "Communication",
+    "orderIndex": 90
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p5",
+    "lessonId": "tienganh8_u11_p5",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "Skills 1",
+    "orderIndex": 91
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p6",
+    "lessonId": "tienganh8_u11_p6",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "Skills 2",
+    "orderIndex": 92
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p7",
+    "lessonId": "tienganh8_u11_p7",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "Looking Back",
+    "orderIndex": 93
+  },
+  {
+    "nodeId": "tienganh8_node_u11_p8",
+    "lessonId": "tienganh8_u11_p8",
+    "parentNodeId": "tienganh8_node_u11",
+    "nodeName": "Project",
+    "orderIndex": 94
+  },
+  {
+    "nodeId": "tienganh8_node_u12",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Unit 12: Life on Other Planets",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p1",
+    "lessonId": "tienganh8_u12_p1",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "Getting Started",
+    "orderIndex": 95
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p2",
+    "lessonId": "tienganh8_u12_p2",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 96
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p3",
+    "lessonId": "tienganh8_u12_p3",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 97
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p4",
+    "lessonId": "tienganh8_u12_p4",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "Communication",
+    "orderIndex": 98
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p5",
+    "lessonId": "tienganh8_u12_p5",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "Skills 1",
+    "orderIndex": 99
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p6",
+    "lessonId": "tienganh8_u12_p6",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "Skills 2",
+    "orderIndex": 100
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p7",
+    "lessonId": "tienganh8_u12_p7",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "Looking Back",
+    "orderIndex": 101
+  },
+  {
+    "nodeId": "tienganh8_node_u12_p8",
+    "lessonId": "tienganh8_u12_p8",
+    "parentNodeId": "tienganh8_node_u12",
+    "nodeName": "Project",
+    "orderIndex": 102
+  },
+  {
+    "nodeId": "tienganh8_node_r4",
+    "lessonId": null,
+    "parentNodeId": "root_tienganh8",
+    "nodeName": "Review 4 (Units 10 - 11 - 12)",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "tienganh8_node_r4_p1",
+    "lessonId": "tienganh8_r4_p1",
+    "parentNodeId": "tienganh8_node_r4",
+    "nodeName": "Language",
+    "orderIndex": 103
+  },
+  {
+    "nodeId": "tienganh8_node_r4_p2",
+    "lessonId": "tienganh8_r4_p2",
+    "parentNodeId": "tienganh8_node_r4",
+    "nodeName": "Skills",
+    "orderIndex": 104
+  }
+]

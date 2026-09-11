@@ -1,0 +1,261 @@
+[
+  {
+    "nodeId": "root_kh5",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "KHOA HỌC 5 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "kh5_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_kh5",
+    "nodeName": "Chủ đề 1. Chất",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l1",
+    "lessonId": "khoahoc5_b1",
+    "parentNodeId": "kh5_node_ch1",
+    "nodeName": "Bài 1. Thành phần và vai trò của đất đối với cây trồng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l2",
+    "lessonId": "khoahoc5_b2",
+    "parentNodeId": "kh5_node_ch1",
+    "nodeName": "Bài 2. Ô nhiễm, xói mòn đất và bảo vệ môi trường đất",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l3",
+    "lessonId": "khoahoc5_b3",
+    "parentNodeId": "kh5_node_ch1",
+    "nodeName": "Bài 3. Hỗn hợp và dung dịch",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh5_node_l4",
+    "lessonId": "khoahoc5_b4",
+    "parentNodeId": "kh5_node_ch1",
+    "nodeName": "Bài 4. Đặc điểm của chất ở trạng thái rắn, lỏng, khí. Sự biến đổi trạng thái của chất",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh5_node_l5",
+    "lessonId": "khoahoc5_b5",
+    "parentNodeId": "kh5_node_ch1",
+    "nodeName": "Bài 5. Sự biến đổi hoá học của chất",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh5_node_l6",
+    "lessonId": "khoahoc5_b6",
+    "parentNodeId": "kh5_node_ch1",
+    "nodeName": "Bài 6. Ôn tập chủ đề Chất",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh5_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_kh5",
+    "nodeName": "Chủ đề 2. Năng lượng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l7",
+    "lessonId": "khoahoc5_b7",
+    "parentNodeId": "kh5_node_ch2",
+    "nodeName": "Bài 7. Vai trò của năng lượng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l8",
+    "lessonId": "khoahoc5_b8",
+    "parentNodeId": "kh5_node_ch2",
+    "nodeName": "Bài 8. Sử dụng năng lượng điện",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l9",
+    "lessonId": "khoahoc5_b9",
+    "parentNodeId": "kh5_node_ch2",
+    "nodeName": "Bài 9. Mạch điện đơn giản. Vật dẫn điện và vật cách điện",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh5_node_l10",
+    "lessonId": "khoahoc5_b10",
+    "parentNodeId": "kh5_node_ch2",
+    "nodeName": "Bài 10. Năng lượng chất đốt",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh5_node_l11",
+    "lessonId": "khoahoc5_b11",
+    "parentNodeId": "kh5_node_ch2",
+    "nodeName": "Bài 11. Sử dụng năng lượng mặt trời, năng lượng gió, năng lượng nước chảy",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh5_node_l12",
+    "lessonId": "khoahoc5_b12",
+    "parentNodeId": "kh5_node_ch2",
+    "nodeName": "Bài 12. Ôn tập chủ đề Năng lượng",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh5_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_kh5",
+    "nodeName": "Chủ đề 3. Thực vật và động vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh5_node_l13",
+    "lessonId": "khoahoc5_b13",
+    "parentNodeId": "kh5_node_ch3",
+    "nodeName": "Bài 13. Sinh sản của thực vật có hoa",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l14",
+    "lessonId": "khoahoc5_b14",
+    "parentNodeId": "kh5_node_ch3",
+    "nodeName": "Bài 14. Sự phát triển của cây con",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l15",
+    "lessonId": "khoahoc5_b15",
+    "parentNodeId": "kh5_node_ch3",
+    "nodeName": "Bài 15. Sinh sản của động vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh5_node_l16",
+    "lessonId": "khoahoc5_b16",
+    "parentNodeId": "kh5_node_ch3",
+    "nodeName": "Bài 16. Vòng đời và sự phát triển của động vật",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh5_node_l17",
+    "lessonId": "khoahoc5_b17",
+    "parentNodeId": "kh5_node_ch3",
+    "nodeName": "Bài 17. Ôn tập chủ đề Thực vật và động vật",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh5_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_kh5",
+    "nodeName": "Chủ đề 4. Vi khuẩn",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh5_node_l18",
+    "lessonId": "khoahoc5_b18",
+    "parentNodeId": "kh5_node_ch4",
+    "nodeName": "Bài 18. Vi khuẩn xung quanh chúng ta",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l19",
+    "lessonId": "khoahoc5_b19",
+    "parentNodeId": "kh5_node_ch4",
+    "nodeName": "Bài 19. Vi khuẩn có ích trong chế biến thực phẩm",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l20",
+    "lessonId": "khoahoc5_b20",
+    "parentNodeId": "kh5_node_ch4",
+    "nodeName": "Bài 20. Vi khuẩn gây bệnh ở người và cách phòng tránh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh5_node_l21",
+    "lessonId": "khoahoc5_b21",
+    "parentNodeId": "kh5_node_ch4",
+    "nodeName": "Bài 21. Ôn tập chủ đề Vi khuẩn",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh5_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_kh5",
+    "nodeName": "Chủ đề 5. Con người và sức khoẻ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh5_node_l22",
+    "lessonId": "khoahoc5_b22",
+    "parentNodeId": "kh5_node_ch5",
+    "nodeName": "Bài 22. Sự hình thành cơ thể người",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l23",
+    "lessonId": "khoahoc5_b23",
+    "parentNodeId": "kh5_node_ch5",
+    "nodeName": "Bài 23. Các giai đoạn phát triển chính của con người",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l24",
+    "lessonId": "khoahoc5_b24",
+    "parentNodeId": "kh5_node_ch5",
+    "nodeName": "Bài 24. Nam và nữ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh5_node_l25",
+    "lessonId": "khoahoc5_b25",
+    "parentNodeId": "kh5_node_ch5",
+    "nodeName": "Bài 25. Chăm sóc sức khoẻ tuổi dậy thì",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh5_node_l26",
+    "lessonId": "khoahoc5_b26",
+    "parentNodeId": "kh5_node_ch5",
+    "nodeName": "Bài 26. Phòng tránh bị xâm hại",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh5_node_l27",
+    "lessonId": "khoahoc5_b27",
+    "parentNodeId": "kh5_node_ch5",
+    "nodeName": "Bài 27. Ôn tập chủ đề Con người và sức khoẻ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh5_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_kh5",
+    "nodeName": "Chủ đề 6. Sinh vật và môi trường",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh5_node_l28",
+    "lessonId": "khoahoc5_b28",
+    "parentNodeId": "kh5_node_ch6",
+    "nodeName": "Bài 28. Chức năng của môi trường đối với sinh vật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh5_node_l29",
+    "lessonId": "khoahoc5_b29",
+    "parentNodeId": "kh5_node_ch6",
+    "nodeName": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh5_node_l30",
+    "lessonId": "khoahoc5_b30",
+    "parentNodeId": "kh5_node_ch6",
+    "nodeName": "Bài 30. Ôn tập chủ đề Sinh vật và môi trường",
+    "orderIndex": 3
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "lessonId": "kh7_b1",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Mở đầu",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1. Phương pháp và kĩ năng học tập môn Khoa học tự nhiên: - Phương pháp tìm hiểu tự nhiên: Là cách thức tìm hiểu các sự vật, hiện tượng trong tự nhiên và đời sống qua 5 bước: 1) Đề xuất vấn đề; 2) Đưa ra dự đoán; 3) Lập kế hoạch kiểm tra; 4) Thực hiện kế hoạch; 5) Viết báo cáo.\n- Các kĩ năng tiến trình học tập: Kĩ năng quan sát, phân loại, liên kết các số liệu/sự kiện, kĩ năng đo đạc và kĩ năng dự báo về sự việc hiện tượng.\n- Sử dụng dụng cụ đo: Cách sử dụng cổng quang điện và đồng hồ đo thời gian hiện số để xác định thời gian chuyển động chính xác.\n- Viết báo cáo thực hành: Cấu trúc gồm mục đích, chuẩn bị, các bước tiến hành, kết quả (bảng số liệu, tính toán, nhận xét) và trả lời câu hỏi.\n- Từ khóa: Phương pháp tìm hiểu tự nhiên, kĩ năng tiến trình, cổng quang điện, đồng hồ đo thời gian hiện số, báo cáo thực hành."
+  },
+  {
+    "lessonId": "kh7_b2",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2. Nguyên tử: - Khái niệm nguyên tử: Nguyên tử là hạt vô cùng nhỏ, trung hòa về điện, tạo nên các chất.\n- Mô hình nguyên tử Rutherford - Bohr: Nguyên tử gồm hạt nhân mang điện tích dương ở tâm và các electron mang điện tích âm chuyển động xung quanh hạt nhân theo từng lớp khác nhau (lớp trong cùng chứa tối đa 2 electron, các lớp ngoài chứa tối đa 8 electron).\n- Cấu tạo nguyên tử: Hạt nhân gồm các hạt proton (mang điện tích dương, kí hiệu là p, mỗi hạt mang 1 đơn vị điện tích dương +1) và neutron (không mang điện, kí hiệu là n). Vỏ nguyên tử gồm các electron (mang điện tích âm, kí hiệu là e, mỗi hạt mang 1 đơn vị điện tích âm -1). Số proton luôn bằng số electron trong một nguyên tử.\n- Khối lượng nguyên tử: Tập trung hầu hết ở hạt nhân, bằng tổng khối lượng các proton và neutron trong hạt nhân (khối lượng của electron rất nhỏ, có thể bỏ qua). Đơn vị đo là amu (atomic mass unit).\n- Từ khóa: Nguyên tử, proton, neutron, electron, hạt nhân, amu, Rutherford - Bohr."
+  },
+  {
+    "lessonId": "kh7_b3",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3. Nguyên tố hoá học: - Khái niệm nguyên tố hóa học: Tập hợp những nguyên tử có cùng số proton trong hạt nhân thuộc cùng một nguyên tố hóa học. Số proton là số đặc trưng cho một nguyên tố hóa học.\n- Tên gọi của nguyên tố: Được quy định dùng thống nhất trên toàn thế giới theo chuẩn danh pháp IUPAC (ví dụ: hydrogen, helium, carbon, oxygen, sodium,...).\n- Kí hiệu hóa học: Mỗi nguyên tố có một kí hiệu hóa học riêng, gồm một hoặc hai chữ cái trong tên gọi theo IUPAC, trong đó chữ cái đầu tiên viết in hoa, chữ cái thứ hai (nếu có) viết thường (ví dụ: H, He, C, O, Na, Ca,...).\n- Từ khóa: Nguyên tố hóa học, IUPAC, kí hiệu hóa học, số hiệu nguyên tử."
+  },
+  {
+    "lessonId": "kh7_b4",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Nguyên tử. Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4. Sơ lược về bảng tuần hoàn các nguyên tố hoá học: - Nguyên tắc sắp xếp các nguyên tố: 1) Sắp xếp theo chiều tăng dần của điện tích hạt nhân nguyên tử; 2) Các nguyên tố trong cùng một hàng có cùng số lớp electron trong nguyên tử; 3) Các nguyên tố trong cùng một cột có tính chất hóa học gần giống nhau.\n- Cấu tạo bảng tuần hoàn: Gồm ô nguyên tố (cho biết kí hiệu hóa học, tên nguyên tố, số hiệu nguyên tử và khối lượng nguyên tử); Chu kì (hàng ngang, gồm các nguyên tố có cùng số lớp electron, số thứ tự chu kì bằng số lớp electron, có 7 chu kì); Nhóm (cột dọc, gồm các nguyên tố có số electron lớp ngoài cùng bằng nhau và tính chất hóa học tương tự nhau).\n- Phân loại nguyên tố: Nhóm các nguyên tố kim loại (nằm ở bên trái và giữa bảng), nhóm nguyên tố phi kim (ở góc trên bên phải bảng) và nhóm nguyên tố khí hiếm (nhóm VIIIA, ở cột cuối cùng bên phải).\n- Từ khóa: Bảng tuần hoàn, ô nguyên tố, chu kì, nhóm nguyên tố, kim loại, phi kim, khí hiếm."
+  },
+  {
+    "lessonId": "kh7_b5",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Phân tử. Liên kết hoá học",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5. Phân tử - Đơn chất - Hợp chất: - Đơn chất: Là những chất được tạo nên từ một nguyên tố hóa học (ví dụ: kim loại đồng tạo từ nguyên tố Cu, khí oxygen tạo từ nguyên tố O, khí nitrogen tạo từ nguyên tố N).\n- Hợp chất: Là những chất được tạo nên từ hai hay nhiều nguyên tố hóa học liên kết với nhau (ví dụ: khí carbon dioxide chứa C và O, muối ăn chứa Na và Cl, nước chứa H và O). Phân loại thành hợp chất vô cơ và hợp chất hữu cơ.\n- Phân tử: Là hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau bằng liên kết hóa học và thể hiện đầy đủ tính chất hóa học của chất.\n- Khối lượng phân tử: Bằng tổng khối lượng các nguyên tử có trong phân tử, tính theo đơn vị amu (ví dụ: khối lượng phân tử nước H2O = 2*1 + 16 = 18 amu).\n- Từ khóa: Đơn chất, hợp chất, phân tử, khối lượng phân tử."
+  },
+  {
+    "lessonId": "kh7_b6",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Phân tử. Liên kết hoá học",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 6. Giới thiệu về liên kết hoá học: - Cấu trúc electron khí hiếm: Ở điều kiện thường, các khí hiếm tồn tại dưới dạng đơn nguyên tử bền vững vì có lớp electron ngoài cùng chứa đầy 8 electron (riêng Helium chứa 2 electron).\n- Nguyên lí liên kết: Các nguyên tử nguyên tố khác có xu hướng nhường, nhận hoặc dùng chung electron để đạt được cấu hình electron lớp ngoài cùng bền vững giống khí hiếm.\n- Liên kết ion: Hình thành do lực hút tĩnh điện giữa các ion mang điện tích trái dấu. Thường xảy ra giữa nguyên tử kim loại (nhường electron tạo thành ion dương) và nguyên tử phi kim (nhận electron tạo thành ion âm).\n- Liên kết cộng hóa trị: Hình thành bởi một hoặc nhiều cặp electron dùng chung giữa hai nguyên tử phi kim.\n- Tính chất hợp chất: Hợp chất ion thường là chất rắn, khó nóng chảy, khó bay hơi, tan trong nước tạo dung dịch dẫn điện tốt. Hợp chất cộng hóa trị có thể là chất khí, chất lỏng hoặc rắn, nhiệt độ nóng chảy và nhiệt độ sôi thấp.\n- Từ khóa: Liên kết ion, liên kết cộng hóa trị, electron dùng chung, ion dương, ion âm, khí hiếm."
+  },
+  {
+    "lessonId": "kh7_b7",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Phân tử. Liên kết hoá học",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 7. Hoá trị và công thức hoá học: - Công thức hóa học: Cách biểu diễn chất bằng kí hiệu hóa học của nguyên tố kèm chỉ số ở chân bên phải (nếu chỉ số là 1 thì không ghi). Đối với đơn chất: kim loại ghi kí hiệu Cu, Fe; phi kim có phân tử gồm 2 nguyên tử ghi H2, O2. Đối với hợp chất: biểu diễn kí hiệu các nguyên tố cấu tạo nên chất kèm chỉ số tỉ lệ (ví dụ: H2O, CO2, NaCl).\n- Ý nghĩa công thức hóa học: Cho biết các nguyên tố tạo nên chất, số nguyên tử mỗi nguyên tố và khối lượng phân tử của chất. Từ công thức hóa học tính được phần trăm khối lượng các nguyên tố trong hợp chất.\n- Hóa trị: Là con số biểu thị khả năng liên kết của nguyên tử nguyên tố này với nguyên tử nguyên tố khác. Quy ước chọn hóa trị của H làm đơn vị (hóa trị I) và hóa trị của O là hai đơn vị (hóa trị II).\n- Quy tắc hóa trị: Trong công thức hóa học của hợp chất hai nguyên tố, tích của chỉ số và hóa trị của nguyên tố này bằng tích của chỉ số và hóa trị của nguyên tố kia (công thức AxBy với hóa trị tương ứng a, b thì x * a = y * b).\n- Lập công thức hóa học: Dựa vào hóa trị (áp dụng quy tắc hóa trị tìm tỉ lệ x/y tối giản) hoặc dựa vào phần trăm khối lượng các nguyên tố.\n- Từ khóa: Công thức hóa học, hóa trị, quy tắc hóa trị, lập công thức hóa học, phần trăm khối lượng."
+  },
+  {
+    "lessonId": "kh7_b8",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Tốc độ",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 8. Tốc độ chuyển động: - Khái niệm tốc độ: Là đại lượng đặc trưng cho mức độ nhanh hay chậm của chuyển động, được xác định bằng quãng đường vật đi được trong một đơn vị thời gian.\n- Công thức tính tốc độ: v = s / t (trong đó v là tốc độ, s là quãng đường đi được, t là thời gian đi hết quãng đường đó).\n- Đơn vị đo tốc độ: Đơn vị đo phụ thuộc vào đơn vị độ dài và đơn vị thời gian. Trong Hệ đo lường chính thức của nước ta, đơn vị đo tốc độ thường dùng là mét trên giây (m/s) và kilômét trên giờ (km/h). Quy đổi: 1 m/s = 3,6 km/h.\n- Từ khóa: Tốc độ, quãng đường, thời gian, công thức tính tốc độ, đơn vị m/s, km/h."
+  },
+  {
+    "lessonId": "kh7_b9",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Tốc độ",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 9. Đo tốc độ: - Đo tốc độ bằng đồng hồ bấm giây: 1) Dùng thước đo quãng đường s xác định vạch xuất phát và vạch đích; 2) Dùng đồng hồ bấm giây đo thời gian t vật chạy từ xuất phát đến đích; 3) Đo 3 lần lấy giá trị trung bình; 4) Tính tốc độ v = s/t.\n- Đo tốc độ bằng đồng hồ đo thời gian hiện số và cổng quang điện: Khi vật đi qua cổng quang điện (1) đồng hồ bắt đầu chạy, đi qua cổng (2) đồng hồ ngừng chạy; ghi nhận thời gian hiện số t cực kì chính xác, đo khoảng cách s giữa hai cổng rồi tính v = s/t.\n- Thiết bị bắn tốc độ: Sử dụng camera ghi hình và máy tính nhỏ để tính thời gian phương tiện chạy qua hai vạch mốc trên đường để suy ra tốc độ, giúp phát hiện các xe vượt quá tốc độ giới hạn để xử lí.\n- Từ khóa: Đo tốc độ, đồng hồ bấm giây, cổng quang điện, đồng hồ hiện số, thiết bị bắn tốc độ."
+  },
+  {
+    "lessonId": "kh7_b10",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Tốc độ",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 10. Đồ thị quãng đường - thời gian: - Vẽ đồ thị quãng đường - thời gian cho chuyển động thẳng: 1) Lập bảng ghi quãng đường đi được theo thời gian; 2) Vẽ hai trục tọa độ vuông góc (trục thẳng đứng s biểu diễn quãng đường, trục nằm ngang t biểu diễn thời gian); 3) Xác định các điểm biểu diễn quãng đường và thời gian tương ứng; 4) Nối các điểm để có đường biểu diễn s - t.\n- Nhận xét đồ thị: Đồ thị chuyển động thẳng với tốc độ không đổi là một đường thẳng nằm nghiêng đi qua gốc tọa độ. Khi vật dừng lại nghỉ, đồ thị là đoạn thẳng song song với trục thời gian.\n- Sử dụng đồ thị: Tìm quãng đường vật đi được trong khoảng thời gian xác định, hoặc ngược lại tìm thời gian khi biết quãng đường và xác định tốc độ v bằng độ dốc đồ thị.\n- Từ khóa: Đồ thị quãng đường - thời gian, biểu diễn chuyển động, trục tọa độ, tốc độ."
+  },
+  {
+    "lessonId": "kh7_b11",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Tốc độ",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 11. Thảo luận về ảnh hưởng của tốc độ trong an toàn giao thông: - Tốc độ giới hạn: Các phương tiện cơ giới phải tuân thủ biển báo tốc độ tối đa cho phép trên các loại đường bộ khác nhau nhằm bảo đảm an toàn.\n- Khoảng cách an toàn tối thiểu: Quy định khoảng cách tối thiểu giữa hai xe tùy thuộc vào tốc độ lưu hành của xe để người điều khiển kịp xử lí phanh, tránh va chạm khi xe trước dừng đột ngột.\n- Quy tắc '3 giây': Cách ước tính khoảng cách an toàn dễ nhớ khi lái xe trên đường cao tốc (khoảng cách an toàn bằng tốc độ m/s nhân với 3 giây).\n- Ảnh hưởng của tốc độ: Tốc độ càng cao thì thời gian và quãng đường phanh càng dài, mức độ va chạm và chấn thương khi xảy ra tai nạn càng nghiêm trọng.\n- Từ khóa: An toàn giao thông, tốc độ giới hạn, khoảng cách an toàn, quy tắc 3 giây, quãng đường phanh."
+  },
+  {
+    "lessonId": "kh7_b12",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Âm thanh",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 12. Sóng âm: - Dao động: Sự chuyển động qua lại của một vật quanh một vị trí cân bằng gọi là dao động.\n- Sóng âm: Sự lan truyền dao động âm trong các môi trường rắn, lỏng, khí gọi là sóng âm.\n- Nguồn âm: Những vật phát ra âm gọi là nguồn âm. Đặc điểm chung của mọi nguồn âm là chúng đều dao động khi phát ra âm.\n- Môi trường truyền âm: Sóng âm truyền được trong các môi trường chất rắn, chất lỏng và chất khí. Sóng âm truyền tốt nhất trong chất rắn, kém nhất trong chất khí và không truyền được trong môi trường chân không.\n- Từ khóa: Dao động, sóng âm, nguồn âm, môi trường truyền âm, chân không."
+  },
+  {
+    "lessonId": "kh7_b13",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Âm thanh",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 13. Độ to và độ cao của âm: - Biên độ dao động và độ to của âm: Biên độ dao động là khoảng cách từ vị trí cân bằng đến vị trí xa nhất của vật dao động. Âm nghe được càng to khi biên độ dao động của nguồn âm càng lớn.\n- Tần số dao động và độ cao của âm: Tần số là số dao động vật thực hiện được trong một giây, đơn vị đo tần số là héc, kí hiệu là Hz. Âm nghe được càng cao (bổng) khi tần số dao động càng lớn, âm nghe được càng thấp (trầm) khi tần số dao động càng nhỏ.\n- Giới hạn nghe của tai người: Tai người bình thường có thể nghe được các âm có tần số trong khoảng từ 20 Hz đến 20 000 Hz. Các âm có tần số dưới 20 Hz gọi là hạ âm, các âm có tần số trên 20 000 Hz gọi là siêu âm.\n- Từ khóa: Biên độ dao động, độ to của âm, tần số, đơn vị Hz, độ cao của âm, hạ âm, siêu âm."
+  },
+  {
+    "lessonId": "kh7_b14",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Âm thanh",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 14. Phản xạ âm, chống ô nhiễm tiếng ồn: - Sự phản xạ âm: Sóng âm dội lại khi gặp một mặt chắn gọi là âm phản xạ. Tiếng vang là âm phản xạ nghe được cách âm trực tiếp ít nhất 1/15 giây.\n- Vật phản xạ âm tốt và kém: Những vật liệu cứng, có bề mặt nhẵn thì phản xạ âm tốt (hấp thụ âm kém) như tường gạch, mặt đá hoa, tấm kim loại. Những vật liệu mềm, có bề mặt sần sùi thì phản xạ âm kém (hấp thụ âm tốt) như rèm nhung, tấm xốp, đệm mút.\n- Ô nhiễm tiếng ồn: Tiếng ồn to và kéo dài gây ảnh hưởng xấu đến sức khỏe và hoạt động bình thường của con người.\n- Các biện pháp chống ô nhiễm tiếng ồn: 1) Hạn chế nguồn gây ra tiếng ồn (cấm bóp còi, đi nhẹ nói khẽ); 2) Phân tán tiếng ồn trên đường truyền (trồng nhiều cây xanh); 3) Ngăn cản đường truyền của tiếng ồn truyền tới tai (sử dụng tấm cách âm, cửa kính hai lớp).\n- Từ khóa: Phản xạ âm, tiếng vang, hấp thụ âm, ô nhiễm tiếng ồn, biện pháp cách âm."
+  },
+  {
+    "lessonId": "kh7_b15",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Ánh sáng",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 15. Năng lượng ánh sáng. Tia sáng, vùng tối: - Năng lượng ánh sáng: Ánh sáng là một dạng của năng lượng. Nó có thể chuyển hóa thành điện năng (pin mặt trời) hoặc nhiệt năng (làm nóng bình nước nóng năng lượng mặt trời).\n- Chùm sáng và tia sáng: Ánh sáng truyền theo đường thẳng. Đường truyền của ánh sáng được biểu diễn bằng một đường thẳng có mũi tên chỉ hướng gọi là tia sáng. Chùm sáng gồm nhiều tia sáng hợp thành, gồm 3 loại: chùm sáng song song, chùm sáng hội tụ, chùm sáng phân kì.\n- Vùng tối: Vùng tối phía sau vật cản sáng không nhận được ánh sáng từ nguồn sáng truyền tới. Nguồn sáng hẹp tạo ra vùng tối hoàn toàn có ranh giới rõ rệt. Nguồn sáng rộng tạo ra vùng tối hoàn toàn ở chính giữa và vùng tối không hoàn toàn (vùng bán dạ) xung quanh.\n- Nhật thực và Nguyệt thực: Nhật thực xảy ra khi Mặt Trăng nằm giữa Mặt Trời và Trái Đất che khuất một phần hoặc toàn bộ Mặt Trời. Nguyệt thực xảy ra khi Trái Đất nằm giữa Mặt Trời và Mặt Trăng, Mặt Trăng đi vào vùng tối của Trái Đất.\n- Từ khóa: Năng lượng ánh sáng, tia sáng, chùm sáng, vùng tối, vùng bán dạ, nhật thực, nguyệt thực."
+  },
+  {
+    "lessonId": "kh7_b16",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Ánh sáng",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 16. Sự phản xạ ánh sáng: - Hiện tượng phản xạ ánh sáng: Là hiện tượng chùm tia sáng bị hắt trở lại môi trường cũ khi gặp bề mặt nhẵn bóng.\n- Khái niệm cơ bản: Gương phẳng (mặt phản xạ); Tia sáng tới SI; Tia sáng phản xạ IR; Điểm tới I; Pháp tuyến IN vuông góc với gương tại I; Góc tới i (góc SIN); Góc phản xạ i' (góc RIN).\n- Định luật phản xạ ánh sáng: 1) Tia sáng phản xạ nằm trong mặt phẳng chứa tia tới và pháp tuyến của gương tại điểm tới; 2) Góc phản xạ bằng góc tới (i' = i).\n- Phân biệt phản xạ và phản xạ khuếch tán: Phản xạ gương xảy ra trên bề mặt nhẵn bóng, các tia sáng tới song song cho các tia phản xạ song song. Phản xạ khuếch tán xảy ra trên bề mặt không nhẵn, các tia sáng phản xạ bị hắt đi theo mọi hướng khác nhau.\n- Từ khóa: Hiện tượng phản xạ ánh sáng, định luật phản xạ, góc tới, góc phản xạ, phản xạ khuếch tán."
+  },
+  {
+    "lessonId": "kh7_b17",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Ánh sáng",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 17. Ảnh của vật qua gương phẳng: - Tính chất ảnh qua gương phẳng: Ảnh của một vật tạo bởi gương phẳng là ảnh ảo (không hứng được trên màn chắn); Độ lớn của ảnh bằng độ lớn của vật; Khoảng cách từ một điểm của vật đến gương phẳng bằng khoảng cách từ ảnh của điểm đó đến gương.\n- Dựng ảnh của vật: Có hai cách dựng ảnh: 1) Dựa vào định luật phản xạ ánh sáng (vẽ tia tới, tia phản xạ rồi kéo dài các tia phản xạ cắt nhau tại ảnh S'); 2) Dựa vào tính chất đối xứng của ảnh qua gương (vẽ ảnh đối xứng với vật qua mặt phẳng gương).\n- Kính tiềm vọng: Ứng dụng tính chất gương phẳng và định luật phản xạ để quan sát những vật bị che khuất tầm nhìn, cấu tạo gồm hai gương phẳng đặt nghiêng góc 45 độ song song đối diện nhau.\n- Từ khóa: Gương phẳng, ảnh ảo, tính chất ảnh, dựng ảnh, kính tiềm vọng."
+  },
+  {
+    "lessonId": "kh7_b18",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Từ",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 18. Nam châm: - Khái niệm nam châm: Nam châm là vật có từ tính, có khả năng hút các vật làm bằng sắt, thép, cobalt, nickel và các hợp kim của chúng.\n- Các cực của nam châm: Mỗi nam châm luôn có hai cực: cực Bắc (kí hiệu là N, thường sơn màu đỏ) và cực Nam (kí hiệu là S, thường sơn màu xanh).\n- Tương tác giữa hai nam châm: Khi đưa hai cực của hai nam châm lại gần nhau: các cực cùng tên thì đẩy nhau, các cực khác tên thì hút nhau.\n- Định hướng của kim nam châm tự do: Kim nam châm tự do khi thăng bằng luôn chỉ theo hướng Bắc - Nam địa lí.\n- Từ khóa: Nam châm, cực Bắc, cực Nam, lực từ, tương tác từ, từ tính."
+  },
+  {
+    "lessonId": "kh7_b19",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Từ",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 19. Từ trường: - Khái niệm từ trường: Là không gian xung quanh nam châm hoặc dòng điện có khả năng tác dụng lực từ lên kim nam châm thử đặt trong đó.\n- Từ phổ: Hình ảnh trực quan về các đường mạt sắt xung quanh nam châm. Nơi các đường mạt sắt sắp xếp dày thì từ trường mạnh, nơi sắp xếp thưa thì từ trường yếu.\n- Đường sức từ: Đường vẽ mạt sắt nối từ cực này sang cực kia của nam châm. Quy ước chiều đường sức từ ở ngoài nam châm: Đi ra từ cực Bắc và đi vào cực Nam.\n- Từ trường Trái Đất: Trái Đất hoạt động như một nam châm khổng lồ. Cực Bắc địa từ nằm ở Nam bán cầu địa lí, cực Nam địa từ nằm ở Bắc bán cầu địa lí.\n- La bàn: Thiết bị dùng để xác định hướng địa lí, cấu tạo gồm kim nam châm tự do xoay quanh một trục và mặt chia độ ghi các hướng N, S, E, W.\n- Từ khóa: Từ trường, từ phổ, đường sức từ, từ trường Trái Đất, la bàn."
+  },
+  {
+    "lessonId": "kh7_b20",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Từ",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 20. Chế tạo nam châm điện đơn giản: - Cấu tạo nam châm điện: Gồm một cuộn dây dẫn quấn xung quanh một lõi sắt non. Khi có dòng điện chạy qua cuộn dây, lõi sắt non trở thành nam châm điện có khả năng hút các vật từ.\n- Đặc điểm nam châm điện: Chỉ có từ trường khi có dòng điện chạy qua. Có thể thay đổi từ lực của nam châm điện bằng cách thay đổi cường độ dòng điện (bằng cách thay đổi số pin) hoặc thay đổi số vòng dây của cuộn dây. Thay đổi chiều dòng điện sẽ thay đổi cực từ của nam châm điện.\n- Ứng dụng: Được sử dụng rộng rãi trong các thiết bị cần cẩu dọn rác kim loại, chuông điện, rơ-le điện, máy phát điện, động cơ điện.\n- Từ khóa: Nam châm điện, cuộn dây dẫn, lõi sắt non, chuông điện, cần cẩu dọn rác."
+  },
+  {
+    "lessonId": "kh7_b21",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 21. Khái quát về trao đổi chất và chuyển hoá năng lượng: - Trao đổi chất: Là quá trình cơ thể sinh vật lấy các chất từ môi trường ngoài, biến đổi chúng thành các chất cần thiết cho tế bào và cơ thể, đồng thời thải ra môi trường các chất thải nguy hại hoặc không cần thiết.\n- Chuyển hóa năng lượng: Là sự biến đổi năng lượng từ dạng này sang dạng khác (ví dụ từ quang năng thành hóa năng tích lũy trong chất hữu cơ, từ hóa năng giải phóng thành nhiệt năng, cơ năng).\n- Mối quan hệ: Trao đổi chất và chuyển hóa năng lượng luôn gắn liền với nhau, là điều kiện tồn tại và phát triển của mọi cơ thể sinh vật.\n- Vai trò: Đảm bảo cung cấp vật chất cấu tạo tế bào và năng lượng cho cơ thể sinh trưởng, phát triển, sinh sản, cảm ứng và vận động.\n- Từ khóa: Trao đổi chất, chuyển hóa năng lượng, quang năng, hóa năng, nhiệt năng."
+  },
+  {
+    "lessonId": "kh7_b22",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 22. Quang hợp ở thực vật: - Khái niệm quang hợp: Là quá trình lá cây sử dụng nước và khí carbon dioxide nhờ năng lượng ánh sáng được diệp lục hấp thụ để tổng hợp chất hữu cơ (glucose, tinh bột) và giải phóng khí oxygen.\n- Phương trình tổng quát: Nước + Carbon dioxide + Ánh sáng (Diệp lục) -> Glucose + Oxygen.\n- Mối quan hệ trao đổi chất và chuyển hóa: Nước và khí carbon dioxide lấy từ môi trường được tổng hợp thành chất hữu cơ có năng lượng liên kết hóa học hóa năng tích lũy từ quang năng ánh sáng mặt trời.\n- Cấu tạo của lá phù hợp quang hợp: Phiến lá mỏng dẹt, diện tích lớn thu nhận nhiều ánh sáng; tế bào lá chứa lục lạp có chất diệp lục hấp thụ năng lượng; hệ gân lá dẫn nước; khí khổng ở biểu bì lá giúp trao đổi khí CO2 và O2.\n- Từ khóa: Quang hợp, diệp lục, lục lạp, tinh bột, oxygen, khí khổng."
+  },
+  {
+    "lessonId": "kh7_b23",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 23. Một số yếu tố ảnh hưởng đến quang hợp: - Ánh sáng: Cường độ ánh sáng tăng thì hiệu quả quang hợp tăng (đến giới hạn nhất định); nhu cầu ánh sáng khác nhau giữa cây ưa sáng và cây ưa bóng.\n- Nước: Vừa là nguyên liệu trực tiếp vừa tham gia điều tiết độ mở khí khổng và vận chuyển các chất.\n- Khí carbon dioxide (CO2): Nồng độ CO2 trong không khí tăng thì cường độ quang hợp tăng (đến giới hạn bão hòa khoảng 0,2%, nồng độ quá thấp dưới 0,008% quang hợp không xảy ra).\n- Nhiệt độ: Quang hợp thuận lợi nhất ở nhiệt độ từ 25 độ C đến 35 độ C; nhiệt độ quá cao (trên 40 độ C) hoặc quá thấp (dưới 10 độ C) làm giảm hoặc ngừng hẳn quang hợp.\n- Vận dụng vào thực tiễn: Điều khiển các yếu tố ánh sáng, nước, phân bón phù hợp trồng trọt trong nhà kính; bảo vệ bộ lá cây xanh và tích cực trồng cây phủ xanh đô thị.\n- Từ khóa: Cường độ ánh sáng, nồng độ CO2, nhiệt độ, cây ưa sáng, cây ưa bóng, bảo vệ cây xanh."
+  },
+  {
+    "lessonId": "kh7_b24",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 24. Thực hành: Chứng minh quang hợp ở cây xanh: - Chứng minh tinh bột tạo thành trong quang hợp: Đặt chậu khoai lang trong bóng tối 2 ngày để tiêu hết tinh bột cũ; dùng băng giấy đen bịt kín một phần lá ở cả hai mặt; đưa cây ra nắng 4-6 giờ; ngắt lá, tẩy chất diệp lục bằng cách đun sôi trong cồn 90 độ; rửa sạch lá bằng nước ấm và nhỏ dung dịch iodine lên mặt lá. Phần lá lộ ra ánh sáng chuyển sang màu xanh tím (có tinh bột), phần bị bịt giấy đen giữ nguyên màu nâu vàng (không quang hợp được).\n- Chứng minh quang hợp giải phóng oxygen: Lấy 2 cành rong đuôi chó cho vào 2 ống nghiệm chứa đầy nước rồi úp ngược vào 2 cốc nước (cốc A để trong tối/bọc giấy đen, cốc B để ngoài sáng). Sau 6 giờ, rút cành rong ra và dùng tàn que đốm đỏ đưa vào miệng ống nghiệm cốc B thấy que đốm bùng cháy, cốc A không có bọt khí và que đốm không cháy.\n- Từ khóa: Thực hành quang hợp, tinh bột, dung dịch iodine, rong đuôi chó, oxygen, que đốm bùng cháy."
+  },
+  {
+    "lessonId": "kh7_b25",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 25. Hô hấp tế bào: - Khái niệm hô hấp tế bào: Là quá trình phân giải chất hữu cơ (chủ yếu là glucose) diễn ra ở ti thể tế bào, giải phóng năng lượng dạng ATP cung cấp cho hoạt động sống của cơ thể và giải phóng nhiệt năng, khí carbon dioxide cùng nước.\n- Phương trình chữ của hô hấp tế bào: Glucose + Oxygen -> Carbon dioxide + Nước + Năng lượng (ATP + Nhiệt).\n- Mối quan hệ quang hợp và hô hấp tế bào: Là hai quá trình biểu hiện trái ngược nhưng phụ thuộc lẫn nhau. Quang hợp tổng hợp chất hữu cơ và giải phóng oxygen tích lũy năng lượng; hô hấp tế bào phân giải chất hữu cơ và tiêu thụ oxygen để giải phóng năng lượng cung cấp nguyên liệu ngược lại cho quang hợp.\n- Từ khóa: Hô hấp tế bào, ti thể, glucose, ATP, nhiệt năng, phân giải chất hữu cơ."
+  },
+  {
+    "lessonId": "kh7_b26",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 26. Một số yếu tố ảnh hưởng đến hô hấp tế bào: - Nước: Hàm lượng nước trong tế bào liên quan trực tiếp đến cường độ hô hấp; nước là dung môi và môi trường diễn ra các phản ứng phân giải.\n- Nồng độ khí oxygen (O2): Là nguyên liệu trực tiếp của hô hấp tế bào; nồng độ O2 giảm xuống dưới 5% làm cường độ hô hấp giảm mạnh.\n- Nồng độ khí carbon dioxide (CO2): CO2 là sản phẩm của hô hấp; nồng độ CO2 cao (từ 3% đến 5%) gây ức chế hô hấp tế bào thực vật và động vật.\n- Nhiệt độ: Hô hấp tế bào cực thuận ở khoảng 30 độ C - 35 độ C; nhiệt độ quá cao (trên 40 độ C) gây biến tính enzyme hô hấp, nhiệt độ quá thấp (dưới 10 độ C) làm chậm phản ứng.\n- Vận dụng bảo quản nông sản: 1) Bảo quản khô (phơi sấy hạt lúa, ngô độ ẩm dưới 13%-16%); 2) Bảo quản lạnh (rau, củ giữ trong tủ lạnh); 3) Bảo quản trong điều kiện nồng độ CO2 cao (bơm khí CO2 vào kho kín).\n- Từ khóa: Ảnh hưởng hô hấp, nước, nồng độ oxygen, nồng độ CO2, nhiệt độ, bảo quản nông sản."
+  },
+  {
+    "lessonId": "kh7_b27",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 27. Thực hành: Hô hấp ở thực vật: - Thí nghiệm phát hiện hô hấp thải khí carbon dioxide: Thiết lập hai chuông thủy tinh kín: Chuông A chứa đĩa hạt đậu xanh nảy mầm và một cốc nước vôi trong, chuông B chứa đĩa hạt đậu xanh luộc chín (đã chết) và một cốc nước vôi trong. Sau 1 giờ, cốc nước vôi trong ở chuông A bị vẩn đục và xuất hiện kết tủa trắng (do hạt nảy mầm hô hấp thải khí CO2 phản ứng với nước vôi trong), cốc ở chuông B vẫn trong suốt.\n- Thí nghiệm đo nhiệt độ của hô hấp hạt nảy mầm: Đặt hạt nảy mầm vào bình cách nhiệt có cắm nhiệt kế, bình đối chứng chứa hạt chết luộc chín. Sau vài giờ, nhiệt kế ở bình hạt nảy mầm chỉ nhiệt độ tăng cao rõ rệt so với nhiệt độ ban đầu và cao hơn bình đối chứng (do hô hấp giải phóng năng lượng dạng nhiệt).\n- Từ khóa: Thực hành hô hấp, hạt đậu xanh nảy mầm, cốc nước vôi trong, kết tủa trắng, nhiệt năng."
+  },
+  {
+    "lessonId": "kh7_b28",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 28. Trao đổi khí ở sinh vật: - Khái niệm trao đổi khí: Là quá trình lấy O2 và thải CO2 (ở động vật, thực vật khi hô hấp) hoặc lấy CO2 và thải O2 (ở thực vật khi quang hợp) giữa cơ thể và môi trường ngoài qua cơ chế khuếch tán chất khí.\n- Trao đổi khí ở thực vật: Diễn ra chủ yếu qua khí khổng ở lá cây. Cấu tạo khí khổng gồm hai tế bào hình hạt đậu chứa lục lạp nằm áp sát nhau tạo khe lỗ. Khi tế bào no nước, thành mỏng căng phồng làm thành dày cong theo khe lỗ mở rộng. Khi mất nước, tế bào xẹp làm khí khổng khép lại. Sự trao đổi khí bị ảnh hưởng bởi ánh sáng, nhiệt độ, độ ẩm đất.\n- Trao đổi khí ở động vật: Diễn ra qua các cơ quan trao đổi khí chuyên biệt: Qua da (giun đất); Qua hệ thống ống khí (châu chấu, côn trùng); Qua mang (cá, động vật thủy sinh); Qua phổi (thú, chim, bò sát, người).\n- Từ khóa: Trao đổi khí, khuếch tán, khí khổng, tế bào hạt đậu, cơ quan trao đổi khí, phổi, mang, ống khí."
+  },
+  {
+    "lessonId": "kh7_b29",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 29. Vai trò của nước và chất dinh dưỡng đối với sinh vật: - Cấu trúc phân cực của nước: Phân tử nước gồm 1 nguyên tử O liên kết cộng hóa trị với 2 nguyên tử H. Do cặp electron dùng chung lệch về phía O nên đầu O mang điện tích âm nhẹ, đầu H mang điện tích dương nhẹ. Tính phân cực giúp các phân tử nước hút nhau và dễ dàng hòa tan nhiều chất khác.\n- Vai trò của nước: Là thành phần chính cấu tạo tế bào và cơ thể (ở người chiếm 70%, sứa biển chiếm 95%); là dung môi hòa tan và vận chuyển các chất; là nguyên liệu và môi trường cho các phản ứng sinh hóa; giúp điều hòa thân nhiệt sinh vật.\n- Vai trò chất dinh dưỡng: Cung cấp nguyên liệu cấu tạo nên tế bào và mô, cung cấp năng lượng cho hoạt động sống. Ở người, chất dinh dưỡng chính gồm carbohydrate, protein, lipid, vitamin và chất khoáng. Ở thực vật, muối khoáng chứa các nguyên tố N, P, K, Ca, Mg,... giúp sinh trưởng và tổng hợp chất diệp lục.\n- Từ khóa: Phân cực của nước, dung môi, chất dinh dưỡng, protein, carbohydrate, lipid, điều hòa thân nhiệt."
+  },
+  {
+    "lessonId": "kh7_b30",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 30,
+    "lessonContent": "Bài 30. Trao đổi nước và chất dinh dưỡng ở thực vật: - Sự hấp thụ nước và chất khoáng: Nước và muối khoáng hòa tan trong đất được tế bào lông hút của rễ hấp thụ, đi qua các lớp tế bào vỏ rễ vào mạch gỗ của rễ.\n- Sự vận chuyển các chất trong cây: 1) Mạch gỗ vận chuyển nước và chất khoáng từ rễ đi lên thân và lá (dòng đi lên); 2) Mạch rây vận chuyển các chất hữu cơ được tổng hợp ở lá đi xuống các bộ phận dự trữ rễ, củ, quả (dòng đi xuống).\n- Quá trình thoát hơi nước ở lá: Phần lớn nước hấp thụ được thoát ra môi trường qua khí khổng ở lá. Thoát hơi nước là động lực đầu trên của dòng mạch gỗ kéo nước đi lên, giúp khí khổng mở ra để khí CO2 đi vào phục vụ quang hợp và hạ nhiệt độ của lá vào ngày nắng nóng.\n- Các yếu tố ảnh hưởng: Độ ẩm đất, ánh sáng, nhiệt độ, nồng độ muối khoáng trong đất.\n- Từ khóa: Lông hút, mạch gỗ, dòng đi lên, mạch rây, dòng đi xuống, thoát hơi nước, khí khổng."
+  },
+  {
+    "lessonId": "kh7_b31",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 31,
+    "lessonContent": "Bài 31. Trao đổi nước và chất dinh dưỡng ở động vật: - Con đường tiêu hóa và hấp thụ thức ăn ở người: Thức ăn đi qua ống tiêu hóa gồm: Miệng (nhai, nghiền, biến đổi tinh bột nhờ enzyme nước bọt) -> Thực quản -> Dạ dày (co bóp, hòa trộn, tiêu hóa protein nhờ dịch vị) -> Ruột non (tiêu hóa hoàn toàn và hấp thụ chất dinh dưỡng vào mạch máu) -> Ruột già (hấp thụ lại nước, tạo phân) -> Hậu môn (thải chất cặn bã).\n- Con đường trao đổi nước: Nước lấy vào qua thức ăn, nước uống. Nước thải ra ngoài cơ thể qua nước tiểu (thận lọc máu đào thải qua bàng quang, ống đái), thải qua mồ hôi (da) và hơi thở (phổi).\n- Sự vận chuyển các chất qua hệ tuần hoàn: Máu giàu oxygen và chất dinh dưỡng từ tim được động mạch vận chuyển đi nuôi các tế bào khắp cơ thể; máu nghèo oxygen và chứa chất thải, khí CO2 từ tế bào được tĩnh mạch chuyển về tim rồi đến phổi và thận để lọc thải.\n- Từ khóa: Tiêu hóa thức ăn, dạ dày, ruột non, thận lọc máu, hệ tuần hoàn, trao đổi nước."
+  },
+  {
+    "lessonId": "kh7_b32",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 32. Thực hành: Chứng minh thân vận chuyển nước và lá thoát hơi nước: - Thí nghiệm thân vận chuyển nước: Cắm cành cần tây (hoặc cành hoa màu trắng) vào cốc nước pha mực đỏ (hoặc mực xanh). Sau 30-60 phút, dùng dao mổ cắt ngang phần cuống lá, quan sát thấy các bó mạch gỗ trong cuống lá bị nhuộm màu đỏ của mực, quan sát dưới kính lúp thấy rõ đường nước pha màu di chuyển đi lên.\n- Thí nghiệm chứng minh lá thoát hơi nước: Chuẩn bị 2 chậu cây cùng loại: Chậu A (cắt hết toàn bộ lá cây), chậu B (giữ nguyên lá). Trùm kín túi nylon trong suốt vào toàn bộ phần thân cành của mỗi chậu và buộc chặt miệng túi. Đặt cả 2 chậu ngoài sáng. Sau 15-30 phút, ở mặt trong túi nylon chậu B xuất hiện nhiều giọt nước đọng làm mờ đục túi, ở chậu A hầu như không có nước đọng.\n- Từ khóa: Thực hành vận chuyển nước, mạch gỗ, cành cần tây, thoát hơi nước, túi nylon đọng nước."
+  },
+  {
+    "lessonId": "kh7_b33",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Cảm ứng ở sinh vật",
+    "lessonOrder": 33,
+    "lessonContent": "Bài 33. Cảm ứng ở sinh vật và tập tính ở động vật: - Khái niệm cảm ứng ở sinh vật: Là phản ứng của sinh vật đối với các kích thích đến từ môi trường trong hoặc môi trường ngoài (ví dụ: ngọn cây hướng về phía ánh sáng, rễ cây hướng về nguồn nước, hiện tượng cụp lá của cây trinh nữ khi chạm vào, con người co tay lại khi chạm vào vật nóng).\n- Vai trò của cảm ứng: Giúp sinh vật thích nghi với những thay đổi của môi trường để tồn tại và phát triển.\n- Tập tính ở động vật: Là một chuỗi những phản ứng trả lời các kích thích từ môi trường, đảm bảo cho động vật tồn tại và phát triển. Gồm hai loại chính: 1) Tập tính bẩm sinh (sinh ra đã có, mang tính bản năng, di truyền từ bố mẹ); 2) Tập tính học được (hình thành trong quá trình sống qua học tập và rút kinh nghiệm).\n- Các tập tính phổ biến: Kiếm ăn, săn mồi, bảo vệ lãnh thổ, di cư tránh rét, tập tính sinh sản, chăm sóc con non.\n- Từ khóa: Cảm ứng, kích thích, hướng sáng, hướng nước, tập tính bẩm sinh, tập tính học được."
+  },
+  {
+    "lessonId": "kh7_b34",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Cảm ứng ở sinh vật",
+    "lessonOrder": 34,
+    "lessonContent": "Bài 34. Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn: - Ứng dụng cảm ứng ở thực vật trong trồng trọt: Làm giàn leo cho các loại cây bầu, bí, mướp dựa trên tính hướng tiếp xúc; chiếu sáng nhân tạo ban đêm giúp cây thanh long, hoa cúc ra hoa trái vụ dựa trên tính hướng sáng; tưới nước bón phân dưới gốc giúp rễ ăn sâu và lan rộng dựa trên tính hướng nước và hướng hóa.\n- Ứng dụng tập tính ở động vật trong chăn nuôi: Huấn luyện vật nuôi ăn uống, vệ sinh đúng giờ, nghe hiệu lệnh còi, vỗ tay gọi cá đến ăn; sử dụng đèn sáng dụ côn trùng gây hại vào bẫy dính hoặc bẫy điện; dùng bù nhìn đuổi chim hại lúa.\n- Vận dụng trong học tập và đời sống: Thiết lập thói quen tốt như thức dậy sớm, tập thể dục, đọc sách, lập thời gian biểu tự học, tránh xa các thói quen xấu bằng cách kiên trì rèn luyện tập tính học được.\n- Từ khóa: Ứng dụng cảm ứng, hướng tiếp xúc, bẫy côn trùng, huấn luyện vật nuôi, rèn luyện thói quen tốt."
+  },
+  {
+    "lessonId": "kh7_b35",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Cảm ứng ở sinh vật",
+    "lessonOrder": 35,
+    "lessonContent": "Bài 35. Thực hành: Cảm ứng ở sinh vật: - Thí nghiệm chứng minh tính hướng nước của rễ cây: Gieo hạt đỗ vào chậu chứa đất/cát khô. Đặt một cốc nước nhựa có đục lỗ thủng nhỏ ở một góc chậu để nước rỉ ra từ từ. Sau 3-5 ngày gieo hạt, rễ cây đỗ phát triển mọc lệch hẳn về phía có nguồn nước rỉ.\n- Thí nghiệm chứng minh tính hướng sáng của thân cây: Chuẩn bị 2 chậu cây đỗ non: Chậu (1) úp hộp carton kín có khoét một lỗ nhỏ phía bên cạnh để ánh sáng chiếu vào một phía, chậu (2) để ngoài ánh sáng tự nhiên (đối chứng). Sau 3-5 ngày, thân cây đỗ ở chậu (1) mọc cong hẳn về phía lỗ khoét có ánh sáng lọt vào, thân cây chậu (2) mọc thẳng đứng.\n- Quan sát hướng tiếp xúc: Cho học sinh xem video/tranh ảnh về tính hướng tiếp xúc của tua cuốn cây mướp, bầu khi chạm vào giàn leo.\n- Từ khóa: Thực hành cảm ứng, rễ hướng nước, thân hướng sáng, hộp carton khoét lỗ, tua cuốn tiếp xúc."
+  },
+  {
+    "lessonId": "kh7_b36",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 36,
+    "lessonContent": "Bài 36. Khái quát về sinh trưởng và phát triển ở sinh vật: - Sinh trưởng: Là sự tăng lên về kích thước và khối lượng của cơ thể do sự tăng lên về số lượng và kích thước của các tế bào.\n- Phát triển: Bao gồm quá trình sinh trưởng, phân hóa tế bào, phát sinh hình thái cơ quan và cơ thể mới (ví dụ từ hạt nảy mầm thành cây con, ra hoa, kết quả; từ trứng thụ tinh phát triển thành ấu trùng, nhộng, bướm trưởng thành).\n- Mối quan hệ: Sinh trưởng và phát triển là hai quá trình liên quan mật thiết, đan xen với nhau. Sinh trưởng tạo tiền đề vật chất cho phát triển; phát triển lại điều khiển, thúc đẩy tốc độ sinh trưởng của cơ thể.\n- Mô phân sinh ở thực vật: Là nhóm các tế bào chưa phân hóa, có khả năng phân chia tạo tế bào mới giúp cây sinh trưởng. Gồm mô phân sinh đỉnh (ở đỉnh rễ, chồi ngọn giúp tăng chiều dài của thân, rễ) và mô phân sinh bên (ở thân cây giúp thân tăng chiều ngang, vỏ dày lên).\n- Từ khóa: Sinh trưởng, phát triển, mô phân sinh đỉnh, mô phân sinh bên, phân hóa tế bào."
+  },
+  {
+    "lessonId": "kh7_b37",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 37,
+    "lessonContent": "Bài 37. Ứng dụng sinh trưởng và phát triển ở sinh vật vào thực tiễn: - Nhân tố ảnh hưởng: Nhiệt độ (mỗi loài có nhiệt độ giới hạn và cực thuận), ánh sáng (ảnh hưởng đến quang hợp và quang chu kì ra hoa, tổng hợp vitamin D ở động vật), nước (dung môi và nguyên liệu tế bào), chất dinh dưỡng (thiếu protein động vật chậm lớn, thiếu khoáng thực vật bị còi cọc).\n- Ứng dụng trong trồng trọt: Điều khiển các yếu tố bên ngoài (bón phân, tưới nước, chiếu sáng thích hợp); sử dụng các chất kích thích sinh trưởng (hormone) nhân tạo để kích thích ra rễ nhanh, ra hoa trái vụ, tăng kích thước quả hoặc dùng hormone ức chế để kìm hãm sự nảy mầm của tỏi, khoai tây khi bảo quản.\n- Ứng dụng trong chăn nuôi: Giữ ấm chuồng trại mùa đông tránh rét cho gia súc; cân đối khẩu phần dinh dưỡng cho vật nuôi theo từng giai đoạn phát triển.\n- Phòng trừ sinh vật gây hại: Tiêu diệt muỗi, sâu bướm phá hại mùa màng ở giai đoạn dễ tác động nhất trong vòng đời của chúng (giai đoạn ấu trùng/sâu non).\n- Từ khóa: Nhân tố ảnh hưởng, chất kích thích sinh trưởng, hormone thực vật, kìm hãm nảy mầm, ngắt quãng vòng đời."
+  },
+  {
+    "lessonId": "kh7_b38",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Sinh trưởng và phát triển ở sinh vật",
+    "lessonOrder": 38,
+    "lessonContent": "Bài 38. Thực hành: Quan sát, mô tả sự sinh trưởng và phát triển ở một số sinh vật: - Thí nghiệm chứng minh cây sinh trưởng: Gieo hạt đậu xanh/đậu đen vào chậu đất ẩm. Đo chiều cao của cây, đếm số lá và đo kích thước lá hàng ngày trong khoảng 5-7 ngày. Lập bảng thống kê ghi nhận sự tăng trưởng kích thước và khối lượng của cây qua từng ngày.\n- Quan sát vòng đời động vật: Cho học sinh xem phim tư liệu, tranh ảnh mô tả chi tiết các giai đoạn phát triển trong vòng đời của bướm (trứng -> sâu non -> nhộng -> bướm trưởng thành) và vòng đời của gà (trứng -> phôi trong trứng -> gà con -> gà trưởng thành).\n- Từ khóa: Thực hành sinh trưởng, hạt đậu nảy mầm, đo chiều cao cây, vòng đời của bướm, vòng đời của gà."
+  },
+  {
+    "lessonId": "kh7_b39",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Sinh sản ở sinh vật",
+    "lessonOrder": 39,
+    "lessonContent": "Bài 39. Sinh sản vô tính ở sinh vật: - Khái niệm sinh sản: Là quá trình tạo ra những cá thể mới, đảm bảo sự phát triển liên tục của loài.\n- Sinh sản vô tính: Là hình thức sinh sản không có sự kết hợp của giao tử đực và giao tử cái, cơ thể con được tạo thành từ một phần của cơ thể mẹ và mang đặc điểm giống hệt cơ thể mẹ.\n- Sinh sản vô tính ở thực vật: Gồm sinh sản sinh dưỡng (tạo cơ thể mới từ một bộ phận sinh dưỡng như rễ củ khoai lang, thân rễ cây gừng, lá cây thuốc bỏng, thân bò dâu tây) và sinh sản bằng bào tử (ở rêu, dương xỉ).\n- Sinh sản vô tính ở động vật: Gồm nảy chồi (ở thủy tức), phân mảnh (ở sao biển), trinh sản (tế bào trứng không thụ tinh phát triển thành cơ thể mới như ở ong đực, kiến).\n- Phương pháp nhân giống vô tính nhân tạo ở thực vật: Giâm cành (sắn, mía); chiết cành (cây ăn quả lâu năm); ghép cành (cam, bưởi); nuôi cấy tế bào và mô thực vật trong ống nghiệm vô trùng.\n- Từ khóa: Sinh sản vô tính, sinh sản sinh dưỡng, giâm cành, chiết cành, ghép cành, nuôi cấy mô tế bào."
+  },
+  {
+    "lessonId": "kh7_b40",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Sinh sản ở sinh vật",
+    "lessonOrder": 40,
+    "lessonContent": "Bài 40. Sinh sản hữu tính ở sinh vật: - Khái niệm sinh sản hữu tính: Là hình thức sinh sản tạo ra cơ thể mới qua sự hợp nhất giữa giao tử đực và giao tử cái tạo thành hợp tử, hợp tử phát triển thành cơ thể mới. Con sinh ra mang đặc điểm di truyền kết hợp từ cả bố và mẹ.\n- Sinh sản hữu tính ở thực vật có hoa: Cơ quan sinh sản là hoa. Hoa lưỡng tính chứa cả nhị (nhị mang bao phấn chứa hạt phấn/giao tử đực) và nhụy (nhụy chứa bầu nhụy có noãn/giao tử cái) như hoa bưởi, hoa hồng; hoa đơn tính chỉ mang nhị hoặc nhụy như hoa mướp, hoa dưa chuột. Quá trình gồm: Thụ phấn (hạt phấn đáp lên đầu nhụy) -> Thụ tinh (giao tử đực kết hợp giao tử cái tại noãn tạo hợp tử) -> Noãn phát triển thành hạt chứa phôi, bầu nhụy phát triển thành quả chứa hạt.\n- Sinh sản hữu tính ở động vật: Gồm 3 giai đoạn nối tiếp: 1) Hình thành giao tử (tinh trùng ở tinh hoàn, trứng ở buồng trứng); 2) Thụ tinh (sự kết hợp tinh trùng và trứng tạo hợp tử. Thụ tinh ngoài xảy ra ở môi trường nước như cá, ếch; thụ tinh trong xảy ra trong cơ quan sinh dục con cái như chim, thú); 3) Phát triển phôi (đẻ trứng ở chim, bò sát; đẻ con ở đa số động vật có vú, phôi phát triển trong tử cung mẹ qua nhau thai).\n- Từ khóa: Sinh sản hữu tính, nhị, nhụy, thụ phấn, thụ tinh, hợp tử, quả và hạt, đẻ trứng, đẻ con."
+  },
+  {
+    "lessonId": "kh7_b41",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Sinh sản ở sinh vật",
+    "lessonOrder": 41,
+    "lessonContent": "Bài 41. Một số yếu tố ảnh hưởng và điều hoà, điều khiển sinh sản ở sinh vật: - Yếu tố ảnh hưởng đến sinh sản: Yếu tố bên trong (đặc điểm di truyền của loài, hormone sinh sản, độ tuổi sinh sản) và yếu tố bên ngoài (ánh sáng, nhiệt độ, độ ẩm, chế độ dinh dưỡng). Ví dụ ở nhiệt độ dưới 15 độ C cá chép không đẻ trứng; thiếu chất dinh dưỡng động vật ngừng sinh sản.\n- Điều hòa sinh sản: Diễn ra tự nhiên nhờ các hormone sinh sản do tuyến nội tiết tiết ra kích thích chín và rụng trứng ở con cái, tạo tinh trùng ở con đực.\n- Điều khiển sinh sản trong thực tiễn: 1) Ở thực vật: Thắp đèn chiếu sáng ban đêm ở vườn thanh long kích thích ra hoa trái vụ; phun nước, ngắt ngọn dưa chuột tăng hoa cái; thụ phấn nhân tạo cho thụ phấn đạt tỉ lệ cao; sản xuất quả không hạt (chanh, nho); 2) Ở động vật: Sử dụng hormone nhân tạo kích thích cá đẻ trứng đồng loạt; thụ tinh nhân tạo trong ống nghiệm; cấy truyền phôi ở bò để tăng nhanh số lượng con giống quý; điều khiển giới tính vật nuôi phù hợp mục đích kinh tế (lấy thịt chọn con đực, lấy sữa/trứng chọn con cái).\n- Từ khóa: Ảnh hưởng sinh sản, hormone điều hòa, thụ phấn nhân tạo, thụ tinh trong ống nghiệm, cấy truyền phôi, điều khiển giới tính."
+  },
+  {
+    "lessonId": "kh7_b42",
+    "grade": 7,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Sinh sản ở sinh vật",
+    "lessonOrder": 42,
+    "lessonContent": "Bài 42. Cơ thể sinh vật là một thể thống nhất: - Mối quan hệ giữa tế bào, cơ thể và môi trường: Tế bào là đơn vị cấu trúc và chức năng cơ bản của mọi cơ thể đa bào. Cơ thể đa bào lấy các chất dinh dưỡng, nước, muối khoáng và oxygen từ môi trường ngoài cung cấp cho tế bào thực hiện trao đổi chất để lớn lên, sinh sản và cảm ứng. Ngược lại, tế bào hoạt động nhịp nhàng giúp cơ thể phản ứng đồng bộ với các kích thích từ môi trường.\n- Mối quan hệ giữa các hoạt động sống trong cơ thể: Các hoạt động sống bao gồm trao đổi chất, chuyển hóa năng lượng, sinh trưởng, phát triển, cảm ứng và sinh sản có mối quan hệ qua lại chặt chẽ. Trao đổi chất và chuyển hóa năng lượng cung cấp vật chất cấu tạo và năng lượng cho tất cả các hoạt động sống còn lại; ngược lại các hoạt động này điều hòa, định hướng quá trình trao đổi chất đảm bảo sự thống nhất tuyệt đối trong toàn cơ thể sinh vật.\n- Từ khóa: Cơ thể thống nhất, đơn vị tế bào, trao đổi chất, hoạt động sống liên kết, cân bằng hệ thống."
+  }
+]

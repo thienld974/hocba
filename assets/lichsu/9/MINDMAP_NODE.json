@@ -1,0 +1,422 @@
+[
+  {
+    "nodeId": "root_sudia9",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "LỊCH SỬ VÀ ĐỊA LÍ 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "sudia9_node_part1",
+    "lessonId": null,
+    "parentNodeId": "root_sudia9",
+    "nodeName": "Phần Lịch sử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_part2",
+    "lessonId": null,
+    "parentNodeId": "root_sudia9",
+    "nodeName": "Phần Địa lí",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_part3",
+    "lessonId": null,
+    "parentNodeId": "root_sudia9",
+    "nodeName": "Chủ đề chung",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch1",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 1. THẾ GIỚI TỪ NĂM 1918 ĐẾN NĂM 1945",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch1_l1",
+    "lessonId": "sudia9_su_b1",
+    "parentNodeId": "sudia9_node_p1_ch1",
+    "nodeName": "Bài 1. Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch1_l2",
+    "lessonId": "sudia9_su_b2",
+    "parentNodeId": "sudia9_node_p1_ch1",
+    "nodeName": "Bài 2. Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch1_l3",
+    "lessonId": "sudia9_su_b3",
+    "parentNodeId": "sudia9_node_p1_ch1",
+    "nodeName": "Bài 3. Châu Á từ năm 1918 đến năm 1945",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch1_l4",
+    "lessonId": "sudia9_su_b4",
+    "parentNodeId": "sudia9_node_p1_ch1",
+    "nodeName": "Bài 4. Chiến tranh thế giới thứ hai (1939 - 1945)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch2",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 2. VIỆT NAM TỪ NĂM 1918 ĐẾN NĂM 1945",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch2_l1",
+    "lessonId": "sudia9_su_b5",
+    "parentNodeId": "sudia9_node_p1_ch2",
+    "nodeName": "Bài 5. Phong trào dân tộc dân chủ trong những năm 1918 - 1930",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch2_l2",
+    "lessonId": "sudia9_su_b6",
+    "parentNodeId": "sudia9_node_p1_ch2",
+    "nodeName": "Bài 6. Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch2_l3",
+    "lessonId": "sudia9_su_b7",
+    "parentNodeId": "sudia9_node_p1_ch2",
+    "nodeName": "Bài 7. Phong trào cách mạng Việt Nam thời kì 1930 - 1939",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch2_l4",
+    "lessonId": "sudia9_su_b8",
+    "parentNodeId": "sudia9_node_p1_ch2",
+    "nodeName": "Bài 8. Cách mạng tháng Tám năm 1945",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch3",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 3. THẾ GIỚI TỪ NĂM 1945 ĐẾN NĂM 1991",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch3_l1",
+    "lessonId": "sudia9_su_b9",
+    "parentNodeId": "sudia9_node_p1_ch3",
+    "nodeName": "Bài 9. Chiến tranh lạnh (1947 - 1989)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch3_l2",
+    "lessonId": "sudia9_su_b10",
+    "parentNodeId": "sudia9_node_p1_ch3",
+    "nodeName": "Bài 10. Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch3_l3",
+    "lessonId": "sudia9_su_b11",
+    "parentNodeId": "sudia9_node_p1_ch3",
+    "nodeName": "Bài 11. Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch3_l4",
+    "lessonId": "sudia9_su_b12",
+    "parentNodeId": "sudia9_node_p1_ch3",
+    "nodeName": "Bài 12. Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch4",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 4. VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1975",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch4_l1",
+    "lessonId": "sudia9_su_b13",
+    "parentNodeId": "sudia9_node_p1_ch4",
+    "nodeName": "Bài 13. Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch4_l2",
+    "lessonId": "sudia9_su_b14",
+    "parentNodeId": "sudia9_node_p1_ch4",
+    "nodeName": "Bài 14. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 - 1950",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch4_l3",
+    "lessonId": "sudia9_su_b15",
+    "parentNodeId": "sudia9_node_p1_ch4",
+    "nodeName": "Bài 15. Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 - 1954",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch4_l4",
+    "lessonId": "sudia9_su_b16",
+    "parentNodeId": "sudia9_node_p1_ch4",
+    "nodeName": "Bài 16. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 - 1965",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch4_l5",
+    "lessonId": "sudia9_su_b17",
+    "parentNodeId": "sudia9_node_p1_ch4",
+    "nodeName": "Bài 17. Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 - 1975",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch5",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 5. THẾ GIỚI TỪ NĂM 1991 ĐẾN NAY",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch5_l1",
+    "lessonId": "sudia9_su_b18",
+    "parentNodeId": "sudia9_node_p1_ch5",
+    "nodeName": "Bài 18. Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch5_l2",
+    "lessonId": "sudia9_su_b19",
+    "parentNodeId": "sudia9_node_p1_ch5",
+    "nodeName": "Bài 19. Châu Á từ năm 1991 đến nay",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch6",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 6. VIỆT NAM TỪ NĂM 1976 ĐẾN NAY",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch6_l1",
+    "lessonId": "sudia9_su_b20",
+    "parentNodeId": "sudia9_node_p1_ch6",
+    "nodeName": "Bài 20. Việt Nam từ năm 1976 đến nay",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch7",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part1",
+    "nodeName": "Chương 7. CÁCH MẠNG KHOA HỌC - KĨ THUẬT VÀ XU THẾ TOÀN CẦU HOÁ",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sudia9_node_p1_ch7_l1",
+    "lessonId": "sudia9_su_b21",
+    "parentNodeId": "sudia9_node_p1_ch7",
+    "nodeName": "Bài 21. Cách mạng khoa học - kĩ thuật và xu thế toàn cầu hoá",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch1",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part2",
+    "nodeName": "Chương 1. ĐỊA LÍ DÂN CƯ VIỆT NAM",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch1_l1",
+    "lessonId": "sudia9_dia_b1",
+    "parentNodeId": "sudia9_node_p2_ch1",
+    "nodeName": "Bài 1. Dân tộc và dân số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch1_l2",
+    "lessonId": "sudia9_dia_b2",
+    "parentNodeId": "sudia9_node_p2_ch1",
+    "nodeName": "Bài 2. Phân bố dân cư và các loại hình quần cư",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch1_l3",
+    "lessonId": "sudia9_dia_b3",
+    "parentNodeId": "sudia9_node_p2_ch1",
+    "nodeName": "Bài 3. Lao động và việc làm",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch1_l4",
+    "lessonId": "sudia9_dia_b4",
+    "parentNodeId": "sudia9_node_p2_ch1",
+    "nodeName": "Bài 4. Thực hành: Tìm hiểu vấn đề việc làm ở địa phương và phân hoá thu nhập theo vùng",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part2",
+    "nodeName": "Chương 2. ĐỊA LÍ CÁC NGÀNH KINH TẾ",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l1",
+    "lessonId": "sudia9_dia_b5",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 5. Nông nghiệp",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l2",
+    "lessonId": "sudia9_dia_b6",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 6. Lâm nghiệp và thuỷ sản",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l3",
+    "lessonId": "sudia9_dia_b7",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 7. Thực hành: Viết báo cáo về một mô hình sản xuất nông nghiệp có hiệu quả",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l4",
+    "lessonId": "sudia9_dia_b8",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 8. Công nghiệp",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l5",
+    "lessonId": "sudia9_dia_b9",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 9. Thực hành: Xác định một số hình thức tổ chức lãnh thổ công nghiệp ở nước ta",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l6",
+    "lessonId": "sudia9_dia_b10",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 10. Dịch vụ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch2_l7",
+    "lessonId": "sudia9_dia_b11",
+    "parentNodeId": "sudia9_node_p2_ch2",
+    "nodeName": "Bài 11. Thực hành: Tìm hiểu xu hướng phát triển ngành thương mại, du lịch",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part2",
+    "nodeName": "Chương 3. ĐỊA LÍ CÁC VÙNG KINH TẾ - XÃ HỘI",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l1",
+    "lessonId": "sudia9_dia_b12",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 12. Vùng Trung du và miền núi phía Bắc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l2",
+    "lessonId": "sudia9_dia_b13",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 13. Vùng Đồng bằng sông Hồng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l3",
+    "lessonId": "sudia9_dia_b14",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 14. Vùng Bắc Trung Bộ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l4",
+    "lessonId": "sudia9_dia_b15",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 15. Thực hành: Tìm hiểu vấn đề phòng, chống thiên tai và ứng phó với biến đổi khí hậu ở vùng Bắc Trung Bộ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l5",
+    "lessonId": "sudia9_dia_b16",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 16. Vùng Duyên hải Nam Trung Bộ và Tây Nguyên",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l6",
+    "lessonId": "sudia9_dia_b17",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 17. Vùng Đông Nam Bộ",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l7",
+    "lessonId": "sudia9_dia_b18",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 18. Thực hành: Phân tích ý nghĩa của việc tăng cường kết nối liên vùng đối với sự phát triển của vùng Đông Nam Bộ",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l8",
+    "lessonId": "sudia9_dia_b19",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 19. Vùng Đồng bằng sông Cửu Long",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l9",
+    "lessonId": "sudia9_dia_b20",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 20. Thực hành: Tìm hiểu về tác động của biến đổi khí hậu đối với vùng Đồng bằng sông Cửu Long",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "sudia9_node_p2_ch3_l10",
+    "lessonId": "sudia9_dia_b21",
+    "parentNodeId": "sudia9_node_p2_ch3",
+    "nodeName": "Bài 21. Phát triển tổng hợp kinh tế và bảo vệ tài nguyên, môi trường biển, đảo",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "sudia9_node_p3_ch1",
+    "lessonId": null,
+    "parentNodeId": "sudia9_node_part3",
+    "nodeName": "CHỦ ĐỀ CHUNG",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p3_ch1_l1",
+    "lessonId": "sudia9_cdc_t1",
+    "parentNodeId": "sudia9_node_p3_ch1",
+    "nodeName": "Chủ đề 1. Đô thị: Lịch sử và hiện tại",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia9_node_p3_ch1_l2",
+    "lessonId": "sudia9_cdc_t2",
+    "parentNodeId": "sudia9_node_p3_ch1",
+    "nodeName": "Chủ đề 2. Văn minh châu thổ sông Hồng và sông Cửu Long",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia9_node_p3_ch1_l3",
+    "lessonId": "sudia9_cdc_t3",
+    "parentNodeId": "sudia9_node_p3_ch1",
+    "nodeName": "Chủ đề 3. Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+    "orderIndex": 3
+  }
+]

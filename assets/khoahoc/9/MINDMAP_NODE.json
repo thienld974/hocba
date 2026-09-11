@@ -1,0 +1,471 @@
+[
+  {
+    "nodeId": "root_kh9",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "KHOA HỌC TỰ NHIÊN 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "kh9_node_modau",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Mở đầu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b1",
+    "lessonId": "kh9_b1",
+    "parentNodeId": "kh9_node_modau",
+    "nodeName": "Bài 1: Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương I. Năng lượng cơ học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b2",
+    "lessonId": "kh9_b2",
+    "parentNodeId": "kh9_node_ch2",
+    "nodeName": "Bài 2: Động năng. Thế năng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b3",
+    "lessonId": "kh9_b3",
+    "parentNodeId": "kh9_node_ch2",
+    "nodeName": "Bài 3: Cơ năng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b4",
+    "lessonId": "kh9_b4",
+    "parentNodeId": "kh9_node_ch2",
+    "nodeName": "Bài 4: Công và công suất",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương II. Ánh sáng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b5",
+    "lessonId": "kh9_b5",
+    "parentNodeId": "kh9_node_ch3",
+    "nodeName": "Bài 5: Khúc xạ ánh sáng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b6",
+    "lessonId": "kh9_b6",
+    "parentNodeId": "kh9_node_ch3",
+    "nodeName": "Bài 6: Phản xạ toàn phần",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b7",
+    "lessonId": "kh9_b7",
+    "parentNodeId": "kh9_node_ch3",
+    "nodeName": "Bài 7: Lăng kính",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b8",
+    "lessonId": "kh9_b8",
+    "parentNodeId": "kh9_node_ch3",
+    "nodeName": "Bài 8: Thấu kính",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_b9",
+    "lessonId": "kh9_b9",
+    "parentNodeId": "kh9_node_ch3",
+    "nodeName": "Bài 9: Thực hành đo tiêu cự của thấu kính hội tụ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh9_node_b10",
+    "lessonId": "kh9_b10",
+    "parentNodeId": "kh9_node_ch3",
+    "nodeName": "Bài 10: Kính lúp. Bài tập thấu kính",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh9_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương III. Điện",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_b11",
+    "lessonId": "kh9_b11",
+    "parentNodeId": "kh9_node_ch4",
+    "nodeName": "Bài 11: Điện trở. Định luật Ohm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b12",
+    "lessonId": "kh9_b12",
+    "parentNodeId": "kh9_node_ch4",
+    "nodeName": "Bài 12: Đoạn mạch nối tiếp, song song",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b13",
+    "lessonId": "kh9_b13",
+    "parentNodeId": "kh9_node_ch4",
+    "nodeName": "Bài 13: Năng lượng của dòng điện và công suất điện",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương IV. Điện từ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh9_node_b14",
+    "lessonId": "kh9_b14",
+    "parentNodeId": "kh9_node_ch5",
+    "nodeName": "Bài 14: Cảm ứng điện từ. Nguyên tắc tạo ra dòng điện xoay chiều",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b15",
+    "lessonId": "kh9_b15",
+    "parentNodeId": "kh9_node_ch5",
+    "nodeName": "Bài 15: Tác dụng của dòng điện xoay chiều",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương V. Năng lượng với cuộc sống",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh9_node_b16",
+    "lessonId": "kh9_b16",
+    "parentNodeId": "kh9_node_ch6",
+    "nodeName": "Bài 16: Vòng năng lượng trên Trái Đất. Năng lượng hoá thạch",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b17",
+    "lessonId": "kh9_b17",
+    "parentNodeId": "kh9_node_ch6",
+    "nodeName": "Bài 17: Một số dạng năng lượng tái tạo",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_ch7",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương VI. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "kh9_node_b18",
+    "lessonId": "kh9_b18",
+    "parentNodeId": "kh9_node_ch7",
+    "nodeName": "Bài 18: Tính chất chung của kim loại",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b19",
+    "lessonId": "kh9_b19",
+    "parentNodeId": "kh9_node_ch7",
+    "nodeName": "Bài 19: Dãy hoạt động hoá học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b20",
+    "lessonId": "kh9_b20",
+    "parentNodeId": "kh9_node_ch7",
+    "nodeName": "Bài 20: Tách kim loại và việc sử dụng hợp kim",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b21",
+    "lessonId": "kh9_b21",
+    "parentNodeId": "kh9_node_ch7",
+    "nodeName": "Bài 21: Sự khác nhau cơ bản giữa phi kim và kim loại",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_ch8",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương VII. Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "kh9_node_b22",
+    "lessonId": "kh9_b22",
+    "parentNodeId": "kh9_node_ch8",
+    "nodeName": "Bài 22: Giới thiệu về hợp chất hữu cơ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b23",
+    "lessonId": "kh9_b23",
+    "parentNodeId": "kh9_node_ch8",
+    "nodeName": "Bài 23: Alkane",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b24",
+    "lessonId": "kh9_b24",
+    "parentNodeId": "kh9_node_ch8",
+    "nodeName": "Bài 24: Alkene",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b25",
+    "lessonId": "kh9_b25",
+    "parentNodeId": "kh9_node_ch8",
+    "nodeName": "Bài 25: Nguồn nhiên liệu",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_ch9",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương VIII. Ethylic alcohol và acetic acid",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "kh9_node_b26",
+    "lessonId": "kh9_b26",
+    "parentNodeId": "kh9_node_ch9",
+    "nodeName": "Bài 26: Ethylic alcohol",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b27",
+    "lessonId": "kh9_b27",
+    "parentNodeId": "kh9_node_ch9",
+    "nodeName": "Bài 27: Acetic acid",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_ch10",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương IX. Lipid. Carbohydrate. Protein. Polymer",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "kh9_node_b28",
+    "lessonId": "kh9_b28",
+    "parentNodeId": "kh9_node_ch10",
+    "nodeName": "Bài 28: Lipid",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b29",
+    "lessonId": "kh9_b29",
+    "parentNodeId": "kh9_node_ch10",
+    "nodeName": "Bài 29: Carbohydrate. Glucose và saccharose",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b30",
+    "lessonId": "kh9_b30",
+    "parentNodeId": "kh9_node_ch10",
+    "nodeName": "Bài 30: Tinh bột và cellulose",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b31",
+    "lessonId": "kh9_b31",
+    "parentNodeId": "kh9_node_ch10",
+    "nodeName": "Bài 31: Protein",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_b32",
+    "lessonId": "kh9_b32",
+    "parentNodeId": "kh9_node_ch10",
+    "nodeName": "Bài 32: Polymer",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh9_node_ch11",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương X. Khai thác tài nguyên từ vỏ Trái Đất",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "kh9_node_b33",
+    "lessonId": "kh9_b33",
+    "parentNodeId": "kh9_node_ch11",
+    "nodeName": "Bài 33: Sơ lược về hoá học vỏ Trái Đất và khai thác tài nguyên từ vỏ Trái Đất",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b34",
+    "lessonId": "kh9_b34",
+    "parentNodeId": "kh9_node_ch11",
+    "nodeName": "Bài 34: Khai thác đá vôi. Công nghiệp silicate",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b35",
+    "lessonId": "kh9_b35",
+    "parentNodeId": "kh9_node_ch11",
+    "nodeName": "Bài 35: Khai thác nhiên liệu hoá thạch. Nguồn carbon. Chu trình carbon và sự ấm lên toàn cầu",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_ch12",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "kh9_node_b36",
+    "lessonId": "kh9_b36",
+    "parentNodeId": "kh9_node_ch12",
+    "nodeName": "Bài 36: Khái quát về di truyền học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b37",
+    "lessonId": "kh9_b37",
+    "parentNodeId": "kh9_node_ch12",
+    "nodeName": "Bài 37: Các quy luật di truyền của Mendel",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b38",
+    "lessonId": "kh9_b38",
+    "parentNodeId": "kh9_node_ch12",
+    "nodeName": "Bài 38: Nucleic acid và gene",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b39",
+    "lessonId": "kh9_b39",
+    "parentNodeId": "kh9_node_ch12",
+    "nodeName": "Bài 39: Tái bản DNA và phiên mã tạo RNA",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_b40",
+    "lessonId": "kh9_b40",
+    "parentNodeId": "kh9_node_ch12",
+    "nodeName": "Bài 40: Dịch mã và mối quan hệ từ gene đến tính trạng",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh9_node_b41",
+    "lessonId": "kh9_b41",
+    "parentNodeId": "kh9_node_ch12",
+    "nodeName": "Bài 41: Đột biến gene",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "kh9_node_ch13",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương XII. Di truyền nhiễm sắc thể",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "kh9_node_b42",
+    "lessonId": "kh9_b42",
+    "parentNodeId": "kh9_node_ch13",
+    "nodeName": "Bài 42: Nhiễm sắc thể và bộ nhiễm sắc thể",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b43",
+    "lessonId": "kh9_b43",
+    "parentNodeId": "kh9_node_ch13",
+    "nodeName": "Bài 43: Nguyên phân và giảm phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b44",
+    "lessonId": "kh9_b44",
+    "parentNodeId": "kh9_node_ch13",
+    "nodeName": "Bài 44: Nhiễm sắc thể giới tính và cơ chế xác định giới tính",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "kh9_node_b45",
+    "lessonId": "kh9_b45",
+    "parentNodeId": "kh9_node_ch13",
+    "nodeName": "Bài 45: Di truyền liên kết",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "kh9_node_b46",
+    "lessonId": "kh9_b46",
+    "parentNodeId": "kh9_node_ch13",
+    "nodeName": "Bài 46: Đột biến nhiễm sắc thể",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "kh9_node_ch14",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương XIII. Di truyền học với con người và đời sống",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "kh9_node_b47",
+    "lessonId": "kh9_b47",
+    "parentNodeId": "kh9_node_ch14",
+    "nodeName": "Bài 47: Di truyền học với con người",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b48",
+    "lessonId": "kh9_b48",
+    "parentNodeId": "kh9_node_ch14",
+    "nodeName": "Bài 48: Ứng dụng công nghệ di truyền vào đời sống",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_ch15",
+    "lessonId": null,
+    "parentNodeId": "root_kh9",
+    "nodeName": "Chương XIV. Tiến hoá",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "kh9_node_b49",
+    "lessonId": "kh9_b49",
+    "parentNodeId": "kh9_node_ch15",
+    "nodeName": "Bài 49: Khái niệm tiến hoá và các hình thức chọn lọc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "kh9_node_b50",
+    "lessonId": "kh9_b50",
+    "parentNodeId": "kh9_node_ch15",
+    "nodeName": "Bài 50: Cơ chế tiến hoá",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "kh9_node_b51",
+    "lessonId": "kh9_b51",
+    "parentNodeId": "kh9_node_ch15",
+    "nodeName": "Bài 51: Sự phát sinh và phát triển sự sống trên Trái Đất",
+    "orderIndex": 3
+  }
+]

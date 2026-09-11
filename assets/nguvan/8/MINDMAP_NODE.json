@@ -1,0 +1,842 @@
+[
+  {
+    "nodeId": "root_nguvan8",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 8 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan8_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan8",
+    "nodeName": "Ngữ văn 8 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan8",
+    "nodeName": "Ngữ văn 8 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol1",
+    "nodeName": "Bài 1. Câu chuyện của lịch sử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_trithuc",
+    "lessonId": "nguvan8_t1_b1_trithuc",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_doc1",
+    "lessonId": "nguvan8_t1_b1_doc1",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Lá cờ thêu sáu chữ vàng (trích, Nguyễn Huy Tưởng)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_tiengviet1",
+    "lessonId": "nguvan8_t1_b1_tiengviet1",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Thực hành tiếng Việt: Biệt ngữ xã hội",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_doc2",
+    "lessonId": "nguvan8_t1_b1_doc2",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Quang Trung đại phá quân Thanh (trích Hoàng Lê nhất thống chí, Ngô gia văn phái)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_tiengviet2",
+    "lessonId": "nguvan8_t1_b1_tiengviet2",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Thực hành tiếng Việt: Từ ngữ địa phương",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_doc3",
+    "lessonId": "nguvan8_t1_b1_doc3",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Ta đi tới (trích, Tố Hữu)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_viet",
+    "lessonId": "nguvan8_t1_b1_viet",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Viết: Kể lại một chuyến đi (tham quan một di tích lịch sử, văn hóa)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_noinghe",
+    "lessonId": "nguvan8_t1_b1_noinghe",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Nói và nghe: Trình bày bài giới thiệu ngắn về một cuốn sách",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_cungco",
+    "lessonId": "nguvan8_t1_b1_cungco",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b1_thuchanhdoc",
+    "lessonId": "nguvan8_t1_b1_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t1_ch1",
+    "nodeName": "Thực hành đọc: Minh sư (trích, Thái Bá Lợi)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol1",
+    "nodeName": "Bài 2. Vẻ đẹp cổ điển",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_trithuc",
+    "lessonId": "nguvan8_t1_b2_trithuc",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_doc1",
+    "lessonId": "nguvan8_t1_b2_doc1",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Thu điếu (Nguyễn Khuyến)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_tiengviet1",
+    "lessonId": "nguvan8_t1_b2_tiengviet1",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Thực hành tiếng Việt: Từ tượng hình, từ tượng thanh",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_doc2",
+    "lessonId": "nguvan8_t1_b2_doc2",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Thiên Trường vãn vọng (Trần Nhân Tông)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_tiengviet2",
+    "lessonId": "nguvan8_t1_b2_tiengviet2",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Thực hành tiếng Việt: Đảo ngữ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_doc3",
+    "lessonId": "nguvan8_t1_b2_doc3",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Ca Huế trên sông Hương (Hà Ánh Minh)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_viet",
+    "lessonId": "nguvan8_t1_b2_viet",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Viết: Phân tích một tác phẩm văn học (bài thơ Đường luật)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_noinghe",
+    "lessonId": "nguvan8_t1_b2_noinghe",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một vấn đề xã hội",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_cungco",
+    "lessonId": "nguvan8_t1_b2_cungco",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b2_thuchanhdoc",
+    "lessonId": "nguvan8_t1_b2_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t1_ch2",
+    "nodeName": "Thực hành đọc: Qua Đèo Ngang (Bà Huyện Thanh Quan)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol1",
+    "nodeName": "Bài 3. Lời sông núi",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_trithuc",
+    "lessonId": "nguvan8_t1_b3_trithuc",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_doc1",
+    "lessonId": "nguvan8_t1_b3_doc1",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Hịch tướng sĩ (Trần Quốc Tuấn)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_tiengviet1",
+    "lessonId": "nguvan8_t1_b3_tiengviet1",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Thực hành tiếng Việt: Đoạn văn diễn dịch và đoạn văn quy nạp",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_doc2",
+    "lessonId": "nguvan8_t1_b3_doc2",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Tinh thần yêu nước của nhân dân ta (Hồ Chí Minh)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_tiengviet2",
+    "lessonId": "nguvan8_t1_b3_tiengviet2",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Thực hành tiếng Việt: Đoạn văn song song và đoạn văn phối hợp",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_doc3",
+    "lessonId": "nguvan8_t1_b3_doc3",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Nam quốc sơn hà",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_viet",
+    "lessonId": "nguvan8_t1_b3_viet",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Viết: Nghị luận về một vấn đề đời sống",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_noinghe",
+    "lessonId": "nguvan8_t1_b3_noinghe",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Nói và nghe: Thảo luận về một vấn đề trong đời sống phù hợp với lứa tuổi",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_cungco",
+    "lessonId": "nguvan8_t1_b3_cungco",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_thuchanhdoc",
+    "lessonId": "nguvan8_t1_b3_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Thực hành đọc: Chiếu dời đô (Lý Công Uẩn)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b3_docmorong",
+    "lessonId": "nguvan8_t1_b3_docmorong",
+    "parentNodeId": "nguvan8_node_t1_ch3",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "nguvan8_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol1",
+    "nodeName": "Bài 4. Tiếng cười trào phúng trong thơ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_trithuc",
+    "lessonId": "nguvan8_t1_b4_trithuc",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_doc1",
+    "lessonId": "nguvan8_t1_b4_doc1",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Lễ xướng danh khoa Đinh Dậu (Trần Tế Xương)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_tiengviet1",
+    "lessonId": "nguvan8_t1_b4_tiengviet1",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Thực hành tiếng Việt: Nghĩa của từ ngữ, từ Hán Việt",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_doc2",
+    "lessonId": "nguvan8_t1_b4_doc2",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Lai Tân (Hồ Chí Minh)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_tiengviet2",
+    "lessonId": "nguvan8_t1_b4_tiengviet2",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Thực hành tiếng Việt: Sắc thái nghĩa của từ ngữ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_doc3",
+    "lessonId": "nguvan8_t1_b4_doc3",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Một số giọng điệu của tiếng cười trong thơ trào phúng (Trần Thị Hoa Lê)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_viet",
+    "lessonId": "nguvan8_t1_b4_viet",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Viết: Phân tích một tác phẩm văn học (thơ trào phúng)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_noinghe",
+    "lessonId": "nguvan8_t1_b4_noinghe",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một vấn đề xã hội",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_cungco",
+    "lessonId": "nguvan8_t1_b4_cungco",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b4_thuchanhdoc",
+    "lessonId": "nguvan8_t1_b4_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t1_ch4",
+    "nodeName": "Thực hành đọc: Vịnh cây vông (Nguyễn Công Trứ)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol1",
+    "nodeName": "Bài 5. Những câu chuyện hài",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_trithuc",
+    "lessonId": "nguvan8_t1_b5_trithuc",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_doc1",
+    "lessonId": "nguvan8_t1_b5_doc1",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Trưởng giả học làm sang (trích, Mô-li-e)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_tiengviet1",
+    "lessonId": "nguvan8_t1_b5_tiengviet1",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Thực hành tiếng Việt: Câu hỏi tu từ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_doc2",
+    "lessonId": "nguvan8_t1_b5_doc2",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Chùm truyện cười dân gian Việt Nam",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_doc3",
+    "lessonId": "nguvan8_t1_b5_doc3",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Chùm ca dao trào phúng",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_tiengviet2",
+    "lessonId": "nguvan8_t1_b5_tiengviet2",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Thực hành tiếng Việt: Nghĩa tường minh và nghĩa hàm ẩn",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_viet",
+    "lessonId": "nguvan8_t1_b5_viet",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Viết: Nghị luận về một vấn đề đời sống (thói xấu của con người)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_noinghe",
+    "lessonId": "nguvan8_t1_b5_noinghe",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một vấn đề xã hội",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_cungco",
+    "lessonId": "nguvan8_t1_b5_cungco",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_thuchanhdoc",
+    "lessonId": "nguvan8_t1_b5_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Thực hành đọc: Giá không có ruồi! (trích, A-dít Nê-xin)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_b5_docmorong",
+    "lessonId": "nguvan8_t1_b5_docmorong",
+    "parentNodeId": "nguvan8_node_t1_ch5",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "nguvan8_node_t1_ch_ontap",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol1",
+    "nodeName": "Ôn tập học kì I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_ontap_lythuyet",
+    "lessonId": "nguvan8_t1_ontap_lythuyet",
+    "parentNodeId": "nguvan8_node_t1_ch_ontap",
+    "nodeName": "Ôn tập kiến thức học kì I (Lý thuyết)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t1_ontap_thuchanh",
+    "lessonId": "nguvan8_t1_ontap_thuchanh",
+    "parentNodeId": "nguvan8_node_t1_ch_ontap",
+    "nodeName": "Luyện tập tổng hợp học kì I (Thực hành)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_t2_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol2",
+    "nodeName": "Bài 6. Chân dung cuộc sống",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_trithuc",
+    "lessonId": "nguvan8_t2_b6_trithuc",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_doc1",
+    "lessonId": "nguvan8_t2_b6_doc1",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Mắt sói (Đa-ni-en Pen-nắc)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_tiengviet1",
+    "lessonId": "nguvan8_t2_b6_tiengviet1",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Thực hành tiếng Việt: Trợ từ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_doc2",
+    "lessonId": "nguvan8_t2_b6_doc2",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Lặng lẽ Sa Pa (Nguyễn Thành Long)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_tiengviet2",
+    "lessonId": "nguvan8_t2_b6_tiengviet2",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Thực hành tiếng Việt: Thán từ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_doc3",
+    "lessonId": "nguvan8_t2_b6_doc3",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Bếp lửa (Bằng Việt)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_viet",
+    "lessonId": "nguvan8_t2_b6_viet",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Viết: Phân tích một tác phẩm truyện",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_noinghe",
+    "lessonId": "nguvan8_t2_b6_noinghe",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Nói và nghe: Giới thiệu về một cuốn sách (truyện)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_cungco",
+    "lessonId": "nguvan8_t2_b6_cungco",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b6_thuchanhdoc",
+    "lessonId": "nguvan8_t2_b6_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t2_ch1",
+    "nodeName": "Thực hành đọc: Chiếc lá cuối cùng (O. Hen-ry)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_t2_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol2",
+    "nodeName": "Bài 7. Tin yêu và ước vọng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_trithuc",
+    "lessonId": "nguvan8_t2_b7_trithuc",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_doc1",
+    "lessonId": "nguvan8_t2_b7_doc1",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Đồng chí (Chính Hữu)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_tiengviet1",
+    "lessonId": "nguvan8_t2_b7_tiengviet1",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Thực hành tiếng Việt: Biện pháp tu từ trong thơ tự do",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_doc2",
+    "lessonId": "nguvan8_t2_b7_doc2",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Lá đỏ (Nguyễn Đình Thi)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_doc3",
+    "lessonId": "nguvan8_t2_b7_doc3",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Những ngôi sao xa xôi (trích, Lê Minh Khuê)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_tiengviet2",
+    "lessonId": "nguvan8_t2_b7_tiengviet2",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Thực hành tiếng Việt: Lựa chọn cấu trúc câu",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_viet1",
+    "lessonId": "nguvan8_t2_b7_viet1",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Viết: Tập làm một bài thơ tự do",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_viet2",
+    "lessonId": "nguvan8_t2_b7_viet2",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Viết: Viết đoạn văn ghi lại cảm nghĩ về một bài thơ tự do",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_noinghe",
+    "lessonId": "nguvan8_t2_b7_noinghe",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Nói và nghe: Thảo luận ý kiến về một vấn đề đời sống phù hợp với lứa tuổi",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_cungco",
+    "lessonId": "nguvan8_t2_b7_cungco",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_thuchanhdoc",
+    "lessonId": "nguvan8_t2_b7_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Thực hành đọc: Bài thơ về tiểu đội xe không kính (Phạm Tiến Duật)",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b7_docmorong",
+    "lessonId": "nguvan8_t2_b7_docmorong",
+    "parentNodeId": "nguvan8_node_t2_ch2",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "nguvan8_node_t2_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol2",
+    "nodeName": "Bài 8. Nhà văn và trang viết",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_trithuc",
+    "lessonId": "nguvan8_t2_b8_trithuc",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_doc1",
+    "lessonId": "nguvan8_t2_b8_doc1",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Nhà thơ của quê hương làng cảnh Việt Nam (trích, Xuân Diệu)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_tiengviet1",
+    "lessonId": "nguvan8_t2_b8_tiengviet1",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Thực hành tiếng Việt: Thành phần biệt lập tình thái, cảm thán",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_doc2",
+    "lessonId": "nguvan8_t2_b8_doc2",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Đọc văn - cuộc chơi tìm ý nghĩa (Trần Đình Sử)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_tiengviet2",
+    "lessonId": "nguvan8_t2_b8_tiengviet2",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Thực hành tiếng Việt: Thành phần biệt lập gọi - đáp, phụ chú",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_doc3",
+    "lessonId": "nguvan8_t2_b8_doc3",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Xe đêm (trích, Côn-xtan-tin Pau-xtốp-xki)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_viet",
+    "lessonId": "nguvan8_t2_b8_viet",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Viết: Phân tích một tác phẩm truyện",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_noinghe",
+    "lessonId": "nguvan8_t2_b8_noinghe",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một vấn đề xã hội",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_cungco",
+    "lessonId": "nguvan8_t2_b8_cungco",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b8_thuchanhdoc",
+    "lessonId": "nguvan8_t2_b8_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t2_ch3",
+    "nodeName": "Thực hành đọc: Nắng mới - sự thành thực của một tâm hồn giàu mơ mộng (Lê Quang Hưng)",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_t2_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol2",
+    "nodeName": "Bài 9. Hôm nay và ngày mai",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_trithuc",
+    "lessonId": "nguvan8_t2_b9_trithuc",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_doc1",
+    "lessonId": "nguvan8_t2_b9_doc1",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Miền châu thổ sông Cửu Long cần chuyển đổi từ sống chung sang chào đón lũ (Lê Anh Tuấn)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_tiengviet1",
+    "lessonId": "nguvan8_t2_b9_tiengviet1",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Thực hành tiếng Việt: Câu khẳng định và câu phủ định",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_doc2",
+    "lessonId": "nguvan8_t2_b9_doc2",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Choáng ngợp và đau đớn những cảnh báo từ loạt phim Hành tinh của chúng ta (Lâm Lê)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_doc3",
+    "lessonId": "nguvan8_t2_b9_doc3",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Diễn từ ứng khẩu của thủ lĩnh da đỏ Xi-át-tơn (Seattle)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_tiengviet2",
+    "lessonId": "nguvan8_t2_b9_tiengviet2",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Thực hành tiếng Việt: Từ ngữ và cấu trúc câu trong văn bản thông tin",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_viet1",
+    "lessonId": "nguvan8_t2_b9_viet1",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Viết: Thuyết minh giải thích một hiện tượng tự nhiên",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_viet2",
+    "lessonId": "nguvan8_t2_b9_viet2",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Viết: Văn bản kiến nghị về một vấn đề của đời sống",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_noinghe",
+    "lessonId": "nguvan8_t2_b9_noinghe",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Nói và nghe: Thảo luận về một vấn đề đời sống phù hợp với lứa tuổi",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_cungco",
+    "lessonId": "nguvan8_t2_b9_cungco",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Củng cố, mở rộng",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_thuchanhdoc",
+    "lessonId": "nguvan8_t2_b9_thuchanhdoc",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Thực hành đọc: Dấu chân sinh thái của mỗi người và thông điệp từ Trái Đất (Dương Xuân Thảo)",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b9_docmorong",
+    "lessonId": "nguvan8_t2_b9_docmorong",
+    "parentNodeId": "nguvan8_node_t2_ch4",
+    "nodeName": "Đọc mở rộng",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "nguvan8_node_t2_ch5",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol2",
+    "nodeName": "Bài 10. Sách - Người bạn đồng hành",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b10_trithuc",
+    "lessonId": "nguvan8_t2_b10_trithuc",
+    "parentNodeId": "nguvan8_node_t2_ch5",
+    "nodeName": "Tri thức ngữ văn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b10_doc1",
+    "lessonId": "nguvan8_t2_b10_doc1",
+    "parentNodeId": "nguvan8_node_t2_ch5",
+    "nodeName": "Thách thức đầu tiên: Đọc như một hành trình",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b10_viet1",
+    "lessonId": "nguvan8_t2_b10_viet1",
+    "parentNodeId": "nguvan8_node_t2_ch5",
+    "nodeName": "Viết: Thuyết minh giới thiệu một cuốn sách yêu thích",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b10_viet2",
+    "lessonId": "nguvan8_t2_b10_viet2",
+    "parentNodeId": "nguvan8_node_t2_ch5",
+    "nodeName": "Viết: Sáng tạo một tác phẩm mới",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_b10_noinghe",
+    "lessonId": "nguvan8_t2_b10_noinghe",
+    "parentNodeId": "nguvan8_node_t2_ch5",
+    "nodeName": "Nói và nghe: Về đích: Ngày hội với sách",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "nguvan8_node_t2_ch_ontap",
+    "lessonId": null,
+    "parentNodeId": "nguvan8_node_vol2",
+    "nodeName": "Ôn tập học kì II",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_ontap_lythuyet",
+    "lessonId": "nguvan8_t2_ontap_lythuyet",
+    "parentNodeId": "nguvan8_node_t2_ch_ontap",
+    "nodeName": "Ôn tập kiến thức học kì II (Lý thuyết)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan8_node_l_nguvan8_t2_ontap_thuchanh",
+    "lessonId": "nguvan8_t2_ontap_thuchanh",
+    "parentNodeId": "nguvan8_node_t2_ch_ontap",
+    "nodeName": "Luyện tập tổng hợp học kì II (Thực hành)",
+    "orderIndex": 2
+  }
+]

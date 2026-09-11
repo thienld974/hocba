@@ -1,0 +1,401 @@
+[
+  {
+    "nodeId": "root_khth8",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "KHOA HỌC TỰ NHIÊN 8 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "khth8_node_ch_0",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Mở đầu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b1",
+    "lessonId": "khth8_b1",
+    "parentNodeId": "khth8_node_ch_0",
+    "nodeName": "Bài 1: Sử dụng một số hoá chất, thiết bị cơ bản trong phòng thí nghiệm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_ch_1",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương I. Phản ứng hoá học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b2",
+    "lessonId": "khth8_b2",
+    "parentNodeId": "khth8_node_ch_1",
+    "nodeName": "Bài 2: Phản ứng hoá học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b3",
+    "lessonId": "khth8_b3",
+    "parentNodeId": "khth8_node_ch_1",
+    "nodeName": "Bài 3: Mol và tỉ khối chất khí",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b4",
+    "lessonId": "khth8_b4",
+    "parentNodeId": "khth8_node_ch_1",
+    "nodeName": "Bài 4: Dung dịch và nồng độ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b5",
+    "lessonId": "khth8_b5",
+    "parentNodeId": "khth8_node_ch_1",
+    "nodeName": "Bài 5: Định luật bảo toàn khối lượng và phương trình hoá học",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b6",
+    "lessonId": "khth8_b6",
+    "parentNodeId": "khth8_node_ch_1",
+    "nodeName": "Bài 6: Tính theo phương trình hoá học",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b7",
+    "lessonId": "khth8_b7",
+    "parentNodeId": "khth8_node_ch_1",
+    "nodeName": "Bài 7: Tốc độ phản ứng và chất xúc tác",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khth8_node_ch_2",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương II. Một số hợp chất thông dụng",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b8",
+    "lessonId": "khth8_b8",
+    "parentNodeId": "khth8_node_ch_2",
+    "nodeName": "Bài 8: Acid",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b9",
+    "lessonId": "khth8_b9",
+    "parentNodeId": "khth8_node_ch_2",
+    "nodeName": "Bài 9: Base. Thang pH",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b10",
+    "lessonId": "khth8_b10",
+    "parentNodeId": "khth8_node_ch_2",
+    "nodeName": "Bài 10: Oxide",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b11",
+    "lessonId": "khth8_b11",
+    "parentNodeId": "khth8_node_ch_2",
+    "nodeName": "Bài 11: Muối",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b12",
+    "lessonId": "khth8_b12",
+    "parentNodeId": "khth8_node_ch_2",
+    "nodeName": "Bài 12: Phân bón hoá học",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_ch_3",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương III. Khối lượng riêng và áp suất",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b13",
+    "lessonId": "khth8_b13",
+    "parentNodeId": "khth8_node_ch_3",
+    "nodeName": "Bài 13: Khối lượng riêng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b14",
+    "lessonId": "khth8_b14",
+    "parentNodeId": "khth8_node_ch_3",
+    "nodeName": "Bài 14: Thực hành xác định khối lượng riêng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b15",
+    "lessonId": "khth8_b15",
+    "parentNodeId": "khth8_node_ch_3",
+    "nodeName": "Bài 15: Áp suất trên một bề mặt",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b16",
+    "lessonId": "khth8_b16",
+    "parentNodeId": "khth8_node_ch_3",
+    "nodeName": "Bài 16: Áp suất chất lỏng. Áp suất khí quyển",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b17",
+    "lessonId": "khth8_b17",
+    "parentNodeId": "khth8_node_ch_3",
+    "nodeName": "Bài 17: Lực đẩy Archimedes",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_ch_4",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương IV. Tác dụng làm quay của lực",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b18",
+    "lessonId": "khth8_b18",
+    "parentNodeId": "khth8_node_ch_4",
+    "nodeName": "Bài 18: Tác dụng làm quay của lực. Moment lực",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b19",
+    "lessonId": "khth8_b19",
+    "parentNodeId": "khth8_node_ch_4",
+    "nodeName": "Bài 19: Đòn bẩy và ứng dụng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_ch_5",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương V. Điện",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b20",
+    "lessonId": "khth8_b20",
+    "parentNodeId": "khth8_node_ch_5",
+    "nodeName": "Bài 20: Hiện tượng nhiễm điện do cọ xát",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b21",
+    "lessonId": "khth8_b21",
+    "parentNodeId": "khth8_node_ch_5",
+    "nodeName": "Bài 21: Dòng điện, nguồn điện",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b22",
+    "lessonId": "khth8_b22",
+    "parentNodeId": "khth8_node_ch_5",
+    "nodeName": "Bài 22: Mạch điện đơn giản",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b23",
+    "lessonId": "khth8_b23",
+    "parentNodeId": "khth8_node_ch_5",
+    "nodeName": "Bài 23: Tác dụng của dòng điện",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b24",
+    "lessonId": "khth8_b24",
+    "parentNodeId": "khth8_node_ch_5",
+    "nodeName": "Bài 24: Cường độ dòng điện và hiệu điện thế",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b25",
+    "lessonId": "khth8_b25",
+    "parentNodeId": "khth8_node_ch_5",
+    "nodeName": "Bài 25: Thực hành đo cường độ dòng điện và hiệu điện thế",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khth8_node_ch_6",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương VI. Nhiệt",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b26",
+    "lessonId": "khth8_b26",
+    "parentNodeId": "khth8_node_ch_6",
+    "nodeName": "Bài 26: Năng lượng nhiệt và nội năng",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b27",
+    "lessonId": "khth8_b27",
+    "parentNodeId": "khth8_node_ch_6",
+    "nodeName": "Bài 27: Thực hành đo năng lượng nhiệt bằng joulemeter",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b28",
+    "lessonId": "khth8_b28",
+    "parentNodeId": "khth8_node_ch_6",
+    "nodeName": "Bài 28: Sự truyền nhiệt",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b29",
+    "lessonId": "khth8_b29",
+    "parentNodeId": "khth8_node_ch_6",
+    "nodeName": "Bài 29: Sự nở vì nhiệt",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_ch_7",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương VII. Sinh học cơ thể người",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b30",
+    "lessonId": "khth8_b30",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 30: Khái quát về cơ thể người",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b31",
+    "lessonId": "khth8_b31",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 31: Hệ vận động ở người",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b32",
+    "lessonId": "khth8_b32",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 32: Dinh dưỡng và tiêu hoá ở người",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b33",
+    "lessonId": "khth8_b33",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 33: Máu và hệ tuần hoàn của cơ thể người",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b34",
+    "lessonId": "khth8_b34",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 34: Hệ hô hấp ở người",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b35",
+    "lessonId": "khth8_b35",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 35: Hệ bài tiết ở người",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b36",
+    "lessonId": "khth8_b36",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 36: Điều hoà môi trường trong của cơ thể người",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b37",
+    "lessonId": "khth8_b37",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 37: Hệ thần kinh và các giác quan ở người",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b38",
+    "lessonId": "khth8_b38",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 38: Hệ nội tiết ở người",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b39",
+    "lessonId": "khth8_b39",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 39: Da và điều hoà thân nhiệt ở người",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b40",
+    "lessonId": "khth8_b40",
+    "parentNodeId": "khth8_node_ch_7",
+    "nodeName": "Bài 40: Sinh sản ở người",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "khth8_node_ch_8",
+    "lessonId": null,
+    "parentNodeId": "root_khth8",
+    "nodeName": "Chương VIII. Sinh vật và môi trường",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b41",
+    "lessonId": "khth8_b41",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 41: Môi trường và các nhân tố sinh thái",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b42",
+    "lessonId": "khth8_b42",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 42: Quần thể sinh vật",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b43",
+    "lessonId": "khth8_b43",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 43: Quần xã sinh vật",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b44",
+    "lessonId": "khth8_b44",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 44: Hệ sinh thái",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b45",
+    "lessonId": "khth8_b45",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 45: Sinh quyển",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b46",
+    "lessonId": "khth8_b46",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 46: Cân bằng tự nhiên",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "khth8_node_l_khth8_b47",
+    "lessonId": "khth8_b47",
+    "parentNodeId": "khth8_node_ch_8",
+    "nodeName": "Bài 47: Bảo vệ môi trường",
+    "orderIndex": 7
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "nodeId": "root_toan6",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TOÁN 6 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "toan6_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_toan6",
+    "nodeName": "Toán 6 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan6_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_toan6",
+    "nodeName": "Toán 6 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan6_v1_ch1",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol1",
+    "nodeName": "Chương I. Tập hợp các số tự nhiên",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan6_t1_b1",
+    "lessonId": "toan6_t1_b1",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 1. Tập hợp",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan6_t1_b2",
+    "lessonId": "toan6_t1_b2",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 2. Cách ghi số tự nhiên",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan6_t1_b3",
+    "lessonId": "toan6_t1_b3",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 3. Thứ tự trong tập hợp các số tự nhiên",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan6_t1_b4",
+    "lessonId": "toan6_t1_b4",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 4. Phép cộng và phép trừ số tự nhiên",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan6_t1_b5",
+    "lessonId": "toan6_t1_b5",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 5. Phép nhân và phép chia số tự nhiên",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc1",
+    "lessonId": "toan6_t1_ltc1",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Luyện tập chung (Trang 20)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan6_t1_b6",
+    "lessonId": "toan6_t1_b6",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 6. Luỹ thừa với số mũ tự nhiên",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan6_t1_b7",
+    "lessonId": "toan6_t1_b7",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài 7. Thứ tự thực hiện các phép tính",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc2",
+    "lessonId": "toan6_t1_ltc2",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Luyện tập chung (Trang 27)",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_toan6_t1_btcc1",
+    "lessonId": "toan6_t1_btcc1",
+    "parentNodeId": "toan6_v1_ch1",
+    "nodeName": "Bài tập cuối chương I",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "toan6_v1_ch2",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol1",
+    "nodeName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan6_t1_b8",
+    "lessonId": "toan6_t1_b8",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Bài 8. Quan hệ chia hết và tính chất",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_toan6_t1_b9",
+    "lessonId": "toan6_t1_b9",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Bài 9. Dấu hiệu chia hết",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "node_toan6_t1_b10",
+    "lessonId": "toan6_t1_b10",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Bài 10. Số nguyên tố",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc3",
+    "lessonId": "toan6_t1_ltc3",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Luyện tập chung (Trang 43)",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "node_toan6_t1_b11",
+    "lessonId": "toan6_t1_b11",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Bài 11. Ước chung. Ước chung lớn nhất",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "node_toan6_t1_b12",
+    "lessonId": "toan6_t1_b12",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Bài 12. Bội chung. Bội chung nhỏ nhất",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc4",
+    "lessonId": "toan6_t1_ltc4",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Luyện tập chung (Trang 54)",
+    "orderIndex": 17
+  },
+  {
+    "nodeId": "node_toan6_t1_btcc2",
+    "lessonId": "toan6_t1_btcc2",
+    "parentNodeId": "toan6_v1_ch2",
+    "nodeName": "Bài tập cuối chương II",
+    "orderIndex": 18
+  },
+  {
+    "nodeId": "toan6_v1_ch3",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol1",
+    "nodeName": "Chương III. Số nguyên",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan6_t1_b13",
+    "lessonId": "toan6_t1_b13",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Bài 13. Tập hợp các số nguyên",
+    "orderIndex": 19
+  },
+  {
+    "nodeId": "node_toan6_t1_b14",
+    "lessonId": "toan6_t1_b14",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Bài 14. Phép cộng và phép trừ số nguyên",
+    "orderIndex": 20
+  },
+  {
+    "nodeId": "node_toan6_t1_b15",
+    "lessonId": "toan6_t1_b15",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Bài 15. Quy tắc dấu ngoặc",
+    "orderIndex": 21
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc5",
+    "lessonId": "toan6_t1_ltc5",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Luyện tập chung (Trang 69)",
+    "orderIndex": 22
+  },
+  {
+    "nodeId": "node_toan6_t1_b16",
+    "lessonId": "toan6_t1_b16",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Bài 16. Phép nhân số nguyên",
+    "orderIndex": 23
+  },
+  {
+    "nodeId": "node_toan6_t1_b17",
+    "lessonId": "toan6_t1_b17",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Bài 17. Phép chia hết. Ước và bội của một số nguyên",
+    "orderIndex": 24
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc6",
+    "lessonId": "toan6_t1_ltc6",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Luyện tập chung (Trang 75)",
+    "orderIndex": 25
+  },
+  {
+    "nodeId": "node_toan6_t1_btcc3",
+    "lessonId": "toan6_t1_btcc3",
+    "parentNodeId": "toan6_v1_ch3",
+    "nodeName": "Bài tập cuối chương III",
+    "orderIndex": 26
+  },
+  {
+    "nodeId": "toan6_v1_ch4",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol1",
+    "nodeName": "Chương IV. Một số hình phẳng trong thực tiễn",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan6_t1_b18",
+    "lessonId": "toan6_t1_b18",
+    "parentNodeId": "toan6_v1_ch4",
+    "nodeName": "Bài 18. Hình tam giác đều. Hình vuông. Hình lục giác đều",
+    "orderIndex": 27
+  },
+  {
+    "nodeId": "node_toan6_t1_b19",
+    "lessonId": "toan6_t1_b19",
+    "parentNodeId": "toan6_v1_ch4",
+    "nodeName": "Bài 19. Hình chữ nhật. Hình thoi. Hình bình hành. Hình thang cân",
+    "orderIndex": 28
+  },
+  {
+    "nodeId": "node_toan6_t1_b20",
+    "lessonId": "toan6_t1_b20",
+    "parentNodeId": "toan6_v1_ch4",
+    "nodeName": "Bài 20. Chu vi và diện tích của một số tứ giác đã học",
+    "orderIndex": 29
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc7",
+    "lessonId": "toan6_t1_ltc7",
+    "parentNodeId": "toan6_v1_ch4",
+    "nodeName": "Luyện tập chung (Trang 95)",
+    "orderIndex": 30
+  },
+  {
+    "nodeId": "node_toan6_t1_btcc4",
+    "lessonId": "toan6_t1_btcc4",
+    "parentNodeId": "toan6_v1_ch4",
+    "nodeName": "Bài tập cuối chương IV",
+    "orderIndex": 31
+  },
+  {
+    "nodeId": "toan6_v1_ch5",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol1",
+    "nodeName": "Chương V. Tính đối xứng của hình phẳng trong tự nhiên",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan6_t1_b21",
+    "lessonId": "toan6_t1_b21",
+    "parentNodeId": "toan6_v1_ch5",
+    "nodeName": "Bài 21. Hình có trục đối xứng",
+    "orderIndex": 32
+  },
+  {
+    "nodeId": "node_toan6_t1_b22",
+    "lessonId": "toan6_t1_b22",
+    "parentNodeId": "toan6_v1_ch5",
+    "nodeName": "Bài 22. Hình có tâm đối xứng",
+    "orderIndex": 33
+  },
+  {
+    "nodeId": "node_toan6_t1_ltc8",
+    "lessonId": "toan6_t1_ltc8",
+    "parentNodeId": "toan6_v1_ch5",
+    "nodeName": "Luyện tập chung (Trang 108)",
+    "orderIndex": 34
+  },
+  {
+    "nodeId": "node_toan6_t1_btcc5",
+    "lessonId": "toan6_t1_btcc5",
+    "parentNodeId": "toan6_v1_ch5",
+    "nodeName": "Bài tập cuối chương V",
+    "orderIndex": 35
+  },
+  {
+    "nodeId": "toan6_v1_hdthtn",
+    "lessonId": "toan6_t1_hdthtn",
+    "parentNodeId": "toan6_vol1",
+    "nodeName": "Hoạt động thực hành trải nghiệm (Tập Một)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan6_v2_ch6",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol2",
+    "nodeName": "Chương VI. Phân số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan6_t2_b23",
+    "lessonId": "toan6_t2_b23",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Bài 23. Mở rộng phân số. Phân số bằng nhau",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_toan6_t2_b24",
+    "lessonId": "toan6_t2_b24",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Bài 24. So sánh phân số. Hỗn số dương",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc1",
+    "lessonId": "toan6_t2_ltc1",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Luyện tập chung (Trang 13)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan6_t2_b25",
+    "lessonId": "toan6_t2_b25",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Bài 25. Phép cộng và phép trừ phân số",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan6_t2_b26",
+    "lessonId": "toan6_t2_b26",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Bài 26. Phép nhân và phép chia phân số",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_toan6_t2_b27",
+    "lessonId": "toan6_t2_b27",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Bài 27. Hai bài toán về phân số",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc2",
+    "lessonId": "toan6_t2_ltc2",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Luyện tập chung (Trang 25)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_toan6_t2_btcc6",
+    "lessonId": "toan6_t2_btcc6",
+    "parentNodeId": "toan6_v2_ch6",
+    "nodeName": "Bài tập cuối chương VI",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "toan6_v2_ch7",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol2",
+    "nodeName": "Chương VII. Số thập phân",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_toan6_t2_b28",
+    "lessonId": "toan6_t2_b28",
+    "parentNodeId": "toan6_v2_ch7",
+    "nodeName": "Bài 28. Số thập phân",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_toan6_t2_b29",
+    "lessonId": "toan6_t2_b29",
+    "parentNodeId": "toan6_v2_ch7",
+    "nodeName": "Bài 29. Tính toán với số thập phân",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_toan6_t2_b30",
+    "lessonId": "toan6_t2_b30",
+    "parentNodeId": "toan6_v2_ch7",
+    "nodeName": "Bài 30. Làm tròn và ước lượng",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "node_toan6_t2_b31",
+    "lessonId": "toan6_t2_b31",
+    "parentNodeId": "toan6_v2_ch7",
+    "nodeName": "Bài 31. Một số bài toán về tỉ số và tỉ số phần trăm",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc3",
+    "lessonId": "toan6_t2_ltc3",
+    "parentNodeId": "toan6_v2_ch7",
+    "nodeName": "Luyện tập chung (Trang 41)",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "node_toan6_t2_btcc7",
+    "lessonId": "toan6_t2_btcc7",
+    "parentNodeId": "toan6_v2_ch7",
+    "nodeName": "Bài tập cuối chương VII",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "toan6_v2_ch8",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol2",
+    "nodeName": "Chương VIII. Những hình hình học cơ bản",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_toan6_t2_b32",
+    "lessonId": "toan6_t2_b32",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài 32. Điểm và đường thẳng",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "node_toan6_t2_b33",
+    "lessonId": "toan6_t2_b33",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài 33. Điểm nằm giữa hai điểm. Tia",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "node_toan6_t2_b34",
+    "lessonId": "toan6_t2_b34",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài 34. Đoạn thẳng. Độ dài đoạn thẳng",
+    "orderIndex": 17
+  },
+  {
+    "nodeId": "node_toan6_t2_b35",
+    "lessonId": "toan6_t2_b35",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài 35. Trung điểm của đoạn thẳng",
+    "orderIndex": 18
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc4",
+    "lessonId": "toan6_t2_ltc4",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Luyện tập chung (Trang 57)",
+    "orderIndex": 19
+  },
+  {
+    "nodeId": "node_toan6_t2_b36",
+    "lessonId": "toan6_t2_b36",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài 36. Góc",
+    "orderIndex": 20
+  },
+  {
+    "nodeId": "node_toan6_t2_b37",
+    "lessonId": "toan6_t2_b37",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài 37. Số đo góc",
+    "orderIndex": 21
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc5",
+    "lessonId": "toan6_t2_ltc5",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Luyện tập chung (Trang 65)",
+    "orderIndex": 22
+  },
+  {
+    "nodeId": "node_toan6_t2_btcc8",
+    "lessonId": "toan6_t2_btcc8",
+    "parentNodeId": "toan6_v2_ch8",
+    "nodeName": "Bài tập cuối chương VIII",
+    "orderIndex": 23
+  },
+  {
+    "nodeId": "toan6_v2_ch9",
+    "lessonId": null,
+    "parentNodeId": "toan6_vol2",
+    "nodeName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_toan6_t2_b38",
+    "lessonId": "toan6_t2_b38",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài 38. Dữ liệu và thu thập dữ liệu",
+    "orderIndex": 24
+  },
+  {
+    "nodeId": "node_toan6_t2_b39",
+    "lessonId": "toan6_t2_b39",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài 39. Bảng thống kê và biểu đồ tranh",
+    "orderIndex": 25
+  },
+  {
+    "nodeId": "node_toan6_t2_b40",
+    "lessonId": "toan6_t2_b40",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài 40. Biểu đồ cột",
+    "orderIndex": 26
+  },
+  {
+    "nodeId": "node_toan6_t2_b41",
+    "lessonId": "toan6_t2_b41",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài 41. Biểu đồ cột kép",
+    "orderIndex": 27
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc6",
+    "lessonId": "toan6_t2_ltc6",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Luyện tập chung (Trang 87)",
+    "orderIndex": 28
+  },
+  {
+    "nodeId": "node_toan6_t2_b42",
+    "lessonId": "toan6_t2_b42",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài 42. Kết quả có thể và sự kiện trong trò chơi, thí nghiệm",
+    "orderIndex": 29
+  },
+  {
+    "nodeId": "node_toan6_t2_b43",
+    "lessonId": "toan6_t2_b43",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài 43. Xác suất thực nghiệm",
+    "orderIndex": 30
+  },
+  {
+    "nodeId": "node_toan6_t2_ltc7",
+    "lessonId": "toan6_t2_ltc7",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Luyện tập chung (Trang 97)",
+    "orderIndex": 31
+  },
+  {
+    "nodeId": "node_toan6_t2_btcc9",
+    "lessonId": "toan6_t2_btcc9",
+    "parentNodeId": "toan6_v2_ch9",
+    "nodeName": "Bài tập cuối chương IX",
+    "orderIndex": 32
+  },
+  {
+    "nodeId": "toan6_v2_hdthtn",
+    "lessonId": "toan6_t2_hdthtn",
+    "parentNodeId": "toan6_vol2",
+    "nodeName": "Hoạt động thực hành trải nghiệm (Tập Hai)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan6_v2_otcn",
+    "lessonId": "toan6_t2_otcn",
+    "parentNodeId": "toan6_vol2",
+    "nodeName": "Bài tập ôn tập cuối năm",
+    "orderIndex": 6
+  }
+]

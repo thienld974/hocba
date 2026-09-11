@@ -1,0 +1,793 @@
+[
+  {
+    "nodeId": "root_nguvan9",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "NGỮ VĂN 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "nguvan9_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan9",
+    "nodeName": "Ngữ văn 9 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan9_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_nguvan9",
+    "nodeName": "Ngữ văn 9 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "nguvan9_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol1",
+    "nodeName": "Bài 1. Thế giới kì ảo",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l1",
+    "lessonId": "nguvan9_t1_b1_l1",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Tri thức ngữ văn - Truyện truyền kì",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l2",
+    "lessonId": "nguvan9_t1_b1_l2",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Chuyện người con gái Nam Xương (Nguyễn Dữ)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l3",
+    "lessonId": "nguvan9_t1_b1_l3",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Thực hành tiếng Việt - Điển tích, điển cố",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l4",
+    "lessonId": "nguvan9_t1_b1_l4",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Dế chọi (Bồ Tùng Linh)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l5",
+    "lessonId": "nguvan9_t1_b1_l5",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Thực hành tiếng Việt - Yếu tố Hán Việt dễ nhầm lẫn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l6",
+    "lessonId": "nguvan9_t1_b1_l6",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Sơn Tinh - Thủy Tinh (Nguyễn Nhược Pháp)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l7",
+    "lessonId": "nguvan9_t1_b1_l7",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Viết: Nghị luận về một vấn đề cần giải quyết (Con người và tự nhiên)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l8",
+    "lessonId": "nguvan9_t1_b1_l8",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Nói và nghe: Trình bày ý kiến về một sự việc có tính thời sự",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l9",
+    "lessonId": "nguvan9_t1_b1_l9",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Củng cố, mở rộng trang 34",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b1_l10",
+    "lessonId": "nguvan9_t1_b1_l10",
+    "parentNodeId": "nguvan9_node_t1_ch1",
+    "nodeName": "Thực hành đọc: Ngọc nữ về tay chân chủ",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol1",
+    "nodeName": "Bài 2. Những cung bậc tâm trạng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l1",
+    "lessonId": "nguvan9_t1_b2_l1",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Tri thức ngữ văn - Thơ song thất lục bát",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l2",
+    "lessonId": "nguvan9_t1_b2_l2",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Nỗi niềm chinh phụ (trích Chinh phụ ngâm)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l3",
+    "lessonId": "nguvan9_t1_b2_l3",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Thực hành tiếng Việt - Biện pháp tu từ chơi chữ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l4",
+    "lessonId": "nguvan9_t1_b2_l4",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Tiếng đàn mưa (Bích Khê)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l5",
+    "lessonId": "nguvan9_t1_b2_l5",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Thực hành tiếng Việt - Điệp thanh, điệp vần",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l6",
+    "lessonId": "nguvan9_t1_b2_l6",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Một thể thơ độc đáo của người Việt (Dương Lâm An)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l7",
+    "lessonId": "nguvan9_t1_b2_l7",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Viết: Nghị luận phân tích tác phẩm thơ song thất lục bát",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l8",
+    "lessonId": "nguvan9_t1_b2_l8",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Nói và nghe: Thảo luận về một vấn đề đáng quan tâm",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l9",
+    "lessonId": "nguvan9_t1_b2_l9",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Củng cố, mở rộng trang 59",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b2_l10",
+    "lessonId": "nguvan9_t1_b2_l10",
+    "parentNodeId": "nguvan9_node_t1_ch2",
+    "nodeName": "Thực hành đọc: Nỗi sầu oán của người cung nữ",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol1",
+    "nodeName": "Bài 3. Hồn nước nằm trong tiếng mẹ cha",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l1",
+    "lessonId": "nguvan9_t1_b3_l1",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Tri thức ngữ văn - Truyện thơ Nôm",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l2",
+    "lessonId": "nguvan9_t1_b3_l2",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Kim - Kiều gặp gỡ (trích Truyện Kiều - Nguyễn Du)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l3",
+    "lessonId": "nguvan9_t1_b3_l3",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Thực hành tiếng Việt - Chữ Nôm",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l4",
+    "lessonId": "nguvan9_t1_b3_l4",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Lục Vân Tiên đánh cướp, cứu Kiều Nguyệt Nga (Nguyễn Đình Chiểu)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l5",
+    "lessonId": "nguvan9_t1_b3_l5",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Thực hành tiếng Việt - Chữ Quốc ngữ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l6",
+    "lessonId": "nguvan9_t1_b3_l6",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Tự tình (bài 2) (Hồ Xuân Hương)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l7",
+    "lessonId": "nguvan9_t1_b3_l7",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Viết: Nghị luận về một vấn đề cần giải quyết (Đời sống học sinh)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l8",
+    "lessonId": "nguvan9_t1_b3_l8",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Nói và nghe: Ý kiến về một vấn đề thời sự của học sinh",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l9",
+    "lessonId": "nguvan9_t1_b3_l9",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Củng cố, mở rộng trang 83",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l10",
+    "lessonId": "nguvan9_t1_b3_l10",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Thực hành đọc: Kiều ở lầu Ngưng Bích",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b3_l11",
+    "lessonId": "nguvan9_t1_b3_l11",
+    "parentNodeId": "nguvan9_node_t1_ch3",
+    "nodeName": "Đọc mở rộng trang 86",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "nguvan9_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol1",
+    "nodeName": "Bài 4. Khám phá vẻ đẹp văn chương",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l1",
+    "lessonId": "nguvan9_t1_b4_l1",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Tri thức ngữ văn - Văn nghị luận văn học",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l2",
+    "lessonId": "nguvan9_t1_b4_l2",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "\"Người con gái Nam Xương\" - một bi kịch của con người",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l3",
+    "lessonId": "nguvan9_t1_b4_l3",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Thực hành tiếng Việt - Dẫn trực tiếp, gián tiếp",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l4",
+    "lessonId": "nguvan9_t1_b4_l4",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Từ \"Thằng quỷ nhỏ\" của Nguyễn Nhật Ánh...",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l5",
+    "lessonId": "nguvan9_t1_b4_l5",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Thực hành tiếng Việt - Sử dụng tài liệu tham khảo",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l6",
+    "lessonId": "nguvan9_t1_b4_l6",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Ngày xưa (Vũ Cao)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l7",
+    "lessonId": "nguvan9_t1_b4_l7",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Viết: Nghị luận phân tích một tác phẩm truyện",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l8",
+    "lessonId": "nguvan9_t1_b4_l8",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Nói và nghe: Làm thế nào để học tốt môn Ngữ văn?",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l9",
+    "lessonId": "nguvan9_t1_b4_l9",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Củng cố, mở rộng trang 110",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b4_l10",
+    "lessonId": "nguvan9_t1_b4_l10",
+    "parentNodeId": "nguvan9_node_t1_ch4",
+    "nodeName": "Thực hành đọc: Hoàng Hạc lâu tống Mạnh Hạo Nhiên chi Quảng Lăng",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol1",
+    "nodeName": "Bài 5. Đối diện với nỗi đau",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l1",
+    "lessonId": "nguvan9_t1_b5_l1",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Tri thức ngữ văn - Thể loại Bi kịch",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l2",
+    "lessonId": "nguvan9_t1_b5_l2",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Rô-mê-ô và Giu-li-ét (Uy-li-am Sếch-xpia)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l3",
+    "lessonId": "nguvan9_t1_b5_l3",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Thực hành tiếng Việt - Câu rút gọn",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l4",
+    "lessonId": "nguvan9_t1_b5_l4",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Lơ Xít (Coóc-nây)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l5",
+    "lessonId": "nguvan9_t1_b5_l5",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Bí ẩn của làn nước (Bảo Ninh)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l6",
+    "lessonId": "nguvan9_t1_b5_l6",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Thực hành tiếng Việt - Câu đặc biệt",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l7",
+    "lessonId": "nguvan9_t1_b5_l7",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Viết: Nghị luận phân tích tác phẩm kịch",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l8",
+    "lessonId": "nguvan9_t1_b5_l8",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Nói và nghe: Thảo luận về cách đối diện với nỗi đau trong cuộc sống",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l9",
+    "lessonId": "nguvan9_t1_b5_l9",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Củng cố, mở rộng trang 138",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l10",
+    "lessonId": "nguvan9_t1_b5_l10",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Thực hành đọc: Âm mưu và tình yêu",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "node_nguvan9_t1_b5_l11",
+    "lessonId": "nguvan9_t1_b5_l11",
+    "parentNodeId": "nguvan9_node_t1_ch5",
+    "nodeName": "Đọc mở rộng trang 141",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "nguvan9_node_t1_ch6",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol1",
+    "nodeName": "Ôn tập Học kì I",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t1_hk1",
+    "lessonId": "nguvan9_t1_hk1",
+    "parentNodeId": "nguvan9_node_t1_ch6",
+    "nodeName": "Ôn tập Học kì I - Tổng hợp kiến thức",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "nguvan9_node_t2_ch1",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol2",
+    "nodeName": "Bài 6. Giải mã những bí mật",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l1",
+    "lessonId": "nguvan9_t2_b6_l1",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Tri thức ngữ văn - Truyện trinh thám",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l2",
+    "lessonId": "nguvan9_t2_b6_l2",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Ba chàng sinh viên (A-thơ Cô-nan Đoi-lơ)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l3",
+    "lessonId": "nguvan9_t2_b6_l3",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Thực hành tiếng Việt - Các kiểu câu ghép",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l4",
+    "lessonId": "nguvan9_t2_b6_l4",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Bài hát đồng sáu xu (A-ga-thơ Crít-xti)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l5",
+    "lessonId": "nguvan9_t2_b6_l5",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Phạm Xuân Ẩn - tên người như cuộc đời (Nguyễn Thị Ngọc Hải)",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l6",
+    "lessonId": "nguvan9_t2_b6_l6",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Thực hành tiếng Việt - Lựa chọn câu đơn, câu ghép",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l7",
+    "lessonId": "nguvan9_t2_b6_l7",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Viết: Truyện ngắn sáng tạo (Yếu tố trinh thám)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l8",
+    "lessonId": "nguvan9_t2_b6_l8",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Nói và nghe: Kể một câu chuyện tưởng tượng",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l9",
+    "lessonId": "nguvan9_t2_b6_l9",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Củng cố, mở rộng trang 37",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b6_l10",
+    "lessonId": "nguvan9_t2_b6_l10",
+    "parentNodeId": "nguvan9_node_t2_ch1",
+    "nodeName": "Thực hành đọc: Ba viên ngọc bích",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t2_ch2",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol2",
+    "nodeName": "Bài 7. Hồn thơ muôn điệu",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l1",
+    "lessonId": "nguvan9_t2_b7_l1",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Tri thức ngữ văn - Thơ tự do tám chữ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l2",
+    "lessonId": "nguvan9_t2_b7_l2",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Tiếng Việt (Lưu Quang Vũ)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l3",
+    "lessonId": "nguvan9_t2_b7_l3",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Thực hành tiếng Việt - Nghĩa của từ ngữ",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l4",
+    "lessonId": "nguvan9_t2_b7_l4",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Mưa xuân (Nguyễn Bính)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l5",
+    "lessonId": "nguvan9_t2_b7_l5",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Thực hành tiếng Việt - Từ ngữ mới và nghĩa mới",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l6",
+    "lessonId": "nguvan9_t2_b7_l6",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Một kiểu phát biểu luận đề độc đáo ở bài thơ \"Vội vàng\"",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l7",
+    "lessonId": "nguvan9_t2_b7_l7",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Viết: Tập làm một bài thơ tám chữ & Đoạn văn ghi lại cảm nghĩ",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l8",
+    "lessonId": "nguvan9_t2_b7_l8",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Nói và nghe: Thảo luận về tình yêu quê hương đất nước qua thơ ca",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l9",
+    "lessonId": "nguvan9_t2_b7_l9",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Củng cố, mở rộng trang 64",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b7_l10",
+    "lessonId": "nguvan9_t2_b7_l10",
+    "parentNodeId": "nguvan9_node_t2_ch2",
+    "nodeName": "Thực hành đọc: Miền quê & Đọc mở rộng",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t2_ch3",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol2",
+    "nodeName": "Bài 8. Tiếng nói của lương tri",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l1",
+    "lessonId": "nguvan9_t2_b8_l1",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Tri thức ngữ văn - Văn nghị luận xã hội",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l2",
+    "lessonId": "nguvan9_t2_b8_l2",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Đấu tranh cho một thế giới hòa bình (Gác-xi-a Mác-két)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l3",
+    "lessonId": "nguvan9_t2_b8_l3",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Thực hành tiếng Việt - Tên viết tắt các tổ chức quốc tế",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l4",
+    "lessonId": "nguvan9_t2_b8_l4",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Biến đổi khí hậu - mối đe dọa sự tồn vong của hành tinh...",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l5",
+    "lessonId": "nguvan9_t2_b8_l5",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Thực hành tiếng Việt - Luyện tập câu đơn, câu ghép",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l6",
+    "lessonId": "nguvan9_t2_b8_l6",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Bài ca chúc Tết thanh niên (Phan Bội Châu)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l7",
+    "lessonId": "nguvan9_t2_b8_l7",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Viết: Nghị luận về một vấn đề cần giải quyết trong đời sống xã hội",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l8",
+    "lessonId": "nguvan9_t2_b8_l8",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Nói và nghe: Ý kiến về một sự việc thời sự xã hội",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l9",
+    "lessonId": "nguvan9_t2_b8_l9",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Củng cố, mở rộng trang 85",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b8_l10",
+    "lessonId": "nguvan9_t2_b8_l10",
+    "parentNodeId": "nguvan9_node_t2_ch3",
+    "nodeName": "Thực hành đọc: Chuẩn bị hành trang",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t2_ch4",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol2",
+    "nodeName": "Bài 9. Đi và suy ngẫm",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l1",
+    "lessonId": "nguvan9_t2_b9_l1",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Tri thức ngữ văn - Văn bản giới thiệu danh lam thắng cảnh, di tích",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l2",
+    "lessonId": "nguvan9_t2_b9_l2",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Yên Tử, núi thiêng (Thi Sảnh)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l3",
+    "lessonId": "nguvan9_t2_b9_l3",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Thực hành tiếng Việt - Biến đổi cấu trúc câu",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l4",
+    "lessonId": "nguvan9_t2_b9_l4",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Văn hóa hoa - cây cảnh (Trần Quốc Vượng)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l5",
+    "lessonId": "nguvan9_t2_b9_l5",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Thực hành tiếng Việt - Mở rộng cấu trúc câu",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l6",
+    "lessonId": "nguvan9_t2_b9_l6",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Tình sông núi (Trần Mai Ninh)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l7",
+    "lessonId": "nguvan9_t2_b9_l7",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Viết: Thuyết minh về một danh lam thắng cảnh, di tích lịch sử",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l8",
+    "lessonId": "nguvan9_t2_b9_l8",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Nói và nghe: Thuyết minh về một danh lam thắng cảnh, di tích",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l9",
+    "lessonId": "nguvan9_t2_b9_l9",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Củng cố, mở rộng trang 109",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b9_l10",
+    "lessonId": "nguvan9_t2_b9_l10",
+    "parentNodeId": "nguvan9_node_t2_ch4",
+    "nodeName": "Thực hành đọc: Khu Trung tâm Hoàng thành Thăng Long & Đọc mở rộng",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "nguvan9_node_t2_ch5",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol2",
+    "nodeName": "Bài 10. Văn học - lịch sử tâm hồn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b10_l1",
+    "lessonId": "nguvan9_t2_b10_l1",
+    "parentNodeId": "nguvan9_node_t2_ch5",
+    "nodeName": "Tri thức ngữ văn - Lịch sử văn học Việt Nam và Bài phỏng vấn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b10_l2",
+    "lessonId": "nguvan9_t2_b10_l2",
+    "parentNodeId": "nguvan9_node_t2_ch5",
+    "nodeName": "Thách thức đầu tiên: Đọc để trưởng thành (Trần Đình Sử & Nguyễn Nhật Ánh)",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b10_l3",
+    "lessonId": "nguvan9_t2_b10_l3",
+    "parentNodeId": "nguvan9_node_t2_ch5",
+    "nodeName": "Thách thức thứ hai: Viết bài quảng cáo về sách",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "node_nguvan9_t2_b10_l4",
+    "lessonId": "nguvan9_t2_b10_l4",
+    "parentNodeId": "nguvan9_node_t2_ch5",
+    "nodeName": "Nói và nghe: Về đích - Ngày hội với sách",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "nguvan9_node_t2_ch6",
+    "lessonId": null,
+    "parentNodeId": "nguvan9_node_vol2",
+    "nodeName": "Ôn tập Học kì II",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "node_nguvan9_t2_hk2",
+    "lessonId": "nguvan9_t2_hk2",
+    "parentNodeId": "nguvan9_node_t2_ch6",
+    "nodeName": "Ôn tập Học kì II - Tổng hợp kiến thức",
+    "orderIndex": 1
+  }
+]

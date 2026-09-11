@@ -1,0 +1,410 @@
+[
+  {
+    "lessonId": "kh9_b1",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Mở đầu",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1. Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học: Nhận biết các dụng cụ thí nghiệm quang học (nguồn sáng, bản bán trụ, thấu kính), dụng cụ điện từ (điện kế, đồng hồ đa năng, cuộn dây có LED), và dụng cụ hoá học (bát sứ, phễu chiết, bình cầu, lưới tản nhiệt). Nêu các hoá chất cơ bản và quy tắc an toàn bảo quản. Hướng dẫn cấu trúc báo cáo nghiên cứu khoa học gồm 8 phần và cách thuyết trình bằng slide hoặc báo cáo treo tường (poster) khổ A0/A1."
+  },
+  {
+    "lessonId": "kh9_b2",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Năng lượng cơ học",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2. Động năng. Thế năng: Định nghĩa động năng là năng lượng vật có được do chuyển động, phụ thuộc vào khối lượng và tốc độ của vật; công thức: Wd = 0.5 * m * v^2. Định nghĩa thế năng trọng trường là năng lượng của vật ở một độ cao nhất định so với mốc chọn; công thức: Wt = P * h = m * g * h. Giới thiệu thế năng đàn hồi và thế năng tĩnh điện."
+  },
+  {
+    "lessonId": "kh9_b3",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Năng lượng cơ học",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3. Cơ năng: Khái niệm cơ năng là tổng của động năng và thế năng của vật; công thức: W = Wd + Wt = 0.5 * m * v^2 + m * g * h. Quá trình chuyển hoá động năng và thế năng qua lại lẫn nhau. Định luật bảo toàn cơ năng khi bỏ qua mọi lực cản: cơ năng của vật là đại lượng bảo toàn. Giải thích hao hụt cơ năng do lực ma sát, lực cản chuyển hoá cơ năng thành nhiệt năng."
+  },
+  {
+    "lessonId": "kh9_b4",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương I. Năng lượng cơ học",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4. Công và công suất: Định nghĩa công cơ học khi lực tác dụng làm vật dịch chuyển cùng hướng lực: A = F * s, hoặc lệch góc alpha: A = F * s * cos(alpha). Định nghĩa công suất là tốc độ thực hiện công: P = A / t. Giới thiệu các đơn vị công (Jun J, Cal, BTU) và công suất (Oát W, kW, mã lực HP)."
+  },
+  {
+    "lessonId": "kh9_b5",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Ánh sáng",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5. Khúc xạ ánh sáng: Hiện tượng tia sáng bị gãy khúc tại mặt phân cách khi truyền từ môi trường trong suốt này sang môi trường trong suốt khác. Định luật khúc xạ ánh sáng: tia khúc xạ nằm trong mặt phẳng tới, tỉ số sin i / sin r = hằng số. Khái niệm chiết suất tỉ đối n21 = n2/n1 và chiết suất tuyệt đối n = c/v (với c = 3*10^8 m/s)."
+  },
+  {
+    "lessonId": "kh9_b6",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Ánh sáng",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 6. Phản xạ toàn phần: Hiện tượng phản xạ toàn bộ tia sáng tới xảy ra ở mặt phân cách giữa hai môi trường. Điều kiện xảy ra phản xạ toàn phần: ánh sáng đi từ môi trường chiết suất lớn sang chiết suất nhỏ (n1 > n2) và góc tới i lớn hơn hoặc bằng góc tới hạn i_th (với sin i_th = n2 / n1). Ứng dụng giải thích hiện tượng ảo ảnh và cấu tạo, nguyên lí của cáp quang."
+  },
+  {
+    "lessonId": "kh9_b7",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Ánh sáng",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 7. Lăng kính: Cấu tạo lăng kính là một khối chất trong suốt, đồng chất, thường có dạng lăng trụ tam giác, đặc trưng bởi góc chiết quang A và chiết suất n. Hiện tượng tán sắc chùm sáng trắng qua lăng kính tạo thành dải màu cầu vồng. Khái niệm ánh sáng đơn sắc không bị tán sắc. Sự truyền ánh sáng đơn sắc qua lăng kính luôn lệch về phía đáy lăng kính với góc lệch D. Giải thích màu sắc của vật do hấp thụ và phản xạ ánh sáng."
+  },
+  {
+    "lessonId": "kh9_b8",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Ánh sáng",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 8. Thấu kính: Phân loại thấu kính rìa mỏng (thấu kính hội tụ) và thấu kính rìa dày (thấu kính phân kì). Các đại lượng quang tâm O, trục chính, tiêu điểm F, F', tiêu cự f. Đường truyền của ba tia sáng đặc biệt qua thấu kính. Đặc điểm tạo ảnh thật và ảnh ảo của thấu kính hội tụ và phân kì. Cách dựng ảnh của vật qua thấu kính."
+  },
+  {
+    "lessonId": "kh9_b9",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Ánh sáng",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 9. Thực hành đo tiêu cự của thấu kính hội tụ: Thực hành đo tiêu cự thấu kính hội tụ bằng phương pháp đối xứng (Silbermann) dựa trên nguyên lí khi ảnh rõ nét trên màn có kích thước bằng vật thì khoảng cách vật-thấu kính d và thấu kính-màn d' bằng nhau và bằng 2f (f = (d+d')/4). Giới thiệu phương pháp Bessel đo tiêu cự."
+  },
+  {
+    "lessonId": "kh9_b10",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương II. Ánh sáng",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 10. Kính lúp. Bài tập thấu kính: Cấu tạo kính lúp là thấu kính hội tụ có tiêu cự ngắn (f < 25 cm) dùng để quan sát vật nhỏ. Số bội giác G = 25/f. Cách đặt vật trong khoảng tiêu cự để tạo ảnh ảo cùng chiều, lớn hơn vật, ngắm chừng ở cực cận và vô cực. Các bài tập quang hình xác định vị trí d, d' và độ cao h, h' của vật và ảnh qua thấu kính."
+  },
+  {
+    "lessonId": "kh9_b11",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Điện",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 11. Điện trở. Định luật Ohm: Khái niệm điện trở R đặc trưng cho mức độ cản trở dòng điện của dây dẫn. Định luật Ohm: I = U / R, cường độ dòng điện tỉ lệ thuận với hiệu điện thế và tỉ lệ nghịch với điện trở. Công thức tính điện trở dây dẫn: R = rho * l / S. Quy tắc đọc trị số điện trở theo 4 vòng màu."
+  },
+  {
+    "lessonId": "kh9_b12",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Điện",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 12. Đoạn mạch nối tiếp, song song: Các công thức của đoạn mạch nối tiếp (I = I1 = I2, U = U1 + U2, R_td = R1 + R2) và đoạn mạch song song (I = I1 + I2, U = U1 = U2, 1/R_td = 1/R1 + 1/R2). Ứng dụng mắc song song các thiết bị điện trong gia đình để hoạt động độc lập."
+  },
+  {
+    "lessonId": "kh9_b13",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương III. Điện",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 13. Năng lượng của dòng điện và công suất điện: Điện năng tiêu thụ trên đoạn mạch: W = U * I * t. Công suất điện đặc trưng cho tốc độ tiêu thụ điện năng: P = U * I. Ý nghĩa công suất định mức của thiết bị. Đo điện năng tiêu thụ bằng công tơ điện, mỗi số đếm tương đương 1 kWh = 3.6 * 10^6 J."
+  },
+  {
+    "lessonId": "kh9_b14",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Điện từ",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 14. Cảm ứng điện từ. Nguyên tắc tạo ra dòng điện xoay chiều: Hiện tượng cảm ứng điện từ xuất hiện khi số đường sức từ xuyên qua tiết diện cuộn dây dẫn kín biến thiên. Dòng điện xoay chiều có chiều luân phiên thay đổi theo thời gian. Nguyên tắc tạo dòng điện xoay chiều bằng cách cho nam châm quay trước cuộn dây hoặc cho cuộn dây quay trong từ trường."
+  },
+  {
+    "lessonId": "kh9_b15",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IV. Điện từ",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 15. Tác dụng của dòng điện xoay chiều: Các tác dụng chính của dòng điện xoay chiều gồm tác dụng nhiệt (bếp điện, máy sấy), tác dụng phát sáng (đèn huỳnh quang, LED), tác dụng từ (nam châm điện, động cơ điện) và tác dụng sinh lí (máy khử rung tim, co giật cơ). Cảnh báo nguy hiểm tai nạn điện và quy tắc an toàn."
+  },
+  {
+    "lessonId": "kh9_b16",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Năng lượng với cuộc sống",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 16. Vòng năng lượng trên Trái Đất. Năng lượng hoá thạch: Khái niệm vòng năng lượng bắt đầu từ quang hợp của thực vật tích luỹ năng lượng mặt trời dưới dạng hoá học, truyền qua động vật và giải phóng qua hô hấp. Vòng tuần hoàn nước vận hành nhờ mặt trời. Sự hình thành than đá, dầu mỏ từ xác sinh vật cổ đại. Ưu và nhược điểm của việc sử dụng năng lượng hoá thạch (hiệu ứng nhà kính, phát thải CO2)."
+  },
+  {
+    "lessonId": "kh9_b17",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương V. Năng lượng với cuộc sống",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 17. Một số dạng năng lượng tái tạo: Khái niệm năng lượng tái tạo (mặt trời, gió, sóng biển, dòng chảy, sinh khối, địa nhiệt). Cơ chế khai thác điện mặt trời bằng pin quang điện, điện gió bằng tuabin, điện sóng biển và thuỷ điện từ dòng chảy sông. Các biện pháp sử dụng năng lượng hiệu quả và bảo vệ môi trường."
+  },
+  {
+    "lessonId": "kh9_b18",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 18. Tính chất chung của kim loại: Tính chất vật lí chung của kim loại gồm tính dẻo, dẫn điện, dẫn nhiệt tốt, có ánh kim do electron tự do quyết định. Tính chất hoá học của kim loại: tác dụng với phi kim (oxygen tạo oxide base; phi kim khác tạo muối), tác dụng với nước (kim loại mạnh tạo hydroxide và H2), tác dụng với dung dịch acid (giải phóng H2) và dung dịch muối (đẩy kim loại yếu ra khỏi muối)."
+  },
+  {
+    "lessonId": "kh9_b19",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 19. Dãy hoạt động hoá học: Dãy hoạt động hoá học của kim loại: K, Na, Ca, Mg, Al, Zn, Fe, Pb, (H), Cu, Ag, Au. Ý nghĩa của dãy hoạt động trong việc xác định mức độ phản ứng với nước, dung dịch acid, và khả năng kim loại mạnh đẩy kim loại yếu ra khỏi dung dịch muối."
+  },
+  {
+    "lessonId": "kh9_b20",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 20. Tách kim loại và việc sử dụng hợp kim: Các phương pháp tách kim loại từ quặng: điện phân nóng chảy (kim loại mạnh Al), nhiệt luyện (kim loại trung bình Fe, Zn), thuỷ luyện (kim loại yếu Cu, Ag). Khái niệm hợp kim (gang, thép, inox, duy-ra) có độ cứng, bền vượt trội. Quy trình sản xuất gang trong lò cao và luyện gang thành thép."
+  },
+  {
+    "lessonId": "kh9_b21",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VI. Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 21. Sự khác nhau cơ bản giữa phi kim và kim loại: Ứng dụng phi kim phổ biến (than hoạt tính, lưu huỳnh, chlorine). Khác biệt vật lí: phi kim dẫn điện, nhiệt kém, giòn, không có ánh kim. Khác biệt hoá học: kim loại dễ nhường electron tạo cation, phi kim dễ nhận electron tạo anion; oxide của kim loại là oxide base, oxide của phi kim là oxide acid."
+  },
+  {
+    "lessonId": "kh9_b22",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 22. Giới thiệu về hợp chất hữu cơ: Khái niệm hợp chất hữu cơ là hợp chất của carbon (trừ một số chất vô cơ đơn giản). Vai trò của ngành hoá học hữu cơ. Phân biệt công thức phân tử và công thức cấu tạo. Đặc điểm cấu tạo: carbon luôn có hoá trị IV, liên kết với nhau tạo mạch hở (thẳng, nhánh) hoặc mạch vòng. Phân loại thành hydrocarbon và dẫn xuất hydrocarbon."
+  },
+  {
+    "lessonId": "kh9_b23",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 23. Alkane: Khái niệm alkane là những hydrocarbon mạch hở chỉ chứa liên kết đơn, công thức chung C_nH_{2n+2} (n >= 1). Gọi tên các alkane từ C1 đến C4: methane, ethane, propane, butane. Phản ứng hoá học đặc trưng là phản ứng cháy toả nhiều nhiệt tạo CO2 và H2O. Ứng dụng alkane làm gas nhiên liệu, xăng dầu sinh hoạt."
+  },
+  {
+    "lessonId": "kh9_b24",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 24. Alkene: Khái niệm alkene là những hydrocarbon mạch hở chứa một liên kết đôi C=C, công thức chung C_nH_{2n} (n >= 2). Ethylene (C2H4) có cấu tạo phân tử chứa liên kết đôi kém bền. Tính chất hoá học của ethylene: phản ứng cháy, phản ứng cộng bromine làm mất màu dung dịch, phản ứng trùng hợp tạo polyethylene (nhựa PE)."
+  },
+  {
+    "lessonId": "kh9_b25",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VII. Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 25. Nguồn nhiên liệu: Trạng thái tự nhiên, thành phần của dầu mỏ, khí thiên nhiên, khí mỏ dầu. Phương pháp khai thác dầu thô và quá trình chưng cất phân đoạn thu được các sản phẩm có ích (xăng, dầu hoả, nhựa đường). Định nghĩa nhiên liệu, phân loại nhiên liệu và các biện pháp sử dụng nhiên liệu hiệu quả, tiết kiệm."
+  },
+  {
+    "lessonId": "kh9_b26",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Ethylic alcohol và acetic acid",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 26. Ethylic alcohol: Công thức cấu tạo của ethylic alcohol (ethanol): C2H5OH, chứa nhóm chức —OH đặc trưng. Tính chất vật lí, khái niệm độ cồn (% vol). Tính chất hoá học: phản ứng cháy toả nhiệt, phản ứng thế với sodium giải phóng H2. Phương pháp điều chế bằng lên men tinh bột hoặc hợp nước ethylene. Ứng dụng và tác hại của rượu bia."
+  },
+  {
+    "lessonId": "kh9_b27",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương VIII. Ethylic alcohol và acetic acid",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 27. Acetic acid: Công thức cấu tạo của acetic acid: CH3COOH, chứa nhóm carboxyl —COOH đặc trưng. Tính chất vật lí, giấm ăn. Tính chất hoá học là một acid yếu đầy đủ tính chất của acid thường (quỳ tím hoá đỏ, phản ứng với kim loại, oxide base, base, carbonate). Phản ứng ester hoá với ethylic alcohol tạo ethyl acetate. Điều chế bằng lên men giấm."
+  },
+  {
+    "lessonId": "kh9_b28",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Lipid. Carbohydrate. Protein. Polymer",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 28. Lipid: Khái niệm lipid không tan trong nước, tan trong dung môi hữu cơ. Định nghĩa chất béo là triester của glycerol và các acid béo: (RCOO)3C3H5. Tính chất vật lí ở dạng rắn (mỡ) hoặc lỏng (dầu). Tính chất hoá học đặc trưng là phản ứng thuỷ phân trong môi trường kiềm (phản ứng xà phòng hoá) tạo muối của acid béo (xà phòng) và glycerol."
+  },
+  {
+    "lessonId": "kh9_b29",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Lipid. Carbohydrate. Protein. Polymer",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 29. Carbohydrate. Glucose và saccharose: Phân loại carbohydrate có công thức chung C_n(H2O)_m. Trạng thái tự nhiên, tính chất vật lí của glucose (C6H12O6) và saccharose (C12H22O11). Tính chất hoá học của glucose: phản ứng tráng bạc tạo lớp Ag sáng bóng, phản ứng lên men rượu. Saccharose bị thuỷ phân tạo glucose và fructose khi đun nóng với acid."
+  },
+  {
+    "lessonId": "kh9_b30",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Lipid. Carbohydrate. Protein. Polymer",
+    "lessonOrder": 30,
+    "lessonContent": "Bài 30. Tinh bột và cellulose: Đều là các carbohydrate phức tạp (polysaccharide) có công thức chung (C6H10O5)_n. Tinh bột tích luỹ ở hạt, củ; cellulose cấu tạo màng tế bào thực vật. Phản ứng hoá học chung là phản ứng thuỷ phân tạo glucose. Phản ứng màu đặc trưng của hồ tinh bột với iodine tạo hợp chất màu xanh tím dùng để nhận biết."
+  },
+  {
+    "lessonId": "kh9_b31",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Lipid. Carbohydrate. Protein. Polymer",
+    "lessonOrder": 31,
+    "lessonContent": "Bài 31. Protein: Khái niệm protein là hợp chất hữu cơ phức tạp có khối lượng phân tử rất lớn cấu tạo từ nhiều đơn vị amino acid liên kết với nhau bằng liên kết peptide. Tính chất hoá học của protein: sự đông tụ dưới tác dụng của acid, base hoặc nhiệt độ; phản ứng cháy toả mùi khét đặc trưng; phản ứng thuỷ phân tạo các amino acid."
+  },
+  {
+    "lessonId": "kh9_b32",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương IX. Lipid. Carbohydrate. Protein. Polymer",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 32. Polymer: Khái niệm polymer có khối lượng phân tử lớn tạo từ nhiều mắt xích (monomer). Cấu trúc mạch thẳng, mạch nhánh hoặc mạch mạng lưới không gian. Phân loại polymer thiên nhiên và tổng hợp. Giới thiệu các vật liệu polymer phổ biến trong đời sống: chất dẻo, tơ, cao su, vật liệu composite. Vấn đề ô nhiễm rác thải nhựa và nguyên tắc 5R."
+  },
+  {
+    "lessonId": "kh9_b33",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Khai thác tài nguyên từ vỏ Trái Đất",
+    "lessonOrder": 33,
+    "lessonContent": "Bài 33. Sơ lược về hoá học vỏ Trái Đất và khai thác tài nguyên từ vỏ Trái Đất: Sơ lược hàm lượng các nguyên tố hoá học chủ yếu cấu tạo nên vỏ Trái Đất (O, Si, Al, Fe, Ca, Na, K, Mg). Các dạng hợp chất chủ yếu tồn tại trong vỏ Trái Đất như oxide, silicate, carbonate. Khai thác hợp lí tài nguyên thiên nhiên từ vỏ Trái Đất và bảo vệ môi trường."
+  },
+  {
+    "lessonId": "kh9_b34",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Khai thác tài nguyên từ vỏ Trái Đất",
+    "lessonOrder": 34,
+    "lessonContent": "Bài 34. Khai thác đá vôi. Công nghiệp silicate: Khai thác đá vôi (thành phần chính CaCO3), nung đá vôi tạo vôi sống CaO. Giới thiệu công nghiệp silicate sản xuất đồ gốm sứ (từ đất sét), thuỷ tinh (từ cát thạch anh, đá vôi, soda), và xi măng (từ đá vôi, đất sét, nung tạo clinker)."
+  },
+  {
+    "lessonId": "kh9_b35",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương X. Khai thác tài nguyên từ vỏ Trái Đất",
+    "lessonOrder": 35,
+    "lessonContent": "Bài 35. Khai thác nhiên liệu hoá thạch. Nguồn carbon. Chu trình carbon và sự ấm lên toàn cầu: Khai thác dầu mỏ, than mỏ, khí thiên nhiên. Chu trình luân chuyển carbon trong tự nhiên giữa khí quyển, sinh quyển và địa quyển. Nguyên nhân gây hiệu ứng nhà kính do phát thải khí CO2, CH4 vượt mức và hậu quả của sự ấm lên toàn cầu, biến đổi khí hậu."
+  },
+  {
+    "lessonId": "kh9_b36",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "lessonOrder": 36,
+    "lessonContent": "Bài 36. Khái quát về di truyền học: Định nghĩa tính di truyền là sự truyền đạt tính trạng, biến dị là sự xuất hiện đặc điểm khác biệt giữa con và bố mẹ. Mendel đặt nền móng cho di truyền học qua thí nghiệm lai đậu Hà Lan với các cặp tính trạng tương phản. Một số thuật ngữ và kí hiệu di truyền cơ bản (gene, allele, kiểu gen, kiểu hình, dòng thuần)."
+  },
+  {
+    "lessonId": "kh9_b37",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "lessonOrder": 37,
+    "lessonContent": "Bài 37. Các quy luật di truyền của Mendel: Quy luật phân li: F1 đồng tính trội, F2 phân li theo tỉ lệ 3 trội : 1 lặn do các allele phân li về giao tử. Phép lai phân tích giữa cá thể trội chưa biết kiểu gen với cá thể lặn để xác định kiểu gen đồng hợp hay dị hợp. Quy luật phân li độc lập: các cặp allele phân li độc lập tạo tỉ lệ kiểu hình F2 là 9:3:3:1."
+  },
+  {
+    "lessonId": "kh9_b38",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "lessonOrder": 38,
+    "lessonContent": "Bài 38. Nucleic acid và gene: Đại phân tử sinh học gồm hai loại DNA và RNA cấu tạo theo nguyên tắc đa phân. DNA cấu trúc xoắn kép gồm 2 mạch polynucleotide, liên kết hydrogen bổ sung A-T, G-C; chức năng lưu trữ thông tin di truyền. Định nghĩa gene là đoạn DNA mang thông tin mã hoá chuỗi polypeptide hoặc RNA. RNA cấu trúc một mạch gồm A, U, G, C với ba loại chính: mRNA, tRNA, rRNA."
+  },
+  {
+    "lessonId": "kh9_b39",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "lessonOrder": 39,
+    "lessonContent": "Bài 39. Tái bản DNA và phiên mã tạo RNA: Quá trình tái bản DNA nhân đôi thông tin di truyền diễn ra theo nguyên tắc bổ sung và bán bảo toàn nhờ enzyme DNA polymerase. Quá trình phiên mã tổng hợp RNA từ mạch khuôn của gene theo nguyên tắc bổ sung nhờ enzyme RNA polymerase. Kĩ thuật PCR nhân bản dòng DNA trong phòng thí nghiệm."
+  },
+  {
+    "lessonId": "kh9_b40",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "lessonOrder": 40,
+    "lessonContent": "Bài 40. Dịch mã và mối quan hệ từ gene đến tính trạng: Khái niệm mã di truyền là mã bộ ba (codon) trên mRNA. Quá trình dịch mã tổng hợp chuỗi polypeptide diễn ra tại ribosome, giải mã codon trên mRNA thành trình tự amino acid của protein. Sơ đồ mối quan hệ biểu hiện thông tin di truyền: Gene (DNA) -> mRNA -> Protein -> Tính trạng."
+  },
+  {
+    "lessonId": "kh9_b41",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XI. Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+    "lessonOrder": 41,
+    "lessonContent": "Bài 41. Đột biến gene: Khái niệm đột biến gene là những biến đổi trong cấu trúc của gene. Đột biến điểm gồm các dạng: mất một cặp, thêm một cặp, hoặc thay thế một cặp nucleotide. Ý nghĩa đột biến gene tạo ra các allele mới phong phú cho tiến hoá, tuy nhiên đa số đột biến tự nhiên là có hại hoặc trung tính."
+  },
+  {
+    "lessonId": "kh9_b42",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XII. Di truyền nhiễm sắc thể",
+    "lessonOrder": 42,
+    "lessonContent": "Bài 42. Nhiễm sắc thể và bộ nhiễm sắc thể: Khái niệm nhiễm sắc thể NST nằm trong nhân tế bào, cấu tạo từ DNA và protein histone. Bộ NST đặc trưng cho mỗi loài về số lượng, hình dạng (bộ NST lưỡng bội 2n trong tế bào sinh dưỡng và bộ NST đơn bội n trong tế bào giao tử). Tiêu bản NST dưới kính hiển vi."
+  },
+  {
+    "lessonId": "kh9_b43",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XII. Di truyền nhiễm sắc thể",
+    "lessonOrder": 43,
+    "lessonContent": "Bài 43. Nguyên phân và giảm phân: Nguyên phân diễn ra ở tế bào sinh dưỡng qua 4 kì, tạo ra hai tế bào con giống hệt tế bào mẹ (2n) giúp cơ thể lớn lên. Giảm phân diễn ra ở tế bào sinh dục chín gồm 2 lần phân chia, tạo 4 tế bào con đơn bội (n), tạo nguồn biến dị tổ hợp cho sinh sản hữu tính."
+  },
+  {
+    "lessonId": "kh9_b44",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XII. Di truyền nhiễm sắc thể",
+    "lessonOrder": 44,
+    "lessonContent": "Bài 44. Nhiễm sắc thể giới tính và cơ chế xác định giới tính: Phân biệt NST thường và cặp NST giới tính (XX, XY ở người). Cơ chế xác định giới tính đực/cái dựa trên sự phân li của cặp NST giới tính khi giảm phân tạo giao tử và sự tổ hợp lại khi thụ tinh với tỉ lệ 1:1. Các yếu tố môi trường ngoài ảnh hưởng đến sự phân hoá giới tính."
+  },
+  {
+    "lessonId": "kh9_b45",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XII. Di truyền nhiễm sắc thể",
+    "lessonOrder": 45,
+    "lessonContent": "Bài 45. Di truyền liên kết: Thí nghiệm của Morgan trên ruồi giấm chứng minh các gene quy định nhóm tính trạng cùng nằm trên một NST thì di truyền cùng nhau (liên kết gene). Khái niệm nhóm gene liên kết và ứng dụng di truyền liên kết trong chọn giống cây trồng, vật nuôi bằng cách chọn nhóm tính trạng tốt đi kèm."
+  },
+  {
+    "lessonId": "kh9_b46",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XII. Di truyền nhiễm sắc thể",
+    "lessonOrder": 46,
+    "lessonContent": "Bài 46. Đột biến nhiễm sắc thể: Khái niệm đột biến cấu trúc NST (mất đoạn, lặp đoạn, đảo đoạn, chuyển đoạn) gây mất cân bằng hệ gen. Khái niệm đột biến số lượng NST gồm lệch bội (thay đổi số lượng ở một hoặc một số cặp như hội chứng Down) và đa bội (tăng số lượng NST theo bội số của bộ đơn bội n lớn hơn 2n như 3n, 4n)."
+  },
+  {
+    "lessonId": "kh9_b47",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XIII. Di truyền học với con người và đời sống",
+    "lessonOrder": 47,
+    "lessonContent": "Bài 47. Di truyền học với con người: Nghiên cứu các bệnh, tật di truyền ở người (Down, bạch tạng, câm điếc bẩm sinh). Vai trò của tư vấn di truyền trước hôn nhân, xét nghiệm sàng lọc trước sinh để giảm thiểu dị tật bẩm sinh. Tác hại của kết hôn cận huyết thống và giới thiệu bản đồ gene người."
+  },
+  {
+    "lessonId": "kh9_b48",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XIII. Di truyền học với con người và đời sống",
+    "lessonOrder": 48,
+    "lessonContent": "Bài 48. Ứng dụng công nghệ di truyền vào đời sống: Khái niệm công nghệ di truyền và kĩ thuật chuyển gene để tạo sinh vật biến đổi gen (GMO). Các ứng dụng thực tiễn của GMO trong y học (sản xuất insulin, vaccine), nông nghiệp (cây trồng kháng sâu bệnh, tăng năng suất). Thảo luận về an toàn sinh học và đạo đức sinh học."
+  },
+  {
+    "lessonId": "kh9_b49",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XIV. Tiến hoá",
+    "lessonOrder": 49,
+    "lessonContent": "Bài 49. Khái niệm tiến hoá và các hình thức chọn lọc: Khái niệm tiến hoá sinh học. Phân tích học thuyết của Darwin về chọn lọc tự nhiên (động lực chính giúp sinh vật thích nghi với môi trường sống) và chọn lọc nhân tạo (giữ lại các biến dị có lợi phục vụ nhu cầu kinh tế, sản xuất của con người)."
+  },
+  {
+    "lessonId": "kh9_b50",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XIV. Tiến hoá",
+    "lessonOrder": 50,
+    "lessonContent": "Bài 50. Cơ chế tiến hoá: Giới thiệu Thuyết tiến hoá tổng hợp hiện đại. Phân tích các nhân tố tiến hoá tác động lên vốn gen của quần thể (đột biến, giao phối, di - nhập gen, chọn lọc tự nhiên, các yếu tố ngẫu nhiên). Quá trình hình thành loài mới từ các con đường cách li địa lí và cách li sinh thái."
+  },
+  {
+    "lessonId": "kh9_b51",
+    "grade": 9,
+    "subject": "Khoa học tự nhiên",
+    "chapterName": "Chương XIV. Tiến hoá",
+    "lessonOrder": 51,
+    "lessonContent": "Bài 51. Sự phát sinh và phát triển sự sống trên Trái Đất: Phân tích 3 giai đoạn phát sinh sự sống: tiến hoá hoá học (chất vô cơ thành hữu cơ đơn giản), tiến hoá tiền sinh học (tế bào sơ khai), và tiến hoá sinh học. Sơ lược các kỉ địa chất lớn gắn liền với các biến cố tiến hoá lịch sử và nguồn gốc phát sinh loài người."
+  }
+]

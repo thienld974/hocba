@@ -1,0 +1,513 @@
+[
+  {
+    "nodeId": "root_toan9",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TOÁN 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "toan9_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_toan9",
+    "nodeName": "Toán 9 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_toan9",
+    "nodeName": "Toán 9 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol1",
+    "nodeName": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol1",
+    "nodeName": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol1",
+    "nodeName": "Chương III. Căn bậc hai và căn bậc ba",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol1",
+    "nodeName": "Chương IV. Hệ thức lượng trong tam giác vuông",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol1",
+    "nodeName": "Chương V. Đường tròn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t1_ch_th",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol1",
+    "nodeName": "Hoạt động thực hành trải nghiệm",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan9_node_t2_ch6",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol2",
+    "nodeName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_ch7",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol2",
+    "nodeName": "Chương VII. Tần số và tần số tương đối",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t2_ch8",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol2",
+    "nodeName": "Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t2_ch9",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol2",
+    "nodeName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t2_ch10",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol2",
+    "nodeName": "Chương X. Một số hình khối trong thực tiễn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t2_ch_th",
+    "lessonId": null,
+    "parentNodeId": "toan9_node_vol2",
+    "nodeName": "Hoạt động thực hành trải nghiệm",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan9_node_t1_b1",
+    "lessonId": "toan9_t1_b1",
+    "parentNodeId": "toan9_node_t1_ch1",
+    "nodeName": "Bài 1: Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t1_b2",
+    "lessonId": "toan9_t1_b2",
+    "parentNodeId": "toan9_node_t1_ch1",
+    "nodeName": "Bài 2: Giải hệ hai phương trình bậc nhất hai ẩn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_lt1",
+    "lessonId": "toan9_t1_lt1",
+    "parentNodeId": "toan9_node_t1_ch1",
+    "nodeName": "Luyện tập chung (Chương I)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t1_b3",
+    "lessonId": "toan9_t1_b3",
+    "parentNodeId": "toan9_node_t1_ch1",
+    "nodeName": "Bài 3: Giải bài toán bằng cách lập hệ phương trình",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t1_btc1",
+    "lessonId": "toan9_t1_btc1",
+    "parentNodeId": "toan9_node_t1_ch1",
+    "nodeName": "Bài tập cuối chương I",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t1_b4",
+    "lessonId": "toan9_t1_b4",
+    "parentNodeId": "toan9_node_t1_ch2",
+    "nodeName": "Bài 4: Phương trình quy về phương trình bậc nhất một ẩn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t1_b5",
+    "lessonId": "toan9_t1_b5",
+    "parentNodeId": "toan9_node_t1_ch2",
+    "nodeName": "Bài 5: Bất đẳng thức và tính chất",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_lt2",
+    "lessonId": "toan9_t1_lt2",
+    "parentNodeId": "toan9_node_t1_ch2",
+    "nodeName": "Luyện tập chung (Chương II - Phần 1)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t1_b6",
+    "lessonId": "toan9_t1_b6",
+    "parentNodeId": "toan9_node_t1_ch2",
+    "nodeName": "Bài 6: Bất phương trình bậc nhất một ẩn",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t1_btc2",
+    "lessonId": "toan9_t1_btc2",
+    "parentNodeId": "toan9_node_t1_ch2",
+    "nodeName": "Bài tập cuối chương II",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t1_b7",
+    "lessonId": "toan9_t1_b7",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Bài 7: Căn bậc hai và căn thức bậc hai",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t1_b8",
+    "lessonId": "toan9_t1_b8",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Bài 8: Khai căn bậc hai với phép nhân và phép chia",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_lt3",
+    "lessonId": "toan9_t1_lt3",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Luyện tập chung (Chương III - Phần 1)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t1_b9",
+    "lessonId": "toan9_t1_b9",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Bài 9: Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t1_b10",
+    "lessonId": "toan9_t1_b10",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Bài 10: Căn bậc ba và căn thức bậc ba",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t1_lt4",
+    "lessonId": "toan9_t1_lt4",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Luyện tập chung (Chương III - Phần 2)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan9_node_t1_btc3",
+    "lessonId": "toan9_t1_btc3",
+    "parentNodeId": "toan9_node_t1_ch3",
+    "nodeName": "Bài tập cuối chương III",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan9_node_t1_b11",
+    "lessonId": "toan9_t1_b11",
+    "parentNodeId": "toan9_node_t1_ch4",
+    "nodeName": "Bài 11: Tỉ số lượng giác của góc nhọn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t1_b12",
+    "lessonId": "toan9_t1_b12",
+    "parentNodeId": "toan9_node_t1_ch4",
+    "nodeName": "Bài 12: Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_lt5",
+    "lessonId": "toan9_t1_lt5",
+    "parentNodeId": "toan9_node_t1_ch4",
+    "nodeName": "Luyện tập chung (Chương IV)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t1_btc4",
+    "lessonId": "toan9_t1_btc4",
+    "parentNodeId": "toan9_node_t1_ch4",
+    "nodeName": "Bài tập cuối chương IV",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t1_b13",
+    "lessonId": "toan9_t1_b13",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Bài 13: Mở đầu về đường tròn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t1_b14",
+    "lessonId": "toan9_t1_b14",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Bài 14: Cung và dây của một đường tròn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t1_b15",
+    "lessonId": "toan9_t1_b15",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Bài 15: Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t1_lt6",
+    "lessonId": "toan9_t1_lt6",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Luyện tập chung (Chương V - Phần 1)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t1_b16",
+    "lessonId": "toan9_t1_b16",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Bài 16: Vị trí tương đối của đường thẳng và đường tròn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t1_b17",
+    "lessonId": "toan9_t1_b17",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Bài 17: Vị trí tương đối của hai đường tròn",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan9_node_t1_lt7",
+    "lessonId": "toan9_t1_lt7",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Luyện tập chung (Chương V - Phần 2)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan9_node_t1_btc5",
+    "lessonId": "toan9_t1_btc5",
+    "parentNodeId": "toan9_node_t1_ch5",
+    "nodeName": "Bài tập cuối chương V",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "toan9_node_t1_th1",
+    "lessonId": "toan9_t1_th1",
+    "parentNodeId": "toan9_node_t1_ch_th",
+    "nodeName": "Hoạt động thực hành trải nghiệm (Tập một)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_b18",
+    "lessonId": "toan9_t2_b18",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Bài 18: Hàm số y = ax^2 (a # 0)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_b19",
+    "lessonId": "toan9_t2_b19",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Bài 19: Phương trình bậc hai một ẩn",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t2_lt1",
+    "lessonId": "toan9_t2_lt1",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Luyện tập chung (Chương VI - Phần 1)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t2_b20",
+    "lessonId": "toan9_t2_b20",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Bài 20: Định lí Viète và ứng dụng",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t2_b21",
+    "lessonId": "toan9_t2_b21",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Bài 21: Giải bài toán bằng cách lập phương trình",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t2_lt2",
+    "lessonId": "toan9_t2_lt2",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Luyện tập chung (Chương VI - Phần 2)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan9_node_t2_btc6",
+    "lessonId": "toan9_t2_btc6",
+    "parentNodeId": "toan9_node_t2_ch6",
+    "nodeName": "Bài tập cuối chương VI",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan9_node_t2_b22",
+    "lessonId": "toan9_t2_b22",
+    "parentNodeId": "toan9_node_t2_ch7",
+    "nodeName": "Bài 22: Bảng tần số và biểu đồ tần số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_b23",
+    "lessonId": "toan9_t2_b23",
+    "parentNodeId": "toan9_node_t2_ch7",
+    "nodeName": "Bài 23: Bảng tần số tương đối và biểu đồ tần số tương đối",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t2_lt3",
+    "lessonId": "toan9_t2_lt3",
+    "parentNodeId": "toan9_node_t2_ch7",
+    "nodeName": "Luyện tập chung (Chương VII - Phần 1)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t2_b24",
+    "lessonId": "toan9_t2_b24",
+    "parentNodeId": "toan9_node_t2_ch7",
+    "nodeName": "Bài 24: Bảng tần số, tần số tương đối ghép nhóm và biểu đồ",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t2_btc7",
+    "lessonId": "toan9_t2_btc7",
+    "parentNodeId": "toan9_node_t2_ch7",
+    "nodeName": "Bài tập cuối chương VII",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t2_b25",
+    "lessonId": "toan9_t2_b25",
+    "parentNodeId": "toan9_node_t2_ch8",
+    "nodeName": "Bài 25: Phép thử ngẫu nhiên và không gian mẫu",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_b26",
+    "lessonId": "toan9_t2_b26",
+    "parentNodeId": "toan9_node_t2_ch8",
+    "nodeName": "Bài 26: Xác suất của biến cố liên quan tới phép thử",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t2_lt4",
+    "lessonId": "toan9_t2_lt4",
+    "parentNodeId": "toan9_node_t2_ch8",
+    "nodeName": "Luyện tập chung (Chương VIII)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t2_btc8",
+    "lessonId": "toan9_t2_btc8",
+    "parentNodeId": "toan9_node_t2_ch8",
+    "nodeName": "Bài tập cuối chương VIII",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t2_b27",
+    "lessonId": "toan9_t2_b27",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Bài 27: Góc nội tiếp",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_b28",
+    "lessonId": "toan9_t2_b28",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Bài 28: Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t2_lt5",
+    "lessonId": "toan9_t2_lt5",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Luyện tập chung (Chương IX - Phần 1)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t2_b29",
+    "lessonId": "toan9_t2_b29",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Bài 29: Tứ giác nội tiếp",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t2_b30",
+    "lessonId": "toan9_t2_b30",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Bài 30: Đa giác đều",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan9_node_t2_lt6",
+    "lessonId": "toan9_t2_lt6",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Luyện tập chung (Chương IX - Phần 2)",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan9_node_t2_btc9",
+    "lessonId": "toan9_t2_btc9",
+    "parentNodeId": "toan9_node_t2_ch9",
+    "nodeName": "Bài tập cuối chương IX",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan9_node_t2_b31",
+    "lessonId": "toan9_t2_b31",
+    "parentNodeId": "toan9_node_t2_ch10",
+    "nodeName": "Bài 31: Hình trụ và hình nón",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan9_node_t2_b32",
+    "lessonId": "toan9_t2_b32",
+    "parentNodeId": "toan9_node_t2_ch10",
+    "nodeName": "Bài 32: Hình cầu",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan9_node_t2_lt7",
+    "lessonId": "toan9_t2_lt7",
+    "parentNodeId": "toan9_node_t2_ch10",
+    "nodeName": "Luyện tập chung (Chương X)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan9_node_t2_btc10",
+    "lessonId": "toan9_t2_btc10",
+    "parentNodeId": "toan9_node_t2_ch10",
+    "nodeName": "Bài tập cuối chương X",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan9_node_t2_th2",
+    "lessonId": "toan9_t2_th2",
+    "parentNodeId": "toan9_node_t2_ch_th",
+    "nodeName": "Hoạt động thực hành trải nghiệm (Tập hai)",
+    "orderIndex": 1
+  }
+]

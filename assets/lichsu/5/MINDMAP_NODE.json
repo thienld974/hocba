@@ -1,0 +1,247 @@
+[
+  {
+    "nodeId": "root_sd5",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "LỊCH SỬ VÀ ĐỊA LÍ 5 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "sd5_node_ch1",
+    "lessonId": null,
+    "parentNodeId": "root_sd5",
+    "nodeName": "Chủ đề 1. Đất nước và con người Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_ch2",
+    "lessonId": null,
+    "parentNodeId": "root_sd5",
+    "nodeName": "Chủ đề 2. Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_ch3",
+    "lessonId": null,
+    "parentNodeId": "root_sd5",
+    "nodeName": "Chủ đề 3. Xây dựng và bảo vệ đất nước Việt Nam",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sd5_node_ch4",
+    "lessonId": null,
+    "parentNodeId": "root_sd5",
+    "nodeName": "Chủ đề 4. Các nước láng giềng",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sd5_node_ch5",
+    "lessonId": null,
+    "parentNodeId": "root_sd5",
+    "nodeName": "Chủ đề 5. Tìm hiểu thế giới",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sd5_node_ch6",
+    "lessonId": null,
+    "parentNodeId": "root_sd5",
+    "nodeName": "Chủ đề 6. Chung tay xây dựng thế giới",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sd5_node_b1",
+    "lessonId": "sudia5_b1",
+    "parentNodeId": "sd5_node_ch1",
+    "nodeName": "Bài 1. Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_b2",
+    "lessonId": "sudia5_b2",
+    "parentNodeId": "sd5_node_ch1",
+    "nodeName": "Bài 2. Thiên nhiên Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_b3",
+    "lessonId": "sudia5_b3",
+    "parentNodeId": "sd5_node_ch1",
+    "nodeName": "Bài 3. Biển, đảo Việt Nam",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sd5_node_b4",
+    "lessonId": "sudia5_b4",
+    "parentNodeId": "sd5_node_ch1",
+    "nodeName": "Bài 4. Dân cư và dân tộc ở Việt Nam",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sd5_node_b5",
+    "lessonId": "sudia5_b5",
+    "parentNodeId": "sd5_node_ch2",
+    "nodeName": "Bài 5. Nhà nước Văn Lang, Nhà nước Âu Lạc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_b6",
+    "lessonId": "sudia5_b6",
+    "parentNodeId": "sd5_node_ch2",
+    "nodeName": "Bài 6. Vương quốc Phù Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_b7",
+    "lessonId": "sudia5_b7",
+    "parentNodeId": "sd5_node_ch2",
+    "nodeName": "Bài 7. Vương quốc Chăm-pa",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sd5_node_b8",
+    "lessonId": "sudia5_b8",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 8. Đấu tranh giành độc lập thời kì Bắc thuộc",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_b9",
+    "lessonId": "sudia5_b9",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 9. Triều Lý và việc định đô ở Thăng Long",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_b10",
+    "lessonId": "sudia5_b10",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 10. Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sd5_node_b11",
+    "lessonId": "sudia5_b11",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 11. Ôn tập",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sd5_node_b12",
+    "lessonId": "sudia5_b12",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 12. Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sd5_node_b13",
+    "lessonId": "sudia5_b13",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 13. Triều Nguyễn",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sd5_node_b14",
+    "lessonId": "sudia5_b14",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 14. Cách mạng tháng Tám năm 1945",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sd5_node_b15",
+    "lessonId": "sudia5_b15",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 15. Chiến dịch Điện Biên Phủ năm 1954",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "sd5_node_b16",
+    "lessonId": "sudia5_b16",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 16. Chiến dịch Hồ Chí Minh năm 1975",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "sd5_node_b17",
+    "lessonId": "sudia5_b17",
+    "parentNodeId": "sd5_node_ch3",
+    "nodeName": "Bài 17. Đất nước Đổi mới",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "sd5_node_b18",
+    "lessonId": "sudia5_b18",
+    "parentNodeId": "sd5_node_ch4",
+    "nodeName": "Bài 18. Nước Cộng hoà Nhân dân Trung Hoa",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_b19",
+    "lessonId": "sudia5_b19",
+    "parentNodeId": "sd5_node_ch4",
+    "nodeName": "Bài 19. Nước Cộng hoà Dân chủ Nhân dân Lào",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_b20",
+    "lessonId": "sudia5_b20",
+    "parentNodeId": "sd5_node_ch4",
+    "nodeName": "Bài 20. Vương quốc Cam-pu-chia",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sd5_node_b21",
+    "lessonId": "sudia5_b21",
+    "parentNodeId": "sd5_node_ch4",
+    "nodeName": "Bài 21. Hiệp hội các quốc gia Đông Nam Á",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sd5_node_b22",
+    "lessonId": "sudia5_b22",
+    "parentNodeId": "sd5_node_ch5",
+    "nodeName": "Bài 22. Các châu lục và đại dương trên thế giới",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_b23",
+    "lessonId": "sudia5_b23",
+    "parentNodeId": "sd5_node_ch5",
+    "nodeName": "Bài 23. Dân số và các chủng tộc chính trên thế giới",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_b24",
+    "lessonId": "sudia5_b24",
+    "parentNodeId": "sd5_node_ch5",
+    "nodeName": "Bài 24. Văn minh Ai Cập",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sd5_node_b25",
+    "lessonId": "sudia5_b25",
+    "parentNodeId": "sd5_node_ch5",
+    "nodeName": "Bài 25. Văn minh Hy Lạp",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sd5_node_b26",
+    "lessonId": "sudia5_b26",
+    "parentNodeId": "sd5_node_ch6",
+    "nodeName": "Bài 26. Xây dựng thế giới xanh - sạch - đẹp",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sd5_node_b27",
+    "lessonId": "sudia5_b27",
+    "parentNodeId": "sd5_node_ch6",
+    "nodeName": "Bài 27. Xây dựng thế giới hoà bình",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sd5_node_b28",
+    "lessonId": "sudia5_b28",
+    "parentNodeId": "sd5_node_ch6",
+    "nodeName": "Bài 28. Ôn tập",
+    "orderIndex": 3
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "lessonId": "toan9_t1_b1",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1: Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn:\n- Phương trình bậc nhất hai ẩn x và y: Là hệ thức dạng ax + by = c, trong đó a, b, c là các số đã biết, a và b không đồng thời bằng 0. Nghiệm của phương trình là cặp số (x0; y0) sao cho ax0 + by0 = c là một khẳng định đúng.\n- Đường thẳng biểu diễn tập nghiệm: Trong mặt phẳng tọa độ Oxy, tập hợp các điểm có tọa độ (x; y) thỏa mãn ax + by = c là một đường thẳng d.\n- Hệ hai phương trình bậc nhất hai ẩn: Có dạng gồm hai phương trình ax + by = c và a'x + b'y = c'. Nghiệm của hệ là một cặp số (x0; y0) đồng thời là nghiệm của cả hai phương trình. Ý nghĩa hình học là tọa độ giao điểm của hai đường thẳng biểu diễn tập nghiệm của mỗi phương trình.\n- Từ khóa: Phương trình bậc nhất hai ẩn, nghiệm, hệ hai phương trình bậc nhất hai ẩn, biểu diễn hình học, đường thẳng."
+  },
+  {
+    "lessonId": "toan9_t1_b2",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2: Giải hệ hai phương trình bậc nhất hai ẩn:\n- Phương pháp thế: Gồm hai bước:\n  1. Từ một phương trình của hệ, biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình còn lại để được phương trình một ẩn.\n  2. Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ.\n- Phương pháp cộng đại số: Gồm hai bước:\n  1. Nhân hai vế của mỗi phương trình với một số thích hợp (nếu cần) sao cho các hệ số của một ẩn nào đó trong hai phương trình bằng nhau hoặc đối nhau. Cộng hay trừ từng vế của hai phương trình để được một phương trình một ẩn.\n  2. Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ.\n- Sử dụng máy tính cầm tay (MTCT): Sử dụng chức năng giải hệ phương trình (MODE 5 1 hoặc phím tương đương) để tìm nghiệm nhanh chóng.\n- Từ khóa: Giải hệ phương trình, phương pháp thế, phương pháp cộng đại số, máy tính cầm tay MTCT."
+  },
+  {
+    "lessonId": "toan9_t1_lt1",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "lessonOrder": 3,
+    "lessonContent": "Luyện tập chung (Chương I):\n- Củng cố kỹ năng giải hệ phương trình bậc nhất hai ẩn bằng phương pháp thế và phương pháp cộng đại số.\n- Ứng dụng giải quyết một số bài toán kỹ năng tổng hợp và thực tế như: cân bằng phương trình phản ứng hóa học (tìm hệ số x, y), tìm hệ số a và b để đường thẳng y = ax + b đi qua các điểm cho trước.\n- Từ khóa: Luyện tập chung, củng cố giải hệ phương trình, ứng dụng hóa học, tìm hệ số đường thẳng."
+  },
+  {
+    "lessonId": "toan9_t1_b3",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 3: Giải bài toán bằng cách lập hệ phương trình:\n- Quy trình giải gồm 3 bước:\n  Bước 1. Lập hệ phương trình: Chọn hai ẩn và đặt điều kiện thích hợp; biểu diễn các đại lượng chưa biết theo các ẩn và đại lượng đã biết; lập hệ phương trình biểu thị mối quan hệ giữa các đại lượng.\n  Bước 2. Giải hệ phương trình.\n  Bước 3. Trả lời: Kiểm tra xem trong các nghiệm tìm được, nghiệm nào thỏa mãn điều kiện của ẩn, rồi kết luận.\n- Các dạng toán cơ bản: Toán số học (tìm số tự nhiên, chữ số), toán chuyển động (vận tốc, quãng đường, thời gian), toán năng suất (làm chung làm riêng, vòi nước chảy), toán thực tế khác (pha chế nồng độ, mua bán hàng hóa).\n- Từ khóa: Giải bài toán bằng cách lập hệ phương trình, chọn ẩn số, điều kiện, toán chuyển động, toán làm chung làm riêng."
+  },
+  {
+    "lessonId": "toan9_t1_btc1",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+    "lessonOrder": 5,
+    "lessonContent": "Bài tập cuối chương I:\n- Hệ thống hóa và củng cố toàn bộ kiến thức chương I về phương trình bậc nhất hai ẩn, hệ hai phương trình bậc nhất hai ẩn.\n- Luyện tập giải các bài tập trắc nghiệm khách quan và bài tập tự luận tổng hợp: Giải các hệ phương trình phức tạp, giải các bài toán thực tế bằng cách lập hệ phương trình (toán chuyển động tròn, toán diện tích đồng ruộng, toán thuế VAT).\n- Từ khóa: Bài tập cuối chương I, trắc nghiệm, tự luận, ôn tập hệ phương trình."
+  },
+  {
+    "lessonId": "toan9_t1_b4",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 4: Phương trình quy về phương trình bậc nhất một ẩn:\n- Phương trình tích: Có dạng (ax + b)(cx + d) = 0. Để giải phương trình tích, ta giải hai phương trình ax + b = 0 và cx + d = 0, sau đó lấy tất cả các nghiệm của chúng.\n- Phương trình chứa ẩn ở mẫu: Gồm 4 bước giải:\n  Bước 1. Tìm điều kiện xác định (ĐKXĐ) của phương trình (các mẫu thức phải khác 0).\n  Bước 2. Quy đồng mẫu thức hai vế của phương trình rồi khử mẫu.\n  Bước 3. Giải phương trình vừa nhận được.\n  Bước 4. Kết luận: Trong các giá trị tìm được của ẩn, loại các giá trị không thỏa mãn ĐKXĐ, các giá trị thỏa mãn ĐKXĐ chính là nghiệm của phương trình.\n- Từ khóa: Phương trình tích, phương trình chứa ẩn ở mẫu, điều kiện xác định ĐKXĐ, quy đồng mẫu thức, khử mẫu."
+  },
+  {
+    "lessonId": "toan9_t1_b5",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 5: Bất đẳng thức và tính chất:\n- Khái niệm: Hệ thức dạng a < b (hay a > b, a <= b, a >= b) được gọi là bất đẳng thức. Trong đó, a là vế trái, b là vế phải.\n- Tính chất bắc cầu: Nếu a < b và b < c thì a < c. (Tương tự cho các dấu >, <=, >=).\n- Liên hệ giữa thứ tự và phép cộng: Khi cộng cùng một số c vào hai vế của một bất đẳng thức, ta được bất đẳng thức mới cùng chiều với bất đẳng thức đã cho. (Nếu a < b thì a + c < b + c).\n- Liên hệ giữa thứ tự và phép nhân:\n  + Nhân hai vế với cùng một số dương c > 0: Ta được bất đẳng thức mới cùng chiều. (Nếu a < b và c > 0 thì ac < bc).\n  + Nhân hai vế với cùng một số âm c < 0: Ta được bất đẳng thức mới ngược chiều. (Nếu a < b và c < 0 thì ac > bc).\n- Từ khóa: Bất đẳng thức, tính chất bắc cầu, liên hệ phép cộng, liên hệ phép nhân, đổi chiều bất đẳng thức."
+  },
+  {
+    "lessonId": "toan9_t1_lt2",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+    "lessonOrder": 8,
+    "lessonContent": "Luyện tập chung (Chương II - Phần 1):\n- Củng cố kỹ năng giải phương trình tích, phương trình chứa ẩn ở mẫu và vận dụng các tính chất của bất đẳng thức để chứng minh bất đẳng thức.\n- Giải các bài toán ứng dụng thực tế liên quan đến chi phí loại bỏ tảo độc, bài tập tổng hợp kết hợp phương trình và bất đẳng thức.\n- Từ khóa: Luyện tập chung, chứng minh bất đẳng thức, củng cố giải phương trình."
+  },
+  {
+    "lessonId": "toan9_t1_b6",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 6: Bất phương trình bậc nhất một ẩn:\n- Khái niệm: Bất phương trình dạng ax + b < 0 (hoặc ax + b > 0, ax + b <= 0, ax + b >= 0) trong đó a và b là hai số đã cho, a khác 0, được gọi là bất phương trình bậc nhất một ẩn.\n- Cách giải: Sử dụng quy tắc chuyển vế và quy tắc nhân để biến đổi tương đương.\n  + Quy tắc chuyển vế: Khi chuyển một hạng tử từ vế này sang vế kia của bất phương trình, ta phải đổi dấu hạng tử đó.\n  + Quy tắc nhân: Khi nhân (hoặc chia) hai vế của bất phương trình với cùng một số khác 0, ta giữ nguyên chiều nếu số đó dương, và đổi chiều nếu số đó âm.\n- Nghiệm: Tập hợp tất cả các nghiệm của bất phương trình gọi là tập nghiệm.\n- Từ khóa: Bất phương trình bậc nhất một ẩn, quy tắc chuyển vế, quy tắc nhân, giải bất phương trình, tập nghiệm."
+  },
+  {
+    "lessonId": "toan9_t1_btc2",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+    "lessonOrder": 10,
+    "lessonContent": "Bài tập cuối chương II:\n- Ôn tập toàn bộ chương II gồm: phương trình tích, phương trình chứa ẩn ở mẫu, bất đẳng thức, bất phương trình bậc nhất một ẩn.\n- Giải các bài tập trắc nghiệm và tự luận tổng hợp: Bất phương trình chứa tham số, so sánh biểu thức, giải bài toán thực tế về cước phí viễn thông, lãi suất ngân hàng, quảng đường di chuyển của xe tải.\n- Từ khóa: Bài tập cuối chương II, ôn tập bất phương trình, củng cố bất đẳng thức, trắc nghiệm, tự luận."
+  },
+  {
+    "lessonId": "toan9_t1_b7",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 7: Căn bậc hai và căn thức bậc hai:\n- Khái niệm: Căn bậc hai số học của số thực không âm a là số thực không âm x sao cho x^2 = a. Ký hiệu là căn(a). Mỗi số dương a có đúng hai căn bậc hai đối nhau là căn(a) và -căn(a).\n- Căn thức bậc hai: Biểu thức dạng căn(A), trong đó A là một biểu thức đại số. Biểu thức căn(A) xác định (hay có nghĩa) khi A lấy giá trị không âm (A >= 0).\n- Hằng đẳng thức căn(A^2) = |A|: Với mọi biểu thức A, ta luôn có căn(A^2) = |A|. Nếu A >= 0 thì căn(A^2) = A; nếu A < 0 thì căn(A^2) = -A.\n- Từ khóa: Căn bậc hai số học, căn thức bậc hai, điều kiện xác định, hằng đẳng thức, giá trị tuyệt đối."
+  },
+  {
+    "lessonId": "toan9_t1_b8",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 8: Khai căn bậc hai với phép nhân và phép chia:\n- Liên hệ giữa phép khai phương và phép nhân: Với hai biểu thức không âm A, B ta có: căn(A * B) = căn(A) * căn(B). Định lý có thể mở rộng cho tích của nhiều biểu thức không âm.\n- Liên hệ giữa phép khai phương và phép chia: Với biểu thức A không âm và biểu thức B dương ta có: căn(A / B) = căn(A) / căn(B).\n- Từ khóa: Khai phương một tích, khai phương một thương, phép nhân căn thức, phép chia căn thức."
+  },
+  {
+    "lessonId": "toan9_t1_lt3",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 13,
+    "lessonContent": "Luyện tập chung (Chương III - Phần 1):\n- Củng cố kỹ năng rút gọn biểu thức chứa căn bậc hai dựa trên các phép toán nhân, chia căn thức và sử dụng hằng đẳng thức căn(A^2) = |A|.\n- Giải các bài toán chứng minh đẳng thức, tính giá trị biểu thức tại một điểm cho trước, bài toán liên quan đến động năng vật lý.\n- Từ khóa: Luyện tập chung, rút gọn biểu thức, đẳng thức chứa căn, tính giá trị biểu thức."
+  },
+  {
+    "lessonId": "toan9_t1_b9",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 14,
+    "lessonContent": "Bài 9: Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai:\n- Đưa thừa số ra ngoài dấu căn: Với hai biểu thức A, B trong đó B >= 0, ta có căn(A^2 * B) = |A| * căn(B).\n- Đưa thừa số vào trong dấu căn:\n  + Với A >= 0 và B >= 0, ta có: A * căn(B) = căn(A^2 * B).\n  + Với A < 0 và B >= 0, ta có: A * căn(B) = -căn(A^2 * B).\n- Trục căn thức ở mẫu (Phép biến đổi làm mất căn thức ở mẫu của một biểu thức):\n  + Dạng đơn giản: A / căn(B) = A * căn(B) / B (với B > 0).\n  + Dạng liên hợp: Nhân cả tử và mẫu với biểu thức liên hợp của mẫu (ví dụ liên hợp của căn(A) + B là căn(A) - B).\n- Khử mẫu của biểu thức lấy căn: căn(A / B) = căn(A * B) / |B| (với A * B >= 0 và B khác 0).\n- Từ khóa: Đưa thừa số ra ngoài dấu căn, đưa thừa số vào trong dấu căn, trục căn thức ở mẫu, biểu thức liên hợp, khử mẫu biểu thức lấy căn."
+  },
+  {
+    "lessonId": "toan9_t1_b10",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 10: Căn bậc ba và căn thức bậc ba:\n- Khái niệm: Căn bậc ba của một số thực a là số thực x sao cho x^3 = a. Ký hiệu là căn bậc ba của a. Mỗi số thực a đều có duy nhất một căn bậc ba.\n- Tính chất: \n  + a < b <=> căn bậc ba(a) < căn bậc ba(b);\n  + căn bậc ba(a * b) = căn bậc ba(a) * căn bậc ba(b);\n  + Với b khác 0, căn bậc ba(a / b) = căn bậc ba(a) / căn bậc ba(b).\n- Căn thức bậc ba: Biểu thức dạng căn bậc ba(A), trong đó A là một biểu thức đại số. Căn thức bậc ba xác định với mọi giá trị của biểu thức đại số A.\n- Từ khóa: Căn bậc ba, căn thức bậc ba, tính chất căn bậc ba, khai căn bậc ba."
+  },
+  {
+    "lessonId": "toan9_t1_lt4",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 16,
+    "lessonContent": "Luyện tập chung (Chương III - Phần 2):\n- Củng cố kỹ năng biến đổi, rút gọn biểu thức chứa căn thức bậc hai phức tạp và căn bậc ba.\n- Giải các bài toán liên quan đến thể tích hình lập phương, bài toán ứng dụng thực tế áp lực gió thổi vào cánh buồm.\n- Từ khóa: Rút gọn biểu thức chứa căn, so sánh căn bậc ba, luyện tập tổng hợp."
+  },
+  {
+    "lessonId": "toan9_t1_btc3",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương III. Căn bậc hai và căn bậc ba",
+    "lessonOrder": 17,
+    "lessonContent": "Bài tập cuối chương III:\n- Hệ thống lý thuyết toàn chương III gồm căn bậc hai, hằng đẳng thức, phép nhân, chia căn thức, các phương pháp biến đổi căn thức và căn bậc ba.\n- Luyện tập giải đề trắc nghiệm và các bài tập tự luận rút gọn biểu thức chứa biến, tìm giá trị lớn nhất, nhỏ nhất, giải phương trình vô tỉ cơ bản.\n- Từ khóa: Ôn tập chương III, căn bậc hai, căn bậc ba, trắc nghiệm tổng hợp, tự luận căn thức."
+  },
+  {
+    "lessonId": "toan9_t1_b11",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Hệ thức lượng trong tam giác vuông",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 11: Tỉ số lượng giác của góc nhọn:\n- Định nghĩa: Cho góc nhọn alpha trong tam giác vuông:\n  + sin(alpha) = Cạnh đối / Cạnh huyền\n  + cos(alpha) = Cạnh kề / Cạnh huyền\n  + tan(alpha) = Cạnh đối / Cạnh kề\n  + cot(alpha) = Cạnh kề / Cạnh đối\n- Tính chất: sin(alpha) và cos(alpha) luôn dương và bé hơn 1. tan(alpha) * cot(alpha) = 1.\n- Tỉ số lượng giác của hai góc phụ nhau: Nếu hai góc nhọn phụ nhau thì sin góc này bằng cos góc kia, tan góc này bằng cot góc kia.\n- Góc đặc biệt: Ghi nhớ các tỉ số lượng giác của góc 30, 45, 60 độ.\n- Từ khóa: Tỉ số lượng giác, sin, cos, tan, cot, góc nhọn, góc phụ nhau, góc đặc biệt."
+  },
+  {
+    "lessonId": "toan9_t1_b12",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Hệ thức lượng trong tam giác vuông",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 12: Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng:\n- Định lý 1: Trong tam giác vuông, mỗi cạnh góc vuông bằng cạnh huyền nhân với sin góc đối hoặc nhân với cos góc kề.\n- Định lý 2: Trong tam giác vuông, mỗi cạnh góc vuông bằng cạnh góc vuông kia nhân với tan góc đối hoặc nhân với cot góc kề.\n- Giải tam giác vuông: Là tìm tất cả các cạnh và các góc chưa biết của tam giác vuông khi đã biết trước hai yếu tố (trong đó có ít nhất một cạnh).\n- Ứng dụng: Đo chiều cao vật thể ngoài thực tế (như cột cờ, tòa tháp, ngọn hải đăng), tính góc nghiêng dốc, mái nhà, đo khoảng cách gián tiếp qua sông.\n- Từ khóa: Hệ thức cạnh và góc, giải tam giác vuông, đo chiều cao, đo khoảng cách, ứng dụng thực tế."
+  },
+  {
+    "lessonId": "toan9_t1_lt5",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Hệ thức lượng trong tam giác vuông",
+    "lessonOrder": 20,
+    "lessonContent": "Luyện tập chung (Chương IV):\n- Củng cố và rèn luyện kỹ năng sử dụng các hệ thức giữa cạnh và góc trong tam giác vuông để giải tam giác vuông.\n- Giải quyết các bài tập tổng hợp: Tính toán khoảng cách giữa các điểm trên hồ nước, tính góc lặn của tàu ngầm, chiều rộng dòng sông.\n- Từ khóa: Luyện tập giải tam giác vuông, hệ thức cạnh góc vuông, tính khoảng cách thực tế."
+  },
+  {
+    "lessonId": "toan9_t1_btc4",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Hệ thức lượng trong tam giác vuông",
+    "lessonOrder": 21,
+    "lessonContent": "Bài tập cuối chương IV:\n- Tổng kết lý thuyết về hệ thức lượng, tỉ số lượng giác của góc nhọn, góc phụ nhau.\n- Thực hiện các câu hỏi trắc nghiệm ôn tập và giải bài tập tự luận tổng hợp: Tính góc nghiêng dốc, chiều cao cây, giải tam giác vuông, ứng dụng đo đạc thực tế.\n- Từ khóa: Ôn tập chương IV, tỉ số lượng giác, giải tam giác vuông, bài tập tổng hợp."
+  },
+  {
+    "lessonId": "toan9_t1_b13",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 22,
+    "lessonContent": "Bài 13: Mở đầu về đường tròn:\n- Định nghĩa: Đường tròn tâm O bán kính R (R > 0) là hình gồm các điểm cách O một khoảng bằng R. Ký hiệu là (O; R) hoặc (O).\n- Vị trí tương đối của điểm M và đường tròn (O; R):\n  + M nằm trên đường tròn <=> OM = R;\n  + M nằm trong đường tròn <=> OM < R;\n  + M nằm ngoài đường tròn <=> OM > R.\n- Tính đối xứng: Đường tròn là hình có tâm đối xứng (tâm O của đường tròn) và là hình có trục đối xứng (bất kỳ đường thẳng nào đi qua tâm O).\n- Từ khóa: Đường tròn, tâm, bán kính, điểm nằm trong, điểm nằm ngoài, tâm đối xứng, trục đối xứng."
+  },
+  {
+    "lessonId": "toan9_t1_b14",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 14: Cung và dây của một đường tròn:\n- Khái niệm: Đoạn thẳng nối hai điểm tùy ý trên đường tròn gọi là một dây (hay dây cung). Dây đi qua tâm là đường kính của đường tròn. Đường kính là dây cung lớn nhất của đường tròn.\n- Góc ở tâm: Là góc có đỉnh trùng với tâm của đường tròn. Góc ở tâm chia đường tròn thành hai cung: cung nhỏ và cung lớn.\n- Số đo cung:\n  + Số đo của cung nhỏ bằng số đo của góc ở tâm chắn cung đó.\n  + Số đo của cung lớn bằng 360 độ trừ đi số đo cung nhỏ có chung hai mút.\n  + Số đo của nửa đường tròn bằng 180 độ.\n- Từ khóa: Dây cung, đường kính, góc ở tâm, số đo cung, cung nhỏ, cung lớn, góc chắn cung."
+  },
+  {
+    "lessonId": "toan9_t1_b15",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 15: Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên:\n- Độ dài cung tròn: Trên đường tròn bán kính R, độ dài l của một cung n độ được tính theo công thức: l = (n / 180) * pi * R.\n- Diện tích hình quạt tròn: Là phần hình tròn giới hạn bởi một cung tròn và hai bán kính đi qua hai đầu mút của cung đó. Công thức tính diện tích Sq ứng với cung n độ là: Sq = (n / 360) * pi * R^2 = (l * R) / 2.\n- Diện tích hình vành khuyên: Là phần nằm giữa hai đường tròn đồng tâm có bán kính khác nhau R và r (R > r). Công thức diện tích Sv là: Sv = pi * (R^2 - r^2).\n- Từ khóa: Độ dài cung tròn, diện tích hình quạt tròn, diện tích hình vành khuyên, đường tròn đồng tâm."
+  },
+  {
+    "lessonId": "toan9_t1_lt6",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 25,
+    "lessonContent": "Luyện tập chung (Chương V - Phần 1):\n- Củng cố lý thuyết và rèn luyện kỹ năng tính độ dài cung, diện tích quạt tròn, diện tích vành khuyên, diện tích hình viên phân.\n- Ứng dụng giải quyết bài toán thực tế: Tính toán diện tích quạt giấy, so sánh diện tích bề mặt bánh pizza, vận tốc bánh xe đạp quay.\n- Từ khóa: Tính độ dài cung, diện tích quạt tròn, diện tích hình vành khuyên, hình viên phân."
+  },
+  {
+    "lessonId": "toan9_t1_b16",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 16: Vị trí tương đối của đường thẳng và đường tròn:\n- Gọi d là khoảng cách từ tâm O của đường tròn (O; R) đến đường thẳng a:\n  1. Đường thẳng và đường tròn cắt nhau: Có 2 điểm chung <=> d < R.\n  2. Đường thẳng và đường tròn tiếp xúc nhau: Có duy nhất 1 điểm chung <=> d = R. Đường thẳng đó gọi là tiếp tuyến, điểm chung là tiếp điểm. Tiếp tuyến vuông góc với bán kính tại tiếp điểm.\n  3. Đường thẳng và đường tròn không giao nhau: Không có điểm chung <=> d > R.\n- Định lý (Dấu hiệu nhận biết tiếp tuyến): Nếu một đường thẳng đi qua một điểm nằm trên đường tròn và vuông góc với bán kính đi qua điểm đó thì đường thẳng ấy là tiếp tuyến.\n- Tính chất hai tiếp tuyến cắt nhau: Nếu hai tiếp tuyến của đường tròn (O) cắt nhau tại M (tiếp điểm A và B) thì: MA = MB; OM là tia phân giác góc AOB; MO là tia phân giác góc AMB.\n- Từ khóa: Vị trí tương đối, tiếp tuyến, tiếp điểm, khoảng cách d, hai tiếp tuyến cắt nhau."
+  },
+  {
+    "lessonId": "toan9_t1_b17",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 17: Vị trí tương đối của hai đường tròn:\n- Cho đường tròn (O; R) và (O'; r) với R >= r, d = OO' là khoảng cách nối tâm:\n  1. Hai đường tròn cắt nhau: Có đúng 2 điểm chung <=> R - r < d < R + r. Hai giao điểm đối xứng nhau qua đường nối tâm OO'.\n  2. Hai đường tròn tiếp xúc nhau: Có duy nhất 1 điểm chung.\n     + Tiếp xúc ngoài <=> d = R + r.\n     + Tiếp xúc trong <=> d = R - r (với R > r).\n     Tiếp điểm nằm trên đường nối tâm OO'.\n  3. Hai đường tròn không giao nhau: Không có điểm chung.\n     + Ngoài nhau <=> d > R + r.\n     + Đựng nhau <=> d < R - r.\n- Từ khóa: Hai đường tròn cắt nhau, tiếp xúc trong, tiếp xúc ngoài, không giao nhau, đường nối tâm."
+  },
+  {
+    "lessonId": "toan9_t1_lt7",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 28,
+    "lessonContent": "Luyện tập chung (Chương V - Phần 2):\n- Củng cố lý thuyết về vị trí tương đối của hai đường tròn, tiếp tuyến của đường tròn và đường nối tâm.\n- Giải các bài toán chứng minh hình học: Chứng minh hai đường thẳng song song, hai tiếp tuyến song song, tính bán kính đường tròn cắt nhau.\n- Từ khóa: Luyện tập đường tròn, tiếp tuyến đường tròn, đường nối tâm, chứng minh hình học."
+  },
+  {
+    "lessonId": "toan9_t1_btc5",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương V. Đường tròn",
+    "lessonOrder": 29,
+    "lessonContent": "Bài tập cuối chương V:\n- Tổng ôn tập chương V về đường tròn: Cung và dây, góc ở tâm, độ dài cung, diện tích quạt tròn, diện tích vành khuyên, tiếp tuyến, vị trí tương đối của đường thẳng và đường tròn, vị trí tương đối của hai đường tròn.\n- Giải các câu hỏi trắc nghiệm và bài tập tự luận tổng hợp: Bài toán thực tế chắp nối trơn (vẽ quả trứng, vẽ hình trái xoan), bài toán chứng minh tiếp tuyến chung, tứ giác vuông.\n- Từ khóa: Ôn tập chương V, tiếp tuyến chung, vị trí tương đối, chắp nối trơn, ôn tập đường tròn."
+  },
+  {
+    "lessonId": "toan9_t1_th1",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 30,
+    "lessonContent": "Hoạt động thực hành trải nghiệm (Tập một):\n- Pha chế dung dịch theo nồng độ yêu cầu: Vận dụng giải hệ phương trình bậc nhất hai ẩn để tính toán lượng chất tan và dung môi cần thiết để thu được dung dịch nồng độ % cho trước. Thực hành lập bảng tính Excel để tự động hóa tính toán.\n- Tính chiều cao và xác định khoảng cách: Thực hành đo đạc ngoài thực tế sử dụng giác kế, thước cuộn, máy tính cầm tay để xác định chiều cao tòa nhà, chiều cao cây hoặc đo khoảng cách gián tiếp giữa hai vị trí (như khoảng cách qua sông).\n- Từ khóa: Thực hành trải nghiệm, pha chế dung dịch, đo chiều cao, đo khoảng cách gián tiếp, giác kế, bảng tính Excel."
+  },
+  {
+    "lessonId": "toan9_t2_b18",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 31,
+    "lessonContent": "Bài 18: Hàm số y = ax^2 (a # 0):\n- Khái niệm: Hàm số bậc hai có dạng y = ax^2 (a khác 0), xác định với mọi x thuộc R.\n- Đồ thị hàm số y = ax^2 (a khác 0) là một đường cong đi qua gốc tọa độ O, nhận trục Oy làm trục đối xứng. Đường cong đó gọi là một parabol với đỉnh là O.\n- Tính chất đồ thị:\n  + Nếu a > 0: Parabol nằm phía trên trục hoành (y >= 0 với mọi x). Đồ thị nhận gốc O là điểm thấp nhất.\n  + Nếu a < 0: Parabol nằm phía dưới trục hoành (y <= 0 với mọi x). Đồ thị nhận gốc O là điểm cao nhất.\n- Cách vẽ: Lập bảng giá trị tương ứng của x và y (thường lấy ít nhất 5 điểm đối xứng nhau qua Oy), biểu diễn các điểm trên mặt phẳng Oxy rồi nối lại bằng đường cong trơn.\n- Từ khóa: Hàm số bậc hai, đồ thị hàm số, parabol, đỉnh parabol, trục đối xứng."
+  },
+  {
+    "lessonId": "toan9_t2_b19",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 19: Phương trình bậc hai một ẩn:\n- Khái niệm: Phương trình bậc hai một ẩn là phương trình có dạng ax^2 + bx + c = 0, trong đó x là ẩn; a, b, c là những số cho trước, gọi là các hệ số và a khác 0.\n- Cách giải phương trình bậc hai khuyết:\n  + Khuyết c (ax^2 + bx = 0): Đưa về phương trình tích x(ax + b) = 0.\n  + Khuyết b (ax^2 + c = 0): Đưa về ax^2 = -c, vô nghiệm nếu -c/a < 0, có hai nghiệm nếu -c/a > 0.\n- Công thức nghiệm tổng quát: Tính biệt thức Delta = b^2 - 4ac.\n  + Nếu Delta > 0: Phương trình có 2 nghiệm phân biệt: x1 = (-b + căn(Delta)) / 2a, x2 = (-b - căn(Delta)) / 2a.\n  + Nếu Delta = 0: Phương trình có nghiệm kép: x1 = x2 = -b / 2a.\n  + Nếu Delta < 0: Phương trình vô nghiệm.\n- Công thức nghiệm thu gọn: Khi b = 2b', tính Delta' = b'^2 - ac.\n  + Nếu Delta' > 0: Có 2 nghiệm phân biệt: x1 = (-b' + căn(Delta')) / a, x2 = (-b' - căn(Delta')) / a.\n  + Nếu Delta' = 0: Có nghiệm kép: x1 = x2 = -b' / a.\n  + Nếu Delta' < 0: Phương trình vô nghiệm.\n- Giải bằng máy tính cầm tay: Sử dụng chức năng MODE 5 3 hoặc tương ứng để giải nhanh phương trình bậc hai.\n- Từ khóa: Phương trình bậc hai một ẩn, biệt thức Delta, công thức nghiệm tổng quát, công thức nghiệm thu gọn, nghiệm kép, vô nghiệm."
+  },
+  {
+    "lessonId": "toan9_t2_lt1",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 33,
+    "lessonContent": "Luyện tập chung (Chương VI - Phần 1):\n- Củng cố kỹ năng vẽ đồ thị hàm số y = ax^2, giải phương trình bậc hai một ẩn bằng công thức nghiệm tổng quát hoặc công thức nghiệm thu gọn.\n- Ứng dụng giải quyết bài toán thực tế: Tìm số lượng cá trong một hồ tăng giảm theo công thức bậc hai, tính toán kích thước cổng vòm hình Parabol.\n- Từ khóa: Luyện tập chung, đồ thị parabol, tính denta, giải phương trình bậc hai."
+  },
+  {
+    "lessonId": "toan9_t2_b20",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 34,
+    "lessonContent": "Bài 20: Định lí Viète và ứng dụng:\n- Định lý Viète: Nếu phương trình bậc hai ax^2 + bx + c = 0 (a khác 0) có hai nghiệm x1, x2 thì:\n  + Tổng hai nghiệm: S = x1 + x2 = -b / a.\n  + Tích hai nghiệm: P = x1 * x2 = c / a.\n- Ứng dụng nhẩm nghiệm nhanh:\n  + Nếu a + b + c = 0 thì phương trình có một nghiệm là x1 = 1, nghiệm kia là x2 = c / a.\n  + Nếu a - b + c = 0 thì phương trình có một nghiệm là x1 = -1, nghiệm kia là x2 = -c / a.\n- Tìm hai số khi biết tổng và tích: Nếu hai số có tổng bằng S và tích bằng P thì hai số đó là hai nghiệm của phương trình: X^2 - SX + P = 0. Điều kiện để có hai số đó là S^2 - 4P >= 0.\n- Phân tích đa thức thành nhân tử: Nếu phương trình ax^2 + bx + c = 0 có hai nghiệm x1, x2 thì đa thức ax^2 + bx + c = a(x - x1)(x - x2).\n- Từ khóa: Định lý Viète, tổng hai nghiệm, tích hai nghiệm, nhẩm nghiệm, tìm hai số khi biết tổng và tích, phân tích nhân tử."
+  },
+  {
+    "lessonId": "toan9_t2_b21",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 35,
+    "lessonContent": "Bài 21: Giải bài toán bằng cách lập phương trình:\n- Quy trình giải tương tự lập hệ phương trình, gồm 3 bước chính:\n  Bước 1. Lập phương trình bậc hai: Chọn một ẩn số và đặt điều kiện thích hợp; biểu diễn các đại lượng chưa biết theo ẩn và đại lượng đã biết; lập phương trình biểu thị mối quan hệ giữa các đại lượng.\n  Bước 2. Giải phương trình bậc hai.\n  Bước 3. Trả lời: Kiểm tra nghiệm có thỏa mãn điều kiện của ẩn không và kết luận bài toán.\n- Các dạng toán thường gặp: Toán hình học (tính kích thước sân bóng, diện tích vườn), toán chuyển động đường thủy (vận tốc xuôi dòng, ngược dòng), toán năng suất sản xuất (xưởng may làm áo), toán chia đều số lượng vật phẩm.\n- Từ khóa: Giải bài toán bằng cách lập phương trình, phương trình bậc hai, toán chuyển động dòng nước, toán hình học."
+  },
+  {
+    "lessonId": "toan9_t2_lt2",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 36,
+    "lessonContent": "Luyện tập chung (Chương VI - Phần 2):\n- Củng cố kỹ năng áp dụng định lý Viète để tính toán giá trị biểu thức đối xứng của hai nghiệm (ví dụ x1^2 + x2^2) mà không cần giải phương trình.\n- Giải các bài toán bằng cách lập phương trình bậc hai một ẩn: Bài toán về khối lượng riêng của kim loại, tính toán doanh thu bán áo thun của cửa hàng.\n- Từ khóa: Củng cố định lý Viète, lập phương trình bậc hai, toán thực tế khối lượng riêng, bài toán doanh thu."
+  },
+  {
+    "lessonId": "toan9_t2_btc6",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Hàm số y = ax^2 (a # 0). Phương trình bậc hai một ẩn",
+    "lessonOrder": 37,
+    "lessonContent": "Bài tập cuối chương VI:\n- Tổng hợp kiến thức toàn chương VI: Đồ thị hàm số y = ax^2, giải phương trình bậc hai, công thức nghiệm, định lý Viète và lập phương trình bậc hai giải bài toán.\n- Giải bài tập trắc nghiệm và tự luận ôn tập: So sánh parabol, tìm tọa độ giao điểm, giải phương trình chứa ẩn ở mẫu quy về bậc hai, bài toán tốc độ tối thiểu trên đường cao tốc, bài toán hai khối học sinh làm chung công việc.\n- Từ khóa: Ôn tập chương VI, denta thu gọn, định lý Viète tổng hợp, bài toán làm chung công việc, trắc nghiệm tự luận."
+  },
+  {
+    "lessonId": "toan9_t2_b22",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Tần số và tần số tương đối",
+    "lessonOrder": 38,
+    "lessonContent": "Bài 22: Bảng tần số và biểu đồ tần số:\n- Tần số: Tần số của một giá trị trong mẫu dữ liệu là số lần xuất hiện của giá trị đó trong mẫu dữ liệu.\n- Bảng tần số: Là bảng thống kê cho biết tần số của các giá trị trong mẫu dữ liệu.\n- Biểu đồ tần số: Dùng để biểu diễn trực quan bảng tần số, thường gặp:\n  + Biểu đồ tần số dạng cột (biểu đồ cột).\n  + Biểu đồ tần số dạng đoạn thẳng (biểu đồ đoạn thẳng hoặc đa giác tần số).\n- Từ khóa: Tần số, bảng tần số, biểu đồ cột, biểu đồ đoạn thẳng, thống kê mô tả."
+  },
+  {
+    "lessonId": "toan9_t2_b23",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Tần số và tần số tương đối",
+    "lessonOrder": 39,
+    "lessonContent": "Bài 23: Bảng tần số tương đối và biểu đồ tần số tương đối:\n- Tần số tương đối (hay tần suất): Tần số tương đối fi của giá trị xi là tỉ số giữa tần số mi của giá trị đó và kích thước mẫu n, tính theo phần trăm: fi = (mi / n) * 100%.\n- Bảng tần số tương đối: Là bảng thống kê cho biết tần số tương đối của các giá trị trong mẫu dữ liệu.\n- Biểu đồ tần số tương đối: Thường gặp là biểu đồ hình quạt tròn và biểu đồ cột tần số tương đối (biểu đồ cột phần trăm).\n- Cách vẽ biểu đồ hình quạt tròn: Tính số đo cung tương ứng của các hình quạt bằng công thức: 360 độ * fi.\n- Từ khóa: Tần số tương đối, tần suất, bảng tần số tương đối, biểu đồ hình quạt tròn, góc cung tương ứng."
+  },
+  {
+    "lessonId": "toan9_t2_lt3",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Tần số và tần số tương đối",
+    "lessonOrder": 40,
+    "lessonContent": "Luyện tập chung (Chương VII - Phần 1):\n- Củng cố kỹ năng lập bảng tần số, bảng tần số tương đối, đọc số liệu từ biểu đồ và phân tích dữ liệu thống kê.\n- Vận dụng vẽ biểu đồ đoạn thẳng biểu diễn điểm số bắn súng của vận động viên, vẽ biểu đồ hình quạt tròn biểu diễn thể loại sách mượn tại thư viện.\n- Từ khóa: Luyện tập chung, bảng tần số tương đối, vẽ biểu đồ hình quạt tròn, thống kê dữ liệu."
+  },
+  {
+    "lessonId": "toan9_t2_b24",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Tần số và tần số tương đối",
+    "lessonOrder": 41,
+    "lessonContent": "Bài 24: Bảng tần số, tần số tương đối ghép nhóm và biểu đồ:\n- Số liệu ghép nhóm: Nhóm số liệu [a; b) là nhóm gồm các số liệu lớn hơn hoặc bằng a và nhỏ hơn b. Sử dụng khi tập dữ liệu lớn và có nhiều giá trị khác nhau.\n- Tần số ghép nhóm: Là số số liệu trong mẫu dữ liệu thuộc vào nhóm [a; b).\n- Tần số tương đối ghép nhóm: Là tỉ số phần trăm của tần số ghép nhóm so với kích thước mẫu n.\n- Biểu đồ tần số tương đối ghép nhóm dạng cột (Histogram): Là biểu đồ gồm các cột liền nhau để biểu diễn bảng tần số tương đối ghép nhóm, chiều cao mỗi cột biểu diễn tần số tương đối của nhóm tương ứng.\n- Biểu đồ tần số tương đối ghép nhóm dạng đoạn thẳng: Biểu diễn bằng cách lấy các điểm có hoành độ là giá trị đại diện của nhóm (trung điểm của nhóm xi = (ai + ai+1) / 2) và tung độ là tần số tương đối tương ứng, rồi nối chúng lại.\n- Từ khóa: Dữ liệu ghép nhóm, tần số ghép nhóm, tần số tương đối ghép nhóm, biểu đồ cột ghép nhóm, Histogram, giá trị đại diện."
+  },
+  {
+    "lessonId": "toan9_t2_btc7",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Tần số và tần số tương đối",
+    "lessonOrder": 42,
+    "lessonContent": "Bài tập cuối chương VII:\n- Ôn tập toàn bộ lý thuyết thống kê chương VII về tần số, tần số tương đối cho mẫu dữ liệu đơn và dữ liệu ghép nhóm.\n- Giải các bài tập trắc nghiệm và bài tập tự luận tổng hợp: Lập bảng tần số ghép nhóm về độ cận thị của học sinh, vẽ biểu đồ cột ghép nhóm cho chiều cao của cây giống, phân tích phân bố mức lương của công nhân.\n- Từ khóa: Ôn tập chương VII, thống kê ghép nhóm, vẽ biểu đồ ghép nhóm, trắc nghiệm tự luận thống kê."
+  },
+  {
+    "lessonId": "toan9_t2_b25",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "lessonOrder": 43,
+    "lessonContent": "Bài 25: Phép thử ngẫu nhiên và không gian mẫu:\n- Phép thử ngẫu nhiên: Là một hành động, thực nghiệm tiến hành liên tiếp hay đồng thời mà kết quả của chúng không thể biết trước khi thực hiện, nhưng có thể liệt kê được tất cả kết quả có thể xảy ra.\n- Không gian mẫu: Tập hợp tất cả các kết quả có thể xảy ra của phép thử ngẫu nhiên được gọi là không gian mẫu của phép thử, ký hiệu là Omega.\n- Ví dụ gieo đồng xu và xúc xắc: Mô tả không gian mẫu bằng phương pháp lập bảng hoặc liệt kê phần tử.\n- Từ khóa: Phép thử ngẫu nhiên, không gian mẫu Omega, kết quả có thể xảy ra, liệt kê phần tử."
+  },
+  {
+    "lessonId": "toan9_t2_b26",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "lessonOrder": 44,
+    "lessonContent": "Bài 26: Xác suất của biến cố liên quan tới phép thử:\n- Biến cố: Sự kiện xảy ra hay không xảy ra tùy thuộc vào kết quả của phép thử. Biến cố E được mô tả bởi một tập con của không gian mẫu Omega.\n- Kết quả thuận lợi: Kết quả phép thử thuộc tập con E của không gian mẫu Omega.\n- Công thức tính xác suất cổ điển (cho các kết quả đồng khả năng): Xác suất P(E) của biến cố E bằng tỉ số giữa số kết quả thuận lợi cho biến cố E và số phần tử của không gian mẫu Omega.\n  P(E) = n(E) / n(Omega).\n- Từ khóa: Biến cố, kết quả thuận lợi, xác suất cổ điển, tỉ số kết quả thuận lợi, đồng khả năng."
+  },
+  {
+    "lessonId": "toan9_t2_lt4",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "lessonOrder": 45,
+    "lessonContent": "Luyện tập chung (Chương VIII):\n- Rèn luyện kỹ năng xác định không gian mẫu và tính xác suất của biến cố liên quan đến phép thử đồng khả năng.\n- Giải các bài toán thực tế: Tính xác suất sinh con trai, con gái trong một gia đình; tính xác suất xuất hiện mặt xúc xắc có số chấm cho trước; rút thẻ ngẫu nhiên từ túi chứa thẻ số.\n- Từ khóa: Tính xác suất biến cố, không gian mẫu đồng khả năng, luyện tập xác suất."
+  },
+  {
+    "lessonId": "toan9_t2_btc8",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+    "lessonOrder": 46,
+    "lessonContent": "Bài tập cuối chương VIII:\n- Tổng kết lý thuyết phép thử ngẫu nhiên, không gian mẫu, kết quả thuận lợi và xác suất của biến cố.\n- Giải các bài tập ôn tập trắc nghiệm và tự luận: Tính xác suất rút thẻ từ hai túi khác nhau và ghép lại, tính xác suất gieo hai con xúc xắc đồng chất có tổng số chấm lớn hơn 10, bài toán chọn ngẫu nhiên món ăn trưa.\n- Từ khóa: Ôn tập xác suất chương VIII, phép thử gieo xúc xắc, không gian mẫu gieo đồng xu, trắc nghiệm xác suất."
+  },
+  {
+    "lessonId": "toan9_t2_b27",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 47,
+    "lessonContent": "Bài 27: Góc nội tiếp:\n- Định nghĩa: Góc nội tiếp của đường tròn là góc có đỉnh nằm trên đường tròn và hai cạnh chứa hai dây cung của đường tròn đó. Cung nằm bên trong góc được gọi là cung bị chắn.\n- Định lý: Trong một đường tròn, số đo của góc nội tiếp bằng nửa số đo của cung bị chắn.\n- Hệ quả (Nhận xét):\n  + Các góc nội tiếp bằng nhau chắn các cung bằng nhau.\n  + Các góc nội tiếp cùng chắn một cung hoặc chắn các cung bằng nhau thì bằng nhau.\n  + Góc nội tiếp chắn nửa đường tròn là góc vuông.\n- Từ khóa: Góc nội tiếp, cung bị chắn, định lý góc nội tiếp, góc vuông chắn nửa đường tròn, góc nội tiếp bằng nhau."
+  },
+  {
+    "lessonId": "toan9_t2_b28",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 48,
+    "lessonContent": "Bài 28: Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác:\n- Đường tròn ngoại tiếp tam giác: Là đường tròn đi qua ba đỉnh của tam giác đó. Tam giác đó gọi là tam giác nội tiếp đường tròn. Tâm O là giao điểm của ba đường trung trực của tam giác.\n  + Với tam giác vuông: Tâm O là trung điểm của cạnh huyền, bán kính R = cạnh huyền / 2.\n  + Với tam giác đều cạnh a: Tâm O là trọng tâm tam giác, bán kính R = (a * căn(3)) / 3.\n- Đường tròn nội tiếp tam giác: Là đường tròn tiếp xúc với ba cạnh của tam giác đó. Tam giác đó gọi là tam giác ngoại tiếp đường tròn. Tâm I là giao điểm của ba đường phân giác trong của tam giác.\n  + Với tam giác đều cạnh a: Tâm I trùng với trọng tâm tam giác, bán kính r = (a * căn(3)) / 6.\n- Từ khóa: Đường tròn ngoại tiếp, đường tròn nội tiếp, tam giác nội tiếp, tam giác ngoại tiếp, giao điểm trung trực, giao điểm phân giác."
+  },
+  {
+    "lessonId": "toan9_t2_lt5",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 49,
+    "lessonContent": "Luyện tập chung (Chương IX - Phần 1):\n- Củng cố kiến thức về góc nội tiếp, đường tròn nội tiếp và ngoại tiếp tam giác.\n- Giải các bài toán hình học chứng minh tam giác đồng dạng, tính bán kính đường tròn ngoại tiếp tam giác đều, bài toán vị trí đặt cột phát sóng wifi tối ưu.\n- Từ khóa: Góc nội tiếp tam giác, tính bán kính đường tròn ngoại tiếp tam giác đều, chứng minh đồng dạng."
+  },
+  {
+    "lessonId": "toan9_t2_b29",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 50,
+    "lessonContent": "Bài 29: Tứ giác nội tiếp:\n- Định nghĩa: Tứ giác có bốn đỉnh nằm trên một đường tròn được gọi là tứ giác nội tiếp đường tròn (hoặc tứ giác nội tiếp).\n- Định lý: Trong một tứ giác nội tiếp, tổng số đo hai góc đối nhau bằng 180 độ (ví dụ góc A + góc C = 180 độ).\n- Điều kiện nhận biết một tứ giác nội tiếp: \n  + Tứ giác có tổng hai góc đối bằng 180 độ.\n  + Tứ giác có hai đỉnh kề cùng nhìn cạnh nối hai đỉnh còn lại dưới các góc bằng nhau.\n  + Hình thang cân, hình chữ nhật, hình vuông là những tứ giác nội tiếp.\n- Từ khóa: Tứ giác nội tiếp, tổng hai góc đối, dấu hiệu nhận biết tứ giác nội tiếp, hình chữ nhật nội tiếp."
+  },
+  {
+    "lessonId": "toan9_t2_b30",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 51,
+    "lessonContent": "Bài 30: Đa giác đều:\n- Định nghĩa: Đa giác đều là đa giác lồi có tất cả các cạnh bằng nhau và tất cả các góc bằng nhau.\n- Các đa giác đều thường gặp: Tam giác đều, hình vuông, ngũ giác đều, lục giác đều, bát giác đều.\n- Đường tròn ngoại tiếp, nội tiếp đa giác đều: Mỗi đa giác đều có duy nhất một đường tròn ngoại tiếp và một đường tròn nội tiếp. Tâm của hai đường tròn này trùng nhau và được gọi là tâm của đa giác đều.\n- Phép quay giữ nguyên đa giác đều: Phép quay tâm O (tâm đa giác đều) góc quay bằng 360 độ / k (với k là số cạnh) sẽ biến đa giác đều thành chính nó.\n- Từ khóa: Đa giác đều, lục giác đều, tâm đa giác đều, phép quay giữ nguyên đa giác, góc quay."
+  },
+  {
+    "lessonId": "toan9_t2_lt6",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 52,
+    "lessonContent": "Luyện tập chung (Chương IX - Phần 2):\n- Củng cố lý thuyết về tứ giác nội tiếp, đa giác đều, tâm đa giác đều và phép quay giữ nguyên đa giác đều.\n- Giải các bài toán hình học tổng hợp: Chứng minh tứ giác nội tiếp qua giao điểm đường cao, tính số đo các góc của bát giác đều, lục giác đều.\n- Từ khóa: Chứng minh tứ giác nội tiếp, góc đa giác đều, phép quay đa giác, luyện tập hình học."
+  },
+  {
+    "lessonId": "toan9_t2_btc9",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+    "lessonOrder": 53,
+    "lessonContent": "Bài tập cuối chương IX:\n- Tổng ôn tập chương IX: Góc nội tiếp, đường tròn nội tiếp/ngoại tiếp tam giác, tứ giác nội tiếp và đa giác đều.\n- Giải các bài tập trắc nghiệm khách quan và bài tập tự luận tổng hợp: Vẽ đa giác đều bằng phép quay góc 45 độ, chứng minh các tiếp tuyến của đường tròn nội tiếp, bài toán ghép hình học lục giác của khay bánh kẹo.\n- Từ khóa: Ôn tập chương IX, góc nội tiếp, tứ giác nội tiếp, đa giác đều, trắc nghiệm tự luận hình học."
+  },
+  {
+    "lessonId": "toan9_t2_b31",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 54,
+    "lessonContent": "Bài 31: Hình trụ và hình nón:\n- Hình trụ:\n  + Được tạo ra khi quay hình chữ nhật một vòng quanh một cạnh cố định.\n  + Các yếu tố: Bán kính đáy R, chiều cao h (bằng độ dài trục quay), đường sinh l (bằng chiều cao h).\n  + Diện tích xung quanh: Sxq = 2 * pi * R * h.\n  + Thể tích: V = Sđáy * h = pi * R^2 * h.\n- Hình nón:\n  + Được tạo ra khi quay tam giác vuông một vòng quanh một cạnh góc vuông cố định.\n  + Các yếu tố: Bán kính đáy R, chiều cao h (độ dài cạnh góc vuông làm trục), đường sinh l (độ dài cạnh huyền).\n  + Diện tích xung quanh: Sxq = pi * R * l.\n  + Thể tích: V = (1 / 3) * Sđáy * h = (1 / 3) * pi * R^2 * h.\n- Từ khóa: Hình trụ, hình nón, diện tích xung quanh hình trụ, thể tích hình trụ, diện tích xung quanh hình nón, thể tích hình nón, đường sinh."
+  },
+  {
+    "lessonId": "toan9_t2_b32",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 55,
+    "lessonContent": "Bài 32: Hình cầu:\n- Khái niệm: Khi quay nửa hình tròn bán kính R một vòng quanh đường kính cố định của nó, ta được một hình cầu. Nửa đường tròn tạo nên mặt cầu. Điểm O là tâm, R là bán kính của hình cầu (mặt cầu).\n- Diện tích mặt cầu: S = 4 * pi * R^2.\n- Thể tích hình cầu: V = (4 / 3) * pi * R^3.\n- Mặt cắt của hình cầu: Khi cắt hình cầu bằng một mặt phẳng, ta luôn thu được mặt cắt là hình tròn. Nếu mặt phẳng đi qua tâm, ta được hình tròn lớn nhất có bán kính bằng bán kính hình cầu.\n- Từ khóa: Hình cầu, mặt cầu, diện tích mặt cầu, thể tích hình cầu, mặt cắt hình cầu."
+  },
+  {
+    "lessonId": "toan9_t2_lt7",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 56,
+    "lessonContent": "Luyện tập chung (Chương X):\n- Củng cố công thức diện tích, thể tích hình trụ, hình nón, hình cầu thông qua các bài toán hình khối phức tạp hoặc thực tế.\n- Giải quyết các bài tập thực tế: Tính phần thể tích bể chứa nước hình nón và hình trụ bị khoan, tính thể tích hộp chứa bóng tennis xếp khít chồng lên nhau, thể tích bồn chứa xăng gồm xi lanh ghép hai bán cầu.\n- Từ khóa: Tính thể tích hình nón hình trụ hình cầu, diện tích xung quanh mặt cầu, bài toán ghép hình khối thực tế."
+  },
+  {
+    "lessonId": "toan9_t2_btc10",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Chương X. Một số hình khối trong thực tiễn",
+    "lessonOrder": 57,
+    "lessonContent": "Bài tập cuối chương X:\n- Ôn tập lý thuyết, hệ thống hóa công thức hình trụ, hình nón, hình cầu.\n- Giải các bài tập trắc nghiệm và tự luận: Tính thể tích hình nón cụt, diện tích bề mặt quả bóng rổ, diện tích giấy dán đèn trời, thể tích ốc quế kem, diện tích mái nhà hát Cao Văn Lầu có hình ba chiếc nón lá lớn.\n- Từ khóa: Ôn tập chương X, công thức diện tích thể tích hình khối, bài tập thực tế hình nón hình trụ hình cầu."
+  },
+  {
+    "lessonId": "toan9_t2_th2",
+    "grade": 9,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 58,
+    "lessonContent": "Hoạt động thực hành trải nghiệm (Tập hai):\n- Giải phương trình, hệ phương trình và vẽ đồ thị hàm số với phần mềm GeoGebra: Sử dụng các câu lệnh Solve, Solutions, Intersect trong GeoGebra để tìm nghiệm nhanh chóng của các phương trình bậc nhất, bậc hai, hệ phương trình và vẽ Parabol.\n- Vẽ hình đơn giản với phần mềm GeoGebra: Vẽ đường tròn nội tiếp, ngoại tiếp tam giác đều, vẽ hình quạt tròn, vẽ hình cầu, hình nón, hình trụ trong không gian GeoGebra 3D.\n- Xác định tần số, tần số tương đối, vẽ biểu đồ bằng Excel: Sử dụng Pivot Table, các hàm Excel (ví dụ SUM) để xử lý dữ liệu khảo sát thô, lập bảng tần số, tần số tương đối và vẽ biểu đồ hình quạt tròn, biểu đồ cột phần trăm biểu diễn.\n- Gene trội trong các thế hệ lai: Thực hành mô phỏng quy luật Mendel gieo đồng xu hai màu để kiểm chứng tỷ lệ kiểu gene, kiểu hình ở thế hệ lai F2 và tính xác suất các biến cố.\n- Từ khóa: Trải nghiệm thực hành, phần mềm GeoGebra, lập bảng Excel, xử lý thống kê, mô phỏng di truyền Mendel, gieo đồng xu xác suất."
+  }
+]

@@ -1,0 +1,639 @@
+[
+  {
+    "nodeId": "root_toan8",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TOÁN 8 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "toan8_node_vol1",
+    "lessonId": null,
+    "parentNodeId": "root_toan8",
+    "nodeName": "Toán 8 - Tập Một",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan8_node_vol2",
+    "lessonId": null,
+    "parentNodeId": "root_toan8",
+    "nodeName": "Toán 8 - Tập Hai",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan8_node_t1_ch1",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol1",
+    "nodeName": "Chương I. Đa thức",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan8_node_t1_ch2",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol1",
+    "nodeName": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan8_node_t1_ch3",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol1",
+    "nodeName": "Chương III. Tứ giác",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan8_node_t1_ch4",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol1",
+    "nodeName": "Chương IV. Định lí Thalès",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan8_node_t1_ch5",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol1",
+    "nodeName": "Chương V. Dữ liệu và biểu đồ",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan8_node_t1_hdtn",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol1",
+    "nodeName": "Hoạt động thực hành trải nghiệm",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan8_node_t2_ch6",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Chương VI. Phân thức đại số",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan8_node_t2_ch7",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan8_node_t2_ch8",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan8_node_t2_ch9",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Chương IX. Tam giác đồng dạng",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan8_node_t2_ch10",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Chương X. Một số hình khối trong thực tiễn",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan8_node_t2_hdtn",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Hoạt động thực hành trải nghiệm",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan8_node_t2_otcn_cat",
+    "lessonId": null,
+    "parentNodeId": "toan8_node_vol2",
+    "nodeName": "Bài tập ôn tập cuối năm",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b1",
+    "lessonId": "toan8_t1_b1",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Bài 1: Đơn thức",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b2",
+    "lessonId": "toan8_t1_b2",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Bài 2: Đa thức",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b3",
+    "lessonId": "toan8_t1_b3",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Bài 3: Phép cộng và phép trừ đa thức",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch1_ltc1",
+    "lessonId": "toan8_t1_ch1_ltc1",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Luyện tập chung (trang 17)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b4",
+    "lessonId": "toan8_t1_b4",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Bài 4: Phép nhân đa thức",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b5",
+    "lessonId": "toan8_t1_b5",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Bài 5: Phép chia đa thức cho đơn thức",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch1_ltc2",
+    "lessonId": "toan8_t1_ch1_ltc2",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Luyện tập chung (trang 25)",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch1_bt",
+    "lessonId": "toan8_t1_ch1_bt",
+    "parentNodeId": "toan8_node_t1_ch1",
+    "nodeName": "Bài tập cuối chương I (trang 27)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b6",
+    "lessonId": "toan8_t1_b6",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Bài 6: Hiệu hai bình phương. Bình phương của một tổng hay một hiệu",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b7",
+    "lessonId": "toan8_t1_b7",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Bài 7: Lập phương của một tổng hay một hiệu",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b8",
+    "lessonId": "toan8_t1_b8",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Bài 8: Tổng và hiệu hai lập phương",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch2_ltc1",
+    "lessonId": "toan8_t1_ch2_ltc1",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Luyện tập chung (trang 40)",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b9",
+    "lessonId": "toan8_t1_b9",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Bài 9: Phân tích đa thức thành nhân tử",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch2_ltc2",
+    "lessonId": "toan8_t1_ch2_ltc2",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Luyện tập chung (trang 45)",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch2_bt",
+    "lessonId": "toan8_t1_ch2_bt",
+    "parentNodeId": "toan8_node_t1_ch2",
+    "nodeName": "Bài tập cuối chương II (trang 47)",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b10",
+    "lessonId": "toan8_t1_b10",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Bài 10: Tứ giác",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b11",
+    "lessonId": "toan8_t1_b11",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Bài 11: Hình thang cân",
+    "orderIndex": 17
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch3_ltc1",
+    "lessonId": "toan8_t1_ch3_ltc1",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Luyện tập chung (trang 56)",
+    "orderIndex": 18
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b12",
+    "lessonId": "toan8_t1_b12",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Bài 12: Hình bình hành",
+    "orderIndex": 19
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch3_ltc2",
+    "lessonId": "toan8_t1_ch3_ltc2",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Luyện tập chung (trang 62)",
+    "orderIndex": 20
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b13",
+    "lessonId": "toan8_t1_b13",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Bài 13: Hình chữ nhật",
+    "orderIndex": 21
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b14",
+    "lessonId": "toan8_t1_b14",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Bài 14: Hình thoi và hình vuông",
+    "orderIndex": 22
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch3_ltc3",
+    "lessonId": "toan8_t1_ch3_ltc3",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Luyện tập chung (trang 73)",
+    "orderIndex": 23
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch3_bt",
+    "lessonId": "toan8_t1_ch3_bt",
+    "parentNodeId": "toan8_node_t1_ch3",
+    "nodeName": "Bài tập cuối chương III (trang 74)",
+    "orderIndex": 24
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b15",
+    "lessonId": "toan8_t1_b15",
+    "parentNodeId": "toan8_node_t1_ch4",
+    "nodeName": "Bài 15: Định lí Thalès trong tam giác",
+    "orderIndex": 25
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b16",
+    "lessonId": "toan8_t1_b16",
+    "parentNodeId": "toan8_node_t1_ch4",
+    "nodeName": "Bài 16: Đường trung bình của tam giác",
+    "orderIndex": 26
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b17",
+    "lessonId": "toan8_t1_b17",
+    "parentNodeId": "toan8_node_t1_ch4",
+    "nodeName": "Bài 17: Tính chất đường phân giác của tam giác",
+    "orderIndex": 27
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch4_ltc",
+    "lessonId": "toan8_t1_ch4_ltc",
+    "parentNodeId": "toan8_node_t1_ch4",
+    "nodeName": "Luyện tập chung (trang 87)",
+    "orderIndex": 28
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch4_bt",
+    "lessonId": "toan8_t1_ch4_bt",
+    "parentNodeId": "toan8_node_t1_ch4",
+    "nodeName": "Bài tập cuối chương IV (trang 89)",
+    "orderIndex": 29
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b18",
+    "lessonId": "toan8_t1_b18",
+    "parentNodeId": "toan8_node_t1_ch5",
+    "nodeName": "Bài 18: Thu thập và phân loại dữ liệu",
+    "orderIndex": 30
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b19",
+    "lessonId": "toan8_t1_b19",
+    "parentNodeId": "toan8_node_t1_ch5",
+    "nodeName": "Bài 19: Biểu diễn dữ liệu bằng bảng, biểu đồ",
+    "orderIndex": 31
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_b20",
+    "lessonId": "toan8_t1_b20",
+    "parentNodeId": "toan8_node_t1_ch5",
+    "nodeName": "Bài 20: Phân tích số liệu thống kê dựa vào biểu đồ",
+    "orderIndex": 32
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch5_ltc",
+    "lessonId": "toan8_t1_ch5_ltc",
+    "parentNodeId": "toan8_node_t1_ch5",
+    "nodeName": "Luyện tập chung (trang 106)",
+    "orderIndex": 33
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_ch5_bt",
+    "lessonId": "toan8_t1_ch5_bt",
+    "parentNodeId": "toan8_node_t1_ch5",
+    "nodeName": "Bài tập cuối chương V (trang 109)",
+    "orderIndex": 34
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_hdtn_b1",
+    "lessonId": "toan8_t1_hdtn_b1",
+    "parentNodeId": "toan8_node_t1_hdtn",
+    "nodeName": "Công thức lãi kép (trang 111)",
+    "orderIndex": 35
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_hdtn_b2",
+    "lessonId": "toan8_t1_hdtn_b2",
+    "parentNodeId": "toan8_node_t1_hdtn",
+    "nodeName": "Thực hiện tính toán trên đa thức với phần mềm GeoGebra (trang 113)",
+    "orderIndex": 36
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_hdtn_b3",
+    "lessonId": "toan8_t1_hdtn_b3",
+    "parentNodeId": "toan8_node_t1_hdtn",
+    "nodeName": "Vẽ hình đơn giản với phần mềm GeoGebra (trang 115)",
+    "orderIndex": 37
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t1_hdtn_b4",
+    "lessonId": "toan8_t1_hdtn_b4",
+    "parentNodeId": "toan8_node_t1_hdtn",
+    "nodeName": "Phân tích đặc điểm khí hậu Việt Nam (trang 120)",
+    "orderIndex": 38
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b21",
+    "lessonId": "toan8_t2_b21",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Bài 21: Phân thức đại số",
+    "orderIndex": 39
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b22",
+    "lessonId": "toan8_t2_b22",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Bài 22: Tính chất cơ bản của phân thức đại số",
+    "orderIndex": 40
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch6_ltc1",
+    "lessonId": "toan8_t2_ch6_ltc1",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Luyện tập chung (trang 13)",
+    "orderIndex": 41
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b23",
+    "lessonId": "toan8_t2_b23",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Bài 23: Phép cộng và phép trừ phân thức đại số",
+    "orderIndex": 42
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b24",
+    "lessonId": "toan8_t2_b24",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Bài 24: Phép nhân và phép chia phân thức đại số",
+    "orderIndex": 43
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch6_ltc2",
+    "lessonId": "toan8_t2_ch6_ltc2",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Luyện tập chung (trang 23)",
+    "orderIndex": 44
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch6_bt",
+    "lessonId": "toan8_t2_ch6_bt",
+    "parentNodeId": "toan8_node_t2_ch6",
+    "nodeName": "Bài tập cuối chương VI (trang 25)",
+    "orderIndex": 45
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b25",
+    "lessonId": "toan8_t2_b25",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Bài 25: Phương trình bậc nhất một ẩn",
+    "orderIndex": 46
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b26",
+    "lessonId": "toan8_t2_b26",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Bài 26: Giải bài toán bằng cách lập phương trình",
+    "orderIndex": 47
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch7_ltc1",
+    "lessonId": "toan8_t2_ch7_ltc1",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Luyện tập chung (trang 37)",
+    "orderIndex": 48
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b27",
+    "lessonId": "toan8_t2_b27",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Bài 27: Khái niệm hàm số và đồ thị của hàm số",
+    "orderIndex": 49
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b28",
+    "lessonId": "toan8_t2_b28",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Bài 28: Hàm số bậc nhất và đồ thị của hàm số bậc nhất",
+    "orderIndex": 50
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b29",
+    "lessonId": "toan8_t2_b29",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Bài 29: Hệ số góc của đường thẳng",
+    "orderIndex": 51
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch7_ltc2",
+    "lessonId": "toan8_t2_ch7_ltc2",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Luyện tập chung (trang 55)",
+    "orderIndex": 52
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch7_bt",
+    "lessonId": "toan8_t2_ch7_bt",
+    "parentNodeId": "toan8_node_t2_ch7",
+    "nodeName": "Bài tập cuối chương VII (trang 57)",
+    "orderIndex": 53
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b30",
+    "lessonId": "toan8_t2_b30",
+    "parentNodeId": "toan8_node_t2_ch8",
+    "nodeName": "Bài 30: Kết quả có thể và kết quả thuận lợi",
+    "orderIndex": 54
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b31",
+    "lessonId": "toan8_t2_b31",
+    "parentNodeId": "toan8_node_t2_ch8",
+    "nodeName": "Bài 31: Cách tính xác suất của biến cố bằng tỉ số",
+    "orderIndex": 55
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b32",
+    "lessonId": "toan8_t2_b32",
+    "parentNodeId": "toan8_node_t2_ch8",
+    "nodeName": "Bài 32: Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng",
+    "orderIndex": 56
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch8_ltc",
+    "lessonId": "toan8_t2_ch8_ltc",
+    "parentNodeId": "toan8_node_t2_ch8",
+    "nodeName": "Luyện tập chung (trang 74)",
+    "orderIndex": 57
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch8_bt",
+    "lessonId": "toan8_t2_ch8_bt",
+    "parentNodeId": "toan8_node_t2_ch8",
+    "nodeName": "Bài tập cuối chương VIII (trang 76)",
+    "orderIndex": 58
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b33",
+    "lessonId": "toan8_t2_b33",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Bài 33: Hai tam giác đồng dạng",
+    "orderIndex": 59
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b34",
+    "lessonId": "toan8_t2_b34",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Bài 34: Ba trường hợp đồng dạng của hai tam giác",
+    "orderIndex": 60
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch9_ltc1",
+    "lessonId": "toan8_t2_ch9_ltc1",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Luyện tập chung (trang 91)",
+    "orderIndex": 61
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b35",
+    "lessonId": "toan8_t2_b35",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Bài 35: Định lí Pythagore và ứng dụng",
+    "orderIndex": 62
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b36",
+    "lessonId": "toan8_t2_b36",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Bài 36: Các trường hợp đồng dạng của hai tam giác vuông",
+    "orderIndex": 63
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b37",
+    "lessonId": "toan8_t2_b37",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Bài 37: Hình đồng dạng",
+    "orderIndex": 64
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch9_ltc2",
+    "lessonId": "toan8_t2_ch9_ltc2",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Luyện tập chung (trang 108)",
+    "orderIndex": 65
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch9_bt",
+    "lessonId": "toan8_t2_ch9_bt",
+    "parentNodeId": "toan8_node_t2_ch9",
+    "nodeName": "Bài tập cuối chương IX (trang 110)",
+    "orderIndex": 66
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b38",
+    "lessonId": "toan8_t2_b38",
+    "parentNodeId": "toan8_node_t2_ch10",
+    "nodeName": "Bài 38: Hình chóp tam giác đều",
+    "orderIndex": 67
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_b39",
+    "lessonId": "toan8_t2_b39",
+    "parentNodeId": "toan8_node_t2_ch10",
+    "nodeName": "Bài 39: Hình chóp tứ giác đều",
+    "orderIndex": 68
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch10_ltc",
+    "lessonId": "toan8_t2_ch10_ltc",
+    "parentNodeId": "toan8_node_t2_ch10",
+    "nodeName": "Luyện tập chung (trang 121)",
+    "orderIndex": 69
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_ch10_bt",
+    "lessonId": "toan8_t2_ch10_bt",
+    "parentNodeId": "toan8_node_t2_ch10",
+    "nodeName": "Bài tập cuối chương X (trang 123)",
+    "orderIndex": 70
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_hdtn_b1",
+    "lessonId": "toan8_t2_hdtn_b1",
+    "parentNodeId": "toan8_node_t2_hdtn",
+    "nodeName": "Một vài ứng dụng của hàm số bậc nhất trong tài chính (trang 125)",
+    "orderIndex": 71
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_hdtn_b2",
+    "lessonId": "toan8_t2_hdtn_b2",
+    "parentNodeId": "toan8_node_t2_hdtn",
+    "nodeName": "Ứng dụng định lí Thalès, định lí Pythagore và tam giác đồng dạng để đo chiều cao, khoảng cách (trang 128)",
+    "orderIndex": 72
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_hdtn_b3",
+    "lessonId": "toan8_t2_hdtn_b3",
+    "parentNodeId": "toan8_node_t2_hdtn",
+    "nodeName": "Thực hành tính toán trên phân thức đại số và vẽ đồ thị hàm số với phần mềm GeoGebra (trang 130)",
+    "orderIndex": 73
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_hdtn_b4",
+    "lessonId": "toan8_t2_hdtn_b4",
+    "parentNodeId": "toan8_node_t2_hdtn",
+    "nodeName": "Mô tả thí nghiệm ngẫu nhiên với phần mềm Excel (trang 133)",
+    "orderIndex": 74
+  },
+  {
+    "nodeId": "toan8_node_l_toan8_t2_otcn",
+    "lessonId": "toan8_t2_otcn",
+    "parentNodeId": "toan8_node_t2_otcn_cat",
+    "nodeName": "Bài tập ôn tập cuối năm (trang 135)",
+    "orderIndex": 75
+  }
+]

@@ -1,0 +1,849 @@
+[
+  {
+    "nodeId": "root_ta9",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "TIẾNG ANH 9 - GLOBAL SUCCESS",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "ta9_node_u1",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 1: Local Community",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u1_l1",
+    "lessonId": "tienganh9_u1_l1",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u1_l2",
+    "lessonId": "tienganh9_u1_l2",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u1_l3",
+    "lessonId": "tienganh9_u1_l3",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u1_l4",
+    "lessonId": "tienganh9_u1_l4",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u1_l5",
+    "lessonId": "tienganh9_u1_l5",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u1_l6",
+    "lessonId": "tienganh9_u1_l6",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u1_l7",
+    "lessonId": "tienganh9_u1_l7",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u1_l8",
+    "lessonId": "tienganh9_u1_l8",
+    "parentNodeId": "ta9_node_u1",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u2",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 2: City Life",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u2_l1",
+    "lessonId": "tienganh9_u2_l1",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u2_l2",
+    "lessonId": "tienganh9_u2_l2",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u2_l3",
+    "lessonId": "tienganh9_u2_l3",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u2_l4",
+    "lessonId": "tienganh9_u2_l4",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u2_l5",
+    "lessonId": "tienganh9_u2_l5",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u2_l6",
+    "lessonId": "tienganh9_u2_l6",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u2_l7",
+    "lessonId": "tienganh9_u2_l7",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u2_l8",
+    "lessonId": "tienganh9_u2_l8",
+    "parentNodeId": "ta9_node_u2",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u3",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 3: Healthy Living for Teens",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u3_l1",
+    "lessonId": "tienganh9_u3_l1",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u3_l2",
+    "lessonId": "tienganh9_u3_l2",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u3_l3",
+    "lessonId": "tienganh9_u3_l3",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u3_l4",
+    "lessonId": "tienganh9_u3_l4",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u3_l5",
+    "lessonId": "tienganh9_u3_l5",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u3_l6",
+    "lessonId": "tienganh9_u3_l6",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u3_l7",
+    "lessonId": "tienganh9_u3_l7",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u3_l8",
+    "lessonId": "tienganh9_u3_l8",
+    "parentNodeId": "ta9_node_u3",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_r1",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Review 1 (Units 1 - 2 - 3)",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_r1_l1",
+    "lessonId": "tienganh9_r1_l1",
+    "parentNodeId": "ta9_node_r1",
+    "nodeName": "Review 1 - Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_r1_l2",
+    "lessonId": "tienganh9_r1_l2",
+    "parentNodeId": "ta9_node_r1",
+    "nodeName": "Review 1 - Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u4",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 4: Remembering the Past",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u4_l1",
+    "lessonId": "tienganh9_u4_l1",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u4_l2",
+    "lessonId": "tienganh9_u4_l2",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u4_l3",
+    "lessonId": "tienganh9_u4_l3",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u4_l4",
+    "lessonId": "tienganh9_u4_l4",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u4_l5",
+    "lessonId": "tienganh9_u4_l5",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u4_l6",
+    "lessonId": "tienganh9_u4_l6",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u4_l7",
+    "lessonId": "tienganh9_u4_l7",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u4_l8",
+    "lessonId": "tienganh9_u4_l8",
+    "parentNodeId": "ta9_node_u4",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u5",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 5: Our Experiences",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u5_l1",
+    "lessonId": "tienganh9_u5_l1",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u5_l2",
+    "lessonId": "tienganh9_u5_l2",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u5_l3",
+    "lessonId": "tienganh9_u5_l3",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u5_l4",
+    "lessonId": "tienganh9_u5_l4",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u5_l5",
+    "lessonId": "tienganh9_u5_l5",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u5_l6",
+    "lessonId": "tienganh9_u5_l6",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u5_l7",
+    "lessonId": "tienganh9_u5_l7",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u5_l8",
+    "lessonId": "tienganh9_u5_l8",
+    "parentNodeId": "ta9_node_u5",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u6",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 6: Vietnamese Lifestyle: Then and Now",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u6_l1",
+    "lessonId": "tienganh9_u6_l1",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u6_l2",
+    "lessonId": "tienganh9_u6_l2",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u6_l3",
+    "lessonId": "tienganh9_u6_l3",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u6_l4",
+    "lessonId": "tienganh9_u6_l4",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u6_l5",
+    "lessonId": "tienganh9_u6_l5",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u6_l6",
+    "lessonId": "tienganh9_u6_l6",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u6_l7",
+    "lessonId": "tienganh9_u6_l7",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u6_l8",
+    "lessonId": "tienganh9_u6_l8",
+    "parentNodeId": "ta9_node_u6",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_r2",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Review 2 (Units 4 - 5 - 6)",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_r2_l1",
+    "lessonId": "tienganh9_r2_l1",
+    "parentNodeId": "ta9_node_r2",
+    "nodeName": "Review 2 - Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_r2_l2",
+    "lessonId": "tienganh9_r2_l2",
+    "parentNodeId": "ta9_node_r2",
+    "nodeName": "Review 2 - Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u7",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 7: Natural Wonders of the World",
+    "orderIndex": 9
+  },
+  {
+    "nodeId": "ta9_node_u7_l1",
+    "lessonId": "tienganh9_u7_l1",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u7_l2",
+    "lessonId": "tienganh9_u7_l2",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u7_l3",
+    "lessonId": "tienganh9_u7_l3",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u7_l4",
+    "lessonId": "tienganh9_u7_l4",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u7_l5",
+    "lessonId": "tienganh9_u7_l5",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u7_l6",
+    "lessonId": "tienganh9_u7_l6",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u7_l7",
+    "lessonId": "tienganh9_u7_l7",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u7_l8",
+    "lessonId": "tienganh9_u7_l8",
+    "parentNodeId": "ta9_node_u7",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u8",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 8: Tourism",
+    "orderIndex": 10
+  },
+  {
+    "nodeId": "ta9_node_u8_l1",
+    "lessonId": "tienganh9_u8_l1",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u8_l2",
+    "lessonId": "tienganh9_u8_l2",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u8_l3",
+    "lessonId": "tienganh9_u8_l3",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u8_l4",
+    "lessonId": "tienganh9_u8_l4",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u8_l5",
+    "lessonId": "tienganh9_u8_l5",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u8_l6",
+    "lessonId": "tienganh9_u8_l6",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u8_l7",
+    "lessonId": "tienganh9_u8_l7",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u8_l8",
+    "lessonId": "tienganh9_u8_l8",
+    "parentNodeId": "ta9_node_u8",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u9",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 9: World Englishes",
+    "orderIndex": 11
+  },
+  {
+    "nodeId": "ta9_node_u9_l1",
+    "lessonId": "tienganh9_u9_l1",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u9_l2",
+    "lessonId": "tienganh9_u9_l2",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u9_l3",
+    "lessonId": "tienganh9_u9_l3",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u9_l4",
+    "lessonId": "tienganh9_u9_l4",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u9_l5",
+    "lessonId": "tienganh9_u9_l5",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u9_l6",
+    "lessonId": "tienganh9_u9_l6",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u9_l7",
+    "lessonId": "tienganh9_u9_l7",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u9_l8",
+    "lessonId": "tienganh9_u9_l8",
+    "parentNodeId": "ta9_node_u9",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_r3",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Review 3 (Units 7 - 8 - 9)",
+    "orderIndex": 12
+  },
+  {
+    "nodeId": "ta9_node_r3_l1",
+    "lessonId": "tienganh9_r3_l1",
+    "parentNodeId": "ta9_node_r3",
+    "nodeName": "Review 3 - Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_r3_l2",
+    "lessonId": "tienganh9_r3_l2",
+    "parentNodeId": "ta9_node_r3",
+    "nodeName": "Review 3 - Skills",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u10",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 10: Planet Earth",
+    "orderIndex": 13
+  },
+  {
+    "nodeId": "ta9_node_u10_l1",
+    "lessonId": "tienganh9_u10_l1",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u10_l2",
+    "lessonId": "tienganh9_u10_l2",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u10_l3",
+    "lessonId": "tienganh9_u10_l3",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u10_l4",
+    "lessonId": "tienganh9_u10_l4",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u10_l5",
+    "lessonId": "tienganh9_u10_l5",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u10_l6",
+    "lessonId": "tienganh9_u10_l6",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u10_l7",
+    "lessonId": "tienganh9_u10_l7",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u10_l8",
+    "lessonId": "tienganh9_u10_l8",
+    "parentNodeId": "ta9_node_u10",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u11",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 11: Electronic Devices",
+    "orderIndex": 14
+  },
+  {
+    "nodeId": "ta9_node_u11_l1",
+    "lessonId": "tienganh9_u11_l1",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u11_l2",
+    "lessonId": "tienganh9_u11_l2",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u11_l3",
+    "lessonId": "tienganh9_u11_l3",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u11_l4",
+    "lessonId": "tienganh9_u11_l4",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u11_l5",
+    "lessonId": "tienganh9_u11_l5",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u11_l6",
+    "lessonId": "tienganh9_u11_l6",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u11_l7",
+    "lessonId": "tienganh9_u11_l7",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u11_l8",
+    "lessonId": "tienganh9_u11_l8",
+    "parentNodeId": "ta9_node_u11",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_u12",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Unit 12: Career Choices",
+    "orderIndex": 15
+  },
+  {
+    "nodeId": "ta9_node_u12_l1",
+    "lessonId": "tienganh9_u12_l1",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "Getting Started",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_u12_l2",
+    "lessonId": "tienganh9_u12_l2",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "A Closer Look 1",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "ta9_node_u12_l3",
+    "lessonId": "tienganh9_u12_l3",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "A Closer Look 2",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "ta9_node_u12_l4",
+    "lessonId": "tienganh9_u12_l4",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "Communication",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "ta9_node_u12_l5",
+    "lessonId": "tienganh9_u12_l5",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "Skills 1",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "ta9_node_u12_l6",
+    "lessonId": "tienganh9_u12_l6",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "Skills 2",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "ta9_node_u12_l7",
+    "lessonId": "tienganh9_u12_l7",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "Looking Back",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "ta9_node_u12_l8",
+    "lessonId": "tienganh9_u12_l8",
+    "parentNodeId": "ta9_node_u12",
+    "nodeName": "Project",
+    "orderIndex": 8
+  },
+  {
+    "nodeId": "ta9_node_r4",
+    "lessonId": null,
+    "parentNodeId": "root_ta9",
+    "nodeName": "Review 4 (Units 10 - 11 - 12)",
+    "orderIndex": 16
+  },
+  {
+    "nodeId": "ta9_node_r4_l1",
+    "lessonId": "tienganh9_r4_l1",
+    "parentNodeId": "ta9_node_r4",
+    "nodeName": "Review 4 - Language",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "ta9_node_r4_l2",
+    "lessonId": "tienganh9_r4_l2",
+    "parentNodeId": "ta9_node_r4",
+    "nodeName": "Review 4 - Skills",
+    "orderIndex": 2
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "nodeId": "root_sudia8",
+    "lessonId": null,
+    "parentNodeId": null,
+    "nodeName": "LỊCH SỬ VÀ ĐỊA LÍ 8 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG",
+    "orderIndex": 0
+  },
+  {
+    "nodeId": "sudia8_node_lichsu",
+    "lessonId": null,
+    "parentNodeId": "root_sudia8",
+    "nodeName": "Phần Một: Lịch sử",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_diali",
+    "lessonId": null,
+    "parentNodeId": "root_sudia8",
+    "nodeName": "Phần Hai: Địa lí",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_chudechung",
+    "lessonId": null,
+    "parentNodeId": "root_sudia8",
+    "nodeName": "Các chủ đề chung",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_l_ch1",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 1. Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_ch2",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 2. Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_l_ch3",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 3. Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_l_ch4",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 4. Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia8_node_l_ch5",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 5. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia8_node_l_ch6",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 6. Châu Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+    "orderIndex": 6
+  },
+  {
+    "nodeId": "sudia8_node_l_ch7",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_lichsu",
+    "nodeName": "Chương 7. Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX",
+    "orderIndex": 7
+  },
+  {
+    "nodeId": "sudia8_node_d_ch1",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_diali",
+    "nodeName": "Chương 1. Vị trí địa lí và phạm vi lãnh thổ, địa hình và khoáng sản Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_d_ch2",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_diali",
+    "nodeName": "Chương 2. Khí hậu và thuỷ văn Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_d_ch3",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_diali",
+    "nodeName": "Chương 3. Thổ nhưỡng và sinh vật Việt Nam",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_d_ch4",
+    "lessonId": null,
+    "parentNodeId": "sudia8_node_diali",
+    "nodeName": "Chương 4. Biển đảo Việt Nam",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia8_node_l_b1_leaf",
+    "lessonId": "sudia8_l_b1",
+    "parentNodeId": "sudia8_node_l_ch1",
+    "nodeName": "Bài 1: Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b2_leaf",
+    "lessonId": "sudia8_l_b2",
+    "parentNodeId": "sudia8_node_l_ch1",
+    "nodeName": "Bài 2: Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_l_b3_leaf",
+    "lessonId": "sudia8_l_b3",
+    "parentNodeId": "sudia8_node_l_ch1",
+    "nodeName": "Bài 3: Cách mạng công nghiệp (nửa sau thế kỉ XVIII - giữa thế kỉ XIX)",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_l_b4_leaf",
+    "lessonId": "sudia8_l_b4",
+    "parentNodeId": "sudia8_node_l_ch2",
+    "nodeName": "Bài 4: Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b5_leaf",
+    "lessonId": "sudia8_l_b5",
+    "parentNodeId": "sudia8_node_l_ch3",
+    "nodeName": "Bài 5: Cuộc xung đột Nam - Bắc triều và Trịnh - Nguyễn",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b6_leaf",
+    "lessonId": "sudia8_l_b6",
+    "parentNodeId": "sudia8_node_l_ch3",
+    "nodeName": "Bài 6: Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_l_b7_leaf",
+    "lessonId": "sudia8_l_b7",
+    "parentNodeId": "sudia8_node_l_ch3",
+    "nodeName": "Bài 7: Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_l_b8_leaf",
+    "lessonId": "sudia8_l_b8",
+    "parentNodeId": "sudia8_node_l_ch3",
+    "nodeName": "Bài 8: Phong trào Tây Sơn",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia8_node_l_b9_leaf",
+    "lessonId": "sudia8_l_b9",
+    "parentNodeId": "sudia8_node_l_ch3",
+    "nodeName": "Bài 9: Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI - XVIII",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia8_node_l_b10_leaf",
+    "lessonId": "sudia8_l_b10",
+    "parentNodeId": "sudia8_node_l_ch4",
+    "nodeName": "Bài 10: Sự hình thành chủ nghĩa đế quốc ở các nước Âu - Mỹ (cuối thế kỉ XIX - đầu thế kỉ XX)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b11_leaf",
+    "lessonId": "sudia8_l_b11",
+    "parentNodeId": "sudia8_node_l_ch4",
+    "nodeName": "Bài 11: Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_l_b12_leaf",
+    "lessonId": "sudia8_l_b12",
+    "parentNodeId": "sudia8_node_l_ch4",
+    "nodeName": "Bài 12: Chiến tranh thế giới thứ nhất (1914 - 1918) và Cách mạng tháng Mười Nga năm 1917",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_l_b13_leaf",
+    "lessonId": "sudia8_l_b13",
+    "parentNodeId": "sudia8_node_l_ch5",
+    "nodeName": "Bài 13: Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b14_leaf",
+    "lessonId": "sudia8_l_b14",
+    "parentNodeId": "sudia8_node_l_ch6",
+    "nodeName": "Bài 14: Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b15_leaf",
+    "lessonId": "sudia8_l_b15",
+    "parentNodeId": "sudia8_node_l_ch6",
+    "nodeName": "Bài 15: Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_l_b16_leaf",
+    "lessonId": "sudia8_l_b16",
+    "parentNodeId": "sudia8_node_l_ch7",
+    "nodeName": "Bài 16: Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_l_b17_leaf",
+    "lessonId": "sudia8_l_b17",
+    "parentNodeId": "sudia8_node_l_ch7",
+    "nodeName": "Bài 17: Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_l_b18_leaf",
+    "lessonId": "sudia8_l_b18",
+    "parentNodeId": "sudia8_node_l_ch7",
+    "nodeName": "Bài 18: Phong trào chống Pháp trong những năm 1885 - 1896",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_l_b19_leaf",
+    "lessonId": "sudia8_l_b19",
+    "parentNodeId": "sudia8_node_l_ch7",
+    "nodeName": "Bài 19: Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia8_node_d_b1_leaf",
+    "lessonId": "sudia8_d_b1",
+    "parentNodeId": "sudia8_node_d_ch1",
+    "nodeName": "Bài 1: Vị trí địa lí và phạm vi lãnh thổ Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_d_b2_leaf",
+    "lessonId": "sudia8_d_b2",
+    "parentNodeId": "sudia8_node_d_ch1",
+    "nodeName": "Bài 2: Địa hình Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_d_b3_leaf",
+    "lessonId": "sudia8_d_b3",
+    "parentNodeId": "sudia8_node_d_ch1",
+    "nodeName": "Bài 3: Khoáng sản Việt Nam",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_d_b4_leaf",
+    "lessonId": "sudia8_d_b4",
+    "parentNodeId": "sudia8_node_d_ch2",
+    "nodeName": "Bài 4: Khí hậu Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_d_b5_leaf",
+    "lessonId": "sudia8_d_b5",
+    "parentNodeId": "sudia8_node_d_ch2",
+    "nodeName": "Bài 5: Thực hành: Đọc biểu đồ khí hậu",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_d_b6_leaf",
+    "lessonId": "sudia8_d_b6",
+    "parentNodeId": "sudia8_node_d_ch2",
+    "nodeName": "Bài 6: Thuỷ văn Việt Nam",
+    "orderIndex": 3
+  },
+  {
+    "nodeId": "sudia8_node_d_b7_leaf",
+    "lessonId": "sudia8_d_b7",
+    "parentNodeId": "sudia8_node_d_ch2",
+    "nodeName": "Bài 7: Vai trò của tài nguyên khí hậu và tài nguyên nước đối với sự phát triển kinh tế - xã hội của nước ta",
+    "orderIndex": 4
+  },
+  {
+    "nodeId": "sudia8_node_d_b8_leaf",
+    "lessonId": "sudia8_d_b8",
+    "parentNodeId": "sudia8_node_d_ch2",
+    "nodeName": "Bài 8: Tác động của biến đổi khí hậu đối với tự nhiên Việt Nam",
+    "orderIndex": 5
+  },
+  {
+    "nodeId": "sudia8_node_d_b9_leaf",
+    "lessonId": "sudia8_d_b9",
+    "parentNodeId": "sudia8_node_d_ch3",
+    "nodeName": "Bài 9: Thổ nhưỡng Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_d_b10_leaf",
+    "lessonId": "sudia8_d_b10",
+    "parentNodeId": "sudia8_node_d_ch3",
+    "nodeName": "Bài 10: Sinh vật Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_d_b11_leaf",
+    "lessonId": "sudia8_d_b11",
+    "parentNodeId": "sudia8_node_d_ch4",
+    "nodeName": "Bài 11: Phạm vi Biển Đông. Vùng biển đảo và đặc điểm tự nhiên vùng biển đảo Việt Nam",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_d_b12_leaf",
+    "lessonId": "sudia8_d_b12",
+    "parentNodeId": "sudia8_node_d_ch4",
+    "nodeName": "Bài 12: Môi trường và tài nguyên biển đảo Việt Nam",
+    "orderIndex": 2
+  },
+  {
+    "nodeId": "sudia8_node_cdc_b1_leaf",
+    "lessonId": "sudia8_cdc_1",
+    "parentNodeId": "sudia8_node_chudechung",
+    "nodeName": "Chủ đề chung 1: Văn minh châu thổ sông Hồng và sông Cửu Long",
+    "orderIndex": 1
+  },
+  {
+    "nodeId": "sudia8_node_cdc_b2_leaf",
+    "lessonId": "sudia8_cdc_2",
+    "parentNodeId": "sudia8_node_chudechung",
+    "nodeName": "Chủ đề chung 2: Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+    "orderIndex": 2
+  }
+]

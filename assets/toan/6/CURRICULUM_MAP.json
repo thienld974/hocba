@@ -1,0 +1,562 @@
+[
+  {
+    "lessonId": "toan6_t1_b1",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 1. Tập hợp: - Khái niệm tập hợp: Tập hợp là một khái niệm cơ bản của toán học dùng để chỉ một nhóm đối tượng có cùng đặc điểm. Các đối tượng này gọi là các phần tử của tập hợp.\n- Ký hiệu: Sử dụng các chữ cái in hoa để đặt tên tập hợp. Nếu phần tử x thuộc tập hợp A, ký hiệu x ∈ A. Nếu phần tử y không thuộc tập hợp A, ký hiệu y ∉ A.\n- Hai cách mô tả tập hợp: \n  1. Liệt kê các phần tử: viết các phần tử trong dấu ngoặc nhọn { }, cách nhau bởi dấu chấm phẩy (;), mỗi phần tử chỉ được liệt kê một lần.\n  2. Chỉ ra tính chất đặc trưng cho các phần tử.\n- Ký hiệu tập hợp số tự nhiên: N = {0; 1; 2; 3; ...}, N* = {1; 2; 3; ...} là tập hợp các số tự nhiên khác 0.\n- Từ khóa: Tập hợp, phần tử, thuộc (∈), không thuộc (∉), tập hợp số tự nhiên N, N*."
+  },
+  {
+    "lessonId": "toan6_t1_b2",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 2. Cách ghi số tự nhiên: - Hệ thập phân: Cách ghi số tự nhiên trong hệ thập phân sử dụng 10 chữ số: 0; 1; 2; 3; 4; 5; 6; 7; 8; 9. Trong đó, cứ 10 đơn vị ở một hàng thì bằng 1 đơn vị ở hàng liền trước nó.\n- Giá trị của các chữ số: Mỗi số tự nhiên viết trong hệ thập phân đều biểu diễn được thành tổng giá trị các chữ số của nó. Ví dụ: ab = a * 10 + b, abc = a * 100 + b * 10 + c (với a khác 0).\n- Số La Mã: Sử dụng ba ký tự cơ bản I (1), V (5), X (10) và các cụm ghép như IV (4), IX (9) để ghi các số tự nhiên từ 1 đến 30.\n- Từ khóa: Hệ thập phân, chữ số, số La Mã, chữ số La Mã."
+  },
+  {
+    "lessonId": "toan6_t1_b3",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 3,
+    "lessonContent": "Bài 3. Thứ tự trong tập hợp các số tự nhiên: - Điểm biểu diễn: Trên tia số, điểm biểu diễn số tự nhiên a gọi là điểm a.\n- So sánh hai số tự nhiên: Trong hai số tự nhiên khác nhau, luôn có một số nhỏ hơn số kia. Nếu số a nhỏ hơn số b, trên tia số nằm ngang điểm a nằm bên trái điểm b, ký hiệu a < b hoặc b > a.\n- Ký hiệu ≤ và ≥: Ký hiệu a ≤ b nghĩa là a < b hoặc a = b. Ký hiệu a ≥ b nghĩa là a > b hoặc a = b.\n- Tính chất bắc cầu: Nếu a < b và b < c thì a < c.\n- Số liền trước và liền sau: Mỗi số tự nhiên khác 0 có một số liền trước và một số liền sau duy nhất. Hai số tự nhiên liên tiếp hơn kém nhau 1 đơn vị. Số 0 là số tự nhiên nhỏ nhất và không có số liền trước.\n- Từ khóa: Điểm biểu diễn một số, hai số tự nhiên liên tiếp, số liền trước, số liền sau, so sánh."
+  },
+  {
+    "lessonId": "toan6_t1_b4",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 4. Phép cộng và phép trừ số tự nhiên: - Phép cộng số tự nhiên: a + b = c (trong đó a, b là số hạng, c là tổng). Có thể minh họa phép cộng trên tia số.\n- Tính chất của phép cộng: \n  1. Giao hoán: a + b = b + a\n  2. Kết hợp: (a + b) + c = a + (b + c)\n  3. Cộng với số 0: a + 0 = 0 + a = a.\n- Phép trừ số tự nhiên: Cho hai số tự nhiên a, b, nếu có số tự nhiên c sao cho b + c = a thì ta có phép trừ a - b = c (trong đó a là số bị trừ, b là số trừ, c là hiệu). Phép trừ chỉ thực hiện được trong tập số tự nhiên nếu a ≥ b.\n- Từ khóa: Phép cộng, phép trừ, số hạng, tổng, số bị trừ, số trừ, hiệu, tính chất giao hoán, kết hợp."
+  },
+  {
+    "lessonId": "toan6_t1_b5",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 5. Phép nhân và phép chia số tự nhiên: - Phép nhân số tự nhiên: a * b = c (trong đó a, b là thừa số, c là tích). Nếu các thừa số đều bằng chữ hoặc chỉ có một thừa số bằng số thì có thể bỏ dấu nhân.\n- Tính chất của phép nhân: \n  1. Giao hoán: a * b = b * a\n  2. Kết hợp: (a * b) * c = a * (b * c)\n  3. Phân phối của phép nhân đối với phép cộng: a * (b + c) = a * b + a * c.\n  4. Nhân với số 1: a * 1 = 1 * a = a; Nhân với số 0: a * 0 = 0.\n- Phép chia: Cho hai số tự nhiên a, b (b khác 0), luôn tìm được đúng hai số tự nhiên q và r sao cho a = b * q + r (với 0 ≤ r < b).\n  + Nếu r = 0: Ta có phép chia hết a : b = q (a là số bị chia, b là số chia, q là thương).\n  + Nếu r khác 0: Ta có phép chia có dư a : b = q (dư r) (a là số bị chia, b là số chia, q là thương, r là số dư. Số dư luôn nhỏ hơn số chia).\n- Từ khóa: Phép nhân, thừa số, tích, phép chia hết, phép chia có dư, số bị chia, số chia, thương, số dư."
+  },
+  {
+    "lessonId": "toan6_t1_ltc1",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 6,
+    "lessonContent": "Luyện tập chung (Trang 20): - Ôn tập hệ thập phân: Củng cố kỹ năng tìm giá trị các chữ số của số tự nhiên, viết số thành tổng các chữ số.\n- Tính nhẩm và tính hợp lý: Áp dụng các tính chất giao hoán, kết hợp của phép cộng và phép nhân để tính toán nhanh, thuận tiện.\n- Giải toán thực tế: Áp dụng các phép tính cộng, trừ, nhân, chia để giải quyết các bài toán về kinh tế, đo lường thời gian, khoảng cách."
+  },
+  {
+    "lessonId": "toan6_t1_b6",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 7,
+    "lessonContent": "Bài 6. Luỹ thừa với số mũ tự nhiên: - Lũy thừa bậc n: Lũy thừa bậc n của số tự nhiên a là tích của n thừa số bằng nhau, mỗi thừa số bằng a: a^n = a * a * ... * a (với n thừa số a, n thuộc N*). Ký hiệu a là cơ số, n là số mũ.\n- Quy ước: a^1 = a, a^2 gọi là bình phương (hay bình phương của a), a^3 gọi là lập phương (hay lập phương của a). Số chính phương là số bằng bình phương của một số tự nhiên.\n- Nhân hai lũy thừa cùng cơ số: a^m * a^n = a^(m + n).\n- Chia hai lũy thừa cùng cơ số: a^m : a^n = a^(m - n) (với a khác 0, m ≥ n). Quy ước a^0 = 1 (a khác 0).\n- Từ khóa: Lũy thừa, cơ số, số mũ, bình phương, lập phương, số chính phương."
+  },
+  {
+    "lessonId": "toan6_t1_b7",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 8,
+    "lessonContent": "Bài 7. Thứ tự thực hiện các phép tính: - Biểu thức: Một dãy các phép tính liên kết các số gọi là biểu thức.\n- Thứ tự thực hiện đối với biểu thức không có dấu ngoặc:\n  Lũy thừa → Nhân và chia → Cộng và trừ (thực hiện từ trái sang phải nếu chỉ có nhân chia hoặc chỉ có cộng trừ).\n- Thứ tự thực hiện đối với biểu thức có dấu ngoặc:\n  Ngoặc tròn ( ) → Ngoặc vuông [ ] → Ngoặc nhọn { }.\n- Từ khóa: Biểu thức, giá trị của một biểu thức, thứ tự thực hiện các phép tính."
+  },
+  {
+    "lessonId": "toan6_t1_ltc2",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 9,
+    "lessonContent": "Luyện tập chung (Trang 27): - Củng cố thứ tự thực hiện phép tính: Thực hành tính giá trị các biểu thức phức tạp có chứa dấu ngoặc tròn, vuông, nhọn và lũy thừa.\n- Giải toán hình học thực tế: Tính toán số lượng khối lập phương, thể tích hình khối ghép từ các khối lập phương dựa trên công thức nhân chia lũy thừa.\n- Giải toán thực tế tổng hợp: Tính chi phí, quãng đường, thời gian bằng cách lập biểu thức chứa chữ."
+  },
+  {
+    "lessonId": "toan6_t1_btcc1",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương I. Tập hợp các số tự nhiên",
+    "lessonOrder": 10,
+    "lessonContent": "Bài tập cuối chương I: - Tổng hợp kiến thức Chương I: Ôn tập về tập hợp, các chữ số tự nhiên, so sánh, các phép toán cộng, trừ, nhân, chia, lũy thừa và thứ tự thực hiện phép tính.\n- Kỹ năng giải bài tập: Rèn luyện giải các bài tập trắc nghiệm và tự luận tổng hợp cuối chương I để củng cố vững chắc kiến thức nền tảng số học."
+  },
+  {
+    "lessonId": "toan6_t1_b8",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 8. Quan hệ chia hết và tính chất: - Khái niệm chia hết: Cho hai số tự nhiên a, b (b khác 0). Nếu có số tự nhiên k sao cho a = b * k thì ta nói a chia hết cho b, ký hiệu a ⋮ b. Nếu a không chia hết cho b, ký hiệu a ∉ b (gạch chéo dấu chia hết).\n- Ước và bội: Nếu a ⋮ b, ta nói b là ước của a (ký hiệu Ư(a)) và a là bội của b (ký hiệu B(b)).\n- Cách tìm ước và bội:\n  + Muốn tìm các ước của a (a > 1), ta lần lượt chia a cho các số tự nhiên từ 1 đến a để xem a chia hết cho những số nào.\n  + Muốn tìm các bội của b (b khác 0), ta nhân b lần lượt với 0; 1; 2; 3; ...\n- Tính chất chia hết của một tổng:\n  + Tính chất 1 (chia hết): Nếu tất cả các số hạng của một tổng đều chia hết cho cùng một số thì tổng chia hết cho số đó. (a ⋮ m, b ⋮ m => (a+b) ⋮ m).\n  + Tính chất 2 (không chia hết): Nếu có một số hạng của tổng không chia hết cho một số, các số hạng còn lại đều chia hết cho số đó thì tổng không chia hết cho số đó.\n- Từ khóa: Chia hết, ước, bội, tập hợp ước Ư(a), tập hợp bội B(b), tính chất chia hết của một tổng."
+  },
+  {
+    "lessonId": "toan6_t1_b9",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 9. Dấu hiệu chia hết: - Dấu hiệu chia hết cho 2 và 5:\n  + Cho 2: Các số có chữ số tận cùng là 0; 2; 4; 6; 8 (chữ số chẵn) thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n  + Cho 5: Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n- Dấu hiệu chia hết cho 9 và 3:\n  + Cho 9: Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\n  + Cho 3: Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\n- Từ khóa: Dấu hiệu chia hết cho 2, cho 5, cho 9, cho 3."
+  },
+  {
+    "lessonId": "toan6_t1_b10",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 13,
+    "lessonContent": "Bài 10. Số nguyên tố: - Định nghĩa:\n  + Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\n  + Hợp số là số tự nhiên lớn hơn 1, có nhiều hơn hai ước.\n  + Chú ý: Số 0 và số 1 không là số nguyên tố và cũng không là hợp số.\n- Phân tích một số ra thừa số nguyên tố: Là viết số đó dưới dạng tích của các thừa số nguyên tố. Mọi hợp số đều phân tích được ra thừa số nguyên tố và kết quả là duy nhất (không kể thứ tự các thừa số).\n- Phương pháp phân tích: Sơ đồ cây hoặc sơ đồ cột. Khi viết kết quả thường viết các thừa số theo thứ tự từ bé đến lớn và viết gọn các thừa số giống nhau dưới dạng lũy thừa.\n- Từ khóa: Số nguyên tố, hợp số, phân tích ra thừa số nguyên tố, sơ đồ cây, sơ đồ cột."
+  },
+  {
+    "lessonId": "toan6_t1_ltc3",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 14,
+    "lessonContent": "Luyện tập chung (Trang 43): - Củng cố chia hết và ước bội: Thực hành tìm ước, tìm bội của một số trong các điều kiện ràng buộc.\n- Ứng dụng dấu hiệu chia hết: Sử dụng dấu hiệu chia hết cho 2, 3, 5, 9 để giải các bài toán tìm chữ số thích hợp.\n- Thực hành phân tích thừa số nguyên tố: Phân tích nhanh các hợp số lớn ra thừa số nguyên tố bằng sơ đồ cột hoặc sơ đồ cây và áp dụng giải toán phân chia đội ngũ."
+  },
+  {
+    "lessonId": "toan6_t1_b11",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 11. Ước chung. Ước chung lớn nhất: - Ước chung (ƯC): Ước chung của hai hay nhiều số là ước của tất cả các số đó. Tập hợp các ước chung của a và b ký hiệu là ƯC(a, b).\n- Ước chung lớn nhất (ƯCLN): ƯCLN của hai hay nhiều số là số lớn nhất trong tập hợp các ước chung của các số đó. Ký hiệu ƯCLN(a, b).\n- Tìm ƯCLN bằng cách phân tích ra thừa số nguyên tố:\n  + Bước 1: Phân tích mỗi số ra thừa số nguyên tố.\n  + Bước 2: Chọn ra các thừa số nguyên tố chung.\n  + Bước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất của nó. Tích đó là ƯCLN phải tìm.\n- Hai số nguyên tố cùng nhau: Là hai số có ƯCLN bằng 1.\n- Ứng dụng rút gọn phân số: Rút gọn phân số về phân số tối giản bằng cách chia cả tử và mẫu cho ƯCLN của chúng.\n- Từ khóa: Ước chung, ước chung lớn nhất, số nguyên tố cùng nhau, phân số tối giản."
+  },
+  {
+    "lessonId": "toan6_t1_b12",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 12. Bội chung. Bội chung nhỏ nhất: - Bội chung (BC): Bội chung của hai hay nhiều số là bội của tất cả các số đó. Tập hợp bội chung của a và b ký hiệu là BC(a, b).\n- Bội chung nhỏ nhất (BCNN): BCNN của hai hay nhiều số là số nhỏ nhất khác 0 trong tập hợp các bội chung của các số đó. Ký hiệu BCNN(a, b).\n- Tìm BCNN bằng cách phân tích ra thừa số nguyên tố:\n  + Bước 1: Phân tích mỗi số ra thừa số nguyên tố.\n  + Bước 2: Chọn ra các thừa số nguyên tố chung và riêng.\n  + Bước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất của nó. Tích đó là BCNN phải tìm.\n- Ứng dụng quy đồng mẫu số các phân số: Tìm mẫu số chung bằng cách tìm BCNN của các mẫu số.\n- Từ khóa: Bội chung, bội chung nhỏ nhất, quy đồng mẫu số."
+  },
+  {
+    "lessonId": "toan6_t1_ltc4",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 17,
+    "lessonContent": "Luyện tập chung (Trang 54): - So sánh và vận dụng ƯCLN, BCNN: Thực hành tìm ƯCLN và BCNN của nhiều số. So sánh tích ƯCLN(a, b) * BCNN(a, b) với tích a * b.\n- Vận dụng giải toán thực tế: Áp dụng ƯCLN để giải bài toán chia tổ, chia quà, tìm kích thước gạch lát nền lớn nhất. Áp dụng BCNN để giải bài toán chu kỳ gặp nhau, thời gian lặp lại của tín hiệu đèn, lịch xuất bến xe buýt.\n- Quy đồng mẫu số phân số: Thực hành tìm mẫu số chung nhỏ nhất và thực hiện phép tính cộng trừ phân số."
+  },
+  {
+    "lessonId": "toan6_t1_btcc2",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+    "lessonOrder": 18,
+    "lessonContent": "Bài tập cuối chương II: - Tổng hợp kiến thức Chương II: Ôn tập các khái niệm quan hệ chia hết, dấu hiệu chia hết, số nguyên tố, ước chung, bội chung, ƯCLN, BCNN.\n- Bài tập tự luyện: Giải các bài tập tổng hợp về chia hết, tìm số dư, phân tích thừa số nguyên tố, tìm ƯCLN/BCNN và giải các bài toán dân gian cổ (bài toán trăm vịt)."
+  },
+  {
+    "lessonId": "toan6_t1_b13",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 19,
+    "lessonContent": "Bài 13. Tập hợp các số nguyên: - Khái niệm số nguyên âm: Số nguyên âm được ghi bằng dấu trừ '-' đứng trước một số tự nhiên khác 0. Số nguyên âm được dùng để chỉ nhiệt độ dưới 0 độ C, độ cao dưới mực nước biển, số tiền nợ, số tiền lỗ,...\n- Tập hợp số nguyên: Gồm các số nguyên âm, số 0 và các số nguyên dương. Ký hiệu là Z = {..., -3; -2; -1; 0; 1; 2; 3; ...}.\n- Trục số: Biểu diễn các số nguyên trên một đường thẳng có hướng gọi là trục số. Điểm 0 là điểm gốc, chiều từ trái sang phải là chiều dương, từ phải sang trái là chiều âm.\n- So sánh hai số nguyên: \n  + Trên trục số nằm ngang, điểm biểu diễn số nguyên nhỏ hơn nằm bên trái điểm biểu diễn số nguyên lớn hơn.\n  + Mọi số nguyên âm đều nhỏ hơn 0, mọi số nguyên dương đều lớn hơn 0.\n  + So sánh hai số nguyên âm: Số nào có phần số tự nhiên lớn hơn thì số đó nhỏ hơn.\n- Từ khóa: Số nguyên, số nguyên dương, số nguyên âm, tập hợp số nguyên Z, trục số, chiều dương, chiều âm, so sánh số nguyên."
+  },
+  {
+    "lessonId": "toan6_t1_b14",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 14. Phép cộng và phép trừ số nguyên: - Cộng hai số nguyên cùng dấu:\n  + Cộng hai số nguyên dương: chính là cộng hai số tự nhiên khác 0.\n  + Cộng hai số nguyên âm: ta cộng hai phần số tự nhiên của chúng rồi đặt dấu '-' trước kết quả.\n- Số đối: Hai số nguyên trên trục số nằm về hai phía của điểm 0 và cách đều điểm 0 gọi là hai số đối nhau. Số đối của a ký hiệu là -a. Tổng của hai số đối nhau luôn bằng 0.\n- Cộng hai số nguyên khác dấu (không đối nhau): Ta tìm hiệu hai phần số tự nhiên (lấy số lớn trừ số nhỏ) rồi đặt trước kết quả dấu của số có phần số tự nhiên lớn hơn.\n- Tính chất của phép cộng số nguyên: Giao hoán (a + b = b + a), kết hợp ((a + b) + c = a + (b + c)), cộng với số 0 (a + 0 = a).\n- Phép trừ hai số nguyên: Muốn trừ số nguyên a cho số nguyên b, ta cộng a với số đối của b: a - b = a + (-b).\n- Từ khóa: Cộng số nguyên, trừ số nguyên, số đối, tính chất giao hoán, tính chất kết hợp."
+  },
+  {
+    "lessonId": "toan6_t1_b15",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 15. Quy tắc dấu ngoặc: - Bỏ dấu ngoặc:\n  + Khi bỏ dấu ngoặc có dấu '+' đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc: +(a + b - c) = a + b - c.\n  + Khi bỏ dấu ngoặc có dấu '-' đằng trước, ta phải đổi dấu tất cả các số hạng trong ngoặc: dấu '+' thành '-' và dấu '-' thành '+': -(a + b - c) = -a - b + c.\n- Quy tắc chuyển vế: Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức, ta phải đổi dấu số hạng đó: dấu '+' đổi thành dấu '-' và dấu '-' đổi thành dấu '+'.\n- Từ khóa: Quy tắc dấu ngoặc, quy tắc chuyển vế, bỏ dấu ngoặc."
+  },
+  {
+    "lessonId": "toan6_t1_ltc5",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 22,
+    "lessonContent": "Luyện tập chung (Trang 69): - Ôn tập so sánh số nguyên: Thực hành so sánh các số nguyên, biểu diễn số nguyên trên trục số đứng và trục số ngang.\n- Vận dụng quy tắc cộng, trừ và dấu ngoặc: Giải các bài toán tính giá trị biểu thức lớn bằng cách bỏ ngoặc, nhóm các số hạng thích hợp để tính hợp lý.\n- Ứng dụng thực tế: Giải các bài toán thực tiễn về tính độ cận thị/viễn thị, tính tổng thu nhập, tài chính doanh nghiệp khi có lợi nhuận dương và thua lỗ âm."
+  },
+  {
+    "lessonId": "toan6_t1_b16",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 23,
+    "lessonContent": "Bài 16. Phép nhân số nguyên: - Nhân hai số nguyên khác dấu: Tích của hai số nguyên khác dấu luôn là một số nguyên âm. Ta nhân phần số tự nhiên của hai số đó rồi đặt dấu '-' trước kết quả: a * (-b) = -(a * b) với a, b thuộc N*.\n- Nhân hai số nguyên cùng dấu:\n  + Nhân hai số nguyên dương: chính là nhân hai số tự nhiên khác 0.\n  + Nhân hai số nguyên âm: ta nhân phần số tự nhiên của chúng với nhau: (-a) * (-b) = a * b với a, b thuộc N*.\n- Tính chất của phép nhân số nguyên: Giao hoán (a * b = b * a), kết hợp ((a * b) * c = a * (b * c)), phân phối đối với phép cộng (a * (b + c) = a * b + a * c).\n- Từ khóa: Nhân số nguyên, cùng dấu, khác dấu, tính chất giao hoán, kết hợp, phân phối."
+  },
+  {
+    "lessonId": "toan6_t1_b17",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 17. Phép chia hết. Ước và bội của một số nguyên: - Phép chia hết: Cho a, b thuộc Z (b khác 0). Nếu có số nguyên q sao cho a = b * q thì ta nói a chia hết cho b, ký hiệu a ⋮ b. Khi đó ta có phép chia hết a : b = q.\n- Dấu của thương:\n  + (+) : (+) -> (+)\n  + (-) : (-) -> (+)\n  + (+) : (-) -> (-)\n  + (-) : (+) -> (-)\n- Ước và bội của số nguyên: Nếu a ⋮ b, ta nói a là bội của b và b là ước của a.\n- Chú ý: Nếu c vừa là ước của a vừa là ước của b thì c gọi là ước chung của a và b.\n- Từ khóa: Phép chia hết trong Z, ước của số nguyên, bội của số nguyên, ước chung của số nguyên."
+  },
+  {
+    "lessonId": "toan6_t1_ltc6",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 25,
+    "lessonContent": "Luyện tập chung (Trang 75): - Ôn tập phép nhân chia số nguyên: Thực hành tính nhẩm, tính hợp lý biểu thức chứa phép nhân chia số nguyên.\n- Giải toán thực tế tổng hợp: Tính toán hao hụt nguyên vật liệu, điều chỉnh kích thước may mặc (tăng/giảm độ dài tương ứng số dương/số âm) và tính lương công nhân theo sản phẩm đạt chuẩn và lỗi.\n- Tìm ước chung của số nguyên: Thực hành tìm tất cả các ước nguyên của một số (gồm cả ước dương và ước âm)."
+  },
+  {
+    "lessonId": "toan6_t1_btcc3",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương III. Số nguyên",
+    "lessonOrder": 26,
+    "lessonContent": "Bài tập cuối chương III: - Hệ thống hóa kiến thức Số nguyên: Ôn tập từ tập hợp Z, so sánh, bốn phép tính cộng, trừ, nhân, chia số nguyên, quy tắc dấu ngoặc, chuyển vế và ước bội.\n- Giải toán ôn tập: Thực hành giải các bài toán tìm x, tính toán giá trị biểu thức và giải các bài toán đố thực tế sử dụng số nguyên âm và số nguyên dương."
+  },
+  {
+    "lessonId": "toan6_t1_b18",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Một số hình phẳng trong thực tiễn",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 18. Hình tam giác đều. Hình vuông. Hình lục giác đều: - Hình tam giác đều: Có 3 cạnh bằng nhau, 3 góc bằng nhau và bằng 60 độ.\n- Hình vuông: Có 4 cạnh bằng nhau, 4 góc bằng nhau và bằng 90 độ (góc vuông), hai đường chéo bằng nhau.\n- Hình lục giác đều: Có 6 cạnh bằng nhau, 6 góc bằng nhau và bằng 120 độ, ba đường chéo chính bằng nhau. Ghép 6 tam giác đều giống nhau chung đỉnh ta được một hình lục giác đều.\n- Nhận dạng và vẽ hình: Nhận biết các hình này trong thực tế (viên gạch, tổ ong, kim tự tháp, biển báo...) và thực hành vẽ bằng dụng cụ học tập (thước thẳng, êke).\n- Từ khóa: Hình tam giác đều, hình vuông, hình lục giác đều, đường chéo, cạnh, góc."
+  },
+  {
+    "lessonId": "toan6_t1_b19",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Một số hình phẳng trong thực tiễn",
+    "lessonOrder": 28,
+    "lessonContent": "Bài 19. Hình chữ nhật. Hình thoi. Hình bình hành. Hình thang cân: - Hình chữ nhật: Có 4 góc vuông, các cạnh đối song song và bằng nhau, hai đường chéo bằng nhau.\n- Hình thoi: Có 4 cạnh bằng nhau, các cạnh đối song song, các góc đối bằng nhau, hai đường chéo vuông góc với nhau.\n- Hình bình hành: Có các cạnh đối song song và bằng nhau, các góc đối bằng nhau, hai đường chéo cắt nhau tại trung điểm của mỗi đường.\n- Hình thang cân: Có hai cạnh bên bằng nhau, hai đường chéo bằng nhau, hai cạnh đáy song song, hai góc kề một đáy bằng nhau.\n- Vẽ hình và ứng dụng: Thực hành vẽ bằng dụng cụ học tập và nhận biết trong thực tế đời sống (khung tranh, lan can, mặt bàn, cánh diều...).\n- Từ khóa: Hình chữ nhật, hình thoi, hình bình hành, hình thang cân, cạnh đối, góc đối, đường chéo."
+  },
+  {
+    "lessonId": "toan6_t1_b20",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Một số hình phẳng trong thực tiễn",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 20. Chu vi và diện tích của một số tứ giác đã học: - Công thức tính chu vi (C) và diện tích (S):\n  + Hình vuông: C = 4a, S = a^2\n  + Hình chữ nhật: C = 2(a + b), S = a * b\n  + Hình thang: C = a + b + c + d, S = (a + b) * h / 2\n  + Hình bình hành: C = 2(a + b), S = a * h (với h là chiều cao tương ứng cạnh a)\n  + Hình thoi: C = 4a, S = m * n / 2 (với m, n là độ dài hai đường chéo)\n- Giải toán thực tế: Tính toán chi phí lát nền gạch, làm khung thép hàng rào, tính năng suất lúa trên ruộng hình thang, chi phí thiết kế sân vườn trồng cỏ.\n- Từ khóa: Chu vi, diện tích, công thức tính diện tích hình vuông, hình chữ nhật, hình thang, hình bình hành, hình thoi."
+  },
+  {
+    "lessonId": "toan6_t1_ltc7",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Một số hình phẳng trong thực tiễn",
+    "lessonOrder": 30,
+    "lessonContent": "Luyện tập chung (Trang 95): - Ôn tập công thức hình học phẳng: Thực hành tính chu vi và diện tích của các hình ghép phức tạp (ví dụ: sân vườn ghép từ hình vuông và hình thang cân).\n- Kỹ năng vẽ hình và cắt dán: Thực hành gấp và cắt giấy thủ công để tạo ra hình thoi, hình thang cân từ hình chữ nhật.\n- Bài toán kinh tế thực tế: Tính chi phí lát gạch dựa trên diện tích nền và giá tiền của từng viên gạch hoặc giá theo mét vuông."
+  },
+  {
+    "lessonId": "toan6_t1_btcc4",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IV. Một số hình phẳng trong thực tiễn",
+    "lessonOrder": 31,
+    "lessonContent": "Bài tập cuối chương IV: - Tổng kết Chương IV: Hệ thống hóa toàn bộ công thức nhận diện, vẽ hình, tính chu vi và diện tích của các hình tam giác đều, hình vuông, lục giác đều, hình chữ nhật, thoi, bình hành, thang cân.\n- Giải bài tập ôn tập: Giải các bài tập thực hành vẽ hình, đo đạc, tính toán diện tích sân vườn, ban công, mái nhà kề bên trong thực tiễn."
+  },
+  {
+    "lessonId": "toan6_t1_b21",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương V. Tính đối xứng của hình phẳng trong tự nhiên",
+    "lessonOrder": 32,
+    "lessonContent": "Bài 21. Hình có trục đối xứng: - Trục đối xứng: Một đường thẳng d chia hình thành hai phần mà nếu \"gấp\" hình theo đường thẳng d thì hai phần đó chồng khít lên nhau gọi là trục đối xứng. Hình như thế gọi là hình có trục đối xứng.\n- Ví dụ thực tế: Hình con bướm, cỏ ba lá, tháp Eiffel, các biển báo giao thông, chữ cái (A, B, G, H, E, F).\n- Trục đối xứng của một số hình phẳng hình học:\n  + Đoạn thẳng: đường thẳng đi qua trung điểm và vuông góc với đoạn thẳng đó.\n  + Hình tròn: mọi đường thẳng đi qua tâm.\n  + Hình chữ nhật: hai đường thẳng đi qua trung điểm các cặp cạnh đối diện.\n  + Hình thoi: hai đường chéo.\n- Từ khóa: Hình có trục đối xứng, trục đối xứng."
+  },
+  {
+    "lessonId": "toan6_t1_b22",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương V. Tính đối xứng của hình phẳng trong tự nhiên",
+    "lessonOrder": 33,
+    "lessonContent": "Bài 22. Hình có tâm đối xứng: - Tâm đối xứng: Một điểm O sao cho khi quay hình một nửa vòng quanh điểm O thì hình đó chồng khít với chính nó ở vị trí ban đầu (trước khi quay) gọi là tâm đối xứng. Hình như thế gọi là hình có tâm đối xứng.\n- Ví dụ thực tế: Chong chóng hai cánh, chong chóng bốn cánh, bông hoa bốn cánh, chữ cái (H, K, M, N, X), họa tiết trống đồng Đông Sơn, cỏ bốn lá.\n- Tâm đối xứng của một số hình phẳng hình học:\n  + Đoạn thẳng: trung điểm của đoạn thẳng.\n  + Hình tròn: tâm của hình tròn.\n  + Hình bình hành, hình thoi, hình vuông, hình chữ nhật: giao điểm của hai đường chéo.\n  + Hình lục giác đều: giao điểm của các đường chéo chính.\n- Từ khóa: Hình có tâm đối xứng, tâm đối xứng."
+  },
+  {
+    "lessonId": "toan6_t1_ltc8",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương V. Tính đối xứng của hình phẳng trong tự nhiên",
+    "lessonOrder": 34,
+    "lessonContent": "Luyện tập chung (Trang 108): - Nhận biết đồng thời trục đối xứng và tâm đối xứng: Thực hành phân loại các hình phẳng xem hình nào có trục đối xứng, hình nào có tâm đối xứng, hình nào có cả hai (hình tam giác đều, cánh quạt, trái tim, cánh diều).\n- Ứng dụng thực tế: Nhận biết tính đối xứng trong các biểu tượng của các tổ chức quốc tế (WFP, UNESCO, Đại hội Thể thao Đông Nam Á) và các logo thương hiệu (SOS, VTV).\n- Thực hành cắt dán: Gấp và cắt giấy thủ công tạo ngôi sao bốn cánh bằng một nhát cắt duy nhất."
+  },
+  {
+    "lessonId": "toan6_t1_btcc5",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương V. Tính đối xứng của hình phẳng trong tự nhiên",
+    "lessonOrder": 35,
+    "lessonContent": "Bài tập cuối chương V: - Hệ thống kiến thức Chương V: Khái quát lại toàn bộ định nghĩa trục đối xứng, tâm đối xứng của các hình phẳng thường gặp.\n- Thực hành vẽ hình và trang trí: Vẽ thêm nét để tạo ra hình có trục đối xứng, vẽ mặt cười cân đối, vẽ chiếc lá đối xứng trên giấy kẻ ô vuông."
+  },
+  {
+    "lessonId": "toan6_t1_hdthtn",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 36,
+    "lessonContent": "Hoạt động thực hành trải nghiệm (Tập Một): - Tấm thiệp và phòng học của em: Thực hành thiết kế tấm thiệp chúc mừng bằng cách gấp và cắt dán các hình phẳng đã học. Kiểm tra độ chuẩn ánh sáng của phòng học bằng cách đo đạc diện tích nền, diện tích cửa và tính chỉ số ánh sáng.\n- Vẽ hình đơn giản với phần mềm GeoGebra: Làm quen với giao diện phần mềm, thực hành vẽ điểm, đoạn thẳng, vẽ góc 60 độ, đường tròn, tam giác đều, lục giác đều, hình bình hành, hình thoi, hình chữ nhật và hình vuông.\n- Sử dụng máy tính cầm tay: Sử dụng máy tính bỏ túi Casio fx-570VN PLUS hoặc tương đương để tính toán cộng, trừ, nhân, chia, lũy thừa, phân tích thừa số nguyên tố, tìm ước chung lớn nhất (ƯCLN) và bội chung nhỏ nhất (BCNN)."
+  },
+  {
+    "lessonId": "toan6_t2_b23",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 1,
+    "lessonContent": "Bài 23. Mở rộng phân số. Phân số bằng nhau: - Khái niệm phân số mở rộng: Với a, b thuộc Z (b khác 0), ta gọi a/b là phân số, trong đó a là tử số (tử), b là mẫu số (mẫu).\n- Hai phân số bằng nhau: Hai phân số a/b và c/d bằng nhau nếu a * d = b * c. Ký hiệu a/b = c/d.\n- Tính chất cơ bản của phân số:\n  1. Nhân cả tử và mẫu với cùng một số nguyên m khác 0 ta được phân số bằng phân số đã cho: a/b = (a * m) / (b * m).\n  2. Chia cả tử và mẫu cho cùng một ước chung n của chúng ta được phân số bằng phân số đã cho: a/b = (a : n) / (b : n).\n- Rút gọn phân số: Chia cả tử và mẫu cho ƯCLN của chúng để được phân số tối giản.\n- Từ khóa: Phân số, tử số, mẫu số, phân số bằng nhau, tính chất cơ bản của phân số, rút gọn phân số."
+  },
+  {
+    "lessonId": "toan6_t2_b24",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 2,
+    "lessonContent": "Bài 24. So sánh phân số. Hỗn số dương: - Quy đồng mẫu nhiều phân số: Tìm mẫu số chung (thường là BCNN của các mẫu), tìm thừa số phụ rồi nhân cả tử và mẫu của mỗi phân số với thừa số phụ tương ứng.\n- So sánh phân số:\n  + Cùng mẫu dương: Phân số nào có tử lớn hơn thì phân số đó lớn hơn.\n  + Khác mẫu: Quy đồng mẫu số về cùng mẫu dương rồi so sánh các tử số.\n- Hỗn số dương: Phân số lớn hơn 1 viết dưới dạng q_r/b (phần nguyên q và phần phân số r/b nhỏ hơn 1). Ví dụ: 5/4 = 1_1/4.\n- Từ khóa: Quy đồng mẫu nhiều phân số, so sánh phân số, hỗn số dương, phần nguyên, phần phân số."
+  },
+  {
+    "lessonId": "toan6_t2_ltc1",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 3,
+    "lessonContent": "Luyện tập chung (Trang 13): - Ôn tập quy đồng và so sánh phân số: Thực hành so sánh các phân số âm, phân số dương và hỗn số. Rút gọn phân số trước khi quy đồng.\n- Giải quyết bài toán thực tế: So sánh độ dài các loài động vật có vú nhỏ nhất thế giới viết dưới dạng phân số, so sánh thời gian làm việc, so sánh giá tiền các hộp bút viết dưới dạng phân số."
+  },
+  {
+    "lessonId": "toan6_t2_b25",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 4,
+    "lessonContent": "Bài 25. Phép cộng và phép trừ phân số: - Cộng phân số:\n  + Cùng mẫu: a/m + b/m = (a + b)/m.\n  + Khác mẫu: Quy đồng mẫu các phân số về cùng một mẫu dương rồi cộng các tử và giữ nguyên mẫu chung.\n- Tính chất phép cộng phân số: Giao hoán (a/b + c/d = c/d + a/b), kết hợp ((a/b + c/d) + p/q = a/b + (c/d + p/q)), cộng với số 0.\n- Số đối của phân số: Phân số a/b có số đối ký hiệu là -a/b (hoặc a/-b, -a/b). Tổng của chúng luôn bằng 0.\n- Trừ phân số: Muốn trừ phân số a/b cho phân số c/d, ta cộng a/b với số đối của c/d: a/b - c/d = a/b + (-c/d).\n- Từ khóa: Cộng phân số, trừ phân số, số đối của phân số, tính chất phép cộng phân số."
+  },
+  {
+    "lessonId": "toan6_t2_b26",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 5,
+    "lessonContent": "Bài 26. Phép nhân và phép chia phân số: - Nhân phân số: Muốn nhân hai phân số, ta nhân các tử số với nhau và nhân các mẫu số với nhau: (a/b) * (c/d) = (a * c) / (b * d).\n- Tính chất phép nhân phân số: Giao hoán, kết hợp, phân phối đối với phép cộng, nhân với số 1.\n- Phân số nghịch đảo: Hai phân số a/b và b/a (với a, b khác 0) là hai phân số nghịch đảo của nhau vì tích của chúng bằng 1.\n- Chia phân số: Muốn chia phân số a/b cho phân số c/d khác 0, ta nhân a/b với phân số nghịch đảo của c/d: (a/b) : (c/d) = (a/b) * (d/c) = (a * d) / (b * c).\n- Từ khóa: Nhân phân số, chia phân số, phân số nghịch đảo, tính chất phép nhân phân số."
+  },
+  {
+    "lessonId": "toan6_t2_b27",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 6,
+    "lessonContent": "Bài 27. Hai bài toán về phân số: - Bài toán 1. Tìm giá trị phân số của một số cho trước: Muốn tìm m/n của một số a cho trước, ta tính a * (m/n) (với m, n thuộc N*).\n- Bài toán 2. Tìm một số biết giá trị phân số của nó: Muốn tìm một số biết m/n của số đó bằng b, ta tính b : (m/n) (với m, n thuộc N*).\n- Giải toán thực tế: Tính toán tốc độ chạy của động vật dã thú so với nhau, tính quãng đường của vận động viên chạy marathon, tính khối lượng nguyên vật liệu làm bánh chưng, tính giảm giá Black Friday.\n- Từ khóa: Tìm giá trị phân số của một số, tìm một số biết giá trị phân số."
+  },
+  {
+    "lessonId": "toan6_t2_ltc2",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 7,
+    "lessonContent": "Luyện tập chung (Trang 25): - Ôn tập bốn phép tính về phân số: Thực hành tính giá trị các biểu thức số học phức tạp chứa phân số, hỗn số bằng cách áp dụng các tính chất giao hoán, kết hợp, phân phối của phép nhân đối với phép cộng.\n- Giải toán thực tế tổng hợp: Tính thời gian biểu trong ngày, tính phân chia tài sản lương bổng, giải các bài toán về tỉ lệ thành phần nguyên liệu nấu ăn (thịt ba chỉ, cùi dừa trong món thịt kho dừa)."
+  },
+  {
+    "lessonId": "toan6_t2_btcc6",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VI. Phân số",
+    "lessonOrder": 8,
+    "lessonContent": "Bài tập cuối chương VI: - Hệ thống kiến thức Chương VI: Ôn tập định nghĩa phân số, so sánh, hỗn số, phép cộng, trừ, nhân, chia phân số và hai bài toán về phân số.\n- Bài tập ôn luyện: Giải các bài tập thực hành quy đồng mẫu, tính giá trị biểu thức, tìm số chưa biết và giải quyết các bài toán đố thực tế (ví dụ: lượng sữa uống hàng ngày của em bé, bài toán cân thăng bằng vật nặng)."
+  },
+  {
+    "lessonId": "toan6_t2_b28",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Số thập phân",
+    "lessonOrder": 9,
+    "lessonContent": "Bài 28. Số thập phân: - Phân số thập phân: Là phân số có mẫu là lũy thừa của 10 (ví dụ: 10, 100, 1000...).\n- Định nghĩa số thập phân: Số viết dưới dạng không có mẫu số, gồm phần số nguyên viết bên trái dấu phẩy \",\" và phần thập phân viết bên phải dấu phẩy.\n- Số thập phân âm và số thập phân dương: \n  + Các số thập phân lớn hơn 0 gọi là số thập phân dương (ví dụ: 1,7).\n  + Các số thập phân nhỏ hơn 0 gọi là số thập phân âm, viết với dấu trừ '-' đằng trước (ví dụ: -1,7).\n- Số đối: Hai số thập phân có phần số nguyên đối nhau và phần thập phân giống nhau gọi là hai số đối nhau.\n- So sánh số thập phân:\n  + Số thập phân âm luôn nhỏ hơn 0 và nhỏ hơn số thập phân dương.\n  + So sánh hai số thập phân âm: Số nào có số đối lớn hơn thì số đó nhỏ hơn.\n- Từ khóa: Phân số thập phân, số thập phân dương, số thập phân âm, số đối của số thập phân, so sánh số thập phân."
+  },
+  {
+    "lessonId": "toan6_t2_b29",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Số thập phân",
+    "lessonOrder": 10,
+    "lessonContent": "Bài 29. Tính toán với số thập phân: - Cộng, trừ số thập phân: Quy tắc thực hiện tương tự phép cộng, trừ số nguyên bằng cách đặt thẳng hàng các chữ số ở cùng một hàng và dấu phẩy thẳng cột.\n- Nhân số thập phân:\n  + Nhân hai số cùng dấu: Nhân phần số tự nhiên của chúng rồi đặt dấu phẩy tương ứng.\n  + Nhân hai số khác dấu: Nhân phần số tự nhiên của chúng rồi đặt dấu trừ '-' trước kết quả.\n- Chia số thập phân: Quy tắc chia số thập phân cho một số thập phân bằng cách dịch dấu phẩy của số chia và số bị chia sang phải cho đến khi số chia trở thành số nguyên.\n- Tính giá trị biểu thức số thập phân: Áp dụng các tính chất giao hoán, kết hợp, phân phối để tính toán hợp lý.\n- Từ khóa: Cộng số thập phân, trừ số thập phân, nhân số thập phân, chia số thập phân, giá trị biểu thức."
+  },
+  {
+    "lessonId": "toan6_t2_b30",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Số thập phân",
+    "lessonOrder": 11,
+    "lessonContent": "Bài 30. Làm tròn và ước lượng: - Quy tắc làm tròn số thập phân dương đến một hàng nào đấy:\n  + Nếu chữ số ngay bên phải hàng làm tròn nhỏ hơn 5 thì giữ nguyên chữ số hàng làm tròn, bỏ đi các chữ số phần thập phân sau hàng làm tròn (hoặc thay bằng số 0 nếu ở phần nguyên).\n  + Nếu chữ số ngay bên phải hàng làm tròn lớn hơn hoặc bằng 5 thì cộng thêm 1 vào chữ số hàng làm tròn, bỏ đi các chữ số phần thập phân sau hàng làm tròn (hoặc thay bằng số 0 nếu ở phần nguyên).\n- Làm tròn số thập phân âm: Làm tròn số đối của nó rồi đặt dấu '-' trước kết quả.\n- Ước lượng kết quả: Sử dụng quy tắc làm tròn để ước lượng nhanh kết quả của các phép tính phức tạp trước khi thực hiện phép tính chính xác.\n- Từ khóa: Làm tròn số, hàng làm tròn, ước lượng kết quả."
+  },
+  {
+    "lessonId": "toan6_t2_b31",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Số thập phân",
+    "lessonOrder": 12,
+    "lessonContent": "Bài 31. Một số bài toán về tỉ số và tỉ số phần trăm: - Tỉ số của hai số: Tỉ số của hai số a và b (b khác 0) là thương của phép chia a cho b, ký hiệu là a : b hoặc a/b.\n- Tỉ số phần trăm: Tỉ số phần trăm của hai số a và b là (a/b) * 100%. Ký hiệu là a%.\n- Hai bài toán về tỉ số phần trăm:\n  + Bài toán 1. Tìm giá trị phần trăm của một số: Muốn tìm m% của số a, ta tính a * (m / 100).\n  + Bài toán 2. Tìm một số khi biết giá trị phần trăm của nó: Muốn tìm một số khi biết m% của nó bằng b, ta tính b : (m / 100).\n- Giải toán thực tế: Tính lãi suất gửi tiết kiệm ngân hàng, tính thành phần hóa học không khí (khí oxygen chiếm 21%), tính tỉ lệ nộp phạt xe quá tải, tính giảm giá mặt hàng điện thoại.\n- Từ khóa: Tỉ số, tỉ số phần trăm, tìm giá trị phần trăm, tìm một số khi biết phần trăm."
+  },
+  {
+    "lessonId": "toan6_t2_ltc3",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Số thập phân",
+    "lessonOrder": 13,
+    "lessonContent": "Luyện tập chung (Trang 41): - Ôn tập số thập phân và làm tròn: Thực hành làm tròn các số thập phân lớn, tính toán nhanh giá trị các biểu thức thập phân bằng cách ước lượng kết quả.\n- Thực hành giải bài toán tỉ số: Tính tỉ lệ khối lượng chất béo trong gạo, tính số lượng hạt tiêu xuất khẩu trong năm, tính tổng hóa đơn mua hàng siêu thị khi có thuế VAT 10%.\n- Tìm x trong phương trình chứa số thập phân."
+  },
+  {
+    "lessonId": "toan6_t2_btcc7",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VII. Số thập phân",
+    "lessonOrder": 14,
+    "lessonContent": "Bài tập cuối chương VII: - Tổng kết Chương VII: Ôn tập định nghĩa số thập phân, so sánh, các phép tính cộng, trừ, nhân, chia số thập phân, làm tròn số, tỉ số và tỉ số phần trăm.\n- Bài tập tự giải: Thực hành giải các bài toán đố thực tiễn, tính độ dài thực tế của cây cầu dựa trên bản đồ tỉ lệ xích 1:100.000, tính số tiền mua robot đồ chơi sau khi được giảm giá 15%."
+  },
+  {
+    "lessonId": "toan6_t2_b32",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 15,
+    "lessonContent": "Bài 32. Điểm và đường thẳng: - Khái niệm điểm và đường thẳng: Điểm là hình ảnh một dấu chấm nhỏ trên giấy (ký hiệu chữ cái in hoa A, B, C...). Đường thẳng là hình ảnh một vạch thẳng kéo dài vô hạn về hai phía (ký hiệu chữ cái thường a, b, c, x, y...).\n- Điểm thuộc và không thuộc đường thẳng: \n  + Nếu điểm M nằm trên đường thẳng d, ta nói M thuộc d, ký hiệu M ∈ d.\n  + Nếu điểm N nằm ngoài đường thẳng d, ta nói N không thuộc d, ký hiệu N ∉ d.\n- Đường thẳng đi qua hai điểm phân biệt: Có một và chỉ một đường thẳng đi qua hai điểm phân biệt A, B. Ký hiệu đường thẳng AB.\n- Ba điểm thẳng hàng: Ba điểm cùng thuộc một đường thẳng gọi là ba điểm thẳng hàng. Nếu chúng không cùng thuộc một đường thẳng thì gọi là ba điểm không thẳng hàng.\n- Vị trí tương đối của hai đường thẳng phân biệt:\n  + Hai đường thẳng song song: Không có điểm chung nào (a // b).\n  + Hai đường thẳng cắt nhau: Có đúng một điểm chung duy nhất gọi là giao điểm.\n  + Hai đường thẳng trùng nhau: Có vô số điểm chung.\n- Từ khóa: Điểm, đường thẳng, thuộc (∈), không thuộc (∉), ba điểm thẳng hàng, song song, cắt nhau, giao điểm, trùng nhau."
+  },
+  {
+    "lessonId": "toan6_t2_b33",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 16,
+    "lessonContent": "Bài 33. Điểm nằm giữa hai điểm. Tia: - Điểm nằm giữa hai điểm: Cho ba điểm thẳng hàng A, B, C. Nếu điểm B nằm trên đoạn thẳng nối A và C thì ta nói B nằm giữa hai điểm A và C. Khi đó hai điểm A và B nằm cùng phía đối với C, hai điểm A và C nằm khác phía đối với B.\n- Khái niệm tia: Hình gồm điểm O và một phần đường thẳng bị chia ra bởi điểm O được gọi là một tia gốc O. Điểm O là gốc của tia.\n- Hai tia đối nhau: Hai tia chung gốc tạo thành một đường thẳng gọi là hai tia đối nhau. Ví dụ: tia Ox và tia Oy là hai tia đối nhau.\n- Từ khóa: Điểm nằm giữa hai điểm, cùng phía, khác phía, tia, tia gốc O, hai tia đối nhau."
+  },
+  {
+    "lessonId": "toan6_t2_b34",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 17,
+    "lessonContent": "Bài 34. Đoạn thẳng. Độ dài đoạn thẳng: - Đoạn thẳng: Đoạn thẳng AB là hình gồm hai điểm A, B cùng với tất cả các điểm nằm giữa A và B. Hai điểm A, B gọi là hai đầu mút của đoạn thẳng.\n- Độ dài đoạn thẳng: Mỗi đoạn thẳng có một độ dài xác định là một số dương. Độ dài đoạn thẳng AB còn gọi là khoảng cách giữa hai điểm A và B.\n- So sánh độ dài hai đoạn thẳng: Hai đoạn thẳng bằng nhau nếu chúng có cùng độ dài (AB = CD). Đoạn thẳng AB ngắn hơn CD nếu độ dài AB nhỏ hơn CD (AB < CD).\n- Từ khóa: Đoạn thẳng, đầu mút, độ dài đoạn thẳng, khoảng cách, so sánh đoạn thẳng."
+  },
+  {
+    "lessonId": "toan6_t2_b35",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 18,
+    "lessonContent": "Bài 35. Trung điểm của đoạn thẳng: - Định nghĩa trung điểm: Nếu điểm I nằm giữa hai điểm A, B và cách đều hai điểm đó (IA = IB) thì I gọi là trung điểm của đoạn thẳng AB.\n- Công thức tính: Khi I là trung điểm của AB thì IA = IB = AB / 2.\n- Cách tìm trung điểm: Thực hành đo đạc bằng thước thẳng, gấp giấy hoặc sử dụng sợi dây đầy đủ dải đo.\n- Từ khóa: Trung điểm của đoạn thẳng, cách đều, trung điểm I."
+  },
+  {
+    "lessonId": "toan6_t2_ltc4",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 19,
+    "lessonContent": "Luyện tập chung (Trang 57): - Ôn tập điểm, đường thẳng, đoạn thẳng: Củng cố kỹ năng vẽ hình, gọi tên các cặp tia đối nhau, xác định điểm nằm giữa hai điểm và tính độ dài đoạn thẳng.\n- Bài toán tính độ dài đoạn thẳng phức tạp: Áp dụng trung điểm để tính toán độ dài các đoạn thẳng liên tiếp (ví dụ: cho C nằm giữa A và B, tìm độ dài đoạn thẳng nối trung điểm các đoạn thẳng AC, CB).\n- Giải bài toán thực hành đo đạc sân trường."
+  },
+  {
+    "lessonId": "toan6_t2_b36",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 20,
+    "lessonContent": "Bài 36. Góc: - Định nghĩa góc: Góc là hình gồm hai tia chung gốc. Gốc chung của hai tia là đỉnh của góc, hai tia là hai cạnh của góc.\n- Ký hiệu: Góc xOy ký hiệu là ^xOy hoặc ∠xOy. Góc O là đỉnh, hai tia Ox, Oy là hai cạnh của góc.\n- Góc bẹt: Là góc có hai cạnh là hai tia đối nhau (ví dụ: góc bẹt xOy).\n- Điểm trong của góc: Cho góc xOy khác góc bẹt. Điểm M nằm trong góc xOy nếu tia OM nằm giữa hai tia Ox và Oy.\n- Từ khóa: Góc, đỉnh của góc, cạnh của góc, góc bẹt, điểm trong của góc."
+  },
+  {
+    "lessonId": "toan6_t2_b37",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 21,
+    "lessonContent": "Bài 37. Số đo góc: - Đo góc: Mỗi góc có một số đo xác định không vượt quá 180 độ. Người ta sử dụng thước đo góc (thước đo độ) để đo góc.\n- Các góc đặc biệt:\n  + Góc vuông: Góc có số đo bằng 90 độ.\n  + Góc bẹt: Góc có số đo bằng 180 độ.\n  + Góc nhọn: Góc có số đo lớn hơn 0 độ và nhỏ hơn 90 độ.\n  + Góc tù: Góc có số đo lớn hơn 90 độ và nhỏ hơn 180 độ.\n- So sánh hai góc: Hai góc bằng nhau nếu số đo của chúng bằng nhau.\n- Từ khóa: Số đo góc, thước đo góc, góc vuông, góc bẹt, góc nhọn, góc tù, so sánh góc."
+  },
+  {
+    "lessonId": "toan6_t2_ltc5",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 22,
+    "lessonContent": "Luyện tập chung (Trang 65): - Ôn tập về góc và số đo góc: Thực hành dùng thước đo góc để xác định số đo của các góc trong hình vẽ cho trước.\n- Phân loại góc: Sắp xếp các góc theo thứ tự tăng dần của số đo góc và phân loại chúng thành góc nhọn, vuông, tù, bẹt.\n- Thực hành đo góc thực tế: Đo góc nghiêng khi đặt thang dựa vào tường để đảm bảo an toàn (khoảng 75 độ)."
+  },
+  {
+    "lessonId": "toan6_t2_btcc8",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương VIII. Những hình hình học cơ bản",
+    "lessonOrder": 23,
+    "lessonContent": "Bài tập cuối chương VIII: - Tổng kết Chương VIII: Hệ thống toàn bộ khái niệm điểm, đường thẳng, tia, đoạn thẳng, trung điểm, góc và số đo góc.\n- Giải bài tập ôn tập cuối chương: Thực hiện các bài tập vẽ hình theo mô tả mối quan hệ giữa điểm và đường thẳng, xác định tính đúng sai của các khẳng định hình học."
+  },
+  {
+    "lessonId": "toan6_t2_b38",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 24,
+    "lessonContent": "Bài 38. Dữ liệu và thu thập dữ liệu: - Dữ liệu: Các thông tin thu thập được như số, chữ, hình ảnh, âm thanh... gọi là dữ liệu. Dữ liệu là số gọi là số liệu.\n- Thu thập dữ liệu: Có nhiều cách để thu thập dữ liệu như quan sát, làm thí nghiệm, lập phiếu hỏi, phỏng vấn hoặc thu thập từ những nguồn có sẵn như sách báo, trang web...\n- Tính hợp lý của dữ liệu: Dữ liệu thu thập được cần phải đảm bảo tính hợp lý (ví dụ: tên món ăn không thể là số, số lượng học sinh không thể là số âm).\n- Từ khóa: Dữ liệu, số liệu, thu thập dữ liệu, phiếu hỏi, phỏng vấn, tính hợp lý của dữ liệu."
+  },
+  {
+    "lessonId": "toan6_t2_b39",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 25,
+    "lessonContent": "Bài 39. Bảng thống kê và biểu đồ tranh: - Bảng thống kê: Là bảng dùng để sắp xếp, tổ chức các dữ liệu thu thập được một cách khoa học để dễ dàng đọc và phân tích thông tin.\n- Biểu đồ tranh: Là loại biểu đồ sử dụng các biểu tượng hoặc hình ảnh để biểu diễn số lượng của các dữ liệu thống kê. Mỗi biểu tượng đại diện cho một số lượng đơn vị nhất định.\n- Vẽ biểu đồ tranh: Thực hành xác định biểu tượng thay thế, tính toán số lượng biểu tượng cần vẽ cho từng loại dữ liệu và vẽ biểu đồ tranh.\n- Từ khóa: Bảng thống kê, biểu đồ tranh, biểu tượng biểu diễn."
+  },
+  {
+    "lessonId": "toan6_t2_b40",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 26,
+    "lessonContent": "Bài 40. Biểu đồ cột: - Biểu đồ cột: Là biểu đồ sử dụng các cột hình chữ nhật có chiều rộng bằng nhau, chiều cao biểu diễn số liệu của các đối tượng thống kê tương ứng trên trục thẳng đứng.\n- Cách vẽ biểu đồ cột:\n  + Bước 1: Vẽ hai trục vuông góc (trục ngang biểu diễn các lớp/đối tượng, trục đứng biểu diễn số lượng).\n  + Bước 2: Vẽ các cột hình chữ nhật có chiều rộng bằng nhau, chiều cao tương ứng số liệu trên trục đứng.\n  + Bước 3: Đặt tên cho biểu đồ, ghi chú thích và tô màu cho các cột.\n- Đọc và phân tích biểu đồ cột: Tìm kiếm thông tin cao nhất, thấp nhất, so sánh sự chênh lệch giữa các đối tượng và tìm xu hướng tăng/giảm.\n- Từ khóa: Biểu đồ cột, trục thẳng đứng, trục nằm ngang, cột hình chữ nhật, phân tích số liệu."
+  },
+  {
+    "lessonId": "toan6_t2_b41",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 27,
+    "lessonContent": "Bài 41. Biểu đồ cột kép: - Khái niệm biểu đồ cột kép: Là biểu đồ ghép hai biểu đồ cột cạnh nhau để dễ dàng so sánh hai bộ số liệu của cùng các đối tượng thống kê kề bên nhau (ví dụ: học lực lớp 6A và lớp 6B, số lượng bé trai và bé gái sinh ra trong các ngày, lượng mưa trung bình các tháng ở hai địa điểm).\n- Vẽ biểu đồ cột kép: Vẽ các cặp cột hình chữ nhật sát nhau, tô hai màu khác nhau để phân biệt hai bộ dữ liệu và có bảng chú giải màu sắc rõ ràng.\n- Đọc và so sánh dữ liệu trên biểu đồ cột kép.\n- Từ khóa: Biểu đồ cột kép, so sánh hai bộ số liệu, bảng chú giải."
+  },
+  {
+    "lessonId": "toan6_t2_ltc6",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 28,
+    "lessonContent": "Luyện tập chung (Trang 87): - Ôn tập thu thập và tổ chức dữ liệu: Thực hành thiết kế phiếu hỏi thu thập dữ liệu về ước mơ nghề nghiệp tương lai của các bạn trong lớp.\n- Thực hành vẽ biểu đồ cột và cột kép: Biểu diễn số liệu thu thập được lên biểu đồ cột và cột kép, phân tích để rút ra kết luận về sở thích hoặc xu hướng lựa chọn nghề nghiệp tương lai.\n- Lập bảng thống kê tương ứng."
+  },
+  {
+    "lessonId": "toan6_t2_b42",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 29,
+    "lessonContent": "Bài 42. Kết quả có thể và sự kiện trong trò chơi, thí nghiệm: - Kết quả có thể: Là các kết quả có khả năng xảy ra khi thực hiện một trò chơi hoặc thí nghiệm đơn giản (ví dụ: gieo súc sắc có 6 kết quả có thể là xuất hiện mặt 1, 2, 3, 4, 5, 6 chấm).\n- Sự kiện: Sự kiện là một hiện tượng hoặc kết quả cụ thể mà ta quan tâm trong một trò chơi, thí nghiệm. Sự kiện có thể xảy ra hoặc không xảy ra tùy thuộc vào kết quả của trò chơi, thí nghiệm.\n- Từ khóa: Kết quả có thể, sự kiện, trò chơi oẳn tù tì, gieo xúc xắc, gieo đồng xu."
+  },
+  {
+    "lessonId": "toan6_t2_b43",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 30,
+    "lessonContent": "Bài 43. Xác suất thực nghiệm: - Khái niệm xác suất thực nghiệm: Là tỉ số giữa số lần xảy ra sự kiện đó trên tổng số lần thực hiện thực nghiệm (hoặc trò chơi).\n- Công thức tính: Xác suất thực nghiệm của sự kiện = (Số lần sự kiện xảy ra) / (Tổng số lần thực hiện thực nghiệm).\n- Thực hành tính toán: Tính xác suất thực nghiệm xuất hiện mặt sấp khi gieo đồng xu 50 lần hoặc 100 lần, tính xác suất thực nghiệm lấy được viên bi màu đỏ trong hộp kín.\n- Từ khóa: Xác suất thực nghiệm, số lần xảy ra sự kiện, tổng số lần thực nghiệm."
+  },
+  {
+    "lessonId": "toan6_t2_ltc7",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 31,
+    "lessonContent": "Luyện tập chung (Trang 97): - Ôn tập xác suất thực nghiệm: Thực hành gieo xúc xắc 100 lần và lập bảng thống kê số lần xuất hiện của từng mặt, từ đó tính xác suất thực nghiệm xuất hiện mặt có số chấm là số chẵn hoặc lớn hơn 2.\n- Giải quyết bài toán thực tế: Tính xác suất thực nghiệm quay tấm bia trúng ô màu xanh/vàng, tính xác suất thực nghiệm lấy được bóng màu xanh/đỏ từ túi kín.\n- Lập bảng thống kê dữ liệu thực nghiệm."
+  },
+  {
+    "lessonId": "toan6_t2_btcc9",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+    "lessonOrder": 32,
+    "lessonContent": "Bài tập cuối chương IX: - Tổng kết Chương IX: Khái quát lại toàn bộ kiến thức thu thập dữ liệu, bảng thống kê, biểu đồ tranh, biểu đồ cột, biểu đồ cột kép, kết quả có thể, sự kiện và xác suất thực nghiệm.\n- Bài tập tự luyện: Thực hiện khảo sát thu thập dữ liệu tự chọn, vẽ biểu đồ cột kép biểu diễn sự yêu thích các môn thể thao của nam và nữ trong lớp, giải quyết các bài toán tính xác suất thực nghiệm."
+  },
+  {
+    "lessonId": "toan6_t2_hdthtn",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Hoạt động thực hành trải nghiệm",
+    "lessonOrder": 33,
+    "lessonContent": "Hoạt động thực hành trải nghiệm (Tập Hai): - Kế hoạch chi tiêu cá nhân và gia đình: Thực hành lập bảng chi tiêu thực tế của bản thân hoặc gia đình trong một tuần. Thực hiện phân loại các khoản chi tiêu thành 3 hạng mục: chi cố định thiết yếu, chi cần thiết nhưng có thể linh hoạt, và chi phát sinh. Tính tỉ lệ phần trăm chi tiêu của từng hạng mục và vẽ biểu đồ hình tròn hoặc biểu đồ cột biểu diễn tỉ lệ chi tiêu nhằm rèn luyện kỹ năng quản lý tài chính cá nhân.\n- Hoạt động thể thao nào được yêu thích nhất trong hè?: Thực hiện lập kế hoạch khảo sát thu thập dữ liệu về môn thể thao mùa hè được yêu thích nhất của các khối lớp trong trường. Thiết kế phiếu hỏi, thu thập dữ liệu, lập bảng thống kê và vẽ biểu đồ cột, cột kép bằng Microsoft Excel để phân tích lựa chọn thể thao của học sinh đầu cấp (khối 6, 7) và cuối cấp (khối 8, 9).\n- Vẽ hình đơn giản với phần mềm GeoGebra: Sử dụng phần mềm GeoGebra để vẽ những hình có trục đối xứng (hình thoi, hình lục giác đều) và hình có tâm đối xứng."
+  },
+  {
+    "lessonId": "toan6_t2_otcn",
+    "grade": 6,
+    "subject": "Toán",
+    "chapterName": "Bài tập ôn tập cuối năm",
+    "lessonOrder": 34,
+    "lessonContent": "Bài tập ôn tập cuối năm: - Số và đại số: Hệ thống hóa và ôn luyện giải các bài tập nâng cao về số tự nhiên, tính chia hết, số nguyên tố, ƯCLN, BCNN, số nguyên, phân số, số thập phân, tỉ số và tỉ số phần trăm.\n- Hình học và đo lường: Ôn luyện nhận diện các hình phẳng kề bên trong thực tế, các bài toán tính chu vi, diện tích hình phẳng ghép và các bài toán hình học cơ bản về điểm, đường thẳng, tia, đoạn thẳng, trung điểm, góc và số đo góc.\n- Thống kê và xác suất: Ôn luyện phân tích dữ liệu trên bảng thống kê, biểu đồ cột, biểu đồ cột kép và tính xác suất thực nghiệm của các sự kiện trong trò chơi gieo đồng xu, xúc xắc."
+  }
+]
