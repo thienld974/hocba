@@ -1,0 +1,709 @@
+[
+  {
+    "id": "root_toan5",
+    "name": "Toán lớp 5 - Sơ đồ tư duy toàn diện (SGK & Nâng cao)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "cat_toan5_sopheptinh",
+    "name": "Số và Phép tính",
+    "type": "CATEGORY",
+    "parentId": "root_toan5",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_phanso",
+    "name": "Phân số & Hỗn số",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_sopheptinh",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_rutgonphanso",
+    "name": "Rút gọn và Quy đồng phân số",
+    "type": "LESSON",
+    "parentId": "top_toan5_phanso",
+    "examples": [
+      {
+        "id": "ex_toan5_rutgon_01",
+        "question": "Rút gọn phân số $\\frac{202020}{454545}$ về phân số tối giản.",
+        "answer": "Ta có: $202020 = 20 \\times 10101$ và $454545 = 45 \\times 10101$.\nChia cả tử và mẫu cho $10101$ ta được: $\\frac{202020}{454545} = \\frac{20}{45}$.\nTiếp tục chia cả tử và mẫu cho $5$ ta được phân số tối giản là $\\frac{4}{9}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_rutgon_b1",
+    "name": "Bước 1: Tìm Ước chung (hoặc thừa số chung) của tử số và mẫu số",
+    "type": "STEP",
+    "parentId": "less_toan5_rutgonphanso",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_rutgon_b2",
+    "name": "Bước 2: Chia cả tử số và mẫu số cho thừa số chung cho đến khi được phân số tối giản",
+    "type": "STEP",
+    "parentId": "less_toan5_rutgonphanso",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_rutgon_quyluat",
+    "name": "Rút gọn phân số theo quy luật (Nâng cao)",
+    "type": "LESSON",
+    "parentId": "top_toan5_phanso",
+    "examples": [
+      {
+        "id": "ex_toan5_quyluat_01",
+        "question": "Tính nhanh giá trị biểu thức: $A = \\frac{1}{1 \\times 2} + \\frac{1}{2 \\times 3} + \\frac{1}{3 \\times 4} + \\dots + \\frac{1}{99 \\times 100}$.",
+        "answer": "Áp dụng công thức $\\frac{1}{n \\times (n+1)} = \\frac{1}{n} - \\frac{1}{n+1}$, ta có:\n$$A = \\left(1 - \\frac{1}{2}\\right) + \\left(\\frac{1}{2} - \\frac{1}{3}\\right) + \\left(\\frac{1}{3} - \\frac{1}{4}\\right) + \\dots + \\left(\\frac{1}{99} - \\frac{1}{100}\\right)$$\n$$A = 1 - \\frac{1}{100} = \\frac{99}{100}$$",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_quyluat_b1",
+    "name": "Bước 1: Nhận diện quy luật dạng $\\frac{k}{a \\times (a+k)}$",
+    "type": "STEP",
+    "parentId": "less_toan5_rutgon_quyluat",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_quyluat_b2",
+    "name": "Bước 2: Tách phân số thành hiệu hai phân số: $\\frac{k}{a \\times (a+k)} = \\frac{1}{a} - \\frac{1}{a+k}$",
+    "type": "STEP",
+    "parentId": "less_toan5_rutgon_quyluat",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_quyluat_b3",
+    "name": "Bước 3: Triệt tiêu các số hạng trung gian đối nhau để lấy kết quả",
+    "type": "STEP",
+    "parentId": "less_toan5_rutgon_quyluat",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_sosanhphanso",
+    "name": "Kỹ thuật so sánh phân số nâng cao",
+    "type": "LESSON",
+    "parentId": "top_toan5_phanso",
+    "examples": [
+      {
+        "id": "ex_toan5_sosanh_01",
+        "question": "So sánh hai phân số $\\frac{99}{100}$ và $\\frac{100}{101}$.",
+        "answer": "Sử dụng phương pháp So sánh phần bù với $1$:\nPhần bù của $\\frac{99}{100}$ là $1 - \\frac{99}{100} = \\frac{1}{100}$.\nPhần bù của $\\frac{100}{101}$ là $1 - \\frac{100}{101} = \\frac{1}{101}$.\nVì $\\frac{1}{100} > \\frac{1}{101}$ nên $\\frac{99}{100} < \\frac{100}{101}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_sosanh_b1",
+    "name": "So sánh phần bù (Dùng khi các phân số < 1 và có hiệu m - t không đổi): Phần bù lớn hơn thì phân số nhỏ hơn",
+    "type": "STEP",
+    "parentId": "less_toan5_sosanhphanso",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_sosanh_b2",
+    "name": "So sánh phần hơn (Dùng khi các phân số > 1 và có hiệu t - m không đổi): Phần hơn lớn hơn thì phân số lớn hơn",
+    "type": "STEP",
+    "parentId": "less_toan5_sosanhphanso",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_sosanh_b3",
+    "name": "So sánh qua phân số trung gian (Chọ $1$ hoặc phân số có cùng tử/mẫu)",
+    "type": "STEP",
+    "parentId": "less_toan5_sosanhphanso",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_sothapphan",
+    "name": "Số thập phân & Bốn phép tính",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_sopheptinh",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_pheptinh_stp",
+    "name": "Phép tính và Chuyển dấu phẩy Số thập phân",
+    "type": "LESSON",
+    "parentId": "top_toan5_sothapphan",
+    "examples": [
+      {
+        "id": "ex_toan5_stp_01",
+        "question": "Cho số thập phân $A$. Khi chuyển dấu phẩy của số $A$ sang phải một hàng ta được số $B$. Biết $B - A = 222,12$. Tìm số $A$.",
+        "answer": "Khi chuyển dấu phẩy của $A$ sang phải 1 hàng thì số $B$ gấp 10 lần số $A$.\nHiệu số phần bằng nhau là: $10 - 1 = 9$ (phần).\nGiá trị của số $A$ là: $222,12 : 9 = 24,68$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_stp_b1",
+    "name": "Cộng/Trừ STP: Đặt tính sao cho các dấu phẩy thẳng cột, thực hiện như số tự nhiên",
+    "type": "STEP",
+    "parentId": "less_toan5_pheptinh_stp",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_stp_b2",
+    "name": "Dịch dấu phẩy sang phải 1, 2, 3 hàng tương ứng nhân với 10, 100, 1000 (hoặc chia cho 0,1; 0,01; 0,001)",
+    "type": "STEP",
+    "parentId": "less_toan5_pheptinh_stp",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_chiahet_cautao",
+    "name": "Dấu hiệu chia hết & Dạng bài Cấu tạo số",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_sopheptinh",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_dienchuso_chiahet",
+    "name": "Điền chữ số (*) vào số thỏa mãn điều kiện chia hết",
+    "type": "LESSON",
+    "parentId": "top_toan5_chiahet_cautao",
+    "examples": [
+      {
+        "id": "ex_toan5_chiahet_01",
+        "question": "Tìm các chữ số $a$ và $b$ để số $\\overline{2a4b}$ chia hết cho cả $2$, $5$ và $9$.",
+        "answer": "1. Vì $\\overline{2a4b}$ chia hết cho cả $2$ và $5$ nên chữ số tận cùng $b$ phải bằng $0$. Số cần tìm có dạng $\\overline{2a40}$.\n2. Để $\\overline{2a40}$ chia hết cho $9$ thì tổng các chữ số $(2 + a + 4 + 0) = (6 + a)$ phải chia hết cho $9$.\nVì $a$ là chữ số từ $0$ đến $9$ nên $a = 3$.\nVậy $a = 3$ và $b = 0$, số tìm được là $2340$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_chiahet_b1",
+    "name": "Bước 1: Xét điều kiện chia hết cho 2 và 5 để xác định chữ số tận cùng b",
+    "type": "STEP",
+    "parentId": "less_toan5_dienchuso_chiahet",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_chiahet_b2",
+    "name": "Bước 2: Thay b vào, tính tổng các chữ số và dùng dấu hiệu chia hết cho 3, 9 để tìm chữ số a còn lại",
+    "type": "STEP",
+    "parentId": "less_toan5_dienchuso_chiahet",
+    "examples": null
+  },
+  {
+    "id": "cat_toan5_toanloivan",
+    "name": "Các dạng toán có lời văn điển hình",
+    "type": "CATEGORY",
+    "parentId": "root_toan5",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_tiso",
+    "name": "Bài toán Tỉ số (Tổng - Tỉ, Hiệu - Tỉ)",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_toanloivan",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_tongti",
+    "name": "Tìm hai số khi biết Tổng và Tỉ số",
+    "type": "LESSON",
+    "parentId": "top_toan5_tiso",
+    "examples": [
+      {
+        "id": "ex_toan5_tongti_01",
+        "question": "Lớp 5A có 40 học sinh, biết số học sinh nữ bằng $\\frac{2}{3}$ số học sinh nam. Hỏi lớp 5A có bao nhiêu học sinh nam và bao nhiêu học sinh nữ?",
+        "answer": "1. Tổng số phần bằng nhau là: $2 + 3 = 5$ (phần).\n2. Giá trị một phần là: $40 : 5 = 8$ (học sinh).\n3. Số học sinh nữ là: $8 \\times 2 = 16$ (học sinh).\n4. Số học sinh nam là: $40 - 16 = 24$ (học sinh).\nĐáp số: Nữ: 16 học sinh; Nam: 24 học sinh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_tongti_b1",
+    "name": "Bước 1: Vẽ sơ đồ đoạn thẳng biểu diễn hai số theo tỉ số",
+    "type": "STEP",
+    "parentId": "less_toan5_tongti",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tongti_b2",
+    "name": "Bước 2: Tìm tổng số phần bằng nhau = Số phần số bé + Số phần số lớn",
+    "type": "STEP",
+    "parentId": "less_toan5_tongti",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tongti_b3",
+    "name": "Bước 3: Tìm giá trị một phần = Tổng hai số : Tổng số phần bằng nhau",
+    "type": "STEP",
+    "parentId": "less_toan5_tongti",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tongti_b4",
+    "name": "Bước 4: Tìm số bé (Giá trị 1 phần x số phần số bé) và số lớn (Tổng - Số bé)",
+    "type": "STEP",
+    "parentId": "less_toan5_tongti",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_hieuti",
+    "name": "Tìm hai số khi biết Hiệu và Tỉ số",
+    "type": "LESSON",
+    "parentId": "top_toan5_tiso",
+    "examples": [
+      {
+        "id": "ex_toan5_hieuti_01",
+        "question": "Hiệu của hai số bằng 85. Tỉ số của hai số đó là $\\frac{3}{2}$. Tìm hai số đó.",
+        "answer": "1. Hiệu số phần bằng nhau là: $3 - 2 = 1$ (phần).\n2. Giá trị một phần là: $85 : 1 = 85$.\n3. Số bé là: $85 \\times 2 = 170$.\n4. Số lớn là: $170 + 85 = 255$.\nĐáp số: Số bé: 170; Số lớn: 255.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_hieuti_b1",
+    "name": "Bước 1: Vẽ sơ đồ đoạn thẳng biểu diễn hai số",
+    "type": "STEP",
+    "parentId": "less_toan5_hieuti",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_hieuti_b2",
+    "name": "Bước 2: Tìm hiệu số phần bằng nhau = Số phần số lớn - Số phần số bé",
+    "type": "STEP",
+    "parentId": "less_toan5_hieuti",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_hieuti_b3",
+    "name": "Bước 3: Tìm giá trị một phần = Hiệu hai số : Hiệu số phần bằng nhau",
+    "type": "STEP",
+    "parentId": "less_toan5_hieuti",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_hieuti_b4",
+    "name": "Bước 4: Tìm số bé và số lớn",
+    "type": "STEP",
+    "parentId": "less_toan5_hieuti",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_tisophantram",
+    "name": "Tỉ số phần trăm",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_toanloivan",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_3dang_tsp",
+    "name": "Ba bài toán cơ bản về Tỉ số phần trăm",
+    "type": "LESSON",
+    "parentId": "top_toan5_tisophantram",
+    "examples": [
+      {
+        "id": "ex_toan5_tsp_01",
+        "question": "Lớp 5A có 36 học sinh, trong đó có 9 bạn đạt học sinh xuất sắc. Hỏi số học sinh xuất sắc chiếm bao nhiêu phần trăm số học sinh cả lớp?",
+        "answer": "Tỉ số phần trăm của số học sinh xuất sắc và học sinh cả lớp là:\n$$9 : 36 = 0,25 = 25\\%$$\nĐáp số: $25\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_tsp_b1",
+    "name": "Dạng 1: Tìm TSP% của A và B -> Tính A : B rồi nhân 100 và thêm kí hiệu %",
+    "type": "STEP",
+    "parentId": "less_toan5_3dang_tsp",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tsp_b2",
+    "name": "Dạng 2: Tìm a% của số B -> Lấy B : 100 x a (hoặc B x a : 100)",
+    "type": "STEP",
+    "parentId": "less_toan5_3dang_tsp",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tsp_b3",
+    "name": "Dạng 3: Tìm một số khi biết a% của nó là C -> Lấy C : a x 100 (hoặc C : 100 x a)",
+    "type": "STEP",
+    "parentId": "less_toan5_3dang_tsp",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_tuoi_congviec",
+    "name": "Bài toán Tuổi tác & Công việc chung",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_toanloivan",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_boitoan_tuoi",
+    "name": "Bài toán Tuổi tác",
+    "type": "LESSON",
+    "parentId": "top_toan5_tuoi_congviec",
+    "examples": [
+      {
+        "id": "ex_toan5_tuoi_01",
+        "question": "Hiện nay mẹ hơn con 25 tuổi. Biết sau 2 năm nữa, tuổi con bằng $\\frac{2}{7}$ tuổi mẹ. Tính tuổi hiện nay của mỗi người.",
+        "answer": "1. Vì hiệu số tuổi không thay đổi theo thời gian nên sau 2 năm nữa mẹ vẫn hơn con 25 tuổi.\n2. Sau 2 năm nữa, hiệu số phần bằng nhau là: $7 - 2 = 5$ (phần).\n3. Tuổi con sau 2 năm nữa là: $25 : 5 \\times 2 = 10$ (tuổi).\n4. Tuổi con hiện nay là: $10 - 2 = 8$ (tuổi).\n5. Tuổi mẹ hiện nay là: $8 + 25 = 33$ (tuổi).\nĐáp số: Mẹ: 33 tuổi; Con: 8 tuổi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_tuoi_b1",
+    "name": "Bước 1: Ghi nhớ chìa khóa: Hiệu số tuổi của hai người KHÔNG THAY ĐỔI theo thời gian",
+    "type": "STEP",
+    "parentId": "less_toan5_boitoan_tuoi",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tuoi_b2",
+    "name": "Bước 2: Chuyển bài toán về dạng Hiệu - Tỉ ở thời điểm đề bài cho tỉ số",
+    "type": "STEP",
+    "parentId": "less_toan5_boitoan_tuoi",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_congviecchung",
+    "name": "Bài toán Công việc chung (Vòi nước chảy)",
+    "type": "LESSON",
+    "parentId": "top_toan5_tuoi_congviec",
+    "examples": [
+      {
+        "id": "ex_toan5_cvc_01",
+        "question": "Nếu bể không có nước, mở vòi 1 thì sau 5 giờ đầy bể, mở vòi 2 thì sau 6 giờ đầy bể. Hỏi nếu mở cả hai vòi cùng lúc thì trong 1 giờ cả hai vòi chảy được bao nhiêu phần bể?",
+        "answer": "1. Trong 1 giờ, vòi 1 chảy được: $1 : 5 = \\frac{1}{5}$ (bể).\n2. Trong 1 giờ, vòi 2 chảy được: $1 : 6 = \\frac{1}{6}$ (bể).\n3. Trong 1 giờ, cả hai vòi chảy được: $\\frac{1}{5} + \\frac{1}{6} = \\frac{11}{30}$ (bể).\nĐáp số: $\\frac{11}{30}$ bể.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_cvc_b1",
+    "name": "Bước 1: Quy ước toàn bộ công việc (hoặc dung tích bể) là 1 đơn vị",
+    "type": "STEP",
+    "parentId": "less_toan5_congviecchung",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_cvc_b2",
+    "name": "Bước 2: Tính năng suất trong 1 đơn vị thời gian của mỗi đối tượng (Năng suất = 1 : Thời gian riêng)",
+    "type": "STEP",
+    "parentId": "less_toan5_congviecchung",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_cvc_b3",
+    "name": "Bước 3: Tính năng suất chung = Tổng các năng suất riêng",
+    "type": "STEP",
+    "parentId": "less_toan5_congviecchung",
+    "examples": null
+  },
+  {
+    "id": "cat_toan5_chuyendong",
+    "name": "Toán Chuyển động đều",
+    "type": "CATEGORY",
+    "parentId": "root_toan5",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_chuyendong_coban",
+    "name": "Chuyển động cơ bản & Bài toán Hai vật chuyển động",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_chuyendong",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_haichuyendong",
+    "name": "Công thức cốt lõi & Bài toán Hai vật chuyển động",
+    "type": "LESSON",
+    "parentId": "top_toan5_chuyendong_coban",
+    "examples": [
+      {
+        "id": "ex_toan5_cd_01",
+        "question": "Quãng đường AB dài 180 km. Lúc 7 giờ, một ô tô đi từ A đến B với vận tốc 50 km/h, cùng lúc đó một xe máy đi từ B về A với vận tốc 40 km/h. Hỏi hai xe gặp nhau lúc mấy giờ?",
+        "answer": "1. Tổng hai vận tốc là: $50 + 40 = 90$ (km/h).\n2. Thời gian để hai xe đi đến chỗ gặp nhau là: $180 : 90 = 2$ (giờ).\n3. Hai xe gặp nhau lúc: $7\\text{ giờ} + 2\\text{ giờ} = 9\\text{ giờ}$.\nĐáp số: 9 giờ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_cd_b1",
+    "name": "Công thức 1 vật: $s = v \\times t$, $v = s : t$, $t = s : v$",
+    "type": "STEP",
+    "parentId": "less_toan5_haichuyendong",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_cd_b2",
+    "name": "Hai vật chuyển động NGƯỢC CHIỀU gặp nhau: $t_{\\text{gặp}} = s : (v_1 + v_2)$",
+    "type": "STEP",
+    "parentId": "less_toan5_haichuyendong",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_cd_b3",
+    "name": "Hai vật chuyển động CÙNG CHIỀU đuổi nhau: $t_{\\text{đuổi}} = s : (v_1 - v_2)$ (với $v_1 > v_2$)",
+    "type": "STEP",
+    "parentId": "less_toan5_haichuyendong",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_chuyendong_nangcao",
+    "name": "Các dạng Chuyển động Nâng cao",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_chuyendong",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_dongnuoc",
+    "name": "Chuyển động trên dòng nước",
+    "type": "LESSON",
+    "parentId": "top_toan5_chuyendong_nangcao",
+    "examples": [
+      {
+        "id": "ex_toan5_dongnuoc_01",
+        "question": "Một thuyền máy đi ngược dòng từ bến A đến B hết 2,5 giờ. Biết vận tốc thuyền khi nước lặng là 25,5 km/h và vận tốc dòng nước là 4,5 km/h. Tính quãng đường sông AB.",
+        "answer": "1. Vận tốc thuyền khi đi ngược dòng là:\n$$v_{\\text{ngược}} = 25,5 - 4,5 = 21\\text{ (km/h)}$$\n2. Độ dài quãng sông AB là:\n$$s = 21 \\times 2,5 = 52,5\\text{ (km)}$$\nĐáp số: 52,5 km.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_dongnuoc_b1",
+    "name": "Vận tốc xuôi dòng: $v_{\\text{xuôi}} = v_{\\text{thực}} + v_{\\text{dòng}}$",
+    "type": "STEP",
+    "parentId": "less_toan5_dongnuoc",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_dongnuoc_b2",
+    "name": "Vận tốc ngược dòng: $v_{\\text{ngược}} = v_{\\text{thực}} - v_{\\text{dòng}}$",
+    "type": "STEP",
+    "parentId": "less_toan5_dongnuoc",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_dongnuoc_b3",
+    "name": "Mối liên hệ trọng tâm: $v_{\\text{dòng}} = \\frac{v_{\\text{xuôi}} - v_{\\text{ngược}}}{2}$",
+    "type": "STEP",
+    "parentId": "less_toan5_dongnuoc",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_doantau",
+    "name": "Chuyển động của vật có chiều dài đáng kể (Đoàn tàu)",
+    "type": "LESSON",
+    "parentId": "top_toan5_chuyendong_nangcao",
+    "examples": [
+      {
+        "id": "ex_toan5_doantau_01",
+        "question": "Một đoàn tàu hoả đi qua cầu Long Biên dài 2290 m với vận tốc 24,3 km/h hết 6 phút. Tính chiều dài của đoàn tàu.",
+        "answer": "1. Đổi: $24,3\\text{ km/h} = 405\\text{ m/phút}$.\n2. Quãng đường đoàn tàu đi được trong 6 phút là: $405 \\times 6 = 2430\\text{ (m)}$.\n3. Quãng đường này đúng bằng tổng chiều dài đoàn tàu và chiều dài cầu.\nChiều dài của đoàn tàu là: $2430 - 2290 = 140\\text{ (m)}$.\nĐáp số: 140 m.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_doantau_b1",
+    "name": "Tàu qua 1 cột điện: Quãng đường đi được $s = l_{\\text{tàu}}$",
+    "type": "STEP",
+    "parentId": "less_toan5_doantau",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_doantau_b2",
+    "name": "Tàu qua 1 cái cầu/hầm: Quãng đường đi được $s = l_{\\text{tàu}} + l_{\\text{cầu}}$",
+    "type": "STEP",
+    "parentId": "less_toan5_doantau",
+    "examples": null
+  },
+  {
+    "id": "cat_toan5_hinhhoc",
+    "name": "Hình học và Đo lường",
+    "type": "CATEGORY",
+    "parentId": "root_toan5",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_hinhphang",
+    "name": "Hình học phẳng (Tam giác, Hình thang, Hình tròn)",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_hinhhoc",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_tamgiac_hinhthang_hinhtron",
+    "name": "Công thức Chu vi & Diện tích Hình phẳng",
+    "type": "LESSON",
+    "parentId": "top_toan5_hinhphang",
+    "examples": [
+      {
+        "id": "ex_toan5_hinhphang_01",
+        "question": "Tính diện tích hình thang có đáy lớn 12 cm, đáy bé 8 cm và chiều cao 6 cm.",
+        "answer": "Diện tích hình thang là:\n$$S = \\frac{(12 + 8) \\times 6}{2} = 60\\text{ (cm}^2)$$\nĐáp số: $60\\text{ cm}^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_hinhphang_b1",
+    "name": "Hình tam giác: $S = \\frac{a \\times h}{2}$ ($a$ là đáy, $h$ là chiều cao tương ứng)",
+    "type": "STEP",
+    "parentId": "less_toan5_tamgiac_hinhthang_hinhtron",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_hinhphang_b2",
+    "name": "Hình thang: $S = \\frac{(a + b) \\times h}{2}$ ($a, b$ là hai đáy, $h$ là chiều cao)",
+    "type": "STEP",
+    "parentId": "less_toan5_tamgiac_hinhthang_hinhtron",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_hinhphang_b3",
+    "name": "Hình tròn: Chu vi $C = d \\times 3,14 = r \\times 2 \\times 3,14$; Diện tích $S = r \\times r \\times 3,14$",
+    "type": "STEP",
+    "parentId": "less_toan5_tamgiac_hinhthang_hinhtron",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_tiso_dientich",
+    "name": "Tỉ số diện tích tam giác & Cắt ghép hình (Nâng cao)",
+    "type": "LESSON",
+    "parentId": "top_toan5_hinhphang",
+    "examples": [
+      {
+        "id": "ex_toan5_tisodt_01",
+        "question": "Cho tam giác $ABC$. Trên $BC$ lấy điểm $M$ sao cho $BM = \\frac{1}{3} BC$. So sánh diện tích tam giác $ABM$ và tam giác $ABC$.",
+        "answer": "Hai tam giác $ABM$ và $ABC$ có chung chiều cao hạ từ đỉnh $A$ xuống cạnh đáy $BC$.\nVì đáy $BM = \\frac{1}{3} BC$ nên diện tích tam giác $ABM$ bằng $\\frac{1}{3}$ diện tích tam giác $ABC$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_tisodt_b1",
+    "name": "Bước 1: Tìm mối quan hệ chung chiều cao (hoặc chung cạnh đáy) giữa các tam giác",
+    "type": "STEP",
+    "parentId": "less_toan5_tiso_dientich",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_tisodt_b2",
+    "name": "Bước 2: Lập tỉ số các đáy (hoặc chiều cao) suy ra tỉ số diện tích tương ứng",
+    "type": "STEP",
+    "parentId": "less_toan5_tiso_dientich",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_hinhkhoi",
+    "name": "Hình khối (HHCN & Hình lập phương)",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_hinhhoc",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_hhcn_hlp",
+    "name": "Diện tích xung quanh, Toàn phần & Thể tích Hình khối",
+    "type": "LESSON",
+    "parentId": "top_toan5_hinhkhoi",
+    "examples": [
+      {
+        "id": "ex_toan5_hhcn_01",
+        "question": "Một bể cá dạng hình hộp chữ nhật không có nắp có chiều dài 2 m, chiều rộng 1 m và chiều cao 1 m. Tính diện tích kính cần dùng làm bể.",
+        "answer": "1. Diện tích xung quanh bể cá là: $(2 + 1) \\times 2 \\times 1 = 6\\text{ (m}^2)$.\n2. Diện tích 1 mặt đáy là: $2 \\times 1 = 2\\text{ (m}^2)$.\n3. Vì bể không có nắp nên diện tích kính cần dùng là:\n$$S = 6 + 2 = 8\\text{ (m}^2)$$\nĐáp số: $8\\text{ m}^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_hhcn_b1",
+    "name": "HHCN: $S_{xq} = (a + b) \\times 2 \\times c$, $S_{tp} = S_{xq} + 2 \\times a \\times b$, $V = a \\times b \\times c$",
+    "type": "STEP",
+    "parentId": "less_toan5_hhcn_hlp",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_hhcn_b2",
+    "name": "HLP: $S_{xq} = a \\times a \\times 4$, $S_{tp} = a \\times a \\times 6$, $V = a \\times a \\times a$",
+    "type": "STEP",
+    "parentId": "less_toan5_hhcn_hlp",
+    "examples": null
+  },
+  {
+    "id": "cat_toan5_phuongphap",
+    "name": "Các Phương pháp giải toán đặc xé (Nâng cao thi chuyên)",
+    "type": "CATEGORY",
+    "parentId": "root_toan5",
+    "examples": null
+  },
+  {
+    "id": "top_toan5_tuyetchieu",
+    "name": "Các Phương pháp giải toán điển hình",
+    "type": "TOPIC",
+    "parentId": "cat_toan5_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_giathiet-tam",
+    "name": "Phương pháp Giả thiết tạm",
+    "type": "LESSON",
+    "parentId": "top_toan5_tuyetchieu",
+    "examples": [
+      {
+        "id": "ex_toan5_gtt_01",
+        "question": "Vừa gà vừa chó, bó lại cho tròn, 36 con, 100 chân tròn. Hỏi có bao nhiêu con gà, bao nhiêu con chó?",
+        "answer": "1. Giả sử cả 36 con đều là gà.\n2. Tổng số chân khi đó là: $36 \\times 2 = 72$ (chân).\n3. Số chân bị thiếu so với thực tế là: $100 - 72 = 28$ (chân).\n4. Thay 1 con gà bằng 1 con chó thì số chân tăng thêm: $4 - 2 = 2$ (chân).\n5. Số con chó là: $28 : 2 = 14$ (con).\n6. Số con gà là: $36 - 14 = 22$ (con).\nĐáp số: 22 con gà; 14 con chó.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_gtt_b1",
+    "name": "Bước 1: Giả định tình huống cực đoan (Giả sử tất cả đối tượng đều thuộc về 1 loại)",
+    "type": "STEP",
+    "parentId": "less_toan5_giathiet-tam",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_gtt_b2",
+    "name": "Bước 2: Tính tổng giả định và so sánh với tổng thực tế để tìm số lượng chênh lệch",
+    "type": "STEP",
+    "parentId": "less_toan5_giathiet-tam",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_gtt_b3",
+    "name": "Bước 3: Tính sự chênh lệch giữa 1 đơn vị loại này và 1 đơn vị loại kia, từ đó tính ra số lượng mỗi loại",
+    "type": "STEP",
+    "parentId": "less_toan5_giathiet-tam",
+    "examples": null
+  },
+  {
+    "id": "less_toan5_daiso_the",
+    "name": "Phương pháp Đại số thay thế & Khử",
+    "type": "LESSON",
+    "parentId": "top_toan5_tuyetchieu",
+    "examples": [
+      {
+        "id": "ex_toan5_daiso_01",
+        "question": "Mua 3 kg cam và 2 kg táo hết 120 000 đồng. Mua 3 kg cam và 5 kg táo hết 180 000 đồng. Tính giá tiền 1 kg mỗi loại.",
+        "answer": "1. Số kilôgam táo ở lần sau nhiều hơn lần đầu là: $5 - 2 = 3$ (kg).\n2. Số tiền chênh lệch $180000 - 120000 = 60000$ đồng chính là giá tiền của 3 kg táo.\n3. Giá tiền 1 kg táo là: $60000 : 3 = 20000$ (đồng).\n4. Giá tiền 3 kg cam là: $120000 - (20000 \\times 2) = 80000$ (đồng).\nGiá tiền 1 kg cam là: $80000 : 3 = 26666,67$ (đồng).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_toan5_daiso_b1",
+    "name": "Bước 1: So sánh hai đại lượng để tìm sự chênh lệch và triệt tiêu (khử) đại lượng giống nhau",
+    "type": "STEP",
+    "parentId": "less_toan5_daiso_the",
+    "examples": null
+  },
+  {
+    "id": "step_toan5_daiso_b2",
+    "name": "Bước 2: Biểu diễn một đại lượng theo đại lượng còn lại (thay thế) để giải bài toán",
+    "type": "STEP",
+    "parentId": "less_toan5_daiso_the",
+    "examples": null
+  }
+]
