@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "anh10_SUBJECT",
+    "name": "ENG10 - Tiếng Anh 10 (Global Success)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "anh10_CAT_PHONETICS",
+    "name": "Phonetics & Word Stress",
+    "type": "CATEGORY",
+    "parentId": "anh10_SUBJECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_PRONUNCIATION",
+    "name": "Consonant Blends & Sentence Stress",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_PHONETICS",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_CONSONANT_BLENDS",
+    "name": "Phát âm cụm phụ âm kép (/br/, /kr/, /tr/, /kl/, /pl/, /gr/, /pr/)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_PRONUNCIATION",
+    "examples": [
+      {
+        "id": "ex_anh10_blends_1",
+        "question": "[Trắc nghiệm Ngữ âm - Phụ âm kép]: Mark the letter A, B, C, or D to indicate the word whose underlined part differs from the other three in pronunciation: A. bread, B. create, C. cream, D. crash.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Bẫy nhầm giữa âm /br/ và /kr/ do mặt chữ có nhóm 'cr' tương tự nhau. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Phân tích phát âm phụ âm đầu: 'bread' phát âm là /br/ (/bred/); 'create' (/kriːˈeɪt/), 'cream' (/kriːm/), 'crash' (/kræʃ/) đều có phụ âm kép phát âm là /kr/. Thực hiện thuật toán loại trừ ➔ B, C, D đều phát âm âm đầu là /kr/, suy ra A có phần gạch chân phát âm là /br/ khác loại. Giải thích ngữ nghĩa và đáp án ➔ B, C, D thuộc âm /kr/, A thuộc âm /br/. Đáp án đúng: A.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_anh10_blends_2",
+        "question": "[Trắc nghiệm Ngữ âm - Phụ âm kép]: Mark the letter A, B, C, or D to indicate the word whose underlined part differs from the other three in pronunciation: A. track, B. train, C. plastic, D. tree.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện cụm phụ âm /tr/ vs /pl/. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ 'track' (/træk/), 'train' (/treɪn/), 'tree' (/triː/) đều bắt đầu bằng phụ âm kép /tr/; trong khi 'plastic' (/ˈplæstɪk/) bắt đầu bằng cụm phụ âm /pl/. Thực hiện thuật toán loại trừ ➔ A, B, D chọn phát âm /tr/, C thuộc /pl/. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: C.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_BLENDS_1",
+    "name": "Quy tắc phụ âm kép ➔ Phát âm liền mạch 2 phụ âm không chèn nguyên âm /ə/",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONSONANT_BLENDS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_BLENDS_2",
+    "name": "Mẹo phân biệt âm ➔ /br/ (phụ âm kép hữu thanh) vs /kr/ (phụ âm kép vô thanh)",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONSONANT_BLENDS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_BLENDS_3",
+    "name": "Thuật toán giải ➔ Nhẩm âm đầu ➔ Nhóm 3 từ cùng âm ➔ Loại trừ chọn từ khác",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONSONANT_BLENDS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_BLENDS_4",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa /tr/ và /ch/ do phát âm việt hóa sai chuẩn quốc tế",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONSONANT_BLENDS",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_SENTENCE_STRESS",
+    "name": "Trọng âm câu, nhịp điệu (Rhythm) & Ngữ điệu (Intonation)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_PRONUNCIATION",
+    "examples": [
+      {
+        "id": "ex_anh10_stress_sentence_1",
+        "question": "[Trắc nghiệm Trọng âm câu]: Which of the following words in the sentence is normally STRESSED? 'She is cooking dinner in the kitchen.' A. is, B. in, C. the, D. cooking.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Trọng âm câu rơi vào Content words (Từ mang thông tin) gồm Noun, Verb, Adj, Adv; không rơi vào Structure words (Auxiliary, Preposition, Article). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ 'is' (Auxiliary), 'in' (Preposition), 'the' (Article) là Structure words ➔ Unstressed. 'cooking' (Main Verb) là Content word ➔ Stressed. Thực hiện thuật toán loại trừ ➔ Loại A, B, C. Chọn D. Giải thích ngữ nghĩa và đáp án ➔ 'cooking' nhận trọng âm chính. Đáp án đúng: D.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_anh10_stress_sentence_2",
+        "question": "[Trắc nghiệm Ngữ điệu câu]: What is the correct intonation for a Yes/No question like 'Are you going to the eco-tour tomorrow?' A. Falling intonation, B. Rising intonation, C. Flat tone, D. Fall-rise tone.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Quy tắc ngữ điệu câu hỏi trong Tiếng Anh. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Yes/No Questions ➔ Rising intonation (Lên giọng ở cuối câu); Wh-questions ➔ Falling intonation (Xuống giọng cuối câu). Thực hiện thuật toán loại trừ ➔ 'Are you...' là Yes/No question suy ra chọn Rising intonation. Giải thích ngữ nghĩa và đáp án ➔ Đáp án B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_SENT_STRESS_1",
+    "name": "Content words (N, V, Adj, Adv) ➔ Nhận trọng âm câu",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_STRESS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_SENT_STRESS_2",
+    "name": "Structural words (Prep, Pronoun, Aux) ➔ Không nhận trọng âm",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_STRESS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_SENT_STRESS_3",
+    "name": "Quy tắc ngữ điệu ➔ Yes/No $Q \\rightarrow$ Lên giọng; Wh-$Q \\rightarrow$ Xuống giọng",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_STRESS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_SENT_STRESS_4",
+    "name": "Né bẫy ➔ Nhầm trọng âm câu với trọng âm từ riêng lẻ trong bài trắc nghiệm",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_STRESS",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_WORD_STRESS",
+    "name": "Rules of Word Stress",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_PHONETICS",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_STRESS_2_3",
+    "name": "Quy tắc trọng âm từ 2 và 3 âm tiết",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_WORD_STRESS",
+    "examples": [
+      {
+        "id": "ex_anh10_stress_23_1",
+        "question": "[Trắc nghiệm Trọng âm từ 2 âm tiết]: Mark the letter A, B, C, or D to indicate the word whose main stress is placed differently: A. donate, B. protect, C. adopt, D. household.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Phân loại Danh từ vs Động từ 2 âm tiết. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Động từ 2 âm tiết trọng âm rơi vào âm tiết 2 (do'nate /doʊˈneɪt/, pro'tect /prəˈtekt/, a'dopt /əˈdɑːpt/); Danh từ 2 âm tiết trọng âm rơi vào âm tiết 1 ('household /ˈhaʊshoʊld/). Thực hiện thuật toán loại trừ ➔ A, B, C trọng âm 2, D trọng âm 1. Giải thích ngữ nghĩa và đáp án ➔ D khác loại với 3 động từ còn lại. Đáp án đúng: D.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_anh10_stress_23_2",
+        "question": "[Trắc nghiệm Trọng âm từ 3 âm tiết]: Mark the letter A, B, C, or D to indicate the word whose main stress is placed differently: A. volunteer, B. energy, C. benefit, D. family.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện hậu tố đặc biệt '-eer' nhận trọng âm. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Hậu tố '-eer' kéo trọng âm rơi vào chính nó: volun'teer /ˌvɑːlənˈtɪr/ (trọng âm 3). Các từ còn lại: 'energy /ˈenərdʒi/ (1), 'benefit /ˈbenɪfɪt/ (1), 'family /ˈfæməli/ (1). Thực hiện thuật toán loại trừ ➔ B, C, D trọng âm 1, A trọng âm 3. Giải thích ngữ nghĩa và đáp án ➔ Đáp án A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_STRESS_23_1",
+    "name": "Động từ 2 âm tiết $V_2 \\rightarrow$ Trọng âm âm 2; Danh/Tính $N_2/Adj_2 \\rightarrow$ Trọng âm âm 1",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_2_3",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_STRESS_23_2",
+    "name": "Âm /ə/ hoặc /i/ ngắn $i/ə \\rightarrow$ Tuyệt đối KHÔNG nhận trọng âm",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_2_3",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_STRESS_23_3",
+    "name": "Hậu tố kéo trọng âm -eer, -ee, -ese $\\rightarrow$ Trọng âm chính tại hậu tố",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_2_3",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_STRESS_23_4",
+    "name": "Né bẫy ➔ Danh từ ghép (Trọng âm 1) vs Động từ ghép (Trọng âm 2)",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_2_3",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_STRESS_MULTI",
+    "name": "Trọng âm từ nhiều âm tiết (>3 âm tiết) & Hậu tố đuôi",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_WORD_STRESS",
+    "examples": [
+      {
+        "id": "ex_anh10_stress_multi_1",
+        "question": "[Trắc nghiệm Trọng âm đuôi]: Mark the letter A, B, C, or D to indicate the word whose main stress is placed differently: A. environment, B. equality, C. electronic, D. traditional.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện hậu tố đuôi -ic, -ity, -ion, -al. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Đuôi '-ic' trọng âm rơi vào âm tiết NGAY TRƯỚC NÓ: elec'tronic /ɪˌlekˈtrɑːnɪk/ (trọng âm 3). Đuôi '-ity', '-al', '-ment': e'quality (2), en'vironment (2), tra'ditional (2). Thực hiện thuật toán loại trừ ➔ A, B, D trọng âm 2; C trọng âm 3. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: C.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_STRESS_MULTI_1",
+    "name": "Hậu tố -ic, -tion, -sion, -ity $\\rightarrow$ Trọng âm rơi vào âm ngay trước đuôi",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_MULTI",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_STRESS_MULTI_2",
+    "name": "Hậu tố -ate, -fy, -gy, -phy $\\rightarrow$ Trọng âm đếm ngược từ cuối lên 3 âm tiết",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_MULTI",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_STRESS_MULTI_3",
+    "name": "Tiền tố/Hậu tố không đổi (un-, im-, -ment, -ness) $\\rightarrow$ Giữ nguyên trọng âm từ gốc",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_MULTI",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_STRESS_MULTI_4",
+    "name": "Né bẫy ➔ Nhầm đuôi -ic (trước đuôi) với đuôi -ical, -ity (vẫn dịch trước đuôi)",
+    "type": "STEP",
+    "parentId": "anh10_LES_STRESS_MULTI",
+    "examples": null
+  },
+  {
+    "id": "anh10_CAT_LEXICO_GRAMMAR",
+    "name": "Lexico - Grammar (Từ vựng & Ngữ pháp)",
+    "type": "CATEGORY",
+    "parentId": "anh10_SUBJECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_TENSES",
+    "name": "System of Tenses & Aspects",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_LEXICO_GRAMMAR",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_PRES_SIMPLE_CONT",
+    "name": "Phân biệt Thì Hiện tại đơn & Hiện tại tiếp diễn",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_TENSES",
+    "examples": [
+      {
+        "id": "ex_anh10_pres_1",
+        "question": "[Trắc nghiệm Thì Hiện tại]: My brother usually _____ dinner for the family, but today he _____ for a school project. A. cooks / is studying, B. is cooking / studies, C. cook / study, D. cooks / studied.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện trạng từ chỉ tần suất 'usually' (Thói quen quen thuộc) vs 'today' / 'for a school project' (Hành động tạm thời). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Thói quen lặp đi lặp lại $S + V(s/es)$ ➔ 'usually cooks'. Hành động tạm thời ở hiện tại $S + am/is/are + V\\text{-ing}$ ➔ 'is studying'. Thực hiện thuật toán loại trừ ➔ Vế 1 dùng Present Simple loại B, C. Vế 2 dùng Present Continuous loại D. Chọn A. Giải thích ngữ nghĩa và đáp án ➔ Anh trai tôi thường nấu ăn (thói quen), nhưng hôm nay anh ấy đang học bài (tạm thời). Đáp án đúng: A.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_anh10_pres_2",
+        "question": "[Trắc nghiệm Động từ chỉ trạng thái Stative Verbs]: Listen! The music sounds great. I _____ this new album very much. A. am liking, B. like, C. was liking, D. have been liking.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Bẫy động từ chỉ cảm xúc 'like' là Stative Verb. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Stative Verbs (like, love, need, want, believe, know) KHÔNG chia ở thì tiếp diễn $V\\text{-ing}$. Do đó mặc dù có 'Listen!', ta vẫn phải chia ở Hiện tại đơn với 'like'. Thực hiện thuật toán loại trừ ➔ Loại A, C, D do chia tiếp diễn. Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_PRES_1",
+    "name": "Present Simple $S + V(s/es) \\rightarrow$ Thói quen, sự thật hiển nhiên, lịch trình",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRES_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PRES_2",
+    "name": "Present Continuous $S + am/is/are + V\\text{-ing} \\rightarrow$ Đang xảy ra, tính tạm thời",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRES_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PRES_3",
+    "name": "Stative Verbs (like, love, know, think, want) $\\rightarrow$ KHÔNG chia thì tiếp diễn",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRES_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PRES_4",
+    "name": "Né bẫy ➔ Nhầm 'think' ý kiến (Simple) với 'think' đang cân nhắc (Continuous)",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRES_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_PAST_SIMPLE_CONT",
+    "name": "Phân biệt Thì Quá khứ đơn & Quá khứ tiếp diễn với When / While",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_TENSES",
+    "examples": [
+      {
+        "id": "ex_anh10_past_1",
+        "question": "[Trắc nghiệm Kết hợp Thì Quá khứ]: While Nam _____ the house, he found his lost wallet. A. cleaned, B. is cleaning, C. was cleaning, D. clean.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Cấu trúc kết hợp hành động đang xảy ra bị hành động khác chen vào trong quá khứ. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Sau liên từ 'While' diễn tả hành động đang diễn ra trong quá khứ $S + was/were + V\\text{-ing}$. Hành động xen vào chia Quá khứ đơn ($V_2/ed$ - 'found'). Thực hiện thuật toán loại trừ ➔ Loại A, B, D. Chọn C 'was cleaning'. Giải thích ngữ nghĩa và đáp án ➔ Trong khi Nam đang dọn nhà (hành động kéo dài), anh ấy tìm thấy ví (hành động xen vào). Đáp án đúng: C.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_PAST_1",
+    "name": "Hành động đang kéo dài $S + was/were + V\\text{-ing}$ (Dùng sau While/When)",
+    "type": "STEP",
+    "parentId": "anh10_LES_PAST_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PAST_2",
+    "name": "Hành động chen ngang $S + V_2/ed$ (Dùng sau When)",
+    "type": "STEP",
+    "parentId": "anh10_LES_PAST_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PAST_3",
+    "name": "Hai hành động song song cùng kéo dài $While + S1 + was/were + V1-ing, S2 + was/were + V2-ing$",
+    "type": "STEP",
+    "parentId": "anh10_LES_PAST_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PAST_4",
+    "name": "Né bẫy ➔ Dùng nhầm 'is/are' cho hành động quá khứ do không đọc kĩ vế sau",
+    "type": "STEP",
+    "parentId": "anh10_LES_PAST_SIMPLE_CONT",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_PRESENT_PERFECT",
+    "name": "Thì Hiện tại hoàn thành & Dấu hiệu (Since, For, Just, Already, Yet)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_TENSES",
+    "examples": [
+      {
+        "id": "ex_anh10_perf_1",
+        "question": "[Trắc nghiệm Thì Hiện tại hoàn thành]: Green Summer organization _____ thousands of trees in this area since 2020. A. planted, B. has planted, C. have planted, D. is planting.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện trạng từ chìa khóa 'since 2020' (Mốc thời gian) ➔ Thì Hiện tại hoàn thành. Bẫy chủ ngữ số ít 'organization'. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ $Since + Mốc\\ thời\\ gian \\rightarrow S + have/has + V\\text{-p2}$. 'Green Summer organization' là danh từ tập hợp số ít ➔ 'has planted'. Thực hiện thuật toán loại trừ ➔ Loại A (Past Simple), C (dùng 'have' sai số ít), D (Continuous). Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Tổ chức Mùa hè xanh đã trồng hàng ngàn cây xanh từ năm 2020 đến nay. Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_PERF_1",
+    "name": "Present Perfect $S + have/has + V\\text{-p2} \\rightarrow$ Trải nghiệm, kết quả đến hiện tại",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRESENT_PERFECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PERF_2",
+    "name": "Phân biệt $Since + Mốc\\ thời\\ gian$ vs $For + Khoảng\\ thời\\ gian$",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRESENT_PERFECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PERF_3",
+    "name": "Vị trí trạng từ: Just/Already (giữa have/has và V-p2); Yet (cuối câu phủ định/nghi vấn)",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRESENT_PERFECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PERF_4",
+    "name": "Né bẫy ➔ Nhầm Quá khứ đơn (có mốc thời gian đã chấm dứt) với Hiện tại hoàn thành",
+    "type": "STEP",
+    "parentId": "anh10_LES_PRESENT_PERFECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_FUTURE_WILL_GOING_TO",
+    "name": "Phân biệt Tương lai đơn (Will) & Tương lai gần (Be going to)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_TENSES",
+    "examples": [
+      {
+        "id": "ex_anh10_fut_1",
+        "question": "[Trắc nghiệm Tương lai]: Look at those dark clouds! It _____ soon. A. will rain, B. is going to rain, C. rains, D. rained.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện câu dự đoán có bằng chứng ở hiện tại 'Look at those dark clouds!'. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Dự đoán có căn cứ/bằng chứng trực quan ở hiện tại $\\rightarrow S + am/is/are + going\\ to + V\\text{-bare}$. Dự đoán bộc phát không bằng chứng / Quyết định ngay lúc nói $\\rightarrow Will + V\\text{-bare}$. Thực hiện thuật toán loại trừ ➔ Có bằng chứng mây đen chọn 'is going to rain' (B). Loại A, C, D. Giải thích ngữ nghĩa và đáp án ➔ Nhìn những đám mây đen kìa! Trời sắp mưa rồi. Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_FUT_1",
+    "name": "Be going to $S + am/is/are + going\\ to + V\\text{-bare} \\rightarrow$ Kế hoạch sẵn/Dự đoán có bằng chứng",
+    "type": "STEP",
+    "parentId": "anh10_LES_FUTURE_WILL_GOING_TO",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_FUT_2",
+    "name": "Will $S + will + V\\text{-bare} \\rightarrow$ Quyết định tức thì/Lời hứa/Dự đoán cảm tính",
+    "type": "STEP",
+    "parentId": "anh10_LES_FUTURE_WILL_GOING_TO",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_FUT_3",
+    "name": "Thuật toán quét từ chìa khóa ➔ Nhận diện bằng chứng trực quan thực tế để chia Be going to",
+    "type": "STEP",
+    "parentId": "anh10_LES_FUTURE_WILL_GOING_TO",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_FUT_4",
+    "name": "Né bẫy ➔ Nhầm kế hoạch cá nhân (Be going to) với lịch trình tàu xe cố định (Hiện tại đơn)",
+    "type": "STEP",
+    "parentId": "anh10_LES_FUTURE_WILL_GOING_TO",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_PASSIVE_VOICE",
+    "name": "Passive Voice Structures",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_LEXICO_GRAMMAR",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_PASSIVE_BASIC_MODALS",
+    "name": "Bị động các thì cơ bản & Bị động Động từ khuyết thiếu (Modals)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_PASSIVE_VOICE",
+    "examples": [
+      {
+        "id": "ex_anh10_pas_1",
+        "question": "[Trắc nghiệm Câu bị động Modal Verbs]: Plastic bags _____ with reusable bags to protect the environment. A. should replace, B. should be replaced, C. should being replaced, D. should be replacing.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Bị động với Modal Verb 'should'. Chủ ngữ 'Plastic bags' (túi nilon) là vật ➔ Cần dạng bị động. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Công thức bị động Modal Verbs $S + Modal + be + V\\text{-p2}$. 'should' + 'be' + 'replaced'. Thực hiện thuật toán loại trừ ➔ Loại A (Chủ động), C (sai dạng 'being'), D (Chủ động tiếp diễn). Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Túi nilon nên được thay thế bằng túi tái sử dụng để bảo vệ môi trường. Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_PAS_1",
+    "name": "Passive Modal Verbs $S + Modal + be + V\\text{-p2}$ (can, must, should, may)",
+    "type": "STEP",
+    "parentId": "anh10_LES_PASSIVE_BASIC_MODALS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PAS_2",
+    "name": "Passive Basic Tenses $S + be + V\\text{-p2}$ (be chia theo thì và chủ ngữ mới)",
+    "type": "STEP",
+    "parentId": "anh10_LES_PASSIVE_BASIC_MODALS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PAS_3",
+    "name": "Thuật toán Bị động ➔ Xác định Tân ngữ $O \\rightarrow S_{mới}$ ➔ Chia $be + V\\text{-p2}$ ➔ Đặt $by + O$",
+    "type": "STEP",
+    "parentId": "anh10_LES_PASSIVE_BASIC_MODALS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_PAS_4",
+    "name": "Né bẫy ➔ Quên đổi 'be' tương ứng với chủ ngữ mới số ít hay số nhiều",
+    "type": "STEP",
+    "parentId": "anh10_LES_PASSIVE_BASIC_MODALS",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_CLAUSES_SENTENCES",
+    "name": "Relative Clauses, Conditionals & Reported Speech",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_LEXICO_GRAMMAR",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_RELATIVE_CLAUSES",
+    "name": "Mệnh đề quan hệ & Rút gọn mệnh đề quan hệ",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_CLAUSES_SENTENCES",
+    "examples": [
+      {
+        "id": "ex_anh10_rel_1",
+        "question": "[Trắc nghiệm Mệnh đề quan hệ]: The musician _____ composed this song has won many international awards. A. which, B. whom, C. who, D. whose.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện từ chỉ người 'The musician' đứng trước vị trí trống và động từ 'composed' đứng ngay sau. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Danh từ chỉ người + $WHO + V$. 'Whom' đóng vai trò tân ngữ (sau đó là S+V). 'Whose' chỉ sở hữu (sau đó là N). 'Which' chỉ vật. Thực hiện thuật toán loại trừ ➔ Chọn C 'who'. Loại A, B, D. Giải thích ngữ nghĩa và đáp án ➔ Nhạc sĩ người mà sáng tác bài hát này đã giành được nhiều giải thưởng quốc tế. Đáp án đúng: C.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_anh10_rel_2",
+        "question": "[Trắc nghiệm Rút gọn Mệnh đề quan hệ]: The volunteers _____ tree planting campaign last week worked very hard. A. participating in, B. participated in, C. who participating in, D. which participate in.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Rút gọn mệnh đề quan hệ dạng chủ động (Active Relative Clause). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Rút gọn mệnh đề quan hệ chủ động $N + V\\text{-ing}$. Câu gốc: 'The volunteers who participated in...'. Rút gọn thành: 'The volunteers participating in...'. Thực hiện thuật toán loại trừ ➔ C sai ngữ pháp ('who' + V-ing). D sai đại từ 'which' cho người. B dễ nhầm thành V2 quá khứ nhưng câu đã có động từ chính 'worked'. Chọn A. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_REL_1",
+    "name": "Who (Người+V), Whom (Người+S+V), Which (Vật), Whose (Sở hữu+N), That (Thay Who/Which)",
+    "type": "STEP",
+    "parentId": "anh10_LES_RELATIVE_CLAUSES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_REL_2",
+    "name": "Rút gọn chủ động ➔ Bỏ ĐTQH $\\rightarrow V\\text{-ing}$",
+    "type": "STEP",
+    "parentId": "anh10_LES_RELATIVE_CLAUSES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_REL_3",
+    "name": "Rút gọn bị động ➔ Bỏ ĐTQH + Be $\\rightarrow V\\text{-p2}$",
+    "type": "STEP",
+    "parentId": "anh10_LES_RELATIVE_CLAUSES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_REL_4",
+    "name": "Né bẫy ➔ Dùng 'that' trong mệnh đề quan hệ không xác định (có dấu phẩy ',')",
+    "type": "STEP",
+    "parentId": "anh10_LES_RELATIVE_CLAUSES",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_REPORTED_SPEECH",
+    "name": "Câu tường thuật (Reported Speech) & Lùi thì",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_CLAUSES_SENTENCES",
+    "examples": [
+      {
+        "id": "ex_anh10_rep_1",
+        "question": "[Trắc nghiệm Câu tường thuật]: 'I am joining a green campaign tomorrow,' said Lan. ➔ Lan said that she _____ a green campaign _____ . A. is joining / tomorrow, B. was joining / the following day, C. joined / the next day, D. was joining / tomorrow.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Lùi thì và biến đổi trạng từ thời gian trong câu tường thuật. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Present Continuous 'am joining' $\\rightarrow$ Past Continuous 'was joining'. Trạng từ 'tomorrow' $\\rightarrow$ 'the following day' / 'the next day'. Thực hiện thuật toán loại trừ ➔ Loại A, D do giữ nguyên 'tomorrow'. Loại C do lùi sai thì Quá khứ đơn. Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_REP_1",
+    "name": "Quy tắc lùi thì ➔ V_1/is/are $\\rightarrow V_2/was/were$; $V_2/ed \\rightarrow had + V\\text{-p2}$; $will \\rightarrow would$",
+    "type": "STEP",
+    "parentId": "anh10_LES_REPORTED_SPEECH",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_REP_2",
+    "name": "Đổi trạng từ ➔ $now \\rightarrow then$; $today \\rightarrow that\\ day$; $tomorrow \\rightarrow the\\ next/following\\ day$",
+    "type": "STEP",
+    "parentId": "anh10_LES_REPORTED_SPEECH",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_REP_3",
+    "name": "Tường thuật câu hỏi ➔ Yes/No $Q \\rightarrow S + asked + if/whether + S + V_{lùi\\ thì}$",
+    "type": "STEP",
+    "parentId": "anh10_LES_REPORTED_SPEECH",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_REP_4",
+    "name": "Né bẫy ➔ Quên đảo ngữ câu hỏi về dạng trần thuật trong câu tường thuật",
+    "type": "STEP",
+    "parentId": "anh10_LES_REPORTED_SPEECH",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_CONDITIONAL_SENTENCES",
+    "name": "Câu điều kiện Loại 1 & Loại 2 (Conditional Type 1 & 2)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_CLAUSES_SENTENCES",
+    "examples": [
+      {
+        "id": "ex_anh10_cond_1",
+        "question": "[Trắc nghiệm Câu điều kiện Loại 2]: If people _____ plastic waste into the ocean, marine life would be protected better. A. don't throw, B. didn't throw, C. haven't thrown, D. won't throw.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện Mệnh đề chính 'would be protected' ➔ Câu điều kiện Loại 2 (Trái với thực tế ở hiện tại). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Công thức Conditional Type 2 $If + S + V_2/ed, S + would/could + V\\text{-bare}$. Mệnh đề If chia Quá khứ đơn phủ định $\\rightarrow$ 'didn't throw'. Thực hiện thuật toán loại trừ ➔ Loại A (Loại 1), C (Hiện tại hoàn thành), D (Will/Won't không dùng trong mệnh đề If). Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_COND_1",
+    "name": "Conditional Type 1 $If + S + V(s/es), S + will/can + V\\text{-bare} \\rightarrow$ Có thể xảy ra ở hiện tại/tương lai",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONDITIONAL_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_COND_2",
+    "name": "Conditional Type 2 $If + S + V_2/ed\\ (were), S + would/could + V\\text{-bare} \\rightarrow$ Giả định trái hiện tại",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONDITIONAL_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_COND_3",
+    "name": "To-be trong Type 2 ➔ Dùng 'were' cho TẤT CẢ các ngôi chủ ngữ trong mệnh đề If",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONDITIONAL_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_COND_4",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa Loại 1 (Thực tế) và Loại 2 (Giả định) khi đọc tình huống",
+    "type": "STEP",
+    "parentId": "anh10_LES_CONDITIONAL_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_COMPOUND_SENTENCES",
+    "name": "Câu ghép, Liên từ (FANBOYS) & Từ nối nguyên nhân - kết quả",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_CLAUSES_SENTENCES",
+    "examples": [
+      {
+        "id": "ex_anh10_conn_1",
+        "question": "[Trắc nghiệm Liên từ]: Renewable energy sources are clean and unlimited; _____, they are still quite expensive to install. A. however, B. therefore, C. because, D. so.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện dấu chấm phẩy ';' phía trước và dấu phẩy ',' phía sau vị trí trống ➔ Cần trạng từ liên kết (Conjunctive Adverb). Mối quan hệ giữa 2 mệnh đề là Tương phản (Sạch/vô tận VS Đắt đỏ). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ 'However' (Tuy nhiên) diễn tả sự tương phản, đứng sau ';' và trước ','. 'Therefore' diễn tả kết quả. 'Because'/'So' là liên từ phụ thuộc/đối lập không đi với cặp dấu '; ...,'. Thực hiện thuật toán loại trừ ➔ Loại B (nghĩa kết quả), C, D (sai cấu trúc dấu câu). Chọn A. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_CONN_1",
+    "name": "FANBOYS (For, And, Nor, But, Or, Yet, So) $\\rightarrow$ Đứng sau dấu phẩy ',' nối 2 mệnh đề độc lập",
+    "type": "STEP",
+    "parentId": "anh10_LES_COMPOUND_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_CONN_2",
+    "name": "Trạng từ liên kết ; however, / ; therefore, / ; moreover, $\\rightarrow$ Nối 2 câu logic",
+    "type": "STEP",
+    "parentId": "anh10_LES_COMPOUND_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_CONN_3",
+    "name": "Nguyên nhân - Kết quả $Because/Since + Clause$ vs $Because\\ of/Due\\ to + N/V\\text{-ing}$",
+    "type": "STEP",
+    "parentId": "anh10_LES_COMPOUND_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_CONN_4",
+    "name": "Né bẫy ➔ Nhầm cấu trúc 'Because' (cộng mệnh đề S+V) với 'Because of' (cộng Cụm N/V-ing)",
+    "type": "STEP",
+    "parentId": "anh10_LES_COMPOUND_SENTENCES",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_VERB_FORMS",
+    "name": "Verb Forms & Adjective Formations",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_LEXICO_GRAMMAR",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_GERUNDS_INFINITIVES",
+    "name": "Danh động từ (V-ing) & Động từ nguyên mẫu (To-V / Bare-V)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_VERB_FORMS",
+    "examples": [
+      {
+        "id": "ex_anh10_verb_form_1",
+        "question": "[Trắc nghiệm Dạng động từ]: Many teenagers enjoy _____ volunteer work in their local communities. A. to do, B. doing, C. do, D. done.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Động từ 'enjoy' đứng trước chỗ trống. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ $enjoy + V\\text{-ing}$ (Thích làm gì). Thực hiện thuật toán loại trừ ➔ Loại A (To-V), C (Bare-V), D (V-p2). Chọn B 'doing'. Giải thích ngữ nghĩa và đáp án ➔ Nhiều thanh thiếu niên thích làm công việc tình nguyện trong cộng đồng địa phương của họ. Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_VERB_1",
+    "name": "Gerund $V\\text{-ing} \\rightarrow$ Sau động từ: enjoy, avoid, mind, practice, suggest, consider, giới từ",
+    "type": "STEP",
+    "parentId": "anh10_LES_GERUNDS_INFINITIVES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_VERB_2",
+    "name": "To-Infinitive $To-V \\rightarrow$ Sau động từ: want, decide, promise, plan, offer, agree, hope",
+    "type": "STEP",
+    "parentId": "anh10_LES_GERUNDS_INFINITIVES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_VERB_3",
+    "name": "Bare-Infinitive $V\\text{-bare} \\rightarrow$ Sau Modal Verbs, make, let, help",
+    "type": "STEP",
+    "parentId": "anh10_LES_GERUNDS_INFINITIVES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_VERB_4",
+    "name": "Né bẫy ➔ Động từ đổi nghĩa $remember/stop/forget + V\\text{-ing}$ (Đã làm) vs $+ To-V$ (Sẽ/Để làm)",
+    "type": "STEP",
+    "parentId": "anh10_LES_GERUNDS_INFINITIVES",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_ADJECTIVE_FORMATIONS",
+    "name": "Hậu tố tính từ (-ed vs -ing, -ful vs -less)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_VERB_FORMS",
+    "examples": [
+      {
+        "id": "ex_anh10_adj_1",
+        "question": "[Trắc nghiệm Hậu tố Tính từ]: The documentary about environmental pollution was really _____. Everyone felt _____ after watching it. A. interesting / inspiring, B. interested / inspired, C. interesting / inspired, D. interested / inspiring.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Phân biệt Tính từ đuôi -ing (Bản chất sự vật) vs -ed (Cảm xúc con người bị tác động). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Vế 1: 'The documentary' (Chủ ngữ chỉ vật/sự việc) $\\rightarrow Adj\\text{-ing}$ ('interesting'). Vế 2: 'Everyone' (Chủ ngữ chỉ người nhận cảm xúc) $\\rightarrow Adj\\text{-ed}$ ('inspired'). Thực hiện thuật toán loại trừ ➔ Loại A, B, D. Chọn C. Giải thích ngữ nghĩa và đáp án ➔ Bộ phim tài liệu rất thú vị. Mọi người đều cảm thấy bị truyền cảm hứng sau khi xem. Đáp án đúng: C.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_ADJ_1",
+    "name": "Tính từ đuôi $-ing \\rightarrow$ Bản chất, đặc tính của sự vật/hiện tượng/con người",
+    "type": "STEP",
+    "parentId": "anh10_LES_ADJECTIVE_FORMATIONS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_ADJ_2",
+    "name": "Tính từ đuôi $-ed \\rightarrow$ Cảm xúc, tâm trạng của con người bị tác động",
+    "type": "STEP",
+    "parentId": "anh10_LES_ADJECTIVE_FORMATIONS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_ADJ_3",
+    "name": "Hậu tố hiBHcful$ (đầy, có) vs hiBHcless$ (không có, thiếu) $\rightarrow$ careful vs careless",
+    "type": "STEP",
+    "parentId": "anh10_LES_ADJECTIVE_FORMATIONS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_ADJ_4",
+    "name": "Né bẫy ➔ Người mang đặc tính gây ra cảm xúc cho người khác vẫn dùng Adj-ing (An interesting person)",
+    "type": "STEP",
+    "parentId": "anh10_LES_ADJECTIVE_FORMATIONS",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_THEMATIC_VOCAB",
+    "name": "High-level Thematic Vocabulary & Collocations",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_LEXICO_GRAMMAR",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_VOCAB_THEMES",
+    "name": "Từ vựng chủ điểm & Collocations Global Success 10",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_THEMATIC_VOCAB",
+    "examples": [
+      {
+        "id": "ex_anh10_voc_1",
+        "question": "[Trắc nghiệm Từ vựng Collocation]: We should reduce our daily carbon _____ by riding bicycles and recycling waste. A. footprint, B. fingerprint, C. trace, D. mark.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Cụm từ cố định (Collocation) liên quan đến chủ đề Môi trường (Unit 2 - Global Success 10). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ 'carbon footprint' (lượng dấu chân carbon / lượng khí thải carbon). Thực hiện thuật toán loại trừ ➔ Loại B (dấu vân tay), C, D. Chọn A. Giải thích ngữ nghĩa và đáp án ➔ Chúng ta nên giảm lượng dấu chân carbon hàng ngày bằng cách đi xe đạp và tái chế rác thải. Đáp án đúng: A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_VOC_1",
+    "name": "Collocations chủ đề Môi trường ➔ carbon footprint, eco-tourism, single-use plastic, sustainable",
+    "type": "STEP",
+    "parentId": "anh10_LES_VOCAB_THEMES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_VOC_2",
+    "name": "Collocations chủ đề Gia đình/Xã hội ➔ breadwinner, heavy lifting, gender equality, homemaker",
+    "type": "STEP",
+    "parentId": "anh10_LES_VOCAB_THEMES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_VOC_3",
+    "name": "Collocations chủ đề Âm nhạc/Công nghệ ➔ talent show, music idol, artificial intelligence, invention",
+    "type": "STEP",
+    "parentId": "anh10_LES_VOCAB_THEMES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_VOC_4",
+    "name": "Né bẫy ➔ Nhầm nghĩa các từ đồng nghĩa gần giống nhưng khác Collocation đi kèm",
+    "type": "STEP",
+    "parentId": "anh10_LES_VOCAB_THEMES",
+    "examples": null
+  },
+  {
+    "id": "anh10_CAT_TEST_SKILLS",
+    "name": "Exam Skills & Mechanics",
+    "type": "CATEGORY",
+    "parentId": "anh10_SUBJECT",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_ERROR_IDENTIFICATION",
+    "name": "Error Identification Techniques",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_TEST_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_ERROR_GRAMMAR_VOCAB",
+    "name": "Kỹ thuật bắt lỗi sai về Sự hòa hợp, Thì, Đại từ & Lỗi từ vựng (Word Choice)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_ERROR_IDENTIFICATION",
+    "examples": [
+      {
+        "id": "ex_anh10_err_1",
+        "question": "[Trắc nghiệm Tìm lỗi sai - Đại từ]: Each of the students in the green club must submit their individual report by Friday. A. Each, B. in, C. their, D. individual.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Bẫy quy chiếu tính từ sở hữu với cấu trúc 'Each of + N_số_nhiều'. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ $Each\\ of + N_{plural} \\rightarrow$ Động từ chia Số ít & Tính từ sở hữu dạng Số ít ('his or her' / 'its'). 'their' là số nhiều ➔ Bắt lỗi sai ở C 'their' (Sửa thành 'his or her'). Thực hiện thuật toán loại trừ ➔ A, B, D đúng ngữ pháp. Chọn C. Giải thích ngữ nghĩa và đáp án ➔ Mỗi học sinh trong câu lạc bộ xanh phải nộp báo cáo cá nhân của mình trước thứ Sáu. Đáp án đúng: C.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_ERR_1",
+    "name": "Bắt lỗi Sự hòa hợp Chủ - Vị ➔ Chủ ngữ chứa 'Each of / Every', Cụm danh từ dài",
+    "type": "STEP",
+    "parentId": "anh10_LES_ERROR_GRAMMAR_VOCAB",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_ERR_2",
+    "name": "Bắt lỗi Quy chiếu Đại từ ➔ Số ít vs Số nhiều (it/its vs they/their)",
+    "type": "STEP",
+    "parentId": "anh10_LES_ERROR_GRAMMAR_VOCAB",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_ERR_3",
+    "name": "Bắt lỗi Dùng từ dễ nhầm lẫn (Word Choice) ➔ historic vs historical, sensitive vs sensible",
+    "type": "STEP",
+    "parentId": "anh10_LES_ERROR_GRAMMAR_VOCAB",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_ERR_4",
+    "name": "Né bẫy ➔ Bỏ qua lỗi dùng từ sai ngữ cảnh vì quá chú ý vào lỗi ngữ pháp bề nổi",
+    "type": "STEP",
+    "parentId": "anh10_LES_ERROR_GRAMMAR_VOCAB",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_READING_COMPREHENSION",
+    "name": "Guided Cloze & Reading Passages",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_TEST_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_GUIDED_CLOZE_TEST",
+    "name": "Kỹ thuật làm bài Đọc điền từ vào đoạn văn (Guided Cloze Test)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_READING_COMPREHENSION",
+    "examples": [
+      {
+        "id": "ex_anh10_cloze_1",
+        "question": "[Trắc nghiệm Đọc điền - Đại từ quan hệ]: Ecotourism is a form of travel (1) _____ involves visiting fragile and undisturbed natural areas. A. who, B. which, C. whom, D. where.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Nhận diện từ bổ nghĩa 'a form of travel' (hình thức du lịch - chỉ vật) và động từ 'involves' đứng phía sau. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Danh từ chỉ vật + $WHICH + V$. 'Where' đi với mệnh đề S+V. 'Who/Whom' chỉ người. Thực hiện thuật toán loại trừ ➔ Loại A, C, D. Chọn B 'which'. Giải thích ngữ nghĩa và đáp án ➔ Du lịch sinh thái là một hình thức du lịch cái mà bao gồm việc tham quan các khu vực tự nhiên nguyên sơ. Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_CLOZE_1",
+    "name": "Phân loại câu hỏi ➔ Từ vựng (Vocabulary) vs Ngữ pháp (Grammar/Connectors/Relative)",
+    "type": "STEP",
+    "parentId": "anh10_LES_GUIDED_CLOZE_TEST",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_CLOZE_2",
+    "name": "Kỹ thuật nhìn trước ngó sau ➔ Xác định Từ loại, Giới từ đi kèm, Cấu trúc câu",
+    "type": "STEP",
+    "parentId": "anh10_LES_GUIDED_CLOZE_TEST",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_CLOZE_3",
+    "name": "Bóc tách liên từ câu ➔ Xác định quan hệ logic (Bổ sung, Đối lập, Nguyên nhân - Kết quả)",
+    "type": "STEP",
+    "parentId": "anh10_LES_GUIDED_CLOZE_TEST",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_CLOZE_4",
+    "name": "Né bẫy ➔ Đọc từng từ riêng lẻ mà không nắm mạch ngữ cảnh toàn đoạn văn",
+    "type": "STEP",
+    "parentId": "anh10_LES_GUIDED_CLOZE_TEST",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_READING_PASSAGE_SKILLS",
+    "name": "Kỹ thuật Scanning, Skimming & Giải câu hỏi Đọc hiểu",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_READING_COMPREHENSION",
+    "examples": [
+      {
+        "id": "ex_anh10_read_1",
+        "question": "[Trắc nghiệm Đọc hiểu - Quy chiếu]: Read the sentence: 'Ecotourists should respect local cultures. They ought to buy local products to support the community.' What does the word 'They' refer to? A. Local cultures, B. Ecotourists, C. Local products, D. Communities.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Dạng câu hỏi quy chiếu đại từ 'They' thay thế cho danh từ số nhiều phía trước. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Đọc câu liền trước: 'Ecotourists should respect...'. Đại từ 'They' đóng vai trò chủ ngữ thực hiện hành động 'buy local products' ➔ Quy chiếu về 'Ecotourists'. Thực hiện thuật toán loại trừ ➔ Loại A, C, D không phù hợp ngữ nghĩa chủ thể hành động. Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_READ_1",
+    "name": "Skimming ➔ Đọc lướt câu đầu/câu cuối mỗi đoạn để nắm Ý chính (Main Idea)",
+    "type": "STEP",
+    "parentId": "anh10_LES_READING_PASSAGE_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_READ_2",
+    "name": "Scanning ➔ Quét từ khóa (Keywords: Tên riêng, Con số, Từ chuyên ngành) để định vị thông tin",
+    "type": "STEP",
+    "parentId": "anh10_LES_READING_PASSAGE_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_READ_3",
+    "name": "Giải câu từ vựng ➔ Thay thế 4 đáp án vào ngữ cảnh đoạn văn để chọn từ đồng nghĩa chuẩn nhất",
+    "type": "STEP",
+    "parentId": "anh10_LES_READING_PASSAGE_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_READ_4",
+    "name": "Né bẫy ➔ Bẫy suy diễn vượt quá thông tin bài đọc cung cấp (Over-generalization)",
+    "type": "STEP",
+    "parentId": "anh10_LES_READING_PASSAGE_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_TOP_WRITING_TRANSFORMATION",
+    "name": "Sentence Transformation & Communication",
+    "type": "TOPIC",
+    "parentId": "anh10_CAT_TEST_SKILLS",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_SENTENCE_TRANSFORMATION",
+    "name": "Kỹ thuật viết lại câu đồng nghĩa (Trắc nghiệm Sentence Transformation)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_WRITING_TRANSFORMATION",
+    "examples": [
+      {
+        "id": "ex_anh10_trans_1",
+        "question": "[Trắc nghiệm Viết lại câu đồng nghĩa]: 'The last time Nam visited a national park was two years ago.' A. Nam has visited a national park for two years., B. Nam hasn't visited a national park for two years., C. Nam didn't visit a national park two years ago., D. Nam was visiting a national park two years ago.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Chuyển đổi từ 'The last time + S + V2 + was + thời gian + ago' sang Present Perfect phủ định. Áp dụng nguyên tắc/Mẹo giải nhanh ➔ $The\\ last\\ time + S + V_2 + was + Khoảng\\ thời\\ gian + ago \\Leftrightarrow S + have/has\\ NOT + V\\text{-p2} + for + Khoảng\\ thời\\ gian$. 'Nam hasn't visited a national park for two years.' Thực hiện thuật toán loại trừ ➔ Loại A (khẳng định sai nghĩa), C, D (sai cấu trúc tương đương). Chọn B. Giải thích ngữ nghĩa và đáp án ➔ Lần cuối Nam thăm vườn quốc gia là 2 năm trước = Nam đã không thăm vườn quốc gia khoảng 2 năm rồi. Đáp án đúng: B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_TRANS_1",
+    "name": "Biến đổi Quá khứ đơn $\\Leftrightarrow$ Hiện tại hoàn thành ($The\\ last\\ time \\leftrightarrow S + haven't/hasn't + V\\text{-p2}$)",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_TRANSFORMATION",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_TRANS_2",
+    "name": "Biến đổi So sánh $\\Leftrightarrow$ So sánh không bằng / So sánh hơn ($S1 + V + Adj-er + than + S2 \\leftrightarrow S2 + V\\text{-not} + so/as + Adj + as + S1$)",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_TRANSFORMATION",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_TRANS_3",
+    "name": "Biến đổi Bị động / Tường thuật $\\rightarrow$ Giữ nguyên thì và nghĩa gốc của câu đề bài",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_TRANSFORMATION",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_TRANS_4",
+    "name": "Né bẫy ➔ Câu viết lại đúng ngữ pháp nhưng làm thay đổi hoặc lệch nghĩa gốc ban đầu",
+    "type": "STEP",
+    "parentId": "anh10_LES_SENTENCE_TRANSFORMATION",
+    "examples": null
+  },
+  {
+    "id": "anh10_LES_SPEAKING_EXCHANGES",
+    "name": "Phản xạ giao tiếp trắc nghiệm (Everyday English)",
+    "type": "LESSON",
+    "parentId": "anh10_TOP_WRITING_TRANSFORMATION",
+    "examples": [
+      {
+        "id": "ex_anh10_spk_1",
+        "question": "[Trắc nghiệm Giao tiếp]: Peter: 'Would you like to join our beach clean-up campaign this Saturday?' - Mary: '_____ . I'm free that day.' A. Yes, I'd love to, B. No, thanks, C. It doesn't matter, D. You're welcome.",
+        "answer": "Nhận diện cấu trúc & Tránh bẫy đề bài ➔ Lời mời 'Would you like to...?' và lời đáp đồng ý dựa trên thông tin phía sau 'I'm free that day' (Tôi rảnh hôm đó). Áp dụng nguyên tắc/Mẹo giải nhanh ➔ Đồng ý lời mời $Would\\ you\\ like...? \\rightarrow Yes,\\ I'd\\ love\\ to / I'd\\ be\\ delighted\\ to$. Thực hiện thuật toán loại trừ ➔ Loại B (Từ chối), C, D (Không liên quan ngữ cảnh lời mời). Chọn A. Giải thích ngữ nghĩa và đáp án ➔ Bạn có muốn tham gia chiến dịch làm sạch bãi biển vào thứ 7 này không? - Có, mình rất thích. Hôm đó mình rảnh. Đáp án đúng: A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh10_STEP_SPK_1",
+    "name": "Đáp lại Lời mời / Đề nghị ➔ 'Would you like...?' $\\rightarrow$ 'Yes, I'd love to' / 'I'm sorry I can't'",
+    "type": "STEP",
+    "parentId": "anh10_LES_SPEAKING_EXCHANGES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_SPK_2",
+    "name": "Đáp lại Lời khen ➔ 'What a nice...!' $\\rightarrow$ 'Thank you. It's very kind of you to say so'",
+    "type": "STEP",
+    "parentId": "anh10_LES_SPEAKING_EXCHANGES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_SPK_3",
+    "name": "Đáp lại Quan điểm / Ý kiến ➔ 'I think...' $\\rightarrow$ 'I completely agree' / 'I'm afraid I disagree'",
+    "type": "STEP",
+    "parentId": "anh10_LES_SPEAKING_EXCHANGES",
+    "examples": null
+  },
+  {
+    "id": "anh10_STEP_SPK_4",
+    "name": "Né bẫy ➔ Nhầm câu đáp trả dịch xuôi tiếng Việt (như 'Nothing' hoặc 'No problem') sai văn hóa bản xứ",
+    "type": "STEP",
+    "parentId": "anh10_LES_SPEAKING_EXCHANGES",
+    "examples": null
+  }
+]

@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "hoa10_root",
+    "name": "Hóa học 10",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "hoa10_cat1",
+    "name": "Cấu tạo nguyên tử & Bảng tuần hoàn",
+    "type": "CATEGORY",
+    "parentId": "hoa10_root",
+    "examples": null
+  },
+  {
+    "id": "hoa10_cat2",
+    "name": "Liên kết hóa học & Tương tác phân tử",
+    "type": "CATEGORY",
+    "parentId": "hoa10_root",
+    "examples": null
+  },
+  {
+    "id": "hoa10_cat3",
+    "name": "Phản ứng Oxi hóa - Khử",
+    "type": "CATEGORY",
+    "parentId": "hoa10_root",
+    "examples": null
+  },
+  {
+    "id": "hoa10_cat4",
+    "name": "Năng lượng hóa học (Nhiệt phản ứng)",
+    "type": "CATEGORY",
+    "parentId": "hoa10_root",
+    "examples": null
+  },
+  {
+    "id": "hoa10_cat5",
+    "name": "Tốc độ phản ứng hóa học",
+    "type": "CATEGORY",
+    "parentId": "hoa10_root",
+    "examples": null
+  },
+  {
+    "id": "hoa10_cat6",
+    "name": "Nhóm Nguyên tố Halogen (VIIA)",
+    "type": "CATEGORY",
+    "parentId": "hoa10_root",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top1_1",
+    "name": "Thành phần hạt & Cấu trúc vỏ nguyên tử",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top1_2",
+    "name": "Bảng tuần hoàn & Quy luật biến thiên",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top2_1",
+    "name": "Quy tắc Octet & Các loại liên kết",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top2_2",
+    "name": "Liên kết Hydrogen & Tương tác Van der Waals",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top3_1",
+    "name": "Số oxi hóa & Phân loại chất/quá trình",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top3_2",
+    "name": "Lập phương trình & Bảo toàn electron",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top4_1",
+    "name": "Phản ứng tỏa/thu nhiệt & Biến thiên Enthalpy",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat4",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top4_2",
+    "name": "Phương pháp tính biến thiên Enthalpy",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat4",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top5_1",
+    "name": "Tốc độ phản ứng & Các yếu tố ảnh hưởng",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat5",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top6_1",
+    "name": "Đơn chất Halogen ($F_2, Cl_2, Br_2, I_2$)",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat6",
+    "examples": null
+  },
+  {
+    "id": "hoa10_top6_2",
+    "name": "Hydrogen Halide & Hydrohalic Acid",
+    "type": "TOPIC",
+    "parentId": "hoa10_cat6",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les1_1_1",
+    "name": "Xác định số hạt $p, n, e$ và kí hiệu nguyên tử",
+    "type": "LESSON",
+    "parentId": "hoa10_top1_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_1_1_1_1",
+        "question": "Xác định số hạt p, n, e: Nguyên tử X có tổng số hạt p, n, e là 40. Trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 12. Xác định kí hiệu nguyên tử X.",
+        "answer": "1. Nhận diện & Tránh bẫy: Tổng hạt $S = 2Z + n = 40$; Hạt mang điện $2Z$, hạt không mang điện $n$. Bẫy: Tránh nhầm $2Z$ thành $Z$.\n2. Hệ phương trình: $\\begin{cases} 2Z + n = 40 \\\\ 2Z - n = 12 \\end{cases} \\Rightarrow \\begin{cases} 4Z = 52 \\\\ n = 2Z - 12 \\end{cases}$\n3. Tính toán: $Z = 13$ (Al), $n = 14 \\Rightarrow A = 13 + 14 = 27$.\n4. Kết luận: Kí hiệu nguyên tử là $^{27}_{13}\\text{Al}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step1_1_1_1",
+    "name": "Hạt $p = e = Z$ (vỏ & nhân) | Hạt $n = A - Z$ (nhân)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_1_2",
+    "name": "Tổng hạt $S = 2Z + n$ ➔ Số hạt mang điện $(2Z) - n = \\Delta$",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_1_3",
+    "name": "Bất đẳng thức hạt bền $1 \\le \\frac{n}{Z} \\le 1,5 \\Rightarrow \\frac{S}{3,5} \\le Z \\le \\frac{S}{3}$ ($Z \\le 82$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_1_4",
+    "name": "Kí hiệu nguyên tử ➔ $_Z^A\\text{X}$ ($A = Z + n$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_1_5",
+    "name": "Nhận diện bẫy ➔ Nhầm hạt mang điện nguyên tử ($2Z$) với hạt mang điện hạt nhân ($Z$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les1_1_2",
+    "name": "Viết cấu hình electron và xác định tính chất",
+    "type": "LESSON",
+    "parentId": "hoa10_top1_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_1_1_2_1",
+        "question": "Viết cấu hình e và xác định tính chất: Nguyên tử Cr có $Z = 24$. Viết cấu hình electron của Cr và ion $\\text{Cr}^{3+}$, cho biết Cr là kim loại hay phi kim.",
+        "answer": "1. Nhận diện & Tránh bẫy: $Z=24$. Bẫy: Hiện tượng chuyển $e$ bán bão hòa $3d^5 4s^1$ thay vì $3d^4 4s^2$.\n2. Viết mức năng lượng: $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^4 \\rightarrow$ Chuyển $e \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^5 4s^1$ hay $[\\text{Ar}]3d^5 4s^1$.\n3. Cấu hình ion $\\text{Cr}^{3+}$: Nhường $1e$ ở $4s$ và $2e$ ở $3d \\rightarrow [\\text{Ar}]3d^3$.\n4. Kết luận: Cr có $1e$ ở lớp ngoài cùng ($4s^1$) nên là Kim loại.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step1_1_2_1",
+    "name": "Mức năng lượng ➔ $1s\\ 2s\\ 2p\\ 3s\\ 3p\\ 4s\\ 3d\\ 4p...$",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_2_2",
+    "name": "Sắp xếp lớp ➔ Gom theo chu kỳ ($1s \\rightarrow 2s2p \\rightarrow 3s3p3d \\rightarrow 4s4p$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_2_3",
+    "name": "Bán bão hòa / Bão hòa d ➔ $3d^4 4s^2 \\rightarrow 3d^5 4s^1$ (Cr) | $3d^9 4s^2 \\rightarrow 3d^{10} 4s^1$ (Cu)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_2_4",
+    "name": "$e$ ngoài cùng ➔ $1,2,3e$ (Kim loại) | $5,6,7e$ (Phi kim) | $8e$ (Khí hiếm)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_2_5",
+    "name": "Nhận diện bẫy ➔ Quên đổi thứ tự $4s$ và $3d$ sau khi điền mức năng lượng",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les1_1_3",
+    "name": "Bài toán khối lượng nguyên tử trung bình và đồng vị",
+    "type": "LESSON",
+    "parentId": "hoa10_top1_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_1_1_3_1",
+        "question": "Khối lượng nguyên tử trung bình: Đồng có 2 đồng vị $^{63}\\text{Cu}$ và $^{65}\\text{Cu}$. Nguyên tử khối trung bình $\\bar{A}_{\\text{Cu}} = 63,54$. Tính % số nguyên tử đồng vị $^{63}\\text{Cu}$ và % khối lượng $^{63}\\text{Cu}$ trong $\\text{CuSO}_4$ ($M_{\\text{S}}=32, M_{\\text{O}}=16$).",
+        "answer": "1. Nhận diện & Tránh bẫy: Đặt $x$ là % số nguyên tử $^{63}\\text{Cu} \\Rightarrow \\%^{65}\\text{Cu} = 100 - x$. Bẫy: Phân biệt % nguyên tử $x$ và % khối lượng trong hợp chất.\n2. Lập hệ thức: $63,54 = \\frac{63 \\cdot x + 65 \\cdot (100 - x)}{100} \\Rightarrow -2x + 6500 = 6354 \\Rightarrow 2x = 146 \\Rightarrow x = 73\\%$.\n3. Tính $\\% m_{^{63}\\text{Cu}}$ trong $\\text{CuSO}_4$: $M_{\\text{CuSO}_4} = 63,54 + 32 + 16 \\times 4 = 159,6$. $\\% m_{^{63}\\text{Cu}} = \\frac{63 \\times 0,73}{159,6} \\times 100\\% = 28,82\\%$.\n4. Kết luận: % nguyên tử $^{63}\\text{Cu}$ là $73\\%$, % khối lượng $^{63}\\text{Cu}$ trong $\\text{CuSO}_4$ là $28,82\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step1_1_3_1",
+    "name": "Công thức $\\bar{A} = \\frac{A_1 \\cdot x_1 + A_2 \\cdot x_2 + ...}{100}$ ($x_1+x_2+... = 100\\%$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_3_2",
+    "name": "% Khối lượng đồng vị $A_1$ trong hợp chất ➔ $\\% m_{A_1} = \\frac{A_1 \\cdot x_1 \\cdot n_{A_1}}{M_{\\text{hợp chất}}} \\times 100\\%",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_1_3_3",
+    "name": "Nhận diện bẫy ➔ Nhầm % số nguyên tử ($x_1$) với % khối lượng đồng vị trong hợp chất",
+    "type": "STEP",
+    "parentId": "hoa10_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les1_2_1",
+    "name": "Xác định vị trí nguyên tố trong Bảng tuần hoàn",
+    "type": "LESSON",
+    "parentId": "hoa10_top1_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_1_2_1_1",
+        "question": "Xác định vị trí nguyên tố: Cho nguyên tố Fe có $Z = 26$. Xác định vị trí của Fe (ô, chu kỳ, nhóm) trong bảng tuần hoàn.",
+        "answer": "1. Nhận diện & Tránh bẫy: $Z=26$. Bẫy: Cấu hình $e$ mức năng lượng $1s^2...4s^2 3d^6$ phải viết lại theo lớp $[\\text{Ar}]3d^6 4s^2$.\n2. Áp dụng quy tắc quy đổi vị trí:\n- Số ô = $Z = 26$.\n- Số lớp $e = 4 \\Rightarrow$ Chu kỳ 4.\n- Tổng $e$ hóa trị $(3d^6 4s^2) = 6 + 2 = 8 \\Rightarrow$ Nhóm VIIIB (nguyên tố $d$).\n3. Kết luận: Fe ở ô số 26, Chu kỳ 4, Nhóm VIIIB.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step1_2_1_1",
+    "name": "Số thứ tự ô = $Z$ (Số hiệu nguyên tử = Số $p$ = Số $e$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_1_2",
+    "name": "Số thứ tự Chu kỳ = Số lớp electron",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_1_3",
+    "name": "Nhóm A (nguyên tố $s, p$) ➔ Số thứ tự nhóm = Số $e$ lớp ngoài cùng",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_1_4",
+    "name": "Nhóm B (nguyên tố $d, f$) ➔ Cấu hình $(n-1)d^a ns^b$: $a+b < 8 \\rightarrow \\text{nhóm } (a+b)\\text{B}$; $a+b \\in \\{8,9,10\\} \\rightarrow \\text{nhóm VIIIB}$; $a+b > 10 \\rightarrow \\text{nhóm } (a+b-10)\\text{B}$",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_1_5",
+    "name": "Nhận diện bẫy ➔ Nhầm $e$ hóa trị nhóm B với số $e$ lớp ngoài cùng",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les1_2_2",
+    "name": "So sánh tính chất nguyên tố và hợp chất theo quy luật tuần hoàn",
+    "type": "LESSON",
+    "parentId": "hoa10_top1_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_1_2_2_1",
+        "question": "So sánh tính chất: Sắp xếp các nguyên tố $_9\\text{F}, _{17}\\text{Cl}, _{16}\\text{S}$ theo chiều tăng dần tính phi kim và bán kính nguyên tử.",
+        "answer": "1. Nhận diện & Tránh bẫy: Cấu hình $e$: $\\text{F} (2,7)$, $\\text{Cl} (2,8,7)$, $\\text{S} (2,8,6)$. $\\text{F}, \\text{Cl}$ cùng Nhóm VIIA; $\\text{Cl}, \\text{S}$ cùng Chu kỳ 3. Bẫy: Cần bắc cầu qua $\\text{Cl}$.\n2. So sánh tính phi kim:\n- Cùng Nhóm VIIA ($Z_{\\text{F}} < Z_{\\text{Cl}}$): Phi kim $\\text{F} > \\text{Cl}$.\n- Cùng Chu kỳ 3 ($Z_{\\text{S}} < Z_{\\text{Cl}}$): Phi kim $\\text{Cl} > \\text{S}$.\n$\\Rightarrow$ Tính phi kim: $\\text{S} < \\text{Cl} < \\text{F}$.\n3. So sánh bán kính nguyên tử ($r$ ngược chiều tính phi kim):\n- Cùng nhóm: $r_{\\text{F}} < r_{\\text{Cl}}$. Cùng chu kỳ: $r_{\\text{Cl}} < r_{\\text{S}} \\Rightarrow r_{\\text{F}} < r_{\\text{Cl}} < r_{\\text{S}}$.\n4. Kết luận: Chiều tăng tính phi kim: $\\text{S} < \\text{Cl} < \\text{F}$. Chiều tăng bán kính: $\\text{F} < \\text{Cl} < \\text{S}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step1_2_2_1",
+    "name": "Trong 1 chu kỳ ($Z \\uparrow$) ➔ Bán kính ($r \\downarrow$) ➔ Độ âm điện ($\\chi \\uparrow$) ➔ Kim loại ($\\downarrow$), Phi kim ($\\uparrow$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_2_2",
+    "name": "Trong 1 nhóm A ($Z \\uparrow$) ➔ Bán kính ($r \\uparrow$) ➔ Độ âm điện ($\\chi \\downarrow$) ➔ Kim loại ($\\uparrow$), Phi kim ($\\downarrow$)",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_2_3",
+    "name": "Acid/Base hydroxide ➔ Phi kim mạnh hơn $\\rightarrow$ Acid mạnh hơn | Kim loại mạnh hơn $\\rightarrow$ Base mạnh hơn",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step1_2_2_4",
+    "name": "Nhận diện bẫy ➔ So sánh các nguyên tố không cùng chu kỳ/nhóm mà không qua nguyên tố trung gian",
+    "type": "STEP",
+    "parentId": "hoa10_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les2_1_1",
+    "name": "Liên kết ion và tính chất của hợp chất ion",
+    "type": "LESSON",
+    "parentId": "hoa10_top2_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_2_1_1_1",
+        "question": "Liên kết ion: Viết sơ đồ hình thành liên kết ion trong hợp chất $\\text{CaCl}_2$ (biết $Z_{\\text{Ca}}=20, Z_{\\text{Cl}}=17$).",
+        "answer": "1. Nhận diện & Tránh bẫy: $\\text{Ca}$ (Kim loại điển hình $2e$ ngoài cùng) và $\\text{Cl}$ (Phi kim $7e$ ngoài cùng). Bẫy: $1$ nguyên tử $\\text{Ca}$ nhường $2e$ cho $2$ nguyên tử $\\text{Cl}$.\n2. Viết quá trình tạo ion:\n- $\\text{Ca} \\rightarrow \\text{Ca}^{2+} + 2e$\n- $2\\text{Cl} + 2e \\rightarrow 2\\text{Cl}^-$\n3. Lực hút tĩnh điện tạo liên kết: $\\text{Ca}^{2+} + 2\\text{Cl}^- \\rightarrow \\text{CaCl}_2$.\n4. Kết luận: $\\text{CaCl}_2$ được hình thành do lực hút tĩnh điện giữa ion $\\text{Ca}^{2+}$ và $2$ ion $\\text{Cl}^-$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step2_1_1_1",
+    "name": "Điều kiện ➔ Kim loại điển hình (IA, IIA) + Phi kim điển hình (VIA, VIIA)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_1_2",
+    "name": "Hiệu độ âm điện ➔ $\\Delta \\chi \\ge 1,7$",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_1_3",
+    "name": "Sơ đồ tạo ion ➔ $\\text{M} \\rightarrow \\text{M}^{n+} + ne$ | $\\text{X} + me \\rightarrow \\text{X}^{m-}$",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_1_4",
+    "name": "Lực hút tĩnh điện ➔ $n\\text{M}^{m+} + m\\text{X}^{n-} \\rightarrow \\text{M}_n\\text{X}_m$",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_1_5",
+    "name": "Tính chất ➔ Tinh thể ion, $t^\\circ_{\\text{nc}}$ cao, dẫn điện khi nóng chảy/tan trong nước",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_1_6",
+    "name": "Nhận diện bẫy ➔ $\\text{AlCl}_3$ có $\\Delta \\chi = 1,55 < 1,7$ là liên kết cộng hóa trị phân cực, không phải ion",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les2_1_2",
+    "name": "Liên kết cộng hóa trị, công thức Lewis và độ phân cực",
+    "type": "LESSON",
+    "parentId": "hoa10_top2_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_2_1_2_1",
+        "question": "Công thức Lewis và độ phân cực: Viết công thức electron, công thức Lewis, công thức cấu tạo của phân tử $\\text{NH}_3$ và $\\text{CO}_2$. Cho biết độ phân cực của 2 phân tử này.",
+        "answer": "1. Nhận diện & Tránh bẫy: $\\text{NH}_3$ dạng chóp tam giác (bất đối xứng), $\\text{CO}_2$ dạng đường thẳng (đối xứng). Bẫy: $\\text{CO}_2$ chứa $2$ liên kết phân cực triệt tiêu nhau làm phân tử không phân cực.\n2. Biểu diễn $\\text{NH}_3$: N có $5e$ ngoài cùng, góp $3e$ với $3\\text{H} \\rightarrow$ còn $1$ cặp $e$ tự do. Công thức cấu tạo: $\\text{H}-\\text{N}(\\text{H})-\\text{H}$ góc $107^\\circ \\Rightarrow$ Phân tử phân cực mạnh.\n3. Biểu diễn $\\text{CO}_2$: C góp $4e$, O góp $2e \\rightarrow \\text{O}=\\text{C}=\\text{O}$ góc $180^\\circ \\Rightarrow$ Hai momen triệt tiêu $\\Rightarrow$ Phân tử không phân cực.\n4. Kết luận: $\\text{NH}_3$ phân cực; $\\text{CO}_2$ chứa liên kết phân cực nhưng phân tử không phân cực.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step2_1_2_1",
+    "name": "Quy tắc Octet ➔ Đạt $8e$ ngoài cùng (hoặc $2e$ với H)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_2_2",
+    "name": "Phân loại theo $\\Delta \\chi$ ➔ $0 \\le \\Delta \\chi < 0,4$ (Không phân cực) | $0,4 \\le \\Delta \\chi < 1,7$ (Phân cực)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_2_3",
+    "name": "Công thức $e \\rightarrow$ Công thức Lewis $\\rightarrow$ Công thức cấu tạo",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_2_4",
+    "name": "Liên kết cho - nhận ➔ Cặp $e$ dùng chung do $1$ nguyên tử đóng góp (kí hiệu $\\rightarrow$)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_1_2_5",
+    "name": "Nhận diện bẫy ➔ Phân biệt độ phân cực 'liên kết' và độ phân cực 'toàn phân tử' (ví dụ $\\text{CO}_2$ chứa liên kết phân cực nhưng phân tử không phân cực)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les2_2_1",
+    "name": "Liên kết Hydrogen và ảnh hưởng nhiệt độ sôi",
+    "type": "LESSON",
+    "parentId": "hoa10_top2_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_2_2_1_1",
+        "question": "Liên kết Hydrogen: Giải thích vì sao nước ($\\text{H}_2\\text{O}$) có nhiệt độ sôi cao bất thường ($100^\\circ\\text{C}$) so với $\\text{H}_2\\text{S}$ ($-60^\\circ\\text{C}$).",
+        "answer": "1. Nhận diện & Tránh bẫy: $M_{\\text{H}_2\\text{O}} = 18 < M_{\\text{H}_2\\text{S}} = 34$. Bẫy: Theo khối lượng thì $\\text{H}_2\\text{S}$ phải sôi cao hơn, nhưng thực tế $\\text{H}_2\\text{O}$ sôi cao hơn do liên kết Hydrogen.\n2. Bản chất: Nguyên tử O có độ âm điện lớn ($3,44$) hơn S ($2,58$) và còn cặp $e$ tự do $\\Rightarrow$ Tạo liên kết Hydrogen liên phân tử $\\cdots \\text{H}-\\text{O}-\\text{H} \\cdots \\text{O}(\\text{H})-\\text{H} \\cdots$\n3. Đánh giá: Để làm bay hơi $\\text{H}_2\\text{O}$ cần tốn năng lượng phá vỡ liên kết Hydrogen liên phân tử.\n4. Kết luận: $\\text{H}_2\\text{O}$ có $t^\\circ_{\\text{sôi}}$ cao hơn nhiều so với $\\text{H}_2\\text{S}$ do liên kết Hydrogen liên phân tử.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step2_2_1_1",
+    "name": "Điều kiện ➔ Nguyên tử $\\text{H}$ liên kết với phi kim độ âm điện lớn ($\\text{F}, \\text{O}, \\text{N}$)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_2_1_2",
+    "name": "Kí hiệu ➔ $\\text{X}-\\text{H} \\cdots \\text{Y}$ (dấu chấm ba)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_2_1_3",
+    "name": "Hệ quả ➔ Làm tăng nhiệt độ sôi, nhiệt độ nóng chảy và độ tan trong nước",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_2_1_4",
+    "name": "Nhận diện bẫy ➔ $\\text{H}_2\\text{O}$ sôi cao hơn $\\text{HF}$ vì tạo được trung bình 2 liên kết H/phân tử, dù liên kết $\\text{F}-\\text{H} \\cdots \\text{F}$ bền hơn",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les2_2_2",
+    "name": "Tương tác Van der Waals và xu hướng biến thiên tính chất",
+    "type": "LESSON",
+    "parentId": "hoa10_top2_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_2_2_2_1",
+        "question": "Tương tác Van der Waals: Giải thích sự biến thiên thể và nhiệt độ sôi của các đơn chất Halogen từ $\\text{F}_2$ đến $\\text{I}_2$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Từ $\\text{F}_2 \\rightarrow \\text{I}_2$, phân tử khối $M$ và kích thước phân tử tăng dần. Bẫy: Nhầm lực Van der Waals tăng là do liên kết CHT mạnh lên.\n2. Áp dụng quy luật Van der Waals: Khi $M$ và kích thước $\\uparrow \\rightarrow$ Số $e$ $\\uparrow \\rightarrow$ Lưỡng cực tạm thời dễ xuất hiện hơn $\\rightarrow$ Tương tác Van der Waals tăng dần.\n3. Thể hiện thực tế:\n- $\\text{F}_2, \\text{Cl}_2$: Khí ($t^\\circ_{\\text{sôi}}$ thấp).\n- $\\text{Br}_2$: Lỏng.\n- $\\text{I}_2$: Rắn ($t^\\circ_{\\text{sôi}}$ cao nhất).\n4. Kết luận: $t^\\circ_{\\text{sôi}}$ tăng dần từ $\\text{F}_2$ đến $\\text{I}_2$ do tương tác Van der Waals tăng dần.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step2_2_2_1",
+    "name": "Bản chất ➔ Tương tác hút tĩnh điện yếu giữa các lưỡng cực tạm thời/luôn có",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_2_2_2",
+    "name": "Quy luật ➔ Bán kính nguyên tử/phân tử $\\uparrow$ + Khối lượng $M \\uparrow \\rightarrow$ Tương tác Van der Waals $\\uparrow$",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_2_2_3",
+    "name": "Xu hướng Halogen ➔ $F_2 \\rightarrow Cl_2 \\rightarrow Br_2 \\rightarrow I_2$: $t^\\circ_{\\text{sôi}}, t^\\circ_{\\text{nc}} \\uparrow$ (Khí $\\rightarrow$ Lỏng $\\rightarrow$ Rắn)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step2_2_2_4",
+    "name": "Nhận diện bẫy ➔ Nhầm lẫn năng lượng liên kết Van der Waals (vài kJ/mol) với liên kết cộng hóa trị (hàng trăm kJ/mol)",
+    "type": "STEP",
+    "parentId": "hoa10_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les3_1_1",
+    "name": "Quy tắc xác định số oxi hóa",
+    "type": "LESSON",
+    "parentId": "hoa10_top3_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_3_1_1_1",
+        "question": "Xác định số oxi hóa: Xác định số oxi hóa của nguyên tố Chromium (Cr) trong các chất và ion: $\\text{Cr}, \\text{Cr}_2\\text{O}_3, \\text{CrO}_4^{2-}, \\text{K}_2\\text{Cr}_2\\text{O}_7$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Áp dụng quy tắc quy ước O là -2, K là +1. Bẫy: Viết đúng định dạng số oxi hóa ($+x$ chứ không phải $x+$).\n2. Tính toán từng trường hợp:\n- Đơn chất $\\text{Cr} \\rightarrow$ Số oxi hóa bằng $0$.\n- $\\text{Cr}_2\\text{O}_3$: $2x + 3(-2) = 0 \\Rightarrow x = +3$.\n- $\\text{CrO}_4^{2-}$: $x + 4(-2) = -2 \\Rightarrow x = +6$.\n- $\\text{K}_2\\text{Cr}_2\\text{O}_7$: $2(+1) + 2x + 7(-2) = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$.\n3. Kết luận: Số oxi hóa của Cr lần lượt là $0, +3, +6, +6$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step3_1_1_1",
+    "name": "Đơn chất = 0 | Ion đơn nguyên tử = Đơn vị điện tích ion",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_1_2",
+    "name": "Hợp chất ➔ H là +1 (trừ hydride -1) | O là -2 (trừ peroxide -1, $\\text{OF}_2$ +2) | Kim loại IA (+1), IIA (+2), Al (+3)",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_1_3",
+    "name": "Tổng số oxi hóa trung hòa = 0 | Ion đa nguyên tử = Điện tích ion",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_1_4",
+    "name": "Nhận diện bẫy ➔ Số oxi hóa viết dấu trước số ($+2, -1$), điện tích ion viết số trước dấu ($2+, 1-$)",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les3_1_2",
+    "name": "Phân loại chất khử, chất oxi hóa, quá trình oxi hóa và quá trình khử",
+    "type": "LESSON",
+    "parentId": "hoa10_top3_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_3_1_2_1",
+        "question": "Phân loại chất và quá trình: Trong phản ứng $2\\text{FeCl}_2 + \\text{Cl}_2 \\rightarrow 2\\text{FeCl}_3$, xác định chất khử, chất oxi hóa, quá trình oxi hóa và quá trình khử.",
+        "answer": "1. Nhận diện số oxi hóa thay đổi:\n- $\\text{Fe}^{+2} \\rightarrow \\text{Fe}^{+3} + 1e$ (Số oxi hóa $\\uparrow$)\n- $\\text{Cl}_2^0 + 2e \\rightarrow 2\\text{Cl}^{-1}$ (Số oxi hóa $\\downarrow$)\n2. Phân loại chất (Mẹo: Khử cho - Oxi nhận):\n- $\\text{FeCl}_2$ là Chất khử (chứa $\\text{Fe}^{+2}$ nhường $e$).\n- $\\text{Cl}_2$ là Chất oxi hóa (nhận $e$).\n3. Phân loại quá trình:\n- Quá trình oxi hóa: $\\text{Fe}^{+2} \\rightarrow \\text{Fe}^{+3} + 1e$.\n- Quá trình khử: $\\text{Cl}_2^0 + 2e \\rightarrow 2\\text{Cl}^{-1}$.\n4. Kết luận: Chất khử $\\text{FeCl}_2$, Chất oxi hóa $\\text{Cl}_2$; Quá trình oxi hóa $\\text{Fe}^{+2}$, quá trình khử $\\text{Cl}_2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step3_1_2_1",
+    "name": "Chất khử ➔ Nhường $e$ ➔ Số oxi hóa ($\\uparrow$) ➔ Bị oxi hóa",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_2_2",
+    "name": "Chất oxi hóa ➔ Nhận $e$ ➔ Số oxi hóa ($\\downarrow$) ➔ Bị khử",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_2_3",
+    "name": "Quá trình oxi hóa (Sự oxi hóa) ➔ Quá trình nhường $e$ của chất khử",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_2_4",
+    "name": "Quá trình khử (Sự khử) ➔ Quá trình nhận $e$ của chất oxi hóa",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_1_2_5",
+    "name": "Nhận diện bẫy ➔ Mẹo khẩu quyết: 'Khử cho - Oxi nhận'; tên 'Quá trình/Sự' ngược với tên chất",
+    "type": "STEP",
+    "parentId": "hoa10_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les3_2_1",
+    "name": "Cân bằng phản ứng oxi hóa - khử bằng thăng bằng electron",
+    "type": "LESSON",
+    "parentId": "hoa10_top3_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_3_2_1_1",
+        "question": "Cân bằng phản ứng oxi hóa - khử: Cân bằng phản ứng sau bằng thăng bằng electron: $\\text{Cu} + \\text{HNO}_3 \\rightarrow \\text{Cu}(\\text{NO}_3)_2 + \\text{NO} \\uparrow + \\text{H}_2\\text{O}$.",
+        "answer": "1. Xác định số oxi hóa thay đổi: $\\text{Cu}^0 \\rightarrow \\text{Cu}^{+2}$, $\\text{N}^{+5} \\rightarrow \\text{N}^{+2}$.\n2. Viết quá trình nhường/nhận $e$:\n- Quá trình oxi hóa: $3 \\times (\\text{Cu}^0 \\rightarrow \\text{Cu}^{+2} + 2e)$\n- Quá trình khử: $2 \\times (\\text{N}^{+5} + 3e \\rightarrow \\text{N}^{+2})$\n3. Bội chung nhỏ nhất của $e$ là $6 \\Rightarrow$ Hệ số $\\text{Cu}$ là $3$, $\\text{NO}$ là $2$.\n4. Điền hệ số & bảo toàn:\n- $3\\text{Cu} + 8\\text{HNO}_3 \\rightarrow 3\\text{Cu}(\\text{NO}_3)_2 + 2\\text{NO} + 4\\text{H}_2\\text{O}$.\n(Bẫy: $8\\text{HNO}_3$ gồm $2$ bị khử tạo $\\text{NO}$ và $6$ tạo gốc muối).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step3_2_1_1",
+    "name": "Bước 1 ➔ Xác định số oxi hóa các nguyên tố thay đổi",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_1_2",
+    "name": "Bước 2 ➔ Viết quá trình oxi hóa & quá trình khử",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_1_3",
+    "name": "Bước 3 ➔ Bội chung nhỏ nhất ➔ Tìm hệ số sao cho $\\sum e_{\\text{nhường}} = \\sum e_{\\text{nhận}}$",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_1_4",
+    "name": "Bước 4 ➔ Điền hệ số vào phương trình ➔ Kiểm tra bảo toàn nguyên tố",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_1_5",
+    "name": "Nhận diện bẫy ➔ Quên nhân chỉ số chân của phân tử (như $\\text{Cl}_2, \\text{Cr}_2\\text{O}_7^{2-}$) vào quá trình $e$",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les3_2_2",
+    "name": "Bài toán bảo toàn electron thực chiến",
+    "type": "LESSON",
+    "parentId": "hoa10_top3_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_3_2_2_1",
+        "question": "Bảo toàn electron: Hòa tan $4,8 \\text{ g}$ Mg vào $\\text{HNO}_3$ dư, thu được $1,2395 \\text{ L}$ khí $\\text{N}_2\\text{O}$ duy nhất (đkc $25^\\circ\\text{C}, 1\\text{ bar}$). Tính $n_{\\text{HNO}_3}$ phản ứng.",
+        "answer": "1. Nhận diện số mol: $n_{\\text{Mg}} = \\frac{4,8}{24} = 0,2 \\text{ mol}$; $n_{\\text{N}_2\\text{O}} = \\frac{1,2395}{24,79} = 0,05 \\text{ mol}$.\n2. Kiểm tra bảo toàn $e$:\n- $\\sum n_{e\\text{ nhường}} = 2 \\cdot n_{\\text{Mg}} = 0,4 \\text{ mol}$.\n- $\\sum n_{e\\text{ nhận N}_2\\text{O}} = 8 \\cdot n_{\\text{N}_2\\text{O}} = 0,4 \\text{ mol}$.\n$\\Rightarrow n_{e\\text{ nhường}} = n_{e\\text{ nhận}} \\Rightarrow$ Không có $\\text{NH}_4\\text{NO}_3$.\n3. Tính $n_{\\text{HNO}_3} = n_{\\text{gốc }\\text{NO}_3^-} + n_{\\text{N/khí}} = 2 n_{\\text{Mg}} + 2 n_{\\text{N}_2\\text{O}} = 0,4 + 0,1 = 0,5 \\text{ mol}$.\n4. Kết luận: $n_{\\text{HNO}_3} = 0,5 \\text{ mol}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step3_2_2_1",
+    "name": "Định luật ➔ $\\sum n_{e\\text{ nhường}} = \\sum n_{e\\text{ nhận}}$",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_2_2",
+    "name": "Biểu thức ➔ $\\sum (n_{\\text{chất khử}} \\cdot \\text{Số } e \\text{ nhường}) = \\sum (n_{\\text{chất oxi hóa}} \\cdot \\text{Số } e \\text{ nhận})$",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_2_3",
+    "name": "Quy đổi hỗn hợp ➔ Hỗn hợp kim loại/oxit $\\rightarrow$ Quy đổi về nguyên tử tự do (\\text{Fe}, \\text{O})",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step3_2_2_4",
+    "name": "Nhận diện bẫy ➔ Khi tác dụng với $\\text{HNO}_3$ có thể tạo sản phẩm khử $\\text{NH}_4\\text{NO}_3$ (với $\\text{Mg, Al, Zn}$)",
+    "type": "STEP",
+    "parentId": "hoa10_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les4_1_1",
+    "name": "Khái niệm phản ứng tỏa/thu nhiệt và điều kiện chuẩn",
+    "type": "LESSON",
+    "parentId": "hoa10_top4_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_4_1_1_1",
+        "question": "Phản ứng tỏa/thu nhiệt: Cho phương trình nhiệt hóa học: $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)\\ \\ \\Delta_r H^\\circ_{298} = -91,8 \\text{ kJ}$. Phản ứng trên tỏa hay thu nhiệt? Tính nhiệt lượng tỏa ra khi tạo $17 \\text{ g } \\text{NH}_3$.",
+        "answer": "1. Nhận diện bẫy & Dấu $\\Delta H$: $\\Delta_r H^\\circ_{298} = -91,8 \\text{ kJ} < 0 \\Rightarrow$ Phản ứng tỏa nhiệt.\n2. Tính $n_{\\text{NH}_3} = \\frac{17}{17} = 1 \\text{ mol}$.\n3. Tỉ lệ nhiệt hóa học: Tạo $2 \\text{ mol } \\text{NH}_3$ tỏa $91,8 \\text{ kJ} \\Rightarrow$ Tạo $1 \\text{ mol } \\text{NH}_3$ tỏa $Q = \\frac{91,8}{2} = 45,9 \\text{ kJ}$.\n4. Kết luận: Phản ứng tỏa nhiệt, nhiệt lượng tỏa ra là $45,9 \\text{ kJ}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step4_1_1_1",
+    "name": "Tỏa nhiệt ➔ Phản ứng giải phóng nhiệt ➔ $\\Delta_r H^\\circ_{298} < 0$",
+    "type": "STEP",
+    "parentId": "hoa10_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_1_1_2",
+    "name": "Thu nhiệt ➔ Phản ứng hấp thụ nhiệt ➔ $\\Delta_r H^\\circ_{298} > 0$",
+    "type": "STEP",
+    "parentId": "hoa10_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_1_1_3",
+    "name": "Điều kiện chuẩn ➔ Áp suất $1 \\text{ bar} = 10^5 \\text{ Pa}$, Nhiệt độ $298,15 \\text{ K} (25^\\circ\\text{C})$, Nồng độ $1 \\text{ M}$",
+    "type": "STEP",
+    "parentId": "hoa10_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_1_1_4",
+    "name": "Nhận diện bẫy ➔ Tỏa nhiệt mang DẤU ÂM (môi trường nóng lên), Thu nhiệt mang DẤU DƯƠNG (môi trường lạnh đi)",
+    "type": "STEP",
+    "parentId": "hoa10_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les4_2_1",
+    "name": "Tính biến thiên Enthalpy dựa vào nhiệt tạo thành chuẩn",
+    "type": "LESSON",
+    "parentId": "hoa10_top4_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_4_2_1_1",
+        "question": "Tính nhiệt phản ứng theo $\\Delta_f H^\\circ_{298}$: Tính $\\Delta_r H^\\circ_{298}$ phản ứng: $\\text{Fe}_2\\text{O}_3(s) + 3\\text{CO}(g) \\rightarrow 2\\text{Fe}(s) + 3\\text{CO}_2(g)$. Cho $\\Delta_f H^\\circ_{298} (\\text{kJ/mol})$ của $\\text{Fe}_2\\text{O}_3(s) = -824,2$; $\\text{CO}(g) = -110,5$; $\\text{CO}_2(g) = -393,5$.",
+        "answer": "1. Nhận diện công thức & Đơn chất: Đơn chất $\\text{Fe}(s)$ có $\\Delta_f H^\\circ_{298} = 0$. Bẫy: Lấy [Sản phẩm] trừ [Chất đầu].\n2. Biểu thức: $\\Delta_r H^\\circ_{298} = [2 \\cdot \\Delta_f H^\\circ(\\text{Fe}) + 3 \\cdot \\Delta_f H^\\circ(\\text{CO}_2)] - [\\Delta_f H^\\circ(\\text{Fe}_2\\text{O}_3) + 3 \\cdot \\Delta_f H^\\circ(\\text{CO})]$.\n3. Thế số: $\\Delta_r H^\\circ_{298} = [0 + 3(-393,5)] - [-824,2 + 3(-110,5)] = -1180,5 - (-1155,7) = -24,8 \\text{ kJ}$.\n4. Kết luận: $\\Delta_r H^\\circ_{298} = -24,8 \\text{ kJ}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step4_2_1_1",
+    "name": "Công thức ➔ $\\Delta_r H^\\circ_{298} = \\sum \\Delta_f H^\\circ_{298}(\\text{sp}) - \\sum \\Delta_f H^\\circ_{298}(\\text{cđ})$",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_2_1_2",
+    "name": "Quy ước ➔ Nhiệt tạo thành chuẩn của đơn chất bền bằng $0$ ($\\Delta_f H^\\circ_{298}(\\text{đơn chất}) = 0$)",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_2_1_3",
+    "name": "Trình tự ➔ (Sản phẩm $\\times$ Hệ số) trừ (Chất đầu $\\times$ Hệ số)",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_2_1_4",
+    "name": "Nhận diện bẫy ➔ Quên nhân hệ số stoichiometric trong phương trình hóa học",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les4_2_2",
+    "name": "Tính biến thiên Enthalpy dựa vào năng lượng liên kết",
+    "type": "LESSON",
+    "parentId": "hoa10_top4_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_4_2_2_1",
+        "question": "Tính nhiệt phản ứng theo $E_b$: Tính $\\Delta_r H^\\circ_{298}$ phản ứng: $\\text{CH}_4(g) + 2\\text{O}_2(g) \\rightarrow \\text{CO}_2(g) + 2\\text{H}_2\\text{O}(g)$. Cho $E_b (\\text{kJ/mol}): \\text{C}-\\text{H} = 414; \\text{O}=\\text{O} = 498; \\text{C}=\\text{O} = 799; \\text{O}-\\text{H} = 464$.",
+        "answer": "1. Nhận diện liên kết:\n- Chất đầu: $1 \\text{ CH}_4$ ($4$ lk $\\text{C}-\\text{H}$) + $2 \\text{ O}_2$ ($2$ lk $\\text{O}=\\text{O}$).\n- Sản phẩm: $1 \\text{ CO}_2$ ($2$ lk $\\text{C}=\\text{O}$) + $2 \\text{ H}_2\\text{O}$ ($4$ lk $\\text{O}-\\text{H}$).\n2. Công thức (Chất đầu - Sản phẩm):\n$\\Delta_r H^\\circ_{298} = [4 E_b(\\text{C}-\\text{H}) + 2 E_b(\\text{O}=\\text{O})] - [2 E_b(\\text{C}=\\text{O}) + 4 E_b(\\text{O}-\\text{H})]$.\n3. Thế số: $[4(414) + 2(498)] - [2(799) + 4(464)] = 2652 - 3454 = -802 \\text{ kJ}$.\n4. Kết luận: $\\Delta_r H^\\circ_{298} = -802 \\text{ kJ}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step4_2_2_1",
+    "name": "Điều kiện ➔ Áp dụng cho các chất phản ứng ở thể khí ($g$)",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_2_2_2",
+    "name": "Công thức ➔ $\\Delta_r H^\\circ_{298} = \\sum E_b(\\text{cđ}) - \\sum E_b(\\text{sp})$",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_2_2_3",
+    "name": "Mẹo nhớ ➔ Nhiệt tạo thành (Sản phẩm - Chất đầu) | Năng lượng liên kết (Chất đầu - Sản phẩm)",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step4_2_2_4",
+    "name": "Nhận diện bẫy ➔ Tính thiếu số lượng liên kết trong phân tử (ví dụ $\\text{CH}_4$ có $4$ liên kết $\\text{C}-\\text{H}$)",
+    "type": "STEP",
+    "parentId": "hoa10_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les5_1_1",
+    "name": "Tính tốc độ trung bình của phản ứng hóa học",
+    "type": "LESSON",
+    "parentId": "hoa10_top5_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_5_1_1_1",
+        "question": "Tốc độ trung bình: Cho phản ứng: $2\\text{N}_2\\text{O}_5(g) \\rightarrow 4\\text{NO}_2(g) + \\text{O}_2(g)$. Nồng độ $\\text{N}_2\\text{O}_5$ ban đầu là $0,1 \\text{ M}$, sau $100 \\text{ s}$ còn $0,02 \\text{ M}$. Tính tốc độ trung bình của phản ứng.",
+        "answer": "1. Biến thiên nồng độ: $\\Delta C = 0,02 - 0,1 = -0,08 \\text{ M}$; khoảng thời gian $\\Delta t = 100 \\text{ s}$.\n2. Áp dụng công thức tốc độ trung bình:\n$v_{\\text{tb}} = -\\frac{1}{2} \\cdot \\frac{\\Delta C}{\\Delta t} = -\\frac{1}{2} \\cdot \\frac{-0,08}{100} = 4 \\cdot 10^{-4} \\text{ M/s}$.\n3. Kết luận: Tốc độ trung bình phản ứng là $4 \\cdot 10^{-4} \\text{ mol/(L}\\cdot\\text{s)}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step5_1_1_1",
+    "name": "Định nghĩa ➔ $v_{\\text{tb}} = \\pm \\frac{\\Delta C}{\\Delta t} = \\pm \\frac{C_2 - C_1}{t_2 - t_1}$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_1_2",
+    "name": "Theo $a\\text{A} + b\\text{B} \\rightarrow c\\text{C} + d\\text{D}$ ➔ $v_{\\text{tb}} = -\\frac{1}{a}\\frac{\\Delta C_A}{\\Delta t} = -\\frac{1}{b}\\frac{\\Delta C_B}{\\Delta t} = \\frac{1}{c}\\frac{\\Delta C_C}{\\Delta t} = \\frac{1}{d}\\frac{\\Delta C_D}{\\Delta t}$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_1_3",
+    "name": "Nhận diện bẫy ➔ Chất tham gia có dấu âm (-) để bảo đảm tốc độ $v > 0$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les5_1_2",
+    "name": "Định luật tác dụng khối lượng và hằng số tốc độ $k$",
+    "type": "LESSON",
+    "parentId": "hoa10_top5_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_5_1_2_1",
+        "question": "Định luật tác dụng khối lượng: Viết biểu thức tốc độ phản ứng $2\\text{CO}(g) + \\text{O}_2(g) \\rightarrow 2\\text{CO}_2(g)$. Tốc độ thay đổi thế nào nếu tăng nồng độ $\\text{CO}$ lên 3 lần?",
+        "answer": "1. Biểu thức tốc độ ban đầu: $v_1 = k \\cdot C_{\\text{CO}}^2 \\cdot C_{\\text{O}_2}$.\n2. Tăng nồng độ $\\text{CO}$ lên 3 lần ($C'_{\\text{CO}} = 3 C_{\\text{CO}}$):\n$v_2 = k \\cdot (3 C_{\\text{CO}})^2 \\cdot C_{\\text{O}_2} = 9 \\cdot k \\cdot C_{\\text{CO}}^2 \\cdot C_{\\text{O}_2} = 9 v_1$.\n3. Kết luận: Tốc độ phản ứng tăng $9$ lần.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step5_1_2_1",
+    "name": "Phản ứng đơn giản $a\\text{A} + b\\text{B} \\rightarrow \\text{Sản phẩm}$ ➔ $v = k \\cdot C_A^a \\cdot C_B^b$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_2_2",
+    "name": "Ý nghĩa $k$ ➔ Hằng số tốc độ (phụ thuộc bản chất phản ứng và nhiệt độ)",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_2_3",
+    "name": "Khi $C_A = C_B = 1 \\text{ M} \\Rightarrow v = k$ (Tốc độ riêng)",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_2_4",
+    "name": "Nhận diện bẫy ➔ Chất rắn có nồng độ hằng số nên KHÔNG viết vào biểu thức $v$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les5_1_3",
+    "name": "Các yếu tố ảnh hưởng đến tốc độ phản ứng",
+    "type": "LESSON",
+    "parentId": "hoa10_top5_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_5_1_3_1",
+        "question": "Hệ số nhiệt độ Van 't Hoff: Tốc độ phản ứng tăng bao nhiêu lần khi tăng nhiệt độ từ $20^\\circ\\text{C}$ lên $50^\\circ\\text{C}$, biết $\\gamma = 2$?",
+        "answer": "1. Công thức Van 't Hoff: $\\frac{v_{T_2}}{v_{T_1}} = \\gamma^{\\frac{T_2 - T_1}{10}}$.\n2. Thế số: $T_1 = 20, T_2 = 50, \\gamma = 2 \\Rightarrow \\frac{50 - 20}{10} = 3$.\n3. Tính tỉ số: $\\frac{v_{50}}{v_{20}} = 2^3 = 8$.\n4. Kết luận: Tốc độ phản ứng tăng $8$ lần.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step5_1_3_1",
+    "name": "Nồng độ $\\uparrow \\rightarrow$ Số va chạm hiệu quả $\\uparrow \\rightarrow v \\uparrow$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_3_2",
+    "name": "Nhiệt độ $\\uparrow \\rightarrow$ Động năng hạt $\\uparrow \\rightarrow v \\uparrow$ (Hệ số Van 't Hoff: $\\frac{v_{T_2}}{v_{T_1}} = \\gamma^{\\frac{T_2 - T_1}{10}}$)",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_3_3",
+    "name": "Áp suất $\\uparrow \\rightarrow$ Nồng độ chất khí $\\uparrow \\rightarrow v \\uparrow$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_3_4",
+    "name": "Diện tích bề mặt $\\uparrow \\rightarrow$ Số điểm tiếp xúc chất rắn $\\uparrow \\rightarrow v \\uparrow$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_3_5",
+    "name": "Chất xúc tác ➔ Giảm năng lượng hoạt hóa $E_a \\rightarrow v \\uparrow$",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step5_1_3_6",
+    "name": "Nhận diện bẫy ➔ Tăng áp suất CHỈ ảnh hưởng phản ứng có chất KHÍ tham gia",
+    "type": "STEP",
+    "parentId": "hoa10_les5_1_3",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les6_1_1",
+    "name": "Cấu tạo phân tử, tính chất vật lý và xu hướng tính oxi hóa của Halogen",
+    "type": "LESSON",
+    "parentId": "hoa10_top6_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_6_1_1_1",
+        "question": "Phản ứng thế Halogen: Cho dung dịch $\\text{Br}_2$ vào dung dịch $\\text{NaI}$. Nêu hiện tượng, viết phương trình và giải thích.",
+        "answer": "1. Hiện tượng: Dung dịch chuyển sang màu vàng nâu/nâu đỏ do giải phóng $\\text{I}_2$.\n2. Phương trình: $\\text{Br}_2 + 2\\text{NaI} \\rightarrow 2\\text{NaBr} + \\text{I}_2$.\n3. Bản chất: Bromine có tính oxi hóa mạnh hơn Iodine nên đẩy được $\\text{I}^-$ ra khỏi dung dịch muối.\n4. Kết luận: Chứng minh tính oxi hóa $\\text{Br}_2 > \\text{I}_2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step6_1_1_1",
+    "name": "Cấu hình $e$ ngoài cùng ➔ $ns^2 np^5$ ($7e$) $\\rightarrow$ CHT đơn $\\text{X}-\\text{X}$ ($\\text{X}_2$)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_1_2",
+    "name": "Xu hướng tính oxi hóa ➔ $\\text{F}_2 > \\text{Cl}_2 > \\text{Br}_2 > \\text{I}_2$ (Giảm từ F đến I)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_1_3",
+    "name": "Phản ứng thế Halogen ➔ $\\text{X}_2 + 2\\text{NaY} \\rightarrow 2\\text{NaX} + \\text{Y}_2$ (X đứng trước Y)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_1_4",
+    "name": "Nhận diện bẫy ➔ $\\text{F}_2$ không thế Halogen trong dung dịch vì $\\text{F}_2$ phản ứng với nước trước",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les6_1_2",
+    "name": "Phản ứng của Halogen với hydrogen, kim loại, nước và kiềm",
+    "type": "LESSON",
+    "parentId": "hoa10_top6_1",
+    "examples": [
+      {
+        "id": "ex_hoa10_6_1_2_1",
+        "question": "Phản ứng Halogen với kiềm: Viết phương trình phản ứng giữa $\\text{Cl}_2$ và dung dịch $\\text{NaOH}$ ở nhiệt độ thường và ở $100^\\circ\\text{C}$.",
+        "answer": "1. Ở nhiệt độ thường ($25^\\circ\\text{C}$):\n$\\text{Cl}_2 + 2\\text{NaOH} \\rightarrow \\text{NaCl} + \\text{NaClO} + \\text{H}_2\\text{O}$ (Nước Javel).\n2. Ở nhiệt độ cao ($100^\\circ\\text{C}$):\n$3\\text{Cl}_2 + 6\\text{NaOH} \\xrightarrow{t^\\circ} 5\\text{NaCl} + \\text{NaClO}_3 + 3\\text{H}_2\\text{O}$ (Sodium chlorate).\n3. Kết luận: Sản phẩm oxi hóa của Chlorine thay đổi theo nhiệt độ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step6_1_2_1",
+    "name": "Tác dụng $\\text{H}_2 \\rightarrow \\text{F}_2$ (bóng tối), $\\text{Cl}_2$ (ánh sáng), $\\text{Br}_2$ ($t^\\circ$), $\\text{I}_2$ ($t^\\circ, \\text{Xt}$, thuận nghịch)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_2_2",
+    "name": "Tác dụng Kim loại ➔ Đưa kim loại lên số oxi hóa cao nhất ($2\\text{Fe} + 3\\text{Cl}_2 \\rightarrow 2\\text{FeCl}_3$)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_2_3",
+    "name": "Tác dụng $\\text{H}_2\\text{O} \\rightarrow \\text{Cl}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HCl} + \\text{HClO}$ (Nước chlorine tẩy màu)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_2_4",
+    "name": "Tác dụng NaOH ➔ Tạo nước Javel: $\\text{Cl}_2 + 2\\text{NaOH} \\rightarrow \\text{NaCl} + \\text{NaClO} + \\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_1_2_5",
+    "name": "Nhận diện bẫy ➔ $\\text{Fe} + \\text{HCl} \\rightarrow \\text{FeCl}_2$, nhưng $\\text{Fe} + \\text{Cl}_2 \\rightarrow \\text{FeCl}_3$",
+    "type": "STEP",
+    "parentId": "hoa10_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les6_2_1",
+    "name": "Tính acid và tính khử của Hydrohalic Acid",
+    "type": "LESSON",
+    "parentId": "hoa10_top6_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_6_2_1_1",
+        "question": "Khắc thủy tinh bằng HF: Giải thích vì sao không dùng lọ thủy tinh để đựng dung dịch $\\text{HF}$. Viết phương trình hóa học.",
+        "answer": "1. Bản chất: Thủy tinh chứa thành phần chính $\\text{SiO}_2$.\n2. Phản ứng ăn mòn: $\\text{SiO}_2 + 4\\text{HF} \\rightarrow \\text{SiF}_4 \\uparrow + 2\\text{H}_2\\text{O}$.\n3. Đánh giá: $\\text{HF}$ hòa tan $\\text{SiO}_2$ làm thủng bình thủy tinh.\n4. Kết luận: Phải đựng $\\text{HF}$ trong bình nhựa (PE, PP).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step6_2_1_1",
+    "name": "Tính acid ➔ $\\text{HF} < \\text{HCl} < \\text{HBr} < \\text{HI}$ ($\\text{HF}$ acid yếu, $\\text{HI}$ cực mạnh)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_1_2",
+    "name": "Tính khử ➔ $\\text{HF} < \\text{HCl} < \\text{HBr} < \\text{HI}$ ($\\text{HF}$ không có tính khử, $\\text{HI}$ mạnh nhất)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_1_3",
+    "name": "Tính chất đặc biệt ➔ $4\\text{HF} + \\text{SiO}_2 \\rightarrow \\text{SiF}_4 \\uparrow + 2\\text{H}_2\\text{O}$ (Khắc chữ thủy tinh)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_1_4",
+    "name": "Nhận diện bẫy ➔ Nhầm xu hướng tính acid của HX (tăng từ HF đến HI) với tính oxi hóa của $X_2$ (giảm từ $F_2$ đến $I_2$)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa10_les6_2_2",
+    "name": "Nhận biết ion Halide bằng dung dịch $\\text{AgNO}_3$",
+    "type": "LESSON",
+    "parentId": "hoa10_top6_2",
+    "examples": [
+      {
+        "id": "ex_hoa10_6_2_2_1",
+        "question": "Nhận biết ion Halide: Trình bày phương pháp hóa học phân biệt 4 dung dịch: $\\text{NaF}, \\text{NaCl}, \\text{NaBr}, \\text{NaI}$.",
+        "answer": "1. Thuốc thử: Dung dịch $\\text{AgNO}_3$.\n2. Nhỏ dung dịch $\\text{AgNO}_3$ vào từng mẫu:\n- Không hiện tượng $\\rightarrow \\text{NaF}$ ($\\text{AgF}$ tan).\n- Kết tủa trắng $\\rightarrow \\text{NaCl}$ ($\\text{AgCl} \\downarrow$).\n- Kết tủa vàng nhạt $\\rightarrow \\text{NaBr}$ ($\\text{AgBr} \\downarrow$).\n- Kết tủa vàng đậm $\\rightarrow \\text{NaI}$ ($\\text{AgI} \\downarrow$).\n3. Kết luận: Phân biệt thành công 4 dung dịch.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa10_step6_2_2_1",
+    "name": "Thuốc thử ➔ Dung dịch $\\text{AgNO}_3$",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_2_2",
+    "name": "$\\text{F}^- \\rightarrow \\text{AgF}$ tan (Không hiện tượng)",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_2_3",
+    "name": "$\\text{Cl}^- \\rightarrow \\text{AgCl} \\downarrow$ Trắng",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_2_4",
+    "name": "$\\text{Br}^- \\rightarrow \\text{AgBr} \\downarrow$ Vàng nhạt",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_2_5",
+    "name": "$\\text{I}^- \\rightarrow \\text{AgI} \\downarrow$ Vàng đậm",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa10_step6_2_2_6",
+    "name": "Nhận diện bẫy ➔ Quên rằng $\\text{AgF}$ tan hoàn toàn trong nước nên không tạo kết tủa",
+    "type": "STEP",
+    "parentId": "hoa10_les6_2_2",
+    "examples": null
+  }
+]

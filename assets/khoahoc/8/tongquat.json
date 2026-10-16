@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "khtn8_subject_root",
+    "name": "Khoa học tự nhiên 8",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "khtn8_cat_hoa",
+    "name": "Chất và sự biến đổi của chất (Hóa học)",
+    "type": "CATEGORY",
+    "parentId": "khtn8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_phan_ung_mol",
+    "name": "Phản ứng hóa học, Mol & Biến đổi hóa học",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_hoa",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_dung_cu_hoa_chat",
+    "name": "Sử dụng dụng cụ & Hóa chất phòng thí nghiệm",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_1_1",
+        "question": "[Sử dụng hóa chất & Thiết bị]: Nêu các bước đun dung dịch trong ống nghiệm bằng đèn cồn an toàn.",
+        "answer": "1. Nhận diện & Né bẫy: Dùng kẹp gỗ kẹp 1/3 ống nghiệm từ miệng xuống; không chĩa miệng ống nghiệm về phía người khác (bẫy bắn hóa chất).\n2. Thao tác: Lắc nhẹ ống nghiệm ➔ Hơ đều ống nghiệm trên lửa đèn cồn ➔ Đun tập trung tại vị trí có hóa chất.\n3. Lập luận: Hơ đều giúp nhiệt tỏa đều, tránh vỡ thủy tinh do chênh lệch nhiệt độ đột ngột.\n4. Kết luận: Đun đúng kỹ thuật đảm bảo an toàn phòng thí nghiệm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_1_1",
+    "name": "Quy tắc kẹp ống nghiệm: Kẹp $1/3$ từ miệng xuống",
+    "type": "STEP",
+    "parentId": "khtn8_les_dung_cu_hoa_chat",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_1_2",
+    "name": "Rót hóa chất lỏng: Nhãn lọ quay vào lòng bàn tay ➔ Tránh mờ nhãn",
+    "type": "STEP",
+    "parentId": "khtn8_les_dung_cu_hoa_chat",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_1_3",
+    "name": "Bẫy đun hóa chất: Đun trực tiếp 1 điểm ➔ Vỡ ống nghiệm; Phải hơ đều trước",
+    "type": "STEP",
+    "parentId": "khtn8_les_dung_cu_hoa_chat",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_phan_ung_hoa_hoc",
+    "name": "Phản ứng hóa học & Năng lượng phản ứng",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_2_1",
+        "question": "[Phản ứng tỏa/thực nhiệt]: Đốt cháy than trong không khí thuộc loại phản ứng nào?",
+        "answer": "1. Nhận diện đại lượng & Hiện tượng: Phản ứng cháy $C + O_2 \\xrightarrow{t^\\circ} CO_2$, tỏa nhiều nhiệt ra môi trường.\n2. Công thức / Bản chất: Phản ứng tỏa nhiệt là phản ứng giải phóng năng lượng dạng nhiệt.\n3. Lập luận: Khi đun nóng, than cháy tỏa nhiệt lượng lớn làm nóng môi trường xung quanh.\n4. Kết luận: Đây là phản ứng tỏa nhiệt.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_2_1",
+    "name": "Phản ứng tỏa nhiệt: Giải phóng năng lượng ➔ Môi trường nóng lên",
+    "type": "STEP",
+    "parentId": "khtn8_les_phan_ung_hoa_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_2_2",
+    "name": "Phản ứng thu nhiệt: Hấp thụ năng lượng ➔ Môi trường lạnh đi",
+    "type": "STEP",
+    "parentId": "khtn8_les_phan_ung_hoa_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_2_3",
+    "name": "Bẫy biến đổi: Hòa tan đường vào nước là biến đổi vật lý; Đốt đường thành than là biến đổi hóa học",
+    "type": "STEP",
+    "parentId": "khtn8_les_phan_ung_hoa_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_mol_the_tich_khi",
+    "name": "Mol, Khối lượng mol & Thể tích mol chất khí",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_3_1",
+        "question": "[Mol & Thể tích khí]: Tính thể tích của $0{,}5\\text{ mol}$ khí $CO_2$ ở điều kiện chuẩn ($25^\\circ\\text{C}, 1\\text{ bar}$).",
+        "answer": "1. Nhận diện đại lượng & Đổi đơn vị: $n = 0{,}5\\text{ mol}$; ĐKC hằng số $24{,}79\\text{ L/mol}$ (Né bẫy hằng số cũ $22{,}4$).\n2. Áp dụng công thức: $V = n \\cdot 24{,}79$.\n3. Tính toán: $V = 0{,}5 \\cdot 24{,}79 = 12{,}395\\text{ L}$.\n4. Kết luận: Thể tích $CO_2$ ở ĐKC là $12{,}395\\text{ L}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_3_1",
+    "name": "Công thức số mol chất rắn/lỏng: $n = \\frac{m}{M}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_mol_the_tich_khi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_3_2",
+    "name": "Công thức thể tích khí (ĐKC $25^\\circ\\text{C}, 1\\text{ bar}$): $V = n \\times 24{,}79$",
+    "type": "STEP",
+    "parentId": "khtn8_les_mol_the_tich_khi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_3_3",
+    "name": "Bẫy hằng số thể tích: Dùng $22{,}4$ (ĐKTChũ cũ) ➔ Sai; Bắt buộc dùng $24{,}79$",
+    "type": "STEP",
+    "parentId": "khtn8_les_mol_the_tich_khi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_ti_khoi_khi",
+    "name": "Tỉ khối của chất khí & So sánh khí",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_4_1",
+        "question": "[Tỉ khối chất khí]: Khí $CO_2$ nặng hay nhẹ hơn không khí bao nhiêu lần?",
+        "answer": "1. Nhận diện đại lượng: $M_{CO_2} = 12 + 16 \\times 2 = 44\\text{ g/mol}$; $M_{\\text{không khí}} \\approx 29\\text{ g/mol}$.\n2. Áp dụng công thức: $d_{A/KK} = \\frac{M_A}{29}$.\n3. Tính toán: $d_{CO_2/KK} = \\frac{44}{29} \\approx 1{,}52$.\n4. Kết luận: Khí $CO_2$ nặng hơn không khí khoảng $1{,}52$ lần.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_4_1",
+    "name": "Công thức tỉ khối khí A so với B: $d_{A/B} = \\frac{M_A}{M_B}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_ti_khoi_khi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_4_2",
+    "name": "Công thức tỉ khối khí A so với không khí: $d_{A/KK} = \\frac{M_A}{29}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_ti_khoi_khi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_4_3",
+    "name": "Bẫy thu khí: $M_A > 29$ ➔ Đặt đứng bình; $M_A < 29$ ➔ Đặt úp ngược bình (ngửa đáy lên trên)",
+    "type": "STEP",
+    "parentId": "khtn8_les_ti_khoi_khi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_nong_do_dung_dich",
+    "name": "Dung dịch, Độ tan & Tính nồng độ dung dịch ($C\\%$, $C_M$)",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_5_1",
+        "question": "[Nồng độ dung dịch]: Hòa tan $10\\text{ g } NaCl$ vào $40\\text{ g}$ nước. Tính nồng độ phần trăm ($C\\%$) của dung dịch thu được.",
+        "answer": "1. Nhận diện đại lượng & Né bẫy: $m_{ct} = 10\\text{ g}$, $m_{H_2O} = 40\\text{ g}$. Bẫy: $m_{dd} \\neq m_{H_2O}$.\n2. Tính khối lượng dung dịch: $m_{dd} = m_{ct} + m_{dm} = 10 + 40 = 50\\text{ g}$.\n3. Áp dụng công thức: $C\\% = \\frac{m_{ct}}{m_{dd}} \\times 100\\% = \\frac{10}{50} \\times 100\\% = 20\\%$.\n4. Kết luận: Nồng độ phần trăm dung dịch $NaCl$ là $20\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_5_1",
+    "name": "Nồng độ phần trăm: $C\\% = \\frac{m_{ct}}{m_{dd}} \\times 100\\%$ ($m_{dd} = m_{ct} + m_{dm}$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_nong_do_dung_dich",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_5_2",
+    "name": "Nồng độ mol: $C_M = \\frac{n}{V}$ ($V$ tính bằng Lít)",
+    "type": "STEP",
+    "parentId": "khtn8_les_nong_do_dung_dich",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_5_3",
+    "name": "Bẫy đơn vị thể tích: Quên đổi $mL \\rightarrow L$ ($1\\text{ L} = 1000\\text{ mL}$) ➔ Sai $C_M$",
+    "type": "STEP",
+    "parentId": "khtn8_les_nong_do_dung_dich",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_bao_toan_pthh",
+    "name": "Định luật bảo toàn khối lượng & Lập phương trình hóa học",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_6_1",
+        "question": "[Bảo toàn khối lượng]: Nung $10\\text{ g } CaCO_3$ thu được $5{,}6\\text{ g } CaO$ và khí $CO_2$. Tính khối lượng $CO_2$ sinh ra.",
+        "answer": "1. Nhận diện đại lượng: $m_{CaCO_3} = 10\\text{ g}$, $m_{CaO} = 5{,}6\\text{ g}$.\n2. Viết PTHH & Định luật BTKL: $CaCO_3 \\xrightarrow{t^\\circ} CaO + CO_2 \\Rightarrow m_{CaCO_3} = m_{CaO} + m_{CO_2}$.\n3. Tính toán: $m_{CO_2} = m_{CaCO_3} - m_{CaO} = 10 - 5{,}6 = 4{,}4\\text{ g}$.\n4. Kết luận: Khối lượng $CO_2$ thu được là $4{,}4\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_6_1",
+    "name": "Định luật BTKL: $m_{\\text{chất tham gia}} = m_{\\text{sản phẩm}}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_bao_toan_pthh",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_6_2",
+    "name": "Mẹo cân bằng nhanh PTHH: Cân bằng Kim loại ➔ Phi kim ➔ Nhóm nguyên tử ➔ $H$ ➔ $O$",
+    "type": "STEP",
+    "parentId": "khtn8_les_bao_toan_pthh",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_6_3",
+    "name": "Bẫy chưa cân bằng PTHH: Quên điền hệ số ➔ Tính số mol sản phẩm sai",
+    "type": "STEP",
+    "parentId": "khtn8_les_bao_toan_pthh",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_tinh_theo_pthh_chat_du",
+    "name": "Tính theo phương trình hóa học (Bài toán vừa đủ & Bài toán chất dư)",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_7_1",
+        "question": "[Bài toán chất dư]: Cho $5{,}6\\text{ g } Fe$ tác dụng với $0{,}2\\text{ mol } HCl$. Tính thể tích khí $H_2$ thu được ở ĐKC.",
+        "answer": "1. Nhận diện & Đổi số mol: $n_{Fe} = \\frac{5{,}6}{56} = 0{,}1\\text{ mol}$; $n_{HCl} = 0{,}2\\text{ mol}$.\n2. Viết PTHH & So sánh tỉ lệ: $Fe + 2HCl \\rightarrow FeCl_2 + H_2 \\uparrow$. Tỉ lệ: $\\frac{n_{Fe}}{1} = 0{,}1$; $\\frac{n_{HCl}}{2} = \\frac{0{,}2}{2} = 0{,}1$.\n3. Lập luận: Tỉ lệ bằng nhau ➔ Hai chất phản ứng vừa đủ.\n4. Tính toán: $n_{H_2} = n_{Fe} = 0{,}1\\text{ mol} \\Rightarrow V_{H_2} = 0{,}1 \\times 24{,}79 = 2{,}479\\text{ L}$.\n5. Kết luận: Thể tích khí $H_2$ là $2{,}479\\text{ L}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_7_1",
+    "name": "Thuật toán chất dư: So sánh tỉ lệ $\\frac{n_A}{a}$ và $\\frac{n_B}{b}$ ➔ Tỉ lệ lớn hơn = Chất dư",
+    "type": "STEP",
+    "parentId": "khtn8_les_tinh_theo_pthh_chat_du",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_7_2",
+    "name": "Quy tắc tính sản phẩm: BẮT BUỘC tính theo chất HẾT",
+    "type": "STEP",
+    "parentId": "khtn8_les_tinh_theo_pthh_chat_du",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_7_3",
+    "name": "Bẫy chất dư: Lấy số mol chất dư tính sản phẩm ➔ Sai kết quả",
+    "type": "STEP",
+    "parentId": "khtn8_les_tinh_theo_pthh_chat_du",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_hieu_suat_toc_do",
+    "name": "Hiệu suất phản ứng hóa học & Tốc độ phản ứng, chất xúc tác",
+    "type": "LESSON",
+    "parentId": "khtn8_top_phan_ung_mol",
+    "examples": [
+      {
+        "id": "ex_1_1_8_1",
+        "question": "[Hiệu suất phản ứng]: Lý thuyết thu được $10\\text{ g } CaCO_3$, thực tế chỉ thu được $8\\text{ g}$. Tính hiệu suất $H\\%$.",
+        "answer": "1. Nhận diện đại lượng: $m_{\\text{thực tế}} = 8\\text{ g}$; $m_{\\text{lý thuyết}} = 10\\text{ g}$.\n2. Áp dụng công thức: $H\\% = \\frac{m_{\\text{thực tế}}}{m_{\\text{lý thuyết}}} \\times 100\\%$.\n3. Tính toán: $H\\% = \\frac{8}{10} \\times 100\\% = 80\\%$.\n4. Kết luận: Hiệu suất phản ứng đạt $80\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_1_8_1",
+    "name": "Công thức hiệu suất: $H\\% = \\frac{m_{\\text{thực tế}}}{m_{\\text{lý thuyết}}} \\times 100\\%$ ($H\\% \\le 100\\%$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_hieu_suat_toc_do",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_8_2",
+    "name": "Yếu tố tăng tốc độ phản ứng: Nồng độ + Nhiệt độ + Diện tích tiếp xúc + Chất xúc tác",
+    "type": "STEP",
+    "parentId": "khtn8_les_hieu_suat_toc_do",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_1_8_3",
+    "name": "Bẫy hiệu suất: Lấy $m_{\\text{lý thuyết}} / m_{\\text{thực tế}}$ dẫn đến $H\\% > 100\\%$ ➔ Sai",
+    "type": "STEP",
+    "parentId": "khtn8_les_hieu_suat_toc_do",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_hop_chat_vo_co",
+    "name": "Các hợp chất vô cơ thông dụng & Phân bón hóa học",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_hoa",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_acid_ph",
+    "name": "Acid - Định nghĩa, Tính chất hóa học & Ứng dụng thực tế",
+    "type": "LESSON",
+    "parentId": "khtn8_top_hop_chat_vo_co",
+    "examples": [
+      {
+        "id": "ex_1_2_1_1",
+        "question": "[Acid & Kim loại]: Cho lá Zinc ($Zn$) vào dung dịch $HCl$. Nêu hiện tượng và viết phương trình hóa học.",
+        "answer": "1. Nhận diện dạng bài: Metal (trước H) + Acid $\\rightarrow$ Salt + $H_2 \\uparrow$.\n2. Hiện tượng: Lá Zinc tan dần, có sủi bọt khí không màu thoát ra.\n3. Phương trình hóa học: $Zn + 2HCl \\rightarrow ZnCl_2 + H_2 \\uparrow$.\n4. Kết luận: Phản ứng giải phóng khí Hydrogen.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_2_1_1",
+    "name": "Tính chất Acid: Làm quỳ tím chuyển ĐỎ; $pH < 7$",
+    "type": "STEP",
+    "parentId": "khtn8_les_acid_ph",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_1_2",
+    "name": "Kim loại (đứng trước H) + Acid $\\rightarrow$ Muối + $H_2 \\uparrow$",
+    "type": "STEP",
+    "parentId": "khtn8_les_acid_ph",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_1_3",
+    "name": "Bẫy kim loại đứng sau H: $Cu, Ag, Au + HCl / H_2SO_4 \\text{ loãng} \\rightarrow \\text{KHÔNG phản ứng}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_acid_ph",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_base_kiem",
+    "name": "Base - Phân loại, Tính chất hóa học & Thang pH môi trường",
+    "type": "LESSON",
+    "parentId": "khtn8_top_hop_chat_vo_co",
+    "examples": [
+      {
+        "id": "ex_1_2_2_1",
+        "question": "[Base & pH]: Dung dịch $NaOH$ làm quỳ tím và phenolphthalein chuyển màu gì?",
+        "answer": "1. Nhận diện loại chất: $NaOH$ là Base tan (Kiềm), dung dịch có $pH > 7$.\n2. Hiện tượng chuyển màu: Làm quỳ tím hóa XANH, làm dung dịch phenolphthalein không màu chuyển sang màu HỒNG.\n3. Kết luận: Nhận biết môi trường Base nhờ chỉ thị màu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_2_2_1",
+    "name": "Tính chất Base tan (Kiềm): Quỳ tím $\\rightarrow$ XANH; Phenolphthalein $\\rightarrow$ HỒNG; $pH > 7$",
+    "type": "STEP",
+    "parentId": "khtn8_les_base_kiem",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_2_2",
+    "name": "Phản ứng trung hòa: Acid + Base $\\rightarrow$ Salt + $H_2O$",
+    "type": "STEP",
+    "parentId": "khtn8_les_base_kiem",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_2_3",
+    "name": "Bẫy Base không tan: $Cu(OH)_2, Fe(OH)_3 \\rightarrow \\text{KHÔNG làm đổi màu quỳ tím}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_base_kiem",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_oxide",
+    "name": "Oxide - Phân loại (Acid, Base, Lưỡng tính, Trung tính) & Tính chất",
+    "type": "LESSON",
+    "parentId": "khtn8_top_hop_chat_vo_co",
+    "examples": [
+      {
+        "id": "ex_1_2_3_1",
+        "question": "[Phân loại Oxide]: Phân loại các oxide sau: $CaO, SO_2, CO_2, CuO$.",
+        "answer": "1. Phân tích thành phần: $CaO, CuO$ là oxide kim loại; $SO_2, CO_2$ là oxide phi kim.\n2. Phân loại chuẩn: Acidic oxide ($SO_2, CO_2$), Basic oxide ($CaO, CuO$).\n3. Kết luận: $CaO, CuO$ là Basic oxide; $SO_2, CO_2$ là Acidic oxide.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_2_3_1",
+    "name": "Basic oxide + Acid $\\rightarrow$ Salt + $H_2O$ ($CaO + 2HCl \\rightarrow CaCl_2 + H_2O$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_oxide",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_3_2",
+    "name": "Acidic oxide + Base $\\rightarrow$ Salt + $H_2O$ ($CO_2 + Ca(OH)_2 \\rightarrow CaCO_3 \\downarrow + H_2O$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_oxide",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_3_3",
+    "name": "Bẫy Oxide trung tính: $CO, NO \\rightarrow \\text{KHÔNG tác dụng với Acid/Base/Nước}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_oxide",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_muoi_phan_ung_trao_doi",
+    "name": "Muối - Khái niệm, Phản ứng trao đổi & Điều chế muối",
+    "type": "LESSON",
+    "parentId": "khtn8_top_hop_chat_vo_co",
+    "examples": [
+      {
+        "id": "ex_1_2_4_1",
+        "question": "[Phản ứng trao đổi]: Cho dung dịch $BaCl_2$ tác dụng với dung dịch $Na_2SO_4$. Viết phương trình hóa học và nêu điều kiện phản ứng.",
+        "answer": "1. Nhận diện phản ứng: Phản ứng trao đổi giữa 2 dung dịch muối $Salt_1 + Salt_2 \\rightarrow Salt_3 + Salt_4$.\n2. Điều kiện xảy ra: Sản phẩm phải có chất kết tủa hoặc chất khí.\n3. PTHH: $BaCl_2 + Na_2SO_4 \\rightarrow BaSO_4 \\downarrow + 2NaCl$.\n4. Kết luận: Phản ứng xảy ra do tạo kết tủa trắng $BaSO_4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_2_4_1",
+    "name": "Điều kiện phản ứng trao đổi: Sản phẩm BẮT BUỘC có Kết tủa ($\\downarrow$) hoặc Chất khí ($\\uparrow$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_muoi_phan_ung_trao_doi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_4_2",
+    "name": "Muối + Acid $\\rightarrow$ Muối mới + Acid mới ($CaCO_3 + 2HCl \\rightarrow CaCl_2 + CO_2 \\uparrow + H_2O$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_muoi_phan_ung_trao_doi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_4_3",
+    "name": "Bẫy tính tan: Hai chất tham gia phản ứng muối BẮT BUỘC phải TAN",
+    "type": "STEP",
+    "parentId": "khtn8_les_muoi_phan_ung_trao_doi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_chuyen_hoa_vo_co",
+    "name": "Mối quan hệ chuyển đổi giữa các hợp chất vô cơ",
+    "type": "LESSON",
+    "parentId": "khtn8_top_hop_chat_vo_co",
+    "examples": [
+      {
+        "id": "ex_1_2_5_1",
+        "question": "[Chuỗi chuyển hóa]: Viết PTHH thực hiện sơ đồ: $S \\rightarrow SO_2 \\rightarrow H_2SO_3$.",
+        "answer": "1. Phân tích chuỗi: Phi kim $\\rightarrow$ Acidic oxide $\\rightarrow$ Acid.\n2. Phương trình 1: $S + O_2 \\xrightarrow{t^\\circ} SO_2$.\n3. Phương trình 2: $SO_2 + H_2O \\rightarrow H_2SO_3$.\n4. Kết luận: Đã hoàn thành chuỗi chuyển hóa đúng quy tắc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_2_5_1",
+    "name": "Sơ đồ Kim loại: $Metal \\rightarrow Basic\\ Oxide \\rightarrow Base \\rightarrow Salt$",
+    "type": "STEP",
+    "parentId": "khtn8_les_chuyen_hoa_vo_co",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_5_2",
+    "name": "Sơ đồ Phi kim: $Nonmetal \\rightarrow Acidic\\ Oxide \\rightarrow Acid \\rightarrow Salt$",
+    "type": "STEP",
+    "parentId": "khtn8_les_chuyen_hoa_vo_co",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_5_3",
+    "name": "Bẫy phản ứng trực tiếp: $CuO + H_2O \\rightarrow \\text{KHÔNG phản ứng}$ (Phải qua Acid)",
+    "type": "STEP",
+    "parentId": "khtn8_les_chuyen_hoa_vo_co",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_phan_bon_hoa_hoc",
+    "name": "Phân bón hóa học (Đạm, Lân, Kali, NPK) & Quy tắc sử dụng an toàn",
+    "type": "LESSON",
+    "parentId": "khtn8_top_hop_chat_vo_co",
+    "examples": [
+      {
+        "id": "ex_1_2_6_1",
+        "question": "[Phân bón hóa học]: Phân đạm cung cấp nguyên tố dinh dưỡng nào cho cây trồng?",
+        "answer": "1. Khái niệm phân bón: Đạm (N), Lân (P), Kali (K).\n2. Tác dụng: Phân đạm cung cấp Nitrogen ($N$), kích thích cây phát triển lá, cành.\n3. Kết luận: Phân đạm cung cấp nguyên tố $N$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_1_2_6_1",
+    "name": "Phân Đạm cung cấp $N$; Phân Lân cung cấp $P$; Phân Kali cung cấp $K$",
+    "type": "STEP",
+    "parentId": "khtn8_les_phan_bon_hoa_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_6_2",
+    "name": "Phân bón NPK = Phân bón hỗn hợp chứa cả 3 nguyên tố $N, P, K$",
+    "type": "STEP",
+    "parentId": "khtn8_les_phan_bon_hoa_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_1_2_6_3",
+    "name": "Bẫy bón phân: Trộn phân đạm với vôi sống ($CaO$) ➔ Mất khí $NH_3 \\uparrow$ giảm tác dụng",
+    "type": "STEP",
+    "parentId": "khtn8_les_phan_bon_hoa_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_cat_co_hoc",
+    "name": "Cơ học, Áp suất & Máy cơ đơn giản (Vật lý - Phần 1)",
+    "type": "CATEGORY",
+    "parentId": "khtn8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_khoi_luong_rieng",
+    "name": "Khối lượng riêng & Trọng lượng riêng",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_co_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_tinh_khoi_luong_rieng",
+    "name": "Khái niệm & Công thức tính khối lượng riêng ($D = \\frac{m}{V}$)",
+    "type": "LESSON",
+    "parentId": "khtn8_top_khoi_luong_rieng",
+    "examples": [
+      {
+        "id": "ex_2_1_1_1",
+        "question": "[Khối lượng riêng]: Một khối sắt có thể tích $2\\text{ m}^3$ và khối lượng $15600\\text{ kg}$. Tính khối lượng riêng của sắt.",
+        "answer": "1. Nhận diện đại lượng: $m = 15600\\text{ kg}$, $V = 2\\text{ m}^3$.\n2. Áp dụng công thức: $D = \\frac{m}{V}$.\n3. Tính toán: $D = \\frac{15600}{2} = 7800\\text{ kg/m}^3$.\n4. Kết luận: Khối lượng riêng của sắt là $7800\\text{ kg/m}^3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_1_1_1",
+    "name": "Công thức khối lượng riêng: $D = \\frac{m}{V}$ ($m$ tính bằng kg, $V$ tính bằng $\\text{m}^3$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_tinh_khoi_luong_rieng",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_1_1_2",
+    "name": "Công thức trọng lượng riêng: $d = 10 \\cdot D = \\frac{P}{V}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_tinh_khoi_luong_rieng",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_1_1_3",
+    "name": "Bẫy đổi đơn vị: $1\\text{ g/cm}^3 = 1000\\text{ kg/m}^3$ (Đổi $cm^3 \\rightarrow m^3$: chia $10^6$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_tinh_khoi_luong_rieng",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_thuc_hanh_do_d",
+    "name": "Phương pháp thực hành xác định khối lượng riêng chất rắn, chất lỏng",
+    "type": "LESSON",
+    "parentId": "khtn8_top_khoi_luong_rieng",
+    "examples": [
+      {
+        "id": "ex_2_1_2_1",
+        "question": "[Thực hành đo D]: Nêu các bước đo khối lượng riêng của một hòn đá không thấm nước.",
+        "answer": "1. Dụng cụ: Cân điện tử (đo khối lượng $m$), Bình chia độ chứa nước (đo thể tích $V$).\n2. Các bước: Đo $m$ bằng cân ➔ Thả hòn đá vào bình chia độ, $V = V_2 - V_1$ ➔ Tính $D = \\frac{m}{V_2 - V_1}$.\n3. Né bẫy: Phải đọc mức nước ở đáy lõm màng chất lỏng.\n4. Kết luận: Xác định đúng $D$ hòn đá.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_1_2_1",
+    "name": "Xác định $V$ vật rắn bất kỳ: $V = V_{\\text{sau}} - V_{\\text{trước}}$ (dùng bình chia độ)",
+    "type": "STEP",
+    "parentId": "khtn8_les_thuc_hanh_do_d",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_1_2_2",
+    "name": "Xác định $m$ chất lỏng: $m_{\\text{chất lỏng}} = m_{\\text{cốc + lỏng}} - m_{\\text{cốc rỗng}}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_thuc_hanh_do_d",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_1_2_3",
+    "name": "Bẫy bọt khí: Vật rắn còn bám bọt khí khi thả vào bình ➔ $V$ đo được lớn hơn thực tế",
+    "type": "STEP",
+    "parentId": "khtn8_les_thuc_hanh_do_d",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_ap_suat_archimedes",
+    "name": "Áp suất, Áp suất chất lỏng & Lực đẩy Archimedes",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_co_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_ap_suat_be_mat",
+    "name": "Áp lực, Áp suất trên bề mặt ($p = \\frac{F}{S}$) & Nguyên tắc tăng giảm áp suất",
+    "type": "LESSON",
+    "parentId": "khtn8_top_ap_suat_archimedes",
+    "examples": [
+      {
+        "id": "ex_2_2_1_1",
+        "question": "[Áp suất bề mặt]: Tác dụng một lực $500\\text{ N}$ vuông góc lên diện tích $0{,}02\\text{ m}^2$. Tính áp suất tác dụng.",
+        "answer": "1. Nhận diện đại lượng: $F = 500\\text{ N}$, $S = 0{,}02\\text{ m}^2$.\n2. Áp dụng công thức: $p = \\frac{F}{S}$.\n3. Tính toán: $p = \\frac{500}{0{,}02} = 25000\\text{ N/m}^2 = 25000\\text{ Pa}$.\n4. Kết luận: Áp suất tác dụng là $25000\\text{ Pa}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_2_1_1",
+    "name": "Công thức áp suất bề mặt: $p = \\frac{F}{S}$ ($1\\text{ Pa} = 1\\text{ N/m}^2$)",
+    "type": "STEP",
+    "parentId": "khtn8_les_ap_suat_be_mat",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_2_1_2",
+    "name": "Tăng áp suất: Tăng áp lực $F$ hoặc giảm diện tích bị ép $S$ (mài sắc lưỡi dao)",
+    "type": "STEP",
+    "parentId": "khtn8_les_ap_suat_be_mat",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_2_1_3",
+    "name": "Bẫy đơn vị $S$: Đổi $cm^2 \\rightarrow m^2$ (chia $10000$) ➔ Quên đổi gây sai kết quả",
+    "type": "STEP",
+    "parentId": "khtn8_les_ap_suat_be_mat",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_ap_suat_chat_long_khi_quyen",
+    "name": "Áp suất chất lỏng, Bình thông nhau & Áp suất khí quyển",
+    "type": "LESSON",
+    "parentId": "khtn8_top_ap_suat_archimedes",
+    "examples": [
+      {
+        "id": "ex_2_2_2_1",
+        "question": "[Áp suất chất lỏng]: Tính áp suất chất lỏng ở đáy thùng cao $1{,}2\\text{ m}$ chứa đầy nước ($d_{nước} = 10000\\text{ N/m}^3$).",
+        "answer": "1. Nhận diện đại lượng: $h = 1{,}2\\text{ m}$, $d = 10000\\text{ N/m}^3$.\n2. Công thức áp suất chất lỏng: $p = d \\cdot h$.\n3. Tính toán: $p = 10000 \\cdot 1{,}2 = 12000\\text{ Pa}$.\n4. Kết luận: Áp suất ở đáy thùng là $12000\\text{ Pa}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_2_2_1",
+    "name": "Công thức áp suất chất lỏng: $p = d \\cdot h$ ($h$: độ sâu tính từ mặt thoáng)",
+    "type": "STEP",
+    "parentId": "khtn8_les_ap_suat_chat_long_khi_quyen",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_2_2_2",
+    "name": "Bình thông nhau: Trong bình chứa cùng chất lỏng đứng yên, mặt thoáng ở các nhánh có cùng độ cao",
+    "type": "STEP",
+    "parentId": "khtn8_les_ap_suat_chat_long_khi_quyen",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_2_2_3",
+    "name": "Bẫy độ sâu $h$: Tự ý lấy khoảng cách từ điểm xét tới ĐÁY bình ➔ Sai hoàn toàn",
+    "type": "STEP",
+    "parentId": "khtn8_les_ap_suat_chat_long_khi_quyen",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_luc_day_archimedes",
+    "name": "Lực đẩy Archimedes ($F_A = d \\cdot V$) & Điều kiện nổi của vật",
+    "type": "LESSON",
+    "parentId": "khtn8_top_ap_suat_archimedes",
+    "examples": [
+      {
+        "id": "ex_2_2_3_1",
+        "question": "[Lực đẩy Archimedes]: Một vật thể tích $0{,}002\\text{ m}^3$ chìm hoàn toàn trong nước ($d = 10000\\text{ N/m}^3$). Tính lực đẩy Archimedes.",
+        "answer": "1. Nhận diện đại lượng: $V = 0{,}002\\text{ m}^3$, $d = 10000\\text{ N/m}^3$.\n2. Công thức: $F_A = d \\cdot V$.\n3. Tính toán: $F_A = 10000 \\cdot 0{,}002 = 20\\text{ N}$.\n4. Kết luận: Lực đẩy Archimedes tác dụng lên vật là $20\\text{ N}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_2_3_1",
+    "name": "Công thức lực đẩy Archimedes: $F_A = d_{\\text{chất lỏng}} \\cdot V_{\\text{phần chìm}}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_luc_day_archimedes",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_2_3_2",
+    "name": "Điều kiện chìm nổi: Vật nổi khi $d_{\\text{lỏng}} > d_{\\text{vật}}$ (nổi lên đến khi $F_A = P$); Vật chìm khi $d_{\\text{lỏng}} < d_{\\text{vật}}$; Vật lơ lửng khi $d_{\\text{lỏng}} = d_{\\text{vật}}$",
+    "type": "STEP",
+    "parentId": "khtn8_les_luc_day_archimedes",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_2_3_3",
+    "name": "Bẫy thể tích $V$: Khi vật nổi chỉ một phần, $V$ trong công thức LÀ PHẦN CHÌM, không phải toàn bộ vật",
+    "type": "STEP",
+    "parentId": "khtn8_les_luc_day_archimedes",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_moment_may_co",
+    "name": "Tác dụng làm quay của lực & Máy cơ đơn giản",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_co_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_moment_luc",
+    "name": "Tác dụng làm quay của lực & Moment lực",
+    "type": "LESSON",
+    "parentId": "khtn8_top_moment_may_co",
+    "examples": [
+      {
+        "id": "ex_2_3_1_1",
+        "question": "[Moment lực]: Lực $20\\text{ N}$ tác dụng vuông góc vào cửa tại vị trí cách bản lề $0{,}8\\text{ m}$. Tính moment lực.",
+        "answer": "1. Nhận diện đại lượng: $F = 20\\text{ N}$, $d = 0{,}8\\text{ m}$.\n2. Công thức moment lực: $M = F \\cdot d$.\n3. Tính toán: $M = 20 \\cdot 0{,}8 = 16\\text{ N}\\cdot\\text{m}$.\n4. Kết luận: Moment lực làm quay cửa là $16\\text{ N}\\cdot\\text{m}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_3_1_1",
+    "name": "Công thức Moment lực: $M = F \\cdot d$ ($d$ là khoảng cách từ trục quay đến giá của lực)",
+    "type": "STEP",
+    "parentId": "khtn8_les_moment_luc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_3_1_2",
+    "name": "Lực làm quay càng lớn khi: Lực $F$ càng lớn HOẶC cánh tay đòn $d$ càng lớn",
+    "type": "STEP",
+    "parentId": "khtn8_les_moment_luc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_3_1_3",
+    "name": "Bẫy cánh tay đòn: Lực có giá đi qua trục quay ➔ $d = 0 \\Rightarrow M = 0$ (Không làm quay)",
+    "type": "STEP",
+    "parentId": "khtn8_les_moment_luc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_don_bay",
+    "name": "Đòn bẩy - Bậc đòn bẩy, Điều kiện cân bằng & Ứng dụng thực tiễn",
+    "type": "LESSON",
+    "parentId": "khtn8_top_moment_may_co",
+    "examples": [
+      {
+        "id": "ex_2_3_2_1",
+        "question": "[Đòn bẩy]: Một đòn bẩy có $d_1 = 1\\text{ m}, d_2 = 0{,}2\\text{ m}$. Muốn nâng vật nặng $500\\text{ N}$ ở đầu 2 thì cần lực $F_1$ tối thiểu bao nhiêu?",
+        "answer": "1. Nhận diện đại lượng: $F_2 = 500\\text{ N}$, $d_1 = 1\\text{ m}, d_2 = 0{,}2\\text{ m}$.\n2. Quy tắc cân bằng đòn bẩy: $F_1 \\cdot d_1 = F_2 \\cdot d_2$.\n3. Tính toán: $F_1 = \\frac{F_2 \\cdot d_2}{d_1} = \\frac{500 \\cdot 0{,}2}{1} = 100\\text{ N}$.\n4. Kết luận: Lực tác dụng tối thiểu $F_1 = 100\\text{ N}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_2_3_2_1",
+    "name": "Điều kiện cân bằng đòn bẩy: $F_1 \\cdot d_1 = F_2 \\cdot d_2$",
+    "type": "STEP",
+    "parentId": "khtn8_les_don_bay",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_3_2_2",
+    "name": "Đòn bẩy cho lợi về lực khi $d_1 > d_2 \\Rightarrow F_1 < F_2$",
+    "type": "STEP",
+    "parentId": "khtn8_les_don_bay",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_2_3_2_3",
+    "name": "Bẫy xác định điểm tựa $O$: Nhầm lẫn vị trí điểm tựa $O$ dẫn đến tính sai $d_1, d_2$",
+    "type": "STEP",
+    "parentId": "khtn8_les_don_bay",
+    "examples": null
+  },
+  {
+    "id": "khtn8_cat_nhiet_dien",
+    "name": "Nhiệt học & Điện học cơ bản (Vật lý - Phần 2)",
+    "type": "CATEGORY",
+    "parentId": "khtn8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_nhiet_hoc",
+    "name": "Nhiệt học, Sự truyền nhiệt & Sự nở vì nhiệt",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_nhiet_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_nhiet_nang_noi_nang",
+    "name": "Năng lượng nhiệt, Chuyển động nhiệt & Khái niệm Nội năng",
+    "type": "LESSON",
+    "parentId": "khtn8_top_nhiet_hoc",
+    "examples": [
+      {
+        "id": "ex_3_1_1_1",
+        "question": "[Nội năng & Nhiệt năng]: Nêu 2 cách làm biến đổi nội năng của một vật.",
+        "answer": "1. Khái niệm: Nội năng là tổng động năng và thế năng của các phân tử cấu tạo nên vật.\n2. Hai cách làm biến đổi: Thực hiện công (cọ xát vật) và Truyền nhiệt (thả vật vào nước nóng).\n3. Kết luận: Nội năng biến đổi bằng thực hiện công hoặc truyền nhiệt.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_3_1_1_1",
+    "name": "Nhiệt độ càng cao ➔ Phân tử chuyển động càng nhanh ➔ Nhiệt năng càng lớn",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhiet_nang_noi_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_1_1_2",
+    "name": "Cách làm đổi nội năng: Thực hiện công (cọ xát) OR Truyền nhiệt (tiếp xúc vật nóng)",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhiet_nang_noi_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_1_1_3",
+    "name": "Bẫy khái niệm: Nhiệt lượng không phải là nội năng, mà là phần nội năng vật tăng thêm hay mất đi trong quá trình truyền nhiệt",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhiet_nang_noi_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_truyen_nhiet_no_vi_nhiet",
+    "name": "Các hình thức truyền nhiệt (Dẫn nhiệt, Đối lưu, Bức xạ nhiệt) & Sự nở vì nhiệt",
+    "type": "LESSON",
+    "parentId": "khtn8_top_nhiet_hoc",
+    "examples": [
+      {
+        "id": "ex_3_1_2_1",
+        "question": "[Hình thức truyền nhiệt]: Tại sao khi đun nước người ta phải đun từ đáy nồi?",
+        "answer": "1. Nhận diện hình thức truyền nhiệt: Bức xạ (chất rắn/chân không), Dẫn nhiệt (chất rắn), Đối lưu (chất lỏng, khí).\n2. Cơ chế đối lưu: Lớp nước ở đáy nóng lên ➔ Nở ra ➔ Khối lượng riêng giảm ➔ Nổi lên; lớp nước lạnh ở trên nặng hơn chìm xuống tạo thành dòng đối lưu.\n3. Kết luận: Đun từ đáy giúp cả nồi nước nóng đều nhờ dòng đối lưu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_3_1_2_1",
+    "name": "Dẫn nhiệt (Chất rắn); Đối lưu (Chất lỏng & Khí); Bức xạ nhiệt (Mọi môi trường & Chân không)",
+    "type": "STEP",
+    "parentId": "khtn8_les_truyen_nhiet_no_vi_nhiet",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_1_2_2",
+    "name": "Sự nở vì nhiệt: Chất khí nở vì nhiệt nhiều nhất, chất rắn nở ít nhất",
+    "type": "STEP",
+    "parentId": "khtn8_les_truyen_nhiet_no_vi_nhiet",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_1_2_3",
+    "name": "Bẫy khe hở đường ray: Phải để khe hở giữa các thanh ray để khi trời nóng ray nở ra không bị cong",
+    "type": "STEP",
+    "parentId": "khtn8_les_truyen_nhiet_no_vi_nhiet",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_dien_hoc",
+    "name": "Điện học cơ bản & Tác dụng của dòng điện",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_nhiet_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_nhiem_dien_dong_dien",
+    "name": "Sự nhiễm điện do cọ xát, Hai loại điện tích & Khái niệm Dòng điện",
+    "type": "LESSON",
+    "parentId": "khtn8_top_dien_hoc",
+    "examples": [
+      {
+        "id": "ex_3_2_1_1",
+        "question": "[Sự nhiễm điện]: Cọ xát thước nhựa vào vải khô, thước nhựa cọ xát cào hút các vụn giấy. Giải thích.",
+        "answer": "1. Hiện tượng: Cọ xát làm thước nhựa nhận thêm electron ➔ Nhiễm điện âm.\n2. Bản chất: Vật nhiễm điện có khả năng hút các vật nhẹ khác.\n3. Kết luận: Do thước nhựa nhiễm điện do cọ xát nên hút được mảnh giấy nhỏ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_3_2_1_1",
+    "name": "Cùng loại điện tích thì ĐẨY nhau; Khác loại điện tích thì HÚT nhau",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhiem_dien_dong_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_2_1_2",
+    "name": "Chiều dòng điện quy ước: Từ cực DƯƠNG ($+$) qua dây dẫn tới cực ÂM ($-$) của nguồn",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhiem_dien_dong_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_2_1_3",
+    "name": "Bẫy chiều electron: Dòng electron tự do dịch chuyển ngược chiều quy ước của dòng điện",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhiem_dien_dong_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_so_do_mach_dien",
+    "name": "Sơ đồ mạch điện đơn giản & Các tác dụng của dòng điện",
+    "type": "LESSON",
+    "parentId": "khtn8_top_dien_hoc",
+    "examples": [
+      {
+        "id": "ex_3_2_2_1",
+        "question": "[Tác dụng dòng điện]: Kể tên 5 tác dụng chính của dòng điện và cho 1 ví dụ thực tế.",
+        "answer": "1. 5 tác dụng: Tác dụng nhiệt (bàn ủi), phát sáng (đèn LED), từ (chuông điện), hóa học (mạ kim loại), sinh lý (châm cứu điện).\n2. Kết luận: Dòng điện có 5 tác dụng ứng dụng rộng rãi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_3_2_2_1",
+    "name": "Tác dụng nhiệt (bàn ủi), Phát sáng (đèn LED), Hóa học (mạ điện), Sinh lý (tim/Cơ quan)",
+    "type": "STEP",
+    "parentId": "khtn8_les_so_do_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_2_2_2",
+    "name": "Cầu chì / Aptomat: Tự động ngắt mạch khi cường độ dòng điện quá tải ➔ Chống cháy nổ",
+    "type": "STEP",
+    "parentId": "khtn8_les_so_do_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_2_2_3",
+    "name": "Bẫy mạ điện: Vật cần mạ BẮT BUỘC phải nối với cực ÂM ($-$) của nguồn điện",
+    "type": "STEP",
+    "parentId": "khtn8_les_so_do_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_do_cuong_do_hieu_dien_the",
+    "name": "Cường độ dòng điện ($I$), Hiệu điện thế ($U$) & Thực hành đo trong mạch điện",
+    "type": "LESSON",
+    "parentId": "khtn8_top_dien_hoc",
+    "examples": [
+      {
+        "id": "ex_3_2_3_1",
+        "question": "[Đo I và U]: Nêu quy tắc mắc Ampe kế đo cường độ dòng điện và Vôn kế đo hiệu điện thế.",
+        "answer": "1. Ampe kế (đo $I$): Mắc NỐI TIẾP vào mạch điện; chốt DƯƠNG ($+$) nối về phía cực dương nguồn.\n2. Vôn kế (đo $U$): Mắc SONG SONG với dụng cụ cần đo; chốt DƯƠNG ($+$) nối về phía cực dương nguồn.\n3. Né bẫy: Tuyệt đối không mắc Ampe kế song song với nguồn điện ➔ Gây đoản mạch vỡ thiết bị.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_3_2_3_1",
+    "name": "Ampe kế (đo cường độ dòng điện $I$, đơn vị $\\text{A}$): Mắc NỐI TIẾP vào đoạn mạch",
+    "type": "STEP",
+    "parentId": "khtn8_les_do_cuong_do_hieu_dien_the",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_2_3_2",
+    "name": "Vôn kế (đo hiệu điện thế $U$, đơn vị $\\text{V}$): Mắc SONG SONG với hai đầu thiết bị",
+    "type": "STEP",
+    "parentId": "khtn8_les_do_cuong_do_hieu_dien_the",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_3_2_3_3",
+    "name": "Bẫy đoản mạch: Mắc Ampe kế song song trực tiếp hai cực nguồn điện ➔ Cháy Ampe kế",
+    "type": "STEP",
+    "parentId": "khtn8_les_do_cuong_do_hieu_dien_the",
+    "examples": null
+  },
+  {
+    "id": "khtn8_cat_sinh_nguoi",
+    "name": "Sinh học cơ thể người (Sinh học - Phần 1)",
+    "type": "CATEGORY",
+    "parentId": "khtn8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_van_dong_tieu_hoa",
+    "name": "Khái quát cơ thể người, Hệ vận động & Hệ tiêu hóa",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_sinh_nguoi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_so_cuu_van_dong",
+    "name": "Cấu tạo, chức năng Hệ vận động & Cơ chế phản xạ, sơ cứu chấn thương",
+    "type": "LESSON",
+    "parentId": "khtn8_top_van_dong_tieu_hoa",
+    "examples": [
+      {
+        "id": "ex_4_1_1_1",
+        "question": "[Sơ cứu gãy xương]: Nêu các bước sơ cứu khi phát hiện nạn nhân gãy xương cẳng tay.",
+        "answer": "1. Nhận diện chấn thương: Không tự ý nắn chỉnh xương gãy (tránh làm đứt mạch máu/dây thần kinh).\n2. Các bước xử lý: Đặt 2 nẹp gỗ áp dọc cẳng tay ➔ Lót bông mềm ở đầu nẹp ➔ Dùng dây băng cố định nẹp ➔ Dùng khăn gập tam giác treo cẳng tay trước ngực.\n3. Kết luận: Sơ cứu đúng kỹ thuật và đưa nạn nhân đến cơ sở y tế.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_1_1_1",
+    "name": "Thành phần hệ vận động: Xương (Bộ khung & Bảo vệ) + Cơ (Chủ động co rút tạo chuyển động)",
+    "type": "STEP",
+    "parentId": "khtn8_les_so_cuu_van_dong",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_1_1_2",
+    "name": "Sơ cứu gãy xương: Cố định bằng nẹp ➔ Băng nẹp chắc chắn ➔ Treo tay / Băng cố định ➔ Đưa y tế",
+    "type": "STEP",
+    "parentId": "khtn8_les_so_cuu_van_dong",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_1_1_3",
+    "name": "Bẫy sơ cứu: Tự ý nắn/bẻ lại chỗ xương gãy ➔ Đứt mạch máu và dây thần kinh xung quanh",
+    "type": "STEP",
+    "parentId": "khtn8_les_so_cuu_van_dong",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_tieu_hoa_an_toan_thuc_pham",
+    "name": "Dinh dưỡng, Cấu tạo Hệ tiêu hóa & Quá trình biến đổi thức ăn",
+    "type": "LESSON",
+    "parentId": "khtn8_top_van_dong_tieu_hoa",
+    "examples": [
+      {
+        "id": "ex_4_1_2_1",
+        "question": "[Biến đổi thức ăn]: Tinh bột được biến đổi hóa học ở những cơ quan nào trong ống tiêu hóa?",
+        "answer": "1. Khoang miệng: Enzyme Amilaza trong nước bọt biến đổi một phần tinh bột chín $\\rightarrow$ Đường Mantoza.\n2. Ruột non: Enzyme dịch tụy và dịch ruột biến đổi hoàn toàn tinh bột và đường đôi $\\rightarrow$ Đường Đơn (Glucoza).\n3. Kết luận: Tinh bột biến đổi hóa học tại Khoang miệng và Ruột non.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_1_2_1",
+    "name": "Tiêu hóa cơ học (Răng cắn/Dạ dày co bóp); Tiêu hóa hóa học (Enzim phân giải chất)",
+    "type": "STEP",
+    "parentId": "khtn8_les_tieu_hoa_an_toan_thuc_pham",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_1_2_2",
+    "name": "Ruột non: Nơi hấp thụ chủ yếu chất dinh dưỡng nhờ hệ thống lông ruột dày đặc",
+    "type": "STEP",
+    "parentId": "khtn8_les_tieu_hoa_an_toan_thuc_pham",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_1_2_3",
+    "name": "Bẫy tiêu hóa dạ dày: Ở dạ dày, về mặt hóa học chủ yếu chỉ diễn ra quá trình biến đổi protein (nhờ enzyme pepsin), tinh bột không bị biến đổi tại đây.",
+    "type": "STEP",
+    "parentId": "khtn8_les_tieu_hoa_an_toan_thuc_pham",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_tuan_hoan_ho_hap_bai_tiet",
+    "name": "Máu, Hệ tuần hoàn, Hệ hô hấp & Hệ bài tiết",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_sinh_nguoi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_nhom_mau_truyen_mau",
+    "name": "Thành phần của máu, Nhóm máu & Nguyên tắc truyền máu ABO",
+    "type": "LESSON",
+    "parentId": "khtn8_top_tuan_hoan_ho_hap_bai_tiet",
+    "examples": [
+      {
+        "id": "ex_4_2_1_1",
+        "question": "[Nguyên tắc truyền máu ABO]: Người có nhóm máu O có thể truyền máu cho người có nhóm máu A được không? Vì sao?",
+        "answer": "1. Đặc điểm nhóm máu O: Hồng cầu KHÔNG có kháng nguyên A và B.\n2. Đặc điểm nhóm máu A: Huyết tương có kháng thể $\\beta$ (chống B).\n3. Lập luận: Khi truyền máu O cho A, hồng cầu người cho (O) không bị kháng thể $\\beta$ trong máu người nhận (A) gây ngưng kết.\n4. Kết luận: Người nhóm máu O truyền được cho người nhóm máu A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_2_1_1",
+    "name": "Thành phần máu: Huyết tương ($55\\%$) + Các tế bào máu ($45\\%$): Hồng cầu, Bạch cầu, Tiểu cầu",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhom_mau_truyen_mau",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_2_1_2",
+    "name": "Sơ đồ truyền máu ABO: Ưu tiên truyền cùng nhóm; nếu truyền khác nhóm (nguyên tắc tối thiểu): nhóm O truyền được cho tất cả, nhóm AB nhận được từ tất cả.",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhom_mau_truyen_mau",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_2_1_3",
+    "name": "Bẫy truyền máu: Kháng nguyên người cho gặp Kháng thể tương ứng người nhận ➔ Gây ngưng kết hồng cầu gây tử vong",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhom_mau_truyen_mau",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_trao_doi_khi_ho_hap",
+    "name": "Cấu tạo, chức năng Hệ hô hấp & Cơ chế trao đổi khí tại Phổi và Tế bào",
+    "type": "LESSON",
+    "parentId": "khtn8_top_tuan_hoan_ho_hap_bai_tiet",
+    "examples": [
+      {
+        "id": "ex_4_2_2_1",
+        "question": "[Cơ chế trao đổi khí]: So sánh nồng độ $O_2$ và $CO_2$ trong phế nang với máu trong mao mạch phổi.",
+        "answer": "1. Nguyên tắc khuếch tán: Khí đi từ nơi có áp suất/nồng độ cao đến nơi có nồng độ thấp.\n2. Phế nang: Nồng độ $O_2$ cao hơn mao mạch ➔ $O_2$ khuếch tán từ phế nang vào máu.\n3. Mao mạch phổi: Nồng độ $CO_2$ cao hơn phế nang ➔ $CO_2$ khuếch tán từ máu vào phế nang.\n4. Kết luận: Máu từ đỏ thẫm trở thành đỏ tươi sau khi qua phổi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_2_2_1",
+    "name": "Trao đổi khí ở Phổi: $O_2$ từ phế nang $\\rightarrow$ máu; $CO_2$ từ máu $\\rightarrow$ phế nang",
+    "type": "STEP",
+    "parentId": "khtn8_les_trao_doi_khi_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_2_2_2",
+    "name": "Trao đổi khí ở Tế bào: $O_2$ từ máu $\\rightarrow$ tế bào; $CO_2$ từ tế bào $\\rightarrow$ máu",
+    "type": "STEP",
+    "parentId": "khtn8_les_trao_doi_khi_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_2_2_3",
+    "name": "Bẫy ngộ độc khí $CO$: Khí $CO$ liên kết chặt với Hemoglobin làm hồng cầu mất khả năng vận chuyển $O_2$",
+    "type": "STEP",
+    "parentId": "khtn8_les_trao_doi_khi_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_bai_tiet_loc_mau",
+    "name": "Cấu tạo, chức năng Hệ bài tiết nước tiểu & Ghép thận, chạy thận nhân tạo",
+    "type": "LESSON",
+    "parentId": "khtn8_top_tuan_hoan_ho_hap_bai_tiet",
+    "examples": [
+      {
+        "id": "ex_4_2_3_1",
+        "question": "[Bài tiết nước tiểu]: Quá trình tạo nước tiểu gồm mấy giai đoạn? Lọc máu diễn ra ở đâu?",
+        "answer": "1. 3 giai đoạn: Lọc máu (Cầu thận) ➔ Hấp thụ lại (Ống thận) ➔ Bài tiết tiếp (Ống thận).\n2. Vị trí lọc máu: Diễn ra tại Cầu thận để tạo thành nước tiểu đầu.\n3. Kết luận: Lọc máu ở cầu thận là giai đoạn đầu tiên tạo nước tiểu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_2_3_1",
+    "name": "Tạo nước tiểu: Lọc máu (Cầu thận) $\\rightarrow$ Hấp thụ lại & Bài tiết tiếp (Ống thận) $\\rightarrow$ Nước tiểu chính thức",
+    "type": "STEP",
+    "parentId": "khtn8_les_bai_tiet_loc_mau",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_2_3_2",
+    "name": "Suy thận: Thận mất khả năng lọc chất độc $\\rightarrow$ Phải chạy thận nhân tạo hoặc ghép thận",
+    "type": "STEP",
+    "parentId": "khtn8_les_bai_tiet_loc_mau",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_2_3_3",
+    "name": "Bẫy thành phần nước tiểu đầu: Nước tiểu đầu chứa đạm/tế bào máu ➔ Cầu thận bị tổn thương",
+    "type": "STEP",
+    "parentId": "khtn8_les_bai_tiet_loc_mau",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_than_kinh_noi_tiet_sinh_san",
+    "name": "Điều hòa môi trường trong, Hệ thần kinh, Giác quan, Nội tiết, Da & Sinh sản",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_sinh_nguoi",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_noi_moi_than_kinh",
+    "name": "Môi trường trong cơ thể, Khái niệm Cân bằng nội môi & Tật cận thị, viễn thị",
+    "type": "LESSON",
+    "parentId": "khtn8_top_than_kinh_noi_tiet_sinh_san",
+    "examples": [
+      {
+        "id": "ex_4_3_1_1",
+        "question": "[Tật cận thị]: Người bị cận thị nhìn rõ ở khoảng nào? Cách khắc phục?",
+        "answer": "1. Khái niệm: Cận thị là tật mà mắt chỉ nhìn rõ các vật ở gần, không nhìn rõ vật ở xa.\n2. Nguyên nhân: Cầu mắt quá dài hoặc thuỷ tinh thể quá cong.\n3. Cách khắc phục: Đeo kính phân kỳ (kính lõm) có tiêu điểm phù hợp.\n4. Kết luận: Cận thị khắc phục bằng kính phân kỳ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_3_1_1",
+    "name": "Môi trường trong cơ thể gồm: Máu + Kháng thể/Nước mô + Bạch huyết",
+    "type": "STEP",
+    "parentId": "khtn8_les_noi_moi_than_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_3_1_2",
+    "name": "Cận thị (Nhìn xa mờ): Đeo kính PHÂN KỲ; Viễn thị (Nhìn gần mờ): Đeo kính HỘI TỤ",
+    "type": "STEP",
+    "parentId": "khtn8_les_noi_moi_than_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_3_1_3",
+    "name": "Bẫy nguyên nhân tật mắt: Đọc sách khoảng cách quá gần, thiếu ánh sáng ➔ Tăng nguy cơ cận thị",
+    "type": "STEP",
+    "parentId": "khtn8_les_noi_moi_than_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_noi_tiet_da_sinh_san",
+    "name": "Các tuyến nội tiết chính, Chức năng của Da & Sức khỏe sinh sản vị thành niên",
+    "type": "LESSON",
+    "parentId": "khtn8_top_than_kinh_noi_tiet_sinh_san",
+    "examples": [
+      {
+        "id": "ex_4_3_2_1",
+        "question": "[Điều hòa đường huyết]: Hai hormone Insulin và Glucagon của tuyến tụy điều hòa lượng đường huyết như thế nào?",
+        "answer": "1. Khi đường huyết TĂNG (sau ăn): Tụy tiết Insulin biến đổi Glucose $\\rightarrow$ Glycogen dự trữ ➔ Đường huyết hạ về bình thường.\n2. Khi đường huyết GIẢM (khi đói): Tụy tiết Glucagon chuyển Glycogen $\\rightarrow$ Glucose ➔ Đường huyết tăng lên bình thường.\n3. Kết luận: Hai hormone tác dụng đối lập giữ cân bằng đường huyết khoảng $0{,}1\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_4_3_2_1",
+    "name": "Điều hòa đường huyết: Tuyến tụy tiết Insulin làm giảm đường huyết khi tăng; tiết Glucagon làm tăng đường huyết khi giảm, giữ ổn định ở mức khoảng $0{,}1\\%$.",
+    "type": "STEP",
+    "parentId": "khtn8_les_noi_tiet_da_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_3_2_2",
+    "name": "Cơ chế điều hòa thân nhiệt: Trời nóng (Mạch máu dưới da giãn + Thoát mồ hôi); Trời lạnh (Mạch co + Cơ co co giật)",
+    "type": "STEP",
+    "parentId": "khtn8_les_noi_tiet_da_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_4_3_2_3",
+    "name": "Bẫy tuyến nội tiết/ngoại tiết: Tuyến nội tiết chất tiết đi trực tiếp vào MÁU, KHÔNG có ống dẫn",
+    "type": "STEP",
+    "parentId": "khtn8_les_noi_tiet_da_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "khtn8_cat_sinh_thai",
+    "name": "Sinh vật và Môi trường (Sinh học - Phần 2)",
+    "type": "CATEGORY",
+    "parentId": "khtn8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_quan_the_quan_xa",
+    "name": "Môi trường, Quần thể & Quần xã sinh vật",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_sinh_thai",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_nhan_to_sinh_thai_quan_the",
+    "name": "Các nhân tố sinh thái & Quần thể sinh vật - Các đặc trưng cơ bản",
+    "type": "LESSON",
+    "parentId": "khtn8_top_quan_the_quan_xa",
+    "examples": [
+      {
+        "id": "ex_5_1_1_1",
+        "question": "[Quần thể sinh vật]: Tập hợp các cá thể cá rô phi sống trong một ao cá có phải là quần thể sinh vật không?",
+        "answer": "1. Khái niệm quần thể: Cùng loài + Cùng sinh sống trong khoảng không gian/thời gian + Có khả năng sinh sản.\n2. Lập luận: Cá rô phi trong ao cùng loài, cùng sống trong ao và sinh sản tạo thế hệ mới.\n3. Kết luận: Đây là một quần thể sinh vật.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_5_1_1_1",
+    "name": "Nhân tố sinh thái gồm: Nhân tố vô sinh (Ánh sáng, nhiệt độ) + Nhân tố hữu sinh (Con người, sinh vật)",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhan_to_sinh_thai_quan_the",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_1_1_2",
+    "name": "Đặc trưng quần thể: Tỉ lệ giới tính, Thành phần tuổi, Mật độ cá thể, Phân bố cá thể",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhan_to_sinh_thai_quan_the",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_1_1_3",
+    "name": "Bẫy khái niệm quần thể: Tập hợp các loài cá trong ao không phải một quần thể vì gồm nhiều loài; nó là một phần cấu thành nên quần xã sinh vật của ao.",
+    "type": "STEP",
+    "parentId": "khtn8_les_nhan_to_sinh_thai_quan_the",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_quan_xa_khong_che_sinh_hoc",
+    "name": "Quần xã sinh vật - Quan hệ giữa các loài & Cơ chế Khống chế sinh học",
+    "type": "LESSON",
+    "parentId": "khtn8_top_quan_the_quan_xa",
+    "examples": [
+      {
+        "id": "ex_5_1_2_1",
+        "question": "[Khống chế sinh học]: Dùng thiên địch mèo để diệt chuột hại lúa là ứng dụng hiện tượng gì?",
+        "answer": "1. Hiện tượng: Khống chế sinh học trong quần xã sinh vật.\n2. Cơ chế: Mèo (sinh vật ăn thịt) kìm hãm số lượng chuột (con mồi) ở mức độ nhất định, không cho tăng quá cao.\n3. Kết luận: Ứng dụng khống chế sinh học giúp bảo vệ mùa màng không dùng hóa chất.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_5_1_2_1",
+    "name": "Quan hệ hỗ trợ: Cộng sinh, Hợp tác, Hội sinh; Quan hệ đối kháng: Cạnh tranh, Ký sinh, Sinh vật ăn sinh vật khác",
+    "type": "STEP",
+    "parentId": "khtn8_les_quan_xa_khong_che_sinh_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_1_2_2",
+    "name": "Khống chế sinh học: Số lượng cá thể loài này bị kìm hãm bởi loài khác ➔ Giữ cân bằng sinh thái",
+    "type": "STEP",
+    "parentId": "khtn8_les_quan_xa_khong_che_sinh_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_1_2_3",
+    "name": "Bẫy mối quan hệ: Cộng sinh là bắt buộc, hợp tác không bắt buộc. Phân biệt ký sinh (không giết vật chủ ngay) và vật ăn thịt (giết con mồi ngay).",
+    "type": "STEP",
+    "parentId": "khtn8_les_quan_xa_khong_che_sinh_hoc",
+    "examples": null
+  },
+  {
+    "id": "khtn8_top_he_sinh_thai_moi_truong",
+    "name": "Hệ sinh thái, Chuỗi thức ăn & Bảo vệ môi trường",
+    "type": "TOPIC",
+    "parentId": "khtn8_cat_sinh_thai",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_chuoi_luoi_thuc_an",
+    "name": "Chuỗi thức ăn, Lưới thức ăn, Tháp sinh thái & Vòng tuần hoàn vật chất",
+    "type": "LESSON",
+    "parentId": "khtn8_top_he_sinh_thai_moi_truong",
+    "examples": [
+      {
+        "id": "ex_5_2_1_1",
+        "question": "[Chuỗi thức ăn]: Lập một chuỗi thức ăn gồm 4 mắt xích trong hệ sinh thái đồng cỏ.",
+        "answer": "1. Các thành phần: Sinh vật sản xuất $\\rightarrow$ Sinh vật tiêu thụ bậc 1 $\\rightarrow$ Sinh vật tiêu thụ bậc 2 $\\rightarrow$ Sinh vật phân giải.\n2. Chuỗi thức ăn: Cỏ $\\rightarrow$ Sâu ăn lá $\\rightarrow$ Chim ăn sâu $\\rightarrow$ Vi khuẩn phân hủy.\n3. Kết luận: Chuỗi thức ăn biểu diễn mối quan hệ dinh dưỡng hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_5_2_1_1",
+    "name": "Cấu trúc chuỗi thức ăn: $Sinh\\ vật\\ sản\\ xuất \\rightarrow Sinh\\ vật\\ tiêu\\ thụ \\rightarrow Sinh\\ vật\\ phân\\ giải$",
+    "type": "STEP",
+    "parentId": "khtn8_les_chuoi_luoi_thuc_an",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_2_1_2",
+    "name": "Lưới thức ăn: Tập hợp nhiều chuỗi thức ăn có các mắt xích chung",
+    "type": "STEP",
+    "parentId": "khtn8_les_chuoi_luoi_thuc_an",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_2_1_3",
+    "name": "Bẫy mũi tên chuỗi thức ăn: Mũi tên bắt buộc chỉ từ sinh vật bị ăn $\\rightarrow$ sinh vật ăn (thể hiện chiều truyền năng lượng).",
+    "type": "STEP",
+    "parentId": "khtn8_les_chuoi_luoi_thuc_an",
+    "examples": null
+  },
+  {
+    "id": "khtn8_les_can_bang_tu_nhien_o_nhiem",
+    "name": "Cân bằng tự nhiên, Ô nhiễm môi trường & Biện pháp bảo vệ đa dạng sinh học",
+    "type": "LESSON",
+    "parentId": "khtn8_top_he_sinh_thai_moi_truong",
+    "examples": [
+      {
+        "id": "ex_5_2_2_1",
+        "question": "[Ô nhiễm môi trường]: Nêu các biện pháp chính nhằm hạn chế ô nhiễm môi trường không khí.",
+        "answer": "1. Nguyên nhân: Khí thải công nghiệp, phương tiện giao thông ($CO_2, SO_2, \\text{bụi mịn}$).\n2. Biện pháp: Trồng nhiều cây xanh ➔ Sử dụng năng lượng sạch (nắng, gió) ➔ Xử lý khí thải trước khi xả ra môi trường.\n3. Kết luận: Trồng cây xanh và giảm phát thải là giải pháp cốt lõi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn8_step_5_2_2_1",
+    "name": "Tác nhân ô nhiễm: Hóa chất bảo vệ thực vật, Chất thải công nghiệp, Rác thải nhựa, Khí thải giao thông",
+    "type": "STEP",
+    "parentId": "khtn8_les_can_bang_tu_nhien_o_nhiem",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_2_2_2",
+    "name": "Biện pháp bảo vệ: Trồng rừng, Sử dụng năng lượng tái tạo, Phân loại rác tại nguồn, Bảo tồn vườn quốc gia",
+    "type": "STEP",
+    "parentId": "khtn8_les_can_bang_tu_nhien_o_nhiem",
+    "examples": null
+  },
+  {
+    "id": "khtn8_step_5_2_2_3",
+    "name": "Bẫy sinh thái: Lạm dụng phân bón hóa học ➔ Ô nhiễm đất và hiện tượng phú dưỡng nguồn nước",
+    "type": "STEP",
+    "parentId": "khtn8_les_can_bang_tu_nhien_o_nhiem",
+    "examples": null
+  }
+]

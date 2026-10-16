@@ -1,0 +1,409 @@
+[
+  {
+    "id": "anh11_subject",
+    "name": "Tiếng Anh 11",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "anh11_cat_phonetics",
+    "name": "Phonetics & Intonation",
+    "type": "CATEGORY",
+    "parentId": "anh11_subject",
+    "examples": null
+  },
+  {
+    "id": "anh11_top_stress",
+    "name": "Trọng âm từ 3 âm tiết trở lên & Quy tắc hậu tố",
+    "type": "TOPIC",
+    "parentId": "anh11_cat_phonetics",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_stress_suffix",
+    "name": "Nhận diện trọng âm từ 3 âm tiết có hậu tố đặc biệt",
+    "type": "LESSON",
+    "parentId": "anh11_top_stress",
+    "examples": [
+      {
+        "id": "anh11_ex_stress_1",
+        "question": "[Trọng âm]: Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress: A. generation B. environmental C. decision D. traditional",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Xử lý quy tắc hậu tố -tion và -al ➔ Cảnh báo bẫy đếm âm tiết ngược từ đuôi mà quên dịch chuyển vị trí trọng âm.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Hậu tố -tion làm trọng âm rơi vào âm kề trước nó (gen-er-A-tion -> trọng âm 3; de-CI-sion -> trọng âm 2; tra-DI-tion-al -> trọng âm 2).\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: A. generation (trọng âm 3); B. environmental (trọng âm 4); C. decision (trọng âm 2); D. traditional (trọng âm 2). Trọng âm của từ 'generation' rơi vào âm tiết thứ 3, từ 'environmental' rơi vào âm tiết thứ 4, hai từ còn lại rơi vào âm tiết thứ 2. Đề bài bị lỗi ma trận do có 4 đáp án nhưng chứa 3 loại trọng âm khác nhau (âm 2, âm 3, âm 4), không tạo thành nhóm 3 từ đồng dạng.\\n4. Giải thích ngữ nghĩa bản chất: 'generation' /ˌdʒen.əˈreɪ.ʃən/ có trọng âm chính nằm ở âm tiết thứ 3.",
+        "mediaUrl": null
+      },
+      {
+        "id": "anh11_ex_stress_2",
+        "question": "[Trọng âm]: Mark the letter A, B, C, or D to indicate the word with different stress pattern: A. volunteer B. engineer C. Vietnamese D. candidate",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Nhận diện đuôi nhận trọng âm chính (-eer, -ese) và đuôi dịch 3 âm tiết (-date).\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Hậu tố -eer, -ese nhận trọng âm trực tiếp trên chính nó; đuôi -ate khiến trọng âm dịch chuyển tính từ cuối lên âm tiết thứ 3 ($1, 2, 3$ từ dưới lên).\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: A. vol-un-TEER (3); B. en-gi-NEER (3); C. Viet-na-MESE (3); D. CAN-di-date (1).\\n4. Giải thích ngữ nghĩa bản chất: 'candidate' /ˈkæn.dɪ.dət/ có trọng âm rơi vào âm tiết thứ 1, khác hoàn toàn với nhóm nhận trọng âm ở đuôi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_stress_suf_lythuyet",
+    "name": "Suffix Rule ➔ -ic, -tion, -ity (trọng âm âm kề trước); -ee, -ese, -eer (trọng âm chính nó)",
+    "type": "STEP",
+    "parentId": "anh11_les_stress_suffix",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_stress_suf_phuongphap",
+    "name": "Phương pháp bóc tách hậu tố ➔ Đánh dấu số âm tiết ➔ Đếm ngược 1-2-3 âm tiết",
+    "type": "STEP",
+    "parentId": "anh11_les_stress_suffix",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_stress_suf_thuattoan",
+    "name": "Thuật toán chọn đáp án ➔ Bóc đuôi ➔ Xác định âm tiết yếu /ə/ /ɪ/ (không nhấn) ➔ Chọn đáp án khác biệt",
+    "type": "STEP",
+    "parentId": "anh11_les_stress_suffix",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_stress_suf_bay",
+    "name": "Bẫy ngoại lệ ➔ 'politics, 'arabic (đuôi -ic nhưng nhấn âm 1); 'coffee, em'ployee (đuôi -ee ngoại lệ)",
+    "type": "STEP",
+    "parentId": "anh11_les_stress_suffix",
+    "examples": null
+  },
+  {
+    "id": "anh11_cat_grammar",
+    "name": "Grammar & Structure (Ngữ pháp nâng cao)",
+    "type": "CATEGORY",
+    "parentId": "anh11_subject",
+    "examples": null
+  },
+  {
+    "id": "anh11_top_gerund_participle",
+    "name": "Gerunds and Participles (Danh động từ và Phân từ nâng cao)",
+    "type": "TOPIC",
+    "parentId": "anh11_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_perfect_gerund_participle",
+    "name": "Chia động từ dạng Perfect Gerund và Perfect Participle",
+    "type": "LESSON",
+    "parentId": "anh11_top_gerund_participle",
+    "examples": [
+      {
+        "id": "anh11_ex_perf_part_1",
+        "question": "[Rút gọn mệnh đề]: _______ all his homework, Quan went to bed. A. Having finished B. Finished C. Having been finished D. To finish",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Câu có 2 mệnh đề cùng chủ ngữ 'Quan'. Mệnh đề đầu xảy ra và hoàn tất trước hành động 'went to bed' trong quá khứ ➔ Né bẫy chọn V-ed (bị động) hoặc To-V (mục đích).\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Perfect Participle $Having + V\\text{-p2}$, $S + V\\text{-ed}$ dùng nhấn mạnh hành động 1 hoàn tất trước hành động 2.\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại B vì Quan chủ động hoàn thành (không dùng V-p2 bị động); Loại C vì sai nghĩa bị động; Loại D vì To-V không diễn tả thứ tự xảy ra trước.\\n4. Giải thích ngữ nghĩa bản chất: 'Having finished all his homework' = Sau khi đã hoàn tất toàn bộ bài tập về nhà, Quân mới đi ngủ.",
+        "mediaUrl": null
+      },
+      {
+        "id": "anh11_ex_perf_gerund_2",
+        "question": "[Perfect Gerund]: He denied _______ the window of the classroom. A. breaking B. having broken C. to break D. broke",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Động từ 'deny' đi với V-ing/Perfect Gerund. Hành động 'làm vỡ cửa sổ' xảy ra trước thời điểm 'chối' (denied) ➔ Nhấn mạnh tính hoàn tất.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: $deny + Having + V\\text{-p2}$ diễn tả việc phủ nhận một hành động đã làm trong quá khứ.\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại C (to break) vì deny không đi với to-V; Loại D (broke) vì thiếu động từ nối; A (breaking) đúng ngữ pháp nhưng B (having broken) chính xác hơn về mặt nhấn mạnh thứ tự thời gian.\\n4. Giải thích ngữ nghĩa bản chất: Anh ấy phủ nhận việc mình đã làm vỡ cửa sổ lớp học trước đó.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_perf_part_lythuyet",
+    "name": "Perfect Participle ➔ $Having + V\\text{-p2}$, $S + V\\text{-ed}$ ➔ Hành động 1 xong trước hành động 2",
+    "type": "STEP",
+    "parentId": "anh11_les_perfect_gerund_participle",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_perf_part_phuongphap",
+    "name": "Phương pháp soi 2 mệnh đề đồng chủ ngữ ➔ Xác định thứ tự thời gian trước/sau ➔ Chọn $Having + V\\text{-p2}$",
+    "type": "STEP",
+    "parentId": "anh11_les_perfect_gerund_participle",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_perf_part_thuattoan",
+    "name": "Thuật toán rút gọn ➔ Bỏ $S_1$ ➔ Đổi $V_1$ thành $Having + V\\text{-p2}$ (Chủ động) hoặc $Having\\ been + V\\text{-p2}$ (Bị động)",
+    "type": "STEP",
+    "parentId": "anh11_les_perfect_gerund_participle",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_perf_part_bay",
+    "name": "Bẫy Dangling Participle ➔ Sai khác chủ ngữ giữa 2 mệnh đề hoặc nhầm giữa dạng chủ động và bị động",
+    "type": "STEP",
+    "parentId": "anh11_les_perfect_gerund_participle",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_reduction_relative",
+    "name": "Rút gọn mệnh đề quan hệ bằng $V\\text{-ing}$, $V\\text{-p2}$ và $To\\text{-V}$",
+    "type": "LESSON",
+    "parentId": "anh11_top_gerund_participle",
+    "examples": [
+      {
+        "id": "anh11_ex_red_rel_1",
+        "question": "[Mệnh đề quan hệ rút gọn]: The boy _______ next to Mai is my cousin. A. sitting B. sat C. is sitting D. who sit",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Mệnh đề gốc 'who is sitting next to Mai' mang nghĩa chủ động. Câu đã có động từ chính 'is my cousin' ➔ Cần rút gọn mệnh đề quan hệ.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Rút gọn chủ động ➔ Bỏ đại từ quan hệ + to be ➔ Giữ lại $V\\text{-ing}$.\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại C vì bị lặp 2 động từ chia thì trong 1 câu đơn; Loại D vì chia sai chủ ngữ số ít ('who sit'); Loại B vì mang nghĩa bị động.\\n4. Giải thích ngữ nghĩa bản chất: 'The boy sitting next to Mai' = Cậu bé đang ngồi cạnh Mai là anh họ của tôi.",
+        "mediaUrl": null
+      },
+      {
+        "id": "anh11_ex_red_rel_2",
+        "question": "[Mệnh đề quan hệ rút gọn]: Neil Armstrong was the first man _______ on the Moon. A. walk B. walking C. to walk D. walked",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Nhận diện từ chỉ số thứ tự 'the first man' đứng trước danh từ làm trung tâm ➔ Né bẫy chọn V-ing theo thói quen rút gọn chủ động.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Khi danh từ có 'the first, the second, the last, the only, so sánh nhất' ➔ Rút gọn mệnh đề quan hệ bằng $To + V\\text{-bare}$.\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại B (walking) vì 'the first' bắt buộc dùng To-V; Loại A và D vì sai dạng rút gọn chuẩn.\\n4. Giải thích ngữ nghĩa bản chất: Neil Armstrong là người đầu tiên đặt chân lên Mặt Trăng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_red_rel_lythuyet",
+    "name": "Chủ động ➔ $V\\text{-ing}$; Bị động ➔ $V\\text{-p2}$; So sánh nhất/Số thứ tự ➔ $To + V\\text{-bare}$",
+    "type": "STEP",
+    "parentId": "anh11_les_reduction_relative",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_red_rel_phuongphap",
+    "name": "Phương pháp soi danh từ đứng trước ➔ Phát hiện chỉ số thứ tự/so sánh nhất ➔ Chọn $To + V$ hay $V\\text{-ing}/V\\text{-p2}$",
+    "type": "STEP",
+    "parentId": "anh11_les_reduction_relative",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_red_rel_thuattoan",
+    "name": "Thuật toán rút gọn ➔ Lược đại từ quan hệ ($who/which/that$) + to be ➔ Giữ nguyên $V\\text{-ing}/V\\text{-p2}$",
+    "type": "STEP",
+    "parentId": "anh11_les_reduction_relative",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_red_rel_bay",
+    "name": "Bẫy lặp động từ chính ➔ Giữ nguyên đại từ quan hệ mà chia sai thì hoặc thừa trợ động từ",
+    "type": "STEP",
+    "parentId": "anh11_les_reduction_relative",
+    "examples": null
+  },
+  {
+    "id": "anh11_top_modals_past",
+    "name": "Modal Verbs in the Past (Động từ khuyết thiếu trong quá khứ)",
+    "type": "TOPIC",
+    "parentId": "anh11_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_modal_have_p2",
+    "name": "Biến đổi câu dùng động từ khuyết thiếu phỏng đoán quá khứ ($Modal + have + V\\text{-p2}$)",
+    "type": "LESSON",
+    "parentId": "anh11_top_modals_past",
+    "examples": [
+      {
+        "id": "anh11_ex_modal_1",
+        "question": "[Động từ khuyết thiếu quá khứ]: Nam was absent yesterday. He _______ sick. A. must be B. must have been C. should have been D. can't have been",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Ngữ cảnh 'was absent yesterday' xảy ra trong quá khứ ➔ Phỏng đoán có căn cứ chắc chắn trong quá khứ ➔ Né bẫy chọn dạng hiện tại (must be).\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: $Must + have + V\\text{-p2}$ = Chắc hẳn là đã (suy đoán chắc chắn 90% về quá khứ).\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại A vì must be chỉ phỏng đoán hiện tại; Loại C (should have been) mang nghĩa lẽ ra nên làm; Loại D (can't have been) mang nghĩa chắc chắn không xảy ra.\\n4. Giải thích ngữ nghĩa bản chất: Nam vắng mặt ngày hôm qua. Chắc hẳn là cậu ấy đã bị ốm.",
+        "mediaUrl": null
+      },
+      {
+        "id": "anh11_ex_modal_2",
+        "question": "[Viết lại câu - Modals]: You shouldn't have criticized him in public. A. It was wrong of you to criticize him in public. B. You didn't criticize him, which was right. C. You must have criticized him in public. D. You might criticize him in public.",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: 'Shouldn't have + V-p2' diễn tả sự chỉ trích, trách móc một hành động lẽ ra không nên làm trong quá khứ nhưng thực tế đã làm.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: $Shouldn't + have + V\\text{-p2} \\equiv It\\ was\\ wrong\\ of\\ sb\\ to + V\\text{-bare}$.\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: B sai nghĩa vì thực tế đã chỉ trích; C sai vì biến thành câu phỏng đoán chắc chắn; D sai thì và nghĩa.\\n4. Giải thích ngữ nghĩa bản chất: Bạn lẽ ra không nên chỉ trích cậu ấy trước đám đông = Bạn đã sai khi chỉ trích cậu ấy trước đám đông.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_modal_p2_lythuyet",
+    "name": "Chắc chắn quá khứ ➔ $Must + have + V\\text{-p2}$; Trách móc quá khứ ➔ $Should + have + V\\text{-p2}$",
+    "type": "STEP",
+    "parentId": "anh11_les_modal_have_p2",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_modal_p2_phuongphap",
+    "name": "Phương pháp định vị quá khứ ➔ Đánh giá mức độ chắc chắn/trách móc ➔ Khớp cấu trúc",
+    "type": "STEP",
+    "parentId": "anh11_les_modal_have_p2",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_modal_p2_thuattoan",
+    "name": "Thuật toán loại trừ ➔ Bỏ đáp án hiện tại ($Modal + V\\text{-bare}$) ➔ Phân biệt $Must\\ have$ vs $Can't\\ have$",
+    "type": "STEP",
+    "parentId": "anh11_les_modal_have_p2",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_modal_p2_bay",
+    "name": "Bẫy nhầm lẫn ➔ $Must + have + V\\text{-p2}$ (suy đoán) vs $Needn't + have + V\\text{-p2}$ (làm điều không cần thiết)",
+    "type": "STEP",
+    "parentId": "anh11_les_modal_have_p2",
+    "examples": null
+  },
+  {
+    "id": "anh11_top_cleft_sentences",
+    "name": "Cleft Sentences (Câu chẻ nhấn mạnh)",
+    "type": "TOPIC",
+    "parentId": "anh11_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_cleft_it_is_was",
+    "name": "Viết lại câu sử dụng câu chẻ ($It + is/was + ... + that$)",
+    "type": "LESSON",
+    "parentId": "anh11_top_cleft_sentences",
+    "examples": [
+      {
+        "id": "anh11_ex_cleft_1",
+        "question": "[Câu chẻ]: It was in Paris _______ they first met each other. A. which B. that C. where D. when",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Nhấn mạnh trạng ngữ chỉ địa điểm 'in Paris' ➔ Né bẫy dùng 'where' theo thói quen mệnh đề quan hệ thông thường.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Cấu trúc câu chẻ chuẩn mực $It + is/was + [Thành\\ phần\\ nhấn\\ mạnh] + that + S + V$ (dù nhấn mạnh danh từ hay trạng từ, liên từ chuẩn nhất luôn là 'that').\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại C (where) vì đây là câu chẻ nhấn mạnh, không phải mệnh đề quan hệ; Loại A và D sai cấu trúc câu chẻ.\\n4. Giải thích ngữ nghĩa bản chất: Chính tại Paris là nơi mà lần đầu tiên họ đã gặp gỡ nhau.",
+        "mediaUrl": null
+      },
+      {
+        "id": "anh11_ex_cleft_2",
+        "question": "[Viết lại câu - Cleft]: My brother gave me this camera on my 18th birthday. A. It is my brother that gave me this camera on my 18th birthday. B. It was my brother that gave me this camera on my 18th birthday. C. It was this camera that gave my brother on my 18th birthday. D. It is on my 18th birthday that my brother gives me this camera.",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Câu gốc dùng động từ quá khứ 'gave' ➔ Cấu trúc câu chẻ phải dùng 'It was' (né bẫy chọn 'It is').\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Nhấn mạnh chủ ngữ 'My brother' ➔ $It + was + \\text{My brother} + that + \\text{gave me...}$\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại A vì dùng 'It is' sai thì quá khứ; Loại C vì làm đảo lộn ý nghĩa (máy ảnh cho anh tôi); Loại D sai thì.\\n4. Giải thích ngữ nghĩa bản chất: Chính là anh trai tôi đã tặng tôi chiếc máy ảnh này vào sinh nhật 18 tuổi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_cleft_lythuyet",
+    "name": "Câu chẻ ➔ $It + is/was + [Nhấn\\ mạnh] + that + S + V$",
+    "type": "STEP",
+    "parentId": "anh11_les_cleft_it_is_was",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_cleft_phuongphap",
+    "name": "Phương pháp định vị thành phần nhấn mạnh ➔ Kiểm tra thì của câu gốc (Hiện tại dùng $Is$, Quá khứ dùng $Was$)",
+    "type": "STEP",
+    "parentId": "anh11_les_cleft_it_is_was",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_cleft_thuattoan",
+    "name": "Thuật toán ➔ Thì hiện tại dùng $It\\ is$; Thì quá khứ dùng $It\\ was$ ➔ Kẹp phần nhấn mạnh vào giữa ➔ Thêm $that$",
+    "type": "STEP",
+    "parentId": "anh11_les_cleft_it_is_was",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_cleft_bay",
+    "name": "Bẫy sai thì ($It\\ is$ thay vì $It\\ was$) hoặc dùng nhầm $which/where/when$ thay cho $that$ trong câu chẻ",
+    "type": "STEP",
+    "parentId": "anh11_les_cleft_it_is_was",
+    "examples": null
+  },
+  {
+    "id": "anh11_cat_vocabulary",
+    "name": "Vocabulary & Topical Collocations",
+    "type": "CATEGORY",
+    "parentId": "anh11_subject",
+    "examples": null
+  },
+  {
+    "id": "anh11_top_vocab_units",
+    "name": "Healthy lifestyle & Generation Gap (Từ vựng chủ điểm SGK)",
+    "type": "TOPIC",
+    "parentId": "anh11_cat_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_vocab_healthy_generation",
+    "name": "Xử lý câu hỏi trắc nghiệm đồng nghĩa/trái nghĩa nâng cao",
+    "type": "LESSON",
+    "parentId": "anh11_top_vocab_units",
+    "examples": [
+      {
+        "id": "anh11_ex_vocab_1",
+        "question": "[Từ đồng nghĩa]: Regular exercise helps to STRENGTHEN your immune system. CLOSEST in meaning to: A. weaken B. boost C. destroy D. maintain",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Từ 'STRENGTHEN' (củng cố, làm tăng cường) đi với cụm 'immune system' (hệ miễn dịch) ➔ Đề yêu cầu tìm từ ĐỒNG NGHĨA (CLOSEST).\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: strengthen = boost (đều mang nghĩa thúc đẩy, tăng cường sức mạnh).\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại A (weaken) vì là từ TRÁI NGHĨA (bẫy đề thi hay gài); Loại C (destroy) sai nghĩa tiêu cực; Loại D (maintain) chỉ là duy trì.\\n4. Giải thích ngữ nghĩa bản chất: Tập thể dục thường xuyên giúp tăng cường hệ miễn dịch của bạn.",
+        "mediaUrl": null
+      },
+      {
+        "id": "anh11_ex_vocab_2",
+        "question": "[Từ trái nghĩa]: The generation gap can be BRIDGED if parents and children listen to each other. OPPOSITE in meaning to: A. narrowed B. widened C. reduced D. closed",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Cụm 'bridge the gap' (thu hẹp/bắc cầu khoảng cách) ➔ Đề yêu cầu tìm từ TRÁI NGHĨA (OPPOSITE) ➔ Né bẫy chọn nhầm từ đồng nghĩa.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Trái nghĩa với thu hẹp (bridge/narrow/reduce) là làm rộng thêm (widen).\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: A (narrowed), C (reduced), D (closed) đều là các từ mang nghĩa đồng nghĩa với 'bridged' ➔ Loại hết.\\n4. Giải thích ngữ nghĩa bản chất: 'bridge' (bắc cầu thu hẹp) trái nghĩa hoàn toàn với 'widen' (mở rộng khoảng cách).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_vocab_health_lythuyet",
+    "name": "Collocations ➔ cut down on, bridge the gap, life expectancy, sustainable development",
+    "type": "STEP",
+    "parentId": "anh11_les_vocab_healthy_generation",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_vocab_health_phuongphap",
+    "name": "Phương pháp soi cụm từ cố định ➔ Xác định ngữ cảnh câu mang nghĩa Tích cực (+) hay Tiêu cực (-)",
+    "type": "STEP",
+    "parentId": "anh11_les_vocab_healthy_generation",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_vocab_health_thuattoan",
+    "name": "Thuật toán giải đề ➔ Đọc kỹ yêu cầu CLOSEST hay OPPOSITE ➔ Loại trừ các đáp án bẫy ngược nghĩa",
+    "type": "STEP",
+    "parentId": "anh11_les_vocab_healthy_generation",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_vocab_health_bay",
+    "name": "Bẫy ma trận ➔ Nhầm lẫn giữa yêu cầu Từ đồng nghĩa (Closest) vs Từ trái nghĩa (Opposite)",
+    "type": "STEP",
+    "parentId": "anh11_les_vocab_healthy_generation",
+    "examples": null
+  },
+  {
+    "id": "anh11_cat_test_skills",
+    "name": "Reading & Sentence Transformation",
+    "type": "CATEGORY",
+    "parentId": "anh11_subject",
+    "examples": null
+  },
+  {
+    "id": "anh11_top_reading_skills",
+    "name": "Kỹ thuật Context Clues & Biến đổi câu (Reading & Writing)",
+    "type": "TOPIC",
+    "parentId": "anh11_cat_test_skills",
+    "examples": null
+  },
+  {
+    "id": "anh11_les_reading_context_clues",
+    "name": "Kỹ thuật Context Clues đoán nghĩa từ vựng trong bài đọc hiểu dài",
+    "type": "LESSON",
+    "parentId": "anh11_top_reading_skills",
+    "examples": [
+      {
+        "id": "anh11_ex_reading_1",
+        "question": "[Đọc hiểu - Context Clues]: Read the passage and infer the word 'sustainable' in paragraph 2. It mostly means: A. harmful to nature B. causing long-term damage C. environmentally friendly D. temporary",
+        "answer": "1. Phân tích cấu trúc thành phần & Né bẫy đề bài: Tìm từ 'sustainable' trong đoạn văn chứa ngữ cảnh 'using renewable resources and protecting ecosystems'.\\n2. Áp dụng nguyên tắc ngữ pháp/Mẹo chọn nhanh: Kỹ thuật Context Clues ➔ Đọc câu chứa từ + câu liền trước/sau ➔ Nhận diện các từ mang tính tích cực vì môi trường.\\n3. Thực hiện thuật toán loại trừ đáp án nhiễu: Loại A và B vì mang nghĩa tiêu cực (gây hại); Loại D (chỉ mang tính tạm thời, ngược với phát triển bền vững); Chọn C.\\n4. Giải thích ngữ nghĩa bản chất: 'sustainable' = phát triển bền vững, thân thiện với môi trường.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh11_stp_read_context_lythuyet",
+    "name": "Context Clues ➔ Định nghĩa trực tiếp, Từ đối lập ($however, \\ in\\ contrast$), Ví dụ minh họa xung quanh",
+    "type": "STEP",
+    "parentId": "anh11_les_reading_context_clues",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_read_context_phuongphap",
+    "name": "Kỹ thuật Skimming (ý chính) & Scanning (từ khóa) ➔ Khoanh vùng đoạn văn chứa câu hỏi",
+    "type": "STEP",
+    "parentId": "anh11_les_reading_context_clues",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_read_context_thuattoan",
+    "name": "Thuật toán ➔ Thế 4 đáp án vào ngữ cảnh câu gốc ➔ Đáp án tạo ra tính logic chặt chẽ nhất là đúng",
+    "type": "STEP",
+    "parentId": "anh11_les_reading_context_clues",
+    "examples": null
+  },
+  {
+    "id": "anh11_stp_read_context_bay",
+    "name": "Bẫy suy đoán cảm tính ➔ Không căn cứ vào ngữ cảnh bài đọc mà chọn theo nghĩa đen thông thường",
+    "type": "STEP",
+    "parentId": "anh11_les_reading_context_clues",
+    "examples": null
+  }
+]

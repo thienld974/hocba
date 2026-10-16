@@ -1,0 +1,783 @@
+[
+  {
+    "id": "root_khoahoc5",
+    "name": "Khoa học 5 – Sơ đồ tư duy tổng hợp",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "cat_kh5_chat_biendoi",
+    "name": "Chất và sự biến đổi",
+    "type": "CATEGORY",
+    "parentId": "root_khoahoc5",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_dat_moitruong",
+    "name": "Đất & Bảo vệ môi trường đất",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_chat_biendoi",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_thanhphan_xoidat",
+    "name": "Thành phần đất & Xói mòn",
+    "type": "LESSON",
+    "parentId": "top_kh5_dat_moitruong",
+    "examples": [
+      {
+        "id": "ex_kh5_dat_01",
+        "question": "Mô tả hiện tượng và giải thích: (1) Thả một cục đất khô vào cốc nước; (2) Đun nóng đĩa sứ chứa một ít đất trên đèn cồn, phía trên đậy một miếng kính.",
+        "answer": "• Thí nghiệm 1 (Thả đất vào nước): Xuất hiện nhiều bọt khí sủi lên và thoát ra khỏi cục đất → Chứng tỏ trong đất có chứa không khí.\n• Thí nghiệm 2 (Đun nóng đất): Hơi nước bốc lên, đọng thành những giọt nước nhỏ trên mặt kính đậy phía trên → Chứng tỏ trong đất có chứa nước.\n• Bài học ứng dụng: Thành phần chính của đất gồm chất khoáng, mùn, nước và không khí, giúp cây trồng đứng vững và phát triển.",
+        "mediaUrl": "<svg viewBox=\"0 0 440 240\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"440\" height=\"240\" fill=\"#FDFDFB\"/>\n<text x=\"220\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Hai thí nghiệm tìm thành phần của đất</text>\n\n<!-- Panel A: dat + nuoc -->\n<text x=\"100\" y=\"40\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2C5282\">TN1: Thả đất vào cốc nước</text>\n<path d=\"M 55,58 L 145,58 L 133,188 L 67,188 Z\" fill=\"none\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<path d=\"M 59,92 L 141,92 L 133,186 L 67,186 Z\" fill=\"#BEE3F8\" fill-opacity=\"0.75\"/>\n<ellipse cx=\"100\" cy=\"168\" rx=\"22\" ry=\"13\" fill=\"#8B5E3C\" stroke=\"#5C3B22\" stroke-width=\"1.5\"/>\n<circle cx=\"100\" cy=\"145\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#4299E1\"/>\n<circle cx=\"88\" cy=\"128\" r=\"2.3\" fill=\"#F7FAFC\" stroke=\"#4299E1\"/>\n<circle cx=\"112\" cy=\"112\" r=\"2.6\" fill=\"#F7FAFC\" stroke=\"#4299E1\"/>\n<circle cx=\"102\" cy=\"100\" r=\"2\" fill=\"#F7FAFC\" stroke=\"#4299E1\"/>\n<text x=\"100\" y=\"208\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Có bọt khí nổi lên</text>\n<text x=\"100\" y=\"222\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2B6CB0\">→ đất chứa không khí</text>\n\n<!-- Panel B: dun nong dat -->\n<text x=\"330\" y=\"40\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#C05621\">TN2: Đun nóng đất, đậy kính phía trên</text>\n<rect x=\"283\" y=\"98\" width=\"94\" height=\"7\" rx=\"2\" fill=\"#BEE3F8\" stroke=\"#2B6CB0\" stroke-width=\"1.5\"/>\n<circle cx=\"302\" cy=\"112\" r=\"2.2\" fill=\"#4299E1\"/>\n<circle cx=\"330\" cy=\"113\" r=\"2.6\" fill=\"#4299E1\"/>\n<circle cx=\"356\" cy=\"112\" r=\"2.2\" fill=\"#4299E1\"/>\n<text x=\"330\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" fill=\"#2B6CB0\">giọt nước đọng lại</text>\n<ellipse cx=\"330\" cy=\"150\" rx=\"46\" ry=\"10\" fill=\"#E2E8F0\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<ellipse cx=\"330\" cy=\"148\" rx=\"26\" ry=\"6\" fill=\"#8B5E3C\"/>\n<path d=\"M 292,153 L 282,215\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<path d=\"M 368,153 L 378,215\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<path d=\"M 282,215 L 378,215\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<rect x=\"315\" y=\"187\" width=\"30\" height=\"24\" rx=\"3\" fill=\"#CBD5E0\" stroke=\"#4A5568\" stroke-width=\"1.5\"/>\n<polygon points=\"330,163 321,187 339,187\" fill=\"#F6AD55\" stroke=\"#DD6B20\" stroke-width=\"1\"/>\n<text x=\"330\" y=\"230\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Hơi nước bốc lên, đọng thành giọt</text>\n\n<line x1=\"220\" y1=\"30\" x2=\"220\" y2=\"235\" stroke=\"#E2E8F0\" stroke-width=\"1\"/>\n</svg>"
+      },
+      {
+        "id": "ex_kh5_dat_02",
+        "question": "Nêu nguyên nhân gây xói mòn đất ở vùng đồi núi và các biện pháp chống xói mòn, ô nhiễm môi trường đất.",
+        "answer": "• Nguyên nhân xói mòn: Chặt phá rừng đầu nguồn khiến đất không còn rễ cây giữ lại; mưa lớn cuốn trôi lớp đất mặt màu mỡ.\n• Biện pháp bảo vệ: Trồng cây gây rừng, làm ruộng bậc thang, xây bờ kè chống sạt lở, hạn chế lạm dụng phân bón hóa học và thuốc trừ sâu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_thanhphan_xoidat_b1",
+    "name": "Thành phần đất: chất khoáng, mùn, nước, không khí (và sinh vật sống trong đất)",
+    "type": "STEP",
+    "parentId": "less_kh5_thanhphan_xoidat",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_thanhphan_xoidat_b2",
+    "name": "Xói mòn: mất lớp đất mặt màu mỡ do mưa lớn, mất rừng che phủ",
+    "type": "STEP",
+    "parentId": "less_kh5_thanhphan_xoidat",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_thanhphan_xoidat_b3",
+    "name": "Bảo vệ đất: trồng rừng, làm ruộng bậc thang, hạn chế hóa chất",
+    "type": "STEP",
+    "parentId": "less_kh5_thanhphan_xoidat",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_honhop_dungdich",
+    "name": "Hỗn hợp & Dung dịch",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_chat_biendoi",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_honhop_phuongphaptach",
+    "name": "Hỗn hợp – Dung dịch & Tách chất",
+    "type": "LESSON",
+    "parentId": "top_kh5_honhop_dungdich",
+    "examples": [
+      {
+        "id": "ex_kh5_honhop_01",
+        "question": "Phân biệt sự khác nhau giữa Hỗn hợp và Dung dịch qua thí nghiệm: (1) Trộn muối ăn với tiêu bột; (2) Khuấy tan muối ăn vào cốc nước ấm.",
+        "answer": "• Thí nghiệm 1 (Muối + Tiêu): Tạo thành HỖN HỢP. Các chất thành phần xếp lẫn vào nhau nhưng giữ nguyên tính chất riêng biệt, có thể nhìn thấy rõ từng hạt muối và tiêu.\n• Thí nghiệm 2 (Muối + Nước): Tạo thành DUNG DỊCH. Muối ăn tan hoàn toàn phân bố đều trong nước thành chất lỏng đồng nhất trong suốt.\n• Mẹo phân biệt: Dung dịch là trường hợp đặc biệt của hỗn hợp khi chất tan phân bố hoàn toàn đồng nhất trong chất lỏng.",
+        "mediaUrl": "<svg viewBox=\"0 0 440 220\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"440\" height=\"220\" fill=\"#FDFDFB\"/>\n<text x=\"220\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Hỗn hợp và Dung dịch</text>\n\n<!-- Panel A: muoi + tieu = hon hop -->\n<text x=\"110\" y=\"38\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#742A2A\">Muối + Tiêu bột</text>\n<circle cx=\"110\" cy=\"115\" r=\"60\" fill=\"#FFF5F5\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<circle cx=\"88\" cy=\"98\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#A0AEC0\"/>\n<circle cx=\"102\" cy=\"112\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#A0AEC0\"/>\n<circle cx=\"120\" cy=\"90\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#A0AEC0\"/>\n<circle cx=\"135\" cy=\"108\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#A0AEC0\"/>\n<circle cx=\"95\" cy=\"132\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#A0AEC0\"/>\n<circle cx=\"128\" cy=\"135\" r=\"3\" fill=\"#F7FAFC\" stroke=\"#A0AEC0\"/>\n<circle cx=\"93\" cy=\"100\" r=\"2\" fill=\"#2D3748\"/>\n<circle cx=\"112\" cy=\"88\" r=\"2\" fill=\"#2D3748\"/>\n<circle cx=\"130\" cy=\"115\" r=\"2\" fill=\"#2D3748\"/>\n<circle cx=\"100\" cy=\"128\" r=\"2\" fill=\"#2D3748\"/>\n<circle cx=\"140\" cy=\"130\" r=\"2\" fill=\"#2D3748\"/>\n<circle cx=\"80\" cy=\"118\" r=\"2\" fill=\"#2D3748\"/>\n<circle cx=\"115\" cy=\"140\" r=\"2\" fill=\"#2D3748\"/>\n<text x=\"110\" y=\"188\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Nhìn rõ từng hạt riêng</text>\n<text x=\"110\" y=\"202\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#742A2A\">→ HỖN HỢP</text>\n\n<!-- Panel B: muoi + nuoc = dung dich -->\n<text x=\"330\" y=\"38\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2C5282\">Muối + Nước ấm (khuấy tan)</text>\n<circle cx=\"330\" cy=\"115\" r=\"60\" fill=\"#EBF8FF\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<path d=\"M 330,55 C 335,75 360,75 360,95\" stroke=\"#4299E1\" stroke-width=\"2\" fill=\"none\"/>\n<circle cx=\"360\" cy=\"95\" r=\"3\" fill=\"#2B6CB0\"/>\n<text x=\"330\" y=\"188\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Muối tan hết, trong suốt</text>\n<text x=\"330\" y=\"202\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2C5282\">→ DUNG DỊCH</text>\n</svg>"
+      },
+      {
+        "id": "ex_kh5_honhop_02",
+        "question": "Nêu phương pháp khoa học để tách muối ăn ra khỏi dung dịch nước muối sinh lý.",
+        "answer": "• Phương pháp: Sử dụng phương pháp ĐUN NÓNG / CÔ CẠN.\n• Cách tiến hành: Đun sôi dung dịch nước muối. Dưới tác dụng của nhiệt độ, nước bay hơi hoàn toàn ra ngoài không khí, muối ăn không bay hơi sẽ đọng lại kết tinh ở đáy đun.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_honhop_phuongphaptach_b1",
+    "name": "Hỗn hợp: hai hay nhiều chất trộn lẫn, mỗi chất giữ nguyên tính chất riêng",
+    "type": "STEP",
+    "parentId": "less_kh5_honhop_phuongphaptach",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_honhop_phuongphaptach_b2",
+    "name": "Dung dịch: chất tan phân bố đều, đồng nhất trong chất lỏng (dạng đặc biệt của hỗn hợp)",
+    "type": "STEP",
+    "parentId": "less_kh5_honhop_phuongphaptach",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_honhop_phuongphaptach_b3",
+    "name": "Tách chất: lọc (rắn không tan khỏi lỏng); cô cạn – đun bay hơi (chất tan khỏi dung dịch); sàng, sảy (vật rắn kích thước khác nhau)",
+    "type": "STEP",
+    "parentId": "less_kh5_honhop_phuongphaptach",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_trangthai_biendoilyhoc",
+    "name": "Ba trạng thái & Biến đổi lý học",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_chat_biendoi",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_3trangthai_biendoily",
+    "name": "Ba trạng thái & Biến đổi lý học",
+    "type": "LESSON",
+    "parentId": "top_kh5_trangthai_biendoilyhoc",
+    "examples": [
+      {
+        "id": "ex_kh5_biendoily_01",
+        "question": "Thí nghiệm đun nóng một viên nến (sáp) trong đĩa sứ cho nến chảy ra rồi để nguội. Đây là hiện tượng biến đổi lý học hay biến đổi hóa học? Vì sao?",
+        "answer": "• Đây là hiện tượng BIẾN ĐỔI LÝ HỌC (Biến đổi trạng thái).\n• Giải thích: Nến chuyển từ thể rắn sang thể lỏng khi đun nóng, sau đó để nguội lại đông đặc thành thể rắn. Quá trình này chỉ thay đổi trạng thái/hình dạng chứ KHÔNG sinh ra chất mới.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_kh5_3trangthai_01",
+        "question": "Nêu đặc điểm hình dạng và thể tích của chất ở ba trạng thái rắn, lỏng, khí. Lấy ví dụ.",
+        "answer": "• Thể rắn: có hình dạng và thể tích xác định, không tự chảy (ví dụ: đá, sắt, đường).\n• Thể lỏng: không có hình dạng xác định, luôn theo hình vật chứa; có thể tích xác định (ví dụ: nước, dầu ăn).\n• Thể khí: không có hình dạng, thể tích xác định; chiếm toàn bộ chỗ chứa (ví dụ: không khí, khí oxi).\n• Nước là chất tiêu biểu tồn tại ở cả ba thể: nước đá (rắn) → nước (lỏng) → hơi nước (khí), có thể chuyển hóa qua lại khi thay đổi nhiệt độ.",
+        "mediaUrl": "<svg viewBox=\"0 0 460 220\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"460\" height=\"220\" fill=\"#FDFDFB\"/>\n<text x=\"230\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Ba thể của nước: rắn - lỏng - khí</text>\n\n<!-- RAN: da -->\n<rect x=\"30\" y=\"55\" width=\"110\" height=\"100\" fill=\"none\" stroke=\"#4A5568\" stroke-width=\"1.5\" stroke-dasharray=\"3,2\"/>\n<rect x=\"55\" y=\"80\" width=\"18\" height=\"18\" fill=\"#90CDF4\" stroke=\"#2B6CB0\"/>\n<rect x=\"80\" y=\"80\" width=\"18\" height=\"18\" fill=\"#90CDF4\" stroke=\"#2B6CB0\"/>\n<rect x=\"105\" y=\"80\" width=\"18\" height=\"18\" fill=\"#90CDF4\" stroke=\"#2B6CB0\"/>\n<rect x=\"55\" y=\"105\" width=\"18\" height=\"18\" fill=\"#90CDF4\" stroke=\"#2B6CB0\"/>\n<rect x=\"80\" y=\"105\" width=\"18\" height=\"18\" fill=\"#90CDF4\" stroke=\"#2B6CB0\"/>\n<rect x=\"105\" y=\"105\" width=\"18\" height=\"18\" fill=\"#90CDF4\" stroke=\"#2B6CB0\"/>\n<text x=\"85\" y=\"45\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">RẮN (nước đá)</text>\n<text x=\"85\" y=\"172\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Hình dạng, thể tích</text>\n<text x=\"85\" y=\"184\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">xác định</text>\n\n<!-- LONG: nuoc trong coc -->\n<path d=\"M 190,60 L 290,60 L 280,155 L 200,155 Z\" fill=\"none\" stroke=\"#4A5568\" stroke-width=\"1.5\"/>\n<path d=\"M 194,95 L 286,95 L 280,153 L 200,153 Z\" fill=\"#BEE3F8\"/>\n<circle cx=\"220\" cy=\"115\" r=\"3\" fill=\"#4299E1\" opacity=\"0.6\"/>\n<circle cx=\"250\" cy=\"130\" r=\"3.5\" fill=\"#4299E1\" opacity=\"0.6\"/>\n<circle cx=\"260\" cy=\"108\" r=\"2.5\" fill=\"#4299E1\" opacity=\"0.6\"/>\n<circle cx=\"235\" cy=\"140\" r=\"2.8\" fill=\"#4299E1\" opacity=\"0.6\"/>\n<text x=\"240\" y=\"45\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">LỎNG (nước)</text>\n<text x=\"240\" y=\"172\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Có thể tích xác định,</text>\n<text x=\"240\" y=\"184\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">hình theo vật chứa</text>\n\n<!-- KHI: hoi nuoc trong hop kin -->\n<rect x=\"340\" y=\"55\" width=\"100\" height=\"100\" fill=\"none\" stroke=\"#4A5568\" stroke-width=\"1.5\"/>\n<circle cx=\"365\" cy=\"80\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"395\" cy=\"70\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"420\" cy=\"95\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"360\" cy=\"120\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"410\" cy=\"135\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"385\" cy=\"105\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"425\" cy=\"60\" r=\"2.5\" fill=\"#63B3ED\"/>\n<circle cx=\"375\" cy=\"140\" r=\"2.5\" fill=\"#63B3ED\"/>\n<text x=\"390\" y=\"45\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">KHÍ (hơi nước)</text>\n<text x=\"390\" y=\"172\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Không xác định hình</text>\n<text x=\"390\" y=\"184\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">dạng và thể tích</text>\n\n<path d=\"M 145,105 L 178,105\" stroke=\"#DD6B20\" stroke-width=\"2\" marker-end=\"url(#arrow1)\"/>\n<path d=\"M 295,105 L 328,105\" stroke=\"#DD6B20\" stroke-width=\"2\" marker-end=\"url(#arrow1)\"/>\n<defs>\n<marker id=\"arrow1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"3\" orient=\"auto\">\n<path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#DD6B20\"/>\n</marker>\n</defs>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_3trangthai_biendoily_b1",
+    "name": "Ba trạng thái: rắn (hình dạng, thể tích xác định) – lỏng (thể tích xác định, hình dạng theo vật chứa) – khí (không xác định hình dạng, thể tích)",
+    "type": "STEP",
+    "parentId": "less_kh5_3trangthai_biendoily",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_3trangthai_biendoily_b2",
+    "name": "Biến đổi lý học: chỉ thay đổi trạng thái/hình dạng/kích thước, KHÔNG sinh ra chất mới (nóng chảy, đông đặc, hòa tan, hơi hóa)",
+    "type": "STEP",
+    "parentId": "less_kh5_3trangthai_biendoily",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_biendoihoahoc",
+    "name": "Biến đổi hóa học",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_chat_biendoi",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_dauhieu_biendoihoahoc",
+    "name": "Dấu hiệu biến đổi hóa học",
+    "type": "LESSON",
+    "parentId": "top_kh5_biendoihoahoc",
+    "examples": [
+      {
+        "id": "ex_kh5_biendoihoa_01",
+        "question": "Quan sát thí nghiệm đun nóng một ít đường trắng trên thìa kim loại trên ngọn lửa đèn cồn. Nêu hiện tượng và dấu hiệu khẳng định có sự biến đổi hóa học xảy ra.",
+        "answer": "• Hiện tượng: Đường trắng chảy lỏng → chuyển sang màu vàng → màu nâu sẫm (caramen) → cuối cùng thành chất màu đen, xốp, có mùi khét.\n• Dấu hiệu biến đổi hóa học: Có sự xuất hiện của chất mới (than đen) có tính chất hoàn toàn khác biệt với chất ban đầu (đường trắng, ngọt, tan trong nước).",
+        "mediaUrl": "<svg viewBox=\"0 0 460 190\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"460\" height=\"190\" fill=\"#FDFDFB\"/>\n<text x=\"230\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Đun đường trắng: biến đổi hóa học</text>\n\n<circle cx=\"60\" cy=\"90\" r=\"34\" fill=\"#FFFFFF\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<text x=\"60\" y=\"140\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Đường trắng</text>\n\n<path d=\"M 100,90 L 128,90\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow2)\"/>\n\n<circle cx=\"165\" cy=\"90\" r=\"34\" fill=\"#FEEBC8\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<text x=\"165\" y=\"140\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Chảy lỏng, vàng</text>\n\n<path d=\"M 205,90 L 233,90\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow2)\"/>\n\n<circle cx=\"270\" cy=\"90\" r=\"34\" fill=\"#C05621\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<text x=\"270\" y=\"140\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Nâu sẫm (caramen)</text>\n\n<path d=\"M 310,90 L 338,90\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow2)\"/>\n\n<circle cx=\"380\" cy=\"90\" r=\"34\" fill=\"#1A202C\" stroke=\"#4A5568\" stroke-width=\"2\"/>\n<text x=\"380\" y=\"140\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">Than đen, xốp</text>\n<text x=\"380\" y=\"154\" font-size=\"9\" text-anchor=\"middle\" fill=\"#C53030\">Chất mới!</text>\n\n<defs>\n<marker id=\"arrow2\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"3\" orient=\"auto\">\n<path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#A0AEC0\"/>\n</marker>\n</defs>\n<text x=\"230\" y=\"175\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2B6CB0\">Xuất hiện chất mới (than) → biến đổi hóa học</text>\n</svg>"
+      },
+      {
+        "id": "ex_kh5_biendoihoa_02",
+        "question": "Hiện tượng chiếc đinh sắt để ngoài không khí ẩm lâu ngày xuất hiện lớp gỉ màu nâu đỏ, xù xì là biến đổi lý học hay biến đổi hóa học?",
+        "answer": "• Là sự biến đổi hóa học.\n• Giải thích: Sắt tác dụng với hơi nước và khí oxi trong không khí ẩm, tạo thành gỉ sắt (oxit sắt) màu nâu đỏ, xù xì.\n• Gỉ sắt là chất mới, giòn, dễ vỡ, có tính chất hoàn toàn khác với kim loại sắt bóng, dẻo, chắc ban đầu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_dauhieu_biendoihoahoc_b1",
+    "name": "Biến đổi hóa học: có chất mới xuất hiện, khác hẳn chất ban đầu",
+    "type": "STEP",
+    "parentId": "less_kh5_dauhieu_biendoihoahoc",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_dauhieu_biendoihoahoc_b2",
+    "name": "Dấu hiệu: đổi màu, có mùi mới (khét, thối…), sinh chất khí, tạo chất rắn không tan (kết tủa)",
+    "type": "STEP",
+    "parentId": "less_kh5_dauhieu_biendoihoahoc",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_dauhieu_biendoihoahoc_b3",
+    "name": "Ví dụ: đốt cháy, đường bị đun cháy thành than, đinh sắt bị gỉ",
+    "type": "STEP",
+    "parentId": "less_kh5_dauhieu_biendoihoahoc",
+    "examples": null
+  },
+  {
+    "id": "cat_kh5_nangluong",
+    "name": "Năng lượng",
+    "type": "CATEGORY",
+    "parentId": "root_khoahoc5",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_nl_tunhien_chatdot",
+    "name": "Năng lượng tự nhiên & Chất đốt",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_nangluong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_mattroi_gio_nuoc",
+    "name": "Năng lượng Mặt Trời, gió, nước chảy",
+    "type": "LESSON",
+    "parentId": "top_kh5_nl_tunhien_chatdot",
+    "examples": [
+      {
+        "id": "ex_kh5_nltunhien_01",
+        "question": "Nêu vai trò của năng lượng mặt trời đối với sự sống trên Trái Đất và ứng dụng năng lượng gió, nước chảy trong đời sống.",
+        "answer": "• Năng lượng Mặt Trời: Chiếu sáng, sưởi ấm, giúp cây cối quang hợp, tạo vòng tuần hoàn nước; ứng dụng làm pin mặt trời, phơi sấy nông sản.\n• Năng lượng Gió: Chạy máy quạt nước, tua-bin phát điện, đẩy thuyền buồm.\n• Năng lượng Nước chảy: Xoay bánh xe nước đưa nước lên cao, chạy máy phát điện thủy điện.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_mattroi_gio_nuoc_b1",
+    "name": "Năng lượng Mặt Trời: chiếu sáng, sưởi ấm, giúp cây quang hợp; làm pin mặt trời, phơi sấy",
+    "type": "STEP",
+    "parentId": "less_kh5_mattroi_gio_nuoc",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_mattroi_gio_nuoc_b2",
+    "name": "Năng lượng gió: chạy tua-bin phát điện, đẩy thuyền buồm, xay bột (cối gió)",
+    "type": "STEP",
+    "parentId": "less_kh5_mattroi_gio_nuoc",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_mattroi_gio_nuoc_b3",
+    "name": "Năng lượng nước chảy: chạy máy phát điện thủy điện, xoay bánh xe nước",
+    "type": "STEP",
+    "parentId": "less_kh5_mattroi_gio_nuoc",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_chatdot_antoan",
+    "name": "Chất đốt: dùng an toàn, tiết kiệm",
+    "type": "LESSON",
+    "parentId": "top_kh5_nl_tunhien_chatdot",
+    "examples": [
+      {
+        "id": "ex_kh5_chatdot_01",
+        "question": "Vì sao đun nấu bằng bếp ga trong phòng kín lại có nguy cơ gây ngộ độc hoặc cháy nổ? Nêu nguyên tắc an toàn khi đun nấu.",
+        "answer": "• Nguyên nhân: Chất đốt cháy trong không khí thiếu oxy sinh ra khí CO (Cacbon monoxit) cực độc gây ngạt thở; rò rỉ khí ga gặp tia lửa sẽ gây nổ lớn.\n• Nguyên tắc an toàn: Đun nấu trong không gian thông thoáng, kiểm tra van ga và khóa chặt sau khi dùng, tắt bếp khi rời đi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_chatdot_antoan_b1",
+    "name": "Chất đốt: than, củi, ga, dầu, xăng… cháy sinh ra nhiệt và ánh sáng",
+    "type": "STEP",
+    "parentId": "less_kh5_chatdot_antoan",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_chatdot_antoan_b2",
+    "name": "Nguy cơ: đốt trong phòng kín thiếu oxi sinh khí CO độc; rò ga gặp lửa gây nổ",
+    "type": "STEP",
+    "parentId": "less_kh5_chatdot_antoan",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_chatdot_antoan_b3",
+    "name": "An toàn: nơi thoáng khí, kiểm tra van, khóa ga sau khi dùng, không rời bếp khi đang đun",
+    "type": "STEP",
+    "parentId": "less_kh5_chatdot_antoan",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_nldien_machdien",
+    "name": "Năng lượng điện & Mạch điện",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_nangluong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_machdien_donbao",
+    "name": "Mạch điện đơn giản",
+    "type": "LESSON",
+    "parentId": "top_kh5_nldien_machdien",
+    "examples": [
+      {
+        "id": "ex_kh5_machdien_01",
+        "question": "Nêu các bộ phận cần thiết để lắp một mạch điện thắp sáng đơn giản và điều kiện để bóng đèn thắp sáng.",
+        "answer": "• Bộ phận mạch điện: Pin (nguồn điện), dây dẫn điện, công tắc và bóng đèn.\n• Điều kiện đèn sáng: Mạch điện phải là MẠCH KÍN (công tắc đóng), dòng điện đi từ cực dương của pin qua dây dẫn đến bóng đèn rồi về cực âm của pin.",
+        "mediaUrl": "<svg viewBox=\"0 0 460 220\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"460\" height=\"220\" fill=\"#FDFDFB\"/>\n<text x=\"230\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Mạch điện kín và mạch điện hở</text>\n\n<!-- Mach kin -->\n<text x=\"110\" y=\"40\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#276749\">Mạch kín (công tắc đóng) → đèn sáng</text>\n<rect x=\"70\" y=\"70\" width=\"16\" height=\"34\" fill=\"#CBD5E0\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"78\" y=\"118\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Pin</text>\n<line x1=\"78\" y1=\"70\" x2=\"78\" y2=\"60\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<line x1=\"78\" y1=\"60\" x2=\"150\" y2=\"60\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<circle cx=\"170\" cy=\"60\" r=\"20\" fill=\"#FEFCBF\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<path d=\"M 160,68 L 180,52 M 160,52 L 180,68\" stroke=\"#DD6B20\" stroke-width=\"1.5\"/>\n<text x=\"170\" y=\"35\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Bóng đèn</text>\n<line x1=\"190\" y1=\"60\" x2=\"190\" y2=\"104\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<line x1=\"190\" y1=\"104\" x2=\"78\" y2=\"104\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<circle cx=\"135\" cy=\"104\" r=\"4\" fill=\"#2D3748\"/>\n<circle cx=\"145\" cy=\"104\" r=\"4\" fill=\"#2D3748\"/>\n<text x=\"140\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Công tắc (đóng)</text>\n\n<!-- Mach ho -->\n<text x=\"345\" y=\"40\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#9B2C2C\">Mạch hở (công tắc mở) → đèn tắt</text>\n<rect x=\"305\" y=\"70\" width=\"16\" height=\"34\" fill=\"#CBD5E0\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"313\" y=\"118\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Pin</text>\n<line x1=\"313\" y1=\"70\" x2=\"313\" y2=\"60\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<line x1=\"313\" y1=\"60\" x2=\"385\" y2=\"60\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<circle cx=\"405\" cy=\"60\" r=\"20\" fill=\"#F7FAFC\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<text x=\"405\" y=\"35\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Bóng đèn</text>\n<line x1=\"425\" y1=\"60\" x2=\"425\" y2=\"104\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<line x1=\"425\" y1=\"104\" x2=\"390\" y2=\"104\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<line x1=\"313\" y1=\"104\" x2=\"360\" y2=\"104\" stroke=\"#2D3748\" stroke-width=\"2\"/>\n<circle cx=\"360\" cy=\"104\" r=\"3\" fill=\"#9B2C2C\"/>\n<circle cx=\"390\" cy=\"104\" r=\"3\" fill=\"#9B2C2C\"/>\n<text x=\"375\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Công tắc (mở)</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_machdien_donbao_b1",
+    "name": "Bộ phận: nguồn điện (pin), dây dẫn, công tắc, vật tiêu thụ điện (bóng đèn)",
+    "type": "STEP",
+    "parentId": "less_kh5_machdien_donbao",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_machdien_donbao_b2",
+    "name": "Mạch kín: dòng điện đi được từ cực dương → dây dẫn → vật tiêu thụ → cực âm → đèn sáng",
+    "type": "STEP",
+    "parentId": "less_kh5_machdien_donbao",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_machdien_donbao_b3",
+    "name": "Mạch hở (đứt, công tắc mở): dòng điện không đi qua được → đèn không sáng",
+    "type": "STEP",
+    "parentId": "less_kh5_machdien_donbao",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_vandan_vancachdien",
+    "name": "Vật dẫn điện & Vật cách điện",
+    "type": "LESSON",
+    "parentId": "top_kh5_nldien_machdien",
+    "examples": [
+      {
+        "id": "ex_kh5_dandien_01",
+        "question": "Phân loại các vật sau thành hai nhóm Vật dẫn điện và Vật cách điện: Đồng, Sứ, Nhựa, Sắt, Cao su, Thủy tinh, Nhôm.",
+        "answer": "• Nhóm Vật DẪN ĐIỆN (Cho dòng điện chạy qua): Đồng, Sắt, Nhôm (các kim loại).\n• Nhóm Vật CÁCH ĐIỆN (Không cho dòng điện chạy qua): Sứ, Nhựa, Cao su, Thủy tinh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_kh5_dandien_02",
+        "question": "Vì sao không được dùng tay ướt để bật/tắt công tắc điện hoặc cắm phích cắm điện?",
+        "answer": "• Giải thích: Nước chứa các khoáng chất tan là chất DẪN ĐIỆN. Tay ướt tiếp xúc với thiết bị điện có thể truyền dòng điện qua nước dẫn vào cơ thể gây giật điện nguy hiểm đến tính mạng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_vandan_vancachdien_b1",
+    "name": "Vật dẫn điện: kim loại (đồng, sắt, nhôm), nước có lẫn khoáng chất",
+    "type": "STEP",
+    "parentId": "less_kh5_vandan_vancachdien",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vandan_vancachdien_b2",
+    "name": "Vật cách điện: nhựa, cao su, sứ, thủy tinh, gỗ khô",
+    "type": "STEP",
+    "parentId": "less_kh5_vandan_vancachdien",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vandan_vancachdien_b3",
+    "name": "An toàn điện: không sờ tay ướt vào thiết bị điện; không dùng vật kim loại nghịch ổ điện",
+    "type": "STEP",
+    "parentId": "less_kh5_vandan_vancachdien",
+    "examples": null
+  },
+  {
+    "id": "cat_kh5_sinhvat_susong",
+    "name": "Sinh vật và sự sống",
+    "type": "CATEGORY",
+    "parentId": "root_khoahoc5",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_sinhsan_thucvat",
+    "name": "Sự sinh sản của thực vật có hoa",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_sinhvat_susong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_hoa_thupan_thutinh",
+    "name": "Nhị, nhụy & Thụ phấn, thụ tinh",
+    "type": "LESSON",
+    "parentId": "top_kh5_sinhsan_thucvat",
+    "examples": [
+      {
+        "id": "ex_kh5_hoa_01",
+        "question": "Phân biệt nhị và nhụy trên bông hoa. Mô tả vắn tắt quá trình thụ phấn và thụ tinh ở thực vật có hoa.",
+        "answer": "• Nhị (cơ quan sinh sản đực): Chứa bao phấn mang các hạt phấn.\n• Nhụy (cơ quan sinh sản cái): Chứa đầu nhụy, vòi nhụy và bầu nhụy mang noãn.\n• Thụ phấn: Hạt phấn rơi vào đầu nhụy.\n• Thụ tinh: Tế bào sinh dục đực kết hợp với tế bào sinh dục cái tại noãn tạo thành HỢP TỬ. Hợp tử phát triển thành PHÔI, noãn thành HẠT, bầu nhụy phát triển thành QUẢ chứa hạt.",
+        "mediaUrl": "<svg viewBox=\"0 0 380 260\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"380\" height=\"260\" fill=\"#FDFDFB\"/>\n<text x=\"190\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Cấu tạo hoa: Nhị và Nhụy</text>\n\n<ellipse cx=\"120\" cy=\"120\" rx=\"30\" ry=\"55\" fill=\"#F6AD55\" opacity=\"0.85\" transform=\"rotate(-25 120 120)\"/>\n<ellipse cx=\"190\" cy=\"95\" rx=\"30\" ry=\"55\" fill=\"#F6AD55\" opacity=\"0.85\" transform=\"rotate(15 190 95)\"/>\n<ellipse cx=\"255\" cy=\"120\" rx=\"30\" ry=\"55\" fill=\"#F6AD55\" opacity=\"0.85\" transform=\"rotate(55 255 120)\"/>\n<ellipse cx=\"150\" cy=\"185\" rx=\"30\" ry=\"55\" fill=\"#F6AD55\" opacity=\"0.85\" transform=\"rotate(-70 150 185)\"/>\n<ellipse cx=\"225\" cy=\"185\" rx=\"30\" ry=\"55\" fill=\"#F6AD55\" opacity=\"0.85\" transform=\"rotate(105 225 185)\"/>\n\n<!-- Nhuy: vòi + đầu nhụy + bầu nhụy o giua -->\n<line x1=\"190\" y1=\"150\" x2=\"190\" y2=\"90\" stroke=\"#2F855A\" stroke-width=\"4\"/>\n<circle cx=\"190\" cy=\"80\" r=\"8\" fill=\"#2F855A\"/>\n<ellipse cx=\"190\" cy=\"158\" rx=\"10\" ry=\"14\" fill=\"#38A169\" stroke=\"#22543D\" stroke-width=\"1.5\"/>\n<text x=\"240\" y=\"80\" font-size=\"10\" fill=\"#276749\">Đầu nhụy</text>\n<text x=\"230\" y=\"115\" font-size=\"10\" fill=\"#276749\">Vòi nhụy</text>\n<text x=\"215\" y=\"158\" font-size=\"10\" fill=\"#276749\">Bầu nhụy (chứa noãn)</text>\n\n<!-- Nhi: 4 soi xung quanh nhuy, moi cai co bao phan -->\n<line x1=\"190\" y1=\"150\" x2=\"150\" y2=\"110\" stroke=\"#D69E2E\" stroke-width=\"2.5\"/>\n<circle cx=\"150\" cy=\"110\" r=\"6\" fill=\"#ECC94B\" stroke=\"#B7791F\"/>\n<line x1=\"190\" y1=\"150\" x2=\"230\" y2=\"105\" stroke=\"#D69E2E\" stroke-width=\"2.5\"/>\n<circle cx=\"230\" cy=\"105\" r=\"6\" fill=\"#ECC94B\" stroke=\"#B7791F\"/>\n<line x1=\"190\" y1=\"150\" x2=\"145\" y2=\"150\" stroke=\"#D69E2E\" stroke-width=\"2.5\"/>\n<circle cx=\"145\" cy=\"150\" r=\"6\" fill=\"#ECC94B\" stroke=\"#B7791F\"/>\n<line x1=\"190\" y1=\"150\" x2=\"235\" y2=\"150\" stroke=\"#D69E2E\" stroke-width=\"2.5\"/>\n<circle cx=\"235\" cy=\"150\" r=\"6\" fill=\"#ECC94B\" stroke=\"#B7791F\"/>\n<text x=\"90\" y=\"105\" font-size=\"10\" fill=\"#B7791F\">Nhị (bao phấn</text>\n<text x=\"90\" y=\"118\" font-size=\"10\" fill=\"#B7791F\">chứa hạt phấn)</text>\n\n<rect x=\"182\" y=\"220\" width=\"16\" height=\"30\" fill=\"#68D391\"/>\n<text x=\"190\" y=\"243\" font-size=\"9\" text-anchor=\"middle\" fill=\"#22543D\" opacity=\"0\"> </text>\n</svg>"
+      },
+      {
+        "id": "ex_kh5_hoa_02",
+        "question": "Vì sao có những loài hoa cần nhờ côn trùng hoặc gió để thụ phấn? Nêu đặc điểm giúp phân biệt hai loại hoa này.",
+        "answer": "• Hoa thụ phấn nhờ côn trùng: thường có màu sắc sặc sỡ, có hương thơm, mật ngọt để thu hút côn trùng (bướm, ong) đến hút mật và mang hạt phấn đi.\n• Hoa thụ phấn nhờ gió: thường nhỏ, không màu sắc rực rỡ, không có hương, hạt phấn nhiều và rất nhẹ để gió dễ cuốn đi (ví dụ: hoa lúa, hoa ngô).\n• Cả hai cách đều giúp hạt phấn từ nhị hoa này rơi được vào đầu nhụy của hoa khác, thực hiện quá trình thụ phấn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_hoa_thupan_thutinh_b1",
+    "name": "Nhị (đực): bao phấn chứa hạt phấn; Nhụy (cái): đầu nhụy – vòi nhụy – bầu nhụy chứa noãn",
+    "type": "STEP",
+    "parentId": "less_kh5_hoa_thupan_thutinh",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_hoa_thupan_thutinh_b2",
+    "name": "Thụ phấn: hạt phấn rơi vào đầu nhụy (nhờ gió hoặc côn trùng)",
+    "type": "STEP",
+    "parentId": "less_kh5_hoa_thupan_thutinh",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_hoa_thupan_thutinh_b3",
+    "name": "Thụ tinh: tế bào sinh dục đực + tế bào sinh dục cái (trong noãn) → hợp tử → phôi (trong hạt) → quả chứa hạt",
+    "type": "STEP",
+    "parentId": "less_kh5_hoa_thupan_thutinh",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_phattan_hatqua",
+    "name": "Phát tán hạt, quả",
+    "type": "LESSON",
+    "parentId": "top_kh5_sinhsan_thucvat",
+    "examples": [
+      {
+        "id": "ex_kh5_phattan_01",
+        "mediaUrl": null,
+        "question": "Kể tên các cách phát tán hạt, quả của thực vật trong tự nhiên. Cho ví dụ mỗi cách.",
+        "answer": "• Nhờ gió: hạt/quả nhẹ, có lông hoặc cánh mỏng để gió cuốn đi xa (ví dụ: hạt hoa sữa, quả bồ công anh).\n• Nhờ động vật: quả có gai/móc dễ bám vào lông thú (ví dụ: quả ké đầu ngựa); hoặc quả ngọt được động vật ăn, hạt theo phân đi xa (ví dụ: quả ổi, quả dại chim ăn).\n• Nhờ nước: quả có vỏ nhẹ, nổi được trên mặt nước (ví dụ: quả dừa).\n• Tự phát tán: quả khô tự nứt, bật hạt ra xa (ví dụ: quả đậu, quả me)."
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_phattan_hatqua_b1",
+    "name": "Nhờ gió: hạt/quả nhẹ, có lông hoặc cánh",
+    "type": "STEP",
+    "parentId": "less_kh5_phattan_hatqua",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_phattan_hatqua_b2",
+    "name": "Nhờ động vật: quả có gai/móc bám lông thú, hoặc quả ngọt được ăn rồi thải hạt",
+    "type": "STEP",
+    "parentId": "less_kh5_phattan_hatqua",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_phattan_hatqua_b3",
+    "name": "Nhờ nước: quả nhẹ, nổi được; Tự phát tán: quả khô tự nứt bật hạt",
+    "type": "STEP",
+    "parentId": "less_kh5_phattan_hatqua",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_caycon_dongvat",
+    "name": "Cây con & Sự sinh sản động vật",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_sinhvat_susong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_moc_tu_hat_detrung_decon",
+    "name": "Cây con mọc từ đâu & Đẻ trứng/đẻ con",
+    "type": "LESSON",
+    "parentId": "top_kh5_caycon_dongvat",
+    "examples": [
+      {
+        "id": "ex_kh5_moc_01",
+        "question": "Kể tên các bộ phận của cơ thể cây mẹ có thể mọc thành cây con (không qua gieo hạt). Cho ví dụ minh họa.",
+        "answer": "• Mọc từ rễ củ: Khoai lang.\n• Mọc từ thân củ: Khoai tây.\n• Mọc từ thân hành (dạng củ tròn, nhiều lớp vảy): Hành, tỏi.\n• Mọc từ lá: Cây sống đời (cây bỏng).\n• Mọc từ cành/thân (giâm cành): Cây mía, cây sắn (khoai mì).",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_kh5_moc_02",
+        "question": "Phân loại các động vật sau thành hai nhóm Đẻ trứng và Đẻ con: Chim trĩ, Chó, Gà, Mèo, Cá chép, Ếch, Voi, Bướm.",
+        "answer": "• Nhóm ĐẺ TRỨNG: Chim trĩ, Gà, Cá chép, Ếch, Bướm.\n• Nhóm ĐẺ CON (và nuôi con bằng sữa mẹ): Chó, Mèo, Voi (các loài thú).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_moc_tu_hat_detrung_decon_b1",
+    "name": "Cây con có thể mọc từ hạt hoặc từ bộ phận của cây mẹ: rễ, thân (củ/hành), lá, cành",
+    "type": "STEP",
+    "parentId": "less_kh5_moc_tu_hat_detrung_decon",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_moc_tu_hat_detrung_decon_b2",
+    "name": "Động vật đẻ trứng: trứng nở thành con non (chim, cá, côn trùng, bò sát, lưỡng cư)",
+    "type": "STEP",
+    "parentId": "less_kh5_moc_tu_hat_detrung_decon",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_moc_tu_hat_detrung_decon_b3",
+    "name": "Động vật đẻ con: con non phát triển trong bụng mẹ, sinh ra đã thành hình (đa số thú), thường được nuôi bằng sữa mẹ",
+    "type": "STEP",
+    "parentId": "less_kh5_moc_tu_hat_detrung_decon",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_vongdoi_dongvat",
+    "name": "Vòng đời động vật",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_sinhvat_susong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_vongdoi_bienthai",
+    "name": "Vòng đời & Biến thái",
+    "type": "LESSON",
+    "parentId": "top_kh5_vongdoi_dongvat",
+    "examples": [
+      {
+        "id": "ex_kh5_vongdoi_01",
+        "question": "Vẽ chu trình phát triển (vòng đời) của loài muỗi và đề xuất giải pháp diệt muỗi hiệu quả dựa vào vòng đời của chúng.",
+        "answer": "• Chu trình vòng đời muỗi: Trứng (đẻ dưới nước) → Ấu trùng (Bọ gậy / Lăng quăng) → Nhộng → Muỗi trưởng thành.\n• Biện pháp diệt muỗi triệt hạ dựa trên vòng đời: Diệt bọ gậy/lăng quăng ở giai đoạn sống dưới nước (thả cá vào bể nước, khơi thông cống rãnh, đậy kín dụng cụ chứa nước, úp xô chậu đọng nước) để cắt đứt vòng đời biến thái trước khi phát triển thành muỗi trưởng thành.",
+        "mediaUrl": "<svg viewBox=\"0 0 460 260\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"460\" height=\"260\" fill=\"#FDFDFB\"/>\n<text x=\"230\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Vòng đời của muỗi (biến thái hoàn toàn)</text>\n\n<circle cx=\"230\" cy=\"120\" r=\"85\" fill=\"none\" stroke=\"#A0AEC0\" stroke-width=\"2\" stroke-dasharray=\"4,3\"/>\n\n<!-- Trung -->\n<g transform=\"translate(230.0,35.0)\">\n<ellipse cx=\"0\" cy=\"0\" rx=\"26\" ry=\"18\" fill=\"#EBF8FF\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<circle cx=\"-8\" cy=\"-2\" r=\"2\" fill=\"#2C5282\"/>\n<circle cx=\"0\" cy=\"3\" r=\"2\" fill=\"#2C5282\"/>\n<circle cx=\"8\" cy=\"-3\" r=\"2\" fill=\"#2C5282\"/>\n<text x=\"0\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">1. Trứng (dưới nước)</text>\n</g>\n\n<!-- Au trung -->\n<g transform=\"translate(315.0,120.0)\">\n<ellipse cx=\"0\" cy=\"0\" rx=\"24\" ry=\"20\" fill=\"#FEFCBF\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M -18,0 Q -26,-6 -32,0 Q -26,6 -18,0\" fill=\"#F6E05E\" stroke=\"#2D3748\" stroke-width=\"1\"/>\n<text x=\"0\" y=\"36\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">2. Ấu trùng (bọ gậy)</text>\n</g>\n\n<!-- Nhong -->\n<g transform=\"translate(230.0,205.0)\">\n<path d=\"M -12,-22 C -22,-10 -18,14 -2,22 C 8,10 10,-12 -12,-22 Z\" fill=\"#E9D8FD\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"0\" y=\"40\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">3. Nhộng</text>\n</g>\n\n<!-- Muoi truong thanh -->\n<g transform=\"translate(145.0,120.0)\">\n<ellipse cx=\"0\" cy=\"0\" rx=\"14\" ry=\"6\" fill=\"#4A5568\"/>\n<line x1=\"-13\" y1=\"-2\" x2=\"-30\" y2=\"-14\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<line x1=\"-13\" y1=\"2\" x2=\"-30\" y2=\"12\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M -2,-4 C 10,-16 26,-10 30,-2 C 16,-4 6,0 -2,-4 Z\" fill=\"#CBD5E0\" stroke=\"#2D3748\" stroke-width=\"1\"/>\n<path d=\"M -2,4 C 10,16 26,10 30,2 C 16,4 6,0 -2,4 Z\" fill=\"#CBD5E0\" stroke=\"#2D3748\" stroke-width=\"1\"/>\n<text x=\"-20\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2D3748\">4. Muỗi trưởng thành</text>\n</g>\n\n<path d=\"M 248,49 A 85,85 0 0,1 309,98\" fill=\"none\" stroke=\"#68D391\" stroke-width=\"2\" marker-end=\"url(#arrow3)\"/>\n<path d=\"M 309,142 A 85,85 0 0,1 252,199\" fill=\"none\" stroke=\"#68D391\" stroke-width=\"2\" marker-end=\"url(#arrow3)\"/>\n<path d=\"M 208,199 A 85,85 0 0,1 151,98\" fill=\"none\" stroke=\"#68D391\" stroke-width=\"2\" marker-end=\"url(#arrow3)\"/>\n<path d=\"M 151,142 A 85,85 0 0,1 212,49\" fill=\"none\" stroke=\"#68D391\" stroke-width=\"2\" marker-end=\"url(#arrow3)\"/>\n\n<defs>\n<marker id=\"arrow3\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"3\" orient=\"auto\">\n<path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#68D391\"/>\n</marker>\n</defs>\n</svg>"
+      },
+      {
+        "id": "ex_kh5_vongdoi_02",
+        "question": "So sánh vòng đời của châu chấu (biến thái không hoàn toàn) với vòng đời của muỗi (biến thái hoàn toàn).",
+        "answer": "• Châu chấu (biến thái không hoàn toàn): Trứng → Châu chấu non (đã có hình dạng giống con lớn nhưng chưa đủ cánh, lột xác nhiều lần để lớn lên) → Châu chấu trưởng thành.\n• Muỗi (biến thái hoàn toàn): Trứng → Ấu trùng (bọ gậy, hình dạng khác hẳn con lớn) → Nhộng → Muỗi trưởng thành.\n• Điểm khác biệt: Ở biến thái không hoàn toàn, con non có hình dạng gần giống con trưởng thành ngay từ đầu; ở biến thái hoàn toàn, con non (ấu trùng) có hình dạng hoàn toàn khác con trưởng thành và phải qua giai đoạn nhộng mới biến đổi thành.",
+        "mediaUrl": "<svg viewBox=\"0 0 460 230\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"460\" height=\"230\" fill=\"#FDFDFB\"/>\n<text x=\"230\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">So sánh biến thái không hoàn toàn và hoàn toàn</text>\n\n<text x=\"230\" y=\"38\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#276749\">Châu chấu: biến thái KHÔNG hoàn toàn (3 giai đoạn)</text>\n<circle cx=\"70\" cy=\"80\" r=\"20\" fill=\"#EBF8FF\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"70\" y=\"86\" font-size=\"9\" text-anchor=\"middle\" fill=\"#2D3748\">Trứng</text>\n<path d=\"M 92,80 L 118,80\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow4)\"/>\n<ellipse cx=\"160\" cy=\"80\" rx=\"28\" ry=\"18\" fill=\"#C6F6D5\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"160\" y=\"86\" font-size=\"9\" text-anchor=\"middle\" fill=\"#2D3748\">Châu chấu non</text>\n<path d=\"M 190,80 L 216,80\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow4)\"/>\n<ellipse cx=\"260\" cy=\"80\" rx=\"32\" ry=\"20\" fill=\"#68D391\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"260\" y=\"86\" font-size=\"9\" text-anchor=\"middle\" fill=\"#1A202C\">Châu chấu trưởng thành</text>\n<text x=\"230\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">→ Con non giống con lớn, chỉ lột xác để to dần, KHÔNG qua nhộng</text>\n\n<line x1=\"10\" y1=\"128\" x2=\"450\" y2=\"128\" stroke=\"#E2E8F0\" stroke-width=\"1\"/>\n\n<text x=\"230\" y=\"148\" font-size=\"11\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#9B2C2C\">Muỗi: biến thái HOÀN TOÀN (4 giai đoạn)</text>\n<circle cx=\"60\" cy=\"188\" r=\"16\" fill=\"#EBF8FF\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"60\" y=\"192\" font-size=\"8\" text-anchor=\"middle\" fill=\"#2D3748\">Trứng</text>\n<path d=\"M 78,188 L 100,188\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow4)\"/>\n<ellipse cx=\"145\" cy=\"188\" rx=\"24\" ry=\"14\" fill=\"#FEFCBF\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"145\" y=\"192\" font-size=\"8\" text-anchor=\"middle\" fill=\"#2D3748\">Ấu trùng</text>\n<path d=\"M 172,188 L 194,188\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow4)\"/>\n<ellipse cx=\"235\" cy=\"188\" rx=\"18\" ry=\"18\" fill=\"#E9D8FD\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"235\" y=\"192\" font-size=\"8\" text-anchor=\"middle\" fill=\"#2D3748\">Nhộng</text>\n<path d=\"M 256,188 L 278,188\" stroke=\"#A0AEC0\" stroke-width=\"2\" marker-end=\"url(#arrow4)\"/>\n<ellipse cx=\"330\" cy=\"188\" rx=\"34\" ry=\"16\" fill=\"#CBD5E0\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"330\" y=\"192\" font-size=\"8\" text-anchor=\"middle\" fill=\"#1A202C\">Muỗi trưởng thành</text>\n<text x=\"230\" y=\"218\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">→ Ấu trùng khác hẳn con lớn, PHẢI qua giai đoạn nhộng</text>\n\n<defs>\n<marker id=\"arrow4\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"3\" orient=\"auto\">\n<path d=\"M0,0 L6,3 L0,6 Z\" fill=\"#A0AEC0\"/>\n</marker>\n</defs>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_vongdoi_bienthai_b1",
+    "name": "Vòng đời: các giai đoạn phát triển của một cá thể từ khi sinh ra đến khi chết",
+    "type": "STEP",
+    "parentId": "less_kh5_vongdoi_bienthai",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vongdoi_bienthai_b2",
+    "name": "Biến thái hoàn toàn: con non (ấu trùng) khác hẳn con trưởng thành, có qua giai đoạn nhộng (muỗi, bướm, ruồi)",
+    "type": "STEP",
+    "parentId": "less_kh5_vongdoi_bienthai",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vongdoi_bienthai_b3",
+    "name": "Biến thái không hoàn toàn: con non giống con trưởng thành, lột xác nhiều lần, không qua giai đoạn nhộng (châu chấu, chuồn chuồn)",
+    "type": "STEP",
+    "parentId": "less_kh5_vongdoi_bienthai",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vongdoi_bienthai_b4",
+    "name": "Không qua biến thái: con non đã giống hệt hình dạng con trưởng thành ngay khi sinh/nở (gà, chó, người)",
+    "type": "STEP",
+    "parentId": "less_kh5_vongdoi_bienthai",
+    "examples": null
+  },
+  {
+    "id": "cat_kh5_connguoi_suckhoe_moitruong",
+    "name": "Con người, sức khỏe & môi trường",
+    "type": "CATEGORY",
+    "parentId": "root_khoahoc5",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_connguoi_giai_doan",
+    "name": "Sinh sản & Giai đoạn phát triển người",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_connguoi_suckhoe_moitruong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_hinhthanh_4giaidoan",
+    "name": "Bài 22: Sự hình thành cơ thể người",
+    "type": "LESSON",
+    "parentId": "top_kh5_connguoi_giai_doan",
+    "examples": [
+      {
+        "id": "ex_kh5_giai_doan_02",
+        "question": "Cơ thể người được hình thành như thế nào? Thai nhi phát triển ở đâu và trong khoảng bao lâu?",
+        "answer": "• Quá trình hình thành: Trứng của người mẹ kết hợp với tinh trùng của người cha tạo thành hợp tử.\n• Hợp tử phân chia nhiều lần và phát triển thành thai nhi trong tử cung (dạ con) của người mẹ.\n• Thời gian: Thai nhi phát triển trong khoảng 9 tháng thì được sinh ra.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_kh5_4giaidoan_phattrien",
+    "name": "Bài 23: Các giai đoạn phát triển",
+    "type": "LESSON",
+    "parentId": "top_kh5_connguoi_giai_doan",
+    "examples": [
+      {
+        "id": "ex_kh5_giai_doan_01",
+        "question": "Nêu bốn giai đoạn phát triển chính của con người từ lúc sinh ra và đặc điểm của Tuổi vị thành niên.",
+        "answer": "• Bốn giai đoạn: Tuổi ấu thơ (0 - 9 tuổi) → Tuổi vị thành niên (10 - 19 tuổi) → Tuổi trưởng thành (20 - 60 tuổi) → Tuổi già (trên 60 tuổi).\n• Đặc điểm Tuổi vị thành niên: Là giai đoạn chuyển tiếp từ trẻ con thành người lớn, bao gồm tuổi dậy thì với sự phát triển nhanh vượt bậc về chiều cao, cân nặng và hoàn thiện cơ quan sinh dục.",
+        "mediaUrl": "<svg viewBox=\"0 0 460 190\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"460\" height=\"190\" fill=\"#FDFDFB\"/>\n<text x=\"230\" y=\"18\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Bốn giai đoạn phát triển của con người</text>\n\n<line x1=\"40\" y1=\"90\" x2=\"420\" y2=\"90\" stroke=\"#A0AEC0\" stroke-width=\"3\"/>\n\n<circle cx=\"70\" cy=\"90\" r=\"9\" fill=\"#90CDF4\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"70\" y=\"70\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Tuổi ấu thơ</text>\n<text x=\"70\" y=\"115\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">0 - 9 tuổi</text>\n\n<circle cx=\"185\" cy=\"90\" r=\"9\" fill=\"#F6AD55\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"185\" y=\"70\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Tuổi vị thành niên</text>\n<text x=\"185\" y=\"115\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">10 - 19 tuổi (dậy thì)</text>\n\n<circle cx=\"300\" cy=\"90\" r=\"9\" fill=\"#68D391\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"300\" y=\"70\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Tuổi trưởng thành</text>\n<text x=\"300\" y=\"115\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">20 - 60 tuổi</text>\n\n<circle cx=\"410\" cy=\"90\" r=\"9\" fill=\"#CBD5E0\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<text x=\"410\" y=\"70\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Tuổi già</text>\n<text x=\"410\" y=\"115\" font-size=\"9\" text-anchor=\"middle\" fill=\"#4A5568\">Trên 60 tuổi</text>\n\n<path d=\"M 79,90 L 176,90\" stroke=\"none\"/>\n<text x=\"230\" y=\"150\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2B6CB0\">Tuổi vị thành niên: phát triển nhanh về chiều cao, cân nặng,</text>\n<text x=\"230\" y=\"164\" font-size=\"10\" text-anchor=\"middle\" fill=\"#2B6CB0\">hoàn thiện cơ quan sinh dục</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "less_kh5_nam_va_nu",
+    "name": "Bài 24: Nam và nữ",
+    "type": "LESSON",
+    "parentId": "top_kh5_connguoi_giai_doan",
+    "examples": [
+      {
+        "id": "ex_kh5_namnu_01",
+        "mediaUrl": null,
+        "question": "Nêu một số đặc điểm sinh học khác nhau giữa nam và nữ. Vì sao không nên phân biệt đối xử giữa nam và nữ trong học tập, lao động?",
+        "answer": "• Đặc điểm sinh học: nam có cơ quan sinh dục nam (tinh hoàn, sản sinh tinh trùng); nữ có cơ quan sinh dục nữ (buồng trứng, sản sinh trứng; có khả năng mang thai, sinh con, cho con bú).\n• Ngoài sự khác biệt về sinh học, nam và nữ đều có quyền và khả năng học tập, lao động, phát triển như nhau.\n• Không nên phân biệt đối xử theo giới tính (ví dụ: cho rằng chỉ con trai mới học tốt Toán, chỉ con gái mới biết nấu ăn) vì điều đó không đúng và hạn chế sự phát triển của mỗi người."
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_nam_va_nu_b1",
+    "name": "Khác biệt sinh học: nam có tinh hoàn (sinh tinh trùng); nữ có buồng trứng (sinh trứng, mang thai được)",
+    "type": "STEP",
+    "parentId": "less_kh5_nam_va_nu",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_nam_va_nu_b2",
+    "name": "Bình đẳng giới: nam và nữ đều có quyền, khả năng học tập, lao động như nhau, không phân biệt đối xử",
+    "type": "STEP",
+    "parentId": "less_kh5_nam_va_nu",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_hinhthanh_4giaidoan_b1_v2",
+    "name": "Hợp tử: trứng mẹ + tinh trùng bố kết hợp tạo thành",
+    "type": "STEP",
+    "parentId": "less_kh5_hinhthanh_4giaidoan",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_hinhthanh_4giaidoan_b2",
+    "name": "Hợp tử phát triển thành thai nhi trong tử cung mẹ khoảng 9 tháng rồi chào đời",
+    "type": "STEP",
+    "parentId": "less_kh5_hinhthanh_4giaidoan",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_4giaidoan_phattrien_b1",
+    "name": "4 giai đoạn: Tuổi ấu thơ (0–9 tuổi) → Tuổi vị thành niên (10–19 tuổi, gồm tuổi dậy thì) → Tuổi trưởng thành (20–60 tuổi) → Tuổi già (trên 60 tuổi)",
+    "type": "STEP",
+    "parentId": "less_kh5_4giaidoan_phattrien",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_suckhoe_vikjuan",
+    "name": "Sức khỏe, an toàn & Vi khuẩn",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_connguoi_suckhoe_moitruong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_tuoidaythi_xamhai",
+    "name": "Tuổi dậy thì & Phòng tránh xâm hại",
+    "type": "LESSON",
+    "parentId": "top_kh5_suckhoe_vikjuan",
+    "examples": [
+      {
+        "id": "ex_kh5_tuoidaythi_01",
+        "question": "Cần làm gì để giữ vệ sinh cá nhân ở tuổi dậy thì và phòng tránh nguy cơ bị xâm hại cơ thể?",
+        "answer": "• Vệ sinh tuổi dậy thì: Tắm rửa, thay quần áo lót hằng ngày; rửa cơ quan sinh dục ngoài bằng nước sạch; ăn uống đủ chất và luyện tập thể thao đều đặn.\n• Phòng tránh xâm hại: Ghi nhớ 'Quy tắc 5 ngón tay' (chỉ ôm hôn với người thân ruột thịt; nắm tay, bắt tay với người quen; vẫy tay, xua tay và giữ khoảng cách với người lạ); không để người khác chạm vào vùng kín (vùng riêng tư) của mình; khi gặp nguy hiểm cần hô to, bỏ chạy đến nơi có người và kể ngay với cha mẹ, thầy cô hoặc người thân tin cậy.",
+        "mediaUrl": "<svg viewBox=\"0 0 360 300\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0\" y=\"0\" width=\"360\" height=\"300\" fill=\"#FDFDFB\"/>\n<text x=\"180\" y=\"20\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#2D3748\">Quy tắc 5 ngón tay</text>\n\n<path d=\"M 130,270 L 130,160 Q 130,150 140,150 Q 150,150 150,160 L 150,270 Z\" fill=\"#FBD38D\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M 155,270 L 155,120 Q 155,108 167,108 Q 179,108 179,120 L 179,270 Z\" fill=\"#FBD38D\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M 184,270 L 184,110 Q 184,98 196,98 Q 208,98 208,110 L 208,270 Z\" fill=\"#FBD38D\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M 213,270 L 213,125 Q 213,113 225,113 Q 237,113 237,125 L 237,270 Z\" fill=\"#FBD38D\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M 242,270 L 242,160 Q 242,150 253,150 Q 264,150 264,160 L 264,270 Z\" fill=\"#FBD38D\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<path d=\"M 105,270 Q 100,220 120,205 L 130,215 L 130,270 Z\" fill=\"#FBD38D\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n<rect x=\"100\" y=\"260\" width=\"180\" height=\"30\" rx=\"6\" fill=\"#F7FAFC\" stroke=\"#2D3748\" stroke-width=\"1.5\"/>\n\n<text x=\"140\" y=\"145\" font-size=\"8.5\" text-anchor=\"middle\" fill=\"#742A2A\">Ôm, hôn</text>\n<text x=\"140\" y=\"290\" font-size=\"7.5\" text-anchor=\"middle\" fill=\"#742A2A\">Người thân ruột thịt</text>\n\n<text x=\"167\" y=\"103\" font-size=\"8.5\" text-anchor=\"middle\" fill=\"#5F370E\">Nắm tay</text>\n\n<text x=\"196\" y=\"93\" font-size=\"8.5\" text-anchor=\"middle\" fill=\"#22543D\">Bắt tay</text>\n<text x=\"196\" y=\"298\" font-size=\"7.5\" text-anchor=\"middle\" fill=\"#22543D\">Người quen</text>\n\n<text x=\"225\" y=\"108\" font-size=\"8.5\" text-anchor=\"middle\" fill=\"#2C5282\">Vẫy tay</text>\n\n<text x=\"253\" y=\"145\" font-size=\"8.5\" text-anchor=\"middle\" fill=\"#822727\">Xua tay</text>\n<text x=\"253\" y=\"290\" font-size=\"7.5\" text-anchor=\"middle\" fill=\"#822727\">Người lạ</text>\n\n<text x=\"180\" y=\"50\" font-size=\"10\" text-anchor=\"middle\" fill=\"#4A5568\">Ôm hôn (ruột thịt) – Nắm, bắt tay (người quen)</text>\n<text x=\"180\" y=\"64\" font-size=\"10\" text-anchor=\"middle\" fill=\"#4A5568\">– Vẫy, xua tay và giữ khoảng cách (người lạ)</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_tuoidaythi_xamhai_b1",
+    "name": "Tuổi dậy thì: cơ thể phát triển nhanh về chiều cao, cân nặng; hoàn thiện cơ quan sinh dục",
+    "type": "STEP",
+    "parentId": "less_kh5_tuoidaythi_xamhai",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_tuoidaythi_xamhai_b2",
+    "name": "Vệ sinh tuổi dậy thì: tắm rửa, thay đồ lót hằng ngày, ăn uống đủ chất, luyện tập thể thao",
+    "type": "STEP",
+    "parentId": "less_kh5_tuoidaythi_xamhai",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_tuoidaythi_xamhai_b3",
+    "name": "Quy tắc 5 ngón tay: ôm hôn (người thân) – nắm/bắt tay (người quen) – vẫy/xua tay (người lạ); khi nguy hiểm: hô to – bỏ chạy – kể với người tin cậy",
+    "type": "STEP",
+    "parentId": "less_kh5_tuoidaythi_xamhai",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_vikhuan_quanhta",
+    "name": "Vi khuẩn quanh ta",
+    "type": "LESSON",
+    "parentId": "top_kh5_suckhoe_vikjuan",
+    "examples": [
+      {
+        "id": "ex_kh5_vikhuan_01",
+        "mediaUrl": null,
+        "question": "Vi khuẩn là gì? Nêu một ví dụ về vi khuẩn có lợi và một ví dụ về vi khuẩn có hại đối với con người.",
+        "answer": "• Vi khuẩn: là những sinh vật rất nhỏ, không thể nhìn thấy bằng mắt thường, phải quan sát dưới kính hiển vi. Vi khuẩn có ở khắp mọi nơi: trong đất, nước, không khí và cả trong cơ thể người.\n• Vi khuẩn có lợi: vi khuẩn lên men giúp làm sữa chua, làm dưa chua; vi khuẩn trong ruột giúp tiêu hóa thức ăn.\n• Vi khuẩn có hại: vi khuẩn gây bệnh tiêu chảy, gây ôi thiu thức ăn để lâu ngoài không khí."
+      },
+      {
+        "id": "ex_kh5_vikhuan_02",
+        "mediaUrl": null,
+        "question": "Nêu các cách phòng tránh tác hại của vi khuẩn gây bệnh trong sinh hoạt hằng ngày.",
+        "answer": "1. Rửa tay bằng xà phòng trước khi ăn và sau khi đi vệ sinh.\n2. Ăn chín, uống sôi; bảo quản thực phẩm trong tủ lạnh hoặc đậy kín.\n3. Giữ nhà cửa, môi trường sống sạch sẽ, thoáng khí.\n4. Tiêm phòng đầy đủ theo hướng dẫn của cán bộ y tế."
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_vikhuan_quanhta_b1",
+    "name": "Vi khuẩn: sinh vật rất nhỏ, chỉ thấy được qua kính hiển vi, có ở khắp nơi",
+    "type": "STEP",
+    "parentId": "less_kh5_vikhuan_quanhta",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vikhuan_quanhta_b2",
+    "name": "Có lợi: lên men (sữa chua, dưa chua), hỗ trợ tiêu hóa; Có hại: gây bệnh, làm ôi thiu thức ăn",
+    "type": "STEP",
+    "parentId": "less_kh5_vikhuan_quanhta",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_vikhuan_quanhta_b3",
+    "name": "Phòng tránh: rửa tay, ăn chín uống sôi, bảo quản thực phẩm, tiêm phòng",
+    "type": "STEP",
+    "parentId": "less_kh5_vikhuan_quanhta",
+    "examples": null
+  },
+  {
+    "id": "top_kh5_moitruong_tainguyen",
+    "name": "Môi trường & Tài nguyên",
+    "type": "TOPIC",
+    "parentId": "cat_kh5_connguoi_suckhoe_moitruong",
+    "examples": null
+  },
+  {
+    "id": "less_kh5_chucnang_baovemoitruong",
+    "name": "Chức năng môi trường & Bảo vệ",
+    "type": "LESSON",
+    "parentId": "top_kh5_moitruong_tainguyen",
+    "examples": [
+      {
+        "id": "ex_kh5_moitruong_01",
+        "question": "Trình bày 3 chức năng chính của môi trường tự nhiên đối với con người và các giải pháp bảo vệ tài nguyên.",
+        "answer": "• Ba chức năng môi trường: (1) Cung cấp thức ăn, nước uống, không khí và tài nguyên cho con người; (2) Là nơi chứa đựng các chất thải do con người tạo ra; (3) Là không gian sống bảo vệ con người và sinh vật.\n• Giải pháp bảo vệ: Phân loại rác tại nguồn, không xả rác/nước thải bẩn ra sông hồ, trồng cây xanh, ưu tiên dùng năng lượng sạch (mặt trời, gió).",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_kh5_moitruong_02",
+        "question": "Phân loại các tài nguyên thiên nhiên sau thành hai nhóm: tài nguyên có thể tái tạo và tài nguyên không thể tái tạo (hoặc có hạn): nước, than đá, rừng, gió, dầu mỏ, ánh sáng mặt trời, khoáng sản kim loại.",
+        "answer": "• Tài nguyên có thể tái tạo (tự phục hồi hoặc không cạn kiệt khi dùng hợp lí): nước, rừng, gió, ánh sáng mặt trời.\n• Tài nguyên không thể tái tạo/có hạn (mất rất lâu để hình thành, dùng sẽ cạn dần): than đá, dầu mỏ, khoáng sản kim loại.\n• Vì vậy cần sử dụng tiết kiệm tài nguyên không tái tạo, đồng thời khai thác hợp lí tài nguyên có thể tái tạo (ví dụ: trồng lại rừng đã khai thác).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_kh5_chucnang_baovemoitruong_b1",
+    "name": "3 chức năng của môi trường: cung cấp tài nguyên (thức ăn, nước, không khí); chứa đựng chất thải; là không gian sống",
+    "type": "STEP",
+    "parentId": "less_kh5_chucnang_baovemoitruong",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_chucnang_baovemoitruong_b2",
+    "name": "Tài nguyên tái tạo: nước, rừng, gió, ánh sáng mặt trời; Tài nguyên không tái tạo/có hạn: than đá, dầu mỏ, khoáng sản",
+    "type": "STEP",
+    "parentId": "less_kh5_chucnang_baovemoitruong",
+    "examples": null
+  },
+  {
+    "id": "step_kh5_chucnang_baovemoitruong_b3",
+    "name": "Bảo vệ: phân loại rác, không xả thải bừa bãi, trồng cây xanh, dùng năng lượng sạch",
+    "type": "STEP",
+    "parentId": "less_kh5_chucnang_baovemoitruong",
+    "examples": null
+  }
+]

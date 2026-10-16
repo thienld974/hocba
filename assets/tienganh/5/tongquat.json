@@ -1,0 +1,590 @@
+[
+  {
+    "id": "root_tienganh5",
+    "name": "Tiếng Anh lớp 5 - Sơ đồ tư duy toàn diện (Global Success & GDPT Mới)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "cat_ta5_vocabulary",
+    "name": "VOCABULARY",
+    "type": "CATEGORY",
+    "parentId": "root_tienganh5",
+    "examples": null
+  },
+  {
+    "id": "cat_ta5_grammar",
+    "name": "GRAMMAR",
+    "type": "CATEGORY",
+    "parentId": "root_tienganh5",
+    "examples": null
+  },
+  {
+    "id": "cat_ta5_phonics",
+    "name": "PHONICS AND PRONUNCIATION",
+    "type": "CATEGORY",
+    "parentId": "root_tienganh5",
+    "examples": null
+  },
+  {
+    "id": "cat_ta5_communication",
+    "name": "COMMUNICATION SKILLS",
+    "type": "CATEGORY",
+    "parentId": "root_tienganh5",
+    "examples": null
+  },
+  {
+    "id": "top_ta5_vocab_school",
+    "name": "Me and My School",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_subjects",
+    "name": "School Subjects & Classroom Activities",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_school",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_sub_01",
+        "question": "Complete the words for school subjects and activities: M_ths, Sc_ence, E_gl_sh, do p_oj_cts, s_lve m_ths pr_bl_ms.",
+        "answer": "• Maths (Môn Toán)\n• Science (Môn Khoa học)\n• English (Môn Tiếng Anh)\n• do projects (làm dự án học tập)\n• solve maths problems (giải bài tập toán)",
+        "mediaUrl": "<svg width='500' height='200' viewBox='0 0 500 200' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='500' height='200' fill='#FFFFFF'/>\n<circle cx='50' cy='65' r='35' fill='#DCEEFF' stroke='#1E88E5' stroke-width='3'/>\n<rect x='44' y='45' width='12' height='40' fill='#1E88E5'/>\n<rect x='30' y='59' width='40' height='12' fill='#1E88E5'/>\n<text x='50' y='150' text-anchor='middle' font-size='13' fill='#1565C0'>Maths</text>\n<polygon points='140,60 160,60 178,110 122,110' fill='#D1F2D1' stroke='#2E7D32' stroke-width='3' stroke-linejoin='round'/>\n<rect x='145' y='38' width='10' height='24' fill='#D1F2D1' stroke='#2E7D32' stroke-width='3'/>\n<circle cx='150' cy='90' r='4' fill='#66BB6A'/>\n<circle cx='140' cy='97' r='3' fill='#66BB6A'/>\n<circle cx='161' cy='85' r='3' fill='#66BB6A'/>\n<text x='150' y='150' text-anchor='middle' font-size='13' fill='#2E7D32'>Science</text>\n<polygon points='215,45 250,50 250,110 215,105' fill='#FFF3E0' stroke='#EF6C00' stroke-width='3' stroke-linejoin='round'/>\n<polygon points='285,45 250,50 250,110 285,105' fill='#FFF3E0' stroke='#EF6C00' stroke-width='3' stroke-linejoin='round'/>\n<line x1='222' y1='63' x2='245' y2='65' stroke='#EF6C00' stroke-width='2'/>\n<line x1='222' y1='75' x2='245' y2='77' stroke='#EF6C00' stroke-width='2'/>\n<line x1='222' y1='87' x2='245' y2='89' stroke='#EF6C00' stroke-width='2'/>\n<line x1='255' y1='65' x2='278' y2='63' stroke='#EF6C00' stroke-width='2'/>\n<line x1='255' y1='77' x2='278' y2='75' stroke='#EF6C00' stroke-width='2'/>\n<line x1='255' y1='89' x2='278' y2='87' stroke='#EF6C00' stroke-width='2'/>\n<text x='250' y='150' text-anchor='middle' font-size='13' fill='#E65100'>English</text>\n<rect x='320' y='40' width='60' height='45' fill='#FFFDE7' stroke='#F9A825' stroke-width='3' rx='3'/>\n<rect x='328' y='68' width='8' height='14' fill='#F9A825'/>\n<rect x='340' y='55' width='8' height='27' fill='#F9A825'/>\n<rect x='352' y='60' width='8' height='22' fill='#F9A825'/>\n<rect x='345' y='85' width='10' height='22' fill='#795548'/>\n<text x='350' y='150' text-anchor='middle' font-size='12' fill='#F57F17'>do projects</text>\n<rect x='420' y='38' width='60' height='75' fill='#E3F2FD' stroke='#1565C0' stroke-width='3' rx='4'/>\n<circle cx='425' cy='45' r='2' fill='#1565C0'/>\n<circle cx='425' cy='55' r='2' fill='#1565C0'/>\n<circle cx='425' cy='65' r='2' fill='#1565C0'/>\n<circle cx='425' cy='75' r='2' fill='#1565C0'/>\n<circle cx='425' cy='85' r='2' fill='#1565C0'/>\n<circle cx='425' cy='95' r='2' fill='#1565C0'/>\n<circle cx='425' cy='105' r='2' fill='#1565C0'/>\n<text x='452' y='80' text-anchor='middle' font-size='15' font-weight='bold' fill='#1565C0'>5+3=8</text>\n<text x='450' y='150' text-anchor='middle' font-size='11' fill='#0D47A1'>solve problems</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_vocab_rooms",
+    "name": "School Rooms & Locations",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_school",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_room_01",
+        "question": "Classify the words into Rooms and Location directions: art room, first floor, computer room, go upstairs, music room, go downstairs.",
+        "answer": "• School Rooms: art room (phòng mỹ thuật), computer room (phòng tin học), music room (phòng âm nhạc).\n• Locations & Directions: first floor (tầng 1), go upstairs (đi lên tầng), go downstairs (đi xuống tầng).",
+        "mediaUrl": "<svg width='430' height='300' viewBox='0 0 430 300' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='430' height='300' fill='#FFFFFF'/>\n<rect x='40' y='40' width='260' height='220' fill='#F5F5F5' stroke='#424242' stroke-width='3'/>\n<line x1='40' y1='150' x2='300' y2='150' stroke='#424242' stroke-width='2' stroke-dasharray='6,4'/>\n<text x='270' y='68' text-anchor='middle' font-size='12' font-style='italic' fill='#616161'>1st Floor</text>\n<rect x='60' y='60' width='90' height='70' fill='#FFE0B2' stroke='#EF6C00' stroke-width='2'/>\n<text x='105' y='100' text-anchor='middle' font-size='13' fill='#E65100'>Art Room</text>\n<text x='270' y='250' text-anchor='middle' font-size='12' font-style='italic' fill='#616161'>Ground Floor</text>\n<rect x='60' y='170' width='100' height='70' fill='#B3E5FC' stroke='#0277BD' stroke-width='2'/>\n<text x='110' y='200' text-anchor='middle' font-size='11' fill='#01579B'>Computer</text>\n<text x='110' y='215' text-anchor='middle' font-size='11' fill='#01579B'>Room</text>\n<rect x='170' y='170' width='100' height='70' fill='#F8BBD0' stroke='#AD1457' stroke-width='2'/>\n<text x='220' y='200' text-anchor='middle' font-size='11' fill='#880E4F'>Music</text>\n<text x='220' y='215' text-anchor='middle' font-size='11' fill='#880E4F'>Room</text>\n<line x1='360' y1='140' x2='360' y2='90' stroke='#2E7D32' stroke-width='4'/>\n<polygon points='360,78 350,95 370,95' fill='#2E7D32'/>\n<text x='360' y='68' text-anchor='middle' font-size='12' fill='#2E7D32'>Go upstairs</text>\n<line x1='360' y1='160' x2='360' y2='210' stroke='#C62828' stroke-width='4'/>\n<polygon points='360,222 350,205 370,205' fill='#C62828'/>\n<text x='360' y='242' text-anchor='middle' font-size='12' fill='#C62828'>Go downstairs</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_vocab_home",
+    "name": "Me and My Home",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_homes_address",
+    "name": "Types of Homes & Addresses",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_home",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_home_01",
+        "question": "Fill in the blanks with appropriate address and home vocabulary: 'I live in a quiet ______ (căn hộ) on the third floor of Ha Noi ______ (tòa tháp) on Le Loi ______ (đường phố).'",
+        "answer": "• Answers: flat (căn hộ), Tower (tòa tháp), Street (đường phố).\n• Full sentence: 'I live in a quiet flat on the third floor of Ha Noi Tower on Le Loi Street.'",
+        "mediaUrl": "<svg width='300' height='320' viewBox='0 0 300 320' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='300' height='320' fill='#FFFFFF'/>\n<text x='130' y='28' text-anchor='middle' font-size='15' font-weight='bold' fill='#263238'>Ha Noi Tower</text>\n<rect x='70' y='40' width='120' height='220' fill='#ECEFF1' stroke='#37474F' stroke-width='3'/>\n<line x1='70' y1='76.7' x2='190' y2='76.7' stroke='#90A4AE' stroke-width='1.5'/>\n<line x1='70' y1='113.3' x2='190' y2='113.3' stroke='#90A4AE' stroke-width='1.5'/>\n<line x1='70' y1='150' x2='190' y2='150' stroke='#90A4AE' stroke-width='1.5'/>\n<line x1='70' y1='186.7' x2='190' y2='186.7' stroke='#90A4AE' stroke-width='1.5'/>\n<line x1='70' y1='223.3' x2='190' y2='223.3' stroke='#90A4AE' stroke-width='1.5'/>\n<rect x='70' y='150' width='120' height='36.7' fill='#FFF59D' fill-opacity='0.7'/>\n<rect x='90' y='47' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='144' y='47' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='90' y='84' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='144' y='84' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='90' y='120' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='144' y='120' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='125' y='159' width='10' height='18' fill='#5D4037'/>\n<text x='130' y='143' text-anchor='middle' font-size='11' fill='#F57F17' font-weight='bold'>3rd Floor</text>\n<rect x='90' y='194' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='144' y='194' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='90' y='230' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<rect x='144' y='230' width='16' height='16' fill='#90CAF9' stroke='#1565C0' stroke-width='1'/>\n<line x1='50' y1='260' x2='250' y2='260' stroke='#212121' stroke-width='3'/>\n<rect x='0' y='280' width='300' height='30' fill='#9E9E9E'/>\n<line x1='0' y1='295' x2='300' y2='295' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='10,8'/>\n<rect x='20' y='250' width='120' height='24' fill='#2E7D32'/>\n<text x='80' y='267' text-anchor='middle' font-size='12' font-weight='bold' fill='#FFFFFF'>Le Loi Street</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_vocab_freetime",
+    "name": "Free-time Activities at Home",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_home",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_free_01",
+        "question": "Match the verbs with activities: (1) surf, (2) water, (3) read, (4) play with (A) comic books, (B) the flowers, (C) the Internet, (D) my cat.",
+        "answer": "• 1-C: surf the Internet (lướt mạng)\n• 2-B: water the flowers (tưới hoa)\n• 3-A: read comic books (đọc truyện tranh)\n• 4-D: play with my cat (chơi với mèo)",
+        "mediaUrl": "<svg width='500' height='200' viewBox='0 0 500 200' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='500' height='200' fill='#FFFFFF'/>\n<rect x='35' y='50' width='60' height='40' rx='3' fill='#263238'/>\n<rect x='39' y='54' width='52' height='32' fill='#4FC3F7'/>\n<polygon points='25,90 105,90 95,98 35,98' fill='#455A64'/>\n<path d='M55,38 Q65,28 75,38' stroke='#90A4AE' stroke-width='2' fill='none'/>\n<path d='M50,32 Q65,16 80,32' stroke='#90A4AE' stroke-width='2' fill='none'/>\n<text x='65' y='150' text-anchor='middle' font-size='11' fill='#01579B'>surf the Internet</text>\n<ellipse cx='165' cy='95' rx='17' ry='13' fill='#26A69A' stroke='#00695C' stroke-width='2'/>\n<path d='M153,85 Q165,65 178,83' stroke='#00695C' stroke-width='3' fill='none' stroke-linecap='round'/>\n<polygon points='180,88 205,70 210,73 188,95' fill='#26A69A' stroke='#00695C' stroke-width='2' stroke-linejoin='round'/>\n<ellipse cx='208' cy='68' rx='7' ry='5' fill='#26A69A' stroke='#00695C' stroke-width='2'/>\n<circle cx='210' cy='75' r='1.5' fill='#4FC3F7'/>\n<circle cx='215' cy='80' r='1.5' fill='#4FC3F7'/>\n<circle cx='219' cy='86' r='1.5' fill='#4FC3F7'/>\n<line x1='235' y1='115' x2='235' y2='75' stroke='#2E7D32' stroke-width='3'/>\n<ellipse cx='235' cy='65' rx='9' ry='5' fill='#F06292' transform='rotate(0 235 65)'/>\n<ellipse cx='235' cy='65' rx='9' ry='5' fill='#F06292' transform='rotate(72 235 65)'/>\n<ellipse cx='235' cy='65' rx='9' ry='5' fill='#F06292' transform='rotate(144 235 65)'/>\n<ellipse cx='235' cy='65' rx='9' ry='5' fill='#F06292' transform='rotate(216 235 65)'/>\n<ellipse cx='235' cy='65' rx='9' ry='5' fill='#F06292' transform='rotate(288 235 65)'/>\n<circle cx='235' cy='65' r='5' fill='#FBC02D'/>\n<text x='190' y='150' text-anchor='middle' font-size='11' fill='#2E7D32'>water the flowers</text>\n<polygon points='285,55 315,60 315,110 285,105' fill='#FFF9C4' stroke='#F57F17' stroke-width='3' stroke-linejoin='round'/>\n<polygon points='345,55 315,60 315,110 345,105' fill='#FFF9C4' stroke='#F57F17' stroke-width='3' stroke-linejoin='round'/>\n<polygon points='330,68 333,76 341,76 334,81 337,89 330,84 323,89 326,81 319,76 327,76' fill='#EF5350'/>\n<text x='315' y='150' text-anchor='middle' font-size='11' fill='#E65100'>read comic books</text>\n<circle cx='440' cy='80' r='20' fill='#8D6E63'/>\n<polygon points='424,66 431,44 440,65' fill='#8D6E63'/>\n<polygon points='440,65 449,44 456,66' fill='#8D6E63'/>\n<polygon points='427,61 431,49 435,61' fill='#BCAAA4'/>\n<polygon points='445,61 449,49 453,61' fill='#BCAAA4'/>\n<ellipse cx='433' cy='78' rx='2.3' ry='3' fill='#000000'/>\n<ellipse cx='447' cy='78' rx='2.3' ry='3' fill='#000000'/>\n<polygon points='437,85 443,85 440,89' fill='#F06292'/>\n<path d='M440,89 Q435,94 429,90' stroke='#000000' stroke-width='1' fill='none'/>\n<path d='M440,89 Q445,94 451,90' stroke='#000000' stroke-width='1' fill='none'/>\n<line x1='417' y1='82' x2='430' y2='80' stroke='#5D4037' stroke-width='1'/>\n<line x1='417' y1='88' x2='430' y2='86' stroke='#5D4037' stroke-width='1'/>\n<line x1='463' y1='82' x2='450' y2='80' stroke='#5D4037' stroke-width='1'/>\n<line x1='463' y1='88' x2='450' y2='86' stroke='#5D4037' stroke-width='1'/>\n<circle cx='410' cy='115' r='12' fill='#FF7043' stroke='#BF360C' stroke-width='2'/>\n<path d='M400,110 Q410,115 400,120' stroke='#BF360C' stroke-width='1.5' fill='none'/>\n<path d='M420,110 Q410,115 420,120' stroke='#BF360C' stroke-width='1.5' fill='none'/>\n<text x='440' y='150' text-anchor='middle' font-size='11' fill='#4E342E'>play with my cat</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_vocab_world",
+    "name": "Me and The World Around",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_transport_places",
+    "name": "Means of Transport & Places to Visit",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_world",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_trans_01",
+        "question": "Categorize the vocabulary into Means of Transport and Places to Visit: taxi, Ha Long Bay, underground, Phu Quoc Island, coach, Ba Na Hills.",
+        "answer": "• Means of Transport: taxi (xe taxi), underground (tàu điện ngầm), coach (xe khách đường dài).\n• Places to Visit: Ha Long Bay (Vịnh Hạ Long), Phu Quoc Island (Đảo Phú Quốc), Ba Na Hills (Bà Nà Hills).",
+        "mediaUrl": "<svg width='480' height='260' viewBox='0 0 480 260' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='480' height='260' fill='#FFFFFF'/>\n<rect x='45' y='70' width='70' height='30' rx='8' fill='#FDD835' stroke='#F57F17' stroke-width='2'/>\n<rect x='60' y='55' width='40' height='20' rx='4' fill='#FDD835' stroke='#F57F17' stroke-width='2'/>\n<rect x='64' y='58' width='14' height='12' fill='#B3E5FC'/>\n<rect x='82' y='58' width='14' height='12' fill='#B3E5FC'/>\n<rect x='45' y='85' width='70' height='4' fill='#212121'/>\n<circle cx='60' cy='100' r='8' fill='#212121'/>\n<circle cx='60' cy='100' r='3' fill='#757575'/>\n<circle cx='100' cy='100' r='8' fill='#212121'/>\n<circle cx='100' cy='100' r='3' fill='#757575'/>\n<text x='80' y='130' text-anchor='middle' font-size='13' fill='#F57F17'>taxi</text>\n<rect x='205' y='60' width='70' height='35' rx='10' fill='#0D47A1' stroke='#08306B' stroke-width='2'/>\n<rect x='213' y='68' width='12' height='12' fill='#90CAF9' stroke='#08306B' stroke-width='1'/>\n<rect x='234' y='68' width='12' height='12' fill='#90CAF9' stroke='#08306B' stroke-width='1'/>\n<rect x='255' y='68' width='12' height='12' fill='#90CAF9' stroke='#08306B' stroke-width='1'/>\n<line x1='195' y1='100' x2='285' y2='100' stroke='#616161' stroke-width='4'/>\n<circle cx='215' cy='100' r='5' fill='#212121'/>\n<circle cx='265' cy='100' r='5' fill='#212121'/>\n<path d='M215,58 Q240,35 265,58' fill='none' stroke='#0D47A1' stroke-width='4'/>\n<text x='240' y='130' text-anchor='middle' font-size='13' fill='#0D47A1'>underground</text>\n<rect x='355' y='55' width='90' height='40' rx='8' fill='#66BB6A' stroke='#2E7D32' stroke-width='2'/>\n<rect x='365' y='62' width='14' height='14' fill='#E8F5E9' stroke='#2E7D32' stroke-width='1'/>\n<rect x='383' y='62' width='14' height='14' fill='#E8F5E9' stroke='#2E7D32' stroke-width='1'/>\n<rect x='401' y='62' width='14' height='14' fill='#E8F5E9' stroke='#2E7D32' stroke-width='1'/>\n<rect x='419' y='62' width='14' height='14' fill='#E8F5E9' stroke='#2E7D32' stroke-width='1'/>\n<line x1='355' y1='85' x2='445' y2='85' stroke='#2E7D32' stroke-width='1.5'/>\n<circle cx='375' cy='100' r='8' fill='#212121'/>\n<circle cx='375' cy='100' r='3' fill='#757575'/>\n<circle cx='425' cy='100' r='8' fill='#212121'/>\n<circle cx='425' cy='100' r='3' fill='#757575'/>\n<text x='400' y='130' text-anchor='middle' font-size='13' fill='#2E7D32'>coach</text>\n<line x1='0' y1='155' x2='480' y2='155' stroke='#E0E0E0' stroke-width='1'/>\n<rect x='30' y='190' width='100' height='40' fill='#4FC3F7'/>\n<path d='M35,205 Q45,200 55,205 Q65,210 75,205' stroke='#0288D1' stroke-width='1.5' fill='none'/>\n<path d='M85,208 Q95,203 105,208 Q115,213 125,208' stroke='#0288D1' stroke-width='1.5' fill='none'/>\n<path d='M50,190 C53,165 62,150 68,190 Z' fill='#8D6E63' stroke='#4E342E' stroke-width='1.5'/>\n<path d='M68,190 C71,170 80,158 86,190 Z' fill='#A1887F' stroke='#4E342E' stroke-width='1.5'/>\n<path d='M86,190 C89,172 97,160 102,190 Z' fill='#8D6E63' stroke='#4E342E' stroke-width='1.5'/>\n<text x='80' y='250' text-anchor='middle' font-size='12' fill='#01579B'>Ha Long Bay</text>\n<rect x='190' y='190' width='100' height='40' fill='#4FC3F7'/>\n<path d='M35,205 Q45,200 55,205' stroke='#0288D1' stroke-width='0' fill='none'/>\n<ellipse cx='240' cy='195' rx='34' ry='9' fill='#F4E4A1' stroke='#C9A227' stroke-width='2'/>\n<line x1='240' y1='195' x2='234' y2='163' stroke='#795548' stroke-width='4'/>\n<path d='M234,163 Q214,158 210,172' fill='#43A047'/>\n<path d='M234,163 Q220,148 228,138' fill='#43A047'/>\n<path d='M234,163 Q248,150 260,155' fill='#43A047'/>\n<path d='M234,163 Q252,168 258,180' fill='#43A047'/>\n<text x='240' y='250' text-anchor='middle' font-size='12' fill='#01579B'>Phu Quoc Island</text>\n<polygon points='355,230 400,158 445,230' fill='#81C784' stroke='#2E7D32' stroke-width='2'/>\n<rect x='394' y='143' width='12' height='16' fill='#E0E0E0' stroke='#616161' stroke-width='1.5'/>\n<polygon points='392,143 400,133 408,143' fill='#C62828'/>\n<line x1='352' y1='202' x2='448' y2='176' stroke='#616161' stroke-width='2'/>\n<line x1='400' y1='189' x2='400' y2='196' stroke='#616161' stroke-width='1.5'/>\n<rect x='393' y='196' width='14' height='9' rx='2' fill='#EF5350' stroke='#B71C1C' stroke-width='1'/>\n<text x='400' y='250' text-anchor='middle' font-size='12' fill='#2E7D32'>Ba Na Hills</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_vocab_seasons_weather",
+    "name": "Seasons and Weather",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_world",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_weather_01",
+        "question": "Match seasons with typical weather characteristics in Viet Nam: Spring, Summer, Autumn, Winter vs hot/sunny, cold/dry, warm/humid, cool/windy.",
+        "answer": "• Spring - warm/humid (Mùa xuân - ấm áp, ẩm ướt)\n• Summer - hot/sunny (Mùa hè - nóng, nắng nhiều)\n• Autumn - cool/windy (Mùa thu - mát mẻ, có gió)\n• Winter - cold/dry (Mùa đông - lạnh, khô)",
+        "mediaUrl": "<svg width='480' height='200' viewBox='0 0 480 200' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='480' height='200' fill='#FFFFFF'/>\n<circle cx='38' cy='42' r='12' fill='#FFEE58'/>\n<line x1='60' y1='110' x2='60' y2='72' stroke='#2E7D32' stroke-width='3'/>\n<ellipse cx='60' cy='62' rx='8' ry='5' fill='#F06292' transform='rotate(0 60 62)'/>\n<ellipse cx='60' cy='62' rx='8' ry='5' fill='#F06292' transform='rotate(72 60 62)'/>\n<ellipse cx='60' cy='62' rx='8' ry='5' fill='#F06292' transform='rotate(144 60 62)'/>\n<ellipse cx='60' cy='62' rx='8' ry='5' fill='#F06292' transform='rotate(216 60 62)'/>\n<ellipse cx='60' cy='62' rx='8' ry='5' fill='#F06292' transform='rotate(288 60 62)'/>\n<circle cx='60' cy='62' r='5' fill='#FBC02D'/>\n<path d='M85,48 C85,44 90,44 90,48 C90,52 85,54 85,58 C85,54 80,52 80,48 C80,44 85,44 85,48 Z' fill='#4FC3F7'/>\n<text x='60' y='150' text-anchor='middle' font-size='12' fill='#2E7D32'>Spring</text>\n<text x='60' y='166' text-anchor='middle' font-size='10' fill='#2E7D32'>warm / humid</text>\n<circle cx='180' cy='70' r='25' fill='#FFB300'/>\n<line x1='180' y1='30' x2='180' y2='16' stroke='#FFB300' stroke-width='3'/>\n<line x1='180' y1='110' x2='180' y2='124' stroke='#FFB300' stroke-width='3'/>\n<line x1='140' y1='70' x2='126' y2='70' stroke='#FFB300' stroke-width='3'/>\n<line x1='220' y1='70' x2='234' y2='70' stroke='#FFB300' stroke-width='3'/>\n<line x1='151' y1='41' x2='142' y2='32' stroke='#FFB300' stroke-width='3'/>\n<line x1='209' y1='41' x2='218' y2='32' stroke='#FFB300' stroke-width='3'/>\n<line x1='151' y1='99' x2='142' y2='108' stroke='#FFB300' stroke-width='3'/>\n<line x1='209' y1='99' x2='218' y2='108' stroke='#FFB300' stroke-width='3'/>\n<text x='180' y='150' text-anchor='middle' font-size='12' fill='#E65100'>Summer</text>\n<text x='180' y='166' text-anchor='middle' font-size='10' fill='#E65100'>hot / sunny</text>\n<ellipse cx='300' cy='60' rx='13' ry='19' fill='#EF6C00'/>\n<line x1='300' y1='45' x2='300' y2='75' stroke='#BF360C' stroke-width='1.5'/>\n<line x1='300' y1='79' x2='300' y2='92' stroke='#795548' stroke-width='2'/>\n<path d='M262,50 Q277,44 292,50' stroke='#90A4AE' stroke-width='2' fill='none'/>\n<path d='M258,64 Q273,58 288,64' stroke='#90A4AE' stroke-width='2' fill='none'/>\n<path d='M262,78 Q277,72 292,78' stroke='#90A4AE' stroke-width='2' fill='none'/>\n<text x='300' y='150' text-anchor='middle' font-size='12' fill='#EF6C00'>Autumn</text>\n<text x='300' y='166' text-anchor='middle' font-size='10' fill='#EF6C00'>cool / windy</text>\n<line x1='420' y1='45' x2='420' y2='95' stroke='#4FC3F7' stroke-width='3' stroke-linecap='round'/>\n<line x1='398' y1='57' x2='442' y2='83' stroke='#4FC3F7' stroke-width='3' stroke-linecap='round'/>\n<line x1='442' y1='57' x2='398' y2='83' stroke='#4FC3F7' stroke-width='3' stroke-linecap='round'/>\n<text x='420' y='150' text-anchor='middle' font-size='12' fill='#0277BD'>Winter</text>\n<text x='420' y='166' text-anchor='middle' font-size='10' fill='#0277BD'>cold / dry</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_vocab_zoo_animals",
+    "name": "Zoo Animals: What did you see?",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_world",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_zoo_01",
+        "question": "Complete the animal names and the past simple question-answer: eleph_nt, gir_ffe, m_nkey, cr_c_dile. 'What did you see at the zoo? - I saw a ______ and a ______.'",
+        "answer": "• elephant (con voi), giraffe (hươu cao cổ), monkey (con khỉ), crocodile (cá sấu).\n• Structure: 'What did you see at the zoo?' -> 'I saw a/an + [tên con vật].'\n• Ví dụ: 'I saw an elephant and a giraffe.'",
+        "mediaUrl": "<svg width='480' height='220' viewBox='0 0 480 220' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='480' height='220' fill='#FFFFFF'/>\n<ellipse cx='60' cy='100' rx='35' ry='22' fill='#B0BEC5' stroke='#455A64' stroke-width='2'/>\n<circle cx='95' cy='90' r='18' fill='#B0BEC5' stroke='#455A64' stroke-width='2'/>\n<ellipse cx='100' cy='78' rx='13' ry='15' fill='#90A4AE' stroke='#455A64' stroke-width='1.5'/>\n<path d='M108,95 Q120,105 113,120 Q109,129 100,126' stroke='#455A64' stroke-width='5' fill='none' stroke-linecap='round'/>\n<rect x='45' y='115' width='8' height='18' fill='#90A4AE'/>\n<rect x='70' y='115' width='8' height='18' fill='#90A4AE'/>\n<circle cx='99' cy='86' r='2' fill='#000000'/>\n<text x='70' y='170' text-anchor='middle' font-size='13' fill='#37474F'>elephant</text>\n<ellipse cx='180' cy='120' rx='22' ry='14' fill='#FFD54F' stroke='#F57F17' stroke-width='2'/>\n<rect x='185' y='55' width='12' height='65' fill='#FFD54F' stroke='#F57F17' stroke-width='2'/>\n<ellipse cx='191' cy='48' rx='10' ry='8' fill='#FFD54F' stroke='#F57F17' stroke-width='2'/>\n<line x1='186' y1='40' x2='186' y2='31' stroke='#F57F17' stroke-width='2'/>\n<circle cx='186' cy='30' r='2' fill='#F57F17'/>\n<line x1='196' y1='40' x2='196' y2='31' stroke='#F57F17' stroke-width='2'/>\n<circle cx='196' cy='30' r='2' fill='#F57F17'/>\n<rect x='170' y='130' width='6' height='25' fill='#FFD54F' stroke='#F57F17' stroke-width='2'/>\n<rect x='190' y='130' width='6' height='25' fill='#FFD54F' stroke='#F57F17' stroke-width='2'/>\n<circle cx='195' cy='46' r='1.5' fill='#000000'/>\n<circle cx='188' cy='70' r='3' fill='#F57F17'/>\n<circle cx='193' cy='92' r='3' fill='#F57F17'/>\n<circle cx='176' cy='118' r='3' fill='#F57F17'/>\n<text x='188' y='170' text-anchor='middle' font-size='13' fill='#F57F17'>giraffe</text>\n<circle cx='300' cy='80' r='20' fill='#8D6E63'/>\n<ellipse cx='300' cy='85' rx='12' ry='10' fill='#D7CCC8'/>\n<circle cx='283' cy='72' r='7' fill='#8D6E63' stroke='#4E342E' stroke-width='1.5'/>\n<circle cx='317' cy='72' r='7' fill='#8D6E63' stroke='#4E342E' stroke-width='1.5'/>\n<circle cx='295' cy='80' r='2' fill='#000000'/>\n<circle cx='305' cy='80' r='2' fill='#000000'/>\n<ellipse cx='300' cy='118' rx='16' ry='18' fill='#8D6E63' stroke='#4E342E' stroke-width='2'/>\n<path d='M316,125 Q335,120 330,100 Q327,90 335,85' stroke='#8D6E63' stroke-width='4' fill='none' stroke-linecap='round'/>\n<text x='305' y='170' text-anchor='middle' font-size='13' fill='#4E342E'>monkey</text>\n<ellipse cx='415' cy='115' rx='45' ry='14' fill='#66BB6A' stroke='#2E7D32' stroke-width='2'/>\n<polygon points='455,110 476,113 455,120' fill='#66BB6A' stroke='#2E7D32' stroke-width='2' stroke-linejoin='round'/>\n<polygon points='458,112 461,115 458,117' fill='#FFFFFF'/>\n<polygon points='464,112 467,115 464,117' fill='#FFFFFF'/>\n<circle cx='448' cy='104' r='3' fill='#2E7D32'/>\n<polygon points='385,102 390,95 395,102' fill='#2E7D32'/>\n<polygon points='400,102 405,95 410,102' fill='#2E7D32'/>\n<polygon points='415,102 420,95 425,102' fill='#2E7D32'/>\n<rect x='385' y='125' width='6' height='10' fill='#2E7D32'/>\n<rect x='435' y='125' width='6' height='10' fill='#2E7D32'/>\n<text x='425' y='170' text-anchor='middle' font-size='13' fill='#2E7D32'>crocodile</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_vocab_health_sports",
+    "name": "Our Health and Sports",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_health_problems",
+    "name": "Common Illnesses & Health Advice",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_health_sports",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_health_01",
+        "question": "Complete the health problem words and match with advice: (1) head_che, (2) tooth_che, (3) sore thr_at -> (A) go to the dentist, (B) take some medicine, (C) drink warm water.",
+        "answer": "• 1. headache -> B: take some medicine (đau đầu -> uống thuốc)\n• 2. toothache -> A: go to the dentist (đau răng -> đi khám nha sĩ)\n• 3. sore throat -> C: drink warm water (đau họng -> uống nước ấm)",
+        "mediaUrl": "<svg width='400' height='220' viewBox='0 0 400 220' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='400' height='220' fill='#FFFFFF'/>\n<circle cx='67' cy='78' r='28' fill='#FFE0B2' stroke='#E65100' stroke-width='2'/>\n<circle cx='58' cy='75' r='2' fill='#5D4037'/>\n<circle cx='76' cy='75' r='2' fill='#5D4037'/>\n<path d='M58,90 Q67,85 76,90' stroke='#5D4037' stroke-width='1.5' fill='none'/>\n<polyline points='42,52 50,40 56,50 62,38' stroke='#D32F2F' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/>\n<polyline points='70,40 76,50 82,38 90,48' stroke='#D32F2F' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/>\n<rect x='47' y='130' width='40' height='16' rx='8' fill='#EF5350' stroke='#B71C1C' stroke-width='1.5'/>\n<path d='M67,130 v16' stroke='#B71C1C' stroke-width='1.5'/>\n<rect x='47' y='130' width='20' height='16' rx='8' fill='#FFFFFF' stroke='#B71C1C' stroke-width='1.5'/>\n<text x='67' y='180' text-anchor='middle' font-size='13' fill='#D32F2F'>headache</text>\n<text x='67' y='196' text-anchor='middle' font-size='10' fill='#616161'>take medicine</text>\n<ellipse cx='200' cy='63' rx='17' ry='15' fill='#FFFFFF' stroke='#90A4AE' stroke-width='2'/>\n<rect x='192' y='75' width='6' height='20' rx='2' fill='#FFFFFF' stroke='#90A4AE' stroke-width='2'/>\n<rect x='204' y='75' width='6' height='20' rx='2' fill='#FFFFFF' stroke='#90A4AE' stroke-width='2'/>\n<polyline points='182,45 188,34 194,44 200,32' stroke='#D32F2F' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/>\n<rect x='234' y='50' width='9' height='26' fill='#D32F2F'/>\n<rect x='224' y='60' width='29' height='9' fill='#D32F2F'/>\n<text x='210' y='180' text-anchor='middle' font-size='13' fill='#607D8B'>toothache</text>\n<text x='210' y='196' text-anchor='middle' font-size='10' fill='#616161'>go to the dentist</text>\n<circle cx='330' cy='55' r='18' fill='#FFE0B2' stroke='#E65100' stroke-width='2'/>\n<rect x='322' y='70' width='16' height='25' fill='#FFE0B2' stroke='#E65100' stroke-width='2'/>\n<path d='M310,82 Q315,76 320,82 Q325,88 330,82' stroke='#D32F2F' stroke-width='2' fill='none'/>\n<path d='M310,92 Q315,86 320,92 Q325,98 330,92' stroke='#D32F2F' stroke-width='2' fill='none'/>\n<polygon points='355,140 375,140 371,172 359,172' fill='#B3E5FC' stroke='#0277BD' stroke-width='2'/>\n<rect x='357' y='146' width='16' height='4' fill='#4FC3F7'/>\n<text x='343' y='190' text-anchor='middle' font-size='13' fill='#E65100'>sore throat</text>\n<text x='343' y='205' text-anchor='middle' font-size='10' fill='#616161'>drink warm water</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_vocab_sports",
+    "name": "Sports & Staying Healthy",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_health_sports",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_sports_01",
+        "question": "Fill in the correct collocations with 'play', 'do', or 'go': (1) ______ morning exercise, (2) ______ table tennis, (3) ______ swimming, (4) ______ judo.",
+        "answer": "• (1) do morning exercise (tập thể dục buổi sáng)\n• (2) play table tennis (chơi bóng bàn)\n• (3) go swimming (đi bơi)\n• (4) do judo (tập võ judo)\n• Note Rule: 'play' + ball sports; 'do' + martial arts/exercises; 'go' + -ing activities.",
+        "mediaUrl": "<svg width='480' height='200' viewBox='0 0 480 200' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='480' height='200' fill='#FFFFFF'/>\n<circle cx='28' cy='30' r='10' fill='#FFEE58'/>\n<circle cx='60' cy='55' r='8' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<line x1='60' y1='63' x2='60' y2='95' stroke='#1565C0' stroke-width='4' stroke-linecap='round'/>\n<line x1='60' y1='70' x2='44' y2='48' stroke='#1565C0' stroke-width='4' stroke-linecap='round'/>\n<line x1='60' y1='70' x2='76' y2='48' stroke='#1565C0' stroke-width='4' stroke-linecap='round'/>\n<line x1='60' y1='95' x2='47' y2='125' stroke='#1565C0' stroke-width='4' stroke-linecap='round'/>\n<line x1='60' y1='95' x2='73' y2='125' stroke='#1565C0' stroke-width='4' stroke-linecap='round'/>\n<text x='60' y='155' text-anchor='middle' font-size='12' fill='#1565C0'>do morning</text>\n<text x='60' y='170' text-anchor='middle' font-size='12' fill='#1565C0'>exercise</text>\n<rect x='155' y='90' width='70' height='7' fill='#1565C0'/>\n<line x1='160' y1='97' x2='160' y2='120' stroke='#424242' stroke-width='3'/>\n<line x1='220' y1='97' x2='220' y2='120' stroke='#424242' stroke-width='3'/>\n<line x1='187' y1='75' x2='187' y2='90' stroke='#424242' stroke-width='3'/>\n<line x1='177' y1='80' x2='197' y2='80' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='3,2'/>\n<circle cx='150' cy='60' r='11' fill='#D32F2F' stroke='#212121' stroke-width='1.5'/>\n<rect x='147' y='68' width='6' height='16' fill='#5D4037'/>\n<circle cx='178' cy='55' r='4' fill='#FFEE58' stroke='#F57F17' stroke-width='1'/>\n<text x='190' y='155' text-anchor='middle' font-size='12' fill='#212121'>play table</text>\n<text x='190' y='170' text-anchor='middle' font-size='12' fill='#212121'>tennis</text>\n<path d='M262,108 Q272,100 282,108 Q292,116 302,108 Q312,100 322,108' stroke='#4FC3F7' stroke-width='3' fill='none'/>\n<path d='M262,120 Q272,112 282,120 Q292,128 302,120 Q312,112 322,120' stroke='#4FC3F7' stroke-width='3' fill='none'/>\n<circle cx='290' cy='82' r='9' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<line x1='290' y1='90' x2='308' y2='98' stroke='#0288D1' stroke-width='5' stroke-linecap='round'/>\n<line x1='290' y1='88' x2='275' y2='78' stroke='#0288D1' stroke-width='4' stroke-linecap='round'/>\n<text x='295' y='155' text-anchor='middle' font-size='12' fill='#0288D1'>go</text>\n<text x='295' y='170' text-anchor='middle' font-size='12' fill='#0288D1'>swimming</text>\n<circle cx='420' cy='55' r='9' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<polygon points='405,63 435,63 440,105 400,105' fill='#FFFFFF' stroke='#212121' stroke-width='2'/>\n<line x1='420' y1='63' x2='412' y2='80' stroke='#212121' stroke-width='2'/>\n<line x1='420' y1='63' x2='428' y2='80' stroke='#212121' stroke-width='2'/>\n<rect x='400' y='95' width='40' height='8' fill='#212121'/>\n<line x1='410' y1='105' x2='405' y2='130' stroke='#212121' stroke-width='4' stroke-linecap='round'/>\n<line x1='430' y1='105' x2='435' y2='130' stroke='#212121' stroke-width='4' stroke-linecap='round'/>\n<text x='420' y='155' text-anchor='middle' font-size='12' fill='#212121'>do judo</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_vocab_jobs",
+    "name": "Jobs of Family Members",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_jobs",
+    "name": "Occupations: Farmer, Doctor, Teacher, Engineer",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_jobs",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_jobs_01",
+        "question": "Complete the occupation words and the question-answer pattern: f_rmer, d_ctor, eng_neer, w_rker. 'What does your father do?' - 'He's a ______.'",
+        "answer": "• farmer (nông dân), doctor (bác sĩ), engineer (kỹ sư), worker (công nhân).\n• Structure: What does + your father/mother + do? -> He/She is + a/an + [nghề nghiệp].\n• Ví dụ: 'What does your father do? - He's a farmer.'",
+        "mediaUrl": "<svg width='480' height='200' viewBox='0 0 480 200' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='480' height='200' fill='#FFFFFF'/>\n<path d='M40,48 A20,15 0 0 1 80,48 Z' fill='#FBC02D' stroke='#F57F17' stroke-width='1.5'/>\n<ellipse cx='60' cy='48' rx='24' ry='6' fill='#FBC02D' stroke='#F57F17' stroke-width='1.5'/>\n<circle cx='60' cy='58' r='11' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<polygon points='46,68 74,68 78,110 42,110' fill='#4FC3F7' stroke='#0277BD' stroke-width='2'/>\n<line x1='78' y1='104' x2='96' y2='72' stroke='#795548' stroke-width='2.5'/>\n<ellipse cx='96' cy='72' rx='3' ry='5' fill='#FBC02D' transform='rotate(20 96 72)'/>\n<ellipse cx='90' cy='80' rx='3' ry='5' fill='#FBC02D' transform='rotate(20 90 80)'/>\n<ellipse cx='84' cy='88' rx='3' ry='5' fill='#FBC02D' transform='rotate(20 84 88)'/>\n<text x='60' y='155' text-anchor='middle' font-size='13' fill='#F57F17'>farmer</text>\n<circle cx='180' cy='58' r='11' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<polygon points='166,68 194,68 198,110 162,110' fill='#FFFFFF' stroke='#90A4AE' stroke-width='2'/>\n<path d='M172,71 Q164,85 172,95' stroke='#212121' stroke-width='2' fill='none'/>\n<path d='M188,71 Q196,85 188,95' stroke='#212121' stroke-width='2' fill='none'/>\n<circle cx='180' cy='97' r='4' fill='#212121'/>\n<rect x='177' y='102' width='6' height='2' fill='#D32F2F'/>\n<rect x='179' y='100' width='2' height='6' fill='#D32F2F'/>\n<text x='180' y='155' text-anchor='middle' font-size='13' fill='#455A64'>doctor</text>\n<circle cx='300' cy='60' r='11' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<path d='M288,57 A12,10 0 0 1 312,57 Z' fill='#FDD835' stroke='#F57F17' stroke-width='1.5'/>\n<rect x='285' y='55' width='30' height='4' fill='#FDD835' stroke='#F57F17' stroke-width='1'/>\n<polygon points='288,70 312,70 316,110 284,110' fill='#8D6E63' stroke='#4E342E' stroke-width='2'/>\n<circle cx='326' cy='92' r='9' fill='none' stroke='#616161' stroke-width='3'/>\n<circle cx='326' cy='92' r='3' fill='#616161'/>\n<line x1='335.0' y1='92.0' x2='339.0' y2='92.0' stroke='#616161' stroke-width='2.5'/>\n<line x1='332.4' y1='98.4' x2='335.2' y2='101.2' stroke='#616161' stroke-width='2.5'/>\n<line x1='326.0' y1='101.0' x2='326.0' y2='105.0' stroke='#616161' stroke-width='2.5'/>\n<line x1='319.6' y1='98.4' x2='316.8' y2='101.2' stroke='#616161' stroke-width='2.5'/>\n<line x1='317.0' y1='92.0' x2='313.0' y2='92.0' stroke='#616161' stroke-width='2.5'/>\n<line x1='319.6' y1='85.6' x2='316.8' y2='82.8' stroke='#616161' stroke-width='2.5'/>\n<line x1='326.0' y1='83.0' x2='326.0' y2='79.0' stroke='#616161' stroke-width='2.5'/>\n<line x1='332.4' y1='85.6' x2='335.2' y2='82.8' stroke='#616161' stroke-width='2.5'/>\n<text x='300' y='155' text-anchor='middle' font-size='13' fill='#6D4C41'>engineer</text>\n<circle cx='420' cy='60' r='11' fill='#FFCC80' stroke='#5D4037' stroke-width='1'/>\n<path d='M408,57 A12,10 0 0 1 432,57 Z' fill='#FFEE58' stroke='#F9A825' stroke-width='1.5'/>\n<rect x='405' y='55' width='30' height='4' fill='#FFEE58' stroke='#F9A825' stroke-width='1'/>\n<polygon points='408,70 432,70 436,110 404,110' fill='#FF7043' stroke='#BF360C' stroke-width='2'/>\n<rect x='404' y='88' width='32' height='6' fill='#FFF176'/>\n<text x='420' y='155' text-anchor='middle' font-size='13' fill='#BF360C'>worker</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_vocab_town",
+    "name": "Places in Town",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_town_places",
+    "name": "Places & Prepositions: Next to / Between / Opposite",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_town",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_town_01",
+        "question": "Complete the sentence with the correct place noun and preposition: 'The post office (bưu điện) is ______ (đối diện) the bakery (tiệm bánh), and it is ______ (ở giữa) the bookshop (hiệu sách) and the pharmacy (hiệu thuốc).'",
+        "answer": "• opposite (đối diện), between (ở giữa).\n• Full sentence: 'The post office is opposite the bakery, and it is between the bookshop and the pharmacy.'\n• Ghi nhớ: next to (bên cạnh), between... and... (ở giữa... và...), opposite (đối diện).",
+        "mediaUrl": "<svg width='480' height='260' viewBox='0 0 480 260' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='480' height='260' fill='#FFFFFF'/>\n<line x1='100' y1='30' x2='380' y2='30' stroke='#1565C0' stroke-width='2'/>\n<line x1='100' y1='30' x2='100' y2='36' stroke='#1565C0' stroke-width='2'/>\n<line x1='240' y1='30' x2='240' y2='36' stroke='#1565C0' stroke-width='2'/>\n<line x1='380' y1='30' x2='380' y2='36' stroke='#1565C0' stroke-width='2'/>\n<text x='240' y='22' text-anchor='middle' font-size='12' fill='#1565C0' font-weight='bold'>between</text>\n<polygon points='55,60 100,35 145,60' fill='#EF6C00'/>\n<rect x='60' y='60' width='80' height='60' fill='#FFF3E0' stroke='#EF6C00' stroke-width='2'/>\n<text x='100' y='95' text-anchor='middle' font-size='12' fill='#E65100'>Bookshop</text>\n<rect x='232' y='40' width='16' height='12' fill='#1565C0'/>\n<line x1='232' y1='40' x2='240' y2='48' stroke='#FFFFFF' stroke-width='1.5'/>\n<line x1='248' y1='40' x2='240' y2='48' stroke='#FFFFFF' stroke-width='1.5'/>\n<rect x='200' y='55' width='80' height='65' fill='#E3F2FD' stroke='#1565C0' stroke-width='2'/>\n<text x='240' y='92' text-anchor='middle' font-size='12' fill='#0D47A1'>Post Office</text>\n<rect x='372' y='68' width='16' height='4' fill='#2E7D32'/>\n<rect x='378' y='62' width='4' height='16' fill='#2E7D32'/>\n<rect x='340' y='60' width='80' height='60' fill='#E8F5E9' stroke='#2E7D32' stroke-width='2'/>\n<text x='380' y='95' text-anchor='middle' font-size='12' fill='#1B5E20'>Pharmacy</text>\n<rect x='0' y='120' width='480' height='40' fill='#9E9E9E'/>\n<line x1='0' y1='140' x2='480' y2='140' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='14,10'/>\n<line x1='240' y1='120' x2='240' y2='170' stroke='#D32F2F' stroke-width='2' stroke-dasharray='4,3'/>\n<polygon points='240,118 235,125 245,125' fill='#D32F2F'/>\n<polygon points='240,172 235,165 245,165' fill='#D32F2F'/>\n<rect x='262' y='137' width='56' height='16' fill='#FFFFFF' stroke='#D32F2F' stroke-width='1'/>\n<text x='290' y='149' text-anchor='middle' font-size='11' fill='#D32F2F' font-weight='bold'>opposite</text>\n<ellipse cx='240' cy='180' rx='14' ry='7' fill='#D7A86E' stroke='#8D5A2B' stroke-width='1.5'/>\n<rect x='200' y='170' width='80' height='60' fill='#FCE4EC' stroke='#AD1457' stroke-width='2'/>\n<text x='240' y='205' text-anchor='middle' font-size='12' fill='#880E4F'>Bakery</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_vocab_food",
+    "name": "Food and Drink",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_vocab_food",
+    "name": "Food & Drink: Would like to eat/drink",
+    "type": "LESSON",
+    "parentId": "top_ta5_vocab_food",
+    "examples": [
+      {
+        "id": "ex_ta5_vocab_food_01",
+        "question": "Fill in the blanks with food/drink vocabulary and 'would like': 'What ______ you like to eat? - I'd like some ______ (nem) and ______ (phở).' 'What would you like to drink? - I'd like some ______ (nước cam).'",
+        "answer": "• would; spring rolls (nem); noodles (phở); orange juice (nước cam).\n• Structure: What would you like to eat/drink? -> I'd like some + [danh từ chỉ đồ ăn/thức uống].",
+        "mediaUrl": "<svg width='400' height='200' viewBox='0 0 400 200' xmlns='http://www.w3.org/2000/svg' font-family='Arial, sans-serif'>\n<rect x='0' y='0' width='400' height='200' fill='#FFFFFF'/>\n<ellipse cx='65' cy='120' rx='45' ry='12' fill='#ECEFF1' stroke='#B0BEC5' stroke-width='2'/>\n<rect x='25' y='82' width='45' height='13' rx='6' fill='#FFD54F' stroke='#F57F17' stroke-width='1.5'/>\n<rect x='25' y='95' width='45' height='13' rx='6' fill='#FFD54F' stroke='#F57F17' stroke-width='1.5'/>\n<rect x='25' y='108' width='45' height='13' rx='6' fill='#FFD54F' stroke='#F57F17' stroke-width='1.5'/>\n<line x1='35' y1='88' x2='60' y2='88' stroke='#F57F17' stroke-width='1'/>\n<line x1='35' y1='101' x2='60' y2='101' stroke='#F57F17' stroke-width='1'/>\n<line x1='35' y1='114' x2='60' y2='114' stroke='#F57F17' stroke-width='1'/>\n<text x='65' y='150' text-anchor='middle' font-size='12' fill='#F57F17'>spring rolls</text>\n<text x='65' y='165' text-anchor='middle' font-size='10' fill='#8D6E63'>(nem)</text>\n<polygon points='170,110 230,110 220,140 180,140' fill='#FFFFFF' stroke='#8D6E63' stroke-width='2'/>\n<ellipse cx='200' cy='110' rx='30' ry='6' fill='#FFB74D'/>\n<path d='M182,108 Q191,101 200,108 Q209,101 218,108' stroke='#FFECB3' stroke-width='2' fill='none'/>\n<path d='M188,97 Q184,87 189,77 Q193,67 188,57' stroke='#CFD8DC' stroke-width='2' fill='none'/>\n<path d='M210,97 Q214,87 209,77 Q205,67 210,57' stroke='#CFD8DC' stroke-width='2' fill='none'/>\n<line x1='214' y1='96' x2='244' y2='72' stroke='#795548' stroke-width='3' stroke-linecap='round'/>\n<line x1='219' y1='99' x2='249' y2='75' stroke='#795548' stroke-width='3' stroke-linecap='round'/>\n<text x='200' y='160' text-anchor='middle' font-size='12' fill='#8D6E63'>noodles</text>\n<text x='200' y='175' text-anchor='middle' font-size='10' fill='#8D6E63'>(pho)</text>\n<polygon points='310,90 360,90 352,145 318,145' fill='#FFE0B2' fill-opacity='0.35' stroke='#F57F17' stroke-width='2'/>\n<polygon points='313,100 357,100 352,145 318,145' fill='#FFA726'/>\n<line x1='345' y1='68' x2='335' y2='103' stroke='#EF5350' stroke-width='4' stroke-linecap='round'/>\n<circle cx='320' cy='90' r='9' fill='#FFB300' stroke='#F57F17' stroke-width='1.5'/>\n<line x1='320' y1='81' x2='320' y2='99' stroke='#F57F17' stroke-width='1'/>\n<line x1='311' y1='90' x2='329' y2='90' stroke='#F57F17' stroke-width='1'/>\n<line x1='314' y1='84' x2='326' y2='96' stroke='#F57F17' stroke-width='1'/>\n<line x1='326' y1='84' x2='314' y2='96' stroke='#F57F17' stroke-width='1'/>\n<text x='335' y='160' text-anchor='middle' font-size='12' fill='#EF6C00'>orange juice</text>\n<text x='335' y='175' text-anchor='middle' font-size='10' fill='#8D6E63'>(nuoc cam)</text>\n</svg>"
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_grammar_tenses",
+    "name": "Tenses (Các thì cơ bản)",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_grammar",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_grammar_present_simple",
+    "name": "Present Simple & Adverbs of Frequency",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_tenses",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_pres_01",
+        "question": "Put the verb in brackets into the correct form and position of adverb: 'She (always / water) ______ the flowers in the morning.'",
+        "answer": "• Correct form: 'She always waters the flowers in the morning.'\n• Rule: S + Adverb of Frequency (always/usually/often/sometimes) + V(s/es) for He/She/It.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_grammar_past_simple",
+    "name": "Past Simple Tense (Thì Quá khứ đơn)",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_tenses",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_past_01",
+        "question": "Supply the past forms of irregular verbs: Yesterday, my family (go) ______ to Ha Long Bay, (see) ______ beautiful caves, and (take) ______ many photos.",
+        "answer": "• go -> went\n• see -> saw\n• take -> took\n• Full sentence: 'Yesterday, my family went to Ha Long Bay, saw beautiful caves, and took many photos.'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_grammar_future",
+    "name": "Future Plans: Will vs Be going to",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_tenses",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_fut_01",
+        "question": "Choose 'will' or 'be going to' for the plans: (1) Where ______ (you / visit) this summer? - I ______ visit Hue Imperial City. (2) ______ you decorate your home for Tet? - Yes, I ______.",
+        "answer": "• (1) 'are you going to visit' / 'am going to' (kế hoạch nghỉ hè đã được sắp xếp/quyết định từ trước)\n• (2) 'Will' / 'will' (quyết định/lời hứa được đưa ra ngay tại thời điểm nói)\n• Rule: 'Be going to' + V dùng cho kế hoạch, dự định đã được sắp xếp hoặc quyết định từ trước khi nói; 'Will' dùng cho quyết định tức thời, lời hứa, hoặc dự đoán không dựa trên kế hoạch có sẵn. Việc chọn 'will' hay 'be going to' phụ thuộc vào thời điểm ra quyết định, không phụ thuộc vào việc đó là kỳ nghỉ hay lễ Tết.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_grammar_weather_will",
+    "name": "Weather Forecast: Will + Be + Adjective",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_tenses",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_weather_01",
+        "question": "Complete the weather forecast using 'will': 'Tomorrow, it ______ (be) sunny in the morning, but it ______ (be) rainy in the afternoon.'",
+        "answer": "• will be; will be.\n• Structure: S + will + be + adjective (sunny/rainy/cloudy/windy) để nói về dự báo thời tiết trong tương lai.\n• Ví dụ: 'Tomorrow, it will be sunny in the morning, but it will be rainy in the afternoon.'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_grammar_wh_questions",
+    "name": "Wh-Questions (Cấu trúc câu hỏi Wh-)",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_grammar",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_grammar_how_often",
+    "name": "Frequency Questions: How often...?",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_wh_questions",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_often_01",
+        "question": "Write questions for the underlined frequency answer: '______? - He plays basketball twice a week.'",
+        "answer": "• Question: 'How often does he play basketball?'\n• Structure: How often + do/does + S + V(bare)? -> S + V(s/es) + once/twice/three times a week.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_grammar_where_howfar",
+    "name": "Location & Distance: Where...? / How far...?",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_wh_questions",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_far_01",
+        "question": "Complete the distance question and answer: '______ is it from your home to your school? - It's ______ two kilometres.'",
+        "answer": "• Question: 'How far is it from your home to your school?'\n• Answer: 'It's about two kilometres.'\n• Structure: How far is it from [A] to [B]? -> It's about + [distance] kilometres.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_grammar_modals",
+    "name": "Modal Verbs & Expressing Desires",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_grammar",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_grammar_should",
+    "name": "Giving Advice: Should / Shouldn't",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_modals",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_should_01",
+        "question": "Fill in 'should' or 'shouldn't': Nam has a high fever. He ______ stay in bed and he ______ drink cold water.",
+        "answer": "• Answer: should / shouldn't\n• Rule: S + should / shouldn't + V(bare) (Nên / Không nên làm gì).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_grammar_would_like",
+    "name": "Future Career Desires: Would like to be...",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_modals",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_would_01",
+        "question": "Complete the career aspiration question and reason: 'What would you like to ______ in the future? - I'd like to be a teacher because I'd like to ______ children.'",
+        "answer": "• Answer: be / teach\n• Structure: What would you like to be in the future? -> I'd like to be a/an [job]. Why? -> Because I'd like to [action].",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "less_ta5_grammar_would_like_general",
+    "name": "Would like to + Verb: Visit / Eat / Drink",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_modals",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_would_general_01",
+        "question": "Complete with 'would like to' + verb: 'Which place ______ you ______ visit? - I'd like to visit Sa Pa because the weather is cool.'",
+        "answer": "• would; like to.\n• Structure: Which place would you like to visit? -> I'd like to visit + [địa danh] + because + [lý do].\n• Lưu ý: 'would like to' + động từ nguyên mẫu, dùng để diễn tả mong muốn một cách lịch sự (không chỉ dùng cho nghề nghiệp mà còn dùng cho nơi muốn đến, món muốn ăn/uống,...).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_grammar_prepositions",
+    "name": "Prepositions of Place (Giới từ chỉ vị trí)",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_grammar",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_grammar_prepositions",
+    "name": "Next to / Between / Opposite",
+    "type": "LESSON",
+    "parentId": "top_ta5_grammar_prepositions",
+    "examples": [
+      {
+        "id": "ex_ta5_gram_prep_01",
+        "question": "Choose the correct preposition: 'The bookshop is ______ (bên cạnh) the bakery. The park is ______ (đối diện) the school.'",
+        "answer": "• next to (bên cạnh); opposite (đối diện).\n• Rule: next to = ngay bên cạnh; between A and B = ở giữa A và B; opposite = đối diện, phía bên kia.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_phonics_intonation",
+    "name": "Sentence Intonation (Ngữ điệu câu)",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_phonics",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_phonics_question_intonation",
+    "name": "Intonation in Questions & Statements",
+    "type": "LESSON",
+    "parentId": "top_ta5_phonics_intonation",
+    "examples": [
+      {
+        "id": "ex_ta5_phon_into_01",
+        "question": "Mark the rising (↗) or falling (↘) intonation for: (a) Did you go to the party? (b) Where did you go last weekend? (c) I went to the countryside.",
+        "answer": "• (a) Did you go to the party? ↗ (Rising intonation for Yes/No questions)\n• (b) Where did you go last weekend? ↘ (Falling intonation for Wh- questions)\n• (c) I went to the countryside. ↘ (Falling intonation for statements)",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_phonics_stress",
+    "name": "Word Stress (Trọng âm của từ)",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_phonics",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_phonics_word_stress",
+    "name": "Stress in 2-syllable and 3-syllable Words",
+    "type": "LESSON",
+    "parentId": "top_ta5_phonics_stress",
+    "examples": [
+      {
+        "id": "ex_ta5_phon_stress_01",
+        "question": "Identify the primary stress position in these 2-syllable and 3-syllable words: 'dolphin, 'friendly, a'bove, 'bakery, No'vember.",
+        "answer": "• 'dolphin (1st syllable - noun)\n• 'friendly (1st syllable - adjective)\n• a'bove (2nd syllable - preposition)\n• 'bakery (1st syllable)\n• No'vember (2nd syllable)",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_comm_directions_transport",
+    "name": "Asking for / Giving Directions & Transport",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_communication",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_comm_asking_directions",
+    "name": "Asking the Way (Hỏi & Chỉ đường)",
+    "type": "LESSON",
+    "parentId": "top_ta5_comm_directions_transport",
+    "examples": [
+      {
+        "id": "ex_ta5_comm_dir_01",
+        "question": "Complete the direction conversation: 'A: Excuse me, how can I get to the art room? - B: ______ upstairs and turn ______. It's on your right.'",
+        "answer": "• Answer: Go / left\n• Dialogue: 'A: Excuse me, how can I get to the art room? - B: Go upstairs and turn left. It's on your right.'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_comm_past_trips",
+    "name": "Talking about Past Trips & Experiences",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_communication",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_comm_past_trips_qa",
+    "name": "Sharing a Trip (Kể về chuyến đi)",
+    "type": "LESSON",
+    "parentId": "top_ta5_comm_past_trips",
+    "examples": [
+      {
+        "id": "ex_ta5_comm_trip_01",
+        "question": "Fill in the past trip dialogue: 'A: Where did you go last weekend? - B: We ______ to Phu Quoc Island. - A: What did you do there? - B: We ______ in the sea and ate seafood.'",
+        "answer": "• Answer: went / swam\n• Polite opening: 'How was your trip? - It was fantastic!'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_comm_health_advice",
+    "name": "Health Problems & Advice",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_communication",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_comm_health_qa",
+    "name": "At the Doctor's (Khám bệnh)",
+    "type": "LESSON",
+    "parentId": "top_ta5_comm_health_advice",
+    "examples": [
+      {
+        "id": "ex_ta5_comm_heal_01",
+        "question": "Complete the doctor-patient dialogue: 'A: What's the matter with you, Quan? - B: I have a severe ______. - A: You should go to the dentist. - B: OK, I will. Thanks!'",
+        "answer": "• Answer: toothache\n• Polite response to advice: 'OK, I will. Thanks for your advice!'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_comm_jobs_reasons",
+    "name": "Future Jobs & Reasons",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_communication",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_comm_jobs_qa",
+    "name": "Dream Job (Ước mơ nghề nghiệp)",
+    "type": "LESSON",
+    "parentId": "top_ta5_comm_jobs_reasons",
+    "examples": [
+      {
+        "id": "ex_ta5_comm_job_01",
+        "question": "Match Questions with Answers: (1) What would you like to be in the future? (2) Why would you like to be a doctor? -> (A) Because I'd like to look after sick people. (B) I'd like to be a doctor.",
+        "answer": "• 1 - B: What would you like to be in the future? - I'd like to be a doctor.\n• 2 - A: Why would you like to be a doctor? - Because I'd like to look after sick people.\n• Encourage response: 'Cool! That sounds great!'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_comm_food",
+    "name": "Asking about Food & Drink",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_communication",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_comm_food_qa",
+    "name": "Food & Drink Q&A (Gọi món)",
+    "type": "LESSON",
+    "parentId": "top_ta5_comm_food",
+    "examples": [
+      {
+        "id": "ex_ta5_comm_food_01",
+        "question": "Complete the dialogue: 'A: What would you like to eat? - B: I'd like some ______. - A: And what would you like to drink? - B: I'd like some ______, please.'",
+        "answer": "• Suggested answer: spring rolls / lemonade.\n• Full dialogue: 'A: What would you like to eat? - B: I'd like some spring rolls. - A: And what would you like to drink? - B: I'd like some lemonade, please.'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "top_ta5_comm_weather",
+    "name": "Talking about Future Weather",
+    "type": "TOPIC",
+    "parentId": "cat_ta5_communication",
+    "examples": null
+  },
+  {
+    "id": "less_ta5_comm_weather_qa",
+    "name": "Weather Forecast Q&A (Dự báo thời tiết)",
+    "type": "LESSON",
+    "parentId": "top_ta5_comm_weather",
+    "examples": [
+      {
+        "id": "ex_ta5_comm_weather_01",
+        "question": "Complete the weather dialogue: 'A: What will the weather be like tomorrow? - B: It ______ be ______ and ______.'",
+        "answer": "• Suggested answer: will / sunny / hot.\n• Full dialogue: 'A: What will the weather be like tomorrow? - B: It will be sunny and hot.'",
+        "mediaUrl": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "toan11_sbj",
+    "name": "Toán học lớp 11",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_1",
+    "name": "Hàm số lượng giác & Phương trình lượng giác",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_1_1",
+    "name": "Giá trị lượng giác & Công thức lượng giác",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_1_1_1",
+    "name": "Biểu diễn góc & Tính giá trị lượng giác",
+    "type": "LESSON",
+    "parentId": "toan11_top_1_1",
+    "examples": [
+      {
+        "id": "toan11_ex_1_1_1_1",
+        "question": "Biểu diễn góc & Tính GTLG: Cho $\\cos \\alpha = -\\frac{3}{5}$ với $\\pi < \\alpha < \\frac{3\\pi}{2}$. Tính $\\sin \\alpha$, $\\tan \\alpha$, $\\cot \\alpha$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Góc $\\alpha$ thuộc góc phần tư III $\\rightarrow \\sin \\alpha < 0$, $\\cos \\alpha < 0$, $\\tan \\alpha > 0$, $\\cot \\alpha > 0$. Bẫy: Khai căn quên xét dấu góc phần tư. ➔ Áp dụng quy tắc/phương pháp: Sử dụng $\\sin^2 \\alpha + \\cos^2 \\alpha = 1$, $\\tan \\alpha = \\frac{\\sin \\alpha}{\\cos \\alpha}$, $\\cot \\alpha = \\frac{1}{\\tan \\alpha}$. ➔ Tính toán/Lập luận: $\\sin^2 \\alpha = 1 - \\left(-\\frac{3}{5}\\right)^2 = \\frac{16}{25} \\rightarrow \\sin \\alpha = -\\frac{4}{5}$ (vì $\\sin \\alpha < 0$). Suy ra $\\tan \\alpha = \\frac{-4/5}{-3/5} = \\frac{4}{3}$; $\\cot \\alpha = \\frac{3}{4}$. ➔ Kết luận: $\\sin \\alpha = -\\frac{4}{5}$, $\\tan \\alpha = \\frac{4}{3}$, $\\cot \\alpha = \\frac{3}{4}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_1_1_1_1",
+    "name": "Hệ thức cơ bản ➔ $\\sin^2 x + \\cos^2 x = 1$; $\\tan x \\cdot \\cot x = 1$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_1_1_2",
+    "name": "Hệ thức mở rộng ➔ $1 + \\tan^2 x = \\frac{1}{\\cos^2 x}$; $1 + \\cot^2 x = \\frac{1}{\\sin^2 x}$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_1_1_3",
+    "name": "Dấu GTLG ➔ GPT I $(+,+)$; II $(-,+)$; III $(-,-)$; IV $(+,-)$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_1_1_4",
+    "name": "Góc liên quan đặc biệt ➔ Cos đối, sin bù, phụ chéo, tan/cot hơn kém $\\pi$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_1_1_2",
+    "name": "Công thức lượng giác thực chiến",
+    "type": "LESSON",
+    "parentId": "toan11_top_1_1",
+    "examples": [
+      {
+        "id": "toan11_ex_1_1_2_1",
+        "question": "Rút gọn biểu thức lượng giác: Rút gọn biểu thức $A = \\frac{\\sin 2x + \\sin x}{1 + \\cos 2x + \\cos x}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tử và mẫu có chứa góc đôi $2x$ và góc đơn $x$. Bẫy: Biến đổi cos 2x không chọn công thức phù hợp làm triệt tiêu số 1. ➔ Áp dụng quy tắc/phương pháp: Dùng $\\sin 2x = 2\\sin x \\cos x$ và $\\cos 2x = 2\\cos^2 x - 1$. ➔ Tính toán/Lập luận: Tử $= 2\\sin x \\cos x + \\sin x = \\sin x(2\\cos x + 1)$. Mẫu $= 1 + (2\\cos^2 x - 1) + \\cos x = \\cos x(2\\cos x + 1)$. Khi đó $A = \\frac{\\sin x(2\\cos x + 1)}{\\cos x(2\\cos x + 1)} = \\frac{\\sin x}{\\cos x} = \\tan x$. ➔ Kết luận: $A = \\tan x$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_1_1_2_1",
+    "name": "CT Cộng ➔ $\\cos(a \\pm b) = \\cos a \\cos b \\mp \\sin a \\sin b$; $\\sin(a \\pm b) = \\sin a \\cos b \\pm \\cos a \\sin b$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_1_2_2",
+    "name": "CT Nhân đôi ➔ $\\sin 2a = 2\\sin a \\cos a$; $\\cos 2a = \\cos^2 a - \\sin^2 a = 2\\cos^2 a - 1 = 1 - 2\\sin^2 a$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_1_2_3",
+    "name": "CT Hạ bậc ➔ $\\cos^2 a = \\frac{1 + \\cos 2a}{2}$; $\\sin^2 a = \\frac{1 - \\cos 2a}{2}$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_1_2_4",
+    "name": "CT Biến đổi ➔ Tích ➔ Tổng & Tổng ➔ Tích",
+    "type": "STEP",
+    "parentId": "toan11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_1_2",
+    "name": "Tính chất & Đồ thị Hàm số lượng giác",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_1_2_1",
+    "name": "Tìm tập xác định & GTLN-GTNN của HSLG",
+    "type": "LESSON",
+    "parentId": "toan11_top_1_2",
+    "examples": [
+      {
+        "id": "toan11_ex_1_2_1_1",
+        "question": "Tìm TXĐ và GTLN-GTNN: Cho hàm số $y = 3\\sin\\left(2x - \\frac{\\pi}{4}\\right) + 1$. Tìm TXĐ và GTNN của $y$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hàm số sin có tập xác định $\\mathbb{R}$. Miền giá trị $-1 \\le \\sin U \\le 1$. Bẫy: Quên nhân hệ số 3 trước khi cộng 1. ➔ Áp dụng quy tắc/phương pháp: Đánh giá chặn giá trị $-1 \\le \\sin\\left(2x - \\frac{\\pi}{4}\\right) \\le 1$. ➔ Tính toán/Lập luận: Ta có $-1 \\le \\sin\\left(2x - \\frac{\\pi}{4}\\right) \\le 1 \\rightarrow -3 \\le 3\\sin\\left(2x - \\frac{\\pi}{4}\\right) \\le 3 \\rightarrow -2 \\le y \\le 4$. Dấu '=' xảy ra khi $\\sin\\left(2x - \\frac{\\pi}{4}\\right) = -1 \\iff 2x - \\frac{\\pi}{4} = -\\frac{\\pi}{2} + k2\\pi \\iff x = -\\frac{\\pi}{8} + k\\pi$. ➔ Kết luận: TXĐ $D = \\mathbb{R}$; $y_{\\min} = -2$, $y_{\\max} = 4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_1_2_1_1",
+    "name": "TXĐ HSLG ➔ $\\tan u \\rightarrow u \\ne \\frac{\\pi}{2} + k\\pi$; $\\cot u \\rightarrow u \\ne k\\pi$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_2_1_2",
+    "name": "TGT Cơ bản ➔ $-1 \\le \\sin u, \\cos u \\le 1$; $0 \\le \\sin^2 u, \\cos^2 u \\le 1$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_2_1_3",
+    "name": "Đánh giá BĐT ➔ $y = a\\sin u + b\\cos u + c \\rightarrow c - \\sqrt{a^2+b^2} \\le y \\le c + \\sqrt{a^2+b^2}$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_2_1_4",
+    "name": "Mẹo Casio ➔ Bấm MODE 8 (Table) chạy $[0; 2\\pi]$ với Step $\\pi/12$ dò Min/Max",
+    "type": "STEP",
+    "parentId": "toan11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_1_2_2",
+    "name": "Tính chẵn lẻ, chu kỳ & Đồ thị HSLG",
+    "type": "LESSON",
+    "parentId": "toan11_top_1_2",
+    "examples": [
+      {
+        "id": "toan11_ex_1_2_2_1",
+        "question": "Xác định chu kỳ hàm số: Tìm chu kỳ $T$ của hàm số $y = \\cos 3x + \\tan \\frac{x}{2}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hàm tổng của $y_1 = \\cos 3x$ và $y_2 = \\tan \\frac{x}{2}$. Bẫy: Lấy tổng hai chu kỳ thay vì BCNN. ➔ Áp dụng quy tắc/phương pháp: $y_1 = \\cos ax \\rightarrow T_1 = \\frac{2\\pi}{|a|}$; $y_2 = \\tan bx \\rightarrow T_2 = \\frac{\\pi}{|b|}$. $T = \\text{BCNN}(T_1, T_2)$. ➔ Tính toán/Lập luận: $T_1 = \\frac{2\\pi}{3}$; $T_2 = \\frac{\\pi}{1/2} = 2\\pi$. BCNN\\left(\\frac{2\\pi}{3}, 2\\pi\\right) = 2\\pi$. ➔ Kết luận: Chu kỳ $T = 2\\pi$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_1_2_2_1",
+    "name": "Tính chẵn lẻ ➔ $f(-x) = f(x) \\rightarrow \\text{Chẵn (đối xứng } Oy\\text{)}$; $f(-x) = -f(x) \\rightarrow \\text{Lẻ (đối xứng } O\\text{)}$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_2_2_2",
+    "name": "Chu kỳ ➔ $y = \\sin ax, \\cos ax \\rightarrow T = \\frac{2\\pi}{|a|}$; $y = \\tan ax, \\cot ax \\rightarrow T = \\frac{\\pi}{|a|}$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_1_3",
+    "name": "Phương trình lượng giác",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_1_3_1",
+    "name": "Giải phương trình lượng giác cơ bản",
+    "type": "LESSON",
+    "parentId": "toan11_top_1_3",
+    "examples": [
+      {
+        "id": "toan11_ex_1_3_1_1",
+        "question": "Giải phương trình lượng giác cơ bản: Giải phương trình $\\sin\\left(2x - \\frac{\\pi}{3}\\right) = \\frac{\\sqrt{3}}{2}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Phương trình dạng $\\sin U = \\sin \\alpha$. Bẫy: Quên họ nghiệm thứ hai $\\pi - \\alpha$ hoặc quên cộng $k2\\pi$. ➔ Áp dụng quy tắc/phương pháp: $\\sin U = \\sin \\alpha \\iff U = \\alpha + k2\\pi$ hoặc $U = \\pi - \\alpha + k2\\pi$ ($k \\in \\mathbb{Z}$). Đổi $\\frac{\\sqrt{3}}{2} = \\sin \\frac{\\pi}{3}$. ➔ Tính toán/Lập luận: $2x - \\frac{\\pi}{3} = \\frac{\\pi}{3} + k2\\pi \\iff 2x = \\frac{2\\pi}{3} + k2\\pi \\iff x = \\frac{\\pi}{3} + k\\pi$. Hoặc $2x - \\frac{\\pi}{3} = \\pi - \\frac{\\pi}{3} + k2\\pi \\iff 2x = \\pi + k2\\pi \\iff x = \\frac{\\pi}{2} + k\\pi$. ➔ Kết luận: $x = \\frac{\\pi}{3} + k\\pi$ hoặc $x = \\frac{\\pi}{2} + k\\pi$ ($k \\in \\mathbb{Z}$).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_1_3_1_1",
+    "name": "PT Sin ➔ $\\sin u = \\sin v \\iff u = v + k2\\pi \\lor u = \\pi - v + k2\\pi$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_3_1_2",
+    "name": "PT Cos ➔ $\\cos u = \\cos v \\iff u = \\pm v + k2\\pi$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_3_1_3",
+    "name": "PT Tan/Cot ➔ $\\tan u = \\tan v \\iff u = v + k\\pi$; $\\cot u = \\cot v \\iff u = v + k\\pi$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_3_1_4",
+    "name": "Trường hợp đặc biệt ➔ $= 0 \\rightarrow +k\\pi$; $= 1 \\rightarrow k2\\pi$; $= -1 \\rightarrow \\pi + k2\\pi$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_1_3_2",
+    "name": "Phương trình lượng giác biến đổi & Đặt ẩn phụ",
+    "type": "LESSON",
+    "parentId": "toan11_top_1_3",
+    "examples": [
+      {
+        "id": "toan11_ex_1_3_2_1",
+        "question": "Giải PT lượng giác đặt ẩn phụ: Giải phương trình $2\\cos^2 x + 5\\sin x - 4 = 0$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Phương trình vừa chứa $\\cos^2 x$ vừa chứa $\\sin x$. Bẫy: Đưa về $\\cos x$ làm xuất hiện căn thức. ➔ Áp dụng quy tắc/phương pháp: Thay $\\cos^2 x = 1 - \\sin^2 x$, đặt $t = \\sin x$ với $-1 \\le t \\le 1$. ➔ Tính toán/Lập luận: PT $\\iff 2(1 - \\sin^2 x) + 5\\sin x - 4 = 0 \\iff -2\\sin^2 x + 5\\sin x - 2 = 0$. Đặt $t = \\sin x \\rightarrow -2t^2 + 5t - 2 = 0 \\iff t = 2$ (loại) hoặc $t = \\frac{1}{2}$ (nhận). Với $t = \\frac{1}{2} \\rightarrow \\sin x = \\frac{1}{2} \\iff x = \\frac{\\pi}{6} + k2\\pi$ hoặc $x = \\frac{5\\pi}{6} + k2\\pi$. ➔ Kết luận: $x = \\frac{\\pi}{6} + k2\\pi$ hoặc $x = \\frac{5\\pi}{6} + k2\\pi$ ($k \\in \\mathbb{Z}$).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_1_3_2_1",
+    "name": "PT Bậc hai ➔ Đưa về 1 HSLG $(\\sin, \\cos, \\tan) \\rightarrow$ Đặt ẩn phụ $t$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_3_2_2",
+    "name": "PT Bậc nhất $\\sin, \\cos$ ➔ $a\\sin x + b\\cos x = c \\rightarrow$ Chia 2 vế cho $\\sqrt{a^2+b^2}$; ĐK có nghiệm $a^2+b^2 \\ge c^2$",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_1_3_2_3",
+    "name": "Mẹo Casio ➔ Bấm SHIFT SOLVE thử nghiệm hoặc thử từng đáp án trắc nghiệm",
+    "type": "STEP",
+    "parentId": "toan11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_2",
+    "name": "Dãy số, Cấp số cộng & Cấp số nhân",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_2_1",
+    "name": "Dãy số & Tính chất cơ bản",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_2_1_1",
+    "name": "Số hạng tổng quát, tính đơn điệu & bị chặn của dãy số",
+    "type": "LESSON",
+    "parentId": "toan11_top_2_1",
+    "examples": [
+      {
+        "id": "toan11_ex_2_1_1_1",
+        "question": "Xét tính đơn điệu của dãy số: Xét tính tăng, giảm của dãy số $(u_n)$ với $u_n = \\frac{2n - 1}{n + 1}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Dãy số dạng phân thức $u_n = f(n)$. Bẫy: Xét hiệu $u_{n+1} - u_n$ quên quy đồng hoặc xét sai dấu. ➔ Áp dụng quy tắc/phương pháp: Xét hiệu $u_{n+1} - u_n$. Nếu $>0 \\forall n \\ge 1 \\rightarrow$ Dãy tăng. ➔ Tính toán/Lập luận: $u_{n+1} = \\frac{2(n+1)-1}{(n+1)+1} = \\frac{2n+1}{n+2}$. Hiệu $u_{n+1} - u_n = \\frac{2n+1}{n+2} - \\frac{2n-1}{n+1} = \\frac{(2n+1)(n+1) - (2n-1)(n+2)}{(n+2)(n+1)} = \\frac{(2n^2+3n+1) - (2n^2+3n-2)}{(n+2)(n+1)} = \\frac{3}{(n+2)(n+1)} > 0 \\,\\forall n \\ge 1$. ➔ Kết luận: Dãy số $(u_n)$ là dãy số tăng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_2_1_1_1",
+    "name": "Xét tính tăng/giảm ➔ $u_{n+1} - u_n > 0 \\rightarrow$ Dãy tăng; $u_{n+1} - u_n < 0 \\rightarrow$ Dãy giảm",
+    "type": "STEP",
+    "parentId": "toan11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_2_1_1_2",
+    "name": "Dãy dương ➔ $\\frac{u_{n+1}}{u_n} > 1 \\rightarrow$ Dãy tăng; $\\frac{u_{n+1}}{u_n} < 1 \\rightarrow$ Dãy giảm",
+    "type": "STEP",
+    "parentId": "toan11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_2_1_1_3",
+    "name": "Dãy bị chặn ➔ $m \\le u_n \\le M \\,\\forall n \\in \\mathbb{N}^*$",
+    "type": "STEP",
+    "parentId": "toan11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_2_2",
+    "name": "Cấp số cộng & Cấp số nhân",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_2_2_1",
+    "name": "Xác định công sai, công bội & Tổng $S_n$",
+    "type": "LESSON",
+    "parentId": "toan11_top_2_2",
+    "examples": [
+      {
+        "id": "toan11_ex_2_2_1_1",
+        "question": "Tìm số hạng và công sai CSC: Cho cấp số cộng $(u_n)$ có $u_1 = 3$ và $u_5 = 19$. Tìm công sai $d$ và tổng $S_{10}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Cấp số cộng cho $u_1$ và $u_5$. Bẫy: Nhầm lẫn công thức CSC với CSN. ➔ Áp dụng quy tắc/phương pháp: $u_n = u_1 + (n-1)d$; $S_n = \\frac{n[2u_1 + (n-1)d]}{2}$. ➔ Tính toán/Lập luận: $u_5 = u_1 + 4d \\iff 19 = 3 + 4d \\iff 4d = 16 \\iff d = 4$. Tổng $S_{10} = \\frac{10[2(3) + 9(4)]}{2} = 5 \\times (6 + 36) = 5 \\times 42 = 210$. ➔ Kết luận: $d = 4$, $S_{10} = 210$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_2_2_1_1",
+    "name": "CSC ➔ $u_n = u_1 + (n-1)d$; $S_n = \\frac{n(u_1 + u_n)}{2} = \\frac{n[2u_1 + (n-1)d]}{2}$",
+    "type": "STEP",
+    "parentId": "toan11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_2_2_1_2",
+    "name": "Tính chất CSC ➔ $u_k = \\frac{u_{k-1} + u_{k+1}}{2}$",
+    "type": "STEP",
+    "parentId": "toan11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_2_2_1_3",
+    "name": "CSN ➔ $u_n = u_1 \\cdot q^{n-1}$; $S_n = u_1 \\cdot \\frac{1 - q^n}{1 - q} \\,(q \\ne 1)$",
+    "type": "STEP",
+    "parentId": "toan11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_2_2_1_4",
+    "name": "Tính chất CSN ➔ $u_k^2 = u_{k-1} \\cdot u_{k+1}$",
+    "type": "STEP",
+    "parentId": "toan11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_2_2_2",
+    "name": "Bài toán thực tế & Kết hợp CSC - CSN",
+    "type": "LESSON",
+    "parentId": "toan11_top_2_2",
+    "examples": [
+      {
+        "id": "toan11_ex_2_2_2_1",
+        "question": "Bài toán thực tế tăng trưởng: Một người gửi tiết kiệm 100 triệu đồng với lãi suất $6\\%/năm$ theo hình thức lãi kép. Hỏi sau 5 năm người đó thu được bao nhiêu tiền?",
+        "answer": "Nhận diện dạng bài & Né bẫy: Bài toán lãi kép là ứng dụng của Cấp số nhân với $u_1 = A(1+r)$ hoặc tổng dư nợ. Bẫy: Nhầm lẫn giữa lãi đơn (CSC) và lãi kép (CSN). ➔ Áp dụng quy tắc/phương pháp: Công thức lãi kép $T_n = A(1 + r)^n$. ➔ Tính toán/Lập luận: $A = 100$ triệu, $r = 6\\% = 0,06$, $n = 5$. Số tiền nhận được $T_5 = 100 \\times (1 + 0,06)^5 = 100 \\times (1,06)^5 \\approx 133,82$ triệu đồng. ➔ Kết luận: Sau 5 năm người đó thu được khoảng $133,82$ triệu đồng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_2_2_2_1",
+    "name": "Lãi kép ➔ $T_n = A(1 + r)^n$",
+    "type": "STEP",
+    "parentId": "toan11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_2_2_2_2",
+    "name": "Mẹo lập hệ ➔ Đưa mọi số hạng về $u_1, d$ (với CSC) hoặc $u_1, q$ (với CSN)",
+    "type": "STEP",
+    "parentId": "toan11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_3",
+    "name": "Giới hạn & Hàm số liên tục",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_3_1",
+    "name": "Giới hạn Dãy số & CSN lùi vô hạn",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_3",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_3_1_1",
+    "name": "Tính giới hạn dãy số dạng phân thức & căn thức",
+    "type": "LESSON",
+    "parentId": "toan11_top_3_1",
+    "examples": [
+      {
+        "id": "toan11_ex_3_1_1_1",
+        "question": "Tính giới hạn dãy số phân thức: Tính $I = \\lim \\frac{3n^2 - 2n + 5}{1 - 2n^2}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Giới hạn dãy số dạng vô định $\\frac{\\infty}{\\infty}$ bậc tử bằng bậc mẫu. Bẫy: Quên dấu âm ở hệ số của $n^2$ dưới mẫu. ➔ Áp dụng quy tắc/phương pháp: Chia cả tử và mẫu cho $n^2$ (bậc cao nhất). ➔ Tính toán/Lập luận: $I = \\lim \\frac{3 - \\frac{2}{n} + \\frac{5}{n^2}}{\\frac{1}{n^2} - 2} = \\frac{3 - 0 + 0}{0 - 2} = -\\frac{3}{2}$. ➔ Kết luận: $I = -\\frac{3}{2}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_3_1_1_1",
+    "name": "Dạng $\\frac{\\infty}{\\infty}$ ➔ Chia tử & mẫu cho $n^k$ (bậc cao nhất)",
+    "type": "STEP",
+    "parentId": "toan11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_1_1_2",
+    "name": "Dạng $\\infty - \\infty$ ➔ Nhân lượng liên hợp $\\sqrt{A} - \\sqrt{B} = \\frac{A - B}{\\sqrt{A} + \\sqrt{B}}$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_1_1_3",
+    "name": "Mẹo Casio ➔ Nhập biểu thức $\\rightarrow$ Bấm CALC $x = 10^{10} \\rightarrow$ Đọc kết quả",
+    "type": "STEP",
+    "parentId": "toan11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_3_1_2",
+    "name": "Tổng của cấp số nhân lùi vô hạn",
+    "type": "LESSON",
+    "parentId": "toan11_top_3_1",
+    "examples": [
+      {
+        "id": "toan11_ex_3_1_2_1",
+        "question": "Tính tổng CSN lùi vô hạn: Tính tổng $S = 1 - \\frac{1}{2} + \\frac{1}{4} - \\frac{1}{8} + \\dots + (-1)^{n-1} \\frac{1}{2^{n-1}} + \\dots$",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tổng vô hạn của CSN có $|q| < 1$. Bẫy: Nhầm dấu của công bội $q$. ➔ Áp dụng quy tắc/phương pháp: CSN lùi vô hạn có $u_1 = 1$, công bội $q = -\\frac{1}{2}$ ($|q| < 1$). Công thức $S = \\frac{u_1}{1 - q}$. ➔ Tính toán/Lập luận: $S = \\frac{1}{1 - \\left(-\\frac{1}{2}\\right)} = \\frac{1}{\\frac{3}{2}} = \\frac{2}{3}$. ➔ Kết luận: $S = \\frac{2}{3}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_3_1_2_1",
+    "name": "ĐK CSN Lùi vô hạn ➔ $|q| < 1$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_1_2_2",
+    "name": "Công thức tổng ➔ $S = \\frac{u_1}{1 - q}$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_3_2",
+    "name": "Giới hạn Hàm số",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_3",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_3_2_1",
+    "name": "Tính giới hạn hàm số tại một điểm (Dạng $\\frac{0}{0}$)",
+    "type": "LESSON",
+    "parentId": "toan11_top_3_2",
+    "examples": [
+      {
+        "id": "toan11_ex_3_2_1_1",
+        "question": "Tính giới hạn dạng 0/0: Tính $L = \\lim_{x \\to 2} \\frac{x^2 - 5x + 6}{x - 2}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Thay $x = 2$ vào tử và mẫu đều bằng $0 \\rightarrow$ Dạng vô định $\\frac{0}{0}$. Bẫy: Không phân tích và khử nhân tử chung $(x-2)$ mà tính trực tiếp. ➔ Áp dụng quy tắc/phương pháp: Phân tích tử thành nhân tử $(x-2)(x-3)$ rồi triệt tiêu. ➔ Tính toán/Lập luận: $L = \\lim_{x \\to 2} \\frac{(x-2)(x-3)}{x-2} = \\lim_{x \\to 2} (x-3) = 2 - 3 = -1$. ➔ Kết luận: $L = -1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_3_2_1_1",
+    "name": "Dạng $\\frac{0}{0}$ Đa thức ➔ Phân tích nhân tử $(x - x_0) \\rightarrow$ Triệt tiêu nhân tử chung",
+    "type": "STEP",
+    "parentId": "toan11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_2_1_2",
+    "name": "Dạng $\\frac{0}{0}$ Căn thức ➔ Nhân lượng liên hợp để xuất hiện nhân tử $(x - x_0)$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_2_1_3",
+    "name": "Mẹo Casio ➔ Nhập hàm $\\rightarrow$ Bấm CALC $x = x_0 + 0,0000001 \\rightarrow$ Đọc kết quả",
+    "type": "STEP",
+    "parentId": "toan11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_3_2_2",
+    "name": "Giới hạn một bên & Giới hạn tại vô cực",
+    "type": "LESSON",
+    "parentId": "toan11_top_3_2",
+    "examples": [
+      {
+        "id": "toan11_ex_3_2_2_1",
+        "question": "Giới hạn một bên: Tính $\\lim_{x \\to 1^+} \\frac{2x + 1}{x - 1}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: $x \\to 1^+$ nghĩa là $x > 1 \\rightarrow x - 1 > 0$. tử số có giới hạn bằng $3 > 0$. Bẫy: Không xét dấu của mẫu số. ➔ Áp dụng quy tắc/phương pháp: Giới hạn dạng $\\frac{c}{0}$ ($c \\ne 0$) kết quả ra $\\pm \\infty$ phụ thuộc vào dấu tử và mẫu. ➔ Tính toán/Lập luận: $\\lim_{x \\to 1^+} (2x + 1) = 3 > 0$; $\\lim_{x \\to 1^+} (x - 1) = 0$ và $x - 1 > 0$ khi $x > 1$. Do đó $\\lim_{x \\to 1^+} \\frac{2x + 1}{x - 1} = +\\infty$. ➔ Kết luận: Kết quả bằng $+\\infty$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_3_2_2_1",
+    "name": "Dạng $\\frac{c}{0}$ ➔ Xét dấu tử và mẫu $\\rightarrow$ Kết quả $\\pm \\infty$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_2_2_2",
+    "name": "Giới hạn $x \\to x_0^+ \\rightarrow$ CALC $x_0 + 10^{-7}$; $x \\to x_0^- \\rightarrow$ CALC $x_0 - 10^{-7}$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_3_3",
+    "name": "Hàm số liên tục & Ứng dụng",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_3",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_3_3_1",
+    "name": "Xét tính liên tục của hàm số tại 1 điểm & trên khoảng",
+    "type": "LESSON",
+    "parentId": "toan11_top_3_3",
+    "examples": [
+      {
+        "id": "toan11_ex_3_3_1_1",
+        "question": "Tìm tham số để hàm số liên tục: Tìm $m$ để hàm số $f(x) = \\begin{cases} \\frac{x^2 - 1}{x - 1} & \\text{khi } x \\ne 1 \\\\ m + 1 & \\text{khi } x = 1 \\end{cases}$ liên tục tại $x_0 = 1$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Điều kiện hàm số liên tục tại $x_0$: $\\lim_{x \\to x_0} f(x) = f(x_0)$. Bẫy: Quên tính giới hạn dạng $\\frac{0}{0}$. ➔ Áp dụng quy tắc/phương pháp: Tính $\\lim_{x \\to 1} f(x)$ và cho bằng $f(1) = m + 1$. ➔ Tính toán/Lập luận: $\\lim_{x \\to 1} f(x) = \\lim_{x \\to 1} \\frac{(x-1)(x+1)}{x-1} = \\lim_{x \\to 1} (x+1) = 2$. $f(1) = m + 1$. Để hàm số liên tục tại $x_0 = 1 \\iff m + 1 = 2 \\iff m = 1$. ➔ Kết luận: $m = 1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_3_3_1_1",
+    "name": "Liên tục tại $x_0$ ➔ $\\lim_{x \\to x_0} f(x) = f(x_0)$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_3_3_1_2",
+    "name": "Liên tục một bên ➔ $\\lim_{x \\to x_0^+} f(x) = \\lim_{x \\to x_0^-} f(x) = f(x_0)$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_3_3_2",
+    "name": "Ứng dụng tính liên tục chứng minh PT có nghiệm",
+    "type": "LESSON",
+    "parentId": "toan11_top_3_3",
+    "examples": [
+      {
+        "id": "toan11_ex_3_3_2_1",
+        "question": "Chứng minh phương trình có nghiệm: Chứng minh phương trình $x^3 - 3x + 1 = 0$ có ít nhất 1 nghiệm trong khoảng $(0; 1)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Chứng minh phương trình $f(x) = 0$ có nghiệm trên khoảng $(a; b)$. ➔ Áp dụng quy tắc/phương pháp: Hàm $f(x)$ liên tục trên $[a; b]$ và $f(a) \\cdot f(b) < 0 \\rightarrow \\exists c \\in (a; b): f(c) = 0$. ➔ Tính toán/Lập luận: Đặt $f(x) = x^3 - 3x + 1$ liên tục trên $\\mathbb{R} \\rightarrow$ liên tục trên $[0; 1]$. Ta có $f(0) = 1 > 0$; $f(1) = -1 < 0 \\rightarrow f(0) \\cdot f(1) = -1 < 0$. Do đó phương trình có ít nhất 1 nghiệm $c \\in (0; 1)$. ➔ Kết luận: Điều phải chứng minh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_3_3_2_1",
+    "name": "Định lý Bolzano ➔ $f(x)$ liên tục trên $[a; b]$ & $f(a) \\cdot f(b) < 0 \\rightarrow \\exists c \\in (a; b): f(c) = 0$",
+    "type": "STEP",
+    "parentId": "toan11_les_3_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_4",
+    "name": "Hàm số mũ & Hàm số lôgarit",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_4_1",
+    "name": "Lũy thừa & Lôgarit",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_4",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_4_1_1",
+    "name": "Lũy thừa & Biến đổi biểu thức chứa lũy thừa",
+    "type": "LESSON",
+    "parentId": "toan11_top_4_1",
+    "examples": [
+      {
+        "id": "toan11_ex_4_1_1_1",
+        "question": "Rút gọn biểu thức lũy thừa: Rút gọn biểu thức $P = \\frac{a^{\\frac{4}{3}} \\cdot \\sqrt{a}}{a^{\\frac{1}{6}}}$ với $a > 0$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Biến đổi căn thức về lũy thừa số mũ hữu tỉ. Bẫy: Nhầm lẫn công thức $a^m \\cdot a^n = a^{m+n}$ với $(a^m)^n = a^{m \\cdot n}$. ➔ Áp dụng quy tắc/phương pháp: Đổi $\\sqrt{a} = a^{\\frac{1}{2}}$, áp dụng $a^m \\cdot a^n = a^{m+n}$ và $\\frac{a^m}{a^n} = a^{m-n}$. ➔ Tính toán/Lập luận: Tử $= a^{\\frac{4}{3}} \\cdot a^{\\frac{1}{2}} = a^{\\frac{4}{3} + \\frac{1}{2}} = a^{\\frac{11}{6}}$. Do đó $P = \\frac{a^{11/6}}{a^{1/6}} = a^{\\frac{11}{6} - \\frac{1}{6}} = a^{\\frac{10}{6}} = a^{\\frac{5}{3}}$. ➔ Kết luận: $P = a^{\\frac{5}{3}}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_4_1_1_1",
+    "name": "CT Lũy thừa ➔ $a^m \\cdot a^n = a^{m+n}$; $\\frac{a^m}{a^n} = a^{m-n}$; $(a^m)^n = a^{m \\cdot n}$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_4_1_1_2",
+    "name": "Căn thức ➔ $\\sqrt[n]{a^m} = a^{\\frac{m}{n}} \\,(a > 0)$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_4_1_2",
+    "name": "Tính chất & Công thức lôgarit thực chiến",
+    "type": "LESSON",
+    "parentId": "toan11_top_4_1",
+    "examples": [
+      {
+        "id": "toan11_ex_4_1_2_1",
+        "question": "Biến đổi lôgarit: Tính giá trị biểu thức $A = \\log_2 12 - \\log_2 3 + \\log_2 8$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Biểu thức lôgarit cùng cơ số 2. Bẫy: Nhầm $\\log_a(x-y) = \\frac{\\log_a x}{\\log_a y}$. ➔ Áp dụng quy tắc/phương pháp: $\\log_a x + \\log_a y = \\log_a(xy)$; $\\log_a x - \\log_a y = \\log_a\\left(\\frac{x}{y}\\right)$. ➔ Tính toán/Lập luận: $A = \\log_2\\left(\\frac{12}{3}\\right) + \\log_2 8 = \\log_2 4 + \\log_2 8 = 2 + 3 = 5$. ➔ Kết luận: $A = 5$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_4_1_2_1",
+    "name": "CT Lôgarit ➔ $\\log_a(xy) = \\log_a x + \\log_a y$; $\\log_a\\left(\\frac{x}{y}\\right) = \\log_a x - \\log_a y$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_4_1_2_2",
+    "name": "Đổi cơ số ➔ $\\log_a b = \\frac{\\log_c b}{\\log_c a}$; $\\log_{a^k} b = \\frac{1}{k}\\log_a b$; $\\log_a b^{\\alpha} = \\alpha \\log_a b$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_4_2",
+    "name": "Đồ thị & Tính chất Hàm mũ, Logarit",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_4",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_4_2_1",
+    "name": "TXĐ, TGT & Sự biến thiên hàm Mũ, Logarit",
+    "type": "LESSON",
+    "parentId": "toan11_top_4_2",
+    "examples": [
+      {
+        "id": "toan11_ex_4_2_1_1",
+        "question": "Tìm TXĐ hàm logarit: Tìm tập xác định $D$ của hàm số $y = \\log_3(x^2 - 3x + 2)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hàm số $y = \\log_a U(x)$ xác định khi $U(x) > 0$. Bẫy: Cho $U(x) \\ge 0$ (lấy dấu '='). ➔ Áp dụng quy tắc/phương pháp: Bất phương trình $x^2 - 3x + 2 > 0$. ➔ Tính toán/Lập luận: $x^2 - 3x + 2 = 0 \\iff x = 1$ hoặc $x = 2$. Tam thức bậc hai cùng dấu với $a=1>0$ ngoài khoảng nghiệm $\\rightarrow x < 1$ hoặc $x > 2$. ➔ Kết luận: $D = (-\\infty; 1) \\cup (2; +\\infty)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_4_2_1_1",
+    "name": "TXĐ Hàm Mũ $y = a^x \\rightarrow D = \\mathbb{R}$; Hàm Log $y = \\log_a x \\rightarrow D = (0; +\\infty)$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_4_2_1_2",
+    "name": "Biến thiên ➔ $a > 1 \\rightarrow \\text{Đồng biến}$; $0 < a < 1 \\rightarrow \\text{Nghịch biến}$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_4_3",
+    "name": "Phương trình & Bất phương trình Mũ, Logarit",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_4",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_4_3_1",
+    "name": "Giải phương trình Mũ & Lôgarit thực chiến",
+    "type": "LESSON",
+    "parentId": "toan11_top_4_3",
+    "examples": [
+      {
+        "id": "toan11_ex_4_3_1_1",
+        "question": "Giải PT Logarit đặt ẩn phụ: Giải phương trình $\\log_2^2 x - 3\\log_2 x + 2 = 0$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Phương trình bậc hai đối với $\\log_2 x$. Bẫy: Quên điều kiện xác định $x > 0$. ➔ Áp dụng quy tắc/phương pháp: ĐK $x > 0$. Đặt $t = \\log_2 x \\rightarrow t^2 - 3t + 2 = 0$. ➔ Tính toán/Lập luận: $t^2 - 3t + 2 = 0 \\iff t = 1$ hoặc $t = 2$. Với $t = 1 \\rightarrow \\log_2 x = 1 \\iff x = 2^1 = 2$ (thỏa mãn). Với $t = 2 \\rightarrow \\log_2 x = 2 \\iff x = 2^2 = 4$ (thỏa mãn). ➔ Kết luận: Tập nghiệm $S = \\{2; 4\\}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_4_3_1_1",
+    "name": "Đưa về cùng cơ số ➔ $a^{f(x)} = a^{g(x)} \\iff f(x) = g(x)$; $\\log_a f(x) = \\log_a g(x) \\iff f(x) = g(x) > 0$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_4_3_1_2",
+    "name": "Đặt ẩn phụ ➔ $a^x = t \\,(t > 0)$; $\\log_a x = t \\,(t \\in \\mathbb{R})$",
+    "type": "STEP",
+    "parentId": "toan11_les_4_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_4_3_2",
+    "name": "Giải bất phương trình Mũ & Lôgarit",
+    "type": "LESSON",
+    "parentId": "toan11_top_4_3",
+    "examples": [
+      {
+        "id": "toan11_ex_4_3_2_1",
+        "question": "Giải BPT Logarit cơ số nhỏ hơn 1: Giải bất phương trình $\\log_{0,5}(2x - 1) \\ge -1$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: BPT logarit có cơ số $a = 0,5 < 1$. Bẫy: Không đổi chiều bất phương trình và quên ĐKXĐ. ➔ Áp dụng quy tắc/phương pháp: ĐK $2x - 1 > 0 \\iff x > \\frac{1}{2}$. Vì cơ số $0,5 < 1 \\rightarrow$ Đổi chiều BPT. ➔ Tính toán/Lập luận: BPT $\\iff 2x - 1 \\le (0,5)^{-1} = 2 \\iff 2x \\le 3 \\iff x \\le \\frac{3}{2}$. Kết hợp điều kiện $x > \\frac{1}{2} \\rightarrow \\frac{1}{2} < x \\le \\frac{3}{2}$. ➔ Kết luận: Tập nghiệm $S = \\left(\\frac{1}{2}; \\frac{3}{2}\\right]$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_4_3_2_1",
+    "name": "Đổi chiều BPT ➔ $0 < a < 1 \\rightarrow$ Đổi chiều BPT; $a > 1 \\rightarrow$ Giữ nguyên chiều",
+    "type": "STEP",
+    "parentId": "toan11_les_4_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_5",
+    "name": "Đạo hàm & Ứng dụng",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_5_1",
+    "name": "Định nghĩa & Quy tắc tính Đạo hàm",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_5",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_5_1_1",
+    "name": "Tính đạo hàm bằng công thức hàm sơ cấp",
+    "type": "LESSON",
+    "parentId": "toan11_top_5_1",
+    "examples": [
+      {
+        "id": "toan11_ex_5_1_1_1",
+        "question": "Tính đạo hàm hàm số: Tính đạo hàm của hàm số $y = \\frac{2x - 1}{x + 1}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hàm số nhất biến $y = \\frac{ax+b}{cx+d}$. Bẫy: Áp dụng công thức $\\left(\\frac{u}{v}\\right)'$ tính toán cồng kềnh dễ sai dấu. ➔ Áp dụng quy tắc/phương pháp: Công thức tính nhanh $y' = \\frac{ad - bc}{(cx+d)^2}$. ➔ Tính toán/Lập luận: $a=2, b=-1, c=1, d=1$. $ad - bc = (2)(1) - (-1)(1) = 3$. Do đó $y' = \\frac{3}{(x+1)^2}$. ➔ Kết luận: $y' = \\frac{3}{(x+1)^2}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_5_1_1_1",
+    "name": "CT Cơ bản ➔ $(x^n)' = n x^{n-1}$; $(\\sqrt{x})' = \\frac{1}{2\\sqrt{x}}$; $\\left(\\frac{1}{x}\\right)' = -\\frac{1}{x^2}$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_5_1_1_2",
+    "name": "CT Lượng giác ➔ $(\\sin x)' = \\cos x$; $(\\cos x)' = -\\sin x$; $(\\tan x)' = \\frac{1}{\\cos^2 x}$; $(\\cot x)' = -\\frac{1}{\\sin^2 x}$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_5_1_1_3",
+    "name": "CT Mũ & Log ➔ $(a^x)' = a^x \\ln a$; $(e^x)' = e^x$; $(\\ln x)' = \\frac{1}{x}$; $(\\log_a x)' = \\frac{1}{x \\ln a}$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_5_1_1_4",
+    "name": "Quy tắc ➔ $(uv)' = u'v + uv'$; $\\left(\\frac{u}{v}\\right)' = \\frac{u'v - uv'}{v^2}$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_5_1_2",
+    "name": "Tính đạo hàm hàm hợp & Đạo hàm cấp hai",
+    "type": "LESSON",
+    "parentId": "toan11_top_5_1",
+    "examples": [
+      {
+        "id": "toan11_ex_5_1_2_1",
+        "question": "Tính đạo hàm hàm hợp: Tính đạo hàm của hàm số $y = (2x^2 - x + 1)^3$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hàm hợp dạng $y = u^n$. Bẫy: Quên nhân thêm $u'$ ở phía sau. ➔ Áp dụng quy tắc/phương pháp: Công thức $(u^n)' = n \\cdot u^{n-1} \\cdot u'$. ➔ Tính toán/Lập luận: $u = 2x^2 - x + 1 \\rightarrow u' = 4x - 1$. Do đó $y' = 3(2x^2 - x + 1)^2 \\cdot (4x - 1)$. ➔ Kết luận: $y' = 3(4x - 1)(2x^2 - x + 1)^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_5_1_2_1",
+    "name": "Đạo hàm Hàm hợp ➔ $y'_x = y'_u \\cdot u'_x$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_5_1_2_2",
+    "name": "Đạo hàm Cấp hai ➔ $y'' = (y')'$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_5_2",
+    "name": "Ứng dụng thực chiến của Đạo hàm",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_5",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_5_2_1",
+    "name": "Viết phương trình tiếp tuyến của đồ thị hàm số",
+    "type": "LESSON",
+    "parentId": "toan11_top_5_2",
+    "examples": [
+      {
+        "id": "toan11_ex_5_2_1_1",
+        "question": "Viết PTTT tại một điểm: Viết PTTT của đồ thị hàm số $y = x^3 - 3x + 2$ tại điểm $M(2; 4)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: PTTT tại điểm $M(x_0; y_0)$. Bẫy: Tính sai hệ số góc $k = y'(x_0)$. ➔ Áp dụng quy tắc/phương pháp: PTTT có dạng $y = y'(x_0)(x - x_0) + y_0$. ➔ Tính toán/Lập luận: Ta có $y' = 3x^2 - 3$. Hệ số góc $k = y'(2) = 3(2)^2 - 3 = 9$. $x_0 = 2, y_0 = 4$. PTTT: $y = 9(x - 2) + 4 \\iff y = 9x - 14$. ➔ Kết luận: PTTT là $y = 9x - 14$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_5_2_1_1",
+    "name": "PTTT ➔ $y = f'(x_0)(x - x_0) + y_0$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_5_2_1_2",
+    "name": "Hệ số góc ➔ $k = f'(x_0)$; Tiếp tuyến $\\parallel d: y=ax+b \\rightarrow k = a$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_5_2_2",
+    "name": "Bài toán ý nghĩa vật lý & Ứng dụng thực tế",
+    "type": "LESSON",
+    "parentId": "toan11_top_5_2",
+    "examples": [
+      {
+        "id": "toan11_ex_5_2_2_1",
+        "question": "Ý nghĩa vật lý đạo hàm: Một chuyển động thẳng xác định bởi phương trình $s(t) = t^3 - 3t^2 + 5t$ ($t$ tính bằng giây, $s$ tính bằng mét). Tính gia tốc tại thời điểm $t = 3\\text{s}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tính vận tốc $v(t)$ và gia tốc $a(t)$ từ phương trình quãng đường $s(t)$. Bẫy: Nhầm $a(t) = s'(t)$ thay vì $s''(t)$. ➔ Áp dụng quy tắc/phương pháp: $v(t) = s'(t)$; $a(t) = v'(t) = s''(t)$. ➔ Tính toán/Lập luận: $v(t) = s'(t) = 3t^2 - 6t + 5$. $a(t) = v'(t) = 6t - 6$. Tại $t = 3$: $a(3) = 6(3) - 6 = 12\\text{ m/s}^2$. ➔ Kết luận: Gia tốc bằng $12\\text{ m/s}^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_5_2_2_1",
+    "name": "Ý nghĩa Vật lý ➔ $v(t) = s'(t)$; $a(t) = v'(t) = s''(t)$",
+    "type": "STEP",
+    "parentId": "toan11_les_5_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_6",
+    "name": "Quan hệ song song trong không gian",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_6_1",
+    "name": "Đại cương Đường thẳng & Mặt phẳng",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_6",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_6_1_1",
+    "name": "Xác định giao tuyến của 2 mặt phẳng & Giao điểm",
+    "type": "LESSON",
+    "parentId": "toan11_top_6_1",
+    "examples": [
+      {
+        "id": "toan11_ex_6_1_1_1",
+        "question": "Tìm giao tuyến hai mặt phẳng: Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$. Tìm giao tuyến của $(SAC)$ và $(SBD)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tìm giao tuyến bằng hai điểm chung. Bẫy: Xác định sai giao điểm $O = AC \\cap BD$. ➔ Áp dụng quy tắc/phương pháp: Tìm hai điểm chung phân biệt của $(SAC)$ và $(SBD)$. ➔ Tính toán/Lập luận: Điểm chung thứ nhất là $S$. Trong mặt phẳng $(ABCD)$, $AC \\cap BD = O \\rightarrow O \\in AC \\subset (SAC)$ và $O \\in BD \\subset (SBD) \\rightarrow O$ là điểm chung thứ hai. Do đó $(SAC) \\cap (SBD) = SO$. ➔ Kết luận: Giao tuyến là đường thẳng $SO$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_6_1_1_1",
+    "name": "Tìm Giao tuyến ➔ Tìm 2 điểm chung phân biệt $A, B \\rightarrow (P) \\cap (Q) = AB$",
+    "type": "STEP",
+    "parentId": "toan11_les_6_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_6_1_1_2",
+    "name": "Tìm Giao điểm $d \\cap (P)$ ➔ Tìm $a \\subset (P)$ sao cho $d \\cap a = M \\rightarrow d \\cap (P) = M$",
+    "type": "STEP",
+    "parentId": "toan11_les_6_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_6_2",
+    "name": "Mạch Quan hệ Song song",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_6",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_6_2_1",
+    "name": "Chứng minh Đường thẳng song song Mặt phẳng",
+    "type": "LESSON",
+    "parentId": "toan11_top_6_2",
+    "examples": [
+      {
+        "id": "toan11_ex_6_2_1_1",
+        "question": "Chứng minh d // (P): Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Gọi $M, N$ lần lượt là trung điểm của $SA, SB$. Chứng minh $MN \\parallel (ABCD)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Chứng minh $d \\parallel (P)$. Bẫy: Quên khẳng định $d \\not\\subset (P)$. ➔ Áp dụng quy tắc/phương pháp: $\\left. \\begin{array}{l} d \\not\\subset (P) \\\\ a \\subset (P) \\\\ d \\parallel a \\end{array} \\right\\} \\rightarrow d \\parallel (P)$. ➔ Tính toán/Lập luận: $M, N$ là trung điểm $SA, SB \\rightarrow MN$ là đường trung bình $\\triangle SAB \\rightarrow MN \\parallel AB$. Mà $AB \\subset (ABCD)$ và $MN \\not\\subset (ABCD) \\rightarrow MN \\parallel (ABCD)$. ➔ Kết luận: Điều phải chứng minh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_6_2_1_1",
+    "name": "ĐC $d \\parallel (P)$ ➔ $\\left. \\begin{array}{l} d \\not\\subset (P) \\\\ a \\subset (P) \\\\ d \\parallel a \\end{array} \\right\\} \\rightarrow d \\parallel (P)$",
+    "type": "STEP",
+    "parentId": "toan11_les_6_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_6_2_2",
+    "name": "Chứng minh Hai mặt phẳng song song & Thiết diện",
+    "type": "LESSON",
+    "parentId": "toan11_top_6_2",
+    "examples": [
+      {
+        "id": "toan11_ex_6_2_2_1",
+        "question": "Chứng minh (P) // (Q): Cho hình hộp $ABCD.A'B'C'D'$. Chứng minh $(BDA') \\parallel (B'D'C)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Chứng minh $(P) \\parallel (Q)$. Bẫy: Chọn hai đường thẳng song song với nhau trong hai mặt phẳng. ➔ Áp dụng quy tắc/phương pháp: Chứng minh $(P)$ chứa hai đường thẳng cắt nhau cùng song song với $(Q)$. ➔ Tính toán/Lập luận: Ta có $BD \\parallel B'D' \\subset (B'D'C) \\rightarrow BD \\parallel (B'D'C)$. Tương tự $BA' \\parallel CD' \\subset (B'D'C) \\rightarrow BA' \\parallel (B'D'C)$. Vì $BD \\cap BA' = B$ trong $(BDA') \\rightarrow (BDA') \\parallel (B'D'C)$. ➔ Kết luận: Điều phải chứng minh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_6_2_2_1",
+    "name": "ĐC $(P) \\parallel (Q)$ ➔ $\\left. \\begin{array}{l} a, b \\subset (P); a \\cap b = I \\\\ a \\parallel (Q), b \\parallel (Q) \\end{array} \\right\\} \\rightarrow (P) \\parallel (Q)$",
+    "type": "STEP",
+    "parentId": "toan11_les_6_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_7",
+    "name": "Quan hệ vuông góc, Góc & Khoảng cách trong không gian",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_7_1",
+    "name": "Mạch Quan hệ Vuông góc",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_7",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_7_1_1",
+    "name": "Chứng minh Đường thẳng vuông góc Mặt phẳng",
+    "type": "LESSON",
+    "parentId": "toan11_top_7_1",
+    "examples": [
+      {
+        "id": "toan11_ex_7_1_1_1",
+        "question": "Chứng minh d vuông góc (P): Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$ và đáy $ABCD$ là hình vuông. Chứng minh $BC \\perp (SAB)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Chứng minh đường thẳng vuông góc với mặt phẳng. Bẫy: Chọn 2 đường thẳng song song trong mặt phẳng. ➔ Áp dụng quy tắc/phương pháp: Chứng minh $d$ vuông góc với 2 đường thẳng cắt nhau nằm trong mặt phẳng. ➔ Tính toán/Lập luận: Do $ABCD$ là hình vuông $\\rightarrow BC \\perp AB$. Do $SA \\perp (ABCD) \\rightarrow SA \\perp BC$. Ta có $BC \\perp AB$ và $BC \\perp SA$, với $AB \\cap SA = A$ trong $(SAB) \\rightarrow BC \\perp (SAB)$. ➔ Kết luận: Điều phải chứng minh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_7_1_1_1",
+    "name": "ĐC $d \\perp (P)$ ➔ $\\left. \\begin{array}{l} d \\perp a, d \\perp b \\\\ a, b \\subset (P); a \\cap b = I \\end{array} \\right\\} \\rightarrow d \\perp (P)$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_7_1_1_2",
+    "name": "Tính chất ➔ $\\left. \\begin{array}{l} d \\perp (P) \\\\ a \\subset (P) \\end{array} \\right\\} \\rightarrow d \\perp a$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_7_1_2",
+    "name": "Chứng minh Hai mặt phẳng vuông góc",
+    "type": "LESSON",
+    "parentId": "toan11_top_7_1",
+    "examples": [
+      {
+        "id": "toan11_ex_7_1_2_1",
+        "question": "Chứng minh (P) vuông góc (Q): Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$. Chứng minh $(SAB) \\perp (ABCD)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Chứng minh hai mặt phẳng vuông góc. ➔ Áp dụng quy tắc/phương pháp: Chứng minh mặt phẳng này chứa một đường thẳng vuông góc với mặt phẳng kia. ➔ Tính toán/Lập luận: Ta có $SA \\perp (ABCD)$ (theo giả thiết). Mà $SA \\subset (SAB) \\rightarrow (SAB) \\perp (ABCD)$. ➔ Kết luận: Điều phải chứng minh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_7_1_2_1",
+    "name": "ĐC $(P) \\perp (Q)$ ➔ $\\left. \\begin{array}{l} a \\subset (P) \\\\ a \\perp (Q) \\end{array} \\right\\} \\rightarrow (P) \\perp (Q)$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_7_2",
+    "name": "Góc trong không gian",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_7",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_7_2_1",
+    "name": "Góc giữa Đường thẳng & Mặt phẳng",
+    "type": "LESSON",
+    "parentId": "toan11_top_7_2",
+    "examples": [
+      {
+        "id": "toan11_ex_7_2_1_1",
+        "question": "Tính góc giữa đường thẳng và mặt phẳng: Cho hình chóp $S.ABC$ có $SA \\perp (ABC)$, $SA = a\\sqrt{3}$, tam giác $ABC$ vuông tại $B$ với $AB = a$. Tính góc giữa $SB$ và $(ABC)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tìm góc giữa đường xiên $SB$ và mặt đáy $(ABC)$. Bẫy: Xác định sai hình chiếu của $S$ lên đáy. ➔ Áp dụng quy tắc/phương pháp: Hình chiếu của $S$ lên $(ABC)$ là $A \\rightarrow$ Hình chiếu của $SB$ là $AB \\rightarrow (SB, (ABC)) = \\widehat{SBA}$. ➔ Tính toán/Lập luận: Xét $\\triangle SAB$ vuông tại $A$: $\\tan \\widehat{SBA} = \\frac{SA}{AB} = \\frac{a\\sqrt{3}}{a} = \\sqrt{3} \\rightarrow \\widehat{SBA} = 60^\\circ$. ➔ Kết luận: Góc cần tìm bằng $60^\\circ$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_7_2_1_1",
+    "name": "Xác định góc $(d, (P))$ ➔ Tìm $H$ là hình chiếu vuông góc của $S$ lên $(P) \\rightarrow (SD, (P)) = \\widehat{SDH}$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_7_2_2",
+    "name": "Góc giữa Hai mặt phẳng (Góc nhị diện)",
+    "type": "LESSON",
+    "parentId": "toan11_top_7_2",
+    "examples": [
+      {
+        "id": "toan11_ex_7_2_2_1",
+        "question": "Tính góc giữa hai mặt phẳng: Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$, đáy $ABCD$ là hình vuông cạnh $a$, $SA = a$. Tính góc giữa $(SCD)$ và $(ABCD)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Góc giữa mặt bên và mặt đáy. ➔ Áp dụng quy tắc/phương pháp: Giao tuyến $CD$. Từ $A$ kẻ $AD \\perp CD$, nối $SD \\perp CD \\rightarrow \\widehat{((SCD), (ABCD))} = \\widehat{SDA}$. ➔ Tính toán/Lập luận: $\\triangle SAD$ vuông tại $A$ có $SA = AD = a \\rightarrow \\triangle SAD$ vuông cân tại $A \\rightarrow \\widehat{SDA} = 45^\\circ$. ➔ Kết luận: Góc giữa hai mặt phẳng bằng $45^\\circ$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_7_2_2_1",
+    "name": "Xác định góc nhị diện ➔ B1: Giao tuyến $c = (P) \\cap (Q)$; B2: Kẻ $a \\subset (P) \\perp c$, $b \\subset (Q) \\perp c \\rightarrow ((P), (Q)) = (a, b)$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_7_3",
+    "name": "Khoảng cách & Thể tích",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_7",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_7_3_1",
+    "name": "Tính khoảng cách từ điểm đến mặt phẳng & Chéo nhau",
+    "type": "LESSON",
+    "parentId": "toan11_top_7_3",
+    "examples": [
+      {
+        "id": "toan11_ex_7_3_1_1",
+        "question": "Tính khoảng cách từ chân đường cao: Cho hình chóp $S.ABC$ có $SA \\perp (ABC)$, $\\triangle ABC$ vuông tại $B$ với $AB = a, BC = a\\sqrt{3}, SA = a$. Tính $d(A, (SBC))$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Khoảng cách từ chân đường cao $A$ đến mặt bên $(SBC)$. Bẫy: Kẻ $AH \\perp SB$ nhưng quên chứng minh $AH \\perp (SBC)$. ➔ Áp dụng quy tắc/phương pháp: Vì $BC \\perp (SAB) \\rightarrow$ Kẻ $AH \\perp SB$ tại $H \\rightarrow AH \\perp (SBC) \\rightarrow d(A, (SBC)) = AH$. ➔ Tính toán/Lập luận: Trong $\\triangle SAB$ vuông tại $A$: $\\frac{1}{AH^2} = \\frac{1}{SA^2} + \\frac{1}{AB^2} = \\frac{1}{a^2} + \\frac{1}{a^2} = \\frac{2}{a^2} \\rightarrow AH = \\frac{a}{\\sqrt{2}} = \\frac{a\\sqrt{2}}{2}$. ➔ Kết luận: $d(A, (SBC)) = \\frac{a\\sqrt{2}}{2}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_7_3_1_1",
+    "name": "Khoảng cách từ Chân đường cao $A$ ➔ Mô hình Mẫu 1: Kẻ $AH \\perp SB \\rightarrow d = AH = \\frac{SA \\cdot AB}{\\sqrt{SA^2 + AB^2}}$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_7_3_1_2",
+    "name": "Khoảng cách Điểm bất kỳ ➔ Đổi điểm về Chân đường cao $A$ theo tỉ số khoảng cách",
+    "type": "STEP",
+    "parentId": "toan11_les_7_3_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_7_3_2",
+    "name": "Tính thể tích khối chóp & lăng trụ",
+    "type": "LESSON",
+    "parentId": "toan11_top_7_3",
+    "examples": [
+      {
+        "id": "toan11_ex_7_3_2_1",
+        "question": "Tính thể tích khối chóp: Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$, $SA = a\\sqrt{3}$, đáy $ABCD$ là hình vuông cạnh $a$. Tính thể tích $V_{S.ABCD}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tính thể tích khối chóp $V = \\frac{1}{3} B \\cdot h$. Bẫy: Quên hệ số $\\frac{1}{3}$. ➔ Áp dụng quy tắc/phương pháp: Diện tích đáy $B = S_{ABCD} = a^2$, chiều cao $h = SA = a\\sqrt{3}$. ➔ Tính toán/Lập luận: $V = \\frac{1}{3} \\cdot a^2 \\cdot a\\sqrt{3} = \\frac{a^3\\sqrt{3}}{3}$. ➔ Kết luận: Thể tích khối chóp bằng $\\frac{a^3\\sqrt{3}}{3}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_7_3_2_1",
+    "name": "Thể tích Khối chóp ➔ $V = \\frac{1}{3} B \\cdot h$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_7_3_2_2",
+    "name": "Thể tích Lăng trụ ➔ $V = B \\cdot h$",
+    "type": "STEP",
+    "parentId": "toan11_les_7_3_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_cat_8",
+    "name": "Thống kê mẫu số liệu ghép nhóm & Xác suất",
+    "type": "CATEGORY",
+    "parentId": "toan11_sbj",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_8_1",
+    "name": "Các số đặc trưng của Mẫu số liệu ghép nhóm",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_8",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_8_1_1",
+    "name": "Số trung bình & Mốt ($M_o$) của mẫu ghép nhóm",
+    "type": "LESSON",
+    "parentId": "toan11_top_8_1",
+    "examples": [
+      {
+        "id": "toan11_ex_8_1_1_1",
+        "question": "Tính số trung bình mẫu ghép nhóm: Mẫu số liệu ghép nhóm thời gian tự học (giờ) của 20 học sinh cho bởi: $[0;2): 4$, $[2;4): 10$, $[4;6): 6$. Tính số trung bình $\\bar{x}$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tính số trung bình từ bảng tần số ghép nhóm. Bẫy: Lấy mút trái hoặc mút phải thay vì giá trị đại diện $c_i$. ➔ Áp dụng quy tắc/phương pháp: Giá trị đại diện $c_i = \\frac{a_i + a_{i+1}}{2}$. $\\bar{x} = \\frac{\\sum m_i c_i}{n}$. ➔ Tính toán/Lập luận: Giá trị đại diện: $c_1 = 1, c_2 = 3, c_3 = 5$. Tổng mẫu $n = 4 + 10 + 6 = 20$. $\\bar{x} = \\frac{4(1) + 10(3) + 6(5)}{20} = \\frac{4 + 30 + 30}{20} = \\frac{64}{20} = 3,2$. ➔ Kết luận: Số trung bình $\\bar{x} = 3,2$ giờ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_8_1_1_1",
+    "name": "Số trung bình ➔ $\\bar{x} = \\frac{m_1 c_1 + m_2 c_2 + \\dots + m_k c_k}{n} \\,(c_i = \\text{giá trị đại diện})$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_8_1_1_2",
+    "name": "Mốt $M_o$ ➔ $M_o = a_j + \\frac{m_j - m_{j-1}}{(m_j - m_{j-1}) + (m_j - m_{j+1})} \\cdot h \\,(m_j = \\max m_i)$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_1_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_8_1_2",
+    "name": "Trung vị ($M_e$) & Tứ phân vị ($Q_1, Q_2, Q_3$)",
+    "type": "LESSON",
+    "parentId": "toan11_top_8_1",
+    "examples": [
+      {
+        "id": "toan11_ex_8_1_2_1",
+        "question": "Tính trung vị mẫu ghép nhóm: Cho mẫu ghép nhóm $n = 40$. Nhóm chứa $M_e$ là $[10; 15)$ có tần số $m_p = 15$, tổng tần số các nhóm trước là $12$. Tính $M_e$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Tính trung vị $M_e$ của mẫu ghép nhóm. Bẫy: Xác định sai nhóm chứa trung vị $\\frac{n}{2}$. ➔ Áp dụng quy tắc/phương pháp: Công thức $M_e = a_p + \\frac{\\frac{n}{2} - \\sum_{i=1}^{p-1} m_i}{m_p} \\cdot h$. ➔ Tính toán/Lập luận: $\\frac{n}{2} = 20$. $a_p = 10, h = 5, m_p = 15, \\sum_{i=1}^{p-1} m_i = 12$. $M_e = 10 + \\frac{20 - 12}{15} \\cdot 5 = 10 + \\frac{8}{3} = 12,67$. ➔ Kết luận: Trung vị $M_e \\approx 12,67$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_8_1_2_1",
+    "name": "Trung vị $M_e$ ➔ $M_e = a_p + \\frac{\\frac{n}{2} - C_{p-1}}{m_p} \\cdot h \\,(C_{p-1} = \\text{tần số tích lũy nhóm trước})$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_1_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_top_8_2",
+    "name": "Quy tắc tính Xác suất",
+    "type": "TOPIC",
+    "parentId": "toan11_cat_8",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_8_2_1",
+    "name": "Công thức cộng xác suất & Biến cố xung khắc",
+    "type": "LESSON",
+    "parentId": "toan11_top_8_2",
+    "examples": [
+      {
+        "id": "toan11_ex_8_2_1_1",
+        "question": "Tính xác suất biến cố hợp: Cho hai biến cố $A$ và $B$ xung khắc với $P(A) = 0,3$ và $P(B) = 0,4$. Tính $P(A \\cup B)$.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hai biến cố xung khắc $A \\cap B = \\emptyset$. Bẫy: Nhầm lẫn biến cố xung khắc với biến cố độc lập. ➔ Áp dụng quy tắc/phương pháp: Khi $A, B$ xung khắc $\\rightarrow P(A \\cup B) = P(A) + P(B)$. ➔ Tính toán/Lập luận: $P(A \\cup B) = 0,3 + 0,4 = 0,7$. ➔ Kết luận: $P(A \\cup B) = 0,7$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_8_2_1_1",
+    "name": "Tổng quát ➔ $P(A \\cup B) = P(A) + P(B) - P(AB)$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_8_2_1_2",
+    "name": "Xung khắc ➔ $A \\cap B = \\emptyset \\rightarrow P(A \\cup B) = P(A) + P(B)$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_2_1",
+    "examples": null
+  },
+  {
+    "id": "toan11_les_8_2_2",
+    "name": "Công thức nhân xác suất & Biến cố độc lập",
+    "type": "LESSON",
+    "parentId": "toan11_top_8_2",
+    "examples": [
+      {
+        "id": "toan11_ex_8_2_2_1",
+        "question": "Tính xác suất biến cố độc lập: Hai xạ thủ cùng bắn độc lập vào một bia. Xác suất bắn trúng của xạ thủ 1 là $0,8$, xạ thủ 2 là $0,7$. Tính xác suất để cả hai xạ thủ đều bắn trúng.",
+        "answer": "Nhận diện dạng bài & Né bẫy: Hai biến cố độc lập. Bẫy: Cộng xác suất thay vì nhân. ➔ Áp dụng quy tắc/phương pháp: Khi $A, B$ độc lập $\\rightarrow P(AB) = P(A) \\cdot P(B)$. ➔ Tính toán/Lập luận: $P(AB) = 0,8 \\times 0,7 = 0,56$. ➔ Kết luận: Xác suất bằng $0,56$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan11_stp_8_2_2_1",
+    "name": "Độc lập ➔ $A, B \\text{ độc lập} \\iff P(AB) = P(A) \\cdot P(B)$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_2_2",
+    "examples": null
+  },
+  {
+    "id": "toan11_stp_8_2_2_2",
+    "name": "Biến cố đối ➔ $P(\\bar{A}) = 1 - P(A) \\rightarrow P(\\text{Ít nhất 1}) = 1 - P(\\text{Không có ai})$",
+    "type": "STEP",
+    "parentId": "toan11_les_8_2_2",
+    "examples": null
+  }
+]

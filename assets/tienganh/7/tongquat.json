@@ -1,0 +1,2520 @@
+[
+  {
+    "id": "eng7_sub",
+    "name": "Tiếng Anh 7 (Global Success)\nTừ con số 0 -> Tự suy luận",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "eng7_cat0",
+    "name": "[Nền tảng] Cho người mất gốc\nTừ loại -> Câu -> Tư duy nhận dạng",
+    "type": "CATEGORY",
+    "parentId": "eng7_sub",
+    "examples": null
+  },
+  {
+    "id": "eng7_top0_1",
+    "name": "[Topic] Từ loại & Câu cơ bản\nBiết từ làm vai gì -> Ghép thành câu",
+    "type": "TOPIC",
+    "parentId": "eng7_cat0",
+    "examples": null
+  },
+  {
+    "id": "eng7_les0_1_1",
+    "name": "[Bài] Từ loại cơ bản\n7 vai trò của từ trong câu",
+    "type": "LESSON",
+    "parentId": "eng7_top0_1",
+    "examples": [
+      {
+        "id": "eng7_ex0_1_1_1",
+        "question": "[Mức 1 - Trắc nghiệm] Từ 'quickly' trong câu 'He runs quickly.' thuộc từ loại nào?\nA. noun   B. adjective   C. adverb   D. verb",
+        "answer": "Bước 1: Tìm manh mối: 'quickly' đứng sau động từ 'runs', có đuôi -ly.\nBước 2: Loại trừ: noun (danh từ) trả lời 'ai/cái gì' -> không hợp; adjective (tính từ) bổ nghĩa danh từ, mà ở đây không có danh từ đứng ngay sau -> loại; verb (động từ) là 'runs' rồi -> loại.\nBước 3: Áp dụng quy tắc: từ bổ nghĩa cho động từ, trả lời 'chạy NHƯ THẾ NÀO' là trạng từ.\nBước 4: Kết luận: Đáp án C. adverb. Dịch: Anh ấy chạy nhanh.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 308\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"306\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"24\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">7 từ loại cơ bản: hỏi vai trò, không hỏi nghĩa</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Từ loại</text><text x=\"175\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Trả lời câu hỏi</text><text x=\"415\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"32\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"91\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Danh từ (N)</text><text x=\"175\" y=\"91\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Ai? Cái gì? Nơi nào?</text><text x=\"415\" y=\"91\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">teacher, book, Hue</text><rect x=\"20\" y=\"102\" width=\"560\" height=\"32\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"123\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Đại từ (Pron)</text><text x=\"175\" y=\"123\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Thay cho danh từ</text><text x=\"415\" y=\"123\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">I, he, they, mine</text><rect x=\"20\" y=\"134\" width=\"560\" height=\"32\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"155\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Động từ (V)</text><text x=\"175\" y=\"155\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Làm gì? Là gì?</text><text x=\"415\" y=\"155\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">eat, play, be</text><rect x=\"20\" y=\"166\" width=\"560\" height=\"32\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"187\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Tính từ (Adj)</text><text x=\"175\" y=\"187\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Như thế nào? (bổ nghĩa N)</text><text x=\"415\" y=\"187\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">big, happy, boring</text><rect x=\"20\" y=\"198\" width=\"560\" height=\"32\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"219\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Trạng từ (Adv)</text><text x=\"175\" y=\"219\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Thế nào? Khi nào? (bổ nghĩa V)</text><text x=\"415\" y=\"219\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">quickly, always, very</text><rect x=\"20\" y=\"230\" width=\"560\" height=\"32\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"251\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Giới từ (Prep)</text><text x=\"175\" y=\"251\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Ở đâu? Lúc nào? (+ N)</text><text x=\"415\" y=\"251\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">in, on, at, to</text><rect x=\"20\" y=\"262\" width=\"560\" height=\"32\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"283\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Liên từ (Conj)</text><text x=\"175\" y=\"283\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Nối từ / mệnh đề</text><text x=\"415\" y=\"283\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"normal\">and, but, because</text></svg>"
+      },
+      {
+        "id": "eng7_ex0_1_1_2",
+        "question": "[Mức 2 - Chọn từ] She sings very _____. (beautiful / beautifully)",
+        "answer": "Bước 1: Manh mối: 'sings' là động từ; sau 'very' cần một từ bổ nghĩa cho hành động hát.\nBước 2: Bẫy: 'beautiful' nghe quen vì hay gặp 'a beautiful girl', nhưng tính từ chỉ bổ nghĩa danh từ.\nBước 3: Quy tắc: bổ nghĩa động từ -> trạng từ (adj + -ly).\nBước 4: Đáp án: beautifully. Dịch: Cô ấy hát rất hay.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_1_1_3",
+        "question": "[Mức 3 - Sửa lỗi] He drives very careful in the rain.",
+        "answer": "Bước 1: Manh mối: 'drives' là động từ, 'careful' đứng sau nó và trả lời 'lái NHƯ THẾ NÀO'.\nBước 2: Phân tích: 'careful' là tính từ, không bổ nghĩa được cho động từ.\nBước 3: Quy tắc: bổ nghĩa động từ -> trạng từ: careful + ly = carefully.\nBước 4: Câu đúng: He drives very carefully in the rain. Dịch: Anh ấy lái xe rất cẩn thận khi trời mưa.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step0_1_1_1",
+    "name": "[Bản chất]:\nTừ = viên gạch; từ loại = VAI TRÒ của viên gạch\nĐừng hỏi 'từ này nghĩa gì' trước\nHỏi trước: 'từ này đóng vai gì trong câu?'",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_1_2",
+    "name": "[Lý thuyết]:\nDanh từ: người, vật, nơi chốn (teacher, Hue)\nĐại từ: thay danh từ (I, he, they)\nĐộng từ: hành động/trạng thái (eat, be)\nTính từ: bổ nghĩa danh từ (big, happy)\nTrạng từ: bổ nghĩa động từ/tính từ (quickly, very)\nGiới từ: in, on, at + N\nLiên từ: and, but, because",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_1_3",
+    "name": "[Mẹo nhận biết]:\nĐuôi danh từ: -tion, -ment, -ness, -er/-or\nĐuôi tính từ: -ful, -ous, -ive, -al, -y\nĐuôi trạng từ: -ly (adj + ly)\nVị trí: a/the + ___ + N -> tính từ\nVị trí: to + ___ -> động từ nguyên mẫu\nVị trí: be + ___ -> tính từ hoặc danh từ",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_1_4",
+    "name": "[Bẫy thường gặp]:\n-ly chưa chắc là trạng từ: friendly, lovely = tính từ\nfast, hard, late: vừa tính từ vừa trạng từ\nDùng tính từ để bổ nghĩa động từ (drive careful -> SAI)\nDùng trạng từ sau 'be' (She is quickly -> SAI)",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les0_1_2",
+    "name": "[Bài] Câu cơ bản S + V + O\nBe hay động từ thường?",
+    "type": "LESSON",
+    "parentId": "eng7_top0_1",
+    "examples": [
+      {
+        "id": "eng7_ex0_1_2_1",
+        "question": "[Mức 1 - Trắc nghiệm] My parents _____ teachers.\nA. am   B. is   C. are   D. be",
+        "answer": "Bước 1: Manh mối: sau chỗ trống là danh từ 'teachers' (chỉ nghề nghiệp) -> cần động từ 'là' = to be.\nBước 2: Bẫy: chọn theo 'parents' có đuôi s nên dễ chọn nhầm 'is'; phải xét chủ ngữ.\nBước 3: Quy tắc: My parents = they (số nhiều) -> are. (I -> am; he/she/it -> is; you/we/they -> are)\nBước 4: Đáp án C. are. Dịch: Bố mẹ tôi là giáo viên.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 232\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"230\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Khung câu: bắt buộc có S và V</text><rect x=\"40\" y=\"48\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#475569\"/><text x=\"115\" y=\"70\" font-size=\"15\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">S (ai?)</text><text x=\"115\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#334155\" font-weight=\"normal\">She</text><rect x=\"225\" y=\"48\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#FEF9C3\" stroke=\"#475569\"/><text x=\"300\" y=\"70\" font-size=\"15\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">V (làm gì?)</text><text x=\"300\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#334155\" font-weight=\"normal\">reads</text><rect x=\"410\" y=\"48\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#475569\"/><text x=\"485\" y=\"70\" font-size=\"15\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">O (cái gì?)</text><text x=\"485\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#334155\" font-weight=\"normal\">books</text><text x=\"300\" y=\"128\" font-size=\"13\" text-anchor=\"middle\" fill=\"#475569\" font-weight=\"normal\">S + V (+ O): hành động</text><rect x=\"40\" y=\"140\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#475569\"/><text x=\"115\" y=\"162\" font-size=\"15\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">S</text><text x=\"115\" y=\"180\" font-size=\"13\" text-anchor=\"middle\" fill=\"#334155\" font-weight=\"normal\">He</text><rect x=\"225\" y=\"140\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#FEF9C3\" stroke=\"#475569\"/><text x=\"300\" y=\"162\" font-size=\"15\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">be</text><text x=\"300\" y=\"180\" font-size=\"13\" text-anchor=\"middle\" fill=\"#334155\" font-weight=\"normal\">is</text><rect x=\"410\" y=\"140\" width=\"150\" height=\"50\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#475569\"/><text x=\"485\" y=\"162\" font-size=\"15\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Adj / N / nơi</text><text x=\"485\" y=\"180\" font-size=\"13\" text-anchor=\"middle\" fill=\"#334155\" font-weight=\"normal\">tall</text><text x=\"300\" y=\"214\" font-size=\"13\" text-anchor=\"middle\" fill=\"#475569\" font-weight=\"normal\">S + be + Adj/N/nơi chốn: trạng thái, vị trí</text></svg>"
+      },
+      {
+        "id": "eng7_ex0_1_2_2",
+        "question": "[Mức 2 - Sắp xếp] school / to / goes / She / every day",
+        "answer": "Bước 1: Tìm chủ ngữ S: 'She'. Tìm động từ V: 'goes'.\nBước 2: Phần còn lại: 'to school' (đi đến đâu), 'every day' (khi nào).\nBước 3: Quy tắc: S + V + nơi chốn + thời gian.\nBước 4: Đáp án: She goes to school every day. Dịch: Cô ấy đi học mỗi ngày.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_1_2_3",
+        "question": "[Mức 3 - Sửa lỗi] She is like pizza very much.",
+        "answer": "Bước 1: Tìm động từ chính: 'like' (thích) là hành động/cảm xúc.\nBước 2: Phát hiện lỗi: 'is' và 'like' đứng liền nhau -> dư một động từ. Với 'like' phải dùng chủ ngữ ngôi 3 số ít + s.\nBước 3: Quy tắc: câu có động từ thường thì KHÔNG thêm be: S + V(s/es) + O.\nBước 4: Câu đúng: She likes pizza very much. Dịch: Cô ấy rất thích pizza.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step0_1_2_1",
+    "name": "[Bản chất]:\nCâu = 1 ý trọn vẹn: AI + LÀM GÌ / LÀ GÌ\nTiếng Việt được bỏ chủ ngữ ('Mưa rồi')\nTiếng Anh BẮT BUỘC có S và V",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_2_2",
+    "name": "[Công thức]:\nS + V (+ O): She reads books.\nS + be + Adj/N/nơi chốn: He is tall. They are at school.",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_2_3",
+    "name": "[Be hay động từ thường?]:\nCó hành động (eat, play, go) -> động từ thường\nChỉ 'là / thì / ở' -> be (am/is/are)\nI -> am; he/she/it -> is; you/we/they -> are",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_2_4",
+    "name": "[Bẫy thường gặp]:\nThiếu be: She very tall -> SAI\n2 động từ chính liền nhau: She is like -> SAI\nThiếu s/es với he/she/it\nSai trật tự: Goes she to school -> SAI",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les0_1_3",
+    "name": "[Bài] Quy tắc thêm đuôi\n-s/es, -ing, -ed",
+    "type": "LESSON",
+    "parentId": "eng7_top0_1",
+    "examples": [
+      {
+        "id": "eng7_ex0_1_3_1",
+        "question": "[Mức 1 - Chia động từ] She _____ (watch) TV every evening.",
+        "answer": "Bước 1: Manh mối: 'every evening' -> thói quen; chủ ngữ 'She' là ngôi 3 số ít.\nBước 2: Bẫy: chỉ thêm -s thành 'watchs' (sai chính tả).\nBước 3: Quy tắc: động từ tận cùng -ch/-sh/-s/-x/-z/-o + es.\nBước 4: Đáp án: watches. Dịch: Cô ấy xem TV mỗi tối.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_1_3_2",
+        "question": "[Mức 2 - Viết V-ing] Viết dạng V-ing của: run, make, lie.",
+        "answer": "Bước 1: Xét từng từ: run (1 âm tiết, phụ âm-nguyên âm-phụ âm), make (tận cùng e), lie (tận cùng ie).\nBước 2: Bẫy: viết 'runing', 'makeing', 'lieing'.\nBước 3: Quy tắc: run + n -> gấp đôi phụ âm: running; make -> bỏ e: making; lie -> ie đổi thành y: lying.\nBước 4: Đáp án: running, making, lying.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_1_3_3",
+        "question": "[Mức 3 - Tìm lỗi] Chọn câu SAI: A. He watchs TV.  B. She goes home.  C. It rains a lot.  D. We play football.",
+        "answer": "Bước 1: Xét từng câu: chủ ngữ ngôi 3 số ít (He, She, It) thì động từ cần s/es; We + V nguyên.\nBước 2: Đối chiếu đuôi: 'watch' tận cùng ch; 'go' tận cùng o; 'rain' đuôi thường.\nBước 3: Quy tắc: ch -> +es (watches); o -> +es (goes); đuôi thường -> +s (rains).\nBước 4: Đáp án A (phải là watches).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step0_1_3_1",
+    "name": "[Bản chất]:\nĐuôi thay đổi để giữ nguyên CÁCH ĐỌC\nQuy tắc chính tả sinh ra từ cách phát âm\nHọc quy tắc = đỡ phải nhớ từng từ",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_3_2",
+    "name": "[Thêm -s/-es]:\nThường: +s (play -> plays)\nTận cùng ch, sh, s, x, z, o: +es (watch -> watches)\nPhụ âm + y: đổi y thành ies (study -> studies)\nĐặc biệt: have -> has",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_3_3",
+    "name": "[Thêm -ing]:\nTận cùng e: bỏ e (make -> making)\nTận cùng ie: đổi thành ying (lie -> lying)\n1 âm tiết dạng phụ âm-nguyên âm-phụ âm: gấp đôi (run -> running)\nKhông gấp đôi w, x, y (fix -> fixing)",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_3_4",
+    "name": "[Thêm -ed]:\nThường: +ed (play -> played)\nTận cùng e: +d (live -> lived)\nPhụ âm + y: đổi y thành ied (study -> studied)\n1 âm tiết dạng phụ âm-nguyên âm-phụ âm: gấp đôi (stop -> stopped)",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_1_3_5",
+    "name": "[Bẫy thường gặp]:\nwatchs, studys, makeing, runing, studyed\nplay -> played (nguyên âm + y giữ nguyên y)\nBất quy tắc không theo -ed: go -> went, buy -> bought",
+    "type": "STEP",
+    "parentId": "eng7_les0_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_top0_2",
+    "name": "[Topic] Tư duy nhận dạng\nSignal words, ngữ cảnh, bẫy đề thi",
+    "type": "TOPIC",
+    "parentId": "eng7_cat0",
+    "examples": null
+  },
+  {
+    "id": "eng7_les0_2_1",
+    "name": "[Bài] Signal words\nTìm manh mối -> Chọn thì",
+    "type": "LESSON",
+    "parentId": "eng7_top0_2",
+    "examples": [
+      {
+        "id": "eng7_ex0_2_1_1",
+        "question": "[Mức 1 - Chia động từ] She _____ (go) to the gym every morning.",
+        "answer": "Bước 1: Tìm signal word: 'every morning' -> lặp lại hằng ngày.\nBước 2: Loại trừ: không có 'now' hay mốc quá khứ nên không phải thì tiếp diễn hay quá khứ.\nBước 3: Quy tắc: thói quen -> Hiện tại đơn; She là ngôi 3 số ít, 'go' tận cùng o nên thêm es.\nBước 4: Đáp án: goes. Dịch: Cô ấy đi tập gym mỗi sáng.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_2_1_2",
+        "question": "[Mức 2 - Trắc nghiệm] Listen! Someone _____ in the next room.\nA. sings   B. sang   C. is singing   D. will sing",
+        "answer": "Bước 1: Signal word: 'Listen!' (mệnh lệnh gây chú ý) -> việc đang xảy ra ngay lúc nói.\nBước 2: Loại trừ: sings (thói quen) -> không hợp; sang (quá khứ) -> không có mốc quá khứ; will sing -> không có mốc tương lai.\nBước 3: Quy tắc: đang xảy ra -> S + am/is/are + V-ing.\nBước 4: Đáp án C. Dịch: Nghe này! Có ai đang hát ở phòng bên.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_2_1_3",
+        "question": "[Mức 3 - Câu có 2 vế tương phản] I usually _____ (have) bread for breakfast, but this morning I _____ (have) noodles.",
+        "answer": "Bước 1: Hai signal word khác nhau: 'usually' (thói quen) và 'this morning' (lúc này, tạm thời).\nBước 2: Bẫy: chia cả hai vế cùng một thì. Mỗi vế phải xét signal word riêng.\nBước 3: Quy tắc: vế 1 Hiện tại đơn; vế 2 Hiện tại tiếp diễn (have = ăn, được dùng ở thì tiếp diễn).\nBước 4: Đáp án: have - am having. Dịch: Tôi thường ăn bánh mì vào bữa sáng, nhưng sáng nay tôi đang ăn mì.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_2_1_4",
+        "question": "[Mức 4 - Sửa lỗi] She often is going to school by bike.",
+        "answer": "Bước 1: Signal word: 'often' -> thói quen -> Hiện tại đơn.\nBước 2: Phát hiện lỗi: dùng 'is going' (tiếp diễn) với trạng từ tần suất.\nBước 3: Quy tắc: often + Hiện tại đơn; She là ngôi 3 số ít: goes.\nBước 4: Câu đúng: She often goes to school by bike. Dịch: Cô ấy thường đi học bằng xe đạp.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step0_2_1_1",
+    "name": "[Bản chất]:\nGiống thám tử: tìm manh mối rồi mới kết luận\nTrạng từ thời gian = 'nhãn' của thì\nKhông có nhãn -> đọc nghĩa cả câu",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_2_1_2",
+    "name": "[Quy trình 4 bước]:\nBước 1: Gạch chân động từ cần chia\nBước 2: Tìm signal word (đầu, cuối câu)\nBước 3: Xác định thì\nBước 4: Kiểm tra chủ ngữ và dịch lại nghĩa",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_2_1_3",
+    "name": "[Bảng signal words]:\nHT đơn: always, usually, often, sometimes, never, every day\nHT tiếp diễn: now, at the moment, Look!, Listen!\nQK đơn: yesterday, last week, ago, in 2020\nTL đơn: tomorrow, next week, soon, I think",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_2_1_4",
+    "name": "[Bẫy thường gặp]:\nCâu 2 vế có 2 signal word khác nhau: chia riêng từng vế\nSignal word không rõ -> dựa nghĩa ngữ cảnh\nChỉ nhìn signal word mà quên chủ ngữ (he/she/it + s)",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les0_2_2",
+    "name": "[Bài] Đoán từ mới qua ngữ cảnh\nTránh bẫy đề thi",
+    "type": "LESSON",
+    "parentId": "eng7_top0_2",
+    "examples": [
+      {
+        "id": "eng7_ex0_2_2_1",
+        "question": "[Mức 1 - Chọn từ] The film was so _____ that I fell asleep. The story was slow and nothing happened.\nA. bored   B. boring   C. bore",
+        "answer": "Bước 1: Manh mối: 'fell asleep', 'slow', 'nothing happened' -> phim chán.\nBước 2: Loại trừ: 'bored' miêu tả cảm xúc của người; 'bore' là động từ, không đứng sau 'so'.\nBước 3: Quy tắc: miêu tả bản chất của vật/phim -> adj-ing.\nBước 4: Đáp án B. boring. Dịch: Bộ phim chán đến mức tôi ngủ quên.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_2_2_2",
+        "question": "[Mức 2 - Đoán nghĩa] 'A driverless car has no driver, so it drives itself.' Từ 'driverless' nghĩa là gì?",
+        "answer": "Bước 1: Tách từ: driver + less.\nBước 2: Manh mối ngữ cảnh: câu giải thích ngay sau 'has no driver'.\nBước 3: Quy tắc: hậu tố -less = không có.\nBước 4: Đáp án: không người lái. Dịch: Xe không người lái không có tài xế nên tự lái.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex0_2_2_3",
+        "question": "[Mức 3 - Tìm manh mối] Tom is shy, but his sister is very outgoing. She talks to everyone. 'outgoing' nghĩa là gì?",
+        "answer": "Bước 1: Manh mối: 'but' nối 2 ý tương phản với 'shy'.\nBước 2: Manh mối 2: câu sau giải thích 'talks to everyone'.\nBước 3: Quy tắc: trái nghĩa với 'shy' (rụt rè) + hành động nói chuyện với mọi người.\nBước 4: Đáp án: hướng ngoại, cởi mở.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step0_2_2_1",
+    "name": "[Bản chất]:\nKhông biết từ KHÔNG có nghĩa là bí\nXác định VAI TRÒ (từ loại) trước, NGHĨA sau\nĐoán + kiểm tra bằng ngữ cảnh",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_2_2_2",
+    "name": "[4 manh mối]:\n1) Vị trí: the ___ N -> tính từ\n2) Gốc + tiền tố/hậu tố\n3) Từ trái/đồng nghĩa gần đó (but, and, because)\n4) Giải thích sau dấu phẩy",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_2_2_3",
+    "name": "[Tiền tố / hậu tố]:\nun-, dis-, im-: phủ định\n-less: không có\n-ful: đầy\n-er/-or: người làm\n-able: có thể",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step0_2_2_4",
+    "name": "[Bẫy đề thi]:\nĐáp án gần nghĩa nhưng sai từ loại\nĐáp án đúng nghĩa nhưng sai collocation\nBẫy -ed/-ing\nBẫy chính tả (laboratory, exhibition)",
+    "type": "STEP",
+    "parentId": "eng7_les0_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_cat1",
+    "name": "[Ngữ pháp] Cấu trúc câu\nThì - Liên từ - Động từ - Mạo từ",
+    "type": "CATEGORY",
+    "parentId": "eng7_sub",
+    "examples": null
+  },
+  {
+    "id": "eng7_top1_1",
+    "name": "[Topic] Các thì cơ bản\nHT đơn, QK đơn, HT tiếp diễn, TL đơn",
+    "type": "TOPIC",
+    "parentId": "eng7_cat1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_1_1",
+    "name": "[Thì] Hiện tại đơn\nPresent Simple",
+    "type": "LESSON",
+    "parentId": "eng7_top1_1",
+    "examples": [
+      {
+        "id": "eng7_ex1_1_1_1",
+        "question": "[Mức 1 - Chia động từ] My mother _____ (cook) dinner every evening.",
+        "answer": "Bước 1: Signal word: 'every evening' -> thói quen lặp lại.\nBước 2: Chủ ngữ: 'My mother' = she (ngôi 3 số ít).\nBước 3: Quy tắc: Hiện tại đơn, ngôi 3 số ít + s; 'cook' đuôi thường -> cooks.\nBước 4: Đáp án: cooks. Dịch: Mẹ tôi nấu bữa tối mỗi buổi chiều tối.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 210\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"208\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"28\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Hiện tại đơn: lặp lại / luôn đúng</text><line x1=\"40\" y1=\"110\" x2=\"552\" y2=\"110\" stroke=\"#334155\" stroke-width=\"3\"/><polygon points=\"560,110 548,103 548,117\" fill=\"#334155\"/><line x1=\"300\" y1=\"96\" x2=\"300\" y2=\"140\" stroke=\"#DC2626\" stroke-width=\"2\" stroke-dasharray=\"5,4\"/><text x=\"130\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">QUÁ KHỨ</text><text x=\"300\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#DC2626\" font-weight=\"bold\">HIỆN TẠI (NOW)</text><text x=\"470\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">TƯƠNG LAI</text><circle cx=\"80\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><circle cx=\"150\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><circle cx=\"220\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><circle cx=\"300\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><circle cx=\"380\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><circle cx=\"450\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><circle cx=\"520\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><text x=\"300\" y=\"84\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1D4ED8\" font-weight=\"bold\">Lặp lại đều đặn, không gắn 1 mốc</text><text x=\"300\" y=\"192\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0F172A\" font-weight=\"normal\">always, usually, every day  ->  S + V(s/es)</text></svg>"
+      },
+      {
+        "id": "eng7_ex1_1_1_2",
+        "question": "[Mức 2 - Trắc nghiệm] Hoa _____ breakfast at home on Sundays.\nA. don't have   B. doesn't have   C. doesn't has   D. not have",
+        "answer": "Bước 1: Signal word: 'on Sundays' -> thói quen. Cần dạng PHỦ ĐỊNH (theo đáp án).\nBước 2: Loại trừ: A sai trợ động từ cho 'Hoa' (she); C sai vì sau doesn't phải là V nguyên; D thiếu trợ động từ.\nBước 3: Quy tắc: S(he/she/it) + doesn't + V nguyên.\nBước 4: Đáp án B. Dịch: Hoa không ăn sáng ở nhà vào Chủ nhật.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_1_3",
+        "question": "[Mức 3 - Sửa lỗi] Does your brother plays football every Saturday?",
+        "answer": "Bước 1: Signal word: 'every Saturday' -> Hiện tại đơn; câu hỏi nên đã có 'Does'.\nBước 2: Phát hiện lỗi: 'plays' thêm s dù đã có 'Does'.\nBước 3: Quy tắc: 'does' đã gánh dấu số ít -> động từ chính về nguyên mẫu.\nBước 4: Câu đúng: Does your brother play football every Saturday? Dịch: Anh trai bạn có chơi bóng đá mỗi thứ Bảy không?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_1_4",
+        "question": "[Mức 4 - Viết lại] Chuyển sang câu hỏi Yes/No: She usually walks to school.",
+        "answer": "Bước 1: Tìm động từ: 'walks' (thường), chủ ngữ 'She' -> cần Does.\nBước 2: Bẫy: giữ nguyên 'walks' hoặc đặt 'usually' sai chỗ.\nBước 3: Quy tắc: Does + S + (trạng từ tần suất) + V nguyên?\nBước 4: Đáp án: Does she usually walk to school? Dịch: Cô ấy có thường đi bộ đến trường không?",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_1_1_1",
+    "name": "[Bản chất]:\nDiễn tả việc LẶP LẠI hoặc LUÔN ĐÚNG\nKhông gắn 1 mốc thời gian cụ thể\nTrợ động từ do/does gánh dấu thì và số ít\nĐộng từ chính về nguyên mẫu",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_1_2",
+    "name": "[Công thức]:\n+ S + V(s/es)\n- S + do/does + not + V\n? Do/Does + S + V?\nTo be: S + am/is/are (+ not)",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_1_3",
+    "name": "[Dùng khi nào]:\nThói quen: I get up at 6.\nSự thật: The sun rises in the east.\nLịch trình: The train leaves at 8.",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_1_4",
+    "name": "[Signal words]:\nalways, usually, often, sometimes, never\nevery day/week, once a week, on Mondays",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_1_5",
+    "name": "[Bẫy thường gặp]:\nCó does mà vẫn thêm s: He doesn't likes -> SAI\nQuên es sau ch, sh, s, x, z, o\nTrạng từ tần suất sai vị trí: sau be, trước V thường\nDùng HT tiếp diễn cho thói quen",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_1_2",
+    "name": "[Thì] Quá khứ đơn\nPast Simple",
+    "type": "LESSON",
+    "parentId": "eng7_top1_1",
+    "examples": [
+      {
+        "id": "eng7_ex1_1_2_1",
+        "question": "[Mức 1 - Chia động từ] We _____ (join) a community clean-up project last Sunday.",
+        "answer": "Bước 1: Signal word: 'last Sunday' -> mốc quá khứ.\nBước 2: 'join' là động từ có quy tắc.\nBước 3: Quy tắc: Quá khứ đơn: V + ed.\nBước 4: Đáp án: joined. Dịch: Chúng tôi đã tham gia dự án dọn dẹp cộng đồng vào Chủ nhật tuần trước.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 210\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"208\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"28\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Quá khứ đơn: đã xong, có mốc quá khứ</text><line x1=\"40\" y1=\"110\" x2=\"552\" y2=\"110\" stroke=\"#334155\" stroke-width=\"3\"/><polygon points=\"560,110 548,103 548,117\" fill=\"#334155\"/><line x1=\"300\" y1=\"96\" x2=\"300\" y2=\"140\" stroke=\"#DC2626\" stroke-width=\"2\" stroke-dasharray=\"5,4\"/><text x=\"130\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">QUÁ KHỨ</text><text x=\"300\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#DC2626\" font-weight=\"bold\">HIỆN TẠI (NOW)</text><text x=\"470\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">TƯƠNG LAI</text><rect x=\"100\" y=\"99\" width=\"80\" height=\"22\" rx=\"8\" fill=\"#2563EB\" fill-opacity=\"0.85\"/><text x=\"140\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1D4ED8\" font-weight=\"bold\">ĐÃ XONG</text><text x=\"300\" y=\"192\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0F172A\" font-weight=\"normal\">yesterday, last week, ago  ->  S + V2/ed</text></svg>"
+      },
+      {
+        "id": "eng7_ex1_1_2_2",
+        "question": "[Mức 2 - Trắc nghiệm] Where _____ you _____ yesterday?\nA. did / went   B. did / go   C. were / go   D. do / went",
+        "answer": "Bước 1: Signal word: 'yesterday' -> Quá khứ đơn.\nBước 2: Loại trừ: C thiếu trợ động từ 'did' cho động từ thường; D dùng 'do' (hiện tại).\nBước 3: Quy tắc: Wh + did + S + V nguyên. Cặp A có 'went' là sai (đã có did).\nBước 4: Đáp án B. Dịch: Hôm qua bạn đã đi đâu?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_2_3",
+        "question": "[Mức 3 - Sửa lỗi] She didn't went to school last Friday because she was sick.",
+        "answer": "Bước 1: Signal word: 'last Friday' -> Quá khứ đơn.\nBước 2: Phát hiện lỗi: 'didn't went' (cả didn't và went đều mang quá khứ).\nBước 3: Quy tắc: 'did' gánh thì quá khứ -> động từ chính về nguyên mẫu.\nBước 4: Câu đúng: She didn't go to school last Friday because she was sick. Dịch: Thứ Sáu tuần trước cô ấy không đi học vì bị ốm.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_2_4",
+        "question": "[Mức 4 - Viết lại] Chuyển sang phủ định: My father bought a new car last month.",
+        "answer": "Bước 1: Signal word: 'last month' -> Quá khứ đơn; 'bought' là bất quy tắc của 'buy'.\nBước 2: Bẫy: viết 'didn't bought'.\nBước 3: Quy tắc: S + didn't + V nguyên.\nBước 4: Đáp án: My father didn't buy a new car last month. Dịch: Tháng trước bố tôi không mua xe mới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_1_2_1",
+    "name": "[Bản chất]:\nChuyện ĐÃ KẾT THÚC, có mốc quá khứ\nKhông còn liên quan hiện tại\nTrợ động từ did gánh thì quá khứ\nĐộng từ chính về nguyên mẫu",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_2_2",
+    "name": "[Công thức]:\n+ S + V2/ed\n- S + did not + V\n? Did + S + V?\nTo be: I/he/she/it was; you/we/they were",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_2_3",
+    "name": "[Signal words]:\nyesterday, last night/week/year, ago\nin 2020, when I was a child, just now",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_2_4",
+    "name": "[Động từ bất quy tắc thường gặp]:\ngo -> went; have -> had; see -> saw\nbuy -> bought; eat -> ate; take -> took\ndo -> did; make -> made; come -> came",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_2_5",
+    "name": "[Bẫy thường gặp]:\nDid + V2: Did you went -> SAI\ndidn't + V2: didn't went -> SAI\nNhầm was/were\nSai chính tả khi thêm -ed (study -> studied)",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_1_3",
+    "name": "[Thì] Hiện tại tiếp diễn\nPresent Continuous",
+    "type": "LESSON",
+    "parentId": "eng7_top1_1",
+    "examples": [
+      {
+        "id": "eng7_ex1_1_3_1",
+        "question": "[Mức 1 - Chia động từ] Look! The children _____ (recycle) plastic bottles in the school yard.",
+        "answer": "Bước 1: Signal word: 'Look!' -> việc đang xảy ra.\nBước 2: Chủ ngữ 'The children' số nhiều -> are.\nBước 3: Quy tắc: S + are + V-ing; 'recycle' tận cùng e -> bỏ e + ing = recycling.\nBước 4: Đáp án: are recycling. Dịch: Nhìn kìa! Bọn trẻ đang tái chế chai nhựa ở sân trường.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 210\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"208\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"28\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Hiện tại tiếp diễn: đang diễn ra</text><line x1=\"40\" y1=\"110\" x2=\"552\" y2=\"110\" stroke=\"#334155\" stroke-width=\"3\"/><polygon points=\"560,110 548,103 548,117\" fill=\"#334155\"/><line x1=\"300\" y1=\"96\" x2=\"300\" y2=\"140\" stroke=\"#DC2626\" stroke-width=\"2\" stroke-dasharray=\"5,4\"/><text x=\"130\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">QUÁ KHỨ</text><text x=\"300\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#DC2626\" font-weight=\"bold\">HIỆN TẠI (NOW)</text><text x=\"470\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">TƯƠNG LAI</text><rect x=\"255\" y=\"99\" width=\"90\" height=\"22\" rx=\"8\" fill=\"#2563EB\" fill-opacity=\"0.85\"/><text x=\"300\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1D4ED8\" font-weight=\"bold\">ĐANG XẢY RA</text><text x=\"300\" y=\"192\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0F172A\" font-weight=\"normal\">now, at the moment, Look!  ->  S + am/is/are + V-ing</text></svg>"
+      },
+      {
+        "id": "eng7_ex1_1_3_2",
+        "question": "[Mức 2 - Trắc nghiệm] Be quiet! The baby _____.\nA. sleeps   B. is sleeping   C. slept   D. sleep",
+        "answer": "Bước 1: Signal word: 'Be quiet!' -> đang xảy ra ngay lúc nói.\nBước 2: Loại trừ: sleeps (thói quen), slept (quá khứ), sleep (thiếu to be/chia sai).\nBước 3: Quy tắc: S + is + V-ing.\nBước 4: Đáp án B. Dịch: Yên lặng nào! Em bé đang ngủ.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_3_3",
+        "question": "[Mức 3 - Sửa lỗi] I am wanting a new bike for my birthday.",
+        "answer": "Bước 1: Không có signal word 'now'; 'want' là động từ chỉ mong muốn (stative).\nBước 2: Phát hiện lỗi: dùng tiếp diễn với 'want'.\nBước 3: Quy tắc: động từ chỉ cảm giác/sở hữu/nhận thức (like, want, know, love) dùng Hiện tại đơn.\nBước 4: Câu đúng: I want a new bike for my birthday. Dịch: Tôi muốn một chiếc xe đạp mới vào dịp sinh nhật.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_3_4",
+        "question": "[Mức 4 - Đặt câu hỏi] Hỏi cho phần trong ngoặc: She is reading [a book].",
+        "answer": "Bước 1: Phần trong ngoặc là vật -> từ để hỏi 'What'.\nBước 2: Bẫy: giữ nguyên 'a book' hoặc quên đảo to be.\nBước 3: Quy tắc: What + is + S + V-ing?\nBước 4: Đáp án: What is she reading? Dịch: Cô ấy đang đọc gì vậy?",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_1_3_1",
+    "name": "[Bản chất]:\nCảnh QUAY PHIM: việc đang diễn ra lúc nói\nbe = trạng thái hiện tại\nV-ing = đang diễn ra, chưa xong",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_3_2",
+    "name": "[Công thức]:\n+ S + am/is/are + V-ing\n- S + am/is/are + not + V-ing\n? Am/Is/Are + S + V-ing?",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_3_3",
+    "name": "[Signal words]:\nnow, right now, at the moment, at present\nLook!, Listen!, Be quiet!, Watch out!",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_3_4",
+    "name": "[Mở rộng]:\nKế hoạch chắc chắn: We are visiting grandma this weekend.\nĐộng từ ít dùng V-ing: like, love, want, know, understand",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_3_5",
+    "name": "[Bẫy thường gặp]:\nThiếu be: She cooking -> SAI\nDùng V-ing với like, want, know\nNhầm am/is/are với chủ ngữ số nhiều\nSai chính tả V-ing (runing, makeing)",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_1_4",
+    "name": "[Thì] Tương lai đơn\nFuture Simple",
+    "type": "LESSON",
+    "parentId": "eng7_top1_1",
+    "examples": [
+      {
+        "id": "eng7_ex1_1_4_1",
+        "question": "[Mức 1 - Chia động từ] I think people _____ (use) solar energy for driving cars in the future.",
+        "answer": "Bước 1: Signal word: 'I think' (dự đoán) và 'in the future'.\nBước 2: Chủ ngữ 'people' -> will không đổi theo chủ ngữ.\nBước 3: Quy tắc: S + will + V nguyên mẫu.\nBước 4: Đáp án: will use. Dịch: Tôi nghĩ trong tương lai con người sẽ dùng năng lượng mặt trời để chạy ô tô.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 210\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"208\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"28\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Tương lai đơn: dự đoán / quyết định lúc nói</text><line x1=\"40\" y1=\"110\" x2=\"552\" y2=\"110\" stroke=\"#334155\" stroke-width=\"3\"/><polygon points=\"560,110 548,103 548,117\" fill=\"#334155\"/><line x1=\"300\" y1=\"96\" x2=\"300\" y2=\"140\" stroke=\"#DC2626\" stroke-width=\"2\" stroke-dasharray=\"5,4\"/><text x=\"130\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">QUÁ KHỨ</text><text x=\"300\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#DC2626\" font-weight=\"bold\">HIỆN TẠI (NOW)</text><text x=\"470\" y=\"158\" font-size=\"12\" text-anchor=\"middle\" fill=\"#64748B\" font-weight=\"normal\">TƯƠNG LAI</text><line x1=\"310\" y1=\"110\" x2=\"430\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"3\" stroke-dasharray=\"6,5\"/><circle cx=\"440\" cy=\"110\" r=\"7\" fill=\"#2563EB\"/><text x=\"440\" y=\"84\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1D4ED8\" font-weight=\"bold\">Dự đoán / hứa</text><text x=\"300\" y=\"192\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0F172A\" font-weight=\"normal\">tomorrow, next week, I think  ->  S + will + V</text></svg>"
+      },
+      {
+        "id": "eng7_ex1_1_4_2",
+        "question": "[Mức 2 - Trắc nghiệm] It's cold in here. I _____ close the window.\nA. close   B. will close   C. closed   D. closes",
+        "answer": "Bước 1: Manh mối: 'It's cold' -> quyết định ngay lúc nói, chưa có kế hoạch từ trước.\nBước 2: Loại trừ: closed (quá khứ), closes (thói quen/ngôi 3), close (thiếu will).\nBước 3: Quy tắc: quyết định tức thời -> will + V.\nBước 4: Đáp án B. Dịch: Trong này lạnh quá. Tôi sẽ đóng cửa sổ.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_4_3",
+        "question": "[Mức 3 - Sửa lỗi] She will goes to Hue next week.",
+        "answer": "Bước 1: Signal word: 'next week' -> tương lai.\nBước 2: Phát hiện lỗi: 'will goes' (thêm es sau will).\nBước 3: Quy tắc: will là động từ khuyết thiếu -> động từ chính để nguyên mẫu, không s/es.\nBước 4: Câu đúng: She will go to Hue next week. Dịch: Tuần sau cô ấy sẽ đi Huế.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_1_4_4",
+        "question": "[Mức 4 - Viết lại] Chuyển sang phủ định và nghi vấn: People will travel by flying cars.",
+        "answer": "Bước 1: Xác định cấu trúc gốc: S + will + V.\nBước 2: Bẫy: thêm do/does hoặc đổi 'travel' thành 'travels'.\nBước 3: Quy tắc: phủ định: will not (won't) + V; nghi vấn: Will + S + V?\nBước 4: Đáp án: People won't travel by flying cars. / Will people travel by flying cars?",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_1_4_1",
+    "name": "[Bản chất]:\nNói về điều CHƯA xảy ra\nwill = dự đoán, quyết định lúc nói, lời hứa\nwill là động từ khuyết thiếu: không s, không to\nĐộng từ chính để nguyên mẫu",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_4_2",
+    "name": "[Công thức]:\n+ S + will + V\n- S + will not (won't) + V\n? Will + S + V?",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_4_3",
+    "name": "[Dùng khi nào]:\nDự đoán: I think it will rain.\nQuyết định tức thời: I'll help you.\nLời hứa, đề nghị: I will call you.",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_4_4",
+    "name": "[Signal words]:\ntomorrow, next week/month/year, soon, tonight\nin the future, in 2050\nI think, I believe, I hope, probably",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_1_4_5",
+    "name": "[Bẫy thường gặp]:\nwill + V-s / V-ing / to V: SAI\nwill + be + adj: giữ be (It will be hot)\nNhầm với kế hoạch có sẵn (be going to)",
+    "type": "STEP",
+    "parentId": "eng7_les1_1_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_top1_2",
+    "name": "[Topic] Câu & liên từ\nCâu đơn, nối ý, tương phản, so sánh tương đương",
+    "type": "TOPIC",
+    "parentId": "eng7_cat1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_2_1",
+    "name": "[Bài] Câu đơn & nối ý\nFANBOYS: for, and, nor, but, or, yet, so (Unit 2)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_2",
+    "examples": [
+      {
+        "id": "eng7_ex1_2_1_1",
+        "question": "[Mức 1 - Chọn từ nối] I was very tired, _____ I went to bed early.\nA. but   B. so   C. or",
+        "answer": "Bước 1: Tìm quan hệ: mệt (nguyên nhân) -> đi ngủ sớm (kết quả).\nBước 2: Loại trừ: 'but' dùng khi hai ý đối lập; 'or' dùng khi lựa chọn.\nBước 3: Quy tắc: kết quả -> so, có dấu phẩy phía trước.\nBước 4: Đáp án B. Dịch: Tôi rất mệt nên đi ngủ sớm.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 322\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"320\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">FANBOYS: chọn từ nối theo QUAN HỆ giữa 2 ý</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Từ nối</text><text x=\"110\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Quan hệ</text><text x=\"260\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">for</text><text x=\"110\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Lý do (= because)</text><text x=\"260\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I stayed home, for I was ill.</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">and</text><text x=\"110\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Thêm ý</text><text x=\"260\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I like tea and coffee.</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">nor</text><text x=\"110\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Cũng không</text><text x=\"260\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">He can't sing, nor can he dance.</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">but</text><text x=\"110\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Đối lập</text><text x=\"260\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I am tired, but I work.</text><rect x=\"20\" y=\"206\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">or</text><text x=\"110\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Lựa chọn</text><text x=\"260\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Tea or coffee?</text><rect x=\"20\" y=\"240\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">yet</text><text x=\"110\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Đối lập bất ngờ</text><text x=\"260\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">It is small, yet it is strong.</text><rect x=\"20\" y=\"274\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"296\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">so</text><text x=\"110\" y=\"296\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Kết quả</text><text x=\"260\" y=\"296\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I am tired, so I sleep.</text></svg>"
+      },
+      {
+        "id": "eng7_ex1_2_1_2",
+        "question": "[Mức 2 - Chọn từ nối] Would you like tea _____ coffee?\nA. and   B. but   C. or",
+        "answer": "Bước 1: Câu hỏi đưa ra hai lựa chọn.\nBước 2: Bẫy: chọn 'and' vì quen nối hai danh từ.\nBước 3: Quy tắc: lựa chọn -> or.\nBước 4: Đáp án C. Dịch: Bạn muốn trà hay cà phê?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_1_3",
+        "question": "[Mức 3 - Sửa lỗi] Lan likes tea, but she drinks it every day.",
+        "answer": "Bước 1: Phân tích 2 ý: 'thích trà' và 'uống mỗi ngày' cùng hướng, không đối lập.\nBước 2: Phát hiện lỗi: 'but' sai quan hệ.\nBước 3: Quy tắc: ý cùng hướng, bổ sung thông tin -> and.\nBước 4: Câu đúng: Lan likes tea, and she drinks it every day. Dịch: Lan thích trà và uống mỗi ngày.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_1_4",
+        "question": "[Mức 4 - Gộp câu] Gộp thành 1 câu đơn có chủ ngữ kép: Nam likes football. Mai likes football.",
+        "answer": "Bước 1: Hai câu giống nhau ở động từ và tân ngữ; khác chủ ngữ.\nBước 2: Bẫy: gộp bằng 'and' nhưng giữ 2 động từ 'likes', thành 'Nam likes football and Mai likes football' (dài, lặp).\nBước 3: Quy tắc: chủ ngữ kép S1 and S2 + V nguyên (số nhiều).\nBước 4: Đáp án: Nam and Mai like football. Dịch: Nam và Mai thích bóng đá.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_1_5",
+        "question": "[Mức 5 - Trắc nghiệm] The house is old, _____ it is very comfortable.\nA. so   B. yet   C. for",
+        "answer": "Bước 1: Hai ý: nhà cũ nhưng thoải mái -> trái kỳ vọng.\nBước 2: Loại trừ: so (kết quả), for (lý do).\nBước 3: Quy tắc: đối lập bất ngờ -> yet (nghĩa như but).\nBước 4: Đáp án B. Dịch: Ngôi nhà cũ nhưng rất thoải mái.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_1_6",
+        "question": "[Mức 6 - Điền từ] He doesn't like fish, _____ does he like meat. (nor / or / but)",
+        "answer": "Bước 1: Hai ý phủ định nối tiếp (không thích cá, không thích thịt).\nBước 2: Bẫy: dùng 'or' hoặc 'but'.\nBước 3: Quy tắc: nor = cũng không, đứng đầu mệnh đề sau và đảo trợ động từ lên trước chủ ngữ.\nBước 4: Đáp án: nor. Dịch: Anh ấy không thích cá, cũng không thích thịt.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_2_1_1",
+    "name": "[Bản chất]:\nCâu đơn = 1 mệnh đề (1 ý chính: có S + V)\nChủ ngữ kép: Nam and Mai like football.\nĐộng từ kép: She sings and dances.\nTừ nối = 'ray chuyển hướng' của ý",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_1_2",
+    "name": "[Công thức]:\nS1 and S2 + V (số nhiều)\nS + V1 and V2\nÝ 1, + but/so + Ý 2\nA or B",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_1_3",
+    "name": "[FANBOYS - 7 từ nối]:\nFor: lý do (= because)\nAnd: thêm ý\nNor: cũng không\nBut: đối lập\nOr: lựa chọn\nYet: đối lập bất ngờ (= but)\nSo: kết quả\nCâu nhớ: FANBOYS = chữ cái đầu của 7 từ",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_1_4",
+    "name": "[Cách chọn]:\nBước 1: Hỏi 'ý sau liên quan ý trước thế nào?'\nBước 2: thêm -> and; chọn -> or; ngược -> but/yet; hệ quả -> so; lý do -> for; cũng không -> nor",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_1_5",
+    "name": "[Bẫy thường gặp]:\nNhầm so (kết quả) và because (nguyên nhân)\nChủ ngữ kép nhưng chia động từ số ít\nLiệt kê 3 ý: A, B and C (and chỉ trước ý cuối)\nDùng but khi 2 ý không đối lập\nfor (lý do) nhầm với giới từ for\nnor + đảo trợ động từ: nor can he dance\nCó dấu phẩy trước FANBOYS khi nối 2 mệnh đề đầy đủ",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_2_2",
+    "name": "[Bài] Tương phản\nAlthough/Though, However (Unit 8)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_2",
+    "examples": [
+      {
+        "id": "eng7_ex1_2_2_1",
+        "question": "[Mức 1 - Trắc nghiệm] _____ it was raining, we played football.\nA. Because   B. Although   C. So   D. However",
+        "answer": "Bước 1: Hai ý: trời mưa nhưng vẫn chơi bóng -> tương phản.\nBước 2: Loại trừ: Because (nguyên nhân), So (kết quả), However (không đứng đầu mệnh đề liền sau 'it was raining').\nBước 3: Quy tắc: Although + S + V, S + V.\nBước 4: Đáp án B. Dịch: Mặc dù trời mưa, chúng tôi vẫn chơi bóng đá.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_2_2",
+        "question": "[Mức 2 - Sửa lỗi] Although he was tired, but he finished his homework.",
+        "answer": "Bước 1: Tìm từ nối: 'Although' và 'but' cùng chỉ tương phản.\nBước 2: Phát hiện lỗi: dùng 2 từ nối cho 1 quan hệ.\nBước 3: Quy tắc: chỉ dùng MỘT: Although..., S + V hoặc ..., but S + V.\nBước 4: Câu đúng: Although he was tired, he finished his homework. Dịch: Mặc dù mệt, cậu ấy vẫn làm xong bài tập.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_2_3",
+        "question": "[Mức 3 - Viết lại] Nối bằng However: The film was long. It was interesting.",
+        "answer": "Bước 1: Hai câu đối lập: dài nhưng hay.\nBước 2: Bẫy: viết 'The film was long, however it was interesting' (sai dấu).\nBước 3: Quy tắc: câu 1. However, câu 2. (hoặc ; however,).\nBước 4: Đáp án: The film was long. However, it was interesting. Dịch: Phim dài. Tuy nhiên nó rất hay.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_2_4",
+        "question": "[Mức 4 - Gộp câu] Dùng Although: She is young. She cooks very well.",
+        "answer": "Bước 1: Tương phản: trẻ nhưng nấu ăn giỏi.\nBước 2: Bẫy: thêm 'but' sau mệnh đề although.\nBước 3: Quy tắc: Although + S + V, S + V.\nBước 4: Đáp án: Although she is young, she cooks very well. Dịch: Dù còn trẻ, cô ấy nấu ăn rất ngon.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_2_2_1",
+    "name": "[Bản chất]:\nTương phản = kết quả NGƯỢC kỳ vọng\nTrời mưa -> thường ở nhà; nhưng vẫn đi chơi\nDấu hiệu: hai ý 'ngược chiều'",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_2_2",
+    "name": "[Công thức]:\nAlthough/Though + S + V, S + V\nS + V. However, S + V.\nS + V; however, S + V.",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_2_3",
+    "name": "[Cách dùng]:\nAlthough/Though đứng ĐẦU mệnh đề phụ\nHowever đứng đầu câu mới + dấu phẩy\nBut đứng giữa 2 mệnh đề, có dấu phẩy phía trước",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_2_4",
+    "name": "[Quy trình]:\nBước 1: Dịch 2 ý, kiểm tra có ngược nhau không\nBước 2: Chọn Although (1 câu) hoặc However (2 câu)\nBước 3: Kiểm tra dấu câu",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_2_5",
+    "name": "[Bẫy thường gặp]:\nAlthough + but trong cùng câu: SAI\nQuên dấu phẩy sau However\nDùng However nối 2 mệnh đề bằng dấu phẩy: SAI\nNhầm Although (tương phản) với Because (nguyên nhân)",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_2_3",
+    "name": "[Bài] So sánh tương đương\nlike, different from, (not) as...as (Unit 4)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_2",
+    "examples": [
+      {
+        "id": "eng7_ex1_2_3_1",
+        "question": "[Mức 1 - Trắc nghiệm] She sings _____ a professional singer.\nA. like   B. alike   C. likes",
+        "answer": "Bước 1: Cần 1 từ nối 'giống như' trước cụm danh từ 'a professional singer'.\nBước 2: Loại trừ: 'alike' đứng cuối câu hoặc sau be (They are alike); 'likes' là động từ.\nBước 3: Quy tắc: like + danh từ = giống như.\nBước 4: Đáp án A. Dịch: Cô ấy hát như ca sĩ chuyên nghiệp.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_3_2",
+        "question": "[Mức 2 - Điền từ] Lan is 1.55 m tall and Mai is 1.55 m tall. Lan is as _____ as Mai. (tall / taller / height)",
+        "answer": "Bước 1: Cấu trúc as ... as: giữa hai 'as' là tính từ nguyên dạng.\nBước 2: Bẫy: chọn 'taller' (dạng so sánh hơn).\nBước 3: Quy tắc: as + adj + as (chiều cao bằng nhau).\nBước 4: Đáp án: tall. Dịch: Lan cao bằng Mai.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_3_3",
+        "question": "[Mức 3 - Sửa lỗi] The guitar is not as expensive than the piano.",
+        "answer": "Bước 1: Có 'not as expensive' -> cấu trúc so sánh không bằng.\nBước 2: Phát hiện lỗi: 'than' thay vì 'as'.\nBước 3: Quy tắc: (not) as + adj + as.\nBước 4: Câu đúng: The guitar is not as expensive as the piano. Dịch: Cây đàn guitar không đắt bằng cây đàn piano.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_2_3_4",
+        "question": "[Mức 4 - Viết lại] Rock music and classical music are not the same. (Dùng different from)",
+        "answer": "Bước 1: 'not the same' = không giống nhau = khác biệt.\nBước 2: Bẫy: viết 'different than' hoặc 'different to'.\nBước 3: Quy tắc: A + be + different from + B.\nBước 4: Đáp án: Rock music is different from classical music. Dịch: Nhạc rock khác nhạc cổ điển.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_2_3_1",
+    "name": "[Bản chất]:\nSo sánh để nói GIỐNG hay KHÁC\nKhông phân hơn/kém ở bài này\nChọn từ theo 'giống bao nhiêu'",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_3_2",
+    "name": "[Công thức]:\nA + be + like + B (giống như)\nA + be + different from + B (khác)\nA + be + (not) as + adj + as + B\nthe same as: giống hệt",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_3_3",
+    "name": "[Cách chọn]:\nBằng nhau -> as + adj + as\nKhông bằng -> not as + adj + as\nGiống -> like\nKhác -> different from",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_2_3_4",
+    "name": "[Bẫy thường gặp]:\nas + adj + than: SAI\nas + taller + as: SAI (dùng adj nguyên dạng)\nlike + mệnh đề đầy đủ: không thuộc Unit 4\ndifferent than/to: không dùng trong chương trình",
+    "type": "STEP",
+    "parentId": "eng7_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_top1_3",
+    "name": "[Topic] Động từ, lượng từ, giới từ, mạo từ\nV-ing, should, some, in/on/at, a/an/the",
+    "type": "TOPIC",
+    "parentId": "eng7_cat1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_1",
+    "name": "[Bài] Động từ chỉ sở thích + V-ing\nlove, like, enjoy, hate, mind",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_1_1",
+        "question": "[Mức 1 - Chia động từ] My brother enjoys _____ (play) video games.",
+        "answer": "Bước 1: Tìm động từ chỉ sở thích: 'enjoys'.\nBước 2: Bẫy: giữ 'play' hoặc dùng 'to play'.\nBước 3: Quy tắc: enjoy + V-ing.\nBước 4: Đáp án: playing. Dịch: Anh trai tôi thích chơi trò chơi điện tử.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_1_2",
+        "question": "[Mức 2 - Trắc nghiệm] I'd like _____ a glass of water.\nA. drink   B. drinking   C. to drink",
+        "answer": "Bước 1: Nhận diện cấu trúc 'I'd like' = I would like (muốn).\nBước 2: Bẫy: nhầm với 'like + V-ing' (sở thích chung).\nBước 3: Quy tắc: would like + to V (lời đề nghị/mong muốn lúc nói).\nBước 4: Đáp án C. Dịch: Tôi muốn một cốc nước.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_1_3",
+        "question": "[Mức 3 - Sửa lỗi] She enjoys to listen to music in her free time.",
+        "answer": "Bước 1: Động từ chính: 'enjoys' (sở thích).\nBước 2: Phát hiện lỗi: 'to listen' sau enjoy.\nBước 3: Quy tắc: enjoy + V-ing.\nBước 4: Câu đúng: She enjoys listening to music in her free time. Dịch: Cô ấy thích nghe nhạc lúc rảnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_1_4",
+        "question": "[Mức 4 - Đặt câu] Viết câu từ: my sister / love / collect / stamps",
+        "answer": "Bước 1: Chủ ngữ 'my sister' (ngôi 3 số ít) -> loves.\nBước 2: Bẫy: loves collect hoặc love collecting.\nBước 3: Quy tắc: love + V-ing; thêm s cho động từ chính 'love'.\nBước 4: Đáp án: My sister loves collecting stamps. Dịch: Chị tôi thích sưu tầm tem.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_1_1",
+    "name": "[Bản chất]:\nSở thích = hoạt động chung, lặp lại\nV-ing biến hành động thành 'danh từ hoạt động'\nNhóm yêu thích: love, like, enjoy, fancy\nNhóm không thích: hate, dislike, don't mind",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_1_2",
+    "name": "[Công thức]:\nS + love/like/enjoy/hate + V-ing\nS + would like + to V\nS + don't mind + V-ing",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_1_3",
+    "name": "[Lưu ý]:\nlike, love, hate đôi khi + to V, nhưng ở lớp 7 ưu tiên V-ing\nwould like/would love + to V (mong muốn)\nmind thường dùng trong câu phủ định/nghi vấn",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_1_4",
+    "name": "[Bẫy thường gặp]:\nenjoy + to V: SAI\nlike + V nguyên: SAI\nNhầm like (thích) và would like (muốn)\nSai chính tả V-ing (runing, makeing)",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_2",
+    "name": "[Bài] Lời khuyên\nshould / shouldn't (Unit 7)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_2_1",
+        "question": "[Mức 1 - Trắc nghiệm] You have a toothache. You _____ eat too much candy.\nA. should   B. shouldn't   C. don't",
+        "answer": "Bước 1: Ngữ cảnh: đau răng -> ăn nhiều kẹo có hại.\nBước 2: Loại trừ: should (nên) trái nghĩa; don't thiếu chức năng lời khuyên.\nBước 3: Quy tắc: lời khuyên không nên -> shouldn't + V.\nBước 4: Đáp án B. Dịch: Bạn bị đau răng, không nên ăn nhiều kẹo.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_2_2",
+        "question": "[Mức 2 - Sửa lỗi] You shouldn't to eat too much junk food because it is bad for your health.",
+        "answer": "Bước 1: Tìm động từ khuyết thiếu: 'shouldn't'.\nBước 2: Phát hiện lỗi: 'to eat' sau shouldn't.\nBước 3: Quy tắc: should/shouldn't + V nguyên mẫu, không 'to'.\nBước 4: Câu đúng: You shouldn't eat too much junk food because it is bad for your health. Dịch: Bạn không nên ăn quá nhiều đồ ăn nhanh vì có hại cho sức khỏe.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_2_3",
+        "question": "[Mức 3 - Viết lại] Rewrite with 'should': It is a good idea to drink more water.",
+        "answer": "Bước 1: 'It is a good idea to...' = đưa ra lời khuyên.\nBước 2: Bẫy: viết 'You should to drink'.\nBước 3: Quy tắc: S + should + V.\nBước 4: Đáp án: You should drink more water. Dịch: Bạn nên uống nhiều nước hơn.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_2_4",
+        "question": "[Mức 4 - Hỏi đáp] Viết câu hỏi và câu trả lời ngắn (đồng ý): I have a headache. (take a rest)",
+        "answer": "Bước 1: Cấu trúc hỏi xin lời khuyên: Should + S + V?\nBước 2: Bẫy: quên đảo should lên đầu.\nBước 3: Quy tắc: Should I take a rest? - Yes, you should.\nBước 4: Đáp án: Should I take a rest? - Yes, you should. Dịch: Tôi có nên nghỉ ngơi không? - Có, bạn nên.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_2_1",
+    "name": "[Bản chất]:\nshould = lời khuyên ('nên') dựa trên lợi/hại\nshould là động từ khuyết thiếu (modal)\nModal không đổi theo chủ ngữ, không 's', không 'to'",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_2_2",
+    "name": "[Công thức]:\n+ S + should + V\n- S + shouldn't + V\n? Should + S + V?\nTrả lời: Yes, S should. / No, S shouldn't.",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_2_3",
+    "name": "[Quy trình]:\nBước 1: Xác định hành động có lợi hay hại\nBước 2: Có lợi -> should; có hại -> shouldn't\nBước 3: Kiểm tra động từ sau là nguyên mẫu",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_2_4",
+    "name": "[Bẫy thường gặp]:\nshould + to V: SAI\nshould + V-s/V-ing: SAI\nThêm do/does cho should: SAI\nChọn ngược nghĩa (có hại mà chọn should)",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_3",
+    "name": "[Bài] Lượng từ\nsome, any, a lot of/lots of, How much/many (Unit 5)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_3_1",
+        "question": "[Mức 1 - Trắc nghiệm] There is _____ milk in the fridge.\nA. some   B. any   C. many",
+        "answer": "Bước 1: Câu khẳng định; 'milk' là danh từ không đếm được.\nBước 2: Loại trừ: any (dùng câu phủ định/nghi vấn), many (chỉ đi với danh từ đếm được số nhiều).\nBước 3: Quy tắc: câu khẳng định -> some.\nBước 4: Đáp án A. Dịch: Có một ít sữa trong tủ lạnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_3_2",
+        "question": "[Mức 2 - Trắc nghiệm] How _____ eggs do you need for this cake?\nA. much   B. many   C. any",
+        "answer": "Bước 1: Danh từ sau chỗ trống: 'eggs' (đếm được, số nhiều).\nBước 2: Bẫy: chọn 'much' vì câu hỏi về số lượng chung.\nBước 3: Quy tắc: How many + danh từ đếm được số nhiều.\nBước 4: Đáp án B. Dịch: Bạn cần bao nhiêu quả trứng cho chiếc bánh này?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_3_3",
+        "question": "[Mức 3 - Sửa lỗi] We don't have some rice at home.",
+        "answer": "Bước 1: Tìm dấu hiệu: 'don't have' -> câu phủ định.\nBước 2: Phát hiện lỗi: 'some' trong câu phủ định.\nBước 3: Quy tắc: câu phủ định/nghi vấn -> any.\nBước 4: Câu đúng: We don't have any rice at home. Dịch: Nhà chúng tôi không còn gạo.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_3_4",
+        "question": "[Mức 4 - Đặt câu hỏi] Hỏi cho phần trong ngoặc: There are [five] eggs in the basket.",
+        "answer": "Bước 1: [five] chỉ số lượng; 'eggs' đếm được số nhiều.\nBước 2: Bẫy: dùng How much hoặc quên đảo.\nBước 3: Quy tắc: How many + N số nhiều + are there + ...?\nBước 4: Đáp án: How many eggs are there in the basket? Dịch: Có bao nhiêu quả trứng trong giỏ?",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_3_1",
+    "name": "[Bản chất]:\nLượng từ cho biết BAO NHIÊU\nPhải biết danh từ đếm được hay không\nĐếm được: egg, apple, book\nKhông đếm được: milk, rice, water, money",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_3_2",
+    "name": "[Công thức]:\nsome: câu khẳng định\nany: câu phủ định, nghi vấn\na lot of / lots of: đếm được số nhiều + không đếm được\nHow many + N số nhiều; How much + N không đếm được",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_3_3",
+    "name": "[Quy trình]:\nBước 1: Danh từ đếm được hay không?\nBước 2: Câu khẳng định, phủ định hay hỏi?\nBước 3: Chọn lượng từ",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_3_4",
+    "name": "[Bẫy thường gặp]:\nsome trong câu phủ định: SAI\na lot of + N số ít đếm được: SAI\nHow many + N không đếm được: SAI\nThiếu s ở N số nhiều sau many",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_4",
+    "name": "[Bài] Đại từ sở hữu\nmine, yours, his, hers, ours, theirs (Unit 11)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_4_1",
+        "question": "[Mức 1 - Trắc nghiệm] This bag is not mine. It is _____.\nA. her   B. hers   C. she",
+        "answer": "Bước 1: Sau chỗ trống hết câu, không có danh từ.\nBước 2: Loại trừ: 'her' cần danh từ theo sau; 'she' là đại từ chủ ngữ.\nBước 3: Quy tắc: đại từ sở hữu = tính từ sở hữu + danh từ (her bag = hers).\nBước 4: Đáp án B. Dịch: Cái túi này không phải của tôi. Nó là của cô ấy.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_4_2",
+        "question": "[Mức 2 - Trắc nghiệm] This bicycle is my brother's, but that one is _____. (my / mine / me)",
+        "answer": "Bước 1: 'that one' đứng độc lập cuối câu thay cho 'my bicycle'.\nBước 2: Loại trừ: 'my' cần danh từ theo sau; 'me' là tân ngữ.\nBước 3: Quy tắc: cuối câu/không có danh từ -> mine.\nBước 4: Đáp án: mine. Dịch: Xe đạp này của anh tôi, còn xe kia là của tôi.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_4_3",
+        "question": "[Mức 3 - Sửa lỗi] That is mine bike.",
+        "answer": "Bước 1: Sau 'mine' có danh từ 'bike'.\nBước 2: Phát hiện lỗi: đại từ sở hữu đứng trước danh từ.\nBước 3: Quy tắc: cần danh từ theo sau -> dùng tính từ sở hữu (my).\nBước 4: Câu đúng: That is my bike. / That bike is mine. Dịch: Đó là xe đạp của tôi.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_4_4",
+        "question": "[Mức 4 - Viết lại] Rewrite with a possessive pronoun: That is their house.",
+        "answer": "Bước 1: 'their house' = cụm danh từ sở hữu.\nBước 2: Bẫy: viết 'That is theirs house'.\nBước 3: Quy tắc: đại từ sở hữu thay cho (tính từ sở hữu + danh từ): That house is theirs.\nBước 4: Đáp án: That house is theirs. Dịch: Ngôi nhà kia là của họ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_4_1",
+    "name": "[Bản chất]:\nTránh lặp danh từ\nmine = my + danh từ đã nhắc\nTính từ sở hữu CẦN danh từ; đại từ sở hữu KHÔNG cần",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_4_2",
+    "name": "[Bảng đối chiếu]:\nmy -> mine\nyour -> yours\nhis -> his\nher -> hers\nour -> ours\ntheir -> theirs",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_4_3",
+    "name": "[Quy trình]:\nBước 1: Sau chỗ trống có danh từ không?\nBước 2: Có -> tính từ sở hữu; không -> đại từ sở hữu",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_4_4",
+    "name": "[Bẫy thường gặp]:\nmine bike, hers bag: SAI\nhers', her's: SAI\nKhông thêm dấu nháy: his', ours's -> SAI\nNhầm its (tính từ) với it's (it is)",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_5",
+    "name": "[Bài] Mạo từ\na / an / the (Unit 12)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_5_1",
+        "question": "[Mức 1 - Trắc nghiệm] She is _____ university student.\nA. a   B. an   C. the",
+        "answer": "Bước 1: Từ ngay sau: 'university' (chữ u).\nBước 2: Bẫy: u là nguyên âm nên chọn 'an'.\nBước 3: Quy tắc: chọn a/an theo ÂM đầu: university /ju:/ là phụ âm -> a.\nBước 4: Đáp án A. Dịch: Cô ấy là sinh viên đại học.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_5_2",
+        "question": "[Mức 2 - Trắc nghiệm] I saw a dog and a cat. _____ dog was black.\nA. A   B. An   C. The",
+        "answer": "Bước 1: 'dog' đã nhắc ở câu trước (a dog).\nBước 2: Loại trừ: A/An dùng khi nhắc lần đầu.\nBước 3: Quy tắc: nhắc lại danh từ đã biết -> the.\nBước 4: Đáp án C. Dịch: Tôi thấy một con chó và một con mèo. Con chó màu đen.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_5_3",
+        "question": "[Mức 3 - Sửa lỗi] I have a hour to finish my homework.",
+        "answer": "Bước 1: Từ ngay sau: 'hour'.\nBước 2: Phát hiện lỗi: 'hour' đọc /auə/ (h câm), âm đầu là nguyên âm.\nBước 3: Quy tắc: âm đầu nguyên âm -> an.\nBước 4: Câu đúng: I have an hour to finish my homework. Dịch: Tôi có một giờ để làm xong bài tập.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_5_4",
+        "question": "[Mức 4 - Điền mạo từ] The sun rises in _____ east and sets in _____ west.",
+        "answer": "Bước 1: east, west là phương hướng duy nhất, ai cũng biết.\nBước 2: Bẫy: điền a/an vì tưởng nhắc lần đầu.\nBước 3: Quy tắc: vật duy nhất/ai cũng biết -> the.\nBước 4: Đáp án: the - the. Dịch: Mặt trời mọc ở hướng đông và lặn ở hướng tây.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_5_1",
+    "name": "[Bản chất]:\na/an: 1 cái chưa xác định (lần đầu nhắc)\nthe: cái đã xác định (cả hai đều biết)\nKhông dùng: danh từ số nhiều/không đếm được nói chung",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_5_2",
+    "name": "[Công thức]:\na + danh từ số ít bắt đầu bằng ÂM phụ âm\nan + danh từ số ít bắt đầu bằng ÂM nguyên âm\nthe + danh từ đã biết/duy nhất",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_5_3",
+    "name": "[Mẹo chọn a/an]:\nNghe âm đầu, không nhìn chữ cái\nan hour, an umbrella, an egg\na university, a uniform, a European",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_5_4",
+    "name": "[Khi nào dùng the]:\nNhắc lại lần hai\nVật duy nhất: the sun, the moon\nBị giới hạn: the book on the table",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_5_5",
+    "name": "[Bẫy thường gặp]:\nan + university, a + hour: SAI\na + danh từ số nhiều: SAI\nThiếu the với vật duy nhất",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_6",
+    "name": "[Bài] Giới từ\nin / on / at (Unit 6)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_6_1",
+        "question": "[Mức 1 - Trắc nghiệm] The class starts _____ 7 o'clock.\nA. in   B. on   C. at",
+        "answer": "Bước 1: 'o'clock' là giờ chính xác (một điểm thời gian).\nBước 2: Loại trừ: in (khoảng dài), on (ngày).\nBước 3: Quy tắc: giờ cụ thể -> at.\nBước 4: Đáp án C. Dịch: Lớp học bắt đầu lúc 7 giờ.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 186\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"184\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">in / on / at: rộng -> bề mặt/ngày -> một điểm</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\"></text><text x=\"100\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Thời gian</text><text x=\"340\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Nơi chốn</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">IN</text><text x=\"100\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">May, 2020, summer, the morning</text><text x=\"340\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">the room, Ha Noi, Viet Nam</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">ON</text><text x=\"100\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Monday, 12 May, my birthday</text><text x=\"340\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">the table, the 2nd floor</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">AT</text><text x=\"100\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">7 o'clock, noon, night</text><text x=\"340\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">school, the gate, the bus stop</text></svg>"
+      },
+      {
+        "id": "eng7_ex1_3_6_2",
+        "question": "[Mức 2 - Trắc nghiệm] My birthday is _____ 12 May.\nA. in   B. on   C. at",
+        "answer": "Bước 1: '12 May' là ngày cụ thể.\nBước 2: Bẫy: chọn 'in' vì có tháng May.\nBước 3: Quy tắc: ngày cụ thể (có số ngày) -> on; chỉ tháng -> in.\nBước 4: Đáp án B. Dịch: Sinh nhật tôi vào ngày 12 tháng 5.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_6_3",
+        "question": "[Mức 3 - Sửa lỗi] We have English in Monday.",
+        "answer": "Bước 1: 'Monday' là một thứ trong tuần.\nBước 2: Phát hiện lỗi: dùng 'in'.\nBước 3: Quy tắc: thứ, ngày -> on.\nBước 4: Câu đúng: We have English on Monday. Dịch: Chúng tôi học tiếng Anh vào thứ Hai.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_6_4",
+        "question": "[Mức 4 - Điền giới từ] Mai's school is _____ the city, and her classroom is _____ the first floor.",
+        "answer": "Bước 1: 'the city' là khu vực rộng; 'the first floor' là tầng (bề mặt).\nBước 2: Bẫy: dùng at cho cả hai.\nBước 3: Quy tắc: không gian rộng/bên trong -> in; tầng/bề mặt -> on.\nBước 4: Đáp án: in - on. Dịch: Trường Mai ở trong thành phố, lớp ở tầng một.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_6_1",
+    "name": "[Bản chất]:\nin = bên trong / khoảng dài\non = trên bề mặt / ngày cụ thể\nat = một điểm cụ thể",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_6_2",
+    "name": "[Thời gian]:\nin: tháng, năm, mùa, buổi (in the morning)\non: thứ, ngày tháng (on Monday, on 12 May)\nat: giờ, at night, at noon",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_6_3",
+    "name": "[Nơi chốn]:\nin: trong phòng, thành phố, quốc gia\non: trên bàn, tường, tầng\nat: địa điểm nhỏ (at school, at the gate)",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_6_4",
+    "name": "[Bẫy thường gặp]:\nin the night -> at night\nin Monday -> on Monday\non the morning -> in the morning (nhưng on Monday morning)\nin school / at school: khác nghĩa",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_7",
+    "name": "[Bài] Khoảng cách\nIt is ... from A to B (Unit 7)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_7_1",
+        "question": "[Mức 1 - Điền từ] How far is it _____ your house _____ the market?",
+        "answer": "Bước 1: Hỏi khoảng cách giữa 2 điểm.\nBước 2: Bẫy: dùng 'to ... from'.\nBước 3: Quy tắc: How far is it from A to B?\nBước 4: Đáp án: from - to. Dịch: Từ nhà bạn đến chợ bao xa?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_7_2",
+        "question": "[Mức 2 - Trả lời] How far is it from your school to the park? (2 km)",
+        "answer": "Bước 1: Cần một câu có chủ ngữ giả It.\nBước 2: Bẫy: bỏ 'It' hoặc thêm 'far'.\nBước 3: Quy tắc: It is (about) + khoảng cách + from A to B.\nBước 4: Đáp án: It is about 2 kilometres from my school to the park. Dịch: Từ trường tôi đến công viên khoảng 2 km.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_7_3",
+        "question": "[Mức 3 - Sửa lỗi] It is 3 km far from here to the museum.",
+        "answer": "Bước 1: Có khoảng cách cụ thể '3 km'.\nBước 2: Phát hiện lỗi: dùng thêm 'far'.\nBước 3: Quy tắc: khoảng cách cụ thể không đi với 'far'; 'far' chỉ dùng trong câu hỏi, phủ định hoặc nói chung.\nBước 4: Câu đúng: It is 3 km from here to the museum. Dịch: Từ đây đến bảo tàng là 3 km.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_7_4",
+        "question": "[Mức 4 - Đặt câu] Viết câu: nhà Nam - trường: 500 mét.",
+        "answer": "Bước 1: Hai địa điểm: Nam's house, school; khoảng cách: 500 metres.\nBước 2: Bẫy: thiếu 'It' hoặc 'from'.\nBước 3: Quy tắc: It is + khoảng cách + from A to B.\nBước 4: Đáp án: It is 500 metres from Nam's house to school. Dịch: Từ nhà Nam đến trường là 500 mét.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_7_1",
+    "name": "[Bản chất]:\n'It' là chủ ngữ GIẢ (không dịch là 'nó')\nTiếng Anh luôn cần chủ ngữ\nHỏi khoảng cách = hỏi 'bao xa'",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_7",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_7_2",
+    "name": "[Công thức]:\nHỏi: How far is it from A to B?\nĐáp: It is (about) + khoảng cách + from A to B.",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_7",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_7_3",
+    "name": "[Đơn vị]:\nmetres (m), kilometres (km), miles",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_7",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_7_4",
+    "name": "[Bẫy thường gặp]:\nThiếu It: Is 2 km from... -> SAI\nIt is 2 km far: SAI\nfrom ... until / from ... at: SAI",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_7",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_8",
+    "name": "[Bài] Câu hỏi Yes/No\nĐảo trợ động từ (Unit 9)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_8_1",
+        "question": "[Mức 1 - Trắc nghiệm] _____ your sister like music?\nA. Do   B. Does   C. Is",
+        "answer": "Bước 1: Động từ chính 'like', thì hiện tại; chủ ngữ 'your sister' = she.\nBước 2: Loại trừ: Do (dùng cho I/you/we/they); Is (cần be, không có V-ing/Adj sau).\nBước 3: Quy tắc: Does + S(he/she/it) + V nguyên?\nBước 4: Đáp án B. Dịch: Chị bạn có thích âm nhạc không?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_8_2",
+        "question": "[Mức 2 - Chuyển câu] They are playing chess. -> (câu hỏi Yes/No)",
+        "answer": "Bước 1: Câu có to be 'are'.\nBước 2: Bẫy: thêm do/does.\nBước 3: Quy tắc: đưa be lên đầu: Are + S + V-ing?\nBước 4: Đáp án: Are they playing chess? Dịch: Họ có đang chơi cờ không?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_8_3",
+        "question": "[Mức 3 - Sửa lỗi] Do she live in Hue?",
+        "answer": "Bước 1: Chủ ngữ 'she' (ngôi 3 số ít).\nBước 2: Phát hiện lỗi: dùng 'Do'.\nBước 3: Quy tắc: he/she/it dùng Does (động từ chính để nguyên).\nBước 4: Câu đúng: Does she live in Hue? Dịch: Cô ấy có sống ở Huế không?",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_8_4",
+        "question": "[Mức 4 - Hỏi đáp] Will it rain tomorrow? - No, _____.",
+        "answer": "Bước 1: Câu hỏi dùng 'Will' -> trả lời bằng will.\nBước 2: Bẫy: trả lời 'No, it doesn't' hoặc 'No, it won't rain'.\nBước 3: Quy tắc: No, S + won't (không lặp lại động từ chính).\nBước 4: Đáp án: it won't. Dịch: Ngày mai trời có mưa không? - Không.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_8_1",
+    "name": "[Bản chất]:\nHỏi 'có hay không' = đảo trợ động từ lên ĐẦU câu\nTrợ động từ gánh thì và số\nĐộng từ chính về nguyên mẫu",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_8",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_8_2",
+    "name": "[Công thức]:\nbe: Am/Is/Are + S + ...?\nHT đơn: Do/Does + S + V?\nQK đơn: Did + S + V?\nwill/should: Will/Should + S + V?",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_8",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_8_3",
+    "name": "[Trả lời ngắn]:\nYes, S + trợ động từ.\nNo, S + trợ động từ + not.\nVí dụ: Yes, she does. / No, they aren't.",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_8",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_8_4",
+    "name": "[Bẫy thường gặp]:\nDo + he/she/it: SAI\nDid + V2: SAI\nThêm do/does với be hoặc will\nTrả lời lặp động từ chính\nQuên lên giọng cuối câu hỏi Yes/No",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_8",
+    "examples": null
+  },
+  {
+    "id": "eng7_les1_3_9",
+    "name": "[Mở rộng] Trật tự tính từ\nOpSACOMP (ngoài SGK)",
+    "type": "LESSON",
+    "parentId": "eng7_top1_3",
+    "examples": [
+      {
+        "id": "eng7_ex1_3_9_1",
+        "question": "[Mức 1 - Trắc nghiệm] She has a _____ dress.\nA. red beautiful long   B. beautiful long red   C. long red beautiful",
+        "answer": "Bước 1: Xác định loại: beautiful (ý kiến), long (kích thước), red (màu).\nBước 2: Bẫy: xếp theo cảm giác.\nBước 3: Quy tắc: Opinion - Size - Colour.\nBước 4: Đáp án B. Dịch: Cô ấy có chiếc váy đẹp, dài, màu đỏ.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_9_2",
+        "question": "[Mức 2 - Sửa lỗi] I bought a wooden small box.",
+        "answer": "Bước 1: wooden (chất liệu), small (kích thước).\nBước 2: Phát hiện lỗi: chất liệu đứng trước kích thước.\nBước 3: Quy tắc: Size đứng trước Material.\nBước 4: Câu đúng: I bought a small wooden box. Dịch: Tôi mua một chiếc hộp gỗ nhỏ.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex1_3_9_3",
+        "question": "[Mức 3 - Sắp xếp] a / lovely / old / house / wooden / Vietnamese",
+        "answer": "Bước 1: Phân loại: lovely (Opinion), old (Age), Vietnamese (Origin), wooden (Material).\nBước 2: Bẫy: xếp theo thứ tự xuất hiện.\nBước 3: Quy tắc: O - A - Or - M + danh từ.\nBước 4: Đáp án: a lovely old Vietnamese wooden house. Dịch: Một ngôi nhà gỗ Việt Nam cũ đáng yêu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step1_3_9_1",
+    "name": "[Bản chất]:\nTính từ chung > cụ thể: cảm nhận -> thuộc tính khách quan\nNgười bản xứ xếp theo thói quen, không theo luật cứng\nChỉ cần nhớ 7 nhóm",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_9",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_9_2",
+    "name": "[Mnemonic OpSACOMP]:\nOpinion - Size - Age - Colour - Origin - Material - Purpose\nCâu nhớ: 'Ông Sáu Ăn Cơm Ở Mỹ Phố'\n(Opinion, Size, Age, Colour, Origin, Material, Purpose)",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_9",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_9_3",
+    "name": "[Ví dụ]:\na beautiful small old red Italian leather bag\nlovely (O) - small (S) - old (A) - red (C) - Italian (Or) - leather (M)",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_9",
+    "examples": null
+  },
+  {
+    "id": "eng7_step1_3_9_4",
+    "name": "[Bẫy thường gặp]:\nĐặt chất liệu trước kích thước\nTừ chỉ mục đích sát danh từ: a sleeping bag\nDùng quá 3 tính từ trong 1 câu",
+    "type": "STEP",
+    "parentId": "eng7_les1_3_9",
+    "examples": null
+  },
+  {
+    "id": "eng7_cat2",
+    "name": "[Từ vựng] Theo chủ đề\nCụm từ cố định (collocation) + họ từ",
+    "type": "CATEGORY",
+    "parentId": "eng7_sub",
+    "examples": null
+  },
+  {
+    "id": "eng7_top2_1",
+    "name": "[Topic] Đời sống, sức khỏe, cộng đồng\nUnit 1, 2, 3",
+    "type": "TOPIC",
+    "parentId": "eng7_cat2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_1_1",
+    "name": "[Từ vựng] Hobbies\nSở thích (Unit 1)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_1",
+    "examples": [
+      {
+        "id": "eng7_ex2_1_1_1",
+        "question": "[Mức 1 - Chọn từ] My sister enjoys _____ dolls and has over 50 dolls from different countries.\nA. collecting   B. doing   C. playing",
+        "answer": "Bước 1: Manh mối: 'over 50 dolls' -> sưu tầm.\nBước 2: Loại trừ: doing/playing không đi với dolls để chỉ sưu tầm.\nBước 3: Quy tắc: collect + dolls/stamps/coins; enjoy + V-ing.\nBước 4: Đáp án A. Dịch: Chị tôi thích sưu tầm búp bê và có hơn 50 con từ nhiều nước.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_1_2",
+        "question": "[Mức 2 - Chọn động từ] On Sundays, we usually _____ camping in the mountains.\nA. play   B. go   C. do",
+        "answer": "Bước 1: 'camping' là hoạt động ngoài trời (V-ing).\nBước 2: Bẫy: chọn play/do theo thói quen tiếng Việt 'chơi'.\nBước 3: Quy tắc: go + V-ing (go camping, go fishing, go swimming).\nBước 4: Đáp án B. Dịch: Chủ nhật chúng tôi thường đi cắm trại trên núi.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_1_3",
+        "question": "[Mức 3 - Sửa lỗi] He plays judo every Saturday.",
+        "answer": "Bước 1: 'judo' là môn võ/tập luyện kỹ năng.\nBước 2: Phát hiện lỗi: dùng 'play' (chơi) cho môn võ.\nBước 3: Quy tắc: do + judo/karate/yoga; play + môn có đối thủ, bóng, nhạc cụ.\nBước 4: Câu đúng: He does judo every Saturday. Dịch: Thứ Bảy nào cậu ấy cũng tập judo.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_1_4",
+        "question": "[Mức 4 - Điền động từ] Điền play / do / go / make: (1) _____ chess; (2) _____ yoga; (3) _____ swimming; (4) _____ models.",
+        "answer": "Bước 1: Phân loại: chess (trò chơi có luật), yoga (tập luyện), swimming (V-ing di chuyển), models (tạo sản phẩm).\nBước 2: Bẫy: dùng 'do' hoặc 'play' cho tất cả.\nBước 3: Quy tắc: play + trò chơi/bóng/nhạc cụ; do + môn tập; go + V-ing; make + tạo vật.\nBước 4: Đáp án: play - do - go - make.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_1_1_1",
+    "name": "[Bản chất]:\nTừ vựng học theo CỤM, không học từng chữ\nĐộng từ chọn theo LOẠI hoạt động\nHọc 1 cụm = nhớ cả động từ + danh từ",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_1_2",
+    "name": "[Từ vựng Unit 1]:\ngardening, bird-watching, arranging flowers\nboard game, making models, carving\ncollecting stamps/coins, ice-skating",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_1_3",
+    "name": "[Chọn động từ]:\ngo + V-ing: go camping, go fishing, go swimming\nplay + trò chơi/bóng/nhạc cụ: play chess, play football\ndo + môn tập/võ: do judo, do yoga\nmake + tạo vật: make models\ntake + photos",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_1_4",
+    "name": "[Bẫy thường gặp]:\nplay judo -> do judo\nplay camping -> go camping\nmake photos -> take photos\nenjoy + to V -> enjoy + V-ing",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_1_2",
+    "name": "[Từ vựng] Healthy living\nSức khỏe (Unit 2)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_1",
+    "examples": [
+      {
+        "id": "eng7_ex2_1_2_1",
+        "question": "[Mức 1 - Chọn từ] You should wear a hat and sunscreen to avoid _____.\nA. sunburn   B. flu   C. toothache",
+        "answer": "Bước 1: Manh mối: 'hat and sunscreen' (mũ, kem chống nắng) -> bảo vệ khỏi nắng.\nBước 2: Loại trừ: flu (cúm), toothache (đau răng) không do nắng.\nBước 3: Quy tắc: nắng gắt -> sunburn (cháy nắng).\nBước 4: Đáp án A. Dịch: Bạn nên đội mũ và bôi kem chống nắng để tránh cháy nắng.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_2_2",
+        "question": "[Mức 2 - Chọn từ] I have a _____. I need to see a dentist.\nA. headache   B. toothache   C. stomachache",
+        "answer": "Bước 1: Manh mối: 'dentist' (nha sĩ) -> bệnh về răng.\nBước 2: Loại trừ: headache (đầu), stomachache (bụng).\nBước 3: Quy tắc: body part + ache (tooth + ache).\nBước 4: Đáp án B. Dịch: Tôi bị đau răng. Tôi cần đi khám nha sĩ.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_2_3",
+        "question": "[Mức 3 - Sửa lỗi] He eats too much sugar, so he gains weights.",
+        "answer": "Bước 1: 'gain weight' = tăng cân.\nBước 2: Phát hiện lỗi: thêm s vào 'weight'.\nBước 3: Quy tắc: weight là danh từ không đếm được, không thêm s.\nBước 4: Câu đúng: He eats too much sugar, so he gains weight. Dịch: Cậu ấy ăn quá nhiều đường nên tăng cân.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_2_4",
+        "question": "[Mức 4 - Viết lời khuyên] Dùng should: I have a sore throat. Viết 1 lời khuyên.",
+        "answer": "Bước 1: Triệu chứng: sore throat (đau họng).\nBước 2: Bẫy: should + to V.\nBước 3: Quy tắc: S + should + V nguyên; chọn hành động có lợi (nghỉ ngơi, uống nước ấm).\nBước 4: Đáp án mẫu: You should drink warm water and rest. Dịch: Bạn nên uống nước ấm và nghỉ ngơi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_1_2_1",
+    "name": "[Bản chất]:\nSức khỏe: BỆNH -> NGUYÊN NHÂN -> LỜI KHUYÊN\nHọc từ vựng đi kèm should/shouldn't\nbody part + ache = đau chỗ đó",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_2_2",
+    "name": "[Từ vựng Unit 2]:\nsunburn, flu, cough, sore throat\nheadache, toothache, stomachache\nallergy, spots, chapped lips\nweight, stay in shape, healthy diet",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_2_3",
+    "name": "[Collocation]:\nhave a cough/headache/sore throat\nget sunburn\ngain/lose weight\nstay in shape\nwear sunscreen",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_2_4",
+    "name": "[Bẫy thường gặp]:\nweights (weight không đếm được)\nstomach-ache viết sai chính tả\nNhầm toothache (răng) và headache (đầu)\nshould + to V",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_1_3",
+    "name": "[Từ vựng] Community service\nHoạt động cộng đồng (Unit 3)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_1",
+    "examples": [
+      {
+        "id": "eng7_ex2_1_3_1",
+        "question": "[Mức 1 - Chọn từ] Our school students _____ warm clothes and books to help homeless children last week.\nA. donated   B. recycled   C. cleaned",
+        "answer": "Bước 1: Manh mối: 'warm clothes and books', 'help homeless children' -> cho đi.\nBước 2: Loại trừ: recycled (tái chế), cleaned (dọn dẹp).\nBước 3: Quy tắc: donate + vật + to + người; 'last week' -> quá khứ (donated).\nBước 4: Đáp án A. Dịch: Tuần trước học sinh trường tôi đã quyên góp quần áo ấm và sách cho trẻ em vô gia cư.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_3_2",
+        "question": "[Mức 2 - Chọn từ] We _____ money to help poor children last month.\nA. raised   B. rose   C. rise",
+        "answer": "Bước 1: 'help poor children' + 'money' -> gây quỹ; 'last month' -> quá khứ.\nBước 2: Loại trừ: 'rose/rise' = tăng lên (không cần tân ngữ).\nBước 3: Quy tắc: raise money (gây quỹ), raise là động từ có tân ngữ.\nBước 4: Đáp án A. Dịch: Tháng trước chúng tôi đã quyên góp tiền giúp trẻ em nghèo.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_3_3",
+        "question": "[Mức 3 - Sửa lỗi] They donated money for the charity.",
+        "answer": "Bước 1: Cấu trúc donate + vật + to + người/tổ chức.\nBước 2: Phát hiện lỗi: dùng 'for'.\nBước 3: Quy tắc: donate ... to ...\nBước 4: Câu đúng: They donated money to the charity. Dịch: Họ đã quyên góp tiền cho tổ chức từ thiện.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_1_3_4",
+        "question": "[Mức 4 - Word form] She is a _____ at the children's hospital. (volunteer / volunteering / voluntary)",
+        "answer": "Bước 1: Trước chỗ trống có mạo từ 'a' -> cần danh từ chỉ người.\nBước 2: Loại trừ: volunteering (V-ing), voluntary (tính từ).\nBước 3: Quy tắc: volunteer (n) = tình nguyện viên.\nBước 4: Đáp án: volunteer. Dịch: Cô ấy là tình nguyện viên ở bệnh viện nhi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_1_3_1",
+    "name": "[Bản chất]:\nCộng đồng = giúp người khác\nĐộng từ: DO / HELP / GIVE\nXác định ĐỐI TƯỢNG được giúp để chọn hành động",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_3_2",
+    "name": "[Từ vựng Unit 3]:\nvolunteer, donate, charity\nhomeless people, the elderly, orphans\nclean up, plant trees, collect rubbish\nraise money, give out food, tutor",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_3_3",
+    "name": "[Collocation]:\ndonate ... to ...\nhelp ... with ...\nprovide ... with ...\nraise money/funds\nthe elderly (the + adj = nhóm người)",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_1_3_4",
+    "name": "[Bẫy thường gặp]:\ndonate for -> donate to\nvolunteer (n/v) vs voluntary (adj)\nthe elderlies -> the elderly\nraise (cần tân ngữ) vs rise (không cần)",
+    "type": "STEP",
+    "parentId": "eng7_les2_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_top2_2",
+    "name": "[Topic] Nghệ thuật, ẩm thực, trường học\nUnit 4, 5, 6",
+    "type": "TOPIC",
+    "parentId": "eng7_cat2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_2_1",
+    "name": "[Từ vựng] Music and arts\nÂm nhạc & nghệ thuật (Unit 4)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_2",
+    "examples": [
+      {
+        "id": "eng7_ex2_2_1_1",
+        "question": "[Mức 1 - Chọn từ] Water _____ is a unique traditional art form of Viet Nam, performed on water.\nA. puppetry   B. painting   C. music",
+        "answer": "Bước 1: Manh mối: 'performed on water' (biểu diễn trên nước), 'traditional art'.\nBước 2: Loại trừ: painting (vẽ tranh), music (âm nhạc) không biểu diễn trên nước.\nBước 3: Quy tắc: cụm cố định water puppetry.\nBước 4: Đáp án A. Dịch: Múa rối nước là loại hình nghệ thuật truyền thống độc đáo của Việt Nam.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_1_2",
+        "question": "[Mức 2 - Chọn từ] Mozart was a famous _____. He wrote many pieces of classical music.\nA. composer   B. painter   C. dancer",
+        "answer": "Bước 1: Manh mối: 'wrote ... music' -> người sáng tác nhạc.\nBước 2: Loại trừ: painter (họa sĩ), dancer (vũ công).\nBước 3: Quy tắc: compose (v) -> composer (n).\nBước 4: Đáp án A. Dịch: Mozart là nhà soạn nhạc nổi tiếng.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_1_3",
+        "question": "[Mức 3 - Word form] The band gave a great _____ last night. (perform / performance / performer)",
+        "answer": "Bước 1: Trước chỗ trống: 'a great' -> cần danh từ.\nBước 2: Loại trừ: perform (động từ), performer (người biểu diễn, không hợp với 'gave a great').\nBước 3: Quy tắc: give a performance (diễn một buổi).\nBước 4: Đáp án: performance. Dịch: Ban nhạc đã có buổi biểu diễn tuyệt vời tối qua.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_1_4",
+        "question": "[Mức 4 - Sửa lỗi] He plays the guitar very good.",
+        "answer": "Bước 1: Từ bổ nghĩa cho động từ 'plays': 'good'.\nBước 2: Phát hiện lỗi: dùng tính từ.\nBước 3: Quy tắc: bổ nghĩa động từ -> trạng từ; good -> well.\nBước 4: Câu đúng: He plays the guitar very well. Dịch: Cậu ấy chơi guitar rất hay.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_2_1_1",
+    "name": "[Bản chất]:\nMột gốc từ -> nhiều từ (HỌ TỪ)\nHọc 1 từ = biết cả nhóm\nHọ từ giúp làm bài Word form",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_1_2",
+    "name": "[Từ vựng Unit 4]:\nwater puppetry, folk music, concert, band\nmelody, lyrics, instrument\nartist, painting, portrait\nmusician, composer, audience",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_1_3",
+    "name": "[Họ từ]:\nmusic - musician - musical\nart - artist - artistic\nperform - performance - performer\ncompose - composer",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_1_4",
+    "name": "[Collocation]:\nplay the guitar/the piano\nsing a song\npaint a picture\ngive a concert\ntake part in",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_2_2",
+    "name": "[Từ vựng] Food and drink\nẨm thực (Unit 5)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_2",
+    "examples": [
+      {
+        "id": "eng7_ex2_2_2_1",
+        "question": "[Mức 1 - Chọn từ] What are the main _____ for making spring rolls? - Pork, eggs and vegetables.\nA. ingredients   B. recipes   C. dishes",
+        "answer": "Bước 1: Câu trả lời liệt kê 'pork, eggs, vegetables' -> nguyên liệu.\nBước 2: Loại trừ: recipe (công thức), dish (món ăn).\nBước 3: Quy tắc: ingredient = nguyên liệu.\nBước 4: Đáp án A. Dịch: Nguyên liệu chính làm nem rán là gì? - Thịt heo, trứng và rau.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_2_2",
+        "question": "[Mức 2 - Chọn từ] Can I have a _____ of bread, please?\nA. bottle   B. slice   C. can",
+        "answer": "Bước 1: bread là danh từ không đếm được, cần đơn vị.\nBước 2: Loại trừ: bottle (chai), can (lon) không dùng cho bánh mì.\nBước 3: Quy tắc: a slice of bread (lát bánh).\nBước 4: Đáp án B. Dịch: Cho tôi một lát bánh mì.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_2_3",
+        "question": "[Mức 3 - Sửa lỗi] I need two breads and a milk.",
+        "answer": "Bước 1: bread, milk là danh từ không đếm được.\nBước 2: Phát hiện lỗi: thêm số, thêm a trực tiếp.\nBước 3: Quy tắc: số lượng + đơn vị + of + danh từ không đếm được.\nBước 4: Câu đúng: I need two slices of bread and a carton of milk. Dịch: Tôi cần hai lát bánh mì và một hộp sữa.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_2_4",
+        "question": "[Mức 4 - Chọn cặp động từ] First, _____ the vegetables into small pieces. Then _____ them in oil.\nA. boil - slice   B. slice - fry   C. fry - bake   D. bake - slice",
+        "answer": "Bước 1: Trình tự nấu: cắt trước, chiên sau (First... Then).\nBước 2: Loại trừ: boil (luộc), bake (nướng) không đi với 'in oil'.\nBước 3: Quy tắc: slice = cắt lát; fry in oil = chiên trong dầu.\nBước 4: Đáp án B. Dịch: Trước tiên thái rau thành miếng nhỏ, sau đó chiên trong dầu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_2_2_1",
+    "name": "[Bản chất]:\nDanh từ không đếm được cần ĐƠN VỊ đo\nKhông nói a bread; nói a slice of bread\nBước nấu ăn đi theo trình tự: First, Then, Next",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_2_2",
+    "name": "[Từ vựng Unit 5]:\ningredient, recipe, broth, omelette\na bottle/can/carton/packet of\na bowl/slice/kilo of\na tablespoon/teaspoon of",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_2_3",
+    "name": "[Động từ nấu ăn]:\nslice (cắt lát), chop (băm)\nboil (luộc), fry (chiên), bake (nướng), grill (nướng vỉ)\nmix (trộn), pour (đổ), add (thêm)",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_2_4",
+    "name": "[Bẫy thường gặp]:\ntwo breads, a milk, an advice: SAI\ncooker (nồi) vs cook (đầu bếp)\ningredient (nguyên liệu) vs recipe (công thức)\nSai đơn vị: a bottle of bread",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_2_3",
+    "name": "[Từ vựng] A visit to a school\nTrường học (Unit 6)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_2",
+    "examples": [
+      {
+        "id": "eng7_ex2_2_3_1",
+        "question": "[Mức 1 - Chọn từ] Students do experiments in the science _____.\nA. library   B. laboratory   C. canteen",
+        "answer": "Bước 1: Manh mối: 'do experiments' (làm thí nghiệm).\nBước 2: Loại trừ: library (thư viện), canteen (căng tin).\nBước 3: Quy tắc: nơi làm thí nghiệm = laboratory (lab).\nBước 4: Đáp án B. Dịch: Học sinh làm thí nghiệm trong phòng thí nghiệm khoa học.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_3_2",
+        "question": "[Mức 2 - Chọn từ] We have lunch in the school _____.\nA. gym   B. laboratory   C. canteen",
+        "answer": "Bước 1: Manh mối: 'have lunch' (ăn trưa).\nBước 2: Loại trừ: gym (phòng thể dục), laboratory (phòng thí nghiệm).\nBước 3: Quy tắc: nơi ăn uống ở trường = canteen.\nBước 4: Đáp án C. Dịch: Chúng tôi ăn trưa ở căng tin trường.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_3_3",
+        "question": "[Mức 3 - Sửa lỗi chính tả] She borrows books at the school libary.",
+        "answer": "Bước 1: Từ 'libary' viết thiếu một chữ r.\nBước 2: Phát hiện lỗi: sai chính tả.\nBước 3: Quy tắc: library (li-brar-y); không đọc/viết thành 'libary'.\nBước 4: Câu đúng: She borrows books at the school library. Dịch: Cô ấy mượn sách ở thư viện trường.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_2_3_4",
+        "question": "[Mức 4 - Nối địa điểm] Students borrow books in the _____, do experiments in the _____ and play basketball in the _____.\n(library / laboratory / gym, theo thứ tự)",
+        "answer": "Bước 1: Ghép hoạt động với nơi: borrow books, do experiments, play basketball.\nBước 2: Bẫy: đảo thứ tự.\nBước 3: Quy tắc: library -> sách; laboratory -> thí nghiệm; gym -> thể thao.\nBước 4: Đáp án: library - laboratory - gym.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_2_3_1",
+    "name": "[Bản chất]:\nMỗi nơi trong trường = 1 chức năng\nĐọc câu -> tìm hoạt động -> suy ra địa điểm\nHọc theo cặp: địa điểm + hoạt động",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_3_2",
+    "name": "[Từ vựng Unit 6]:\nclassroom, library, playground\nschool hall, gym, canteen\ncomputer room, science laboratory (lab)\nboarding school, international school",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_3_3",
+    "name": "[Địa điểm - hoạt động]:\nlibrary -> borrow books\nlab -> do experiments\ngym -> play sports\ncanteen -> have lunch\ncomputer room -> use computers",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_2_3_4",
+    "name": "[Bẫy thường gặp]:\nSai chính tả: libary, laboratry, canten\nNhầm gym (thể dục) và playground (sân chơi)\nin/on/at: at school, in the classroom",
+    "type": "STEP",
+    "parentId": "eng7_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_top2_3",
+    "name": "[Topic] Giao thông, văn hóa, thế giới\nUnit 7 đến Unit 12",
+    "type": "TOPIC",
+    "parentId": "eng7_cat2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_3_1",
+    "name": "[Từ vựng] Traffic\nGiao thông (Unit 7)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_3",
+    "examples": [
+      {
+        "id": "eng7_ex2_3_1_1",
+        "question": "[Mức 1 - Chọn từ] You must obey traffic rules and look at the traffic _____ when you cross the road.\nA. lights   B. jam   C. rules   D. accident",
+        "answer": "Bước 1: Manh mối: 'obey traffic rules', 'cross the road' -> tín hiệu để đi.\nBước 2: Loại trừ: jam (tắc đường), rules (quy tắc, đã nhắc), accident (tai nạn).\nBước 3: Quy tắc: look at the traffic lights (đèn giao thông).\nBước 4: Đáp án A. Dịch: Bạn phải tuân thủ luật giao thông và nhìn đèn giao thông khi qua đường.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 254\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"252\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Phương tiện: chọn động từ theo cách di chuyển</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Động từ</text><text x=\"120\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Phương tiện</text><text x=\"340\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Mẫu câu</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">ride</text><text x=\"120\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">a bike, a motorbike, a horse</text><text x=\"340\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">She rides a bike.</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">drive</text><text x=\"120\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">a car, a bus, a truck</text><text x=\"340\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">He drives a car.</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">take</text><text x=\"120\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">a bus, a taxi, a train</text><text x=\"340\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I take a bus to school.</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">by</text><text x=\"120\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">bus, car, train (không có a)</text><text x=\"340\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I go to school by bus.</text><rect x=\"20\" y=\"206\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">on foot</text><text x=\"120\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">đi bộ</text><text x=\"340\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">We go to school on foot.</text></svg>"
+      },
+      {
+        "id": "eng7_ex2_3_1_2",
+        "question": "[Mức 2 - Chọn cặp] My dad _____ a car to work, but I _____ my bike to school.\nA. drives - ride   B. rides - drive   C. drives - drive   D. rides - ride",
+        "answer": "Bước 1: Xác định phương tiện: a car, my bike.\nBước 2: Bẫy: dùng drive cho cả xe đạp.\nBước 3: Quy tắc: drive + ô tô/xe tải; ride + xe đạp/xe máy; 'my dad' + s.\nBước 4: Đáp án A. Dịch: Bố tôi lái ô tô đi làm, còn tôi đạp xe đi học.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_1_3",
+        "question": "[Mức 3 - Sửa lỗi] They go to school by foot.",
+        "answer": "Bước 1: Phương tiện: đi bộ.\nBước 2: Phát hiện lỗi: dùng 'by foot'.\nBước 3: Quy tắc: by + phương tiện (by bus); đi bộ -> on foot.\nBước 4: Câu đúng: They go to school on foot. Dịch: Họ đi bộ đến trường.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_1_4",
+        "question": "[Mức 4 - Viết lại] Dùng 'take': He goes to work by bus.",
+        "answer": "Bước 1: 'by bus' = bằng xe buýt.\nBước 2: Bẫy: take bus (thiếu a) hoặc takes by bus.\nBước 3: Quy tắc: take + a + phương tiện công cộng.\nBước 4: Đáp án: He takes a bus to work. Dịch: Anh ấy đi xe buýt đi làm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_3_1_1",
+    "name": "[Bản chất]:\nChọn động từ theo CÁCH DI CHUYỂN\nNgồi giữ lái: ride (xe 2 bánh), drive (xe 4 bánh)\nĐi nhờ: take / by + phương tiện",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_1_2",
+    "name": "[Từ vựng Unit 7]:\ntraffic jam, traffic lights, road sign\nzebra crossing, pavement, seatbelt, helmet\npedestrian, rush hour, speed limit",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_1_3",
+    "name": "[Collocation]:\nride a bike/a motorbike\ndrive a car\ntake a bus\ngo by bus\ngo on foot\nobey/break traffic rules\nwear a helmet",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_1_4",
+    "name": "[Bẫy thường gặp]:\nby foot -> on foot\ndrive a bike -> ride a bike\nby a bus -> by bus\ntake bus -> take a bus",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_3_2",
+    "name": "[Từ vựng] Films\nPhim ảnh (Unit 8)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_3",
+    "examples": [
+      {
+        "id": "eng7_ex2_3_2_1",
+        "question": "[Mức 1 - Chọn từ] The movie was so _____ that many people cried at the end.\nA. moving   B. moved   C. move",
+        "answer": "Bước 1: Chủ ngữ là vật: 'The movie'.\nBước 2: Loại trừ: moved (cảm xúc người), move (động từ).\nBước 3: Quy tắc: miêu tả bản chất vật -> adj-ing.\nBước 4: Đáp án A. Dịch: Bộ phim cảm động đến mức nhiều người khóc ở cuối.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 220\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"218\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">-ing hay -ed? Hỏi: miêu tả VẬT hay CẢM XÚC của NGƯỜI</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Đuôi</text><text x=\"120\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Miêu tả</text><text x=\"340\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">-ing</text><text x=\"120\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Bản chất của vật/việc</text><text x=\"340\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">The film is boring.</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">-ed</text><text x=\"120\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Cảm xúc của người</text><text x=\"340\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">I am bored.</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">-ing</text><text x=\"120\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Gây ra cảm giác</text><text x=\"340\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">an exciting match</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">-ed</text><text x=\"120\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Cảm thấy</text><text x=\"340\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">excited fans</text></svg>"
+      },
+      {
+        "id": "eng7_ex2_3_2_2",
+        "question": "[Mức 2 - Chọn từ] I felt _____ when I watched the horror film alone at night.\nA. frightening   B. frightened   C. fright",
+        "answer": "Bước 1: Chủ ngữ là người: 'I felt'.\nBước 2: Loại trừ: frightening (gây sợ), fright (danh từ).\nBước 3: Quy tắc: cảm xúc của người -> adj-ed.\nBước 4: Đáp án B. Dịch: Tôi thấy sợ khi xem phim kinh dị một mình ban đêm.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_2_3",
+        "question": "[Mức 3 - Sửa lỗi] The film is bored, so I fell asleep.",
+        "answer": "Bước 1: Chủ ngữ là vật: 'The film'.\nBước 2: Phát hiện lỗi: dùng 'bored' (cảm xúc người).\nBước 3: Quy tắc: vật gây ra cảm giác -> boring.\nBước 4: Câu đúng: The film is boring, so I fell asleep. Dịch: Bộ phim chán nên tôi ngủ quên.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_2_4",
+        "question": "[Mức 4 - Chọn thể loại] A _____ gives real facts about animals, nature or history.\nA. comedy   B. documentary   C. horror",
+        "answer": "Bước 1: Manh mối: 'real facts' (sự thật có thật).\nBước 2: Loại trừ: comedy (hài), horror (kinh dị).\nBước 3: Quy tắc: documentary = phim tài liệu.\nBước 4: Đáp án B. Dịch: Phim tài liệu đưa ra thông tin thật về động vật, thiên nhiên hoặc lịch sử.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_3_2_1",
+    "name": "[Bản chất]:\nCùng gốc, khác đuôi = khác ý\n-ing: vật/việc GÂY RA cảm giác\n-ed: người CẢM THẤY",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_2_2",
+    "name": "[Từ vựng Unit 8]:\naction, comedy, horror, documentary\nanimation, science fiction, romance\nplot, cast, director, scene, review",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_2_3",
+    "name": "[Cặp tính từ]:\nboring - bored\nexciting - excited\nfrightening - frightened\nmoving - moved\namazing - amazed",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_2_4",
+    "name": "[Bẫy thường gặp]:\nThe film is bored -> boring\nI am boring -> bored (nghĩa khác: tôi nhàm chán)\nSai chính tả: documentary\nNhầm comedy (hài) và horror (kinh dị)",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_3_3",
+    "name": "[Từ vựng] Festivals around the world\nLễ hội (Unit 9)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_3",
+    "examples": [
+      {
+        "id": "eng7_ex2_3_3_1",
+        "question": "[Mức 1 - Chọn từ] Many festivals _____ in spring.\nA. take place   B. take part   C. take care",
+        "answer": "Bước 1: Manh mối: 'festivals ... in spring' -> diễn ra vào mùa xuân.\nBước 2: Loại trừ: take part (tham gia), take care (chăm sóc).\nBước 3: Quy tắc: take place = diễn ra (sự kiện).\nBước 4: Đáp án A. Dịch: Nhiều lễ hội diễn ra vào mùa xuân.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_3_2",
+        "question": "[Mức 2 - Chọn cặp] People wear colourful _____ and watch the _____ at night.\nA. costumes - fireworks   B. recipes - fireworks   C. costumes - ingredients",
+        "answer": "Bước 1: Manh mối: 'wear' (mặc) -> trang phục; 'watch at night' -> pháo hoa.\nBước 2: Loại trừ: recipes, ingredients không mặc/không xem.\nBước 3: Quy tắc: wear costumes; watch fireworks.\nBước 4: Đáp án A. Dịch: Mọi người mặc trang phục sặc sỡ và xem pháo hoa ban đêm.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_3_3",
+        "question": "[Mức 3 - Word form] The _____ of Tet lasts for several days. (celebrate / celebration / celebrated)",
+        "answer": "Bước 1: Sau 'The' và trước 'of' -> cần danh từ.\nBước 2: Loại trừ: celebrate (động từ), celebrated (quá khứ/tính từ).\nBước 3: Quy tắc: celebrate (v) -> celebration (n).\nBước 4: Đáp án: celebration. Dịch: Lễ kỷ niệm Tết kéo dài nhiều ngày.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_3_4",
+        "question": "[Mức 4 - Sửa lỗi] People often decorate their houses at Christmas Day.",
+        "answer": "Bước 1: 'Christmas Day' là một ngày cụ thể.\nBước 2: Phát hiện lỗi: dùng 'at' với ngày.\nBước 3: Quy tắc: on + ngày (on Christmas Day); at Christmas (cả kỳ lễ).\nBước 4: Câu đúng: People often decorate their houses on Christmas Day. (hoặc: at Christmas) Dịch: Mọi người thường trang trí nhà vào ngày Giáng sinh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_3_3_1",
+    "name": "[Bản chất]:\nLễ hội = SỰ KIỆN + HOẠT ĐỘNG + ĐỒ VẬT\nHọc từ theo ngữ cảnh lễ hội\nPhân biệt động từ - danh từ cùng gốc",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_3_2",
+    "name": "[Từ vựng Unit 9]:\nfestival, parade, fireworks\ncostume, lantern, feast, harvest\ntraditional, religious, seasonal\ncelebrate - celebration",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_3_3",
+    "name": "[Collocation]:\ntake place (diễn ra)\nhold a festival\nwear costumes\nwatch fireworks\ndecorate houses\ndress up",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_3_4",
+    "name": "[Bẫy thường gặp]:\ntake place (xảy ra) vs take part in (tham gia)\ncelebrate (v) vs celebration (n)\nat Christmas Day -> on Christmas Day\nNhầm costume (trang phục) với custom (phong tục)",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_3_4",
+    "name": "[Từ vựng] Energy sources\nNguồn năng lượng (Unit 10)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_3",
+    "examples": [
+      {
+        "id": "eng7_ex2_3_4_1",
+        "question": "[Mức 1 - Chọn từ] Solar energy, wind power and hydropower are clean and _____ sources of energy.\nA. renewable   B. non-renewable   C. limited",
+        "answer": "Bước 1: Manh mối: solar, wind, hydropower -> thiên nhiên cung cấp mãi.\nBước 2: Loại trừ: non-renewable, limited (hữu hạn).\nBước 3: Quy tắc: tái tạo = renewable.\nBước 4: Đáp án A. Dịch: Năng lượng mặt trời, gió và thủy điện là nguồn năng lượng sạch và tái tạo.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 152\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"150\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Nguồn năng lượng: tái tạo hay không tái tạo</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Loại</text><text x=\"160\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><text x=\"360\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Đặc điểm</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Renewable</text><text x=\"160\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">solar, wind, hydropower</text><text x=\"360\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Dùng mãi không hết, sạch</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Non-renewable</text><text x=\"160\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">coal, oil, natural gas</text><text x=\"360\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Hữu hạn, gây ô nhiễm</text></svg>"
+      },
+      {
+        "id": "eng7_ex2_3_4_2",
+        "question": "[Mức 2 - Chọn từ] Coal, oil and gas are _____ energy sources. They will run out one day.\nA. renewable   B. non-renewable   C. clean",
+        "answer": "Bước 1: Manh mối: 'will run out' (sẽ cạn kiệt).\nBước 2: Loại trừ: renewable, clean trái nghĩa với ý cạn kiệt/ô nhiễm.\nBước 3: Quy tắc: coal, oil, gas -> non-renewable.\nBước 4: Đáp án B. Dịch: Than, dầu và khí là nguồn không tái tạo. Một ngày nào đó chúng sẽ cạn.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_4_3",
+        "question": "[Mức 3 - Sửa lỗi] Solar panels generates electricity from the sun.",
+        "answer": "Bước 1: Chủ ngữ: 'Solar panels' (số nhiều).\nBước 2: Phát hiện lỗi: 'generates' (thêm s).\nBước 3: Quy tắc: chủ ngữ số nhiều + động từ nguyên dạng (Hiện tại đơn).\nBước 4: Câu đúng: Solar panels generate electricity from the sun. Dịch: Tấm pin mặt trời tạo ra điện từ mặt trời.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_4_4",
+        "question": "[Mức 4 - Chọn từ] We should _____ energy by turning off the lights when we leave the room.\nA. waste   B. save   C. burn",
+        "answer": "Bước 1: Manh mối: 'turning off the lights' (tắt đèn) -> làm giảm dùng điện.\nBước 2: Loại trừ: waste (lãng phí), burn (đốt).\nBước 3: Quy tắc: should + V; save energy = tiết kiệm năng lượng.\nBước 4: Đáp án B. Dịch: Chúng ta nên tiết kiệm năng lượng bằng cách tắt đèn khi rời phòng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_3_4_1",
+    "name": "[Bản chất]:\nPhân loại bằng 1 câu hỏi: dùng xong có hết không?\nKhông hết -> renewable\nHết -> non-renewable\nTiền tố non- = không",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_4_2",
+    "name": "[Từ vựng Unit 10]:\nsolar, wind, hydropower\ncoal, oil, natural gas, fossil fuel\nelectricity, solar panel, pollution",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_4_3",
+    "name": "[Collocation]:\ngenerate electricity\nsave/waste energy\nturn off the lights\nrun out\nclean energy",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_4_4",
+    "name": "[Bẫy thường gặp]:\nhydropower = năng lượng thủy điện (renewable)\nwater power = cách gọi khác, không phải 'hydro power'\nlimited (hữu hạn) vs unlimited (vô hạn)\nsolar panels + generate (không s)",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_4",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_3_5",
+    "name": "[Từ vựng] Travelling in the future\nDu lịch tương lai (Unit 11)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_3",
+    "examples": [
+      {
+        "id": "eng7_ex2_3_5_1",
+        "question": "[Mức 1 - Chọn từ] A _____ is a car that has no driver. It drives itself.\nA. driverless car   B. flying car   C. bamboo-copter",
+        "answer": "Bước 1: Manh mối: 'no driver', 'drives itself'.\nBước 2: Loại trừ: flying car (xe bay), bamboo-copter (chong chóng tre).\nBước 3: Quy tắc: driver + less = không có tài xế.\nBước 4: Đáp án A. Dịch: Xe không người lái là chiếc xe không có tài xế, tự lái.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_5_2",
+        "question": "[Mức 2 - Chọn mạo từ] A solar-powered car is _____ eco-friendly vehicle.\nA. a   B. an",
+        "answer": "Bước 1: Từ ngay sau: 'eco-friendly'.\nBước 2: Bẫy: chọn 'a' theo thói quen mà không kiểm tra âm đầu.\nBước 3: Quy tắc: âm đầu /e/ là nguyên âm -> an.\nBước 4: Đáp án B. Dịch: Ô tô chạy bằng năng lượng mặt trời là phương tiện thân thiện môi trường.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_5_3",
+        "question": "[Mức 3 - Sửa lỗi] I think people will travelling by hyperloop in 2050.",
+        "answer": "Bước 1: Signal word: 'I think', 'in 2050' -> Tương lai đơn.\nBước 2: Phát hiện lỗi: 'will travelling'.\nBước 3: Quy tắc: will + V nguyên mẫu.\nBước 4: Câu đúng: I think people will travel by hyperloop in 2050. Dịch: Tôi nghĩ năm 2050 con người sẽ đi lại bằng hyperloop.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_5_4",
+        "question": "[Mức 4 - Chọn từ] A _____ can move people from one place to another in a second.\nA. teleporter   B. hyperloop   C. bicycle",
+        "answer": "Bước 1: Manh mối: 'in a second' (trong 1 giây).\nBước 2: Loại trừ: hyperloop (tàu rất nhanh trong ống, vẫn cần thời gian), bicycle (chậm).\nBước 3: Quy tắc: teleporter = máy dịch chuyển tức thời.\nBước 4: Đáp án A. Dịch: Máy dịch chuyển có thể đưa người từ nơi này đến nơi khác trong một giây.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_3_5_1",
+    "name": "[Bản chất]:\nPhương tiện tương lai = dự đoán + mô tả\nDùng will để nói dự đoán\nDùng tính từ mô tả: eco-friendly, safe, fast",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_5_2",
+    "name": "[Từ vựng Unit 11]:\nflying car, driverless car, hyperloop\nbullet train, teleporter, bamboo-copter\nsolar-powered, eco-friendly, high-speed",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_5_3",
+    "name": "[Nghĩa dễ nhầm]:\nhyperloop = tàu cực nhanh chạy trong ống\nteleporter = máy dịch chuyển tức thời\nbamboo-copter = chong chóng tre bay",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_5_4",
+    "name": "[Bẫy thường gặp]:\ndriverless viết sai (drivelesss)\na eco-friendly -> an eco-friendly\nwill + V-ing / V-s: SAI\nNhầm hyperloop và teleporter",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_5",
+    "examples": null
+  },
+  {
+    "id": "eng7_les2_3_6",
+    "name": "[Từ vựng] English-speaking countries\nCác nước nói tiếng Anh (Unit 12)",
+    "type": "LESSON",
+    "parentId": "eng7_top2_3",
+    "examples": [
+      {
+        "id": "eng7_ex2_3_6_1",
+        "question": "[Mức 1 - Chọn từ] Australia is famous for its unique wildlife like kangaroos and _____.\nA. koalas   B. tigers   C. elephants",
+        "answer": "Bước 1: Manh mối: 'Australia', 'unique wildlife'.\nBước 2: Loại trừ: tigers, elephants không phải biểu tượng của Úc.\nBước 3: Quy tắc: kangaroo, koala = động vật đặc trưng của Úc.\nBước 4: Đáp án A. Dịch: Úc nổi tiếng với động vật độc đáo như chuột túi và gấu koala.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 288\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"286\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Quốc gia - Quốc tịch - Biểu tượng</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Quốc gia</text><text x=\"150\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Quốc tịch</text><text x=\"290\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Biểu tượng</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">UK</text><text x=\"150\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">British</text><text x=\"290\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Big Ben (London)</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">USA</text><text x=\"150\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">American</text><text x=\"290\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Statue of Liberty</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Australia</text><text x=\"150\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Australian</text><text x=\"290\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">kangaroo, koala, Sydney Opera House</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Canada</text><text x=\"150\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Canadian</text><text x=\"290\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">maple leaf</text><rect x=\"20\" y=\"206\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">New Zealand</text><text x=\"150\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">New Zealander</text><text x=\"290\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Maori people, kiwi</text><rect x=\"20\" y=\"240\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Scotland</text><text x=\"150\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Scottish</text><text x=\"290\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">Loch Ness</text></svg>"
+      },
+      {
+        "id": "eng7_ex2_3_6_2",
+        "question": "[Mức 2 - Chọn từ] Big Ben is a famous clock tower in London, the capital of the _____.\nA. USA   B. UK   C. Australia",
+        "answer": "Bước 1: Manh mối: 'Big Ben', 'London'.\nBước 2: Loại trừ: USA (Statue of Liberty), Australia (Sydney Opera House).\nBước 3: Quy tắc: London là thủ đô của UK.\nBước 4: Đáp án B. Dịch: Big Ben là tháp đồng hồ nổi tiếng ở London, thủ đô của Vương quốc Anh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_6_3",
+        "question": "[Mức 3 - Chọn từ] She is from Canada. She is _____.\nA. Canadian   B. Canada   C. Canadians",
+        "answer": "Bước 1: 'She is ...' cần tính từ/danh từ chỉ quốc tịch.\nBước 2: Loại trừ: Canada (tên nước), Canadians (số nhiều).\nBước 3: Quy tắc: Canada -> Canadian.\nBước 4: Đáp án A. Dịch: Cô ấy đến từ Canada. Cô ấy là người Canada.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex2_3_6_4",
+        "question": "[Mức 4 - Sửa lỗi] Scotland is part of the UK, so Scottish people are called English.",
+        "answer": "Bước 1: Scotland thuộc UK, người Scotland là Scottish hoặc British.\nBước 2: Phát hiện lỗi: gọi là 'English' (dành cho người Anh ở England).\nBước 3: Quy tắc: England khác UK; quốc tịch theo từng vùng.\nBước 4: Câu đúng: Scotland is part of the UK, so Scottish people are called British. Dịch: Scotland thuộc Vương quốc Anh nên người Scotland gọi là người Anh (British).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step2_3_6_1",
+    "name": "[Bản chất]:\nMỗi nước có bộ ba: TÊN NƯỚC - QUỐC TỊCH - BIỂU TƯỢNG\nQuốc tịch có đuôi riêng\nUK gồm England, Scotland, Wales, Northern Ireland",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_6_2",
+    "name": "[Từ vựng Unit 12]:\nUK, USA, Australia, Canada, New Zealand\nBig Ben, Statue of Liberty\nkangaroo, koala, Maori, Loch Ness",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_6_3",
+    "name": "[Quốc tịch]:\nUK -> British\nUSA -> American\nAustralia -> Australian\nCanada -> Canadian\nScotland -> Scottish",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_step2_3_6_4",
+    "name": "[Bẫy thường gặp]:\nUK khác England\nQuốc tịch viết hoa: Canadian\nNhầm tên nước (Canada) và quốc tịch (Canadian)\nNhầm biểu tượng nước này sang nước khác",
+    "type": "STEP",
+    "parentId": "eng7_les2_3_6",
+    "examples": null
+  },
+  {
+    "id": "eng7_cat3",
+    "name": "[Phát âm] Âm - Trọng âm - Ngữ điệu\nTừ chữ viết -> âm thanh",
+    "type": "CATEGORY",
+    "parentId": "eng7_sub",
+    "examples": null
+  },
+  {
+    "id": "eng7_top3_0",
+    "name": "[Topic] Nền tảng phát âm\nBảng chữ cái, IPA, vô thanh/hữu thanh",
+    "type": "TOPIC",
+    "parentId": "eng7_cat3",
+    "examples": null
+  },
+  {
+    "id": "eng7_les3_0_1",
+    "name": "[Âm] Bảng chữ cái & IPA\nChữ viết khác âm thanh",
+    "type": "LESSON",
+    "parentId": "eng7_top3_0",
+    "examples": [
+      {
+        "id": "eng7_ex3_0_1_1",
+        "question": "[Mức 1 - Trắc nghiệm] Từ nào có nguyên âm DÀI /iː/? A. sit /sɪt/   B. seat /siːt/   C. sat /sæt/",
+        "answer": "Bước 1: Tìm dấu hiệu: dấu 'ː' trong phiên âm = âm dài.\nBước 2: Loại trừ: /ɪ/ và /æ/ không có dấu 'ː' nên là âm ngắn.\nBước 3: Quy tắc: 'iː' (dài) khác 'ɪ' (ngắn).\nBước 4: Đáp án B. seat /siːt/.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_0_1_2",
+        "question": "[Mức 2 - Trắc nghiệm] Trong 'ship' /ʃɪp/, hai chữ 'sh' ứng với âm nào? A. /s/   B. /ʃ/   C. /tʃ/",
+        "answer": "Bước 1: Đọc phiên âm: /ʃɪp/, âm đầu là /ʃ/.\nBước 2: Loại trừ: /s/ là 'xờ'; /tʃ/ là 'ch' như 'chip'.\nBước 3: Quy tắc: 'sh' -> /ʃ/ (môi chu, hơi thoát ra).\nBước 4: Đáp án B.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 322\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"320\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Phụ âm cặp đôi: đặt tay lên cổ họng để phân biệt</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Vô thanh (không rung)</text><text x=\"250\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Hữu thanh (rung)</text><text x=\"420\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/p/</text><text x=\"250\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/b/</text><text x=\"420\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">pin - bin</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/t/</text><text x=\"250\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/d/</text><text x=\"420\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">tie - die</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/k/</text><text x=\"250\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/g/</text><text x=\"420\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">back - bag</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/f/</text><text x=\"250\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/v/</text><text x=\"420\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">fan - van</text><rect x=\"20\" y=\"206\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/s/</text><text x=\"250\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/z/</text><text x=\"420\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">sip - zip</text><rect x=\"20\" y=\"240\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/tʃ/</text><text x=\"250\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/dʒ/</text><text x=\"420\" y=\"262\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">cheap - jeep</text><rect x=\"20\" y=\"274\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"296\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/θ/</text><text x=\"250\" y=\"296\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/ð/</text><text x=\"420\" y=\"296\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">think - this</text></svg>"
+      },
+      {
+        "id": "eng7_ex3_0_1_3",
+        "question": "[Mức 3 - Trọng âm] Trong banana /bəˈnɑːnə/, trọng âm rơi vào âm tiết thứ mấy?",
+        "answer": "Bước 1: Tìm dấu trọng âm 'ˈ' trong phiên âm.\nBước 2: Dấu 'ˈ' đứng TRƯỚC âm tiết được nhấn: bə-ˈnɑː-nə.\nBước 3: Quy tắc: nhấn âm tiết ngay sau dấu 'ˈ'.\nBước 4: Đáp án: âm tiết thứ 2 (nɑː).",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_0_1_4",
+        "question": "[Mức 4 - Phân biệt] Khi đọc /z/ trong 'zoo' và /s/ trong 'sun', cổ họng có rung ở âm nào?",
+        "answer": "Bước 1: Đặt tay lên cổ họng, đọc kéo dài /sssss/ rồi /zzzzz/.\nBước 2: Quan sát: /z/ rung, /s/ không rung.\nBước 3: Quy tắc: /z/ hữu thanh (rung); /s/ vô thanh (không rung).\nBước 4: Đáp án: /z/ rung, /s/ không rung.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step3_0_1_1",
+    "name": "[Bản chất]:\nChữ viết KHÁC âm thanh\nIPA = 'chữ cái của âm', 1 ký hiệu = 1 âm\nBiết đọc phiên âm = tự đọc đúng từ mới",
+    "type": "STEP",
+    "parentId": "eng7_les3_0_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_0_1_2",
+    "name": "[Bảng chữ cái]:\n26 chữ: 5 nguyên âm (a, e, i, o, u) + 21 phụ âm\ny vừa nguyên âm vừa phụ âm (yes, happy)\nTên chữ cái nhóm cùng âm:\n/eɪ/: A H J K\n/iː/: B C D E G P T V\n/e/: F L M N S X Z\n/aɪ/: I Y\n/uː/: Q U W\n/ɑː/: R\n/əʊ/: O",
+    "type": "STEP",
+    "parentId": "eng7_les3_0_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_0_1_3",
+    "name": "[IPA căn bản]:\n44 âm: 20 nguyên âm + 24 phụ âm\nDấu ː: âm dài (/iː/ khác /ɪ/)\nDấu ˈ: trọng âm, đứng TRƯỚC âm nhấn\nSchwa /ə/: âm yếu nhất, hay gặp nhất",
+    "type": "STEP",
+    "parentId": "eng7_les3_0_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_0_1_4",
+    "name": "[Vô thanh / hữu thanh]:\nVô thanh: cổ họng KHÔNG rung\nHữu thanh: cổ họng RUNG\nTest: đặt tay lên cổ, đọc /s/ và /z/\nQuy tắc đuôi -s, -ed dựa vào điều này",
+    "type": "STEP",
+    "parentId": "eng7_les3_0_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_0_1_5",
+    "name": "[Bẫy thường gặp]:\nĐọc theo chữ cái (c luôn /k/)\nBỏ qua dấu ː (sit - seat)\nNhầm /ʃ/ (sh) với /s/\nKhông tra phiên âm khi gặp từ mới",
+    "type": "STEP",
+    "parentId": "eng7_les3_0_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_top3_1",
+    "name": "[Topic] Nguyên âm & phụ âm\n/ə/ /ɜː/ /æ/ /ɑː/, đuôi -s/-es, -ed",
+    "type": "TOPIC",
+    "parentId": "eng7_cat3",
+    "examples": null
+  },
+  {
+    "id": "eng7_les3_1_1",
+    "name": "[Âm] Nguyên âm /ə/ /ɜː/ /æ/ /ɑː/\nGiọng Anh-Anh",
+    "type": "LESSON",
+    "parentId": "eng7_top3_1",
+    "examples": [
+      {
+        "id": "eng7_ex3_1_1_1",
+        "question": "[Mức 1 - Âm gạch chân] Chọn từ có phần gạch chân phát âm khác: A. b[ir]d   B. g[ir]l   C. teach[er]   D. t[er]m",
+        "answer": "Bước 1: Phát âm từng từ: bird /bɜːd/, girl /gɜːl/, teacher /ˈtiːtʃə/, term /tɜːm/.\nBước 2: Phân nhóm: bird, girl, term chứa /ɜː/; teacher chứa /ə/ ở cuối.\nBước 3: Quy tắc: ir, ur, er giữa từ có nhấn -> /ɜː/; er cuối từ không nhấn -> /ə/.\nBước 4: Đáp án C. teacher.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 220\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"218\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">4 nguyên âm dễ nhầm (giọng Anh-Anh)</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Âm</text><text x=\"100\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Đặc điểm</text><text x=\"290\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Mẹo chữ viết</text><text x=\"450\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/ə/</text><text x=\"100\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">ngắn, yếu, không nhấn</text><text x=\"290\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">a, er, or cuối từ</text><text x=\"450\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">about, teacher</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/ɜː/</text><text x=\"100\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">dài, có nhấn</text><text x=\"290\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">ir, er, ur, wor-</text><text x=\"450\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">bird, her, turn, work</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/æ/</text><text x=\"100\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">ngắn, miệng mở rộng</text><text x=\"290\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">a ngắn giữa 2 phụ âm</text><text x=\"450\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">cat, bag, happy</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">/ɑː/</text><text x=\"100\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">dài, miệng mở tròn</text><text x=\"290\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">ar, a trước ss/st/th</text><text x=\"450\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">car, park, class</text></svg>"
+      },
+      {
+        "id": "eng7_ex3_1_1_2",
+        "question": "[Mức 2 - Trắc nghiệm] Chọn từ có nguyên âm /ɑː/: A. cat   B. car   C. cup   D. cut",
+        "answer": "Bước 1: Phát âm: cat /kæt/, car /kɑː/, cup /kʌp/, cut /kʌt/.\nBước 2: Loại trừ: /æ/ và /ʌ/ đều ngắn.\nBước 3: Quy tắc: 'ar' -> /ɑː/ (dài, miệng mở tròn).\nBước 4: Đáp án B. car.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_1_1_3",
+        "question": "[Mức 3 - Âm gạch chân] Chọn từ có phần gạch chân phát âm khác: A. h[a]t   B. b[a]g   C. p[a]rk   D. m[a]p",
+        "answer": "Bước 1: Phát âm: hat /hæt/, bag /bæg/, park /pɑːk/, map /mæp/.\nBước 2: Phân nhóm: hat, bag, map -> /æ/; park -> /ɑː/.\nBước 3: Quy tắc: 'a' + 'r' -> /ɑː/; 'a' ngắn giữa 2 phụ âm -> /æ/.\nBước 4: Đáp án C. park.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_1_1_4",
+        "question": "[Mức 4 - Bẫy] Chọn từ có 'or' đọc /ɜː/: A. doctor   B. work   C. visitor   D. actor",
+        "answer": "Bước 1: Phát âm: doctor /ˈdɒktə/, work /wɜːk/, visitor /ˈvɪzɪtə/, actor /ˈæktə/.\nBước 2: Loại trừ: 'or' cuối từ không nhấn -> /ə/ (doctor, visitor, actor).\nBước 3: Quy tắc: 'wor-' -> /ɜː/ (work, world, word).\nBước 4: Đáp án B. work.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step3_1_1_1",
+    "name": "[Bản chất]:\n4 âm hay nhầm do chữ viết giống nhau\nPhân biệt bằng: ĐỘ DÀI + VỊ TRÍ MIỆNG + CÓ NHẤN không\n/ə/ ngắn, yếu, không nhấn (schwa)",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_1_2",
+    "name": "[Đặc điểm]:\n/ə/: ngắn, không nhấn (about, teacher)\n/ɜː/: dài, có nhấn (bird, her)\n/æ/: ngắn, miệng mở rộng (cat, bag)\n/ɑː/: dài, miệng mở tròn (car, park)",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_1_3",
+    "name": "[Mẹo chữ viết]:\n/ɜː/: ir, er, ur, ear, wor- (bird, her, turn, learn, work)\n/ɑː/: ar (car, park), ask, class\n/æ/: a ngắn giữa 2 phụ âm (cat, bag, happy)\n/ə/: er, or, ar cuối từ không nhấn (teacher, doctor)",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_1_4",
+    "name": "[Bẫy thường gặp]:\ner cuối từ là /ə/, er giữa từ có nhấn là /ɜː/\nwork /wɜːk/ (not /wɔːk/)\nGiọng Anh-Anh: dance /dɑːns/ (Anh-Mỹ /dæns/)\nNhầm /æ/ và /ɑː/ trong cat - car",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les3_1_2",
+    "name": "[Âm] Đuôi -ed\n/t/, /d/, /ɪd/",
+    "type": "LESSON",
+    "parentId": "eng7_top3_1",
+    "examples": [
+      {
+        "id": "eng7_ex3_1_2_1",
+        "question": "[Mức 1 - Phát âm] Chọn từ có đuôi -ed đọc khác: A. played   B. visited   C. decided   D. wanted",
+        "answer": "Bước 1: Xác định âm cuối trước -ed: played (/eɪ/), visited (/t/), decided (/d/), wanted (/t/).\nBước 2: Phân nhóm: visited, decided, wanted đuôi -ed là /ɪd/; played đuôi -ed là /d/.\nBước 3: Quy tắc: sau t, d -> /ɪd/; sau âm hữu thanh/nguyên âm -> /d/.\nBước 4: Đáp án A. played.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 186\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"184\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Đuôi -ed: nhìn ÂM cuối trước -ed</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Âm cuối trước -ed</text><text x=\"320\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Đọc là</text><text x=\"420\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">t, d</text><text x=\"320\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/ɪd/</text><text x=\"420\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">wanted, needed</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">p, k, f, th, s, sh, ch</text><text x=\"320\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/t/</text><text x=\"420\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">stopped, washed, danced</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">còn lại (hữu thanh, nguyên âm)</text><text x=\"320\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/d/</text><text x=\"420\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">played, loved</text></svg>"
+      },
+      {
+        "id": "eng7_ex3_1_2_2",
+        "question": "[Mức 2 - Phát âm] Chọn từ có đuôi -ed đọc /t/: A. wanted   B. laughed   C. played   D. needed",
+        "answer": "Bước 1: Âm cuối trước -ed: want (/t/), laugh (/f/), play (nguyên âm), need (/d/).\nBước 2: Loại trừ: wanted, needed -> /ɪd/; played -> /d/.\nBước 3: Quy tắc: laugh tận cùng /f/ (vô thanh) -> /t/.\nBước 4: Đáp án B. laughed /lɑːft/.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_1_2_3",
+        "question": "[Mức 3 - Phát âm] Chọn từ có đuôi -ed đọc khác: A. watched   B. stopped   C. washed   D. loved",
+        "answer": "Bước 1: Âm cuối: watch (/tʃ/), stop (/p/), wash (/ʃ/), love (/v/).\nBước 2: Phân nhóm: /tʃ/, /p/, /ʃ/ đều vô thanh -> -ed là /t/; /v/ hữu thanh -> /d/.\nBước 3: Quy tắc: vô thanh -> /t/; hữu thanh -> /d/.\nBước 4: Đáp án D. loved.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_1_2_4",
+        "question": "[Mức 4 - Bẫy] Từ 'danced' có chữ 'e' trước 'd'. Đuôi -ed đọc là gì? A. /ɪd/   B. /t/   C. /d/",
+        "answer": "Bước 1: Tìm ÂM cuối của 'dance': /dɑːns/ -> âm /s/.\nBước 2: Bẫy: nhìn chữ cái cuối là 'e' rồi chọn /d/ hoặc /ɪd/.\nBước 3: Quy tắc: /s/ là vô thanh -> -ed đọc /t/.\nBước 4: Đáp án B. danced /dɑːnst/.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step3_1_2_1",
+    "name": "[Bản chất]:\nĐuôi -ed hòa theo ÂM cuối của gốc từ\nVô thanh -> /t/\nHữu thanh và nguyên âm -> /d/\nSau t, d -> thêm /ɪd/ để dễ đọc",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_2_2",
+    "name": "[Quy tắc]:\n/ɪd/ sau t, d (wanted, needed)\n/t/ sau p, k, f, th, s, sh, ch (stopped, washed)\n/d/ các trường hợp còn lại (played, loved)",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_2_3",
+    "name": "[Thần chú]:\n/t/: Thời Phong Kiến Phải Sang Sông Chờ\n= th, ph(f), k, p, s, sh, ch\n/ɪd/: Tờ Đỏ = t, d",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_2_4",
+    "name": "[Quy trình]:\nBước 1: Tìm ÂM cuối của gốc từ\nBước 2: Vô thanh? Hữu thanh? t hoặc d?\nBước 3: Chọn /t/, /d/ hoặc /ɪd/",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_2_5",
+    "name": "[Bẫy thường gặp]:\nNhìn chữ cuối thay vì âm cuối\ndanced, laughed, watched đều là /t/\nNhầm -ed thành /ɪd/ cho mọi từ\nloved, changed là /d/",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_les3_1_3",
+    "name": "[Âm] Đuôi -s/-es\n/s/, /z/, /ɪz/",
+    "type": "LESSON",
+    "parentId": "eng7_top3_1",
+    "examples": [
+      {
+        "id": "eng7_ex3_1_3_1",
+        "question": "[Mức 1 - Phát âm] Chọn từ có đuôi -s đọc /s/: A. cats   B. dogs   C. buses   D. bags",
+        "answer": "Bước 1: Âm cuối gốc từ: cat (/t/), dog (/g/), bus (/s/), bag (/g/).\nBước 2: Loại trừ: dogs, bags -> /z/ (sau hữu thanh); buses -> /ɪz/.\nBước 3: Quy tắc: sau /p, t, k, f, θ/ (vô thanh) -> /s/.\nBước 4: Đáp án A. cats /kæts/.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 186\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"184\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Đuôi -s/-es: nhìn ÂM cuối, không nhìn chữ cuối</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Âm cuối của từ</text><text x=\"320\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Đọc là</text><text x=\"400\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">p, t, k, f, th (vô thanh)</text><text x=\"320\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/s/</text><text x=\"400\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">cats, books, cups</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">s, z, sh, ch, j (âm gió)</text><text x=\"320\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/ɪz/</text><text x=\"400\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">buses, watches, washes</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">còn lại (hữu thanh, nguyên âm)</text><text x=\"320\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">/z/</text><text x=\"400\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">dogs, bags, plays</text></svg>"
+      },
+      {
+        "id": "eng7_ex3_1_3_2",
+        "question": "[Mức 2 - Phát âm] Chọn từ có đuôi -es/-s đọc khác: A. watches   B. washes   C. boxes   D. books",
+        "answer": "Bước 1: Âm cuối: watch (/tʃ/), wash (/ʃ/), box (/ks/ -> /s/), book (/k/).\nBước 2: Phân nhóm: watches, washes, boxes -> /ɪz/ (âm gió); books -> /s/.\nBước 3: Quy tắc: sau s, z, sh, ch, j -> /ɪz/; sau k -> /s/.\nBước 4: Đáp án D. books.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_1_3_3",
+        "question": "[Mức 3 - Phát âm] Chọn từ có đuôi -s đọc /z/: A. books   B. cups   C. plays   D. laughs",
+        "answer": "Bước 1: Âm cuối: book (/k/), cup (/p/), play (nguyên âm), laugh (/f/).\nBước 2: Loại trừ: /k/, /p/, /f/ vô thanh -> /s/.\nBước 3: Quy tắc: sau nguyên âm hoặc hữu thanh -> /z/.\nBước 4: Đáp án C. plays /pleɪz/.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_1_3_4",
+        "question": "[Mức 4 - Phát âm] Chọn từ có đuôi -s đọc khác: A. stops   B. cooks   C. plays   D. hopes",
+        "answer": "Bước 1: Âm cuối: stop (/p/), cook (/k/), play (nguyên âm), hope (/p/).\nBước 2: Phân nhóm: stops, cooks, hopes -> /s/ (vô thanh); plays -> /z/.\nBước 3: Quy tắc: vô thanh -> /s/; nguyên âm -> /z/.\nBước 4: Đáp án C. plays.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step3_1_3_1",
+    "name": "[Bản chất]:\nĐuôi -s hòa theo ÂM cuối của gốc từ\nVô thanh -> /s/; hữu thanh -> /z/\nÂm gió -> thêm /ɪz/ để đọc được",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_3_2",
+    "name": "[Quy tắc]:\n/s/ sau p, t, k, f, th (cats, books)\n/ɪz/ sau s, z, sh, ch, j (buses, watches, judges)\n/z/ các trường hợp còn lại (dogs, plays)",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_3_3",
+    "name": "[Thần chú]:\n/s/: Thời Phong Kiến Phải Tiến\n= th, ph(f), k, p, t\n/ɪz/: Sáu Zô Sông Chờ Giờ\n= s, z, sh, ch, j",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_1_3_4",
+    "name": "[Bẫy thường gặp]:\nNhìn chữ cuối: box tận cùng x -> /ks/ -> boxes /ɪz/\nNhầm -es luôn là /ɪz/ (goes /z/)\nNhầm âm /ð/ (breathes /z/)",
+    "type": "STEP",
+    "parentId": "eng7_les3_1_3",
+    "examples": null
+  },
+  {
+    "id": "eng7_top3_2",
+    "name": "[Topic] Trọng âm & ngữ điệu\nTừ, câu, câu hỏi",
+    "type": "TOPIC",
+    "parentId": "eng7_cat3",
+    "examples": null
+  },
+  {
+    "id": "eng7_les3_2_1",
+    "name": "[Trọng âm] Từ 2-3 âm tiết\nTheo từ loại và đuôi từ",
+    "type": "LESSON",
+    "parentId": "eng7_top3_2",
+    "examples": [
+      {
+        "id": "eng7_ex3_2_1_1",
+        "question": "[Mức 1 - Trọng âm] Chọn từ có trọng âm khác: A. cycle   B. collect   C. traffic   D. hobby",
+        "answer": "Bước 1: Xác định từ loại và âm tiết: cycle, traffic, hobby là danh từ 2 âm tiết; collect là động từ.\nBước 2: Phát âm: 'cycle, 'traffic, 'hobby (nhấn âm 1); col'lect (nhấn âm 2).\nBước 3: Quy tắc: danh từ 2 âm tiết nhấn âm 1; động từ 2 âm tiết nhấn âm 2.\nBước 4: Đáp án B. collect.",
+        "mediaUrl": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 254\" width=\"100%\" font-family=\"Arial, sans-serif\"><rect x=\"1\" y=\"1\" width=\"598\" height=\"252\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#CBD5E1\"/><text x=\"300\" y=\"26\" font-size=\"16\" text-anchor=\"middle\" fill=\"#1E293B\" font-weight=\"bold\">Trọng âm: đoán theo từ loại và đuôi từ</text><rect x=\"20\" y=\"40\" width=\"560\" height=\"30\" fill=\"#DBEAFE\"/><text x=\"30\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Quy tắc</text><text x=\"350\" y=\"60\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"bold\">Ví dụ (dấu ' trước âm nhấn)</text><rect x=\"20\" y=\"70\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Danh từ/Tính từ 2 âm tiết: nhấn âm 1</text><text x=\"350\" y=\"92\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">'hobby, 'happy, 'traffic</text><rect x=\"20\" y=\"104\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Động từ 2 âm tiết: nhấn âm 2</text><text x=\"350\" y=\"126\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">col'lect, in'vite, be'gin</text><rect x=\"20\" y=\"138\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Ngoại lệ động từ: nhấn âm 1</text><text x=\"350\" y=\"160\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">'visit, 'answer, 'open</text><rect x=\"20\" y=\"172\" width=\"560\" height=\"34\" fill=\"#FFFFFF\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Đuôi -tion, -ic, -ity, -ian: nhấn trước đuôi</text><text x=\"350\" y=\"194\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">edu'cation, mu'sician</text><rect x=\"20\" y=\"206\" width=\"560\" height=\"34\" fill=\"#F8FAFC\" stroke=\"#E2E8F0\"/><text x=\"30\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1D4ED8\" font-weight=\"bold\">Đuôi -ee, -eer, -ese: nhấn chính đuôi</text><text x=\"350\" y=\"228\" font-size=\"13\" text-anchor=\"start\" fill=\"#1E293B\" font-weight=\"normal\">refu'gee, engi'neer</text></svg>"
+      },
+      {
+        "id": "eng7_ex3_2_1_2",
+        "question": "[Mức 2 - Trọng âm] Chọn từ có trọng âm khác: A. visit   B. invite   C. answer   D. open",
+        "answer": "Bước 1: Cả 4 từ đều là động từ 2 âm tiết.\nBước 2: Phát âm: 'visit, in'vite, 'answer, 'open.\nBước 3: Quy tắc: động từ thường nhấn âm 2 (invite), nhưng visit, answer, open là ngoại lệ nhấn âm 1.\nBước 4: Đáp án B. invite.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_2_1_3",
+        "question": "[Mức 3 - Trọng âm] Chọn từ có trọng âm khác: A. family   B. beautiful   C. computer   D. holiday",
+        "answer": "Bước 1: Cả 4 từ có 3 âm tiết.\nBước 2: Phát âm: 'family, 'beautiful, com'puter, 'holiday.\nBước 3: Quy tắc: computer có âm tiết đầu /kəm/ yếu (chứa /ə/) nên nhấn âm 2; /ə/ không nhận trọng âm.\nBước 4: Đáp án C. computer.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_2_1_4",
+        "question": "[Mức 4 - Đuôi từ] Chọn từ có trọng âm khác: A. information   B. education   C. celebration   D. musician",
+        "answer": "Bước 1: Nhận diện đuôi: -tion (information, education, celebration), -ian (musician).\nBước 2: Phát âm: infor'mation, edu'cation, cele'bration (âm 3); mu'sician (âm 2).\nBước 3: Quy tắc: đuôi -tion, -ian -> nhấn âm ngay trước đuôi.\nBước 4: Đáp án D. musician (nhấn âm 2; các từ còn lại âm 3).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step3_2_1_1",
+    "name": "[Bản chất]:\nTrọng âm = âm tiết đọc MẠNH, dài và cao hơn\nÂm không nhấn bị làm yếu thành /ə/\nĐoán trọng âm theo từ loại và đuôi từ",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_1_2",
+    "name": "[Quy tắc 2 âm tiết]:\nDanh từ/Tính từ: nhấn âm 1 ('hobby, 'happy)\nĐộng từ: nhấn âm 2 (col'lect, in'vite)\nNgoại lệ động từ nhấn âm 1: 'visit, 'answer, 'offer, 'open, 'listen, 'happen",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_1_3",
+    "name": "[Quy tắc theo đuôi]:\n-tion, -sion, -ic, -ity, -ian: nhấn trước đuôi\n-ee, -eer, -ese: nhấn chính đuôi\n-ful, -less, -ness, -ing, -ly: không đổi trọng âm\nÂm /ə/ không bao giờ nhận trọng âm",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_1_4",
+    "name": "[Quy trình]:\nBước 1: Đếm âm tiết\nBước 2: Xác định từ loại hoặc đuôi từ\nBước 3: Áp dụng quy tắc, kiểm tra ngoại lệ\nBước 4: So sánh các đáp án",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_1_5",
+    "name": "[Bẫy thường gặp]:\nBỏ qua ngoại lệ động từ (visit, answer)\nNhầm từ loại\nTự gán trọng âm cho âm /ə/\nQuên đuôi -tion, -ian",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "eng7_les3_2_2",
+    "name": "[Ngữ điệu] Trọng âm câu & ngữ điệu\nLên giọng / xuống giọng",
+    "type": "LESSON",
+    "parentId": "eng7_top3_2",
+    "examples": [
+      {
+        "id": "eng7_ex3_2_2_1",
+        "question": "[Mức 1 - Ngữ điệu] Is solar energy renewable? (Rising / Falling)",
+        "answer": "Bước 1: Nhận diện loại câu: Yes/No question.\nBước 2: Loại trừ: Falling dùng cho câu trần thuật và câu hỏi Wh-.\nBước 3: Quy tắc: Yes/No question -> lên giọng ở cuối câu.\nBước 4: Đáp án: Rising (lên giọng ở 'renewable').",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_2_2_2",
+        "question": "[Mức 2 - Ngữ điệu] What is your favourite film? (Rising / Falling)",
+        "answer": "Bước 1: Nhận diện loại câu: Wh-question (What).\nBước 2: Bẫy: thấy dấu '?' rồi chọn Rising.\nBước 3: Quy tắc: Wh-question -> xuống giọng ở cuối câu.\nBước 4: Đáp án: Falling.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_2_2_3",
+        "question": "[Mức 3 - Trọng âm câu] Câu 'I want to buy a new bike.' Những từ nào được nhấn mạnh?",
+        "answer": "Bước 1: Phân loại từ: want, buy, new, bike là từ mang nghĩa (động từ, tính từ, danh từ); I, to, a là từ chức năng.\nBước 2: Bẫy: nhấn cả câu đều nhau.\nBước 3: Quy tắc: nhấn từ mang nghĩa (danh từ, động từ chính, tính từ, trạng từ); từ chức năng đọc yếu.\nBước 4: Đáp án: want, buy, new, bike.",
+        "mediaUrl": null
+      },
+      {
+        "id": "eng7_ex3_2_2_4",
+        "question": "[Mức 4 - Liệt kê] I like apples, oranges and bananas. Ngữ điệu từng mục: apples - oranges - bananas?",
+        "answer": "Bước 1: Nhận diện: câu liệt kê 3 mục.\nBước 2: Bẫy: xuống giọng ở mọi mục.\nBước 3: Quy tắc: các mục đầu lên giọng (còn tiếp), mục cuối xuống giọng (kết thúc).\nBước 4: Đáp án: apples (Rising) - oranges (Rising) - bananas (Falling).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "eng7_step3_2_2_1",
+    "name": "[Bản chất]:\nTiếng Anh có NHỊP: từ mang nghĩa nhấn mạnh\nGiọng lên = 'còn tiếp / hỏi có không'\nGiọng xuống = 'xong / hỏi thông tin'",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_2_2",
+    "name": "[Ngữ điệu]:\nRising: Yes/No question, mục liệt kê đầu\nFalling: câu trần thuật, Wh-question, mục liệt kê cuối",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_2_3",
+    "name": "[Trọng âm câu]:\nNhấn: danh từ, động từ chính, tính từ, trạng từ, từ để hỏi\nYếu: a, the, to, of, is, and\nTừ chức năng thường đọc /ə/",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_2_4",
+    "name": "[Quy trình]:\nBước 1: Nhận diện loại câu\nBước 2: Gạch chân từ mang nghĩa\nBước 3: Áp dụng lên hoặc xuống giọng ở từ nhấn cuối",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "eng7_step3_2_2_5",
+    "name": "[Bẫy thường gặp]:\nLên giọng ở cuối câu Wh-: SAI\nNhấn mọi từ như nhau\nĐọc phẳng không có nhịp\nNhấn nhầm từ chức năng (a, the, to)",
+    "type": "STEP",
+    "parentId": "eng7_les3_2_2",
+    "examples": null
+  }
+]

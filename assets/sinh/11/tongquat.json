@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "sinh11_subject",
+    "name": "Sinh học 11 - Sinh học cơ thể (Bộ Kết nối tri thức với cuộc sống)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "sinh11_cat_tdc_tv",
+    "name": "Trao đổi chất & Chuyển hóa năng lượng ở thực vật",
+    "type": "CATEGORY",
+    "parentId": "sinh11_subject",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_nuoc_khoang",
+    "name": "Trao đổi nước, dinh dưỡng khoáng và Nitrogen ở thực vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_tdc_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_hapthu_vanchuyen",
+    "name": "Hấp thụ, vận chuyển nước - khoáng trong cây & Tính toán dinh dưỡng",
+    "type": "LESSON",
+    "parentId": "sinh11_top_nuoc_khoang",
+    "examples": [
+      {
+        "id": "sinh11_ex_1_1_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Một cây trồng có tổng diện tích bề mặt rễ hấp thụ là $20\\text{ m}^2$. Khi độ ẩm đất giảm từ $80\\%$ xuống $30\\%$, lượng nước hấp thụ giảm $60\\%$. Giải thích cơ chế sinh lý và sự biến đổi dòng vận chuyển trong cây.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Tế bào lông hút thuộc lớp tế bào biểu bì rễ, vận chuyển nước theo cơ chế thẩm thấu thụ động do chênh lệch áp suất thẩm thấu ($\\\\Delta P = P_{\\\\text{rễ}} - P_{\\\\text{đất}}$).\nBiện luận cơ chế sinh lý học đa chiều ➔ Đất khô làm tăng thế nước âm ở đất ($\\Psi_{\\\\text{đất}}$ giảm), thu hẹp chênh lệch thế nước giữa rễ và đất (\\Psi_{\\\\text{rễ}} - \\Delta \\Psi_{\\\\text{đất}}$ giảm) ➔ Tốc độ thẩm thấu qua Aquaporin giảm 60%.\nLập luận tính toán ➔ Dòng mạch gỗ ($V_{\\\\text{mạch gỗ}}$) giảm tương ứng 60% làm giảm lực đẩy của rễ (áp suất rễ), đồng thời kích thích lá tổng hợp Acid Abscisic (ABA) để đóng khí khổng ➔ $V_{\\\\text{thoát hơi nước}}$ giảm.\nKết luận ➔ Cây chủ động giảm thoát hơi nước để duy trì cân bằng nước; trong đó, lực kéo do thoát hơi nước ở lá luôn đóng vai trò là động lực chính dẫn truyền dòng mạch gỗ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_1_1_1_1",
+    "name": "Thế nước ➔ $\\Psi_{\\text{đất}} > \\Psi_{\\text{rễ}} > \\Psi_{\\text{thân}} > \\Psi_{\\text{lá}} > \\Psi_{\\text{khí quyển}}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_hapthu_vanchuyen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_1_2",
+    "name": "Động lực mạch gỗ ➔ Lực đẩy của rễ (Áp suất rễ) + Lực kéo do thoát hơi nước ở lá + Lực liên kết giữa các phân tử nước",
+    "type": "STEP",
+    "parentId": "sinh11_les_hapthu_vanchuyen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_1_3",
+    "name": "Động lực mạch rây ➔ Chênh lệch áp suất thẩm thấu giữa cơ quan nguồn ($C_{\\text{Sucrose}}$ cao) ➔ Cơ quan chứa ($C_{\\text{Sucrose}}$ thấp)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hapthu_vanchuyen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_1_4",
+    "name": "Con đường vận chuyển ➔ Gian bào (bị chặn bởi đai Caspary ở nội bì) vs Tế bào chất (qua cầu sinh chất)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hapthu_vanchuyen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn đai Caspary nằm ở vỏ rễ (Đúng: Đai Caspary nằm ở lớp nội bì để kiểm soát dòng chất khoáng)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hapthu_vanchuyen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_thoat_hoi_nuoc",
+    "name": "Cơ chế thoát hơi nước ở lá, điều tiết khí khổng & Cân bằng nước",
+    "type": "LESSON",
+    "parentId": "sinh11_top_nuoc_khoang",
+    "examples": [
+      {
+        "id": "sinh11_ex_1_1_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Quan sát khí khổng của lá cây C3 vào 12 giờ trưa nắng gắt, thấy khí khổng đóng hoàn toàn. Hãy giải thích cơ chế đóng khí khổng chủ động và tác động đến quang hợp.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Tế bào khí khổng có mép trong dày, mép ngoài mỏng. Đóng mở khí khổng phụ thuộc vào độ trương nước của tế bào.\nBiện luận cơ chế sinh lý học đa chiều ➔ Nắng gắt làm tăng thoát hơi nước ➔ Cây bị mất nước cấp tính ➔ Hàm lượng ABA trong lá tăng nhanh ➔ Kích thích bơm $K^+$ chủ động ra khỏi tế bào khí khổng ➔ Thế nước trong tế bào khí khổng tăng lên ➔ Nước thẩm thấu ra ngoài ➔ Tế bào xẹp lại ➔ Khí khổng đóng hoàn toàn (đóng chủ động).\nLập luận tính toán ➔ Khí khổng đóng ➔ $CO_2$ không khuếch tán vào gian bào lá ➔ Nồng độ $CO_2$ giảm mạnh, $O_2$ tích lũy từ pha sáng ➔ Kích thích quá trình hô hấp sáng do enzyme Rubisco thể hiện hoạt tính oxygenase và xúc tác gắn $O_2$ vào RuBP ➔ Tiêu tốn từ 30-50% sản phẩm quang hợp.\nKết luận ➔ Đóng khí khổng là phản ứng thích nghi giữ nước nhưng làm giảm năng suất quang hợp.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_1_1_2_1",
+    "name": "Thoát hơi nước ➔ $90\\%$ qua khí khổng (vận tốc nhanh, điều tiết được) + $10\\%$ qua cutin (chậm, không điều tiết)",
+    "type": "STEP",
+    "parentId": "sinh11_les_thoat_hoi_nuoc",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_2_2",
+    "name": "Cơ chế mở khí khổng ➔ Ánh sáng ➔ Tích tụ ion $K^+$ và đường làm tăng áp suất thẩm thấu ➔ Tế bào hút nước trương lên ➔ Vách ngoài mỏng dãn dài ra kéo vách trong dày cong theo ➔ Khí khổng mở",
+    "type": "STEP",
+    "parentId": "sinh11_les_thoat_hoi_nuoc",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_2_3",
+    "name": "Cơ chế đóng khí khổng ➔ Hạn hán ➔ Tăng hóc môn $\\text{ABA} \\rightarrow K^+$ thoát ra ➔ Mất nước ➔ Tế bào xẹp ➔ Khí khổng đóng",
+    "type": "STEP",
+    "parentId": "sinh11_les_thoat_hoi_nuoc",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_2_4",
+    "name": "Cân bằng nước ➔ $A \\ge B$ (A: Lượng nước rễ hút; B: Lượng nước thoát ra) $\\rightarrow$ Cây phát triển bình thường",
+    "type": "STEP",
+    "parentId": "sinh11_les_thoat_hoi_nuoc",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Cho rằng mép trong tế bào khí khổng dãn ra làm mở khí khổng (Đúng: Mép ngoài dãn dài trước kéo mép trong cong theo)",
+    "type": "STEP",
+    "parentId": "sinh11_les_thoat_hoi_nuoc",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_bien_doi_nitrogen",
+    "name": "Quá trình biến đổi Nitrate ($\\text{NO}_3^-$) và Ammonium ($\\text{NH}_4^+$) ở thực vật",
+    "type": "LESSON",
+    "parentId": "sinh11_top_nuoc_khoang",
+    "examples": [
+      {
+        "id": "sinh11_ex_1_1_3_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Tại sao khi cây bón quá nhiều phân đạm Nitrate ($\\text{NO}_3^-$) trong điều kiện thiếu ánh sáng hoặc thiếu các nguyên tố vi lượng ($Mo, Fe$), cây lại bị ngộ độc đạm?",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Biến đổi Nitrogen gồm 2 quá trình: Khử Nitrate ($\\text{NO}_3^- \\rightarrow \\text{NO}_2^- \\rightarrow \\text{NH}_4^+$) và Đồng hóa Ammonium ($\\text{NH}_4^+$ gắn vào Ketoacid thành Amino acid).\nBiện luận cơ chế sinh lý học đa chiều ➔ Enzyme Nitrate reductase cần $Mo, Fe$ làm cofactor và $NADH$ từ quang hợp/hô hấp. Thiếu ánh sáng ➔ Thiếu $NADH$; Thiếu vi lượng ➔ Enzyme giảm hoạt tính ➔ $\\text{NO}_3^-$ và $\\text{NO}_2^-$ tích lũy gây độc cho tế bào.\nLập luận tính toán ➔ Khi $\\text{NH}_4^+$ sinh ra không được gắn vào Ketoacid (do thiếu sản phẩm của chu trình Krebs khi thiếu quang hợp) ➔ $\\text{NH}_4^+$ dư thừa làm thay đổi pH tế bào chất và biến tính protein.\nKết luận ➔ Đồng hóa đạm đòi hỏi sự kết hợp chặt chẽ giữa năng lượng quang hợp, enzyme vi lượng và bộ khung Ketoacid từ hô hấp.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_1_1_3_1",
+    "name": "Khử Nitrate ➔ $\\text{NO}_3^- \\xrightarrow{\\text{Nitrate reductase}} \\text{NO}_2^- \\xrightarrow{\\text{Nitrite reductase}} \\text{NH}_4^+$",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_doi_nitrogen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_3_2",
+    "name": "Đồng hóa Ammonium ➔ $\\text{NH}_4^+ + \\text{Ketoacid} \\rightarrow \\text{Amino acid}$ (Khử amin hóa / Chuyển amin hóa)",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_doi_nitrogen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_3_3",
+    "name": "Cố định Nitrogen vi sinh ➔ $N_2 + 8H^+ + 8e^- + 16\\text{ATP} \\xrightarrow{\\text{Nitrogenase}} 2\\text{NH}_3 + H_2 + 16\\text{ADP}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_doi_nitrogen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_3_4",
+    "name": "Giải độc $\\text{NH}_4^+$ ➔ $\\text{NH}_4^+ + \\text{Glutamic acid} \\rightarrow \\text{Glutamine}$ (dữ trữ đạm an toàn)",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_doi_nitrogen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_1_3_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn phản ứng khử Nitrate thành Ammonium tiêu tốn ATP (Đúng: Sử dụng lực giảm $NADH/NADPH$ năng lượng cao)",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_doi_nitrogen",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_qh_hh",
+    "name": "Quang hợp và Hô hấp ở thực vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_tdc_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_quang_hop",
+    "name": "Phân tích pha sáng, pha tối ($C_3, C_4, \\text{CAM}$) & Năng suất cây trồng",
+    "type": "LESSON",
+    "parentId": "sinh11_top_qh_hh",
+    "examples": [
+      {
+        "id": "sinh11_ex_1_2_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Chiếu ánh sáng đơn sắc màu xanh lục và màu đỏ với cùng cường độ vào lá cây $C_3$. Hãy so sánh cường độ quang hợp thu được và giải thích.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Hệ sắc tố quang hợp (Chlorophyll a, b và Carotenoid) hấp thụ ánh sáng chủ yếu ở vùng đỏ ($660\\text{ nm}$) và xanh tím ($430-450\\text{ nm}$), phản xạ ánh sáng xanh lục ($500-550\\text{ nm}$).\nBiện luận cơ chế sinh lý học đa chiều ➔ Ánh sáng xanh lục bị phản xạ hầu hết nên Chlorophyll không hấp thụ được năng lượng photon ➔ Không kích hoạt được Trung tâm phản ứng $P680/P700$ ở Pha sáng ➔ Cường độ quang hợp gần như bằng 0.\nLập luận tính toán ➔ Ánh sáng đỏ kích thích tối đa Chlorophyll a sản sinh $ATP$ và $NADPH$ phục vụ chu trình Calvin ➔ Cường độ quang hợp cực đại.\nKết luận ➔ Quang hợp đạt hiệu suất cao nhất dưới ánh sáng đỏ và xanh tím, không hiệu quả dưới ánh sáng xanh lục.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_1_2_1_1",
+    "name": "Pha sáng ➔ Thylakoid: $2H_2O + 2NADP^+ + 3\\text{ADP} + 3Pi \\xrightarrow{\\text{Sáng}} O_2 + 2\\text{NADPH} + 3\\text{ATP}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_quang_hop",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_1_2",
+    "name": "Nhóm $C_3$ ➔ Stroma: $CO_2 + \\text{RuBP} (5C) \\xrightarrow{Rubisco} 2 \\text{APG} (3C) \\rightarrow \\text{ALPG} \\rightarrow \\text{Glucose}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_quang_hop",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_1_3",
+    "name": "Nhóm $C_4$ ➔ Tế bào mô giậu ($CO_2 + \\text{PEP} \\rightarrow \\text{AOA} \\rightarrow \\text{Malate}$) ➔ Tế bào bao bó mạch (Chu trình Calvin)",
+    "type": "STEP",
+    "parentId": "sinh11_les_quang_hop",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_1_4",
+    "name": "Nhóm $\\text{CAM}$ ➔ Ban đêm (Mở khí khổng cố định $CO_2 \\rightarrow \\text{Malate}$) ➔ Ban ngày (Đóng khí khổng, giải phóng $CO_2$ vào Calvin)",
+    "type": "STEP",
+    "parentId": "sinh11_les_quang_hop",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn cây $C_4$ có hô hấp sáng (Đúng: Cây $C_4$ không có hô hấp sáng nhờ nồng độ $CO_2$ cao ở bao bó mạch)",
+    "type": "STEP",
+    "parentId": "sinh11_les_quang_hop",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_ho_hap",
+    "name": "Con đường hô hấp hiếu khí, lên men và hô hấp sáng ở thực vật",
+    "type": "LESSON",
+    "parentId": "sinh11_top_qh_hh",
+    "examples": [
+      {
+        "id": "sinh11_ex_1_2_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Tính tổng số phân tử $ATP$ thu được khi phân giải hoàn toàn 1 phân tử Glucose qua đường phân, chu trình Krebs và chuỗi truyền electron hô hấp.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Hô hấp hiếu khí diễn ra tại Tế bào chất (Đường phân) và Ti thể (Chu trình Krebs + Chuỗi truyền electron).\nBiện luận cơ chế sinh lý học đa chiều ➔ 1 Glucose ➔ 2 Pyruvic acid + 2 ATP + 2 NADH (Đường phân). 2 Pyruvic acid ➔ 2 Acetyl-CoA + 2 NADH + 2 $CO_2$. 2 Acetyl-CoA ➔ 4 $CO_2$ + 2 ATP + 6 NADH + 2 $FADH_2$ (Krebs).\nLập luận tính toán ➔ Tổng thu được: 4 ATP trực tiếp + 10 NADH + 2 $FADH_2$. Qua chuỗi truyền electron: $10 \\text{NADH} \\times 2.5 \\text{ATP} = 25 \\text{ATP}$, $2 \\text{FADH}_2 \\times 1.5 \\text{ATP} = 3 \\text{ATP}$. Tổng cộng = $4 + 25 + 3 = 32 \\text{ATP}$ (hoặc 30-32 ATP tùy thời gian vận chuyển).\nKết luận ➔ Phân giải hiếu khí thu năng lượng gấp ~16 lần so với lên men (chỉ thu 2 ATP).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_1_2_2_1",
+    "name": "Đường phân (Tế bào chất) ➔ $1 \\text{ Glucose} \\rightarrow 2 \\text{ Pyruvic acid} + 2 \\text{ ATP} + 2 \\text{ NADH}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_2_2",
+    "name": "Hô hấp hiếu khí (Ti thể) ➔ $2 \\text{ Pyruvic acid} + 6 O_2 \\rightarrow 6 CO_2 + 6 H_2O + 30-32 \\text{ ATP}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_2_3",
+    "name": "Lên men (Thiếu $O_2$) ➔ $1 \\text{ Glucose} \\rightarrow 2 \\text{ Lactic acid}$ (hoặc $2 \\text{ Ethanol} + 2 CO_2$) $+ 2 \\text{ ATP}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_2_4",
+    "name": "Hô hấp sáng (Cây $C_3$) ➔ Lục lạp $\\rightarrow$ Peroxisome $\\rightarrow$ Ti thể (tiêu tốn $30-50\\%$ sản phẩm quang hợp)",
+    "type": "STEP",
+    "parentId": "sinh11_les_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_1_2_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Cho rằng lên men diễn ra trong ti thể (Đúng: Lên men diễn ra hoàn toàn trong tế bào chất)",
+    "type": "STEP",
+    "parentId": "sinh11_les_ho_hap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_cat_tdc_dv",
+    "name": "Trao đổi chất & Chuyển hóa năng lượng ở động vật",
+    "type": "CATEGORY",
+    "parentId": "sinh11_subject",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_tieu_hoa_ho_hap",
+    "name": "Dinh dưỡng, Tiêu hóa và Hô hấp ở động vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_tdc_dv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_tieu_hoa",
+    "name": "So sánh các hình thức tiêu hóa & Ứng dụng chế độ dinh dưỡng",
+    "type": "LESSON",
+    "parentId": "sinh11_top_tieu_hoa_ho_hap",
+    "examples": [
+      {
+        "id": "sinh11_ex_2_1_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: So sánh hiệu quả tiêu hóa thức ăn giữa động vật có túi tiêu hóa (Thủy tức) và động vật có ống tiêu hóa (Thỏ). Vì sao ống tiêu hóa lại ưu việt hơn?",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Túi tiêu hóa có 1 lỗ thông duy nhất (vừa làm miệng vừa làm hậu môn). Ống tiêu hóa có 2 lỗ riêng biệt (miệng và hậu môn).\nBiện luận cơ chế sinh lý học đa chiều ➔ Trong túi tiêu hóa, thức ăn cũ và mới bị trộn lẫn, tiêu hóa ngoại bào kết hợp nội bào. Trong ống tiêu hóa, thức ăn đi theo 1 chiều, được biến đổi cơ học và hóa học qua các đoạn chuyên hóa.\nLập luận tính toán ➔ Ống tiêu hóa không bị trộn lẫn chất thải ➔ Tối ưu hóa sự hấp thụ dinh dưỡng nhờ enzym chuyên biệt ở từng đoạn ➔ Hiệu suất tiêu hóa đạt trên 90%.\nKết luận ➔ Ống tiêu hóa là bước tiến hóa giúp động vật đáp ứng nhu cầu năng lượng cao.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_2_1_1_1",
+    "name": "Tiêu hóa nội bào (Đơn bào) ➔ Thực bào $\\rightarrow$ Không bào tiêu hóa $+ \\text{Lysosome} \\rightarrow$ Biến đổi dinh dưỡng",
+    "type": "STEP",
+    "parentId": "sinh11_les_tieu_hoa",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_1_2",
+    "name": "Túi tiêu hóa (Ruột khoang) ➔ Tiêu hóa ngoại bào trong lòng túi $\\rightarrow$ Tiêu hóa nội bào trong tế bào màng túi",
+    "type": "STEP",
+    "parentId": "sinh11_les_tieu_hoa",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_1_3",
+    "name": "Ống tiêu hóa (Động vật có xương) ➔ Thức ăn đi 1 chiều: Miệng $\\rightarrow$ Thực quản $\\rightarrow$ Dạ dày $\\rightarrow$ Ruột $\\rightarrow$ Hậu môn",
+    "type": "STEP",
+    "parentId": "sinh11_les_tieu_hoa",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_1_4",
+    "name": "Thú ăn thực vật ➔ Dạ dày 4 ngăn (Trâu, Bò): Cỏ $\\rightarrow$ Dạ cỏ $\\rightarrow$ Dạ tổ ong $\\rightarrow$ Ợ lên nhai lại $\\rightarrow$ Dạ lá sách $\\rightarrow$ Dạ múi khế",
+    "type": "STEP",
+    "parentId": "sinh11_les_tieu_hoa",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn dạ múi khế là dạ dày giả (Đúng: Dạ múi khế mới là dạ dày chính thức tiết pepsin và HCl)",
+    "type": "STEP",
+    "parentId": "sinh11_les_tieu_hoa",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_trao_doi_khi",
+    "name": "Cơ chế trao đổi khí ở các nhóm động vật (mang, ống khí, phổi)",
+    "type": "LESSON",
+    "parentId": "sinh11_top_tieu_hoa_ho_hap",
+    "examples": [
+      {
+        "id": "sinh11_ex_2_1_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Tại sao trao đổi khí qua mang ở Cá xương lại đạt hiệu suất trao đổi $O_2$ cao nhất trong các động vật sống dưới nước (lên tới $80\\%$)?",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Mang cá gồm các cung mang, lá mang chứa nhiều mao mạch máu.\nBiện luận cơ chế sinh lý học đa chiều ➔ Dòng nước chảy qua lá mang ngược chiều với dòng máu chảy trong mao mạch mang (Hiện tượng dòng chảy song song ngược chiều).\nLập luận tính toán ➔ Do ngược chiều, chênh lệch phân áp $O_2$ ($PO_2$) giữa nước và máu luôn duy trì suốt chiều dài lá mang ➔ $O_2$ khuếch tán liên tục từ nước vào máu ➔ Thu hồi đến 80% $O_2$ hòa tan.\nKết luận ➔ Hiện tượng ngược chiều là cơ chế tối ưu giúp cá thích nghi hoàn hảo với môi trường thiếu $O_2$ dưới nước.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_2_1_2_1",
+    "name": "Qua bề mặt cơ thể (Giun đất, Ếch) ➔ Da phải ẩm ướt, có nhiều mao mạch ➔ $O_2, CO_2$ khuếch tán trực tiếp",
+    "type": "STEP",
+    "parentId": "sinh11_les_trao_doi_khi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_2_2",
+    "name": "Hệ thống ống khí (Côn trùng) ➔ Lỗ thở $\\rightarrow$ Ống khí lớn $\\rightarrow$ Ống khí nhỏ $\\rightarrow$ Tế bào (không qua hệ tuần hoàn)",
+    "type": "STEP",
+    "parentId": "sinh11_les_trao_doi_khi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_2_3",
+    "name": "Trao đổi qua mang (Cá xương) ➔ Cơ chế dòng chảy song song ngược chiều giữa dòng nước và dòng máu trong mao mạch ➔ Tối đa hóa hiệu suất khuếch tán $O_2$",
+    "type": "STEP",
+    "parentId": "sinh11_les_trao_doi_khi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_2_4",
+    "name": "Trao đổi qua phổi (Chim) ➔ Phổi + Hệ thống 9 túi khí $\\rightarrow$ Dòng khí đi 1 chiều qua phổi cả khi hít vào & thở ra",
+    "type": "STEP",
+    "parentId": "sinh11_les_trao_doi_khi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_1_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Cho rằng máu côn trùng vận chuyển $O_2$ (Đúng: Hệ thống ống khí đưa $O_2$ trực tiếp đến tế bào, máu không chở $O_2$)",
+    "type": "STEP",
+    "parentId": "sinh11_les_trao_doi_khi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_tuan_hoan_can_bang",
+    "name": "Hệ tuần hoàn, Miễn dịch và Cân bằng nội môi",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_tdc_dv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_tuan_hoan",
+    "name": "Hệ tuần hoàn hở/kín, hệ dẫn truyền tim & Chu kỳ tim, huyết áp",
+    "type": "LESSON",
+    "parentId": "sinh11_top_tuan_hoan_can_bang",
+    "examples": [
+      {
+        "id": "sinh11_ex_2_2_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Ở người bình thường có nhịp tim $75\\text{ nhịp/phút}$, hãy tính thời gian của một chu kỳ tim và thời gian co/dãn của tâm nhĩ, tâm thất.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Một chu kỳ tim gồm 3 pha: Pha co tâm nhĩ, Pha co tâm thất, Pha dãn chung.\nBiện luận cơ chế sinh lý học đa chiều ➔ Thời gian 1 chu kỳ tim $T = \\frac{60\\text{ giây}}{\\text{Số nhịp}} = \\frac{60}{75} = 0.8\\text{ giây}$.\nLập luận tính toán ➔ Tỷ lệ thời gian các pha: Co nhĩ ($0.1\\text{s}$) ➔ Co thất ($0.3\\text{s}$) ➔ Dãn chung ($0.4\\text{s}$). Thời gian nghỉ ngơi của tâm nhĩ = $0.7\\text{s}$ ($0.8 - 0.1$), tâm thất = $0.5\\text{s}$ ($0.8 - 0.3$).\nKết luận ➔ Thời gian nghỉ của tim nhiều hơn hoặc bằng thời gian co ➔ Tim hoạt động suốt đời không nghỉ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_2_2_1_1",
+    "name": "Tuần hoàn hở (Thân mềm, Chân khớp) ➔ Tim $\\rightarrow$ Động mạch $\\rightarrow$ Khoang cơ thể (trộn máu + dịch mô) $\\rightarrow$ Tĩnh mạch $\\rightarrow$ Tim",
+    "type": "STEP",
+    "parentId": "sinh11_les_tuan_hoan",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_1_2",
+    "name": "Tuần hoàn kín (Mực ống, Đốt, Có xương) ➔ Máu lưu thông liên tục trong mạch kín (Động mạch $\\rightarrow$ Mao mạch $\\rightarrow$ Tĩnh mạch)",
+    "type": "STEP",
+    "parentId": "sinh11_les_tuan_hoan",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_1_3",
+    "name": "Hệ dẫn truyền tim ➔ Nút xoang nhĩ $\\rightarrow$ Nút nhĩ thất $\\rightarrow$ Bó His $\\rightarrow$ Mạng Purkinje $\\rightarrow$ Cơ tâm thất co",
+    "type": "STEP",
+    "parentId": "sinh11_les_tuan_hoan",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_1_4",
+    "name": "Biến đổi sinh lý ➔ Huyết áp: Động mạch > Mao mạch > Tĩnh mạch; Vận tốc máu: Động mạch > Tĩnh mạch > Mao mạch",
+    "type": "STEP",
+    "parentId": "sinh11_les_tuan_hoan",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn vận tốc máu thấp nhất ở tĩnh mạch (Đúng: Mao mạch có tổng tiết diện lớn nhất nên vận tốc máu thấp nhất)",
+    "type": "STEP",
+    "parentId": "sinh11_les_tuan_hoan",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_mien_dich",
+    "name": "Cơ chế miễn dịch không đặc hiệu, đặc hiệu & Đáp ứng kháng nguyên - kháng thể",
+    "type": "LESSON",
+    "parentId": "sinh11_top_tuan_hoan_can_bang",
+    "examples": [
+      {
+        "id": "sinh11_ex_2_2_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Phân biệt đáp ứng miễn dịch thể dịch và miễn dịch tế bào về tế bào tham gia và cơ chế tiêu diệt kháng nguyên.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Cả hai đều thuộc hệ thống miễn dịch đặc hiệu.\nBiện luận cơ chế sinh lý học đa chiều ➔ Miễn dịch thể dịch do Tế bào B đảm nhiệm: Tế bào B biệt hóa thành Tương bào tiết ra Kháng thể vào máu/dịch thể để trung hòa độc tố hoặc ngưng kết vi khuẩn.\nLập luận tính toán ➔ Miễn dịch tế bào do Tế bào T độc ($T_c$) đảm nhiệm: $T_c$ tiếp xúc trực tiếp và tiết Perforin làm thủng màng tế bào nhiễm virus hoặc tế bào ung thư ➔ Tiêu diệt tế bào đích.\nKết luận ➔ Miễn dịch thể dịch tiêu diệt kháng nguyên tự do trong dịch cơ thể; miễn dịch tế bào tiêu diệt các tế bào đã bị nhiễm pathogen.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_2_2_2_1",
+    "name": "Miễn dịch không đặc hiệu ➔ Hàng rào bảo vệ (Da, niêm mạc, lysozyme) + Đại thực bào, Tế bào NK, Phản ứng viêm",
+    "type": "STEP",
+    "parentId": "sinh11_les_mien_dich",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_2_2",
+    "name": "Miễn dịch thể dịch ➔ Tế bào B $\\rightarrow$ Tương bào $\\rightarrow$ Tiết Kháng thể ($IgG, IgM...$) trung hòa kháng nguyên tự do",
+    "type": "STEP",
+    "parentId": "sinh11_les_mien_dich",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_2_3",
+    "name": "Miễn dịch tế bào ➔ Tế bào $T_c$ độc $\\rightarrow$ Tiết Perforin làm tan màng tế bào bị nhiễm virus/ung thư",
+    "type": "STEP",
+    "parentId": "sinh11_les_mien_dich",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_2_4",
+    "name": "Ghi nhớ miễn dịch ➔ Tế bào $B_{\\text{nhớ}}$ và $T_{\\text{nhớ}}$ giúp đáp ứng thứ phát nhanh hơn và mạnh hơn gấp nhiều lần",
+    "type": "STEP",
+    "parentId": "sinh11_les_mien_dich",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn Kháng thể do tế bào T tiết ra (Đúng: Tương bào xuất thân từ lympho B mới tiết kháng thể)",
+    "type": "STEP",
+    "parentId": "sinh11_les_mien_dich",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_can_bang_noi_moi",
+    "name": "Cơ chế lọc cầu thận, tái hấp thụ ở thận & Hệ thống điều hòa nội môi",
+    "type": "LESSON",
+    "parentId": "sinh11_top_tuan_hoan_can_bang",
+    "examples": [
+      {
+        "id": "sinh11_ex_2_2_3_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Khi cơ thể bị mất nhiều máu làm huyết áp giảm mạnh, hệ thống Renin - Angiotensin - Aldosterone (RAAS) điều hòa khôi phục huyết áp như thế nào?",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Thận vừa là cơ quan bài tiết vừa là cơ quan tham gia điều hòa huyết áp.\nBiện luận cơ chế sinh lý học đa chiều ➔ Huyết áp giảm ➔ Cầu thận tiết Enzyme Renin ➔ Renin biến đổi Angiotensinogen thành Angiotensin I ➔ Enzyme ACE chuyển thành Angiotensin II.\nLập luận tính toán ➔ Angiotensin II gây co mạch máu trực tiếp và kích thích Tuyến trên thận tiết Aldosterone ➔ Aldosterone tăng tái hấp thu $Na^+$ và nước ở ống thận ➔ Tăng thể tích máu ➔ Huyết áp khôi phục về mức bình thường.\nKết luận ➔ Cơ chế điều hòa ngược âm tính qua hệ RAAS giúp duy trì cân bằng nội môi huyết áp.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_2_2_3_1",
+    "name": "Sơ đồ cân bằng ➔ Tín hiệu biến đổi $\\rightarrow$ Bộ phận tiếp nhận (Thụ thể) $\\rightarrow$ Bộ phận điều khiển $\\rightarrow$ Bộ phận thực hiện",
+    "type": "STEP",
+    "parentId": "sinh11_les_can_bang_noi_moi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_3_2",
+    "name": "Điều hòa áp suất thẩm thấu ➔ $P_{\\text{thẩm thấu}}$ tăng $\\rightarrow$ Tuyến yên tiết $\\text{ADH} \\rightarrow$ Thận tăng tái hấp thụ nước",
+    "type": "STEP",
+    "parentId": "sinh11_les_can_bang_noi_moi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_3_3",
+    "name": "Điều hòa huyết áp ➔ Huyết áp giảm $\\rightarrow$ Thận tiết $\\text{Renin} \\rightarrow \\text{Angiotensin II} \\rightarrow \\text{Aldosterone} \\rightarrow$ Tái hấp thụ $Na^+$",
+    "type": "STEP",
+    "parentId": "sinh11_les_can_bang_noi_moi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_3_4",
+    "name": "Điều hòa đường huyết ➔ Đường huyết cao $\\rightarrow$ Tụy tiết $\\text{Insulin}$ (Glucid $\\rightarrow$ Glycogen); Đường huyết thấp $\\rightarrow$ Tụy tiết $\\text{Glucagon}$",
+    "type": "STEP",
+    "parentId": "sinh11_les_can_bang_noi_moi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_2_2_3_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn vai trò Insulin làm tăng đường huyết (Đúng: Insulin làm hạ đường huyết bằng cách đưa Glucose vào tế bào)",
+    "type": "STEP",
+    "parentId": "sinh11_les_can_bang_noi_moi",
+    "examples": null
+  },
+  {
+    "id": "sinh11_cat_cam_ung",
+    "name": "Cảm ứng ở sinh vật",
+    "type": "CATEGORY",
+    "parentId": "sinh11_subject",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_cam_ung_tv",
+    "name": "Cảm ứng ở thực vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_cam_ung",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_huong_dong_ung_dong",
+    "name": "Cơ chế hướng động, ứng động & Vai trò của Auxin",
+    "type": "LESSON",
+    "parentId": "sinh11_top_cam_ung_tv",
+    "examples": [
+      {
+        "id": "sinh11_ex_3_1_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy giải thích cơ chế hướng sáng dương của ngọn cây khi chiếu ánh sáng lệch về một phía.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Hướng động là hình thức vận động cảm ứng của cơ quan thực vật đối với tác nhân kích thích từ một hướng xác định.\nBiện luận cơ chế sinh lý học đa chiều ➔ Ánh sáng chiếu từ một phía ➔ Auxin ($IAA$) phân bố không đều: di chuyển sang phía tối (phía không được chiếu sáng).\nLập luận tính toán ➔ Nồng độ Auxin phía tối cao hơn thích thích tế bào phía tối dãn dài nhanh hơn tế bào phía sáng ➔ Ngọn cây cong về phía ánh sáng.\nKết luận ➔ Hướng sáng là sự tăng trưởng không đều của hai phía cơ quan do sự phân bố bất cân đối của Auxin.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_3_1_1_1",
+    "name": "Hướng động (Kích thích có hướng) ➔ Hướng sáng ($+$ ngọn, $-$ rễ), Hướng trọng lực ($-$ ngọn, $+$ rễ), Hướng hóa, Hướng nước",
+    "type": "STEP",
+    "parentId": "sinh11_les_huong_dong_ung_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_1_1_2",
+    "name": "Cơ chế Auxin hướng sáng ➔ Ánh sáng lệch bên $\\rightarrow \\text{Auxin}$ di chuyển sang phía tối $\\rightarrow$ Phía tối dãn dài nhanh hơn $\\rightarrow$ Ngọn cong về sáng",
+    "type": "STEP",
+    "parentId": "sinh11_les_huong_dong_ung_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_1_1_3",
+    "name": "Ứng động sinh trưởng ➔ Kích thích không hướng (Quang ứng động, Nhiệt ứng động) $\\rightarrow$ Sự dãn dài bất cân xứng màng trên/dưới lá",
+    "type": "STEP",
+    "parentId": "sinh11_les_huong_dong_ung_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_1_1_4",
+    "name": "Ứng động không sinh trưởng ➔ Ứng động sức trương nước (Cây trinh nữ khép lá, Cây bắt mồi) $\\rightarrow$ Thay đổi $P_{\\text{thẩm thấu}}$ tế bào khớp gốc",
+    "type": "STEP",
+    "parentId": "sinh11_les_huong_dong_ung_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_1_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn ứng động sức trương nước có sự phân chia tế bào (Đúng: Chỉ do sự di chuyển nước và ion $K^+$)",
+    "type": "STEP",
+    "parentId": "sinh11_les_huong_dong_ung_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_cam_ung_dv",
+    "name": "Cảm ứng và Tập tính ở động vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_cam_ung",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_dien_the_nghi_hoat_dong",
+    "name": "Điện thế nghỉ, điện thế hoạt động & Tốc độ lan truyền xung thần kinh",
+    "type": "LESSON",
+    "parentId": "sinh11_top_cam_ung_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_3_2_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: So sánh tốc độ lan truyền xung thần kinh trên sợi thần kinh không có bao myelin và sợi thần kinh có bao myelin. Giải thích vì sao có sự khác biệt đó.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Bao myelin có bản chất là phốtpholipit, cách điện tốt, không bao bọc liên tục mà ngắt quãng tạo các eo Ranvier.\nBiện luận cơ chế sinh lý học đa chiều ➔ Sợi không có bao myelin: Điện thế hoạt động lan truyền liên tục từ vùng này sang vùng kế tiếp. Sợi có bao myelin: Điện thế hoạt động lan truyền theo kiểu nhảy vọt từ eo Ranvier này sang eo Ranvier khác.\nLập luận tính toán ➔ Lan truyền nhảy vọt giúp tiết kiệm năng lượng $ATP$ cho bơm $Na^+-K^+$ và tăng tốc độ lan truyền gấp nhiều lần (đạt đến $100\\text{ m/s}$ so với $1\\text{ m/s}$ ở sợi không myelin).\nKết luận ➔ Bao myelin là cấu trúc tiến hóa quan trọng giúp tối ưu hóa tốc độ phản ứng thần kinh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_3_2_1_1",
+    "name": "Điện thế nghỉ ($-70\\text{ mV}$) ➔ Trong âm, ngoài dương (được duy trì bởi Kênh $K^+$ rò rỉ & Bơm $Na^+-K^+$ đưa $3Na^+$ ra, $2K^+$ vào)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dien_the_nghi_hoat_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_1_2",
+    "name": "Điện thế hoạt động ➔ Kích thích $\\rightarrow$ Mất phân cực ($Na^+$ ạt vào) $\\rightarrow$ Đảo cực ($+35\\text{ mV}$) $\\rightarrow$ Tái phân cực ($K^+$ đi ra)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dien_the_nghi_hoat_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_1_3",
+    "name": "Lan truyền sợi không myelin ➔ Lan truyền liên tục dọc theo sợi thần kinh (Tốc độ chậm, tiêu tốn nhiều ATP)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dien_the_nghi_hoat_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_1_4",
+    "name": "Lan truyền sợi có myelin ➔ Lan truyền nhảy vọt từ eo Ranvier này sang eo Ranvier khác (Tốc độ cực nhanh)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dien_the_nghi_hoat_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn bơm $Na^+-K^+$ tiêu tốn $ATP$ trong pha khử cực (Đúng: Bơm $Na^+-K^+$ hoạt động liên tục để khôi phục ion nghỉ)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dien_the_nghi_hoat_dong",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_synapse",
+    "name": "Cơ chế truyền tin qua Synapse hóa học & Tác động của chất kích thích/thuốc tê",
+    "type": "LESSON",
+    "parentId": "sinh11_top_cam_ung_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_3_2_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Tại sao xung thần kinh truyền qua Synapse hóa học chỉ theo một chiều duy nhất từ màng trước sang màng sau?",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Synapse hóa học gồm Chùy xináp (màng trước chứa bóng chứa chất trung gian hóa học), Khe xináp và Màng sau chứa thụ thể chuyên biệt.\nBiện luận cơ chế sinh lý học đa chiều ➔ Chỉ màng trước mới có bóng chứa chất trung gian hóa học (Acetylcholine, Noradrenaline) và các kênh $Ca^{2+}$ phụ thuộc điện thế. Chỉ màng sau mới có các thụ thể tiếp nhận chất trung gian hóa học tương ứng.\nLập luận tính toán ➔ Xung thần kinh đến chùy xináp $\\rightarrow$ Mở kênh $Ca^{2+} \\rightarrow Ca^{2+}$ vào chùy $\\rightarrow$ Vỡ bóng $\\rightarrow$ Tiết chất TGHH vào khe $\\rightarrow$ Bám thụ thể màng sau $\\rightarrow$ Xuất hiện điện thế màng sau.\nKết luận ➔ Do tính bất đối xứng cấu trúc (Màng trước có chất TGHH, Màng sau có thụ thể), xung thần kinh tuyệt đối chỉ truyền 1 chiều.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_3_2_2_1",
+    "name": "Sơ đồ lan truyền ➔ Màng trước $\\rightarrow$ Kênh $Ca^{2+}$ mở $\\rightarrow Ca^{2+}$ vào chùy $\\rightarrow$ Giải phóng chất TGHH vào khe xináp",
+    "type": "STEP",
+    "parentId": "sinh11_les_synapse",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_2_2",
+    "name": "Tác động màng sau ➔ Chất TGHH bám Thụ thể $\\rightarrow$ Mở kênh $Na^+$ $\\rightarrow$ Khử cực màng sau $\\rightarrow$ Xuất hiện xung thần kinh mới",
+    "type": "STEP",
+    "parentId": "sinh11_les_synapse",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_2_3",
+    "name": "Cơ chế thuốc tê ➔ Phong tỏa thụ thể màng sau hoặc ngăn kênh $Na^+$ $\\rightarrow$ Màng sau không khử cực $\\rightarrow$ Không cảm thấy đau",
+    "type": "STEP",
+    "parentId": "sinh11_les_synapse",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_2_4",
+    "name": "Cơ chế chất kích thích ➔ Ngăn chặn enzyme phân hủy chất TGHH (ví dụ Acetylcholinesterase) $\\rightarrow$ Chất TGHH kích thích màng sau liên tục",
+    "type": "STEP",
+    "parentId": "sinh11_les_synapse",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn chất TGHH đi qua màng sau vào tế bào tiếp theo (Đúng: Chất TGHH chỉ bám thụ thể màng sau rồi bị phân hủy)",
+    "type": "STEP",
+    "parentId": "sinh11_les_synapse",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_phan_xa_tap_tinh",
+    "name": "Cung phản xạ, thụ thể cảm giác & Tập tính bẩm sinh / học được",
+    "type": "LESSON",
+    "parentId": "sinh11_top_cam_ung_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_3_2_3_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy phân tích đường đi của cung phản xạ khi tay chạm vào vật nóng lập tức rụt lại và chỉ rõ các thành phần cấu tạo.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Phản xạ rụt tay là phản xạ không điều kiện giúp bảo vệ cơ thể, do tủy sống điều khiển.\nBiện luận cơ chế sinh lý học đa chiều ➔ 5 thành phần của cung phản xạ: Thụ thể đau/nhiệt ở da $\\rightarrow$ Sợi thần kinh hướng tâm (cảm giác) $\\rightarrow$ Trung khu thần kinh (Tủy sống) $\\rightarrow$ Sợi thần kinh ly tâm (vận động) $\\rightarrow$ Cơ quan thực hiện (Cơ tay co).\nLập luận tính toán ➔ Tốc độ phản xạ diễn ra trong vài phần ngàn giây ($ms$) do là phản xạ tủy sống ngắn không qua phân tích vỏ não.\nKết luận ➔ Cung phản xạ hoàn chỉnh là nền tảng của mọi hoạt động cảm ứng ở động vật.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_3_2_3_1",
+    "name": "Sơ đồ cung phản xạ ➔ Thụ thể $\\rightarrow$ Dây cảm giác (Hướng tâm) $\\rightarrow$ Trung khu thần kinh $\\rightarrow$ Dây vận động (Ly tâm) $\\rightarrow$ Cơ quan thực hiện",
+    "type": "STEP",
+    "parentId": "sinh11_les_phan_xa_tap_tinh",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_3_2",
+    "name": "Tập tính bẩm sinh ➔ Sinh ra đã có, di truyền, đặc trưng cho loài, do chuỗi phản xạ không điều khiển chỉ đạo",
+    "type": "STEP",
+    "parentId": "sinh11_les_phan_xa_tap_tinh",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_3_3",
+    "name": "Tập tính học được ➔ Hình thành trong đời sống qua học tập/rút kinh nghiệm, không di truyền, cá thể hóa",
+    "type": "STEP",
+    "parentId": "sinh11_les_phan_xa_tap_tinh",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_3_4",
+    "name": "Hình thức học tập ➔ Quen hình, In vết, Điều kiện hóa đáp ứng (Pavlov), Điều kiện hóa hành động (Skinner), Học ngầm, Học giải quyết vấn đề",
+    "type": "STEP",
+    "parentId": "sinh11_les_phan_xa_tap_tinh",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_3_2_3_5",
+    "name": "Bẫy trắc nghiệm ➔ Cho rằng tập tính bẩm sinh không thể thay đổi (Đúng: Một số tập tính bẩm sinh có thể bị điều chỉnh nhẹ bởi môi trường)",
+    "type": "STEP",
+    "parentId": "sinh11_les_phan_xa_tap_tinh",
+    "examples": null
+  },
+  {
+    "id": "sinh11_cat_st_pt",
+    "name": "Sinh trưởng & Phát triển ở sinh vật",
+    "type": "CATEGORY",
+    "parentId": "sinh11_subject",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_st_pt_tv",
+    "name": "Sinh trưởng và Phát triển ở thực vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_st_pt",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_st_so_cap_thu_cap",
+    "name": "Sinh trưởng sơ cấp, thứ cấp & Vai trò của mô phân sinh",
+    "type": "LESSON",
+    "parentId": "sinh11_top_st_pt_tv",
+    "examples": [
+      {
+        "id": "sinh11_ex_4_1_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Phân biệt sinh trưởng sơ cấp và sinh trưởng thứ cấp ở thực vật về vị trí mô phân sinh, đối tượng nhóm cây và kết quả sinh trưởng.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Mô phân sinh là nhóm tế bào chưa biệt hóa có khả năng phân chia tạo tế bào mới.\nBiện luận cơ chế sinh lý học đa chiều ➔ Sinh trưởng sơ cấp: Do Mô phân sinh đỉnh (ngọn, rễ) thực hiện ➔ Làm tăng chiều dài của thân và rễ ➔ Xảy ra ở cả cây 1 mầm và 2 lá mầm.\nLập luận tính toán ➔ Sinh trưởng thứ cấp: Do Mô phân sinh bên (Tầng sinh mạch và Tầng sinh bần) thực hiện ➔ Làm tăng đường kính (bề dày) của thân và rễ ➔ Chỉ xảy ra ở cây Hai lá mầm thân gỗ.\nKết luận ➔ Sinh trưởng thứ cấp tạo ra gỗ lõi, gỗ dác và vỏ, giúp cây thân gỗ đứng vững và sống lâu năm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_4_1_1_1",
+    "name": "Sinh trưởng sơ cấp ➔ Mô phân sinh đỉnh (ngọn thân, ngọn rễ) $\\rightarrow$ Cây dãn dài chiều cao (Cây 1 & 2 lá mầm)",
+    "type": "STEP",
+    "parentId": "sinh11_les_st_so_cap_thu_cap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_1_2",
+    "name": "Sinh trưởng thứ cấp ➔ Mô phân sinh bên (Tầng sinh mạch, Tầng sinh bần) $\\rightarrow$ Tăng đường kính thân (Chỉ cây 2 lá mầm thân gỗ)",
+    "type": "STEP",
+    "parentId": "sinh11_les_st_so_cap_thu_cap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_1_3",
+    "name": "Cấu tạo thân gỗ ➔ Vỏ ngoài $\\rightarrow$ Tầng bần $\\rightarrow$ Mạch rây thứ cấp $\\rightarrow$ Tầng sinh mạch $\\rightarrow$ Gỗ dác (dẫn nước) $\\rightarrow$ Gỗ lõi (đỡ cây)",
+    "type": "STEP",
+    "parentId": "sinh11_les_st_so_cap_thu_cap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_1_4",
+    "name": "Vòng năm ➔ Vòng sáng (Mùa xuân, tế bào lớn, màng mỏng) + Vòng tối (Mùa đông, tế bào nhỏ, màng dày) $\\rightarrow$ Tính tuổi cây",
+    "type": "STEP",
+    "parentId": "sinh11_les_st_so_cap_thu_cap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn cây Một lá mầm có sinh trưởng thứ cấp (Đúng: Cây 1 lá mầm không có mô phân sinh bên nên không có ST thứ cấp)",
+    "type": "STEP",
+    "parentId": "sinh11_les_st_so_cap_thu_cap",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_hormone_thuc_vat",
+    "name": "Biện luận cơ chế cân bằng Hormone thực vật (Kích thích vs Ức chế)",
+    "type": "LESSON",
+    "parentId": "sinh11_top_st_pt_tv",
+    "examples": [
+      {
+        "id": "sinh11_ex_4_1_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy giải thích tương quan kích thích/ức chế giữa Auxin và Cytokinin trong điều khiển sự phát triển của mô sẹo (Callus) trong nuôi cấy tế bào thực vật.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Tương quan Hormone điều chỉnh sự phân hóa tế bào mô sẹo.\nBiện luận cơ chế sinh lý học đa chiều ➔ Tỷ lệ $\\frac{\\text{Auxin}}{\\text{Cytokinin}} > 1$: Kích thích hình thành rễ mạnh mẽ. Tỷ lệ $\\frac{\\text{Auxin}}{\\text{Cytokinin}} < 1$: Kích thích chồi phát triển.\nLập luận tính toán ➔ Tỷ lệ $\\frac{\\text{Auxin}}{\\text{Cytokinin}} \\approx 1$: Duy trì khối tế bào mô sẹo tiếp tục nhân bản mà không phân hóa.\nKết luận ➔ Ứng dụng điều chỉnh tỷ lệ Auxin/Cytokinin giúp nhân giống vô tính trong ống nghiệm đạt hiệu quả cao.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_4_1_2_1",
+    "name": "Hormone kích thích ➔ Auxin (dãn tế bào, ưu thế đỉnh), Gibberellin (dài lóng, nảy mầm), Cytokinin (phân chia tế bào, phân hóa chồi)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_thuc_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_2_2",
+    "name": "Hormone ức chế ➔ Acid Abscisic - ABA (đóng khí khổng, ngủ nghỉ hạt), Ethylene (chín quả, rụng lá)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_thuc_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_2_3",
+    "name": "Tương quan $\\frac{\\text{Auxin}}{\\text{Cytokinin}}$ ➔ $> 1 \\rightarrow$ Ra rễ; $< 1 \\rightarrow$ Ra chồi; $\\approx 1 \\rightarrow$ Duy trì mô sẹo (Callus)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_thuc_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_2_4",
+    "name": "Tương quan $\\frac{\\text{GA}}{\\text{ABA}}$ ➔ $\\text{GA} > \\text{ABA} \\rightarrow$ Hạt nảy mầm; $\\text{ABA} > \\text{GA} \\rightarrow$ Hạt ngủ nghỉ",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_thuc_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn Gibberellin gây rụng lá (Đúng: Ethylene và ABA mới thúc đẩy sự rụng cơ quan)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_thuc_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_ra_hoa_quang_chu_ky",
+    "name": "Cơ chế ra hoa, tác động của Quang chu kỳ & Hiện tượng Xuân hóa",
+    "type": "LESSON",
+    "parentId": "sinh11_top_st_pt_tv",
+    "examples": [
+      {
+        "id": "sinh11_ex_4_1_3_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Một cây ngày ngắn có thời gian đêm tới hạn là $10\\text{ giờ}$. Nếu trong đêm tối $12\\text{ giờ}$, người ta chiếu một chớp ánh sáng đỏ ($R$) ngắt quãng đêm tối thì cây có ra hoa không? Giải thích.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Sự ra hoa của cây phụ thuộc vào độ dài đêm liên tục (Quang chu kỳ) thông qua sắc tố Phytochrom ($P_r$ và $P_{fr}$).\nBiện luận cơ chế sinh lý học đa chiều ➔ Cây ngày ngắn thực chất là \"cây đêm dài\". Đêm dài $12\\text{h} > 10\\text{h}$ là điều kiện kích thích cây ra hoa.\nLập luận tính toán ➔ Chiếu ánh sáng đỏ ($R$) ngắt quãng đêm làm chuyển $P_r \\rightarrow P_{fr}$. $P_{fr}$ tích lũy trong đêm ngắt quãng sự cảm nhận đêm dài ➔ Đêm bị chia làm 2 đoạn ngắn $< 10\\text{h} \\rightarrow$ Cây không ra hoa.\nKết luận ➔ Độ dài đêm liên tục mới là yếu tố quyết định sự ra hoa của cây ngày ngắn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_4_1_3_1",
+    "name": "Xuân hóa ➔ Hiện tượng cây ra hoa phụ thuộc vào nhiệt độ thấp (mùa đông) tác động lên đỉnh sinh trưởng",
+    "type": "STEP",
+    "parentId": "sinh11_les_ra_hoa_quang_chu_ky",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_3_2",
+    "name": "Quang chu kỳ ➔ Sự ra hoa phụ thuộc vào độ dài ngày/đêm ➔ Cây ngày ngắn, Cây ngày dài, Cây trung tính",
+    "type": "STEP",
+    "parentId": "sinh11_les_ra_hoa_quang_chu_ky",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_3_3",
+    "name": "Phytochrom ➔ $P_r$ (hấp thụ đỏ $660\\text{ nm}$) $\\rightleftharpoons P_{fr}$ (hấp thụ đỏ xa $730\\text{ nm}$) ➔ $P_{fr}$ quyết định quang chu kỳ",
+    "type": "STEP",
+    "parentId": "sinh11_les_ra_hoa_quang_chu_ky",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_3_4",
+    "name": "Yếu tố quyết định ➔ Độ dài **đêm tối liên tục** mới quyết định sự ra hoa (Cây ngày ngắn cần đêm dài hơn mức tới hạn)",
+    "type": "STEP",
+    "parentId": "sinh11_les_ra_hoa_quang_chu_ky",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_1_3_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn độ dài ngày quyết định cây ngày ngắn (Đúng: Độ dài đêm tối không bị ngắt quãng mới quyết định)",
+    "type": "STEP",
+    "parentId": "sinh11_les_ra_hoa_quang_chu_ky",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_st_pt_dv",
+    "name": "Sinh trưởng và Phát triển ở động vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_st_pt",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_bien_thai",
+    "name": "Phân biệt phát triển không biến thái, biến thái hoàn toàn & không hoàn toàn",
+    "type": "LESSON",
+    "parentId": "sinh11_top_st_pt_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_4_2_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: So sánh sự phát triển qua biến thái hoàn toàn (Bướm) và biến thái không hoàn toàn (Châu chấu) về hình thái con non so với con trưởng thành.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Biến thái là sự thay đổi đột ngột về hình thái, cấu trúc và sinh lý của động vật sau khi sinh ra hoặc nở từ trứng.\nBiện luận cơ chế sinh lý học đa chiều ➔ Biến thái hoàn toàn: Con non (Sâu) có hình thái và sinh thái hoàn toàn khác con trưởng thành (Bướm), trải qua giai đoạn trung gian Nhộng. Biến thái không hoàn toàn: Con non (Ấu trùng) có hình thái gần giống con trưởng thành, trải qua nhiều lần lột xác.\nLập luận tính toán ➔ Sâu bướm ăn lá cây tập trung tích lũy dinh dưỡng; Nhộng biến đổi toàn bộ cấu trúc; Bướm hút mật hoa không cạnh tranh thức ăn với sâu.\nKết luận ➔ Biến thái hoàn toàn giúp giảm sự cạnh tranh thức ăn giữa các giai đoạn phát triển trong cùng loài.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_4_2_1_1",
+    "name": "Không qua biến thái (Thú, Người, Mới nở) ➔ Con non có hình thái, cấu trúc tương tự con trưởng thành",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_thai",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_1_2",
+    "name": "Biến thái hoàn toàn (Sâu bướm, Ếch) ➔ Con non khác hoàn toàn con trưởng thành (Trứng $\\rightarrow$ Sâu $\\rightarrow$ Nhộng $\\rightarrow$ Bướm)",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_thai",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_1_3",
+    "name": "Biến thái không hoàn toàn (Châu chấu, Gián) ➔ Ấu trùng gần giống con trưởng thành, qua nhiều lần lột xác",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_thai",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_1_4",
+    "name": "Giai đoạn phá hoại ➔ Sâu bướm phá hại mùa màng nặng nhất (ở biến thái hoàn toàn); Châu chấu trưởng thành phá nặng nhất",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_thai",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn Ếch thuộc biến thái không hoàn toàn (Đúng: Nòng nọc khác hoàn toàn ếch nên là biến thái hoàn toàn)",
+    "type": "STEP",
+    "parentId": "sinh11_les_bien_thai",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_hormone_dong_vat",
+    "name": "Cơ chế điều hòa sinh trưởng ở động vật bằng Hormone & Tuổi dậy thì",
+    "type": "LESSON",
+    "parentId": "sinh11_top_st_pt_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_4_2_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy giải thích cơ chế phối hợp tác động của hai Hormone Ecdysone và Juvenile trong quá trình lột xác và biến thái của sâu bướm.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Quá trình lột xác và biến thái ở côn trùng được điều hòa phối hợp bởi tuyến trước ngực và thể allata.\nBiện luận cơ chế sinh lý học đa chiều ➔ Ecdysone (do tuyến ngực tiết): Kích thích lột xác ở sâu và gây biến thái sâu thành nhộng và bướm. Juvenile (do thể allata tiết): Ức chế biến thái, duy trì đặc điểm sâu non.\nLập luận tính toán ➔ Nồng độ Juvenile cao + Ecdysone cao $\\rightarrow$ Sâu lột xác thành Sâu lớn hơn. Nồng độ Juvenile giảm thấp + Ecdysone cao $\\rightarrow$ Sâu lột xác thành Nhộng. Không còn Juvenile + Ecdysone cao $\\rightarrow$ Nhộng biến thái thành Bướm.\nKết luận ➔ Sự biến thái phụ thuộc vào tỷ lệ nồng độ tương quan giữa Ecdysone và Juvenile.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_4_2_2_1",
+    "name": "Hormone có xương ➔ GH (Tuyến yên - phân chia tế bào/dài xương), Thyroxine (Tuyến giáp - chuyển hóa/biến thái nòng nọc)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_2_2",
+    "name": "Hormone sinh dục ➔ Estrogen (Nữ) & Testosterone (Nam) $\\rightarrow$ Bộc lộ đặc điểm sinh dục thứ phát tuổi dậy thì",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_2_3",
+    "name": "Hormone côn trùng ➔ Ecdysone (gây lột xác & biến thái) vs Juvenile (duy trì đặc điểm sâu non)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_2_4",
+    "name": "Tương quan côn trùng ➔ $\\text{Ecdysone} + \\text{Juvenile cao} \\rightarrow$ Lột xác ra sâu; $\\text{Ecdysone} + \\text{Juvenile giảm} \\rightarrow$ Biến hóa nhộng",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_4_2_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn thiếu Thyroxine gây đần độn ở côn trùng (Đúng: Thyroxine gây đần độn ở người, ở ếch gây giữ nguyên nòng nọc)",
+    "type": "STEP",
+    "parentId": "sinh11_les_hormone_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_cat_sinh_san",
+    "name": "Sinh sản ở sinh vật",
+    "type": "CATEGORY",
+    "parentId": "sinh11_subject",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_ss_tv",
+    "name": "Sinh sản ở thực vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_sinh_san_vo_tinh_tv",
+    "name": "Sinh sản sinh dưỡng & Các phương pháp nhân giống vô tính",
+    "type": "LESSON",
+    "parentId": "sinh11_top_ss_tv",
+    "examples": [
+      {
+        "id": "sinh11_ex_5_1_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy so sánh ưu điểm và nhược điểm của phương pháp giâm cành, ghép cành và nuôi cấy mô tế bào thực vật.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Tất cả đều là phương pháp nhân giống vô tính dựa trên cơ chế phân bào Nguyên phân.\nBiện luận cơ chế sinh lý học đa chiều ➔ Giâm/Chiết cành: Đơn giản, giữ nguyên đặc tính cây mẹ, nhanh cho quả. Ghép cành: Kết hợp ưu thế của gốc ghép (rễ khỏe, chống chịu) và cành ghép (cho quả ngon).\nLập luận tính toán ➔ Nuôi cấy mô: Từ 1 mẫu mô nhỏ nhân thành hàng triệu cây con sạch bệnh, đồng nhất về di truyền trong thời gian ngắn.\nKết luận ➔ Nuôi cấy mô là phương pháp hiện đại nhất đáp ứng quy mô sản xuất công nghiệp.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_5_1_1_1",
+    "name": "Sinh sản sinh dưỡng ➔ Tạo cây mới từ cơ quan sinh dưỡng (Rễ, Thân, Lá) dựa trên cơ sở **Nguyên phân**",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_vo_tinh_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_1_2",
+    "name": "Giâm cành & Chiết cành ➔ Kích thích ra rễ phụ bằng Auxin $\\rightarrow$ Giữ nguyên tính trạng tốt của cây mẹ",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_vo_tinh_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_1_3",
+    "name": "Ghép cành ➔ Cành ghép (mắt ghép) phải tiếp xúc chặt tầng sinh mạch với Gốc ghép $\\rightarrow$ Thông mạch dẫn",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_vo_tinh_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_1_4",
+    "name": "Nuôi cấy mô ➔ Tính toàn năng tế bào $\\rightarrow$ Mẫu mô $\\rightarrow$ Mô sẹo (Callus) $\\rightarrow$ Cây con sạch bệnh hàng loạt",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_vo_tinh_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn sinh sản vô tính tạo sự đa dạng di truyền (Đúng: Sinh sản vô tính giữ nguyên vật chất di truyền)",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_vo_tinh_tv",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_thu_tinh_kep",
+    "name": "Quá trình hình thành hạt phấn, túi phôi, thụ tinh kép & Hạt, quả",
+    "type": "LESSON",
+    "parentId": "sinh11_top_ss_tv",
+    "examples": [
+      {
+        "id": "sinh11_ex_5_1_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy mô tả quá trình Thụ tinh kép ở thực vật hạt kín và chỉ rõ bộ nhiễm sắc thể ($n, 2n, 3n$) của các sản phẩm được tạo thành.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Thụ tinh kép là đặc trưng riêng biệt của thực vật Hạt kín diễn ra trong túi phôi.\nBiện luận cơ chế sinh lý học đa chiều ➔ Hạt phấn nảy mầm tạo ống phấn chứa 2 giao tử đực ($n$). Ống phấn đâm qua lỗ noãn vào túi phôi.\nLập luận tính toán ➔ Giao tử đực thứ nhất ($n$) + Tế bào trứng ($n$) $\\rightarrow$ Hợp tử ($2n$) $\\rightarrow$ Phát triển thành Phôi. Giao tử đực thứ hai ($n$) + Nhân cực ($2n$) $\\rightarrow$ Nhân nội nhũ ($3n$) $\\rightarrow$ Phát triển thành Nội nhũ (mô nuôi phôi).\nKết luận ➔ Thụ tinh kép đảm bảo dự trữ dinh dưỡng nội nhũ chỉ được tạo ra sau khi thụ tinh thành công.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_5_1_2_1",
+    "name": "Hạt phấn ➔ 1 Tế bào mẹ ($2n$) $\\xrightarrow{\\text{Giảm phân}} 4 \\text{ bào tử} (n) \\xrightarrow{\\text{Nguyên phân}} 4 \\text{ hạt phấn}$ (2 nhân: sinh dưỡng & sinh dục)",
+    "type": "STEP",
+    "parentId": "sinh11_les_thu_tinh_kep",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_2_2",
+    "name": "Túi phôi ➔ 1 Tế bào mẹ ($2n$) $\\xrightarrow{\\text{Giảm phân}} 1 \\text{ đại bào tử} (n) \\xrightarrow{3 \\text{ Nguyên phân}} 8 \\text{ nhân/7 tế bào}$ (1 trứng, 2 nhân cực...)",
+    "type": "STEP",
+    "parentId": "sinh11_les_thu_tinh_kep",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_2_3",
+    "name": "Thụ tinh kép ➔ Tinh tử $1 (n) + \\text{Trứng} (n) \\rightarrow \\text{Hợp tử} (2n)$; Tinh tử $2 (n) + \\text{Nhân cực} (2n) \\rightarrow \\text{Nội nhũ} (3n)$",
+    "type": "STEP",
+    "parentId": "sinh11_les_thu_tinh_kep",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_2_4",
+    "name": "Biến đổi sau thụ tinh ➔ Noãn $\\rightarrow$ Hạt chứa phôi; Bầu nhụy $\\rightarrow$ Quả bảo vệ hạt",
+    "type": "STEP",
+    "parentId": "sinh11_les_thu_tinh_kep",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_1_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn bộ NST của nội nhũ là $2n$ (Đúng: Nội nhũ thụ tinh kép mang bộ $3n$)",
+    "type": "STEP",
+    "parentId": "sinh11_les_thu_tinh_kep",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_ss_dv",
+    "name": "Sinh sản ở động vật và Điều hòa sinh sản",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_sinh_san_dong_vat",
+    "name": "Cơ chế sinh sản vô tính, hữu tính & Quá trình sinh tinh, sinh trứng",
+    "type": "LESSON",
+    "parentId": "sinh11_top_ss_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_5_2_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: So sánh số lượng Tinh trùng và Trứng tạo ra từ 100 Tế bào sinh tinh và 100 Tế bào sinh trứng qua giảm phân.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Sự sinh tinh và sinh trứng đều qua giảm phân nhưng phân chia tế bào chất khác nhau.\nBiện luận cơ chế sinh lý học đa chiều ➔ 1 Tế bào sinh tinh ($2n$) giảm phân $\\rightarrow$ 4 Tinh trùng ($n$) đều có khả năng thụ tinh. 1 Tế bào sinh trứng ($2n$) giảm phân $\\rightarrow$ 1 Tế bào trứng ($n$) kích thước lớn + 3 Thể cực ($n$) kích thước nhỏ (sau đó thoái hóa).\nLập luận tính toán ➔ 100 Tế bào sinh tinh $\\rightarrow 100 \\times 4 = 400$ Tinh trùng. 100 Tế bào sinh trứng $\\rightarrow 100 \\times 1 = 100$ Trứng hoàn chỉnh (và 300 thể cực).\nKết luận ➔ Trứng tập trung chất dinh dưỡng để nuôi hợp tử, tinh trùng ưu tiên số lượng và khả năng di động.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_5_2_1_1",
+    "name": "Sinh sản vô tính ➔ Phân đôi, Nảy chồi, Phân mảnh, Trinh sinh (Trứng không thụ tinh phát triển thành cơ thể)",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_1_2",
+    "name": "Sinh sản hữu tính ➔ Giảm phân tạo giao tử $\\rightarrow$ Thụ tinh (ngoài/trong) tạo hợp tử $\\rightarrow$ Phát triển phôi",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_1_3",
+    "name": "Sinh tinh ➔ 1 Tế bào sinh tinh ($2n$) $\\xrightarrow{\\text{Giảm phân}} 4 \\text{ tinh trùng} (n)$ hoạt động di động",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_1_4",
+    "name": "Sinh trứng ➔ 1 Tế bào sinh trứng ($2n$) $\\xrightarrow{\\text{Giảm phân}} 1 \\text{ trứng} (n) + 3 \\text{ thể cực}$ (thoái hóa)",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_1_5",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn ong đực mang bộ $2n$ (Đúng: Ong đực phát triển từ trứng không thụ tinh nên mang bộ $n$)",
+    "type": "STEP",
+    "parentId": "sinh11_les_sinh_san_dong_vat",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_dieu_hoa_sinh_san",
+    "name": "Cơ chế điều hòa sinh sản theo liên hệ ngược & Ứng dụng sinh sản",
+    "type": "LESSON",
+    "parentId": "sinh11_top_ss_dv",
+    "examples": [
+      {
+        "id": "sinh11_ex_5_2_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy vẽ sơ đồ cơ chế điều hòa ngược âm tính trong quá trình sinh tinh ở nam giới khi nồng độ Testosterone trong máu tăng quá cao.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Trục điều hòa sinh dục nam: Vùng dưới đồi $\\rightarrow$ Tuyến yên $\\rightarrow$ Tinh hoàn.\nBiện luận cơ chế sinh lý học đa chiều ➔ Vùng dưới đồi tiết $GnRH \\rightarrow$ Tuyến yên tiết $FSH$ (kích thích ống sinh tinh) và $LH$ (kích thích tế bào Kẽ Leydig tiết Testosterone).\nLập luận tính toán ➔ Testosterone tăng cao trong máu $\\rightarrow$ Phản hồi ngược âm tính (Negative feedback) lên Vùng dưới đồi và Tuyến yên $\\rightarrow$ Ức chế tiết $GnRH, FSH, LH \\rightarrow$ Giảm tiết Testosterone trở lại mức cân bằng.\nKết luận ➔ Liên hệ ngược âm tính giữ cho nồng độ hormone sinh dục luôn ổn định.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_5_2_2_1",
+    "name": "Trục sinh dục ➔ Vùng dưới đồi ($GnRH$) $\\rightarrow$ Tuyến yên ($FSH, LH$) $\\rightarrow$ Tuyến sinh dục (Testosterone / Estrogen)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dieu_hoa_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_2_2",
+    "name": "Điều hòa Nam ➔ $\\text{FSH} \\rightarrow$ Ống sinh tinh (sinh tinh); $\\text{LH} \\rightarrow$ Tế bào kẽ tiết Testosterone $\\rightarrow$ Liên hệ ngược ức chế yên/dưới đồi",
+    "type": "STEP",
+    "parentId": "sinh11_les_dieu_hoa_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_2_3",
+    "name": "Điều hòa Nữ ➔ $\\text{FSH} \\rightarrow$ Phát triển nang trứng; $\\text{LH} \\rightarrow$ Rụng trứng & Thể vàng tiết Estrogen + Progesterone",
+    "type": "STEP",
+    "parentId": "sinh11_les_dieu_hoa_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_2_4",
+    "name": "Thuốc tránh thai ➔ Chứa Estrogen & Progesterone tổng hợp $\\rightarrow$ Duy trì nồng độ cao ức chế Tuyến yên tiết $FSH, LH \\rightarrow$ Không rụng trứng",
+    "type": "STEP",
+    "parentId": "sinh11_les_dieu_hoa_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_5_2_2_5",
+    "name": "Bẫy trắc nghiệm ➔ Cho rằng thuốc tránh thai kích thích rụng trứng (Đúng: Thuốc tránh thai ngăn chặn sự rụng trứng hoàn toàn)",
+    "type": "STEP",
+    "parentId": "sinh11_les_dieu_hoa_sinh_san",
+    "examples": null
+  },
+  {
+    "id": "sinh11_cat_moi_quan_he",
+    "name": "Mối quan hệ giữa các quá trình sinh lý cơ thể",
+    "type": "CATEGORY",
+    "parentId": "sinh11_subject",
+    "examples": null
+  },
+  {
+    "id": "sinh11_top_su_thong_nhat",
+    "name": "Sự thống nhất chức năng trong cơ thể sinh vật",
+    "type": "TOPIC",
+    "parentId": "sinh11_cat_moi_quan_he",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_thong_nhat_chuc_nang",
+    "name": "Mối quan hệ Quang hợp - Hô hấp (TV) & Tiêu hóa - Tuần hoàn - Hô hấp - Bài tiết (ĐV)",
+    "type": "LESSON",
+    "parentId": "sinh11_top_su_thong_nhat",
+    "examples": [
+      {
+        "id": "sinh11_ex_6_1_1_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy biện luận mối quan hệ mật thiết giữa 4 hệ cơ quan: Tiêu hóa, Hô hấp, Tuần hoàn và Bài tiết trong việc duy trì sự sống của động vật.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Cơ thể là một thể thống nhất, các hệ cơ quan phối hợp chặt chẽ qua Hệ tuần hoàn.\nBiện luận cơ chế sinh lý học đa chiều ➔ Hệ tiêu hóa cung cấp chất dinh dưỡng; Hệ hô hấp cung cấp $O_2$ và thải $CO_2$; Hệ tuần hoàn vận chuyển $O_2$ và dinh dưỡng đến mọi tế bào để hô hấp tế bào sinh $ATP$; Hệ bài tiết (Thận) lọc thải chất độc hại ($Urea, Uric acid$).\nLập luận tính toán ➔ Bất kỳ sự suy giảm chức năng của 1 hệ cơ quan (ví dụ Suy thận) đều dẫn đến rối loạn nội môi, ảnh hưởng trực tiếp đến hoạt động của các hệ khác.\nKết luận ➔ Sự sống duy trì nhờ mối liên hệ hữu cơ và sự điều hòa thần kinh - thể dịch toàn vẹn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_6_1_1_1",
+    "name": "Thực vật ➔ Trao đổi nước $\\rightarrow$ Cung cấp nguyên liệu Quang hợp $\\rightarrow$ Sản phẩm Glucose phục vụ Hô hấp $\\rightarrow$ Năng lượng $ATP$ hút khoáng",
+    "type": "STEP",
+    "parentId": "sinh11_les_thong_nhat_chuc_nang",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_6_1_1_2",
+    "name": "Động vật ➔ Tiêu hóa (dinh dưỡng) + Hô hấp ($O_2$) $\\xrightarrow{\\text{Tuần hoàn}}$ Tế bào (Tạo $ATP$) $\\rightarrow$ Bài tiết chất thải qua Thận/Phổi",
+    "type": "STEP",
+    "parentId": "sinh11_les_thong_nhat_chuc_nang",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_6_1_1_3",
+    "name": "Cân bằng động ➔ Mọi hoạt động sinh lý được kết nối qua dòng tuần hoàn và sự điều hòa Thần kinh - Thể dịch",
+    "type": "STEP",
+    "parentId": "sinh11_les_thong_nhat_chuc_nang",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_6_1_1_4",
+    "name": "Bẫy trắc nghiệm ➔ Nhầm lẫn các hệ cơ quan hoạt động độc lập (Đúng: Trạng thái sinh lý bất kỳ ảnh hưởng toàn bộ hệ thống)",
+    "type": "STEP",
+    "parentId": "sinh11_les_thong_nhat_chuc_nang",
+    "examples": null
+  },
+  {
+    "id": "sinh11_les_ung_dung_thuc_tien",
+    "name": "Ứng dụng sinh học cơ thể trong trồng trọt, chăn nuôi & Định hướng nghề nghiệp",
+    "type": "LESSON",
+    "parentId": "sinh11_top_su_thong_nhat",
+    "examples": [
+      {
+        "id": "sinh11_ex_6_1_2_1",
+        "question": "[Dạng cơ chế/Sinh lý]: Hãy giải thích cơ sở sinh học của việc xen canh, tăng vụ và ứng dụng đèn thắp sáng ban đêm trong trồng thanh long.",
+        "answer": "Định vị đối tượng/Hệ cơ quan & Tránh bẫy khái niệm ➔ Tối ưu hóa hiệu suất quang hợp và điều khiển quang chu kỳ trong nông nghiệp.\nBiện luận cơ chế sinh lý học đa chiều ➔ Xen canh tận dụng không gian và ánh sáng ở các tầng cây khác nhau. Thanh long là cây ngày dài (cần đêm ngắn) để ra hoa.\nLập luận tính toán ➔ Mùa đông đêm dài $\\rightarrow$ Thắp đèn ban đêm ngắt quãng đêm dài $\\rightarrow$ Chuyển Phytochrom sang dạng $P_{fr} \\rightarrow$ Kích thích thanh long ra hoa trái vụ.\nKết luận ➔ Hiểu biết sinh học cơ thể giúp chủ động điều khiển năng suất và thời vụ cây trồng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh11_step_6_1_2_1",
+    "name": "Trồng trọt ➔ Tưới nước hợp lý, Bón phân cân đối, Thắp đèn điều khiển ra hoa trái vụ, Phủ nilon giữ ẩm",
+    "type": "STEP",
+    "parentId": "sinh11_les_ung_dung_thuc_tien",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_6_1_2_2",
+    "name": "Chăn nuôi ➔ Phối hợp khẩu phần ăn chuẩn 4 nhóm chất, Tiêm vắc-xin tạo miễn dịch chủ động, Chuồng trại thoáng mát",
+    "type": "STEP",
+    "parentId": "sinh11_les_ung_dung_thuc_tien",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_6_1_2_3",
+    "name": "Định hướng ➔ Công nghệ sinh học, Y - Dược học, Nông nghiệp công nghệ cao, Khoa học môi trường",
+    "type": "STEP",
+    "parentId": "sinh11_les_ung_dung_thuc_tien",
+    "examples": null
+  },
+  {
+    "id": "sinh11_step_6_1_2_4",
+    "name": "Bẫy trắc nghiệm ➔ Bón phân quá liều gây cháy lá do thế nước đất giảm sâu (cây bị mất nước ngược)",
+    "type": "STEP",
+    "parentId": "sinh11_les_ung_dung_thuc_tien",
+    "examples": null
+  }
+]

@@ -1,0 +1,863 @@
+[
+  {
+    "id": "van9_subject",
+    "name": "Ngữ văn 9",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "van9_cat_doc_hieu",
+    "name": "Đọc hiểu văn bản văn học & Văn bản thông tin",
+    "type": "CATEGORY",
+    "parentId": "van9_subject",
+    "examples": null
+  },
+  {
+    "id": "van9_top_truyen_ky",
+    "name": "Truyện truyền kì & Truyện ngắn cổ điển",
+    "type": "TOPIC",
+    "parentId": "van9_cat_doc_hieu",
+    "examples": null
+  },
+  {
+    "id": "van9_les_truyen_truyen_ki",
+    "name": "Phân tích Truyện truyền kì",
+    "type": "LESSON",
+    "parentId": "van9_top_truyen_ky",
+    "examples": [
+      {
+        "id": "ex_ttk_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Phân tích ý nghĩa của các yếu tố kỳ ảo và tính chất tố cáo xã hội trong đoạn trích 'Dế chọi' (Bồ Tùng Linh, trích Liêu Trai chí dị, Ngữ văn 9 KNTT).",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu văn bản Truyện truyền kỳ ('Dế chọi'), từ khóa 'yếu tố kỳ ảo', 'ý nghĩa tố cáo thực tại'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy sa đà kể lại toàn bộ câu chuyện Dế chọi mà quên phân tích tác dụng nghệ thuật của chi tiết kỳ ảo (đứa con hóa thành dế chọi) và thái độ phê phán của tác giả.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Nhận diện yếu tố kỳ ảo): Chi tiết linh hồn đứa trẻ nhỏ hóa thành con dế chọi nhỏ bé nhưng dũng mãnh, đánh thắng mọi con dế khác và cả gà rừng.\n   - Bước 2 (Giải mã bản chất nghệ thuật): Yếu tố kỳ ảo giúp tạo sự kịch tính, bất ngờ, làm nổi bật sự phản kháng ngầm của người dân thấp cổ bé họng.\n   - Bước 3 (Bộc lộ giá trị thực tế): Tố cáo thói nhũng nhiễu của quan lại bạo ngược vì thú vui mua vui mà đẩy gia đình người dân lành (Thành) vào cảnh tan gia bại sản.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Chi tiết kỳ ảo đứa con trai nhỏ hóa thành con dế dũng mãnh trong 'Dế chọi' của Bồ Tùng Linh không chỉ tạo nên sức hấp dẫn đặc trưng của thể loại truyền kỳ mà còn chứa đựng giá trị nhân đạo và hiện thực sâu sắc. Chi tiết này biến nỗi đau đớn, bế tắc của gia đình anh Thành thành sự phản kháng mạnh mẽ. Qua đó, tác giả xót thương cho số phận con người nhỏ bé, đồng thời cất lên tiếng nói tố cáo gay gắt bộ máy quan lại tham lam, tàn bạo đã chà đạp lên cuộc sống của nhân dân lao động nghèo khổ...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_ttk_lt",
+    "name": "Đặc điểm thể loại ➔ Kỳ ảo + Thực tế xã hội...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_truyen_ki",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttk_pp",
+    "name": "Giải mã yếu tố kỳ ảo ➔ Soi chiếu bi kịch nhân vật...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_truyen_ki",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttk_tt",
+    "name": "Lập luận: Hoàn cảnh ➔ Bi kịch ➔ Vẻ đẹp ➔ Giá trị...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_truyen_ki",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttk_bay",
+    "name": "Né bẫy ➔ Tuyệt đối không kể lại cốt truyện...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_truyen_ki",
+    "examples": null
+  },
+  {
+    "id": "van9_top_stlb",
+    "name": "Thơ Song thất lục bát & Khúc ngâm",
+    "type": "TOPIC",
+    "parentId": "van9_cat_doc_hieu",
+    "examples": null
+  },
+  {
+    "id": "van9_les_song_that_luc_bat",
+    "name": "Cảm thụ Thơ song thất lục bát",
+    "type": "LESSON",
+    "parentId": "van9_top_stlb",
+    "examples": [
+      {
+        "id": "ex_stlb_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Phân tích tác dụng của thể thơ song thất lục bát và nhịp điệu trong đoạn trích 'Nỗi niềm chinh phụ' (trích Chinh phụ ngâm, dịch giả Đoàn Thị Điểm, Ngữ văn 9 KNTT).",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu văn bản thơ thể Song thất lục bát ('Nỗi niềm chinh phụ'), từ khóa 'tác dụng thể thơ', 'nhịp điệu', 'tâm trạng chinh phụ'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy diễn xuôi thơ thành đoạn văn tả cảnh chia tay mà không chỉ ra được luật gieo vần lưng/vần chân đặc trưng và âm hưởng triền miên của cặp câu 7 chữ.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Nhận diện thể thơ): Hai câu 7 chữ (song thất) kết hợp cặp câu 6-8 (lục bát), gieo vần vắt liền mạch.\n   - Bước 2 (Phân tích nhạc điệu): Nhịp thơ 3/4 hoặc 3/2/2 ở câu 7 chữ gợi bước đi ngập ngừng, dồn dập nỗi đau thương chia ly.\n   - Bước 3 (Bộc lộ nội tâm): Âm điệu da diết, xoáy sâu vào nỗi cô đơn, khắc khoải của người vợ có chồng ra chiến trường.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Thể thơ song thất lục bát trong đoạn trích 'Nỗi niềm chinh phụ' đã phát huy tối đa sức mạnh biểu cảm trong việc diễn tả tâm trạng nhân vật trữ tình. Sự đan xen giữa cặp câu thất dồn dập bàng hoàng và cặp câu lục bát kéo dài, da diết tạo nên nhịp điệu sóng đôi như những làn sóng trăn trở trong lòng người chinh phụ. Nhịp ngắt linh hoạt cùng hệ thống vần chân, vần lưng kết nối liên hoàn đã tái hiện chân thực nỗi đau đớn, hoang mang và tình yêu thương tha thiết của người vợ trẻ khi phải xa cách người chồng nơi chiến địa bão lửa...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_stlb_lt",
+    "name": "Thơ STLB ➔ Khổ 7-7-6-8 + Vần lưng/chân + Nhạc điệu bi ai...",
+    "type": "STEP",
+    "parentId": "van9_les_song_that_luc_bat",
+    "examples": null
+  },
+  {
+    "id": "van9_step_stlb_pp",
+    "name": "Điệp từ/điệp ngữ ➔ Bắt mạch tâm trạng nhân vật trữ tình...",
+    "type": "STEP",
+    "parentId": "van9_les_song_that_luc_bat",
+    "examples": null
+  },
+  {
+    "id": "van9_step_stlb_tt",
+    "name": "Thuật toán: Nhịp điệu ➔ Khung cảnh ➔ Tình sầu...",
+    "type": "STEP",
+    "parentId": "van9_les_song_that_luc_bat",
+    "examples": null
+  },
+  {
+    "id": "van9_step_stlb_bay",
+    "name": "Né bẫy ➔ Tránh bỏ sót vần vắt và nhịp ngắt đặc trưng...",
+    "type": "STEP",
+    "parentId": "van9_les_song_that_luc_bat",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nom",
+    "name": "Truyện thơ Nôm & Kiệt tác trung đại",
+    "type": "TOPIC",
+    "parentId": "van9_cat_doc_hieu",
+    "examples": null
+  },
+  {
+    "id": "van9_les_truyen_tho_nom",
+    "name": "Phân tích Truyện thơ Nôm",
+    "type": "LESSON",
+    "parentId": "van9_top_nom",
+    "examples": [
+      {
+        "id": "ex_nom_1",
+        "question": "[Đề thi Nghị luận văn học - Vào 10]: Phân tích hình tượng nhân vật Lục Vân Tiên trong đoạn trích 'Lục Vân Tiên đánh cướp, cứu Kiều Nguyệt Nga' (Nguyễn Đình Chiểu, Ngữ văn 9 KNTT).",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: NLVH đoạn trích Truyện thơ Nôm ('Lục Vân Tiên đánh cướp, cứu Kiều Nguyệt Nga'), từ khóa 'hình tượng Lục Vân Tiên', 'nghĩa khí anh hùng', 'ngôn ngữ bình dân'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy diễn xuôi trận đánh cướp mà quên phân tích bút pháp khắc họa nhân vật qua hành động, lời nói trực tiếp và tư tưởng nghĩa hiệp mộc mạc mang đậm chất Nam Bộ.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Hành động trừ tà diệt ác): Vân Tiên 'bẻ cây làm gậy', một mình xông vào bầy cướp Phong Lai 'bốn phía phủ giăng', thể hiện sự dũng cảm vô song.\n   - Bước 2 (Cách ứng xử tử tế): Sau khi đánh dẹp xong, thấy hai cô gái hoảng sợ liền 'ghé lại bên đàng', ân cần hỏi han, giữ đúng lễ nghĩa 'nam nữ thụ thụ bất thân'.\n   - Bước 3 (Quan niệm sống nghĩa khí): Từ chối đền đáp ('Làm hại người ta đâu phải anh hùng'), coi việc nghĩa là bổn phận tự nhiên.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Hình tượng Lục Vân Tiên trong đoạn trích 'Lục Vân Tiên đánh cướp, cứu Kiều Nguyệt Nga' hiện lên là một bậc trang nam nhi nghĩa khí, xả thân vì dâng đời tinh thần nghĩa hiệp. Qua ngôn từ bình dị, mộc mạc đậm chất Nam Bộ của Nguyễn Đình Chiểu, hành động bẻ cây làm gậy xông vào vòng vây bọn cướp thể hiện dũng khí phi thường và tâm hồn trong sáng. Không chỉ dũng cảm, Lục Vân Tiên còn là người trọng lễ nghĩa, từ chối mọi sự đền đáp bằng quan niệm sống cao đẹp: 'Làm oán chi thiếu gì người trả/ Làm hại người ta đâu phải anh hùng'. Nhân vật Lục Vân Tiên chính là hình mẫu lý tưởng về người anh hùng vị nghĩa của nhân dân...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_nom_lt",
+    "name": "Truyện thơ Nôm ➔ Thơ Lục bát + Tự sự kết hợp Trữ tình...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_tho_nom",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nom_pp",
+    "name": "Miêu tả nội tâm ➔ Khai thác từ ngữ ước lệ & bình dân...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_tho_nom",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nom_tt",
+    "name": "Quy trình: Ước lệ ➔ Ngôn ngữ ➔ Giá trị nhân đạo...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_tho_nom",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nom_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa từ Hán Việt cổ và ngữ nghĩa hiện đại...",
+    "type": "STEP",
+    "parentId": "van9_les_truyen_tho_nom",
+    "examples": null
+  },
+  {
+    "id": "van9_top_bi_kich",
+    "name": "Bi kịch & Sân khấu kịch cổ điển / hiện đại",
+    "type": "TOPIC",
+    "parentId": "van9_cat_doc_hieu",
+    "examples": null
+  },
+  {
+    "id": "van9_les_bi_kich",
+    "name": "Phân tích Bi kịch kịch bản sân khấu",
+    "type": "LESSON",
+    "parentId": "van9_top_bi_kich",
+    "examples": [
+      {
+        "id": "ex_bk_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Phân tích xung đột bi kịch trong đoạn trích 'Rô-mê-ô và Giu-li-ét' (Uy-li-am Sếch-xpia, Ngữ văn 9 KNTT).",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu kịch bản Bi kịch ('Rô-mê-ô và Giu-li-ét'), từ khóa 'xung đột bi kịch', 'khát vọng tình yêu', 'mối thù hận gia tộc'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy tóm tắt lời thoại kịch mà không chỉ ra sự giằng xé nội tâm nhân vật và chỉ dẫn sân khấu (hành động, bối cảnh đêm trăng vườn nhà Ca-piu-lét).\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Mối xung đột nền tảng): Khát vọng tình yêu chân chính trong sáng của hai trẻ đối lập gay gắt với mối thù dòng họ lâu đời Ca-piu-lét và Môn-ta-ghiuy.\n   - Bước 2 (Phân tích lời thoại): Lời đối thoại đong đầy thơ mộng nhưng chứa đựng nỗi lo sợ chân thành trước tai họa đe dọa sinh mạng.\n   - Bước 3 (Nâng tầm ý nghĩa): Tình yêu vượt qua hận thù, nhân danh tinh thần Phục hưng giải phóng con người khỏi định kiến trung cổ.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Xung đột bi kịch trong đoạn trích 'Rô-mê-ô và Giu-li-ét' của Sếch-xpia được đẩy lên đỉnh điểm qua sự đối lập giữa tình yêu trong sáng, mãnh liệt và mối thù hận dòng họ hoang dại. Đứng dưới ban-công đêm trăng, Rô-mê-ô và Giu-li-ét vượt qua ranh giới tên họ đố kỵ để đến với nhau bằng tất cả sự chân thành. Lời thoại giàu chất thơ không chỉ bộc lộ nội tâm giằng xé mà còn khẳng định sức mạnh vô song của tình yêu tự do, sẵn sàng thách thức và làm sụp đổ những định kiến hẹp hòi của xã hội phong kiến cổ xơ...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_bk_lt",
+    "name": "Bi kịch ➔ Xung đột gay gắt + Hành động kịch + Lời thoại...",
+    "type": "STEP",
+    "parentId": "van9_les_bi_kich",
+    "examples": null
+  },
+  {
+    "id": "van9_step_bk_pp",
+    "name": "Phân tích đối thoại & độc thoại ➔ Bộc lộ bản chất nhân vật...",
+    "type": "STEP",
+    "parentId": "van9_les_bi_kich",
+    "examples": null
+  },
+  {
+    "id": "van9_step_bk_tt",
+    "name": "Công thức: Đỉnh điểm xung đột ➔ Bi kịch hóa ➔ Nhân văn...",
+    "type": "STEP",
+    "parentId": "van9_les_bi_kich",
+    "examples": null
+  },
+  {
+    "id": "van9_step_bk_bay",
+    "name": "Né bẫy ➔ Quên phân tích chỉ dẫn sân khấu và hành động kịch...",
+    "type": "STEP",
+    "parentId": "van9_les_bi_kich",
+    "examples": null
+  },
+  {
+    "id": "van9_top_tho_hien_dai",
+    "name": "Thơ hiện đại & Thơ tự do",
+    "type": "TOPIC",
+    "parentId": "van9_cat_doc_hieu",
+    "examples": null
+  },
+  {
+    "id": "van9_les_tho_tu_do",
+    "name": "Cảm thụ Thơ tự do & Thơ hiện đại",
+    "type": "LESSON",
+    "parentId": "van9_top_tho_hien_dai",
+    "examples": [
+      {
+        "id": "ex_ttd_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Phân tích mạch cảm xúc và hình ảnh biểu tượng trong ngữ liệu Thơ tự do hiện đại ngoài SGK.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu tác phẩm Thơ tự do, từ khóa 'mạch cảm xúc', 'hình ảnh biểu tượng', 'cấu tứ thơ'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy diễn giải nghĩa đen của câu thơ tự do mà bỏ qua sự chuyển nhịp linh hoạt, số lượng chữ ngắt ngẫu nhiên và chiều sâu ẩn dụ của hình ảnh biểu tượng.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Nhận diện hình thức): Số chữ mỗi dòng tự do, không gò bó vần luật, ngắt nhịp theo dòng cảm xúc.\n   - Bước 2 (Giải mã biểu tượng): Khai thác các chi tiết nghệ thuật mang tính ẩn dụ (như ngọn lửa, dòng sông, bóng mẹ...).\n   - Bước 3 (Tổng hợp mạch cảm xúc): Từ quan sát cụ thể mở rộng thành suy ngẫm triết lý về cuộc đời, con người.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Trong thơ tự do, các hình ảnh biểu tượng đóng vai trò nhịp cầu kết nối giữa thế giới hiện thực và thế giới nội tâm tinh tế của nhà thơ. Mạch cảm xúc vận động tự nhiên, bộc phát từ những trải nghiệm đời thường chân thực để vươn tới những tư tưởng nhân văn sâu sắc. Nhờ thể thơ tự do không bị gò bó bởi niêm luật, nhà thơ tự do sáng tạo nhịp điệu riêng, giúp hình ảnh biểu tượng vừa giàu sức gợi hình vừa lắng đọng những suy ngẫm triết lý về kiếp người...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_ttd_lt",
+    "name": "Thơ tự do ➔ Cấu tứ độc đáo + Hình ảnh biểu tượng + Mạch cảm xúc...",
+    "type": "STEP",
+    "parentId": "van9_les_tho_tu_do",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttd_pp",
+    "name": "Thuật toán: Từ ngữ gợi cảm ➔ Biểu tượng ➔ Thông điệp...",
+    "type": "STEP",
+    "parentId": "van9_les_tho_tu_do",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttd_tt",
+    "name": "Sơ đồ cảm xúc ➔ Khổ mở đầu ➔ Chuyển biến ➔ Mạch lắng đọng...",
+    "type": "STEP",
+    "parentId": "van9_les_tho_tu_do",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttd_bay",
+    "name": "Né bẫy ➔ Diễn xuôi ý thơ thành đoạn văn tự sự...",
+    "type": "STEP",
+    "parentId": "van9_les_tho_tu_do",
+    "examples": null
+  },
+  {
+    "id": "van9_top_vbtt",
+    "name": "Văn bản thông tin & Văn bản đa phương thức",
+    "type": "TOPIC",
+    "parentId": "van9_cat_doc_hieu",
+    "examples": null
+  },
+  {
+    "id": "van9_les_vbtt",
+    "name": "Phân tích & Đọc hiểu Văn bản thông tin",
+    "type": "LESSON",
+    "parentId": "van9_top_vbtt",
+    "examples": [
+      {
+        "id": "ex_vbtt_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Xác định cách trình bày thông tin, phương tiện phi ngôn ngữ và đánh giá tính xác thực của dữ liệu trong một Văn bản thông tin.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu Văn bản thông tin, từ khóa 'cách trình bày thông tin' (nguyên nhân - kết quả, trật tự thời gian, so sánh), 'phương tiện phi ngôn ngữ' (biểu đồ, hình ảnh, sơ đồ), 'tính xác thực của dữ liệu'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy nhầm lẫn giữa thông tin khách quan (số liệu, sự kiện có thật) và ý kiến nhận định chủ quan của tác giả; bỏ qua vai trò hỗ trợ của phương tiện phi ngôn ngữ.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Xác định cấu trúc): Phân tích sapo, tiêu đề mục, trật tự triển khai (nguyên nhân - kết quả / phân loại / thời gian).\n   - Bước 2 (Chỉ ra phương tiện phi ngôn ngữ): Nêu rõ hình ảnh/biểu đồ/sơ đồ và giải thích tác dụng giúp thông tin trực quan, dễ hiểu.\n   - Bước 3 (Đánh giá dữ liệu): Kiểm tra nguồn dẫn trích, mốc thời gian và số liệu thống kê để khẳng định độ tin cậy.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Văn bản thông tin đã sử dụng hiệu quả mạch triển khai theo trật tự nguyên nhân - kết quả kết hợp với phương tiện phi ngôn ngữ trực quan. Các số liệu thống kê cụ thể và hình ảnh sơ đồ minh họa không chỉ giúp người đọc tiếp nhận tri thức một cách nhanh chóng, chính xác mà còn tăng sức thuyết phục cho lập luận. Nhờ nguồn trích dẫn rõ ràng và dữ liệu thực tế minh bạch, văn bản đảm bảo tính xác thực cao, thể hiện thái độ trung thực và khách quan của người viết...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_vbtt_lt",
+    "name": "VBT T ➔ Cấu trúc sa hình + Phương tiện phi ngôn ngữ + Thông tin khách quan...",
+    "type": "STEP",
+    "parentId": "van9_les_vbtt",
+    "examples": null
+  },
+  {
+    "id": "van9_step_vbtt_pp",
+    "name": "Sơ đồ hóa ➔ Tóm tắt ý chính ➔ Nhận diện mục đích & Quan điểm tác giả...",
+    "type": "STEP",
+    "parentId": "van9_les_vbtt",
+    "examples": null
+  },
+  {
+    "id": "van9_step_vbtt_tt",
+    "name": "Thuật toán 3s ➔ Quét tiêu đề/Sapo ➔ Bắt từ khóa ➔ Đánh giá tính xác thực dữ liệu...",
+    "type": "STEP",
+    "parentId": "van9_les_vbtt",
+    "examples": null
+  },
+  {
+    "id": "van9_step_vbtt_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa dữ liệu thực tế và ý kiến chủ quan của tác giả...",
+    "type": "STEP",
+    "parentId": "van9_les_vbtt",
+    "examples": null
+  },
+  {
+    "id": "van9_cat_tieng_viet",
+    "name": "Tiếng Việt thực hành & Mẹo xử lý câu hỏi tối đa điểm",
+    "type": "CATEGORY",
+    "parentId": "van9_subject",
+    "examples": null
+  },
+  {
+    "id": "van9_top_tv_tu_vung",
+    "name": "Tri thức Từ vựng - Điển tích, điển cố & Hán Việt",
+    "type": "TOPIC",
+    "parentId": "van9_cat_tieng_viet",
+    "examples": null
+  },
+  {
+    "id": "van9_les_dien_tich_dien_co",
+    "name": "Phân tích Điển tích điển cố & Yếu tố Hán Việt",
+    "type": "LESSON",
+    "parentId": "van9_top_tv_tu_vung",
+    "examples": [
+      {
+        "id": "ex_dt_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Nhận diện và nêu tác dụng của điển tích 'Sân Lai', 'Gốc Tử' trong câu thơ trung đại.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu Tiếng Việt, từ khóa 'điển tích điển cố', 'Sân Lai', 'Gốc Tử'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy giải nghĩa từng từ đơn lẻ theo nghĩa đen hiện đại mà không nêu được câu chuyện quá khứ Hán học và tình cảm hiếu thảo chứa đựng đằng sau.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Giải nghĩa tích xưa): 'Sân Lai' (Lão Lai Tử múa làm trò cho cha mẹ vui), 'Gốc Tử' (cây tử, cây lý chỉ cha mẹ, quê hương).\n   - Bước 2 (Chỉ ra hàm nghĩa): Biểu tượng cho lòng hiếu thảo, sự tưởng nhớ sâu sắc hướng về đấng sinh thành.\n   - Bước 3 (Nêu tác dụng nghệ thuật): Giúp lời thơ hàm súc, cô đọng, trang trọng và mang tính cổ kính.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Việc sử dụng các điển tích 'Sân Lai' và 'Gốc Tử' đã làm tăng tính hàm súc, cổ kính và chuẩn mực cho lời thơ. 'Sân Lai' gợi nhắc tích Lão Lai Tử hết lòng phụng dưỡng cha mẹ, còn 'Gốc Tử' là biểu tượng tâm linh hướng về quê hương đấng sinh thành. Qua đó, tác giả bộc lộ tình cảm hiếu thảo tha thiết, sâu nặng và tinh tế của nhân vật mà không cần dùng đến những lời kể lể dài dòng...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_dt_lt",
+    "name": "Điển tích/điển cố ➔ Tích xưa cổ đại + Ngôn từ cô đọng + Ý nghĩa sâu xa...",
+    "type": "STEP",
+    "parentId": "van9_les_dien_tich_dien_co",
+    "examples": null
+  },
+  {
+    "id": "van9_step_dt_pp",
+    "name": "Giải mã ngữ nghĩa ➔ Soi chiếu tâm tư nhân vật...",
+    "type": "STEP",
+    "parentId": "van9_les_dien_tich_dien_co",
+    "examples": null
+  },
+  {
+    "id": "van9_step_dt_tt",
+    "name": "Công thức 33s ➔ Gọi tên tích ➔ Nêu nghĩa gốc ➔ Khai thác tác dụng...",
+    "type": "STEP",
+    "parentId": "van9_les_dien_tich_dien_co",
+    "examples": null
+  },
+  {
+    "id": "van9_step_dt_bay",
+    "name": "Né bẫy ➔ Dịch nghĩa đen từng từ gây sai lệch tư tưởng...",
+    "type": "STEP",
+    "parentId": "van9_les_dien_tich_dien_co",
+    "examples": null
+  },
+  {
+    "id": "van9_top_tv_tu_tu",
+    "name": "Biện pháp tu từ & Ngữ âm",
+    "type": "TOPIC",
+    "parentId": "van9_cat_tieng_viet",
+    "examples": null
+  },
+  {
+    "id": "van9_les_choi_chu_diep",
+    "name": "Phân tích Chơi chữ, Điệp thanh, Điệp vần",
+    "type": "LESSON",
+    "parentId": "van9_top_tv_tu_tu",
+    "examples": [
+      {
+        "id": "ex_bptt_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Phân tích biện pháp điệp từ và điệp vần trong câu thơ.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu Tiếng Việt, từ khóa 'điệp từ', 'điệp vần', 'tác dụng nghệ thuật'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Mẹo nhận diện nhanh BPTT trong 30 giây: Bẫy chỉ gọi tên biện pháp mà không trích dẫn từ ngữ cụ thể hoặc không phân tích hiệu quả âm thanh và cảm xúc.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Chỉ diện): Trích chính xác các từ ngữ/vần điệu được lặp lại.\n   - Bước 2 (Phân tích hiệu quả âm thanh): Tạo nhạc điệu nhịp nhàng, dồn dập hoặc ngân vang da diết.\n   - Bước 3 (Phân tích hiệu quả nội dung): Nhấn mạnh hình ảnh, khắc sâu tâm trạng trữ tình của tác giả.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Biện pháp điệp từ kết hợp điệp vần trong câu thơ được vận dụng vô cùng tinh tế. Việc lặp lại liên hoàn các âm tiết có cùng nguyên âm không chỉ tạo nên tính nhạc du dương, êm ái cho lời thơ mà còn nhấn mạnh sâu sắc không gian thiên nhiên tĩnh lặng. Qua đó, tác giả khắc họa thành công diễn biến tâm trạng đầy bâng khuâng, xao xuyến của nhân vật trữ tình trước cảnh vật...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_bptt_lt",
+    "name": "Chơi chữ + Điệp thanh + Điệp vần ➔ Tăng sức gợi hình & Nhạc điệu...",
+    "type": "STEP",
+    "parentId": "van9_les_choi_chu_diep",
+    "examples": null
+  },
+  {
+    "id": "van9_step_bptt_pp",
+    "name": "Thuật toán 30 giây nhận diện nhanh BPTT ➔ Chỉ diện ➔ Phân tích ➔ Nâng tầm...",
+    "type": "STEP",
+    "parentId": "van9_les_choi_chu_diep",
+    "examples": null
+  },
+  {
+    "id": "van9_step_bptt_tt",
+    "name": "Công thức 3 bước ➔ Tên BPTT + Từ ngữ trích dẫn + Tác dụng kép...",
+    "type": "STEP",
+    "parentId": "van9_les_choi_chu_diep",
+    "examples": null
+  },
+  {
+    "id": "van9_step_bptt_bay",
+    "name": "Né bẫy ➔ Nêu tác dụng chung chung không gắn với ngữ cảnh...",
+    "type": "STEP",
+    "parentId": "van9_les_choi_chu_diep",
+    "examples": null
+  },
+  {
+    "id": "van9_top_tv_cau",
+    "name": "Ngữ pháp câu & Phép liên kết",
+    "type": "TOPIC",
+    "parentId": "van9_cat_tieng_viet",
+    "examples": null
+  },
+  {
+    "id": "van9_les_phep_lien_ket",
+    "name": "Nhận diện và Phân tích Phép liên kết",
+    "type": "LESSON",
+    "parentId": "van9_top_tv_cau",
+    "examples": [
+      {
+        "id": "ex_lk_1",
+        "question": "[Đề thi đọc hiểu - Vào 10]: Chỉ ra phép liên kết hình thức giữa các câu văn và nêu tác dụng.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đọc hiểu Tiếng Việt, từ khóa 'phép liên kết hình thức' (phép thế, phép lặp, phép nối, phép liên tưởng).\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy nhầm lẫn giữa Phép thế (dùng từ đồng nghĩa/đại từ thay thế) và Phép lặp (dùng lại nguyên từ ngữ), hoặc chỉ nêu tên phép liên kết mà quên trích từ liên kết.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Xác định từ liên kết): Chỉ rõ từ đứng ở câu sau và từ tương ứng ở câu trước.\n   - Bước 2 (Gọi tên chính xác): Phép thế / lặp / nối / liên tưởng.\n   - Bước 3 (Phân tích hiệu quả): Tạo sự nối kết mạch lạc về nghĩa giữa các câu, tránh lặp từ vô lý.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Hai câu văn trên đã sử dụng thành công phép thế hình thức để tạo tính liên kết chặt chẽ. Từ thế ở câu thứ hai đã thay thế cho cụm từ ở câu thứ nhất. Việc sử dụng phép liên kết này không chỉ giúp tránh sự lặp lại từ ngữ vô ích mà còn giúp mạch văn diễn đạt trở nên liền mạch, rõ ràng và làm nổi bật chủ đề tư tưởng chung của toàn đoạn...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_lk_lt",
+    "name": "Phép thế + Lặp + Nối + Liên tưởng ➔ Mạch lạc văn bản...",
+    "type": "STEP",
+    "parentId": "van9_les_phep_lien_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_step_lk_pp",
+    "name": "Thuật toán đếm từ ➔ Soi chiếu vị trí đầu câu ➔ Phân loại phép...",
+    "type": "STEP",
+    "parentId": "van9_les_phep_lien_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_step_lk_tt",
+    "name": "Công thức: Tên phép + Từ ngữ thay thế/lặp ➔ Tác dụng mạch lạc...",
+    "type": "STEP",
+    "parentId": "van9_les_phep_lien_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_step_lk_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa Phép thế và Phép lặp hoặc Phép liên tưởng...",
+    "type": "STEP",
+    "parentId": "van9_les_phep_lien_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_top_tv_cau_logic",
+    "name": "Cú pháp câu & Sửa lỗi dùng từ, lỗi logic",
+    "type": "TOPIC",
+    "parentId": "van9_cat_tieng_viet",
+    "examples": null
+  },
+  {
+    "id": "van9_les_mo_rong_cau",
+    "name": "Mở rộng thành phần chính của câu bằng cụm từ",
+    "type": "LESSON",
+    "parentId": "van9_top_tv_cau_logic",
+    "examples": [
+      {
+        "id": "ex_mrc_1",
+        "question": "[Đề thi đọc hiểu/Tiếng Việt - Vào 10]: Phân tích cách mở rộng chủ ngữ hoặc vị ngữ trong câu văn sau bằng cụm từ và nêu hiệu quả biểu đạt.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Ngữ pháp Tiếng Việt, từ khóa 'mở rộng thành phần câu', 'cụm danh/động/tính từ', 'cụm C-V'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy nhầm lẫn giữa việc mở rộng thành thành phần phụ (trạng ngữ) với việc biến đổi trực tiếp nòng cốt Chủ ngữ/Vị ngữ thành cụm từ giàu dung lượng.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Xác định nòng cốt C-V cũ): Phân tích câu đơn ban đầu.\n   - Bước 2 (Chỉ ra cụm từ mở rộng): Thay từ đơn bằng cụm C-V hoặc cụm từ chính phụ làm Chủ ngữ/Vị ngữ.\n   - Bước 3 (Nêu hiệu quả): Giúp câu văn cung cấp nhiều thông tin hơn, hình ảnh sống động và diễn đạt hàm súc.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Câu văn đã mở rộng thành công thành phần Chủ ngữ từ một từ đơn thành một cụm C-V giàu dung lượng biểu cảm. Việc biến đổi này không chỉ giúp câu văn chứa đựng lượng thông tin chi tiết, cụ thể hơn mà còn làm tăng tính sinh động, giúp người đọc dễ dàng hình dung bức tranh không gian và trạng thái nội tâm của nhân vật...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_mrc_lt",
+    "name": "Mở rộng câu ➔ Cụm C-V / Cụm chính phụ ➔ Biến câu đơn thành câu phức hàm súc...",
+    "type": "STEP",
+    "parentId": "van9_les_mo_rong_cau",
+    "examples": null
+  },
+  {
+    "id": "van9_step_mrc_pp",
+    "name": "Kỹ thuật nén ý ➔ Thêm cụm danh/động/tính từ làm C-V ➔ Tăng dung lượng biểu đạt...",
+    "type": "STEP",
+    "parentId": "van9_les_mo_rong_cau",
+    "examples": null
+  },
+  {
+    "id": "van9_step_mrc_tt",
+    "name": "Công thức ➔ Xóa từ đơn ➔ Thay bằng cụm C-V/Cụm từ ➔ Kiểm tra tính ngữ pháp...",
+    "type": "STEP",
+    "parentId": "van9_les_mo_rong_cau",
+    "examples": null
+  },
+  {
+    "id": "van9_step_mrc_bay",
+    "name": "Né bẫy ➔ Mở rộng làm sai lệch nòng cốt câu hoặc gây mơ hồ nghĩa...",
+    "type": "STEP",
+    "parentId": "van9_les_mo_rong_cau",
+    "examples": null
+  },
+  {
+    "id": "van9_les_sua_loi_logic",
+    "name": "Nhận diện và sửa lỗi logic, lỗi dùng từ trong văn bản",
+    "type": "LESSON",
+    "parentId": "van9_top_tv_cau_logic",
+    "examples": [
+      {
+        "id": "ex_sll_1",
+        "question": "[Đề thi đọc hiểu/Tiếng Việt - Vào 10]: Phát hiện lỗi dùng từ hoặc lỗi logic trong câu văn sau, chỉ rõ nguyên nhân và sửa lại cho đúng.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Ngữ pháp Tiếng Việt, từ khóa 'phát hiện lỗi dùng từ', 'lỗi logic', 'sửa câu sai'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy sửa câu theo cảm tính cá nhân làm thay đổi hoàn toàn ý định diễn đạt gốc của tác giả thay vì chữa đúng lỗi sai về quan hệ ngữ nghĩa hay từ Hán Việt đồng âm.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Bắt bệnh): Chỉ ra chính xác từ ngữ dùng sai hoặc vế câu mâu thuẫn logic.\n   - Bước 2 (Phân tích nguyên nhân): Nhầm lẫn nghĩa của từ Hán Việt hoặc kết hợp từ không tương thích.\n   - Bước 3 (Đề xuất câu đúng): Sửa lại từ ngữ chuẩn xác, đảm bảo đúng cú pháp và logic.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Câu văn trên vi phạm lỗi logic do dùng từ sai nghĩa trong ngữ cảnh. Nguyên nhân do người viết nhầm lẫn giữa hai từ gần âm. Để khắc phục triệt để lỗi này và giữ nguyên ý tưởng gốc, ta cần thay thế từ sai bằng từ chuẩn xác. Câu văn sau khi sửa không chỉ đảm bảo đúng ngữ pháp mà còn diễn đạt mạch lạc, chuẩn mực văn phong...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_sll_lt",
+    "name": "Lỗi logic ➔ Mâu thuẫn lập luận + Sai kết nối + Dùng từ sai nghĩa/loại...",
+    "type": "STEP",
+    "parentId": "van9_les_sua_loi_logic",
+    "examples": null
+  },
+  {
+    "id": "van9_step_sll_pp",
+    "name": "Bắt bệnh ➔ Soi chiếu ngữ cảnh ➔ Sửa lỗi từ vựng & Logic liên kết câu...",
+    "type": "STEP",
+    "parentId": "van9_les_sua_loi_logic",
+    "examples": null
+  },
+  {
+    "id": "van9_step_sll_tt",
+    "name": "Thuật toán 3 bước ➔ Nhận diện từ sai ➔ Chỉ rõ nguyên nhân ➔ Sửa lại chuẩn văn phong...",
+    "type": "STEP",
+    "parentId": "van9_les_sua_loi_logic",
+    "examples": null
+  },
+  {
+    "id": "van9_step_sll_bay",
+    "name": "Né bẫy ➔ Sửa câu đúng thành câu sai hoặc sửa mất ý gốc của tác giả...",
+    "type": "STEP",
+    "parentId": "van9_les_sua_loi_logic",
+    "examples": null
+  },
+  {
+    "id": "van9_cat_nlxh",
+    "name": "Làm văn - Nghị luận xã hội (NLXH - Đạt điểm tối đa)",
+    "type": "CATEGORY",
+    "parentId": "van9_subject",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nlxh_hien_tuong",
+    "name": "Nghị luận về một vấn đề thực tiễn / Hiện tượng đời sống",
+    "type": "TOPIC",
+    "parentId": "van9_cat_nlxh",
+    "examples": null
+  },
+  {
+    "id": "van9_les_nlxh_200chu",
+    "name": "Viết đoạn văn NLXH 200 chữ về hiện tượng/vấn đề thực tiễn",
+    "type": "LESSON",
+    "parentId": "van9_top_nlxh_hien_tuong",
+    "examples": [
+      {
+        "id": "ex_nlxh_1",
+        "question": "[Đề thi NLXH - Vào 10]: Viết đoạn văn khoảng 200 chữ trình bày suy nghĩ của em về giải pháp ứng xử văn minh trên môi trường không gian mạng của lứa tuổi học sinh hiện nay.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Viết đoạn văn NLXH 200 chữ (khoảng 2/3 trang giấy thi), vấn đề thực tiễn 'ứng xử văn minh trên không gian mạng của học sinh'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy viết thành bài văn dài có mở/thân/kết tách dòng (bị trừ điểm cấu trúc đoạn) hoặc đưa dẫn chứng chung chung, cũ kỹ lỗi thời.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Mở đoạn (1-2 câu): Thuật toán đếm dòng phân bổ dung lượng 200 chữ: Dùng câu chủ đề khẳng định trực tiếp tính cấp thiết của ứng xử văn minh mạng.\n   - Thân đoạn (10-12 câu): Giải thích ngắn gọn mạng xã hội ➔ Thực trạng & nguyên nhân ➔ Lợi ích của ứng xử văn minh ➔ Dẫn chứng thời sự 'nóng' ➔ Phản đề phê phán bạo lực mạng.\n   - Kết đoạn (1-2 câu): Rút ra bài học hành động thiết thực cho bản thân.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Trong kỷ nguyên số hóa hiện nay, ứng xử văn minh trên không gian mạng đã trở thành một chuẩn mực đạo đức thiết yếu đối với mỗi học sinh. Mạng xã hội là không gian ảo nhưng hậu quả tổn thương là hoàn toàn có thật. Văn hóa ứng xử trên mạng phản ánh trực tiếp nhân cách và trình độ văn hóa của mỗi cá nhân. Việc biết nói lời tử tế, kiểm chứng thông tin trước khi chia sẻ và tôn trọng sự khác biệt chính là tấm lá chắn bảo vệ môi trường mạng lành mạnh. Thực tế chứng minh, nhiều chiến dịch truyền thông tích cực do bạn trẻ khởi xướng đã lan tỏa tinh thần nhân văn rộng khắp. Trái lại, những hành vi 'ngôn từ độc hại', hùa theo đám đông lăng mạ người khác cần phải bị loại bỏ dứt điểm. Là học sinh chuẩn bị bước vào lớp 10, em tự nhắc nhở bản thân luôn giữ cái đầu lạnh và trái tim ấm khi sử dụng Internet...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_nlxh_lt",
+    "name": "NLXH thực tiễn ➔ Giải thích + Thực trạng + Nguyên nhân + Giải pháp...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_200chu",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlxh_pp",
+    "name": "Khung NLXH 200 chữ ➔ Mở đoạn trực tiếp ➔ Thân đoạn logic ➔ Bài học...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_200chu",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlxh_tt",
+    "name": "Thuật toán: Giải nghĩa ➔ Bàn luận (Lý + Dẫn) ➔ Phản đề ➔ Bài học...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_200chu",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlxh_bay",
+    "name": "Né bẫy ➔ Thiếu dẫn chứng thực tế hoặc lấy dẫn chứng chung chung, cũ kĩ...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_200chu",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nlxh_tu_tuong",
+    "name": "Nghị luận về tư tưởng đạo lí / Thông điệp nhân sinh",
+    "type": "TOPIC",
+    "parentId": "van9_cat_nlxh",
+    "examples": null
+  },
+  {
+    "id": "van9_les_nlxh_tu_tuong_dao_ly",
+    "name": "Viết bài/đoạn văn NLXH về tư tưởng đạo lí",
+    "type": "LESSON",
+    "parentId": "van9_top_nlxh_tu_tuong",
+    "examples": [
+      {
+        "id": "ex_ttdl_1",
+        "question": "[Đề thi NLXH - Vào 10]: Viết đoạn văn nghị luận khoảng 200 chữ bàn về ý nghĩa của thái độ sống biết ơn trong cuộc đời.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Viết đoạn văn NLXH về tư tưởng đạo lý, từ khóa 'ý nghĩa của thái độ sống biết ơn'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy sa đà phân tích tác phẩm văn học thay vì bàn luận thực tế đời sống xã hội.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Giải thích): Khái niệm 'lòng biết ơn' là sự ghi nhớ và trân trọng những gì người khác mang lại cho mình.\n   - Bước 2 (Bàn luận ý nghĩa): Giúp nuôi dưỡng tâm hồn, tạo dựng mối quan hệ xã hội tốt đẹp, nâng cao giá trị bản thân.\n   - Bước 3 (Dẫn chứng thực tế): Tinh thần tri ân các anh hùng hy sinh, lòng biết ơn cha mẹ thầy cô trong cuộc sống hằng ngày.\n   - Bước 4 (Phản đề & Bài học): Phê phán lối sống vô ơn 'ăn cháo đá bát' ➔ Hành động cụ thể.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Lòng biết ơn là một trong những nét đẹp đạo lý nền tảng làm nên giá trị cao quý của con người. Biết ơn không chỉ đơn thuần là lời cảm ơn đầu môi mà là sự ghi nhớ sâu sắc công lao của đấng sinh thành, thầy cô và những người đã giúp đỡ ta trong lúc hoạn nạn. Thái độ sống biết ơn giúp tâm hồn con người trở nên thanh thản, gạt bỏ sự ích kỷ và gắn kết mọi người trong tình yêu thương. Tấm gương những người trẻ hằng ngày nỗ lực học tập để đáp hiếu cha mẹ hay tham gia các hoạt động tri ân cộng đồng chính là minh chứng sinh động cho sức tỏa sáng của lòng biết ơn. Trái lại, lối sống bội bạc, 'ăn cháo đá bát' sẽ tự cô lập cá nhân khỏi xã hội. Hiểu được điều đó, em nguyện sống có trách nhiệm, luôn trân trọng những điều bình dị nhất mà mình nhận được mỗi ngày...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_ttdl_lt",
+    "name": "Tư tưởng đạo lý ➔ Danh ngôn/Quan niệm sống/Thông điệp nhân văn...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_tu_tuong_dao_ly",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttdl_pp",
+    "name": "Giải thích Khái niệm ➔ Khẳng định đúng/sai ➔ Chứng minh thực tiễn...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_tu_tuong_dao_ly",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttdl_tt",
+    "name": "Thuật toán: Giải thích ➔ Bàn luận ➔ Phản biện ➔ Bài học nhận thức...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_tu_tuong_dao_ly",
+    "examples": null
+  },
+  {
+    "id": "van9_step_ttdl_bay",
+    "name": "Né bẫy ➔ Viết thành bài văn nghị luận văn học do sa đà phân tích tác phẩm...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_tu_tuong_dao_ly",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nlxh_ky_thuat",
+    "name": "Kỹ thuật viết NLXH chuyên sâu điểm 8+",
+    "type": "TOPIC",
+    "parentId": "van9_cat_nlxh",
+    "examples": null
+  },
+  {
+    "id": "van9_les_nlxh_cong_thuc_mo_ket",
+    "name": "Công thức Mở bài/Kết bài dùng chung & Kỹ thuật lấy dẫn chứng thời sự",
+    "type": "LESSON",
+    "parentId": "van9_top_nlxh_ky_thuat",
+    "examples": [
+      {
+        "id": "ex_nlxh_mk_1",
+        "question": "[Đề thi NLXH - Vào 10]: Vận dụng công thức mở/kết vạn năng và kỹ thuật đưa dẫn chứng thời sự 'nóng' để viết đoạn văn NLXH về bản lĩnh vượt qua nghịch cảnh.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Kỹ thuật viết NLXH, từ khóa 'mở/kết vạn năng', 'dẫn chứng thời sự nóng', 'bản lĩnh vượt qua nghịch cảnh'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy sử dụng các dẫn chứng quá cũ kỹ, mòn cũ (như Edison, thầy Nguyễn Ngọc Ký...) mà không biết cập nhật các tấm gương thời sự mang hơi thở đại dịch, trí tuệ nhân tạo hay thiên tai gần đây.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Mở đoạn vạn năng: Mẹo tối ưu thời gian phòng thi: Dùng cấu trúc đi từ quy luật cuộc sống ➔ 'Giữa dòng chảy biến động của thời đại, bản lĩnh vượt qua nghịch cảnh chính là chìa khóa...'.\n   - Đưa dẫn chứng thời sự: Trích dẫn những tấm gương nghị lực trẻ vừa đoạt giải thưởng quốc tế hoặc những chiến sĩ cứu hộ trong bão lũ vừa qua.\n   - Kết đoạn vạn năng: Dùng cấu trúc đọng lại khát vọng ➔ 'Đừng mong cuộc đời bằng phẳng, hãy mong bản thân đủ vững vàng...'.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Giữa dòng chảy đầy biến động của thế giới hiện đại, bản lĩnh vượt qua nghịch cảnh chính là kim chỉ nam giúp con người khẳng định giá trị bản thân. Nghịch cảnh là điều không ai mong muốn nhưng lại là thước đo chính xác nhất cho ý chí và sức bền tinh thần. Thay vì gục ngã trước thất bại, người có bản lĩnh luôn coi thử thách là cơ hội để tôi luyện. Minh chứng thời sự sinh động nhất chính là hình ảnh những vận động viên thể thao người khuyết tật Việt Nam vừa lập nên kỳ tích tại các đấu trường quốc tế, hay những người dân vùng bão lũ dũng cảm đứng lên tái thiết cuộc sống sau thiên tai. Họ đã chứng minh rằng giới hạn duy nhất của con người chính là do chính họ tự đặt ra. Phản đề lại những ai dễ dàng buông xuôi, ta càng thêm trân trọng thái độ sống chủ động. Nhớ rằng: 'Đừng mong cuộc sống không có trở ngại, hãy mong bản thân đủ bản lĩnh để bước qua mọi gập ghềnh'...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_nlxh_mk_lt",
+    "name": "Mở/Kết vạn năng ➔ Mở bài gợi mở từ thực tiễn + Kết bài đọng lại khát vọng...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_cong_thuc_mo_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlxh_mk_pp",
+    "name": "Kỹ thuật 3/200 ➔ 3 dòng Mở đoạn đắt giá ➔ Dẫn chứng nóng thời sự...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_cong_thuc_mo_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlxh_mk_tt",
+    "name": "Công thức 3s ➔ Trích dẫn danh ngôn / Hiện tượng đời sống ➔ Xoáy trực tiếp vấn đề...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_cong_thuc_mo_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlxh_mk_bay",
+    "name": "Né bẫy ➔ Dùng dẫn chứng cũ kỹ, xa rời đời sống hoặc Mở bài lan man dài dòng...",
+    "type": "STEP",
+    "parentId": "van9_les_nlxh_cong_thuc_mo_ket",
+    "examples": null
+  },
+  {
+    "id": "van9_cat_nlvh",
+    "name": "Làm văn - Nghị luận văn học (NLVH - Ma trận đề thi vào 10)",
+    "type": "CATEGORY",
+    "parentId": "van9_subject",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nlvh_truyen",
+    "name": "Nghị luận về tác phẩm / đoạn trích Truyện & Kịch",
+    "type": "TOPIC",
+    "parentId": "van9_cat_nlvh",
+    "examples": null
+  },
+  {
+    "id": "van9_les_nlvh_truyen_nhan_vat",
+    "name": "Phân tích nhân vật / Giá trị tác phẩm truyện",
+    "type": "LESSON",
+    "parentId": "van9_top_nlvh_truyen",
+    "examples": [
+      {
+        "id": "ex_nlvh_t_1",
+        "question": "[Đề thi NLVH - Vào 10]: Phân tích sự biến đổi số phận và vẻ đẹp nhân vật anh Thành trong đoạn trích 'Dế chọi' (Bồ Tùng Linh, Ngữ văn 9 KNTT).",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đề thi NLVH phân tích nhân vật truyện truyền kỳ ('Dế chọi'), từ khóa 'biến đổi số phận', 'hoàn cảnh bế tắc', 'vẻ đẹp phẩm chất nhân chất'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy tóm tắt toàn bộ tình tiết truyện Liêu Trai mà không phân tích bút pháp nghệ thuật miêu tả tâm lý, yếu tố kỳ ảo và ý nghĩa hiện thực sâu sắc.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Mở bài: Giới thiệu tác giả Bồ Tùng Linh, tập 'Liêu Trai chí dị' và nhân vật Thành.\n   - Thân bài (Luận điểm 1): Hoàn cảnh trớ trêu, lương thiện nhưng bị quan lại bách hại vì nộp dế chọi ➔ Lâm vào bước đường cùng.\n   - Thân bài (Luận điểm 2): Bi kịch con trai làm chết dế rồi hóa dế ➔ Sự chuyển biến kỳ ảo đưa gia đình thoát cảnh diệt vong.\n   - Thân bài (Luận điểm 3): Đánh giá nghệ thuật khắc họa tâm lý, sự kết hợp giữa kỳ ảo và thực tế.\n   - Kết bài: Khẳng định giá trị nhân đạo sâu sắc của tác phẩm.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Trong truyện ngắn 'Dế chọi', tác giả Bồ Tùng Linh đã xây dựng thành công nhân vật Thành – điển hình cho số phận bế tắc của người dân nghèo dưới bộ máy quan lại tàn bạo. Là một người dân lành hiền lành, Thành đẩy vào bi kịch tan gia bại sản chỉ vì không tìm được con dế chọi nộp quan. Bút pháp khắc họa tâm lý nhân vật từ hoang mang, tuyệt vọng đến đờ đẫn khi con trai ngã xuống giếng được thể hiện vô cùng chân thực. Yếu tố kỳ ảo đứa con hóa dế không chỉ giải thoát số phận cho gia đình Thành mà còn là lời tố cáo đanh thép thói tàn bạo của giai cấp trị xối. Qua sự biến đổi số phận của Thành, nhà văn gửi gắm niềm xót thương sâu sắc đối với con người lao động nghèo khổ...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_nlvh_t_lt",
+    "name": "NLVH Truyện = Hoàn cảnh + Lai lịch + Hành động/Tâm lý + Nghệ thuật...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_truyen_nhan_vat",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_t_pp",
+    "name": "Thuật toán bổ đôi ➔ Dẫn chứng trích dẫn ➔ Bắt mạch tâm lý nhân vật...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_truyen_nhan_vat",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_t_tt",
+    "name": "Dàn ý chuẩn ➔ Mở bài ➔ Luận điểm 1, 2, 3 ➔ Tổng kết & Đánh giá...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_truyen_nhan_vat",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_t_bay",
+    "name": "Né bẫy ➔ Tóm tắt cốt truyện thay vì phân tích nghệ thuật và giá trị...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_truyen_nhan_vat",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nlvh_tho",
+    "name": "Nghị luận về bài thơ / đoạn thơ",
+    "type": "TOPIC",
+    "parentId": "van9_cat_nlvh",
+    "examples": null
+  },
+  {
+    "id": "van9_les_nlvh_doan_tho",
+    "name": "Phân tích cảm thụ đoạn thơ / bài thơ",
+    "type": "LESSON",
+    "parentId": "van9_top_nlvh_tho",
+    "examples": [
+      {
+        "id": "ex_nlvh_th_1",
+        "question": "[Đề thi NLVH - Vào 10]: Phân tích diễn biến tâm trạng người chinh phụ trong đoạn trích 'Nỗi niềm chinh phụ' (Chinh phụ ngâm, bản dịch Đoàn Thị Điểm, Ngữ văn 9 KNTT).",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: NLVH đoạn thơ Song thất lục bát ('Nỗi niềm chinh phụ'), từ khóa 'diễn biến tâm trạng', 'nghệ thuật tả cảnh ngụ tình', 'âm điệu thơ'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy diễn xuôi lời thơ thành câu văn xuôi mà không soi sáng các nhãn tự, hình ảnh ẩn dụ (mây biếc, núi xanh, ngàn dâu) và nhạc điệu bi ai của thể thơ.\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Mở bài: Giới thiệu tác phẩm 'Chinh phụ ngâm' và vị trí đoạn trích 'Nỗi niềm chinh phụ'.\n   - Luận điểm 1: Nỗi đau đớn, cô đơn ngơ ngác ngay thời điểm chia tay người chồng ra trận.\n   - Luận điểm 2: Sự xa cách không gian 'Chốn Hàm Kinh - Bến Tiêu Tương' ➔ Nỗi trông ngóng vô vọng.\n   - Luận điểm 3: Bức tranh ngàn dâu xanh ngắt khép lại đoạn trích ➔ Tả cảnh ngụ tình đạt đến đỉnh cao.\n   - Kết bài: Khẳng định giá trị tố cáo chiến tranh phi nghĩa và tiếng nói khát vọng hạnh phúc lứa đôi.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Đoạn trích 'Nỗi niềm chinh phụ' đã tái hiện một cách xúc động bi kịch cô đơn và nỗi sầu chia ly triền miên của người chinh phụ. Bằng nghệ thuật tả cảnh ngụ tình điêu luyện, không gian thiên nhiên với 'mây biếc', 'núi xanh' và đặc biệt là hình ảnh 'Cùng trông lại mà cùng chẳng thấy/ Thấy xanh xanh những mấy ngàn dâu' đã chuyển hóa trọn vẹn nỗi buồn thương ngút ngàn vào cảnh vật. Thể thơ song thất lục bát với nhịp ngắt thất bất dịnh và những cặp vần vắt liên hoàn như tiếng thở dài xót xa của người phụ nữ trong xã hội cũ. Qua đó, tác phẩm không chỉ thể hiện sự đồng cảm sâu sắc với số phận con người mà còn cất lên tiếng nói tố cáo chiến tranh phong kiến phi nghĩa...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_nlvh_th_lt",
+    "name": "NLVH Thơ = Từ ngữ đắt + Hình ảnh biểu tượng + Nhịp điệu + Cảm xúc...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_doan_tho",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_th_pp",
+    "name": "Thuật toán cuốn chiếu ➔ Bổ từng câu/khổ ➔ Khai thác tín hiệu nghệ thuật...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_doan_tho",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_th_tt",
+    "name": "Công thức 4 tầng ➔ Trích thơ ➔ BPTT ➔ Giải mã nội dung ➔ Nâng tầm...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_doan_tho",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_th_bay",
+    "name": "Né bẫy ➔ Diễn xuôi thơ, bỏ qua các nhãn tự và nghệ thuật thể hiện...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_doan_tho",
+    "examples": null
+  },
+  {
+    "id": "van9_top_nlvh_nang_cao",
+    "name": "Nghị luận văn học nâng cao - Chinh phục điểm 9+",
+    "type": "TOPIC",
+    "parentId": "van9_cat_nlvh",
+    "examples": null
+  },
+  {
+    "id": "van9_les_nlvh_cau_hoi_la",
+    "name": "Xử lý câu hỏi phân hóa 9+: So sánh, liên hệ & Lý luận văn học",
+    "type": "LESSON",
+    "parentId": "van9_top_nlvh_nang_cao",
+    "examples": [
+      {
+        "id": "ex_nlvh_nc_1",
+        "question": "[Đề thi NLVH phân hóa 9+ - Vào 10]: Giải thích nhận định lý luận văn học và soi chiếu qua hình tượng nhân vật trong tác phẩm Ngữ văn 9 KNTT.",
+        "answer": "1. Nhận diện dạng đề & Từ khóa cốt lõi: Đề thi NLVH nâng cao phân hóa điểm 9+, từ khóa 'ý kiến lý luận văn học' (chức năng văn học, phong cách nhà văn, bản chất sáng tạo), 'so sánh hai nhân vật/tác phẩm'.\n2. Cảnh báo bẫy ngầm học sinh hay mắc: Bẫy viết hai bài phân tích tách rời mà không có đoạn tổng hợp so sánh chỉ ra điểm tương đồng (cùng đề tài, cùng cảm hứng) và điểm khác biệt (phong cách cá nhân, bối cảnh thời đại).\n3. Lập luận chi tiết từng bước từ cơ bản nhất:\n   - Bước 1 (Giải mã nhận định): Trích dẫn ý kiến ➔ Bóc tách từ khóa lý luận ➔ Khẳng định tính đúng đắn của nhận định.\n   - Bước 2 (Phân tích chứng minh): Soi chiếu nhận định qua Tác phẩm A (ngữ liệu 1) ➔ Soi chiếu qua Tác phẩm B (ngữ liệu 2).\n   - Bước 3 (Lập bảng so sánh / Đánh giá lý luận): Tổng hợp điểm chung và nét độc đáo riêng của từng tác giả ➔ Đánh giá đóng góp văn học.\n4. Đoạn văn mẫu ngắn gọn đạt chuẩn điểm 8+: Ý kiến lý luận văn học trên đã khẳng định một cách sâu sắc bản chất sáng tạo nghệ thuật: văn học chỉ sống mãi trong lòng người đọc khi phản ánh chân thực số phận con người và mang đậm dấu ấn phong cách cá nhân nhà văn. Qua việc phân tích hai nhân vật tiêu biểu, ta thấy rõ sự tương đồng ở lòng yêu thương con người và tinh thần nhân đạo cao cả. Tuy nhiên, mỗi nhà văn lại chọn cho mình một lối đi riêng: một bên miêu tả tâm lý qua bút pháp ước lệ cổ điển, một bên khắc họa nhân vật qua ngôn từ đời thường mộc mạc. Sự khác biệt ấy không làm phân mảng văn học mà ngược lại đã làm giàu có thêm cho vườn hoa nghệ thuật dân tộc...",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "van9_step_nlvh_nc_lt",
+    "name": "NLVH 9+ = So sánh 2 tác phẩm/nhân vật + Áp dụng nhận định lý luận văn học...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_cau_hoi_la",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_nc_pp",
+    "name": "Khung tư duy 3 bước ➔ Phân tích đối tượng 1 ➔ Phân tích đối tượng 2 ➔ Tương đồng & Khác biệt...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_cau_hoi_la",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_nc_tt",
+    "name": "Công thức Lý luận ➔ Trích nhận định ➔ Giải mã từ khóa ➔ Soi chiếu tác phẩm ➔ Đánh giá tầm vóc...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_cau_hoi_la",
+    "examples": null
+  },
+  {
+    "id": "van9_step_nlvh_nc_bay",
+    "name": "Né bẫy ➔ Triển khai hai bài văn song song không có điểm cắt so sánh và kết nối lý luận...",
+    "type": "STEP",
+    "parentId": "van9_les_nlvh_cau_hoi_la",
+    "examples": null
+  }
+]

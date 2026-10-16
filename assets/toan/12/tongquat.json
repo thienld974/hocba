@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "toan12_root",
+    "name": "Toán học 12 - Kết nối tri thức với cuộc sống",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "toan12_cat_daoham",
+    "name": "Ứng dụng đạo hàm khảo sát và vẽ đồ thị hàm số",
+    "type": "CATEGORY",
+    "parentId": "toan12_root",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_dondieu_cuctri",
+    "name": "Tính đơn điệu, cực trị và giá trị lớn nhất - nhỏ nhất",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_daoham",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_dondieu_cuctri",
+    "name": "Tìm khoảng đơn điệu và cực trị của hàm số",
+    "type": "LESSON",
+    "parentId": "toan12_top_dondieu_cuctri",
+    "examples": [
+      {
+        "id": "toan12_ex_dondieu_1",
+        "question": "[Tìm khoảng đơn điệu]: Cho hàm số $y = x^3 - 3x^2 + 2$. Tìm các khoảng đồng biến và nghịch biến của hàm số.",
+        "answer": "1. Nhận diện & Tránh bẫy: Hàm đa thức bậc 3 xác định trên $\\\\mathbb{R}$. Không bị vướng bẫy tập xác định.\\n2. Phương pháp: Tính $y'$, giải $y'=0$ và xét dấu $y'$.\\n3. Tính toán: $y' = 3x^2 - 6x = 3x(x - 2)$. $y' = 0 \\\\Leftrightarrow x = 0$ hoặc $x = 2$.\\nBảng biến thiên: $y' > 0$ trên $(-\\\\infty; 0)$ và $(2; +\\\\infty)$; $y' < 0$ trên $(0; 2)$.\\n4. Kết luận: Hàm số đồng biến trên $(-\\\\infty; 0)$ và $(2; +\\\\infty)$, nghịch biến trên $(0; 2)$.",
+        "mediaUrl": null
+      },
+      {
+        "id": "toan12_ex_cuctri_2",
+        "question": "[Cực trị hàm số]: Tìm các điểm cực trị của hàm số $y = x^4 - 2x^2 + 3$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Hàm trùng phương xác định trên $\\\\mathbb{R}$.\\n2. Phương pháp: Tìm các điểm $x_0$ tại đó $y'=0$ và $y'$ đổi dấu.\\n3. Tính toán: $y' = 4x^3 - 4x = 4x(x^2 - 1)$. $y'=0 \\\\Leftrightarrow x=0, x=1, x=-1$.\\nQua các điểm $x=-1, 0, 1$, $y'$ đều đổi dấu.\\n4. Kết luận: Hàm số đạt cực tiểu tại $x = -1$ và $x = 1$ ($y_{CT} = 2$); đạt cực đại tại $x = 0$ ($y_{CĐ} = 3$).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_dd_lythuyet",
+    "name": "Đơn điệu ➔ $y' \\ge 0, \\forall x \\in K$ và $y'=0$ tại hữu hạn điểm (đồng biến); $y' \\le 0, \\forall x \\in K$ và $y'=0$ tại hữu hạn điểm (nghịch biến)",
+    "type": "STEP",
+    "parentId": "toan12_les_dondieu_cuctri",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_ct_lythuyet",
+    "name": "Cực trị ➔ Hàm số $y=f(x)$ liên tục trên khoảng chứa $x_0$, có đạo hàm $f'(x)$ đổi dấu khi qua điểm $x_0$",
+    "type": "STEP",
+    "parentId": "toan12_les_dondieu_cuctri",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_dd_thuatton",
+    "name": "Thuật toán ➔ B1: TXĐ ➔ B2: Tính $y'$ ➔ B3: Giải $y'=0$ ➔ B4: Lập BBT & Kết luận",
+    "type": "STEP",
+    "parentId": "toan12_les_dondieu_cuctri",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_dd_bay",
+    "name": "Nhận diện bẫy ➔ Ký hiệu $(a;b) \\cup (c;d)$ là SAI ➔ Dùng từ 'và' hoặc dấu chấm phẩy",
+    "type": "STEP",
+    "parentId": "toan12_les_dondieu_cuctri",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_thamso_m",
+    "name": "Bài toán tìm tham số m để hàm số đơn điệu / đạt cực trị trên khoảng",
+    "type": "LESSON",
+    "parentId": "toan12_top_dondieu_cuctri",
+    "examples": [
+      {
+        "id": "toan12_ex_thamso_m_1",
+        "question": "[Tham số m đơn điệu]: Tìm $m$ để hàm số $y = \\\\frac{1}{3}x^3 - mx^2 + (m+2)x - 1$ đồng biến trên $\\\\mathbb{R}$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Yêu cầu $y' \\ge 0, \\forall x \\in \\mathbb{R}$ với hệ số $a = 1/3 > 0$.\n2. Phương pháp: Áp dụng định lý về dấu của tam thức bậc hai $y' \\ge 0, \\forall x \\in \\mathbb{R} \\iff \\Delta' \\le 0$.\n3. Tính toán: $y' = x^2 - 2mx + m + 2$. Ta có $\\Delta' = m^2 - m - 2$. Giải bất phương trình $m^2 - m - 2 \\le 0 \\iff -1 \\le m \\le 2$.\n4. Kết luận: Giá trị m cần tìm là $m \\in [-1; 2]$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_m_cbl",
+    "name": "Cô lập $m$ ➔ $m \\ge g(x) \\Leftrightarrow m \\ge \\max_{K} g(x)$; $m \\le g(x) \\Leftrightarrow m \\le \\min_{K} g(x)$",
+    "type": "STEP",
+    "parentId": "toan12_les_thamso_m",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_m_tamthuc",
+    "name": "Tam thức $ax^2+bx+c \\ge 0, \\forall x \\in \\mathbb{R} \\Leftrightarrow a>0$ và $\\Delta \\le 0$",
+    "type": "STEP",
+    "parentId": "toan12_les_thamso_m",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_m_bay",
+    "name": "Nhận diện bẫy ➔ Hàm phân thức $y=\\frac{ax+b}{cx+d}$ đồng biến ➔ $y' > 0$ (KHÔNG lấy dấu =)",
+    "type": "STEP",
+    "parentId": "toan12_les_thamso_m",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_gtln_gtnn",
+    "name": "Xác định giá trị lớn nhất và giá trị nhỏ nhất trên đoạn/khoảng",
+    "type": "LESSON",
+    "parentId": "toan12_top_dondieu_cuctri",
+    "examples": [
+      {
+        "id": "toan12_ex_minmax_1",
+        "question": "[GTLN-GTNN trên đoạn]: Tìm giá trị lớn nhất và giá trị nhỏ nhất của hàm số $f(x) = x^3 - 3x + 5$ trên đoạn $[0; 2]$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Hàm liên tục trên đoạn $[0; 2]$. Kiểm tra nghiệm $f'(x)=0$ phải nằm trong $[0; 2]$.\\n2. Phương pháp: Tính $f'(x)$, tìm nghiệm trên $(0;2)$, so sánh giá trị các đầu mút và các nghiệm.\\n3. Tính toán: $f'(x) = 3x^2 - 3 = 0 \\\\Leftrightarrow x = 1 \\\\in (0;2)$ ($x=-1 \\\\notin [0;2]$ bỏ).\\nTính $f(0) = 5, f(1) = 3, f(2) = 7$.\\n4. Kết luận: $\\\\max_{[0;2]} f(x) = 7$ (tại $x=2$), $\\\\min_{[0;2]} f(x) = 3$ (tại $x=1$).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_minmax_doan",
+    "name": "GTLN/GTNN trên $[a;b]$ ➔ $\\max f(x) = \\max\\{f(a), f(b), f(x_i)\\}$ với $f'(x_i)=0$",
+    "type": "STEP",
+    "parentId": "toan12_les_gtln_gtnn",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_minmax_khoang",
+    "name": "Trên khoảng $(a;b)$ ➔ Lập BBT tìm đỉnh duy nhất hoặc cực trị",
+    "type": "STEP",
+    "parentId": "toan12_les_gtln_gtnn",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_minmax_bay",
+    "name": "Nhận diện bẫy ➔ Tự ý lấy giá trị tại nghiệm $x_i \\notin [a;b]$",
+    "type": "STEP",
+    "parentId": "toan12_les_gtln_gtnn",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_tiemcan_khaosat",
+    "name": "Tiệm cận, khảo sát và nhận dạng đồ thị hàm số",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_daoham",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_tiemcan",
+    "name": "Xác định các đường tiệm cận (đứng, ngang, xiên) của đồ thị hàm số",
+    "type": "LESSON",
+    "parentId": "toan12_top_tiemcan_khaosat",
+    "examples": [
+      {
+        "id": "toan12_ex_tiemcan_1",
+        "question": "[Đường tiệm cận]: Tìm đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = \\\\frac{2x - 1}{x + 1}$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Hàm nhất biến. Mẫu bằng 0 tại $x = -1$ (tử khác 0).\\n2. Phương pháp: Tính giới hạn khi $x \\\\to \\\\pm \\\\infty$ và $x \\\\to -1^\\\\pm$.\\n3. Tính toán: $\\\\lim_{x \\\\to \\\\pm \\\\infty} y = 2 \\\\Rightarrow TCN: y = 2$.\\n$\\\\lim_{x \\\\to -1^+} y = -\\\\infty \\\\Rightarrow TCĐ: x = -1$.\\n4. Kết luận: TCN $y = 2$, TCĐ $x = -1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tcn",
+    "name": "TCN ➔ $y = y_0$ nếu $\\lim_{x \\to \\pm \\infty} f(x) = y_0$",
+    "type": "STEP",
+    "parentId": "toan12_les_tiemcan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tcd",
+    "name": "TCĐ ➔ $x = x_0$ nếu $\\lim_{x \\to x_0^\\pm} f(x) = \\pm \\infty$",
+    "type": "STEP",
+    "parentId": "toan12_les_tiemcan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tcx",
+    "name": "TCX ➔ $y = ax + b$ với $a = \\lim_{x \\to +\\infty} \\frac{f(x)}{x}$ (hoặc $-\\infty$) và $b = \\lim_{x \\to +\\infty} [f(x) - ax]$ (hoặc $-\\infty$)",
+    "type": "STEP",
+    "parentId": "toan12_les_tiemcan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tc_bay",
+    "name": "Nhận diện bẫy ➔ Nghiệm mẫu số trùng nghiệm tử số triệt tiêu ➔ Không là TCĐ",
+    "type": "STEP",
+    "parentId": "toan12_les_tiemcan",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_khaosat_dothi",
+    "name": "Khảo sát sự biến thiên và nhận dạng đồ thị các hàm số",
+    "type": "LESSON",
+    "parentId": "toan12_top_tiemcan_khaosat",
+    "examples": [
+      {
+        "id": "toan12_ex_nhandang_1",
+        "question": "[Nhận dạng đồ thị]: Xác định hệ số $a, b, c, d$ của hàm số $y = ax^3 + bx^2 + cx + d$ có đồ thị giao $Oy$ tại $(0;1)$ và nét cuối đi lên.",
+        "answer": "1. Nhận diện & Tránh bẫy: Điểm giao $Oy$ cho $d$. Nét cuối đi lên cho dấu của $a$.\\n2. Phương pháp: Cho $x=0 \\\\Rightarrow y = d = 1$. $\\\\lim_{x \\\\to +\\\\infty} y = +\\\\infty \\\\Rightarrow a > 0$.\\n3. Tính toán: $d = 1$, $a > 0$.\\n4. Kết luận: $a > 0$ và $d = 1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_ks_bac3",
+    "name": "Hàm bậc 3 $y=ax^3+bx^2+cx+d$ ➔ $a>0$ nét cuối đi lên; $d$ là giao $Oy$",
+    "type": "STEP",
+    "parentId": "toan12_les_khaosat_dothi",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_ks_nhatbien",
+    "name": "Hàm $y=\\frac{ax+b}{cx+d}$ ➔ Tâm đối xứng $I\\left(-\\frac{d}{c}; \\frac{a}{c}\\right)$",
+    "type": "STEP",
+    "parentId": "toan12_les_khaosat_dothi",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_ks_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm đồ thị $y=f'(x)$ thành đồ thị $y=f(x)$",
+    "type": "STEP",
+    "parentId": "toan12_les_khaosat_dothi",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_bienluan_nghiem",
+    "name": "Biện luận số nghiệm của phương trình bằng phương pháp đồ thị và BBT",
+    "type": "LESSON",
+    "parentId": "toan12_top_tiemcan_khaosat",
+    "examples": [
+      {
+        "id": "toan12_ex_bienluan_1",
+        "question": "[Biện luận nghiệm]: Cho hàm số $y=f(x)$ có BBT với $y_{CĐ} = 3, y_{CT} = -1$. Biện luận số nghiệm của $f(x) = m$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Số nghiệm bằng số giao điểm giữa đường thẳng $y=m$ nằm ngang và đồ thị $y=f(x)$.\\n2. Phương pháp: Tịnh tiến đường thẳng $y=m$ theo trục tung.\\n3. Tính toán: $m > 3$ hoặc $m < -1 \\\\Rightarrow 1$ nghiệm; $m = 3$ hoặc $m = -1 \\\\Rightarrow 2$ nghiệm; $-1 < m < 3 \\\\Rightarrow 3$ nghiệm.\\n4. Kết luận: Căn cứ bảng giao điểm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_bl_lythuyet",
+    "name": "Số nghiệm $f(x) = m$ ➔ Số giao điểm đồ thị $y=f(x)$ & đường nằm ngang $y=m$",
+    "type": "STEP",
+    "parentId": "toan12_les_bienluan_nghiem",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_bl_thuattoan",
+    "name": "Quy tắc ➔ Cô lập $f(x) = g(m)$ ➔ Đọc số giao điểm từ BBT/Đồ thị $y=f(x)$",
+    "type": "STEP",
+    "parentId": "toan12_les_bienluan_nghiem",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_bl_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm lẫn giá trị $x$ cực trị và giá trị $y$ cực trị",
+    "type": "STEP",
+    "parentId": "toan12_les_bienluan_nghiem",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_toiuu_thucte",
+    "name": "Mô hình hóa toán học và bài toán tối ưu hóa thực tiễn",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_daoham",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_toiuu_kinhte",
+    "name": "Bài toán tối ưu hóa kinh tế (chi phí biên, doanh thu, lợi nhuận cực đại)",
+    "type": "LESSON",
+    "parentId": "toan12_top_toiuu_thucte",
+    "examples": [
+      {
+        "id": "toan12_ex_kinhte_1",
+        "question": "[Tối ưu kinh tế]: Lợi nhuận bán $x$ sản phẩm là $L(x) = -x^2 + 100x - 1200$ (triệu đồng). Tìm $x$ để lợi nhuận cực đại.",
+        "answer": "1. Nhận diện & Tránh bẫy: Biến $x > 0$. Cần tìm $\\\\max L(x)$.\\n2. Phương pháp: Tìm cực đại của hàm parabol hoặc tính $L'(x) = 0$.\\n3. Tính toán: $L'(x) = -2x + 100 = 0 \\\\Leftrightarrow x = 50$.\\n$L''(50) = -2 < 0 \\\\Rightarrow x=50$ là điểm cực đại.\\n4. Kết luận: Bán 50 sản phẩm để đạt lợi nhuận tối đa 1300 triệu đồng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tuk_lythuyet",
+    "name": "Lợi nhuận $L(x) = R(x) - C(x)$ ➔ Lợi nhuận cực đại tại $L'(x) = 0$",
+    "type": "STEP",
+    "parentId": "toan12_les_toiuu_kinhte",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tuk_thuatton",
+    "name": "Quy tắc ➔ Lập hàm 1 biến $f(x)$ ➔ Xác định miền thực tế $D$ ➔ Tìm $\\max/\\min f(x)$",
+    "type": "STEP",
+    "parentId": "toan12_les_toiuu_kinhte",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tuk_bay",
+    "name": "Nhận diện bẫy ➔ Biến số $x$ không nguyên hoặc nằm ngoài điều kiện thực tế",
+    "type": "STEP",
+    "parentId": "toan12_les_toiuu_kinhte",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_toiuu_hinhhoc",
+    "name": "Bài toán tối ưu hóa hình học, vận tốc - gia tốc và chuyển động vật lý",
+    "type": "LESSON",
+    "parentId": "toan12_top_toiuu_thucte",
+    "examples": [
+      {
+        "id": "toan12_ex_toiuu_hinh_1",
+        "question": "[Tối ưu hình học]: Một tấm tôn hình vuông cạnh $12$ cm được cắt 4 góc 4 hình vuông cạnh $x$ để gập thành hộp không nắp. Tìm $x$ để thể tích $V$ lớn nhất.",
+        "answer": "1. Nhận diện & Tránh bẫy: Đáy hộp là hình vuông cạnh $12 - 2x$, chiều cao $x$. Điều kiện $0 < x < 6$.\\n2. Phương pháp: Lập hàm $V(x) = x(12 - 2x)^2$, tìm $\\\\max V(x)$ trên $(0; 6)$.\\n3. Tính toán: $V(x) = 4x^3 - 48x^2 + 144x$.\\n$V'(x) = 12x^2 - 96x + 144 = 0 \\iff x = 2$ hoặc $x = 6$ (bỏ).\\nGiá trị cực đại: $V(2) = 2 \\cdot (12 - 4)^2 = 2 \\cdot 64 = 128\\text{ cm}^3$.\\n4. Kết luận: $x = 2$ cm cho thể tích tối đa $128$ $\\\\text{cm}^3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_vatly_chuyendong",
+    "name": "Vật lý ➔ $v(t) = s'(t)$; $a(t) = v'(t) = s''(t)$",
+    "type": "STEP",
+    "parentId": "toan12_les_toiuu_hinhhoc",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_hinh_thetich",
+    "name": "Hình học ➔ Biểu diễn đại lượng cần tối ưu theo 1 biến $x$ ➔ Khảo sát đạo hàm",
+    "type": "STEP",
+    "parentId": "toan12_les_toiuu_hinhhoc",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_hinh_bay",
+    "name": "Nhận diện bẫy ➔ Quên điều kiện biên của hình học $0 < x < L/2$",
+    "type": "STEP",
+    "parentId": "toan12_les_toiuu_hinhhoc",
+    "examples": null
+  },
+  {
+    "id": "toan12_cat_vecto_ooxyz",
+    "name": "Vectơ và Hệ tọa độ Oxyz cơ bản trong không gian",
+    "type": "CATEGORY",
+    "parentId": "toan12_root",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_vecto_khonggian",
+    "name": "Vectơ và các phép toán vectơ trong không gian",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_vecto_ooxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_pheptoan_vecto",
+    "name": "Tính tổng, hiệu, tích vectơ với một số và phân tích vectơ trong không gian",
+    "type": "LESSON",
+    "parentId": "toan12_top_vecto_khonggian",
+    "examples": [
+      {
+        "id": "toan12_ex_vecto_1",
+        "question": "[Quy tắc hình hộp]: Cho hình hộp $ABCD.A'B'C'D'$. Biểu diễn vectơ $\\\\vec{AC'}$ theo $\\\\vec{AB}, \\\\vec{AD}, \\\\vec{AA'}$.",
+        "answer": "1. Nhận diện & Tránh bẫy: $\\\\vec{AC'}$ là đường chéo xuất phát từ đỉnh $A$.\\n2. Phương pháp: Áp dụng quy tắc hình hộp trong không gian.\\n3. Tính toán: $\\\\vec{AC'} = \\\\vec{AB} + \\\\vec{AD} + \\\\vec{AA'}$.\\n4. Kết luận: $\\\\vec{AC'} = \\\\vec{AB} + \\\\vec{AD} + \\\\vec{AA'}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_vt_3diem",
+    "name": "Quy tắc 3 điểm ➔ $\\vec{AB} + \\vec{BC} = \\vec{AC}$; Hiệu ➔ $\\vec{OB} - \\vec{OA} = \\vec{AB}$",
+    "type": "STEP",
+    "parentId": "toan12_les_pheptoan_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_vt_hinhhop",
+    "name": "Quy tắc hình hộp ➔ $\\vec{AB} + \\vec{AD} + \\vec{AA'} = \\vec{AC'}$",
+    "type": "STEP",
+    "parentId": "toan12_les_pheptoan_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_vt_bay",
+    "name": "Nhận diện bẫy ➔ Viết sai chiều vectơ trong quy tắc hiệu ➔ $\\vec{OA} - \\vec{OB} = \\vec{BA}$ (sai nếu viết thành $\\vec{AB}$)",
+    "type": "STEP",
+    "parentId": "toan12_les_pheptoan_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_tichvohuong",
+    "name": "Tích vô hướng của hai vectơ và ứng dụng tính góc, độ dài đoạn thẳng",
+    "type": "LESSON",
+    "parentId": "toan12_top_vecto_khonggian",
+    "examples": [
+      {
+        "id": "toan12_ex_tvh_1",
+        "question": "[Tích vô hướng]: Cho hai vectơ $\\\\vec{u}, \\\\vec{v}$ có $|\\\\vec{u}| = 2, |\\\\vec{v}| = 3$ và $(\\\\vec{u}, \\\\vec{v}) = 60^\\\\circ$. Tính $\\\\vec{u} \\\\cdot \\\\vec{v}$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức tích vô hướng bằng tích độ dài nhân $\\\\cos$ góc giữa chúng.\\n2. Phương pháp: $\\\\vec{u} \\\\cdot \\\\vec{v} = |\\\\vec{u}| \\\\cdot |\\\\vec{v}| \\\\cdot \\\\cos(\\\\vec{u}, \\\\vec{v})$.\\n3. Tính toán: $\\\\vec{u} \\\\cdot \\\\vec{v} = 2 \\\\cdot 3 \\\\cdot \\\\cos 60^\\\\circ = 6 \\\\cdot 0.5 = 3$.\\n4. Kết luận: $\\\\vec{u} \\\\cdot \\\\vec{v} = 3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tvh_congthuc",
+    "name": "Tích vô hướng ➔ $\\vec{u} \\cdot \\vec{v} = |\\vec{u}| \\cdot |\\vec{v}| \\cdot \\cos(\\vec{u}, \\vec{v})$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichvohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tvh_goc",
+    "name": "Góc ➔ $\\cos(\\vec{u}, \\vec{v}) = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{u}| \\cdot |\\vec{v}|}$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichvohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tvh_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm $\\cos 120^\\\\circ = -0.5$ thành $+0.5$ khi góc tù",
+    "type": "STEP",
+    "parentId": "toan12_les_tichvohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_toado_ooxyz",
+    "name": "Tọa độ điểm, vectơ và phép toán trong hệ tọa độ Oxyz",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_vecto_ooxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_toado_diem_vecto",
+    "name": "Xác định tọa độ điểm, vectơ và độ dài đoạn thẳng trong không gian Oxyz",
+    "type": "LESSON",
+    "parentId": "toan12_top_toado_ooxyz",
+    "examples": [
+      {
+        "id": "toan12_ex_toado_1",
+        "question": "[Tọa độ đoạn thẳng]: Cho $A(1; 2; -1)$ và $B(3; 0; 3)$. Tìm tọa độ trung điểm $M$ và độ dài đoạn $AB$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Điểm $A, B$ trong Oxyz.\n2. Phương pháp: Trung điểm $M = \\left(\\frac{x_A+x_B}{2}; \\frac{y_A+y_B}{2}; \\frac{z_A+z_B}{2}\\right)$; độ dài $AB = |\\vec{AB}| = \\sqrt{(x_B-x_A)^2 + (y_B-y_A)^2 + (z_B-z_A)^2}$.\n3. Tính toán: $M = \\left(\\frac{1+3}{2}; \\frac{2+0}{2}; \\frac{-1+3}{2}\\right) = (2; 1; 1)$.\nTọa độ $\\vec{AB} = (2; -2; 4) \\Rightarrow AB = \\sqrt{2^2 + (-2)^2 + 4^2} = \\sqrt{24} = 2\\sqrt{6}$.\n4. Kết luận: $M(2;1;1)$ và $AB = 2\\sqrt{6}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_td_vecto",
+    "name": "Vectơ ➔ $\\vec{AB} = (x_B-x_A; y_B-y_A; z_B-z_A)$",
+    "type": "STEP",
+    "parentId": "toan12_les_toado_diem_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_td_dodai",
+    "name": "Độ dài ➔ $AB = |\\vec{AB}| = \\sqrt{(x_B-x_A)^2 + (y_B-y_A)^2 + (z_B-z_A)^2}$",
+    "type": "STEP",
+    "parentId": "toan12_les_toado_diem_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_td_trungdiem",
+    "name": "Trung điểm & Trọng tâm ➔ $M = \\frac{A+B}{2}$; $G = \\frac{A+B+C}{3}$",
+    "type": "STEP",
+    "parentId": "toan12_les_toado_diem_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_td_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm thứ tự tọa độ $x_A - x_B$ dẫn đến vectơ ngược hướng",
+    "type": "STEP",
+    "parentId": "toan12_les_toado_diem_vecto",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_tichcohuong",
+    "name": "Biểu thức tọa độ của các phép toán vectơ, tích vô hướng và tích có hướng",
+    "type": "LESSON",
+    "parentId": "toan12_top_toado_ooxyz",
+    "examples": [
+      {
+        "id": "toan12_ex_tichcohuong_1",
+        "question": "[Tích có hướng]: Tính $[\\\\vec{u}, \\\\vec{v}]$ biết $\\\\vec{u} = (1; 2; 3)$ và $\\\\vec{v} = (2; -1; 0)$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Tích có hướng của hai vectơ $[\\vec{u}, \\vec{v}]$ là một vectơ vuông góc với cả $\\vec{u}$ và $\\vec{v}$.\n2. Phương pháp: Sử dụng định thức 2x2 cho từng tọa độ $(y_1 z_2 - z_1 y_2; z_1 x_2 - x_1 z_2; x_1 y_2 - y_1 x_2)$.\n3. Tính toán: $x = 2(0) - 3(-1) = 3$; $y = 3(2) - 1(0) = 6$; $z = 1(-1) - 2(2) = -5$.\n4. Kết luận: $[\\vec{u}, \\vec{v}] = (3; 6; -5)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tch_congthuc",
+    "name": "Tích có hướng ➔ $[\\vec{u}, \\vec{v}] = (y_1 z_2 - z_1 y_2; z_1 x_2 - x_1 z_2; x_1 y_2 - y_1 x_2)$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichcohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tch_dtich",
+    "name": "Diện tích tam giác ➔ $S_{\\Delta ABC} = \\frac{1}{2} |[\\vec{AB}, \\vec{AC}]|$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichcohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tch_thetich",
+    "name": "Thể tích tứ diện ➔ $V_{ABCD} = \\frac{1}{6} |[\\vec{AB}, \\vec{AC}] \\cdot \\vec{AD}|$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichcohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tch_bay",
+    "name": "Nhận diện bẫy ➔ Tính sai dấu ở tọa độ $y$ trong công thức định thức",
+    "type": "STEP",
+    "parentId": "toan12_les_tichcohuong",
+    "examples": null
+  },
+  {
+    "id": "toan12_cat_oxyz_nangcao",
+    "name": "Phương pháp tọa độ Oxyz nâng cao: Mặt phẳng, Đường thẳng, Mặt cầu",
+    "type": "CATEGORY",
+    "parentId": "toan12_root",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_matphang_matcau",
+    "name": "Phương trình mặt phẳng và mặt cầu trong không gian Oxyz",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_oxyz_nangcao",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_matphang",
+    "name": "Lập phương trình mặt phẳng và tính khoảng cách từ điểm đến mặt phẳng",
+    "type": "LESSON",
+    "parentId": "toan12_top_matphang_matcau",
+    "examples": [
+      {
+        "id": "toan12_ex_matphang_1",
+        "question": "[Lập PT mặt phẳng]: Lập phương trình mặt phẳng $(P)$ đi qua $A(1; 0; -2)$ và có VTPT $\\\\vec{n} = (2; -1; 3)$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Điểm $A(x_0;y_0;z_0)$ và VTPT $\\\\vec{n}=(A;B;C)$.\\n2. Phương pháp: $A(x-x_0) + B(y-y_0) + C(z-z_0) = 0$.\\n3. Tính toán: $2(x-1) - 1(y-0) + 3(z+2) = 0 \\\\Leftrightarrow 2x - y + 3z + 4 = 0$.\\n4. Kết luận: $(P): 2x - y + 3z + 4 = 0$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_mp_pt",
+    "name": "PT Mặt phẳng ➔ $A(x-x_0) + B(y-y_0) + C(z-z_0) = 0$ với VTPT $\\vec{n}=(A;B;C)$",
+    "type": "STEP",
+    "parentId": "toan12_les_matphang",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_mp_kc",
+    "name": "Khoảng cách ➔ $d(M_0, (P)) = \\frac{|Ax_0 + By_0 + Cz_0 + D|}{\\sqrt{A^2 + B^2 + C^2}}$",
+    "type": "STEP",
+    "parentId": "toan12_les_matphang",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_mp_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm lẫn giữa vectơ chỉ phương và vectơ pháp tuyến (Mặt phẳng có cặp VTCP $\\vec{u}, \\vec{v}$ thì VTPT $\\vec{n} = [\\vec{u}, \\vec{v}]$)",
+    "type": "STEP",
+    "parentId": "toan12_les_matphang",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_matcau",
+    "name": "Lập phương trình mặt cầu, xác định tâm, bán kính và vị trí tương đối",
+    "type": "LESSON",
+    "parentId": "toan12_top_matphang_matcau",
+    "examples": [
+      {
+        "id": "toan12_ex_matcau_1",
+        "question": "[Tâm và Bán kính mặt cầu]: Xác định tâm $I$ và bán kính $R$ của mặt cầu $(S): x^2 + y^2 + z^2 - 2x + 4y - 6z - 2 = 0$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Dạng tổng quát $x^2+y^2+z^2 - 2ax - 2by - 2cz + d = 0$.\\n2. Phương pháp: Tâm $I(a; b; c)$, bán kính $R = \\\\sqrt{a^2 + b^2 + c^2 - d}$.\\n3. Tính toán: $a = 1, b = -2, c = 3, d = -2$.\\n$R = \\\\sqrt{1^2 + (-2)^2 + 3^2 - (-2)} = \\\\sqrt{1 + 4 + 9 + 2} = \\\\sqrt{16} = 4$.\\n4. Kết luận: Tâm $I(1; -2; 3)$ và bán kính $R = 4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_mc_ptchuan",
+    "name": "PT Chuẩn ➔ $(x-a)^2 + (y-b)^2 + (z-c)^2 = R^2$ ➔ Tâm $I(a;b;c)$, Bán kính $R$",
+    "type": "STEP",
+    "parentId": "toan12_les_matcau",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_mc_ptkhai_trien",
+    "name": "PT Khai triển ➔ $x^2+y^2+z^2-2ax-2by-2cz+d=0$ với điều kiện $a^2+b^2+c^2-d > 0$ để bán kính $R = \\sqrt{a^2+b^2+c^2-d}$",
+    "type": "STEP",
+    "parentId": "toan12_les_matcau",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_mc_bay",
+    "name": "Nhận diện bẫy ➔ Chưa chia hệ số khi phương trình có $2x^2+2y^2+2z^2...$",
+    "type": "STEP",
+    "parentId": "toan12_les_matcau",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_duongthang_vitri",
+    "name": "Phương trình đường thẳng và vị trí tương đối",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_oxyz_nangcao",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_duongthang",
+    "name": "Lập phương trình tham số, chính tắc của đường thẳng",
+    "type": "LESSON",
+    "parentId": "toan12_top_duongthang_vitri",
+    "examples": [
+      {
+        "id": "toan12_ex_duongthang_1",
+        "question": "[PT Đường thẳng]: Lập phương trình tham số của đường thẳng $d$ đi qua $A(1; 2; 3)$ và có VTCP $\\\\vec{u} = (-1; 3; 2)$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Qua $A(x_0;y_0;z_0)$ với VTCP $\\\\vec{u}=(a;b;c)$.\\n2. Phương pháp: $x = x_0 + at, y = y_0 + bt, z = z_0 + ct$.\\n3. Tính toán: $x = 1 - t, y = 2 + 3t, z = 3 + 2t$ ($t \\\\in \\\\mathbb{R}$).\\n4. Kết luận: $d: \\\\begin{cases} x = 1 - t \\\\ y = 2 + 3t \\\\ z = 3 + 2t \\\\end{cases}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_dt_ptts",
+    "name": "PTTS ➔ $x=x_0+at, y=y_0+bt, z=z_0+ct$ ($t \\in \\mathbb{R}$)",
+    "type": "STEP",
+    "parentId": "toan12_les_duongthang",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_dt_ptct",
+    "name": "PTCT ➔ $\\frac{x-x_0}{a} = \\frac{y-y_0}{b} = \\frac{z-z_0}{c}$ ($a,b,c \\neq 0$)",
+    "type": "STEP",
+    "parentId": "toan12_les_duongthang",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_dt_bay",
+    "name": "Nhận diện bẫy ➔ Khi 1 hoành/tung/cao độ VTCP bằng 0 ➔ Không viết được PT chính tắc",
+    "type": "STEP",
+    "parentId": "toan12_les_duongthang",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_vitri_tuongdoi",
+    "name": "Xét vị trí tương đối giữa hai đường thẳng, giữa đường thẳng và mặt phẳng",
+    "type": "LESSON",
+    "parentId": "toan12_top_duongthang_vitri",
+    "examples": [
+      {
+        "id": "toan12_ex_vttd_1",
+        "question": "[Vị trí tương đối]: Xét vị trí tương đối giữa đường thẳng $d: \\\\frac{x-1}{1} = \\\\frac{y}{2} = \\\\frac{z+1}{-1}$ và mặt phẳng $(P): x + 2y - z + 3 = 0$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Đường thẳng $d$ có VTCP $\\vec{u}=(1; 2; -1)$, mặt phẳng $(P)$ có VTPT $\\vec{n}=(1; 2; -1)$. Nhận diện mối quan hệ giữa hai vectơ để kết luận tính vuông góc.\n2. Phương pháp: Xét $\\vec{u} \\cdot \\vec{n}$ và chọn 1 điểm $M \\in d$ thay vào $(P)$.\n3. Tính toán: Ta thấy $\\vec{u} = \\vec{n} = (1; 2; -1) \\Rightarrow \\vec{u}$ cùng phương với $\\vec{n} \\Rightarrow d \\perp (P)$.\n4. Kết luận: Đường thẳng $d$ vuông góc với mặt phẳng $(P)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_vttd_dt_mp",
+    "name": "Đường thẳng và Mặt phẳng ➔ $\\vec{u} \\cdot \\vec{n} = 0 \\Rightarrow d \\parallel (P)$ hoặc $d \\subset (P)$; $\\vec{u}$ cùng phương $\\vec{n} \\Rightarrow d \\perp (P)$",
+    "type": "STEP",
+    "parentId": "toan12_les_vitri_tuongdoi",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_vttd_dt_dt",
+    "name": "Hai đường ➔ Cùng phương: Song song / Trùng nhau; Khác phương: Cắt nhau / Chéo nhau",
+    "type": "STEP",
+    "parentId": "toan12_les_vitri_tuongdoi",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_vttd_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm lẫn giữa hai đường vuông góc và hai đường chéo nhau",
+    "type": "STEP",
+    "parentId": "toan12_les_vitri_tuongdoi",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_goc_cuctri_oxyz",
+    "name": "Công thức tính góc và cực trị hình học Oxyz",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_oxyz_nangcao",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_goc_oxyz",
+    "name": "Tính góc giữa hai đường thẳng, đường thẳng với mặt phẳng và giữa hai mặt phẳng",
+    "type": "LESSON",
+    "parentId": "toan12_top_goc_cuctri_oxyz",
+    "examples": [
+      {
+        "id": "toan12_ex_goc_1",
+        "question": "[Góc giữa đường và mặt]: Tính góc $\\\\varphi$ giữa đường thẳng $d$ có VTCP $\\\\vec{u}=(1; 0; 1)$ và mặt phẳng $(P)$ có VTPT $\\\\vec{n}=(0; 1; 1)$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức dùng $\\\\sin \\\\varphi$ (chứ không phải $\\\\cos$).\\n2. Phương pháp: $\\\\sin \\\\varphi = \\\\frac{|\\\\vec{u} \\\\cdot \\\\vec{n}|}{|\\\\vec{u}| \\\\cdot |\\\\vec{n}|}$.\\n3. Tính toán: $\\\\vec{u} \\\\cdot \\\\vec{n} = 1(0) + 0(1) + 1(1) = 1$.\\n$|\\\\vec{u}| = \\\\sqrt{2}, |\\\\vec{n}| = \\\\sqrt{2} \\\\Rightarrow \\\\sin \\\\varphi = \\\\frac{1}{\\\\sqrt{2} \\\\cdot \\\\sqrt{2}} = \\\\frac{1}{2}$.\\n4. Kết luận: $\\\\varphi = 30^\\\\circ$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_goc_dt_dt",
+    "name": "Góc 2 đường ➔ $\\cos(d_1, d_2) = \\frac{|\\vec{u}_1 \\cdot \\vec{u}_2|}{|\\vec{u}_1| \\cdot |\\vec{u}_2|}$",
+    "type": "STEP",
+    "parentId": "toan12_les_goc_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_goc_dt_mp",
+    "name": "Góc đường & mặt ➔ $\\sin(d, (P)) = \\frac{|\\vec{u} \\cdot \\vec{n}|}{|\\vec{u}| \\cdot |\\vec{n}|}$",
+    "type": "STEP",
+    "parentId": "toan12_les_goc_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_goc_mp_mp",
+    "name": "Góc 2 mặt ➔ $\\cos((P), (Q)) = \\frac{|\\vec{n}_1 \\cdot \\vec{n}_2|}{|\\vec{n}_1| \\cdot |\\vec{n}_2|}$",
+    "type": "STEP",
+    "parentId": "toan12_les_goc_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_goc_bay",
+    "name": "Nhận diện bẫy ➔ Dùng nhầm hàm $\\cos$ cho góc giữa đường thẳng và mặt phẳng",
+    "type": "STEP",
+    "parentId": "toan12_les_goc_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_cuctri_oxyz",
+    "name": "Bài toán cực trị hình học Oxyz và mô hình tọa độ thực tế",
+    "type": "LESSON",
+    "parentId": "toan12_top_goc_cuctri_oxyz",
+    "examples": [
+      {
+        "id": "toan12_ex_cuctri_oxyz_1",
+        "question": "[Cực trị Oxyz]: Cho $A(1;2;3)$ và mặt phẳng $(P): x + y + z - 1 = 0$. Tìm điểm $M \\\\in (P)$ sao cho $AM$ ngắn nhất.",
+        "answer": "1. Nhận diện & Tránh bẫy: $AM$ ngắn nhất khi $M$ là hình chiếu vuông góc của $A$ lên $(P)$.\\n2. Phương pháp: Lập đường thẳng $\\\\Delta$ qua $A$ vuông góc với $(P)$, tìm giao điểm $M = \\\\Delta \\\\cap (P)$.\\n3. Tính toán: $\\\\Delta: x = 1+t, y = 2+t, z = 3+t$.\\nThay vào $(P)$: $(1+t) + (2+t) + (3+t) - 1 = 0 \\\\Leftrightarrow 3t + 5 = 0 \\\\Leftrightarrow t = -5/3$.\\n$M\\\\left(-\\\\frac{2}{3}; \\\\frac{1}{3}; \\\\frac{4}{3}\\\\right)$.\\n4. Kết luận: $M\\\\left(-\\\\frac{2}{3}; \\\\frac{1}{3}; \\\\frac{4}{3}\\\\right)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_ct_hinchieu",
+    "name": "Khoảng cách ngắn nhất ➔ $M$ là hình chiếu vuông góc lên mặt phẳng/đường thẳng",
+    "type": "STEP",
+    "parentId": "toan12_les_cuctri_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_ct_tamxuyentam",
+    "name": "Mặt cầu & Đường thẳng ➔ Cực trị khoảng cách dùng đường thẳng qua tâm $I$",
+    "type": "STEP",
+    "parentId": "toan12_les_cuctri_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_ct_bay",
+    "name": "Nhận diện bẫy ➔ Tính sai tham số $t$ khi giải phương trình giao điểm",
+    "type": "STEP",
+    "parentId": "toan12_les_cuctri_oxyz",
+    "examples": null
+  },
+  {
+    "id": "toan12_cat_nguyenham_tichphan",
+    "name": "Nguyên hàm và Tích phân",
+    "type": "CATEGORY",
+    "parentId": "toan12_root",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_nguyenham",
+    "name": "Nguyên hàm và phương pháp tính nguyên hàm",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_nguyenham_tichphan",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_nguyenham_coban",
+    "name": "Tìm nguyên hàm bằng bảng nguyên hàm cơ bản và tính chất tuyến tính",
+    "type": "LESSON",
+    "parentId": "toan12_top_nguyenham",
+    "examples": [
+      {
+        "id": "toan12_ex_nguyenham_1",
+        "question": "[Nguyên hàm cơ bản]: Tìm họ nguyên hàm $F(x) = \\\\int (3x^2 - 2x + e^x) dx$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Áp dụng bảng nguyên hàm các hàm số cơ bản.\\n2. Phương pháp: $\\\\int (f \\\\pm g)dx = \\\\int f dx \\\\pm \\\\int g dx$.\\n3. Tính toán: $\\\\int 3x^2 dx = x^3$, $\\\\int 2x dx = x^2$, $\\\\int e^x dx = e^x$.\\n4. Kết luận: $F(x) = x^3 - x^2 + e^x + C$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_nh_dinhnghia",
+    "name": "Định nghĩa ➔ $\\int f(x)dx = F(x) + C$ với $F'(x) = f(x)$",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_coban",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nh_luythua",
+    "name": "Lũy thừa ➔ $\\int x^n dx = \\frac{x^{n+1}}{n+1} + C$ ($n \\neq -1$); $\\int \\frac{1}{x}dx = \\ln|x| + C$",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_coban",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nh_mu_luong",
+    "name": "Mũ & Lượng giác ➔ $\\int e^x dx = e^x + C$; $\\int \\cos x dx = \\sin x + C$; $\\int \\sin x dx = -\\cos x + C$",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_coban",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nh_bay",
+    "name": "Nhận diện bẫy ➔ Quên dấu trị tuyệt đối khi lấy nguyên hàm $\\int \\frac{1}{x}dx = \\ln|x| + C$",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_coban",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_nguyenham_phuongphap",
+    "name": "Biến đổi tính nguyên hàm bằng phương pháp đổi biến số và tích phân từng phần",
+    "type": "LESSON",
+    "parentId": "toan12_top_nguyenham",
+    "examples": [
+      {
+        "id": "toan12_ex_nh_doibien_1",
+        "question": "[Đổi biến nguyên hàm]: Tìm $I = \\\\int 2x(x^2 + 1)^3 dx$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Xuất hiện $x^2+1$ và đạo hàm của nó là $2x$.\\n2. Phương pháp: Đặt $t = x^2 + 1 \\\\Rightarrow dt = 2x dx$.\\n3. Tính toán: $I = \\\\int t^3 dt = \\\\frac{t^4}{4} + C = \\\\frac{(x^2 + 1)^4}{4} + C$.\\n4. Kết luận: $I = \\\\frac{(x^2 + 1)^4}{4} + C$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_nh_doibien_formula",
+    "name": "Đổi biến ➔ Đặt $t = u(x) \\Rightarrow dt = u'(x)dx \\Rightarrow \\int f(u(x))u'(x)dx = \\int f(t)dt$",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nh_tungphan_formula",
+    "name": "Từng phần ➔ $\\int u dv = uv - \\int v du$ (Thứ tự chọn $u$: Nhất lô, nhì đa, tam lượng, tứ mũ)",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nh_pp_bay",
+    "name": "Nhận diện bẫy ➔ Quên đổi lại biến $x$ ban đầu sau khi lấy nguyên hàm theo $t$",
+    "type": "STEP",
+    "parentId": "toan12_les_nguyenham_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_tichphan",
+    "name": "Tích phân và phương pháp tính tích phân",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_nguyenham_tichphan",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_tichphan_xacdinh",
+    "name": "Tính tích phân bằng định nghĩa, bảng nguyên hàm và tính chất",
+    "type": "LESSON",
+    "parentId": "toan12_top_tichphan",
+    "examples": [
+      {
+        "id": "toan12_ex_tichphan_1",
+        "question": "[Tích phân xác định]: Tính $I = \\\\int_{0}^{1} (x^2 + 1) dx$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức Newton-Leibniz $\\\\int_{a}^{b} f(x)dx = F(b) - F(a)$.\\n2. Phương pháp: Tìm nguyên hàm $F(x)$ rồi thế cận.\\n3. Tính toán: $F(x) = \\\\frac{x^3}{3} + x$.\\n$I = F(1) - F(0) = \\\\left(\\\\frac{1}{3} + 1\\\\right) - (0) = \\\\frac{4}{3}$.\\n4. Kết luận: $I = \\\\frac{4}{3}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tp_newton",
+    "name": "Newton-Leibniz ➔ $\\int_{a}^{b} f(x)dx = F(b) - F(a) = F(x)\\Big|_a^b$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichphan_xacdinh",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tp_tinhchat",
+    "name": "Tính chất ➔ $\\int_{a}^{b} = \\int_{a}^{c} + \\int_{c}^{b}$; $\\int_{a}^{b} = -\\int_{b}^{a}$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichphan_xacdinh",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tp_bay_1",
+    "name": "Nhận diện bẫy ➔ Trừ sai thứ tự $F(a) - F(b)$ thay vì $F(b) - F(a)$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichphan_xacdinh",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_tichphan_phuongphap",
+    "name": "Tính tích phân bằng phương pháp đổi biến số và tích phân từng phần",
+    "type": "LESSON",
+    "parentId": "toan12_top_tichphan",
+    "examples": [
+      {
+        "id": "toan12_ex_tp_doibien_1",
+        "question": "[Đổi biến tích phân]: Tính $I = \\\\int_{0}^{\\\\sqrt{3}} x \\\\sqrt{x^2 + 1} dx$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Đổi biến $t = \\\\sqrt{x^2 + 1} \\\\Rightarrow$ BẮT BUỘC đổi cận.\\n2. Phương pháp: $t^2 = x^2 + 1 \\\\Rightarrow t dt = x dx$.\\nĐổi cận: $x = 0 \\\\Rightarrow t = 1$; $x = \\\\sqrt{3} \\\\Rightarrow t = 2$.\\n3. Tính toán: $I = \\\\int_{1}^{2} t \\\\cdot t dt = \\\\int_{1}^{2} t^2 dt = \\\\frac{t^3}{3}\\\\Big|_1^2 = \\\\frac{8}{3} - \\\\frac{1}{3} = \\\\frac{7}{3}$.\\n4. Kết luận: $I = \\\\frac{7}{3}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tp_doibien_quytrinh",
+    "name": "Đổi cận ➔ $x=a \\rightarrow t=u(a), x=b \\rightarrow t=u(b) \\Rightarrow \\int_{a}^{b} f(u(x))u'(x)dx = \\int_{u(a)}^{u(b)} f(t)dt$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichphan_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tp_tungphan_quytrinh",
+    "name": "Từng phần ➔ $\\int_{a}^{b} u dv = uv\\Big|_a^b - \\int_{a}^{b} v du$",
+    "type": "STEP",
+    "parentId": "toan12_les_tichphan_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tp_doibien_bay",
+    "name": "Nhận diện bẫy ➔ Quên đổi cận khi dùng phương pháp đổi biến trong tích phân xác định",
+    "type": "STEP",
+    "parentId": "toan12_les_tichphan_phuongphap",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_ungdung_tichphan",
+    "name": "Ứng dụng tích phân trong hình học và thực tiễn",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_nguyenham_tichphan",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_dientich_hinhtron",
+    "name": "Tính diện tích hình phẳng giới hạn bởi các đường",
+    "type": "LESSON",
+    "parentId": "toan12_top_ungdung_tichphan",
+    "examples": [
+      {
+        "id": "toan12_ex_dientich_1",
+        "question": "[Diện tích hình phẳng]: Tính diện tích hình phẳng giới hạn bởi $y = x^2 - 2x$ và $y = 0$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Tìm nghiệm hoành độ giao điểm $x^2 - 2x = 0 \\\\Leftrightarrow x = 0, x = 2$.\\n2. Phương pháp: $S = \\\\int_{0}^{2} |x^2 - 2x| dx$.\\n3. Tính toán: Trên $[0; 2]$, $x^2 - 2x \\\\le 0 \\\\Rightarrow S = \\\\int_{0}^{2} (2x - x^2) dx = (x^2 - \\\\frac{x^3}{3})\\\\Big|_0^2 = 4 - \\\\frac{8}{3} = \\\\frac{4}{3}$.\\n4. Kết luận: $S = \\\\frac{4}{3}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_dt_1duong",
+    "name": "Diện tích 1 đường ➔ $S = \\int_{a}^{b} |f(x)| dx$",
+    "type": "STEP",
+    "parentId": "toan12_les_dientich_hinhtron",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_dt_2duong",
+    "name": "Diện tích 2 đường ➔ $S = \\int_{a}^{b} |f(x) - g(x)| dx$",
+    "type": "STEP",
+    "parentId": "toan12_les_dientich_hinhtron",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_dt_bay",
+    "name": "Nhận diện bẫy ➔ Bỏ dấu trị tuyệt đối khi chưa xét dấu hàm số trên từng khoảng",
+    "type": "STEP",
+    "parentId": "toan12_les_dientich_hinhtron",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_thetich_tronxoay",
+    "name": "Tính thể tích vật thể và thể tích khối tròn xoay",
+    "type": "LESSON",
+    "parentId": "toan12_top_ungdung_tichphan",
+    "examples": [
+      {
+        "id": "toan12_ex_thetich_1",
+        "question": "[Thể tích tròn xoay]: Tính thể tích khối tròn xoay xoay quanh $Ox$ giới hạn bởi $y = \\\\sqrt{x}$, $y = 0$, $x = 0, x = 4$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức thể tích có nhân $\\\\pi$ và bình phương hàm số.\\n2. Phương pháp: $V = \\\\pi \\\\int_{a}^{b} [f(x)]^2 dx$.\\n3. Tính toán: $V = \\\\pi \\\\int_{0}^{4} (\\\\sqrt{x})^2 dx = \\\\pi \\\\int_{0}^{4} x dx = \\\\pi \\\\frac{x^2}{2}\\\\Big|_0^4 = 8\\\\pi$.\\n4. Kết luận: $V = 8\\\\pi$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tt_vatthe",
+    "name": "Vật thể bất kỳ ➔ $V = \\int_{a}^{b} S(x) dx$ với $S(x)$ là diện tích thiết diện",
+    "type": "STEP",
+    "parentId": "toan12_les_thetich_tronxoay",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tt_xoay_ox",
+    "name": "Xoay quanh $Ox$ ➔ $V = \\pi \\int_{a}^{b} [f(x)]^2 dx$",
+    "type": "STEP",
+    "parentId": "toan12_les_thetich_tronxoay",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tt_bay",
+    "name": "Nhận diện bẫy ➔ Quên nhân hằng số $\\pi$ trước dấu tích phân thể tích",
+    "type": "STEP",
+    "parentId": "toan12_les_thetich_tronxoay",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_ungdung_thucte_tp",
+    "name": "Ứng dụng tích phân tính quãng đường, vận tốc và hình thang xấp xỉ",
+    "type": "LESSON",
+    "parentId": "toan12_top_ungdung_tichphan",
+    "examples": [
+      {
+        "id": "toan12_ex_thucte_tp_1",
+        "question": "[Quãng đường chuyển động]: Một xe ô tô chuyển động với vận tốc $v(t) = 3t^2 + 2t$ (m/s). Tính quãng đường xe đi được từ $t=0$ đến $t=3$ giây.",
+        "answer": "1. Nhận diện & Tránh bẫy: Quãng đường $s = \\\\int_{t_1}^{t_2} v(t) dt$.\\n2. Phương pháp: Tính tích phân xác định của $v(t)$.\\n3. Tính toán: $s = \\\\int_{0}^{3} (3t^2 + 2t) dt = (t^3 + t^2)\\\\Big|_0^3 = 27 + 9 = 36$ m.\\n4. Kết luận: Quãng đường đi được là 36 mét.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tp_quangduong",
+    "name": "Quãng đường ➔ $s(t) = \\int_{t_1}^{t_2} v(t) dt$; Vận tốc ➔ $v(t) = \\int a(t) dt$",
+    "type": "STEP",
+    "parentId": "toan12_les_ungdung_thucte_tp",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tp_hinhthang",
+    "name": "Công thức hình thang ➔ $\\int_{a}^{b} f(x)dx \\approx \\frac{h}{2} [f(x_0) + 2f(x_1) + ... + f(x_n)]$",
+    "type": "STEP",
+    "parentId": "toan12_les_ungdung_thucte_tp",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tp_thucte_bay",
+    "name": "Nhận diện bẫy ➔ Sai đơn vị đo thời gian (phút ➔ giây) khi lắp vào tích phân",
+    "type": "STEP",
+    "parentId": "toan12_les_ungdung_thucte_tp",
+    "examples": null
+  },
+  {
+    "id": "toan12_cat_xacsuat_codieukien",
+    "name": "Xác suất có điều kiện và các công thức xác suất",
+    "type": "CATEGORY",
+    "parentId": "toan12_root",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_xacsuat_codieukien",
+    "name": "Xác suất có điều kiện và công thức nhân xác suất",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_xacsuat_codieukien",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_xs_codieukien",
+    "name": "Tính xác suất có điều kiện theo định nghĩa và sơ đồ cây",
+    "type": "LESSON",
+    "parentId": "toan12_top_xacsuat_codieukien",
+    "examples": [
+      {
+        "id": "toan12_ex_xscdk_1",
+        "question": "[Xác suất có điều kiện]: Cho $P(A) = 0.4, P(B) = 0.5$ và $P(A \\\\cap B) = 0.2$. Tính $P(A|B)$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức định nghĩa $P(A|B) = \\\\frac{P(A \\\\cap B)}{P(B)}$.\\n2. Phương pháp: Thay trực tiếp các giá trị đề cho.\\n3. Tính toán: $P(A|B) = \\\\frac{0.2}{0.5} = 0.4$.\\n4. Kết luận: $P(A|B) = 0.4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_xs_dinhnghia",
+    "name": "Định nghĩa ➔ $P(A|B) = \\frac{P(A \\cap B)}{P(B)}$ với $P(B) > 0$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_codieukien",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_xs_sodocay",
+    "name": "Sơ đồ cây ➔ Nhánh thứ nhất $P(B)$, nhánh nối tiếp $P(A|B)$ ➔ Tích nhánh $P(A \\cap B)$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_codieukien",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_xs_bay_1",
+    "name": "Nhận diện bẫy ➔ Chia nhầm mẫu số thành $P(A)$ thay vì $P(B)$ trong $P(A|B)$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_codieukien",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_xs_congthucnhan",
+    "name": "Ứng dụng công thức nhân xác suất trong bài toán nhiều giai đoạn",
+    "type": "LESSON",
+    "parentId": "toan12_top_xacsuat_codieukien",
+    "examples": [
+      {
+        "id": "toan12_ex_nhanxs_1",
+        "question": "[Công thức nhân xác suất]: Một hộp có 5 bi đỏ và 3 bi xanh. Rút ngẫu nhiên lần lượt không hoàn lại 2 bi. Tính xác suất cả 2 bi đều đỏ.",
+        "answer": "1. Nhận diện & Tránh bẫy: $A_1$: bi 1 đỏ, $A_2$: bi 2 đỏ. Bi thứ nhất rút làm giảm số bi trong hộp.\\n2. Phương pháp: $P(A_1 \\\\cap A_2) = P(A_1) \\\\cdot P(A_2|A_1)$.\\n3. Tính toán: $P(A_1) = \\\\frac{5}{8}$. Sau khi rút 1 bi đỏ, còn 4 bi đỏ trong 7 bi $\\\\Rightarrow P(A_2|A_1) = \\\\frac{4}{7}$.\\n$P(A_1 \\\\cap A_2) = \\\\frac{5}{8} \\\\cdot \\\\frac{4}{7} = \\\\frac{20}{56} = \\\\frac{5}{14}$.\\n4. Kết luận: Xác suất bằng $\\\\frac{5}{14}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_nhanxs_formula",
+    "name": "Công thức nhân ➔ $P(A \\cap B) = P(A) \\cdot P(B|A) = P(B) \\cdot P(A|B)$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_congthucnhan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nhanxs_doclap",
+    "name": "Độc lập ➔ $A, B$ độc lập $\\Leftrightarrow P(A \\cap B) = P(A) \\cdot P(B)$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_congthucnhan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_nhanxs_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm lẫn giữa rút không hoàn lại và rút có hoàn lại",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_congthucnhan",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_xs_toanphan_bayes",
+    "name": "Công thức xác suất toàn phần và công thức Bayes",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_xacsuat_codieukien",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_xs_toanphan",
+    "name": "Tính xác suất sự kiện bằng công thức xác suất toàn phần",
+    "type": "LESSON",
+    "parentId": "toan12_top_xs_toanphan_bayes",
+    "examples": [
+      {
+        "id": "toan12_ex_toanphan_1",
+        "question": "[Xác suất toàn phần]: Có 2 xưởng sản xuất: Xưởng 1 làm 60% sản phẩm (tỷ lệ phế phẩm 1%), Xưởng 2 làm 40% sản phẩm (tỷ lệ phế phẩm 2%). Chọn ngẫu nhiên 1 sản phẩm. Tính xác suất sản phẩm bị lỗi.",
+        "answer": "1. Nhận diện & Tránh bẫy: Hệ đầy đủ $B_1$ (xưởng 1), $B_2$ (xưởng 2). Gọi $A$ là sự kiện sản phẩm lỗi.\\n2. Phương pháp: $P(A) = P(B_1)P(A|B_1) + P(B_2)P(A|B_2)$.\\n3. Tính toán: $P(B_1) = 0.6, P(A|B_1) = 0.01$; $P(B_2) = 0.4, P(A|B_2) = 0.02$.\\n$P(A) = 0.6 \\\\times 0.01 + 0.4 \\\\times 0.02 = 0.006 + 0.008 = 0.014$.\\n4. Kết luận: Xác suất sản phẩm lỗi là $1.4\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_xstp_formula",
+    "name": "Xác suất toàn phần ➔ $P(A) = \\sum_{i=1}^{n} P(B_i) \\cdot P(A|B_i)$ với $\\{B_i\\}$ là hệ đầy đủ",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_toanphan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_xstp_he_day_du",
+    "name": "Hệ đầy đủ ➔ Các $B_i$ xung khắc đôi một và $\\sum P(B_i) = 1$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_toanphan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_xstp_bay",
+    "name": "Nhận diện bẫy ➔ Chọn hệ $B_i$ không đầy đủ làm tổng xác suất $P(B_i) \\neq 1$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_toanphan",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_xs_bayes",
+    "name": "Tính xác suất hậu kỳ bằng công thức Bayes và ứng dụng thực tế",
+    "type": "LESSON",
+    "parentId": "toan12_top_xs_toanphan_bayes",
+    "examples": [
+      {
+        "id": "toan12_ex_bayes_1",
+        "question": "[Công thức Bayes]: Từ ví dụ xưởng sản xuất ở trên, biết sản phẩm chọn ra bị lỗi ($A$). Tính xác suất sản phẩm đó do Xưởng 1 sản xuất ($P(B_1|A)$).",
+        "answer": "1. Nhận diện & Tránh bẫy: Cần tính xác suất nguyên nhân $B_1$ sau khi đã biết kết quả $A$ xảy ra.\\n2. Phương pháp: Bayes $P(B_1|A) = \\\\frac{P(B_1)P(A|B_1)}{P(A)}$.\\n3. Tính toán: $P(B_1)P(A|B_1) = 0.6 \\\\times 0.01 = 0.006$.\\n$P(A) = 0.014 \\\\Rightarrow P(B_1|A) = \\\\frac{0.006}{0.014} = \\\\frac{3}{7} \\\\approx 0.4286$.\\n4. Kết luận: Xác suất khoảng $42.86\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_bayes_formula",
+    "name": "Công thức Bayes ➔ $P(B_k|A) = \\frac{P(B_k) \\cdot P(A|B_k)}{\\sum_{i=1}^{n} P(B_i) \\cdot P(A|B_i)}$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_bayes",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_bayes_ynhia",
+    "name": "Ý nghĩa ➔ Tính xác suất nguyên nhân $B_k$ khi đã biết kết quả $A$ xảy ra",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_bayes",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_bayes_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm lẫn giữa xác suất tiền kỳ $P(A|B_k)$ và hậu kỳ $P(B_k|A)$",
+    "type": "STEP",
+    "parentId": "toan12_les_xs_bayes",
+    "examples": null
+  },
+  {
+    "id": "toan12_cat_thongke_ghepnhom",
+    "name": "Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+    "type": "CATEGORY",
+    "parentId": "toan12_root",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_khoangbienthien_tuphanvi",
+    "name": "Khoảng biến thiên và khoảng tứ phân vị",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_thongke_ghepnhom",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_khoangbienthien",
+    "name": "Tính khoảng biến thiên và ý nghĩa đo độ phân tán",
+    "type": "LESSON",
+    "parentId": "toan12_top_khoangbienthien_tuphanvi",
+    "examples": [
+      {
+        "id": "toan12_ex_kbt_1",
+        "question": "[Khoảng biến thiên]: Cho mẫu số liệu ghép nhóm thời gian làm bài (phút) có các nhóm $[10; 15), [15; 20), [20; 25), [25; 30)$. Tính khoảng biến thiên $R$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Cận dưới nhóm đầu $a_1 = 10$, cận trên nhóm cuối $a_k = 30$.\\n2. Phương pháp: $R = a_k - a_1$.\\n3. Tính toán: $R = 30 - 10 = 20$.\\n4. Kết luận: $R = 20$ phút.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tk_kbt_formula",
+    "name": "Khoảng biến thiên ➔ $R = a_{k+1} - a_1$ (Hiệu cận trên nhóm cuối và cận dưới nhóm đầu)",
+    "type": "STEP",
+    "parentId": "toan12_les_khoangbienthien",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_kbt_ynhia",
+    "name": "Ý nghĩa ➔ Đo độ chênh lệch cực đại giữa giá trị lớn nhất và nhỏ nhất",
+    "type": "STEP",
+    "parentId": "toan12_les_khoangbienthien",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_kbt_bay",
+    "name": "Nhận diện bẫy ➔ Lấy đại diện nhóm cuối trừ đại diện nhóm đầu thay vì biên",
+    "type": "STEP",
+    "parentId": "toan12_les_khoangbienthien",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_tuphanvi_ghepnhom",
+    "name": "Xác định tứ phân vị Q1, Q2, Q3 và khoảng tứ phân vị ΔQ",
+    "type": "LESSON",
+    "parentId": "toan12_top_khoangbienthien_tuphanvi",
+    "examples": [
+      {
+        "id": "toan12_ex_tpv_1",
+        "question": "[Khoảng tứ phân vị]: Cho mẫu số liệu ghép nhóm có $Q_1 = 14.5$ và $Q_3 = 22.8$. Tính khoảng tứ phân vị $\\\\Delta_Q$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức $\\\\Delta_Q = Q_3 - Q_1$.\\n2. Phương pháp: Lấy $Q_3$ trừ $Q_1$.\\n3. Tính toán: $\\\\Delta_Q = 22.8 - 14.5 = 8.3$.\\n4. Kết luận: $\\\\Delta_Q = 8.3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tk_tpv_formula",
+    "name": "Tứ phân vị $Q_p$ ➔ $Q_p = a_m + \\frac{\\frac{p \\cdot n}{4} - C}{n_m} \\cdot (a_{m+1} - a_m)$",
+    "type": "STEP",
+    "parentId": "toan12_les_tuphanvi_ghepnhom",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_ktpv_formula",
+    "name": "Khoảng tứ phân vị ➔ $\\Delta_Q = Q_3 - Q_1$ (Loại bỏ các giá trị ngoại lệ)",
+    "type": "STEP",
+    "parentId": "toan12_les_tuphanvi_ghepnhom",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_tpv_bay",
+    "name": "Nhận diện bẫy ➔ Nhầm tần số tích lũy $C$ của nhóm trước với tần số $n_m$ của nhóm chứa $Q_p$",
+    "type": "STEP",
+    "parentId": "toan12_les_tuphanvi_ghepnhom",
+    "examples": null
+  },
+  {
+    "id": "toan12_top_phuongsai_dolechchuan",
+    "name": "Phương sai và độ lệch chuẩn",
+    "type": "TOPIC",
+    "parentId": "toan12_cat_thongke_ghepnhom",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_phuongsai_dolechchuan",
+    "name": "Tính phương sai s^2 và độ lệch chuẩn s của mẫu số liệu ghép nhóm",
+    "type": "LESSON",
+    "parentId": "toan12_top_phuongsai_dolechchuan",
+    "examples": [
+      {
+        "id": "toan12_ex_ps_1",
+        "question": "[Phương sai & Độ lệch chuẩn]: Một mẫu số liệu ghép nhóm có số trung bình $\\\\bar{x} = 20$, $\\\\sum n_i x_i^2 = 41600$ và kích thước mẫu $n = 100$. Tính phương sai $s^2$ và độ lệch chuẩn $s$.",
+        "answer": "1. Nhận diện & Tránh bẫy: Công thức $s^2 = \\\\frac{1}{n} \\\\sum n_i x_i^2 - \\\\bar{x}^2$.\\n2. Phương pháp: Lắp các giá trị vào công thức.\\n3. Tính toán: $s^2 = \\\\frac{41600}{100} - 20^2 = 416 - 400 = 16$.\\nĐộ lệch chuẩn $s = \\\\sqrt{s^2} = \\\\sqrt{16} = 4$.\\n4. Kết luận: $s^2 = 16$ và $s = 4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tk_tb_formula",
+    "name": "Trung bình ➔ $\\bar{x} = \\frac{1}{n} \\sum_{i=1}^{k} n_i x_i$ với $x_i = \\frac{a_i + a_{i+1}}{2}$",
+    "type": "STEP",
+    "parentId": "toan12_les_phuongsai_dolechchuan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_ps_formula",
+    "name": "Phương sai ➔ $s^2 = \\frac{1}{n} \\sum_{i=1}^{k} n_i x_i^2 - \\bar{x}^2$; Độ lệch chuẩn ➔ $s = \\sqrt{s^2}$",
+    "type": "STEP",
+    "parentId": "toan12_les_phuongsai_dolechchuan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_ps_bay",
+    "name": "Nhận diện bẫy ➔ Quên căn bậc hai của phương sai khi yêu cầu tính độ lệch chuẩn",
+    "type": "STEP",
+    "parentId": "toan12_les_phuongsai_dolechchuan",
+    "examples": null
+  },
+  {
+    "id": "toan12_les_sosanh_doplantan",
+    "name": "So sánh độ phân tán và độ ổn định giữa hai mẫu số liệu ghép nhóm",
+    "type": "LESSON",
+    "parentId": "toan12_top_phuongsai_dolechchuan",
+    "examples": [
+      {
+        "id": "toan12_ex_sosanh_1",
+        "question": "[So sánh độ ổn định]: Xạ thủ A có độ lệch chuẩn điểm số $s_A = 1.2$, xạ thủ B có $s_B = 2.5$ (với điểm trung bình bằng nhau). Xạ thủ nào thi đấu ổn định hơn?",
+        "answer": "1. Nhận diện & Tránh bẫy: Độ lệch chuẩn nhỏ hơn thể hiện mức độ phân tán ít hơn $\\\\Rightarrow$ ổn định hơn.\\n2. Phương pháp: So sánh $s_A$ và $s_B$.\\n3. Tính toán: $s_A = 1.2 < s_B = 2.5$.\\n4. Kết luận: Xạ thủ A thi đấu đồng đều và ổn định hơn xạ thủ B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan12_step_tk_ss_dokhoa",
+    "name": "So sánh độ phân tán ➔ $s$ càng nhỏ ➔ Mẫu số liệu càng đồng đều, ít phân tán",
+    "type": "STEP",
+    "parentId": "toan12_les_sosanh_doplantan",
+    "examples": null
+  },
+  {
+    "id": "toan12_step_tk_ss_bay",
+    "name": "Nhận diện bẫy ➔ So sánh $s$ khi hai mẫu có số trung bình $\\bar{x}$ chênh lệch quá lớn",
+    "type": "STEP",
+    "parentId": "toan12_les_sosanh_doplantan",
+    "examples": null
+  }
+]

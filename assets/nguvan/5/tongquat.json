@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "root_van5",
+    "name": "Tiếng Việt 5 – Sơ đồ tư duy tổng hợp",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "cat_van5_luyentuvacau",
+    "name": "Luyện từ và câu",
+    "type": "CATEGORY",
+    "parentId": "root_van5",
+    "examples": null
+  },
+  {
+    "id": "top_van5_tuvung_nghia",
+    "name": "Từ vựng – Nghĩa của từ",
+    "type": "TOPIC",
+    "parentId": "cat_van5_luyentuvacau",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tudongnghia",
+    "name": "Từ đồng nghĩa",
+    "type": "LESSON",
+    "parentId": "top_van5_tuvung_nghia",
+    "examples": [
+      {
+        "id": "ex_van5_tudongnghia_01",
+        "question": "Tìm các từ đồng nghĩa chỉ màu xanh trong đoạn văn sau và phân biệt sắc thái nghĩa của chúng: 'Rừng tràm U Minh xanh ngắt một màu. Những ngọn cây cao vút đâm thẳng lên nền trời xanh biếc.'",
+        "answer": "• Các từ chỉ màu xanh: 'xanh ngắt', 'xanh biếc'.\n• Phân biệt sắc thái:\n  - 'xanh ngắt': xanh đều, thuần một màu trên diện rộng (gợi vẻ bạt ngàn của rừng tràm).\n  - 'xanh biếc': xanh lam đậm, trong và ánh lên như màu ngọc (gợi vẻ trong trẻo, sâu thẳm của bầu trời).",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_tudongnghia_02",
+        "question": "Chọn từ đồng nghĩa thích hợp nhất (cho, biếu, tặng, dâng) điền vào chỗ trống: (1) 'Bác Hồ _____ cho các cháu thiếu nhi những gói kẹo nhỏ.' (2) 'Em đội viên _____ đóa hoa tươi thắm lên đài tưởng niệm.'",
+        "answer": "• Câu 1: 'tặng' ('Bác Hồ tặng cho các cháu…') → trao cho ai vật gì để bày tỏ tình cảm. Không dùng 'biếu' vì 'biếu' dành cho người bề trên với lòng kính trọng (biếu ông bà).\n• Câu 2: 'dâng' ('dâng đóa hoa lên đài tưởng niệm') → trao bằng hai tay với lòng thành kính, biết ơn đối với các anh hùng liệt sĩ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tudongnghia_b1",
+    "name": "Đồng nghĩa: nghĩa giống hoặc gần giống nhau",
+    "type": "STEP",
+    "parentId": "less_van5_tudongnghia",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tudongnghia_b2",
+    "name": "Hoàn toàn (thay thế được: xe lửa – tàu hỏa); không hoàn toàn (khác sắc thái: chết – hi sinh)",
+    "type": "STEP",
+    "parentId": "less_van5_tudongnghia",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tudongnghia_b3",
+    "name": "Chọn từ: theo ngữ cảnh và sắc thái (trang trọng, thân mật, kính trọng…)",
+    "type": "STEP",
+    "parentId": "less_van5_tudongnghia",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tutrainghia",
+    "name": "Từ trái nghĩa",
+    "type": "LESSON",
+    "parentId": "top_van5_tuvung_nghia",
+    "examples": [
+      {
+        "id": "ex_van5_tutrainghia_01",
+        "question": "Tìm các cặp từ trái nghĩa trong hai câu thành ngữ sau và nêu tác dụng của chúng: a) 'Thức khuya dậy sớm.' b) 'Chân cứng đá mềm.'",
+        "answer": "• a) Cặp từ trái nghĩa: 'khuya' – 'sớm' (hai thời điểm đối lập trong ngày). Tác dụng: nhấn mạnh sự chăm chỉ, cần cù, ngủ muộn dậy sớm để làm việc.\n• b) Cặp từ trái nghĩa: 'cứng' – 'mềm'. Tác dụng: nêu bật sự đối lập, nói lên sức bền bỉ, vững vàng, vượt qua mọi khó khăn.\n• Lưu ý: 'yếu' và 'mềm' trong 'chân yếu tay mềm' không phải cặp từ trái nghĩa vì cùng chỉ sự thiếu sức mạnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_tutrainghia_02",
+        "question": "Tìm từ trái nghĩa với từ 'dũng cảm' và đặt câu với từ tìm được.",
+        "answer": "• Từ trái nghĩa với 'dũng cảm': 'hèn nhát' (hoặc 'nhát gan').\n• Đặt câu: 'Hành động bỏ chạy khi thấy bạn gặp nguy hiểm là biểu hiện của sự hèn nhát.'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tutrainghia_b1",
+    "name": "Trái nghĩa: nghĩa đối lập nhau (cao – thấp, cứng – mềm)",
+    "type": "STEP",
+    "parentId": "less_van5_tutrainghia",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tutrainghia_b2",
+    "name": "Tác dụng: nêu bật sự đối lập, tạo tương phản trong câu",
+    "type": "STEP",
+    "parentId": "less_van5_tutrainghia",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tutrainghia_b3",
+    "name": "Từ nhiều nghĩa → nhiều từ trái nghĩa (chín – xanh; chín – sống)",
+    "type": "STEP",
+    "parentId": "less_van5_tutrainghia",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tudanghia",
+    "name": "Từ đa nghĩa",
+    "type": "LESSON",
+    "parentId": "top_van5_tuvung_nghia",
+    "examples": [
+      {
+        "id": "ex_van5_tudanghia_01",
+        "question": "Xác định nghĩa gốc và nghĩa chuyển của từ 'chân' trong các câu sau:\na) Bé Bông tập đi những bước chân đầu tiên.\nb) Chân núi Ba Vì chìm trong sương mờ buổi sớm.",
+        "answer": "• a) 'chân' trong 'bước chân': Nghĩa gốc (bộ phận dưới cùng của cơ thể người/động vật dùng để đi, đứng).\n• b) 'chân' trong 'chân núi': Nghĩa chuyển (bộ phận dưới cùng của ngọn núi, tiếp giáp với mặt đất, giữ nét nghĩa chung là 'bộ phận bên dưới đỡ cho toàn bộ phần trên').",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='13'><title>Sơ đồ từ nhiều nghĩa: nghĩa gốc và nghĩa chuyển của từ chân</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='85' y='14' width='170' height='34' rx='6' fill='#1e3a8a' stroke='#1e3a8a' stroke-width='1.5'/><text x='170' y='36' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold'>TỪ NHIỀU NGHĨA: chân</text><path id='links' d='M 170 48 L 170 68 L 70 68 L 70 92 M 170 68 L 270 68 L 270 92' fill='none' stroke='#94a3b8' stroke-width='2'/><rect id='goc' x='15' y='92' width='110' height='70' rx='4' fill='#f0fdf4' stroke='#16a34a' stroke-width='1.5'/><text x='70' y='111' text-anchor='middle' fill='#14532d' font-size='12' font-weight='bold'>1. Nghĩa gốc</text><text x='70' y='129' text-anchor='middle' fill='#166534' font-size='11'>bộ phận cơ thể</text><text x='70' y='145' text-anchor='middle' fill='#166534' font-size='11'>(bước chân)</text><rect id='chuyen' x='215' y='92' width='110' height='70' rx='4' fill='#fff1f2' stroke='#e11d48' stroke-width='1.5'/><text x='270' y='111' text-anchor='middle' fill='#881337' font-size='11' font-weight='bold'>2. Nghĩa chuyển</text><text x='270' y='129' text-anchor='middle' fill='#9f1239' font-size='11'>chân núi,</text><text x='270' y='145' text-anchor='middle' fill='#9f1239' font-size='11'>chân bàn</text><path id='arrow' d='M 130 127 L 199 127' fill='none' stroke='#ea580c' stroke-width='1.5' stroke-dasharray='4 3'/><polygon points='207,127 199,123 199,131' fill='#ea580c'/><text x='168' y='118' text-anchor='middle' fill='#ea580c' font-size='10' font-weight='bold'>nét chung</text><text x='170' y='190' text-anchor='middle' fill='#334155' font-size='11'>Nét chung: bộ phận bên dưới, đỡ phần trên</text></svg>"
+      },
+      {
+        "id": "ex_van5_tudanghia_02",
+        "question": "Xác định nghĩa gốc và nghĩa chuyển của từ 'lá' trong các cụm từ sau: a) lá bàng rụng; b) lá thư; c) lá phổi.",
+        "answer": "• a) 'lá' trong 'lá bàng': nghĩa gốc – bộ phận của cây, thường mỏng, dẹt, mọc ra từ cành hoặc thân.\n• b) 'lá' trong 'lá thư': nghĩa chuyển – chỉ vật mỏng, dẹt như chiếc lá.\n• c) 'lá' trong 'lá phổi': nghĩa chuyển – chỉ bộ phận của cơ thể có dạng mỏng, dẹt như chiếc lá.\n• Các nghĩa có nét chung là 'mỏng, dẹt' nên 'lá' là từ nhiều nghĩa.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tudanghia_b1",
+    "name": "Nhiều nghĩa = 1 nghĩa gốc + một hay nhiều nghĩa chuyển",
+    "type": "STEP",
+    "parentId": "less_van5_tudanghia",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tudanghia_b2",
+    "name": "Nghĩa chuyển suy ra từ nghĩa gốc: các nghĩa có nét chung",
+    "type": "STEP",
+    "parentId": "less_van5_tudanghia",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tudanghia_b3",
+    "name": "Xác định nghĩa: đặt vào câu, cụm từ cụ thể",
+    "type": "STEP",
+    "parentId": "less_van5_tudanghia",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tudongam",
+    "name": "Từ đồng âm",
+    "type": "LESSON",
+    "parentId": "top_van5_tuvung_nghia",
+    "examples": [
+      {
+        "id": "ex_van5_tudongam_01",
+        "question": "Phân biệt nghĩa của từ 'đường' trong hai câu sau và cho biết đây là từ đa nghĩa hay từ đồng âm:\na) Cây mía này chứa rất nhiều đường.\nb) Mẹ em vừa đi chợ trên con đường làng quen thuộc.",
+        "answer": "• a) 'đường' (trong cây mía): Chất tinh thể có vị ngọt dùng trong thực phẩm.\n• b) 'đường' (đường làng): Lối đi lại kết nối các địa điểm.\n• Kết luận: Đây là hai từ đồng âm vì phát âm hoàn toàn giống nhau nhưng nghĩa hoàn toàn khác nhau, không có bất kỳ nét nghĩa chung nào.",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='13'><title>Sơ đồ từ đồng âm đường: hai nghĩa hoàn toàn khác nhau, không có nét nghĩa chung</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='85' y='14' width='170' height='34' rx='6' fill='#7c2d12' stroke='#7c2d12' stroke-width='1.5'/><text x='170' y='36' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold'>TỪ ĐỒNG ÂM: đường</text><path id='links' d='M 170 48 L 170 68 L 70 68 L 70 92 M 170 68 L 270 68 L 270 92' fill='none' stroke='#94a3b8' stroke-width='2'/><rect id='b1' x='15' y='92' width='110' height='70' rx='4' fill='#fffbeb' stroke='#d97706' stroke-width='1.5'/><text x='70' y='111' text-anchor='middle' fill='#78350f' font-size='12' font-weight='bold'>1. đường (mía)</text><text x='70' y='129' text-anchor='middle' fill='#92400e' font-size='11'>chất có vị ngọt</text><text x='70' y='145' text-anchor='middle' fill='#92400e' font-size='11'>(để ăn)</text><rect id='b2' x='215' y='92' width='110' height='70' rx='4' fill='#eff6ff' stroke='#2563eb' stroke-width='1.5'/><text x='270' y='111' text-anchor='middle' fill='#1e3a8a' font-size='12' font-weight='bold'>2. đường (làng)</text><text x='270' y='129' text-anchor='middle' fill='#1d4ed8' font-size='11'>lối đi lại</text><text x='270' y='145' text-anchor='middle' fill='#1d4ed8' font-size='11'>(để đi)</text><path id='cross' d='M 145 112 L 195 142 M 195 112 L 145 142' fill='none' stroke='#dc2626' stroke-width='3'/><text x='170' y='161' text-anchor='middle' fill='#dc2626' font-size='10' font-weight='bold'>khác hẳn</text><text x='170' y='190' text-anchor='middle' fill='#334155' font-size='11'>Không có nét nghĩa chung → ĐỒNG ÂM</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tudongam_b1",
+    "name": "Đồng âm: đọc, viết giống nhau; nghĩa khác hẳn nhau",
+    "type": "STEP",
+    "parentId": "less_van5_tudongam",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tudongam_b2",
+    "name": "Phân biệt: đa nghĩa – có nét nghĩa chung; đồng âm – không có",
+    "type": "STEP",
+    "parentId": "less_van5_tudongam",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tudongam_b3",
+    "name": "Dựa vào ngữ cảnh để hiểu đúng; tránh hiểu nhầm hoặc chơi chữ",
+    "type": "STEP",
+    "parentId": "less_van5_tudongam",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tuhanviet",
+    "name": "Từ mượn – Từ Hán Việt",
+    "type": "LESSON",
+    "parentId": "top_van5_tuvung_nghia",
+    "examples": [
+      {
+        "id": "ex_van5_hanviet_01",
+        "question": "Phân biệt nghĩa của từ 'đồng' trong các từ sau: 'đồng ruộng', 'đồng hương', 'đồng lòng'.",
+        "answer": "• 'đồng' trong 'đồng ruộng': khoảng đất rộng, bằng phẳng dùng để trồng trọt (không phải yếu tố 'đồng' nghĩa là 'cùng').\n• 'đồng' trong 'đồng hương': yếu tố Hán Việt nghĩa là 'cùng' ('hương' là quê → cùng quê).\n• 'đồng' trong 'đồng lòng': yếu tố Hán Việt nghĩa là 'cùng' (cùng một lòng, thống nhất ý chí).\n• Nhận xét: 'đồng' (khoảng đất) và 'đồng' (cùng) là hai từ đồng âm; hai từ sau cùng chứa yếu tố Hán Việt 'đồng'.",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='12'><title>Sơ đồ ba nghĩa của từ đồng: đồng ruộng là từ thuần Việt; đồng hương, đồng lòng là yếu tố Hán Việt nghĩa là cùng</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='110' y='14' width='120' height='30' rx='4' fill='#0f172a' stroke='#0f172a' stroke-width='1'/><text x='170' y='34' text-anchor='middle' fill='#ffffff' font-size='12' font-weight='bold'>TỪ: đồng</text><path id='tree' d='M 170 44 L 170 68 M 50 68 L 290 68 M 50 68 L 50 92 M 170 68 L 170 92 M 290 68 L 290 92' fill='none' stroke='#64748b' stroke-width='1.5'/><rect id='b1' x='10' y='92' width='80' height='88' rx='4' fill='#f8fafc' stroke='#64748b' stroke-width='1.5'/><text x='50' y='112' text-anchor='middle' fill='#1e293b' font-size='11' font-weight='bold'>1. đồng ruộng</text><text x='50' y='132' text-anchor='middle' fill='#475569' font-size='10'>khoảng đất</text><text x='50' y='148' text-anchor='middle' fill='#475569' font-size='10'>(từ thuần</text><text x='50' y='164' text-anchor='middle' fill='#475569' font-size='10'>Việt)</text><rect id='b2' x='110' y='92' width='120' height='88' rx='4' fill='#f0fdf4' stroke='#16a34a' stroke-width='1.5'/><text x='170' y='112' text-anchor='middle' fill='#14532d' font-size='11' font-weight='bold'>2. đồng hương</text><text x='170' y='132' text-anchor='middle' fill='#166534' font-size='10'>cùng quê</text><text x='170' y='148' text-anchor='middle' fill='#166534' font-size='10'>(Hán Việt:</text><text x='170' y='164' text-anchor='middle' fill='#166534' font-size='10'>đồng = cùng)</text><rect id='b3' x='250' y='92' width='80' height='88' rx='4' fill='#f0fdf4' stroke='#16a34a' stroke-width='1.5'/><text x='290' y='112' text-anchor='middle' fill='#14532d' font-size='11' font-weight='bold'>3. đồng lòng</text><text x='290' y='132' text-anchor='middle' fill='#166534' font-size='10'>cùng ý chí</text><text x='290' y='148' text-anchor='middle' fill='#166534' font-size='10'>(Hán Việt)</text><text x='170' y='197' text-anchor='middle' fill='#334155' font-size='10'>Box 2, 3 là yếu tố Hán Việt đồng = cùng</text></svg>"
+      },
+      {
+        "id": "ex_van5_tumuon_01",
+        "question": "Tìm từ mượn trong các câu sau và cho biết mượn của ngôn ngữ nào: a) Ông em thích nghe ra-đi-ô mỗi sáng. b) Giang sơn Việt Nam tươi đẹp. c) Bố em đi ô tô ra ga.",
+        "answer": "• a) 'ra-đi-ô': mượn tiếng nước ngoài (Anh, Pháp); chưa Việt hóa hoàn toàn nên viết có gạch nối.\n• b) 'giang sơn': mượn tiếng Hán (từ Hán Việt; 'giang' là sông, 'sơn' là núi).\n• c) 'ô tô', 'ga': mượn tiếng Pháp; đã Việt hóa cao nên viết như từ tiếng Việt, không dùng gạch nối.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tuhanviet_b1",
+    "name": "Từ mượn: vay mượn từ ngôn ngữ khác (Hán, Pháp, Anh…) để gọi sự vật, khái niệm",
+    "type": "STEP",
+    "parentId": "less_van5_tuhanviet",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tuhanviet_b2",
+    "name": "Từ Hán Việt: từ gốc Hán đọc theo âm Việt (giang sơn, quốc gia); yếu tố Hán Việt (đồng = cùng)",
+    "type": "STEP",
+    "parentId": "less_van5_tuhanviet",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tuhanviet_b3",
+    "name": "Viết từ mượn: đã Việt hóa (ô tô, ga) như từ Việt; chưa Việt hóa (in-tơ-nét) có gạch nối",
+    "type": "STEP",
+    "parentId": "less_van5_tuhanviet",
+    "examples": null
+  },
+  {
+    "id": "top_van5_tuloai",
+    "name": "Từ loại",
+    "type": "TOPIC",
+    "parentId": "cat_van5_luyentuvacau",
+    "examples": null
+  },
+  {
+    "id": "less_van5_danh_dong_tinh",
+    "name": "Danh từ – Động từ – Tính từ",
+    "type": "LESSON",
+    "parentId": "top_van5_tuloai",
+    "examples": [
+      {
+        "id": "ex_van5_tuloai_01",
+        "question": "Xếp các từ trong câu sau vào nhóm danh từ, động từ, tính từ: 'Những cánh buồm nâu đang căng gió, đoàn thuyền hối hả ra khơi.'",
+        "answer": "• Danh từ: 'cánh', 'buồm', 'gió', 'đoàn', 'thuyền', 'khơi' (vùng biển xa).\n• Động từ: 'căng', 'ra'.\n• Tính từ: 'nâu', 'hối hả'.\n• (Các từ 'những', 'đang' là phụ từ đi kèm danh từ, động từ.)",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='12'><title>Sơ đồ phân loại danh từ, động từ, tính từ trong câu ví dụ</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='110' y='14' width='120' height='30' rx='4' fill='#0f172a' stroke='#0f172a' stroke-width='1'/><text x='170' y='34' text-anchor='middle' fill='#ffffff' font-size='12' font-weight='bold'>TỪ LOẠI</text><path id='tree' d='M 170 44 L 170 68 M 50 68 L 290 68 M 50 68 L 50 92 M 170 68 L 170 92 M 290 68 L 290 92' fill='none' stroke='#64748b' stroke-width='1.5'/><rect id='b1' x='10' y='92' width='80' height='88' rx='4' fill='#eff6ff' stroke='#2563eb' stroke-width='1.5'/><text x='50' y='114' text-anchor='middle' fill='#1e3a8a' font-size='11' font-weight='bold'>Danh từ</text><text x='50' y='134' text-anchor='middle' fill='#1d4ed8' font-size='10'>cánh, buồm,</text><text x='50' y='150' text-anchor='middle' fill='#1d4ed8' font-size='10'>gió, thuyền</text><rect id='b2' x='110' y='92' width='120' height='88' rx='4' fill='#f0fdfa' stroke='#0d9488' stroke-width='1.5'/><text x='170' y='114' text-anchor='middle' fill='#115e59' font-size='11' font-weight='bold'>Động từ</text><text x='170' y='134' text-anchor='middle' fill='#0f766e' font-size='10'>căng, ra</text><text x='170' y='150' text-anchor='middle' fill='#0f766e' font-size='10'>(hoạt động)</text><rect id='b3' x='250' y='92' width='80' height='88' rx='4' fill='#fff1f2' stroke='#e11d48' stroke-width='1.5'/><text x='290' y='114' text-anchor='middle' fill='#881337' font-size='11' font-weight='bold'>Tính từ</text><text x='290' y='134' text-anchor='middle' fill='#9f1239' font-size='10'>nâu,</text><text x='290' y='150' text-anchor='middle' fill='#9f1239' font-size='10'>hối hả</text><text x='170' y='197' text-anchor='middle' fill='#334155' font-size='10'>Mẹo: những/các→DT; đang/đã→ĐT; rất/hơi→TT</text></svg>"
+      },
+      {
+        "id": "ex_van5_tuloai_02",
+        "question": "Sử dụng mẹo ghép từ để xác định từ loại của từ 'suy nghĩ' trong hai trường hợp:\na) Mẹ đang suy nghĩ về công việc.\nb) Những suy nghĩ của em rất sâu sắc.",
+        "answer": "• a) Ghép được với 'đang' ('đang suy nghĩ') → Từ loại là ĐỘNG TỪ (chỉ hoạt động trí óc).\n• b) Ghép được với 'những' ('những suy nghĩ') → Từ loại là DANH TỪ (chỉ sự vật/ý nghĩ).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_danh_dong_tinh_b1",
+    "name": "Danh từ: chỉ người, vật, hiện tượng, khái niệm, đơn vị (ghép: những, các, một)",
+    "type": "STEP",
+    "parentId": "less_van5_danh_dong_tinh",
+    "examples": null
+  },
+  {
+    "id": "step_van5_danh_dong_tinh_b2",
+    "name": "Động từ: chỉ hoạt động, trạng thái (ghép: đã, đang, sẽ, hãy, đừng)",
+    "type": "STEP",
+    "parentId": "less_van5_danh_dong_tinh",
+    "examples": null
+  },
+  {
+    "id": "step_van5_danh_dong_tinh_b3",
+    "name": "Tính từ: chỉ đặc điểm, tính chất (ghép: rất, hơi, khá, quá)",
+    "type": "STEP",
+    "parentId": "less_van5_danh_dong_tinh",
+    "examples": null
+  },
+  {
+    "id": "less_van5_daitu",
+    "name": "Đại từ",
+    "type": "LESSON",
+    "parentId": "top_van5_tuloai",
+    "examples": [
+      {
+        "id": "ex_van5_daitu_01",
+        "question": "Xác định đại từ xưng hô, đại từ thay thế và đại từ nghi vấn trong đoạn hội thoại sau:\n'- Lúa chín vàng ươm. Ngô cũng vậy.\n- Ai bảo cậu thế?'",
+        "answer": "• Đại từ thay thế: 'vậy' (thay cho 'chín vàng ươm'), 'thế' (thay cho toàn bộ sự việc lúa ngô chín).\n• Đại từ xưng hô: 'cậu' (chỉ người nghe).\n• Đại từ nghi vấn: 'Ai' (dùng để hỏi người).",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='12'><title>Sơ đồ ba loại đại từ: đại từ xưng hô, đại từ thay thế và đại từ nghi vấn</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='110' y='14' width='120' height='30' rx='4' fill='#0f172a' stroke='#0f172a' stroke-width='1'/><text x='170' y='34' text-anchor='middle' fill='#ffffff' font-size='12' font-weight='bold'>ĐẠI TỪ</text><path id='tree' d='M 170 44 L 170 68 M 50 68 L 290 68 M 50 68 L 50 92 M 170 68 L 170 92 M 290 68 L 290 92' fill='none' stroke='#64748b' stroke-width='1.5'/><rect id='b1' x='10' y='92' width='80' height='88' rx='4' fill='#eff6ff' stroke='#2563eb' stroke-width='1.5'/><text x='50' y='114' text-anchor='middle' fill='#1e3a8a' font-size='11' font-weight='bold'>Xưng hô</text><text x='50' y='134' text-anchor='middle' fill='#1d4ed8' font-size='10'>tôi, cậu,</text><text x='50' y='150' text-anchor='middle' fill='#1d4ed8' font-size='10'>chúng ta</text><rect id='b2' x='110' y='92' width='120' height='88' rx='4' fill='#f0fdfa' stroke='#0d9488' stroke-width='1.5'/><text x='170' y='114' text-anchor='middle' fill='#115e59' font-size='11' font-weight='bold'>Thay thế</text><text x='170' y='134' text-anchor='middle' fill='#0f766e' font-size='10'>vậy, thế</text><text x='170' y='150' text-anchor='middle' fill='#0f766e' font-size='10'>(thay DT, ĐT, TT)</text><rect id='b3' x='250' y='92' width='80' height='88' rx='4' fill='#fff1f2' stroke='#e11d48' stroke-width='1.5'/><text x='290' y='114' text-anchor='middle' fill='#881337' font-size='11' font-weight='bold'>Nghi vấn</text><text x='290' y='134' text-anchor='middle' fill='#9f1239' font-size='10'>ai, gì,</text><text x='290' y='150' text-anchor='middle' fill='#9f1239' font-size='10'>nào, đâu</text><text x='170' y='197' text-anchor='middle' fill='#334155' font-size='10'>Đại từ: xưng hô, thay thế, tránh lặp từ</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_van5_daitu_b1",
+    "name": "Đại từ: xưng hô hoặc thay thế danh từ, động từ, tính từ (hoặc cụm) để tránh lặp",
+    "type": "STEP",
+    "parentId": "less_van5_daitu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_daitu_b2",
+    "name": "Xưng hô: tôi, cậu, chúng ta, nó, họ; Thay thế: vậy, thế; Nghi vấn: ai, gì, nào, đâu",
+    "type": "STEP",
+    "parentId": "less_van5_daitu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_daitu_b3",
+    "name": "Danh từ chỉ người dùng để xưng hô: ông, bà, bố, mẹ, thầy, cô…",
+    "type": "STEP",
+    "parentId": "less_van5_daitu",
+    "examples": null
+  },
+  {
+    "id": "less_van5_kettu",
+    "name": "Kết từ (quan hệ từ)",
+    "type": "LESSON",
+    "parentId": "top_van5_tuloai",
+    "examples": [
+      {
+        "id": "ex_van5_kettu_01",
+        "question": "Tìm các kết từ và cặp kết từ trong đoạn văn sau:\n'Mặc dù thời tiết rất khắc nghiệt nhưng các chiến sĩ hải quân vẫn kiên cường bám biển vì sự bình yên của Tổ quốc.'",
+        "answer": "• Cặp kết từ biểu thị quan hệ tương phản: 'Mặc dù … nhưng …'.\n• Kết từ 'vì' biểu thị mục đích ('vì sự bình yên…').\n• Kết từ 'của' biểu thị quan hệ sở hữu ('sự bình yên của Tổ quốc').",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_kettu_b1",
+    "name": "Kết từ: nối từ ngữ hoặc câu, biểu thị quan hệ (và, với, của, ở, bằng, nhưng, vì…)",
+    "type": "STEP",
+    "parentId": "less_van5_kettu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kettu_b2",
+    "name": "Cặp kết từ: nếu… thì…; vì… nên…; tuy… nhưng…; không những… mà còn…",
+    "type": "STEP",
+    "parentId": "less_van5_kettu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kettu_b3",
+    "name": "Quan hệ: nguyên nhân – kết quả; giả thiết – kết quả; tương phản; tăng tiến",
+    "type": "STEP",
+    "parentId": "less_van5_kettu",
+    "examples": null
+  },
+  {
+    "id": "top_van5_cautaocau",
+    "name": "Câu – Cấu tạo câu",
+    "type": "TOPIC",
+    "parentId": "cat_van5_luyentuvacau",
+    "examples": null
+  },
+  {
+    "id": "less_van5_caudon_caughep",
+    "name": "Câu đơn – Câu ghép",
+    "type": "LESSON",
+    "parentId": "top_van5_cautaocau",
+    "examples": [
+      {
+        "id": "ex_van5_caudon_01",
+        "question": "Xác định chủ ngữ, vị ngữ và phân loại câu đơn / câu ghép trong các trường hợp sau:\na) Trên cành cây cao, những chú chim họa mi đang líu lo hót chào ngày mới.\nb) Mùa xuân đã về, hoa đào nở rộ khắp các triền đồi.",
+        "answer": "• a) Trạng ngữ: 'Trên cành cây cao' → CN: 'những chú chim họa mi' / VN: 'đang líu lo hót chào ngày mới' → CÂU ĐƠN (chỉ gồm một cụm C-V chính).\n• b) Vế 1: C1 'Mùa xuân' / V1 'đã về'; Vế 2: C2 'hoa đào' / V2 'nở rộ khắp các triền đồi' → CÂU GHÉP (gồm 2 cụm C-V độc lập nối trực tiếp bằng dấu phẩy).",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='13'><title>Sơ đồ phân biệt câu đơn (một cụm chủ vị) và câu ghép (từ hai cụm chủ vị trở lên)</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='75' y='14' width='190' height='34' rx='6' fill='#1e3a8a' stroke='#1e3a8a' stroke-width='1.5'/><text x='170' y='36' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold'>CÂU ĐƠN &amp; CÂU GHÉP</text><path id='links' d='M 170 48 L 170 68 L 70 68 L 70 92 M 170 68 L 270 68 L 270 92' fill='none' stroke='#94a3b8' stroke-width='2'/><rect id='b1' x='15' y='92' width='110' height='78' rx='4' fill='#eff6ff' stroke='#2563eb' stroke-width='1.5'/><text x='70' y='111' text-anchor='middle' fill='#1e3a8a' font-size='12' font-weight='bold'>CÂU ĐƠN</text><text x='70' y='129' text-anchor='middle' fill='#1d4ed8' font-size='10'>1 cụm C-V</text><text x='70' y='145' text-anchor='middle' fill='#1d4ed8' font-size='10'>VD: Chim /</text><text x='70' y='159' text-anchor='middle' fill='#1d4ed8' font-size='10'>đang hót</text><rect id='b2' x='215' y='92' width='110' height='78' rx='4' fill='#f0fdfa' stroke='#0d9488' stroke-width='1.5'/><text x='270' y='111' text-anchor='middle' fill='#115e59' font-size='12' font-weight='bold'>CÂU GHÉP</text><text x='270' y='129' text-anchor='middle' fill='#0f766e' font-size='10'>≥2 cụm C-V</text><text x='270' y='145' text-anchor='middle' fill='#0f766e' font-size='10'>VD: Xuân về,</text><text x='270' y='159' text-anchor='middle' fill='#0f766e' font-size='10'>hoa nở</text><text x='170' y='127' text-anchor='middle' fill='#64748b' font-size='11' font-weight='bold'>so với</text><text x='170' y='196' text-anchor='middle' fill='#334155' font-size='10'>Đếm số cụm chủ ngữ - vị ngữ để phân biệt</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_van5_caudon_caughep_b1",
+    "name": "Câu đơn: một cụm C–V nòng cốt (có thể thêm trạng ngữ)",
+    "type": "STEP",
+    "parentId": "less_van5_caudon_caughep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_caudon_caughep_b2",
+    "name": "Câu ghép: hai hay nhiều vế, mỗi vế có cụm C–V",
+    "type": "STEP",
+    "parentId": "less_van5_caudon_caughep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_caudon_caughep_b3",
+    "name": "Xác định: tìm vị ngữ → tìm chủ ngữ → đếm cụm C–V",
+    "type": "STEP",
+    "parentId": "less_van5_caudon_caughep",
+    "examples": null
+  },
+  {
+    "id": "less_van5_noivecaughep",
+    "name": "Cách nối vế câu ghép",
+    "type": "LESSON",
+    "parentId": "top_van5_cautaocau",
+    "examples": [
+      {
+        "id": "ex_van5_noive_01",
+        "question": "Viết 3 câu ghép nối vế theo 3 phương thức khác nhau:\na) Nối trực tiếp bằng dấu câu.\nb) Nối bằng cặp quan hệ từ Giả thiết - Kết quả.\nc) Nối bằng cặp từ hô ứng.",
+        "answer": "• a) Nối trực tiếp: 'Nắng lên, mây tan, không khí trở nên ấm áp.' (dùng dấu phẩy)\n• b) Cặp quan hệ từ: 'Hễ trời mưa to thì con đường làng lại ngập nước.' (Hễ... thì...)\n• c) Cặp từ hô ứng: 'Mặt trời vừa nhô lên, sương mù đã tan biến.' (vừa... đã...)",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='13'><title>Sơ đồ ba cách nối các vế của câu ghép: nối trực tiếp, dùng từ nối, dùng cặp từ hô ứng</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='ve1' x='20' y='14' width='110' height='52' rx='6' fill='#eff6ff' stroke='#2563eb' stroke-width='2'/><text x='75' y='36' text-anchor='middle' fill='#1e3a8a' font-size='13' font-weight='bold'>VẾ 1</text><text x='75' y='54' text-anchor='middle' fill='#1d4ed8' font-size='9'>Chủ ngữ 1 + Vị ngữ 1</text><rect id='ve2' x='210' y='14' width='110' height='52' rx='6' fill='#eff6ff' stroke='#2563eb' stroke-width='2'/><text x='265' y='36' text-anchor='middle' fill='#1e3a8a' font-size='13' font-weight='bold'>VẾ 2</text><text x='265' y='54' text-anchor='middle' fill='#1d4ed8' font-size='9'>Chủ ngữ 2 + Vị ngữ 2</text><path id='join' d='M 130 40 L 210 40' fill='none' stroke='#475569' stroke-width='2'/><text x='170' y='33' text-anchor='middle' fill='#475569' font-size='10' font-weight='bold'>nối bằng</text><path id='drop' d='M 170 40 L 170 84 M 60 84 L 280 84 M 60 84 L 60 106 M 170 84 L 170 106 M 280 84 L 280 106' fill='none' stroke='#475569' stroke-width='1.5' stroke-dasharray='3 2'/><rect id='m1' x='8' y='106' width='104' height='84' rx='6' fill='#f8fafc' stroke='#475569' stroke-width='1.5'/><text x='60' y='124' text-anchor='middle' fill='#334155' font-size='10' font-weight='bold'>a) Nối trực tiếp</text><text x='60' y='141' text-anchor='middle' fill='#64748b' font-size='10'>dấu phẩy,</text><text x='60' y='155' text-anchor='middle' fill='#64748b' font-size='10'>chấm phẩy,</text><text x='60' y='169' text-anchor='middle' fill='#64748b' font-size='10'>hai chấm</text><rect id='m2' x='118' y='106' width='104' height='84' rx='6' fill='#f8fafc' stroke='#475569' stroke-width='1.5'/><text x='170' y='124' text-anchor='middle' fill='#334155' font-size='10' font-weight='bold'>b) Dùng từ nối</text><text x='170' y='141' text-anchor='middle' fill='#64748b' font-size='10'>quan hệ từ,</text><text x='170' y='155' text-anchor='middle' fill='#64748b' font-size='10'>cặp quan hệ từ</text><text x='170' y='169' text-anchor='middle' fill='#64748b' font-size='10'>(nếu… thì…)</text><rect id='m3' x='228' y='106' width='104' height='84' rx='6' fill='#f8fafc' stroke='#475569' stroke-width='1.5'/><text x='280' y='124' text-anchor='middle' fill='#334155' font-size='10' font-weight='bold'>c) Cặp từ hô ứng</text><text x='280' y='141' text-anchor='middle' fill='#64748b' font-size='10'>vừa… đã…</text><text x='280' y='155' text-anchor='middle' fill='#64748b' font-size='10'>càng… càng…</text><text x='280' y='169' text-anchor='middle' fill='#64748b' font-size='10'>chưa… đã…</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_van5_noivecaughep_b1",
+    "name": "Nối bằng từ nối: kết từ hoặc cặp kết từ (vì… nên…, nếu… thì…)",
+    "type": "STEP",
+    "parentId": "less_van5_noivecaughep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_noivecaughep_b2",
+    "name": "Nối trực tiếp (không từ nối): dấu phẩy, chấm phẩy, hai chấm",
+    "type": "STEP",
+    "parentId": "less_van5_noivecaughep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_noivecaughep_b3",
+    "name": "Nối bằng cặp từ hô ứng: vừa… đã…, chưa… đã…, càng… càng…, đâu… đấy…",
+    "type": "STEP",
+    "parentId": "less_van5_noivecaughep",
+    "examples": null
+  },
+  {
+    "id": "top_van5_tutu_lienket",
+    "name": "Biện pháp tu từ – Liên kết câu",
+    "type": "TOPIC",
+    "parentId": "cat_van5_luyentuvacau",
+    "examples": null
+  },
+  {
+    "id": "less_van5_sosanh_nhanhoa",
+    "name": "So sánh – Nhân hóa",
+    "type": "LESSON",
+    "parentId": "top_van5_tutu_lienket",
+    "examples": [
+      {
+        "id": "ex_van5_sosanh_nhanhoa_01",
+        "question": "Chỉ ra biện pháp so sánh hoặc nhân hóa trong các câu sau: a) Mặt hồ phẳng lặng như tấm gương khổng lồ. b) Chị gió mải miết đuổi theo đàn mây. c) Cây cau già đứng gác trước cổng làng.",
+        "answer": "• a) So sánh: 'mặt hồ' được so sánh với 'tấm gương' nhờ từ 'như' (nét tương đồng: phẳng, sáng, soi được).\n• b) Nhân hóa: gọi gió là 'chị'; gió 'mải miết đuổi theo' như con người.\n• c) Nhân hóa: cây cau 'đứng gác' như người lính canh.",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='13'><title>Sơ đồ phân biệt biện pháp so sánh và biện pháp nhân hóa</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='85' y='14' width='170' height='34' rx='6' fill='#4c1d95' stroke='#4c1d95' stroke-width='1.5'/><text x='170' y='36' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold'>BIỆN PHÁP TU TỪ</text><path id='links' d='M 170 48 L 170 68 L 70 68 L 70 92 M 170 68 L 270 68 L 270 92' fill='none' stroke='#94a3b8' stroke-width='2'/><rect id='b1' x='15' y='92' width='110' height='80' rx='4' fill='#fffbeb' stroke='#d97706' stroke-width='1.5'/><text x='70' y='111' text-anchor='middle' fill='#78350f' font-size='12' font-weight='bold'>SO SÁNH</text><text x='70' y='129' text-anchor='middle' fill='#92400e' font-size='10'>dùng từ như, là</text><text x='70' y='145' text-anchor='middle' fill='#92400e' font-size='10'>VD: mặt hồ</text><text x='70' y='159' text-anchor='middle' fill='#92400e' font-size='10'>như tấm gương</text><rect id='b2' x='215' y='92' width='110' height='80' rx='4' fill='#fdf4ff' stroke='#9333ea' stroke-width='1.5'/><text x='270' y='111' text-anchor='middle' fill='#581c87' font-size='12' font-weight='bold'>NHÂN HÓA</text><text x='270' y='129' text-anchor='middle' fill='#7e22ce' font-size='10'>gán từ chỉ người</text><text x='270' y='145' text-anchor='middle' fill='#7e22ce' font-size='10'>VD: chị gió</text><text x='270' y='159' text-anchor='middle' fill='#7e22ce' font-size='10'>đuổi theo mây</text><text x='170' y='128' text-anchor='middle' fill='#64748b' font-size='10' font-weight='bold'>khác nhau</text><text x='170' y='196' text-anchor='middle' fill='#334155' font-size='10'>Có từ như, là → so sánh; không có → nhân hóa</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_van5_sosanh_nhanhoa_b1",
+    "name": "So sánh: đối chiếu sự vật với sự vật khác có nét tương đồng (như, là, tựa, giống…)",
+    "type": "STEP",
+    "parentId": "less_van5_sosanh_nhanhoa",
+    "examples": null
+  },
+  {
+    "id": "step_van5_sosanh_nhanhoa_b2",
+    "name": "Nhân hóa: gán cho vật, cây cối, con vật từ ngữ, hoạt động, suy nghĩ của người",
+    "type": "STEP",
+    "parentId": "less_van5_sosanh_nhanhoa",
+    "examples": null
+  },
+  {
+    "id": "step_van5_sosanh_nhanhoa_b3",
+    "name": "Ba cách nhân hóa: gọi vật bằng từ chỉ người; tả vật bằng từ chỉ hoạt động, tính chất của người; trò chuyện với vật như với người",
+    "type": "STEP",
+    "parentId": "less_van5_sosanh_nhanhoa",
+    "examples": null
+  },
+  {
+    "id": "less_van5_dieptu_diepngu",
+    "name": "Điệp từ, điệp ngữ",
+    "type": "LESSON",
+    "parentId": "top_van5_tutu_lienket",
+    "examples": [
+      {
+        "id": "ex_van5_dieptu_01",
+        "question": "Chỉ ra từ ngữ được điệp lại trong câu văn sau và phân tích tác dụng biểu đạt:\n'Tre giữ làng, giữ nước, giữ mái nhà tranh, giữ đồng lúa chín.' (Thép Mới, Cây tre Việt Nam)",
+        "answer": "• Từ ngữ được điệp: Từ 'giữ' (lặp lại 4 lần).\n• Tác dụng: Nhấn mạnh vai trò kiên cường, thủy chung và công lao to lớn của cây tre Việt Nam trong sự nghiệp bảo vệ quê hương, xóm làng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_dieptu_diepngu_b1",
+    "name": "Điệp ngữ: lặp lại từ ngữ (hoặc cả câu) nhiều lần",
+    "type": "STEP",
+    "parentId": "less_van5_dieptu_diepngu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_dieptu_diepngu_b2",
+    "name": "Tác dụng: nhấn mạnh, tạo nhịp điệu, gây ấn tượng",
+    "type": "STEP",
+    "parentId": "less_van5_dieptu_diepngu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_dieptu_diepngu_b3",
+    "name": "Làm bài: chỉ ra từ ngữ lặp → nêu tác dụng theo ngữ cảnh",
+    "type": "STEP",
+    "parentId": "less_van5_dieptu_diepngu",
+    "examples": null
+  },
+  {
+    "id": "less_van5_andu",
+    "name": "Ẩn dụ",
+    "type": "LESSON",
+    "parentId": "top_van5_tutu_lienket",
+    "examples": [
+      {
+        "id": "ex_van5_andu_01",
+        "question": "Chỉ ra từ ngữ được dùng theo biện pháp ẩn dụ trong câu ca dao: 'Ăn quả nhớ kẻ trồng cây' và nêu tác dụng.",
+        "answer": "• Ẩn dụ: gọi sự vật, hiện tượng này bằng tên của sự vật, hiện tượng khác có nét tương đồng.\n• 'Kẻ trồng cây': Ẩn dụ cho người lao động, thế hệ đi trước có công tạo lập thành quả.\n• 'Ăn quả': Ẩn dụ cho người được hưởng thụ thành quả lao động và giá trị cuộc sống.\n• Tác dụng: Nhắc nhở đạo lý 'Uống nước nhớ nguồn' sâu sắc của dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_andu_b1",
+    "name": "Ẩn dụ: gọi sự vật, hiện tượng này bằng tên sự vật, hiện tượng khác có nét tương đồng",
+    "type": "STEP",
+    "parentId": "less_van5_andu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_andu_b2",
+    "name": "Khác so sánh: ẩn dụ không có từ so sánh (như, là) và không nêu đối tượng được so sánh",
+    "type": "STEP",
+    "parentId": "less_van5_andu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_andu_b3",
+    "name": "Tác dụng: cách nói hàm súc, giàu hình ảnh, gợi cảm xúc",
+    "type": "STEP",
+    "parentId": "less_van5_andu",
+    "examples": null
+  },
+  {
+    "id": "less_van5_lienketcau",
+    "name": "Liên kết câu",
+    "type": "LESSON",
+    "parentId": "top_van5_tutu_lienket",
+    "examples": [
+      {
+        "id": "ex_van5_lienket_01",
+        "question": "Chỉ ra phép liên kết được sử dụng giữa các câu trong đoạn văn sau:\n'(1) Bác Hồ là vị lãnh tụ vĩ đại của dân tộc Việt Nam. (2) Người đã dành trọn cuộc đời cho sự nghiệp giải phóng dân tộc. (3) Tuy nhiên, phong cách sống của Bác lại vô cùng giản dị.'",
+        "answer": "• Lặp từ ngữ: 'Bác' ở câu (3) lặp lại từ 'Bác' trong 'Bác Hồ' ở câu (1).\n• Thay thế từ ngữ: 'Người' ở câu (2) thay cho 'Bác Hồ' ở câu (1).\n• Dùng từ ngữ nối: 'Tuy nhiên' đặt ở đầu câu (3) nối câu (3) với câu (2), biểu thị quan hệ tương phản.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_lienketcau_b1",
+    "name": "Lặp từ ngữ: lặp lại từ ở câu trước",
+    "type": "STEP",
+    "parentId": "less_van5_lienketcau",
+    "examples": null
+  },
+  {
+    "id": "step_van5_lienketcau_b2",
+    "name": "Thay thế từ ngữ: đại từ hoặc từ đồng nghĩa thay cho từ ở câu trước",
+    "type": "STEP",
+    "parentId": "less_van5_lienketcau",
+    "examples": null
+  },
+  {
+    "id": "step_van5_lienketcau_b3",
+    "name": "Dùng từ ngữ nối: nhưng, tuy nhiên, vì vậy, ngoài ra, mặt khác…",
+    "type": "STEP",
+    "parentId": "less_van5_lienketcau",
+    "examples": null
+  },
+  {
+    "id": "top_van5_chinhta_daucau",
+    "name": "Chính tả – Dấu câu",
+    "type": "TOPIC",
+    "parentId": "cat_van5_luyentuvacau",
+    "examples": null
+  },
+  {
+    "id": "less_van5_daugachngang",
+    "name": "Dấu gạch ngang",
+    "type": "LESSON",
+    "parentId": "top_van5_chinhta_daucau",
+    "examples": [
+      {
+        "id": "ex_van5_daugachngang_01",
+        "question": "Nêu tác dụng của dấu gạch ngang trong đoạn văn:\n'Ngày Sách và Văn hoá đọc Việt Nam - sự kiện văn hoá quan trọng - được tổ chức vào tháng 4. Các hoạt động chính bao gồm:\n- Trưng bày sách báo.\n- Giao lưu với tác giả.'",
+        "answer": "• Tác dụng 1 ('- sự kiện văn hoá quan trọng -'): Đánh dấu bộ phận giải thích, chú thích cho 'Ngày Sách và Văn hoá đọc Việt Nam'.\n• Tác dụng 2 ('- Trưng bày...', '- Giao lưu...'): Đánh dấu các ý trong một chuỗi liệt kê.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_daugachngang_b1",
+    "name": "Đánh dấu lời nói trực tiếp (đối thoại)",
+    "type": "STEP",
+    "parentId": "less_van5_daugachngang",
+    "examples": null
+  },
+  {
+    "id": "step_van5_daugachngang_b2",
+    "name": "Đánh dấu phần chú thích, giải thích",
+    "type": "STEP",
+    "parentId": "less_van5_daugachngang",
+    "examples": null
+  },
+  {
+    "id": "step_van5_daugachngang_b3",
+    "name": "Đánh dấu các ý trong đoạn liệt kê",
+    "type": "STEP",
+    "parentId": "less_van5_daugachngang",
+    "examples": null
+  },
+  {
+    "id": "less_van5_dau_ngoackep",
+    "name": "Dấu ngoặc kép",
+    "type": "LESSON",
+    "parentId": "top_van5_chinhta_daucau",
+    "examples": [
+      {
+        "id": "ex_van5_ngoackep_01",
+        "question": "Nêu tác dụng của dấu ngoặc kép trong các câu sau: a) Bác Hồ dạy: \"Không có gì quý hơn độc lập, tự do.\" b) Nam bị bạn bè gọi đùa là \"nhà thông thái\" vì hay đọc sách. c) Em vừa đọc xong truyện \"Dế Mèn phiêu lưu kí\".",
+        "answer": "• a) Đánh dấu lời nói trực tiếp của Bác Hồ.\n• b) Đánh dấu từ ngữ được dùng với ý nghĩa đặc biệt (gọi đùa).\n• c) Đánh dấu tên tác phẩm (tên truyện).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_dau_ngoackep_b1",
+    "name": "Đánh dấu lời nói trực tiếp",
+    "type": "STEP",
+    "parentId": "less_van5_dau_ngoackep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_dau_ngoackep_b2",
+    "name": "Đánh dấu từ ngữ dùng với nghĩa đặc biệt (hoặc hàm ý mỉa mai)",
+    "type": "STEP",
+    "parentId": "less_van5_dau_ngoackep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_dau_ngoackep_b3",
+    "name": "Đánh dấu tên tác phẩm, tài liệu",
+    "type": "STEP",
+    "parentId": "less_van5_dau_ngoackep",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tennuocngoai",
+    "name": "Viết tên người, địa lí nước ngoài",
+    "type": "LESSON",
+    "parentId": "top_van5_chinhta_daucau",
+    "examples": [
+      {
+        "id": "ex_van5_tennuocngoai_01",
+        "question": "Sửa lại các tên riêng nước ngoài sau cho đúng quy tắc chính tả lớp 5:\na) hi ma lay a\nb) Trung quốc",
+        "answer": "• a) Tên phiên âm trực tiếp: Viết hoa chữ cái đầu bộ phận, có dấu gạch nối giữa các tiếng → 'Hi-ma-lay-a'.\n• b) Tên âm Hán Việt: Viết hoa chữ cái đầu của mỗi tiếng như tên riêng Việt Nam → 'Trung Quốc'.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tennuocngoai_b1",
+    "name": "Phiên âm trực tiếp: viết hoa chữ cái đầu mỗi bộ phận; gạch nối giữa các tiếng (Hi-ma-lay-a)",
+    "type": "STEP",
+    "parentId": "less_van5_tennuocngoai",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tennuocngoai_b2",
+    "name": "Âm Hán Việt: viết hoa chữ cái đầu mỗi tiếng (Trung Quốc, Bắc Kinh)",
+    "type": "STEP",
+    "parentId": "less_van5_tennuocngoai",
+    "examples": null
+  },
+  {
+    "id": "less_van5_viethoa_coquan",
+    "name": "Viết hoa tên cơ quan, tổ chức",
+    "type": "LESSON",
+    "parentId": "top_van5_chinhta_daucau",
+    "examples": [
+      {
+        "id": "ex_van5_viethoa_01",
+        "question": "Viết lại cho đúng quy tắc chính tả: a) trường tiểu học lê quý đôn; b) bộ giáo dục và đào tạo; c) hội chữ thập đỏ việt nam.",
+        "answer": "• a) Trường Tiểu học Lê Quý Đôn\n• b) Bộ Giáo dục và Đào tạo\n• c) Hội Chữ thập đỏ Việt Nam\n• Quy tắc: viết hoa chữ cái đầu của mỗi bộ phận tạo thành tên; các từ nối như 'và' không viết hoa.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_viethoa_coquan_b1",
+    "name": "Tên cơ quan, tổ chức, đơn vị: viết hoa chữ cái đầu của mỗi bộ phận tạo thành tên",
+    "type": "STEP",
+    "parentId": "less_van5_viethoa_coquan",
+    "examples": null
+  },
+  {
+    "id": "step_van5_viethoa_coquan_b2",
+    "name": "Từ nối (và, của…) không viết hoa: Bộ Giáo dục và Đào tạo",
+    "type": "STEP",
+    "parentId": "less_van5_viethoa_coquan",
+    "examples": null
+  },
+  {
+    "id": "cat_van5_viet",
+    "name": "Viết",
+    "type": "CATEGORY",
+    "parentId": "root_van5",
+    "examples": null
+  },
+  {
+    "id": "top_van5_vanmieuta",
+    "name": "Văn miêu tả",
+    "type": "TOPIC",
+    "parentId": "cat_van5_viet",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tacanh",
+    "name": "Văn tả cảnh",
+    "type": "LESSON",
+    "parentId": "top_van5_vanmieuta",
+    "examples": [
+      {
+        "id": "ex_van5_tacanh_01",
+        "question": "Lập dàn ý nhanh cho bài văn tả cảnh một buổi sáng trên cánh đồng quê em.",
+        "answer": "1. Mở bài: Giới thiệu cánh đồng quê hương vào một buổi sáng mùa thu rực rỡ.\n2. Thân bài:\n - Tả bao quát: Cánh đồng rộng lớn như một tấm thảm lụa vàng mênh mông dưới ánh bình minh.\n - Tả chi tiết theo thời gian:\n   + Lúc tinh mơ: Sương giăng mỏng, hạt sương đọng trên lá lúa long lanh.\n   + Khi mặt trời mọc: Nắng vàng trải dài trên cánh đồng, hương lúa chín thơm nồng, chim sẻ chuyền cành ríu rít.\n   + Hoạt động con người: Nông dân vác cuốc ra đồng, tiếng cười nói rộn rã.\n3. Kết bài: Bộc lộ tình yêu tha thiết và niềm tự hào đối với vẻ đẹp bình dị của quê hương.",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 340 210' width='340' height='210' role='img' font-family='Arial, Helvetica, sans-serif' font-size='12'><title>Sơ đồ dàn bài văn tả cảnh: mở bài, thân bài, kết bài</title><rect x='0.5' y='0.5' width='339' height='209' rx='8' fill='#ffffff' stroke='#d0d7de'/><rect id='root' x='110' y='14' width='120' height='30' rx='4' fill='#0f172a' stroke='#0f172a' stroke-width='1'/><text x='170' y='34' text-anchor='middle' fill='#ffffff' font-size='12' font-weight='bold'>BÀI VĂN TẢ CẢNH</text><path id='tree' d='M 170 44 L 170 68 M 50 68 L 290 68 M 50 68 L 50 92 M 170 68 L 170 92 M 290 68 L 290 92' fill='none' stroke='#64748b' stroke-width='1.5'/><rect id='mo' x='10' y='92' width='80' height='88' rx='4' fill='#f8fafc' stroke='#cbd5e1' stroke-width='1'/><text x='50' y='112' text-anchor='middle' fill='#1e293b' font-size='12' font-weight='bold'>1. Mở bài</text><text x='50' y='138' text-anchor='middle' fill='#64748b' font-size='11'>Trực tiếp /</text><text x='50' y='154' text-anchor='middle' fill='#64748b' font-size='11'>Gián tiếp</text><rect id='than' x='110' y='92' width='120' height='88' rx='4' fill='#f0fdfa' stroke='#0d9488' stroke-width='1.5'/><text x='170' y='112' text-anchor='middle' fill='#115e59' font-size='12' font-weight='bold'>2. Thân bài</text><text x='170' y='136' text-anchor='middle' fill='#0d9488' font-size='11'>Tả bao quát</text><path d='M 140 145 L 200 145' stroke='#cbd5e1' stroke-width='1'/><text x='170' y='163' text-anchor='middle' fill='#0d9488' font-size='11'>Tả chi tiết</text><rect id='ket' x='250' y='92' width='80' height='88' rx='4' fill='#f8fafc' stroke='#cbd5e1' stroke-width='1'/><text x='290' y='112' text-anchor='middle' fill='#1e293b' font-size='12' font-weight='bold'>3. Kết bài</text><text x='290' y='138' text-anchor='middle' fill='#64748b' font-size='11'>Mở rộng /</text><text x='290' y='154' text-anchor='middle' fill='#64748b' font-size='10'>Không mở rộng</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tacanh_b1",
+    "name": "Bố cục: Mở bài → Thân bài → Kết bài",
+    "type": "STEP",
+    "parentId": "less_van5_tacanh",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tacanh_b2",
+    "name": "Thân bài: tả bao quát → tả chi tiết (theo thời gian hoặc không gian)",
+    "type": "STEP",
+    "parentId": "less_van5_tacanh",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tacanh_b3",
+    "name": "Mở bài: trực tiếp / gián tiếp; Kết bài: mở rộng / không mở rộng",
+    "type": "STEP",
+    "parentId": "less_van5_tacanh",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tacanh_b4",
+    "name": "Quan sát bằng các giác quan; dùng so sánh, nhân hóa; gắn với cảm xúc",
+    "type": "STEP",
+    "parentId": "less_van5_tacanh",
+    "examples": null
+  },
+  {
+    "id": "less_van5_tanguoi",
+    "name": "Văn tả người",
+    "type": "LESSON",
+    "parentId": "top_van5_vanmieuta",
+    "examples": [
+      {
+        "id": "ex_van5_tanguoi_01",
+        "question": "Viết đoạn văn ngắn (từ 5 đến 7 câu) tả ngoại hình nổi bật của người bà kính yêu.",
+        "answer": "Bà nội em năm nay đã ngoài bảy mươi tuổi nhưng vẫn còn rất nhanh nhẹn. Mái tóc bà bạc phơ như mây trắng, luôn được búi gọn gàng sau gáy. Vầng trán bà hằn những nếp nhăn xếp chồng lên nhau, dấu vết của những năm tháng lao động vất vả nuôi con khôn lớn. Đôi mắt bà nheo lại hiền từ mỗi khi cười, tỏa ra ánh nhìn ấm áp, chở che. Nước da bà sạm đồi mồi, còn bàn tay gầy với những khớp xương to vẫn luôn âu yếm xoa đầu em mỗi chiều đi học về.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_tanguoi_b1",
+    "name": "Bố cục: Mở bài (giới thiệu) → Thân bài (ngoại hình, tính tình, hoạt động) → Kết bài (cảm nghĩ)",
+    "type": "STEP",
+    "parentId": "less_van5_tanguoi",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tanguoi_b2",
+    "name": "Ngoại hình: chọn nét nổi bật (tóc, mắt, nước da, dáng người…)",
+    "type": "STEP",
+    "parentId": "less_van5_tanguoi",
+    "examples": null
+  },
+  {
+    "id": "step_van5_tanguoi_b3",
+    "name": "Tính tình, hoạt động: thể hiện qua việc làm, lời nói, cử chỉ",
+    "type": "STEP",
+    "parentId": "less_van5_tanguoi",
+    "examples": null
+  },
+  {
+    "id": "top_van5_vankechuyen",
+    "name": "Văn kể chuyện",
+    "type": "TOPIC",
+    "parentId": "cat_van5_viet",
+    "examples": null
+  },
+  {
+    "id": "less_van5_kechuyensangtao",
+    "name": "Kể chuyện sáng tạo",
+    "type": "LESSON",
+    "parentId": "top_van5_vankechuyen",
+    "examples": [
+      {
+        "id": "ex_van5_kechuyen_01",
+        "question": "Đóng vai Rùa, kể lại cuộc thi chạy giữa Rùa và Thỏ trong truyện 'Rùa và Thỏ'.",
+        "answer": "Dàn ý & Đoạn mẫu:\n• Xưng hô: Xưng 'tôi' (Rùa).\n• Tâm lý: Bình tĩnh, kiên trì dù bị Thỏ chê cười chậm chạp.\n• Mẫu mở đoạn: 'Tôi là Rùa, ai cũng bảo tôi chậm chạp. Nghe Thỏ chê cười, tôi chỉ mỉm cười và đề nghị một cuộc thi chạy để chứng minh: chậm mà chắc, kiên trì ắt sẽ tới đích.'",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_kechuyen_02",
+        "question": "Thêm một chi tiết (suy nghĩ hoặc hành động) vào đoạn Thỏ đang ngủ dưới gốc cây giữa cuộc thi trong truyện 'Rùa và Thỏ', sao cho không làm thay đổi cốt truyện.",
+        "answer": "• Cách làm: Chọn đúng vị trí trong truyện → Thêm chi tiết (hành động, lời nói, suy nghĩ) → Giữ nguyên nhân vật và diễn biến chính.\n• Đoạn mẫu: 'Thỏ ta vươn vai, ngáp dài rồi nằm phịch xuống gốc cây rợp bóng mát. Nó lim dim mắt, thầm nghĩ: Rùa còn lâu mới bò tới đây, mình chợp mắt một lát cũng chẳng sao. Nghĩ vậy, Thỏ ngủ thiếp đi lúc nào không hay.'",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_kechuyen_03",
+        "question": "Viết đoạn kết thúc khác cho truyện 'Rùa và Thỏ', trong đó Thỏ tỉnh giấc kịp lúc nhưng vẫn về đích sau Rùa.",
+        "answer": "• Cách làm: Giữ nguyên nhân vật và diễn biến đến khi Thỏ tỉnh giấc → Thay đổi kết cục → Kết thúc hợp lí, vẫn nêu được bài học.\n• Đoạn mẫu: 'Giật mình tỉnh giấc, Thỏ vội vàng lao đi hết tốc lực. Nhưng khi tới nơi, Thỏ đã thấy Rùa đứng đó tự bao giờ, mai rùa vẫn ánh lên vẻ bình thản. Thỏ cúi đầu xấu hổ, tự nhủ: chủ quan, kiêu ngạo ắt sẽ thua cuộc dù có tài giỏi đến đâu.'",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_kechuyensangtao_b1",
+    "name": "Đóng vai: chọn nhân vật; xưng 'tôi'; nói suy nghĩ, cảm xúc của nhân vật",
+    "type": "STEP",
+    "parentId": "less_van5_kechuyensangtao",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kechuyensangtao_b2",
+    "name": "Thêm chi tiết: bổ sung lời thoại, hành động, tâm trạng; không làm sai cốt truyện",
+    "type": "STEP",
+    "parentId": "less_van5_kechuyensangtao",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kechuyensangtao_b3",
+    "name": "Đổi kết thúc: giữ nhân vật – hợp lí – có ý nghĩa",
+    "type": "STEP",
+    "parentId": "less_van5_kechuyensangtao",
+    "examples": null
+  },
+  {
+    "id": "top_van5_camxuc_ykien",
+    "name": "Cảm xúc – Ý kiến",
+    "type": "TOPIC",
+    "parentId": "cat_van5_viet",
+    "examples": null
+  },
+  {
+    "id": "less_van5_doanvancamxuc",
+    "name": "Đoạn văn nêu cảm xúc",
+    "type": "LESSON",
+    "parentId": "top_van5_camxuc_ykien",
+    "examples": [
+      {
+        "id": "ex_van5_doanvancamxuc_01",
+        "question": "Viết đoạn văn nêu cảm xúc của em sau khi đọc bài thơ 'Hạt gạo làng ta' của Trần Đăng Khoa.",
+        "answer": "Bài thơ 'Hạt gạo làng ta' của Trần Đăng Khoa đã để lại trong em những xúc động sâu sắc về giá trị của giọt mồ hôi lao động. Qua những vần thơ dạt dào nhịp điệu, em cảm nhận được hạt gạo nhỏ bé không chỉ mang vị phù sa của sông Kinh Thầy mà còn đong đầy nỗi vất vả của người mẹ giữa những trưa tháng sáu 'nước như ai nấu'. Hình ảnh các bạn nhỏ chống hạn, bắt sâu, gánh phân góp công làm ra hạt gạo khiến em thêm trân trọng từng hạt cơm mình ăn hằng ngày. Bài thơ là lời nhắc nhở nhẹ nhàng nhưng thấm thía về lòng biết ơn đối với người nông dân và hậu phương kháng chiến.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_doanvancamxuc_02",
+        "question": "Viết đoạn văn (4–5 câu) nêu cảm xúc của em về nhân vật Dế Mèn trong truyện 'Bài học đường đời đầu tiên'.",
+        "answer": "Đọc xong truyện 'Bài học đường đời đầu tiên', em rất xúc động trước sự ân hận của Dế Mèn. Ban đầu, Mèn kiêu căng, hợm hĩnh nên đã trêu chị Cốc và gây ra cái chết của Dế Choắt. Khi nhìn bạn hàng xóm nằm bất động, Mèn hối hận và tự nhủ phải sống khiêm tốn hơn. Em thấy thương Dế Choắt và cũng quý Dế Mèn vì đã biết nhận lỗi. Câu chuyện nhắc em phải suy nghĩ trước khi làm để không làm tổn thương người khác.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_doanvancamxuc_b1",
+    "name": "Câu mở: nêu tên tác phẩm, tác giả, cảm xúc chung",
+    "type": "STEP",
+    "parentId": "less_van5_doanvancamxuc",
+    "examples": null
+  },
+  {
+    "id": "step_van5_doanvancamxuc_b2",
+    "name": "Thân đoạn: chi tiết gây ấn tượng + lí do xúc động",
+    "type": "STEP",
+    "parentId": "less_van5_doanvancamxuc",
+    "examples": null
+  },
+  {
+    "id": "step_van5_doanvancamxuc_b3",
+    "name": "Câu kết: bài học, lời nhắn nhủ",
+    "type": "STEP",
+    "parentId": "less_van5_doanvancamxuc",
+    "examples": null
+  },
+  {
+    "id": "less_van5_doanvanykien",
+    "name": "Đoạn văn nêu ý kiến",
+    "type": "LESSON",
+    "parentId": "top_van5_camxuc_ykien",
+    "examples": [
+      {
+        "id": "ex_van5_doanvanykien_01",
+        "question": "Viết đoạn văn ngắn nêu ý kiến tán thành về phong trào giữ gìn vệ sinh trường lớp học.",
+        "answer": "Em hoàn toàn tán thành với phong trào 'Trường học xanh - sạch - đẹp' do Liên đội phát động. Thứ nhất, việc giữ gìn vệ sinh lớp học giúp tạo ra một môi trường học tập thoáng mát, bảo vệ sức khỏe cho học sinh. Thứ hai, khi cùng nhau quét dọn sân trường, chúng em rèn luyện được tinh thần trách nhiệm và tính tự giác lao động. Vì vậy, mỗi học sinh cần hành động ngay từ những việc nhỏ nhất như bỏ rác đúng nơi quy định.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_doanvanykien_02",
+        "question": "Viết đoạn văn ngắn nêu ý kiến không tán thành với ý kiến: 'Chỉ cần học giỏi, không cần tham gia hoạt động tập thể.'",
+        "answer": "Em không đồng ý với ý kiến cho rằng chỉ cần học giỏi mà không cần tham gia hoạt động tập thể. Trước hết, hoạt động tập thể giúp chúng em rèn luyện kĩ năng hợp tác và giao tiếp với bạn bè. Bên cạnh đó, những buổi sinh hoạt, văn nghệ, thể thao giúp em thư giãn, khỏe mạnh để học tốt hơn. Vì vậy, mỗi học sinh vừa cần chăm chỉ học tập, vừa nên tích cực tham gia hoạt động của lớp, của trường.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_doanvanykien_b1",
+    "name": "Cấu trúc: Nêu ý kiến → Lí lẽ (thứ nhất, thứ hai…) → Bằng chứng → Khẳng định lại",
+    "type": "STEP",
+    "parentId": "less_van5_doanvanykien",
+    "examples": null
+  },
+  {
+    "id": "step_van5_doanvanykien_b2",
+    "name": "Tán thành: 'em đồng ý vì…'; Phản đối: 'em không đồng ý vì…' (lí lẽ – bằng chứng)",
+    "type": "STEP",
+    "parentId": "less_van5_doanvanykien",
+    "examples": null
+  },
+  {
+    "id": "top_van5_vanbanthongtin",
+    "name": "Báo cáo – Chương trình – Thư",
+    "type": "TOPIC",
+    "parentId": "cat_van5_viet",
+    "examples": null
+  },
+  {
+    "id": "less_van5_baocaocongviec",
+    "name": "Báo cáo công việc",
+    "type": "LESSON",
+    "parentId": "top_van5_vanbanthongtin",
+    "examples": [
+      {
+        "id": "ex_van5_baocao_01",
+        "question": "Nêu bố cục chuẩn 3 phần của một bản Báo cáo hoạt động tháng của Tổ học tập.",
+        "answer": "1. Phần đầu: Quốc hiệu, tiêu ngữ; địa điểm, thời gian; tên báo cáo ('BÁO CÁO HOẠT ĐỘNG THÁNG 9 CỦA TỔ 1'); nơi nhận ('Kính gửi: Cô giáo chủ nhiệm').\n2. Phần chính: Trình bày kết quả đã làm được theo từng mục (1. Học tập, 2. Kỷ luật, 3. Hoạt động phong trào), có số liệu minh họa; nêu tồn tại và kiến nghị (nếu có).\n3. Phần cuối: Chữ ký và họ tên của Tổ trưởng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_baocaocongviec_b1",
+    "name": "Bố cục: Phần đầu (tên báo cáo, nơi nhận) – Phần chính (kết quả) – Phần cuối (ký tên)",
+    "type": "STEP",
+    "parentId": "less_van5_baocaocongviec",
+    "examples": null
+  },
+  {
+    "id": "step_van5_baocaocongviec_b2",
+    "name": "Yêu cầu: trung thực, số liệu chính xác, ngắn gọn, chia theo mục",
+    "type": "STEP",
+    "parentId": "less_van5_baocaocongviec",
+    "examples": null
+  },
+  {
+    "id": "less_van5_chuongtrinhhoatdong",
+    "name": "Chương trình hoạt động",
+    "type": "LESSON",
+    "parentId": "top_van5_vanbanthongtin",
+    "examples": [
+      {
+        "id": "ex_van5_chuongtrinh_01",
+        "question": "Lập khung chương trình hoạt động cho buổi 'Lễ kỷ niệm Ngày Nhà giáo Việt Nam 20-11' của lớp.",
+        "answer": "• Mục đích: Tri ân thầy cô giáo nhân Ngày Nhà giáo Việt Nam 20-11.\n• Thời gian, địa điểm: 8h00 ngày 20/11 tại phòng học lớp 5A.\n• Phân công chuẩn bị: Trang trí bảng (tổ 1); chuẩn bị hoa (tổ 2); tập luyện tiết mục văn nghệ (tổ 3, tổ 4).\n• Chương trình cụ thể (thời gian – hoạt động – người phụ trách):\n  - 8h00 – 8h15: Ổn định tổ chức, tuyên bố lý do (lớp trưởng).\n  - 8h15 – 8h45: Phát biểu tri ân và tặng hoa (đại diện học sinh).\n  - 8h45 – 9h30: Biểu diễn văn nghệ và giao lưu trò chơi (lớp phó văn thể).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_chuongtrinhhoatdong_b1",
+    "name": "Gồm: Mục đích – Thời gian, địa điểm – Chuẩn bị – Hoạt động (thời gian, nội dung, người phụ trách)",
+    "type": "STEP",
+    "parentId": "less_van5_chuongtrinhhoatdong",
+    "examples": null
+  },
+  {
+    "id": "step_van5_chuongtrinhhoatdong_b2",
+    "name": "Yêu cầu: rõ việc, rõ người, thời gian hợp lí",
+    "type": "STEP",
+    "parentId": "less_van5_chuongtrinhhoatdong",
+    "examples": null
+  },
+  {
+    "id": "less_van5_vietthu",
+    "name": "Viết thư",
+    "type": "LESSON",
+    "parentId": "top_van5_vanbanthongtin",
+    "examples": [
+      {
+        "id": "ex_van5_vietthu_01",
+        "question": "Nêu bố cục chuẩn 3 phần của một bài văn viết thư gửi cho người thân hoặc bạn bè ở xa.",
+        "answer": "1. Đầu thư: Địa điểm, thời gian viết thư ('Hà Nội, ngày... tháng... năm...') + Lời xưng hô đầu thư ('Mẹ kính yêu! / Nam bạn thân mến!').\n2. Nội dung chính:\n - Hỏi thăm sức khỏe, tình hình của người nhận thư.\n - Thông báo tình hình sức khỏe, học tập, sinh hoạt của bản thân.\n - Bày tỏ tình cảm, kỉ niệm hoặc lời hứa hẹn, động viên.\n3. Cuối thư: Lời chúc, lời cảm ơn, lời hứa → Chữ ký và họ tên người viết.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_vietthu_b1",
+    "name": "Đầu thư: địa điểm, ngày tháng; lời xưng hô",
+    "type": "STEP",
+    "parentId": "less_van5_vietthu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_vietthu_b2",
+    "name": "Nội dung: hỏi thăm → kể tình hình → bày tỏ tình cảm, mong muốn",
+    "type": "STEP",
+    "parentId": "less_van5_vietthu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_vietthu_b3",
+    "name": "Cuối thư: lời chúc, cảm ơn, hứa; chữ ký, họ tên",
+    "type": "STEP",
+    "parentId": "less_van5_vietthu",
+    "examples": null
+  },
+  {
+    "id": "cat_van5_dochieu",
+    "name": "Đọc hiểu",
+    "type": "CATEGORY",
+    "parentId": "root_van5",
+    "examples": null
+  },
+  {
+    "id": "top_van5_ngulieu",
+    "name": "Ngữ liệu văn bản",
+    "type": "TOPIC",
+    "parentId": "cat_van5_dochieu",
+    "examples": null
+  },
+  {
+    "id": "less_van5_vanbanvanhoc",
+    "name": "Văn bản văn học: thơ – truyện – kịch",
+    "type": "LESSON",
+    "parentId": "top_van5_ngulieu",
+    "examples": [
+      {
+        "id": "ex_van5_vbvh_01",
+        "question": "Đọc hai dòng thơ sau và xác định thể thơ, cách ngắt nhịp: 'Tuổi con là tuổi Ngựa / Ngựa không yên một chỗ' (Xuân Quỳnh, bài Tuổi Ngựa).",
+        "answer": "• Thể thơ: năm chữ (mỗi dòng có 5 tiếng).\n• Nhịp thơ: 2/3 – 'Tuổi con / là tuổi Ngựa'; 'Ngựa không / yên một chỗ'.\n• Nhận xét: nhịp ngắn, nhanh gợi sự hiếu động, không chịu yên một chỗ của chú 'Ngựa con'.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_vbvh_02",
+        "question": "Xác định ngôi kể trong hai câu sau và nêu dấu hiệu nhận biết: a) 'Sáng nào tôi cũng dậy sớm cùng bà ra vườn.' b) 'Sáng nào Nam cũng dậy sớm cùng bà ra vườn.'",
+        "answer": "• a) Ngôi kể thứ nhất: người kể xưng 'tôi', là người trong câu chuyện.\n• b) Ngôi kể thứ ba: người kể không xuất hiện, gọi nhân vật bằng tên ('Nam').\n• Dấu hiệu: dựa vào cách xưng hô của người kể (tôi/chúng tôi → ngôi thứ nhất; tên nhân vật, nó, họ → ngôi thứ ba).",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_vbvh_03",
+        "question": "Nêu những dấu hiệu giúp nhận biết một văn bản là kịch.",
+        "answer": "1. Nội dung chủ yếu là lời thoại của các nhân vật, ghi sau tên nhân vật.\n2. Có lời chỉ dẫn sân khấu (hành động, thái độ, bối cảnh), thường đặt trong ngoặc đơn.\n3. Chia thành hồi, lớp (cảnh); nội dung phát triển qua mâu thuẫn, xung đột giữa các nhân vật.\n4. Được viết để diễn trên sân khấu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_vanbanvanhoc_b1",
+    "name": "Thơ: vần, nhịp, hình ảnh, cảm xúc; thể thơ (bốn chữ, năm chữ, lục bát…)",
+    "type": "STEP",
+    "parentId": "less_van5_vanbanvanhoc",
+    "examples": null
+  },
+  {
+    "id": "step_van5_vanbanvanhoc_b2",
+    "name": "Truyện: nhân vật, cốt truyện, người kể (ngôi thứ nhất/thứ ba), lời thoại",
+    "type": "STEP",
+    "parentId": "less_van5_vanbanvanhoc",
+    "examples": null
+  },
+  {
+    "id": "step_van5_vanbanvanhoc_b3",
+    "name": "Kịch: lời thoại + chỉ dẫn sân khấu (ngoặc đơn); chia hồi, lớp; mâu thuẫn, xung đột",
+    "type": "STEP",
+    "parentId": "less_van5_vanbanvanhoc",
+    "examples": null
+  },
+  {
+    "id": "less_van5_vanban_thongtin",
+    "name": "Văn bản thông tin",
+    "type": "LESSON",
+    "parentId": "top_van5_ngulieu",
+    "examples": [
+      {
+        "id": "ex_van5_vbtt_01",
+        "question": "Trích xuất thông tin từ đoạn văn bản thông tin sau: 'Sơn Đoòng (Quảng Bình) được công nhận là hang động tự nhiên lớn nhất thế giới vào năm 2013, với chiều dài lên tới gần 9 km.'",
+        "answer": "• Tên hang động: Sơn Đoòng (Quảng Bình).\n• Mốc thời gian được công nhận: năm 2013.\n• Dữ liệu kích thước: chiều dài gần 9 km; danh hiệu: hang động tự nhiên lớn nhất thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_vanban_thongtin_b1",
+    "name": "Đặc điểm: thông tin chính xác, khách quan; có nhan đề, đề mục, số liệu, hình ảnh, biểu đồ",
+    "type": "STEP",
+    "parentId": "less_van5_vanban_thongtin",
+    "examples": null
+  },
+  {
+    "id": "step_van5_vanban_thongtin_b2",
+    "name": "Đọc: nhan đề → đề mục → từ khóa (ai? khi nào? ở đâu? bao nhiêu?)",
+    "type": "STEP",
+    "parentId": "less_van5_vanban_thongtin",
+    "examples": null
+  },
+  {
+    "id": "top_van5_capdo_dochieu",
+    "name": "Cấp độ câu hỏi",
+    "type": "TOPIC",
+    "parentId": "cat_van5_dochieu",
+    "examples": null
+  },
+  {
+    "id": "less_van5_nhanbiet",
+    "name": "Cấp 1 – Nhận biết",
+    "type": "LESSON",
+    "parentId": "top_van5_capdo_dochieu",
+    "examples": [
+      {
+        "id": "ex_van5_nhanbiet_01",
+        "question": "Đề bài: 'Tìm chi tiết trong bài cho biết ngày khai trường tháng 9 năm 1945 có điểm gì đặc biệt?' (Bài Thư gửi các học sinh).",
+        "answer": "• Kỹ thuật xử lý: Đọc lướt định vị từ khóa 'ngày khai trường tháng 9 năm 1945'.\n• Trích xuất đáp án: Đó là ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, ngày mà học sinh bắt đầu được hưởng một nền giáo dục hoàn toàn Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_nhanbiet_b1",
+    "name": "Ai? Cái gì? Ở đâu? Khi nào? → tìm chi tiết có sẵn trong bài",
+    "type": "STEP",
+    "parentId": "less_van5_nhanbiet",
+    "examples": null
+  },
+  {
+    "id": "step_van5_nhanbiet_b2",
+    "name": "Kỹ thuật: đọc lướt, gạch từ khóa, trích nguyên văn",
+    "type": "STEP",
+    "parentId": "less_van5_nhanbiet",
+    "examples": null
+  },
+  {
+    "id": "less_van5_thonghieu",
+    "name": "Cấp 2 – Thông hiểu",
+    "type": "LESSON",
+    "parentId": "top_van5_capdo_dochieu",
+    "examples": [
+      {
+        "id": "ex_van5_thonghieu_01",
+        "question": "Đề bài: 'Giải thích vì sao tác giả gọi cảnh rừng khộp là giang sơn vàng rợi?' (Bài Kỳ diệu rừng xanh).",
+        "answer": "• Kỹ thuật xử lý: Tìm và tổng hợp các chi tiết miêu tả màu sắc ở đoạn cuối bài.\n• Giải thích: Vì cảnh rừng khộp có rất nhiều sắc vàng cùng hiện ra: lá úa vàng như mùa thu, thảm lá vàng dưới đất, những con mang lông vàng và nắng cũng rực vàng trên lưng chúng; chỉ có vài vạt cỏ xanh biếc nổi bật giữa không gian ấy. Từ 'giang sơn' cho thấy cảnh rừng rộng lớn, giàu có và kì diệu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_thonghieu_b1",
+    "name": "Vì sao? Nghĩa là gì? Ý chính? → giải thích bằng lời của mình",
+    "type": "STEP",
+    "parentId": "less_van5_thonghieu",
+    "examples": null
+  },
+  {
+    "id": "step_van5_thonghieu_b2",
+    "name": "Kỹ thuật: tổng hợp chi tiết, xác định ý đoạn, ý bài",
+    "type": "STEP",
+    "parentId": "less_van5_thonghieu",
+    "examples": null
+  },
+  {
+    "id": "less_van5_vandung",
+    "name": "Cấp 3 – Vận dụng",
+    "type": "LESSON",
+    "parentId": "top_van5_capdo_dochieu",
+    "examples": [
+      {
+        "id": "ex_van5_vandung_01",
+        "question": "Chỉ ra biện pháp nhân hóa trong câu sau và nêu tác dụng: 'Cây bàng già đứng lặng lẽ, chìa những cánh tay khẳng khiu che nắng cho các em nhỏ.'",
+        "answer": "• Biện pháp nhân hóa: cây bàng 'đứng lặng lẽ', có 'cánh tay', biết 'che nắng cho' các em – những từ chỉ hoạt động, bộ phận của con người dùng cho cây.\n• Tác dụng: làm cho cây bàng hiện lên sinh động, gần gũi, như một người che chở, yêu thương học sinh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_vandung_02",
+        "question": "Sau khi đọc bài 'Thư gửi các học sinh' của Chủ tịch Hồ Chí Minh, em rút ra bài học gì cho bản thân?",
+        "answer": "• Kỹ thuật xử lý: Xác định thông điệp chính của bài → Liên hệ với việc học của bản thân → Nêu hành động cụ thể.\n• Bài làm mẫu: Bác Hồ dặn học sinh phải siêng năng học tập để xây dựng nước Việt Nam mới. Em rút ra bài học phải trân trọng quyền được đi học, chăm chỉ học tập mỗi ngày và cố gắng trở thành người có ích cho đất nước.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_vandung_b1",
+    "name": "Em học được gì? Nếu em là…? → liên hệ bản thân, thực tế",
+    "type": "STEP",
+    "parentId": "less_van5_vandung",
+    "examples": null
+  },
+  {
+    "id": "step_van5_vandung_b2",
+    "name": "Chỉ ra biện pháp nghệ thuật + nêu tác dụng; rút bài học",
+    "type": "STEP",
+    "parentId": "less_van5_vandung",
+    "examples": null
+  },
+  {
+    "id": "cat_van5_noivanghe",
+    "name": "Nói và nghe",
+    "type": "CATEGORY",
+    "parentId": "root_van5",
+    "examples": null
+  },
+  {
+    "id": "top_van5_tinhhuong_noi",
+    "name": "Tình huống nói – nghe",
+    "type": "TOPIC",
+    "parentId": "cat_van5_noivanghe",
+    "examples": null
+  },
+  {
+    "id": "less_van5_kechuyen_trainghiem",
+    "name": "Kể chuyện – Chia sẻ trải nghiệm",
+    "type": "LESSON",
+    "parentId": "top_van5_tinhhuong_noi",
+    "examples": [
+      {
+        "id": "ex_van5_kc_trainghiem_01",
+        "question": "Trình bày dàn ý nói chia sẻ về một chuyến tham quan di tích lịch sử mà em nhớ nhất.",
+        "answer": "1. Mở đầu: Lời chào + Giới thiệu chuyến đi (ví dụ: Chuyến thăm Văn Miếu - Quốc Tử Giám mùa hè qua).\n2. Trình bày chính: Cảnh quan di tích (khu Khuê Văn Các, hàng bia Tiến sĩ) + Hoạt động em tham gia + Cảm xúc ghi nhớ.\n3. Kết thúc: Khẳng định ý nghĩa chuyến đi + Lời cảm ơn người nghe.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_kechuyen_trainghiem_b1",
+    "name": "Bố cục bài nói: Mở đầu (chào, giới thiệu) – Nội dung chính – Kết thúc (cảm ơn)",
+    "type": "STEP",
+    "parentId": "less_van5_kechuyen_trainghiem",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kechuyen_trainghiem_b2",
+    "name": "Kể theo trình tự thời gian hoặc không gian; nêu cảm xúc",
+    "type": "STEP",
+    "parentId": "less_van5_kechuyen_trainghiem",
+    "examples": null
+  },
+  {
+    "id": "less_van5_gioithieu_diadanh",
+    "name": "Giới thiệu thắng cảnh, sản vật, nghệ thuật",
+    "type": "LESSON",
+    "parentId": "top_van5_tinhhuong_noi",
+    "examples": [
+      {
+        "id": "ex_van5_gt_diadanh_01",
+        "question": "Luyện tập bài nói giới thiệu về đặc sản Cốm làng Vòng (Hà Nội).",
+        "answer": "• Nội dung nói: Giới thiệu nguồn gốc, hương vị thơm ngọt bùi của hạt nếp non gói trong lá sen ngát hương, cách thưởng thức cốm đúng điệu mộc mạc.\n• Phương tiện hỗ trợ: Đem theo tranh ảnh hoặc đĩa cốm xanh tươi minh họa.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_gioithieu_diadanh_b1",
+    "name": "Nêu: tên – vị trí – đặc điểm nổi bật – giá trị, ý nghĩa",
+    "type": "STEP",
+    "parentId": "less_van5_gioithieu_diadanh",
+    "examples": null
+  },
+  {
+    "id": "step_van5_gioithieu_diadanh_b2",
+    "name": "Dùng tranh ảnh, vật thật để minh họa; giọng nói hấp dẫn",
+    "type": "STEP",
+    "parentId": "less_van5_gioithieu_diadanh",
+    "examples": null
+  },
+  {
+    "id": "less_van5_thaoluan_nhom",
+    "name": "Thảo luận nhóm",
+    "type": "LESSON",
+    "parentId": "top_van5_tinhhuong_noi",
+    "examples": [
+      {
+        "id": "ex_van5_thaoluan_01",
+        "question": "Thực hành thảo luận nhóm về chủ đề: 'Có nên cho học sinh tiểu học tự mang điện thoại di động đến trường?'",
+        "answer": "• Phân công: Người điều hành nêu vấn đề → Thành viên lần lượt nêu ý kiến tán thành/phản đối có lý lẽ → Thư ký ghi chép → Cả nhóm tổng hợp kết luận, trao đổi văn minh, lịch sự.\n• Gợi ý lý lẽ: Tán thành – liên lạc với gia đình khi cần, tra cứu thông tin. Phản đối – dễ mất tập trung, dễ sa vào trò chơi, có nguy cơ mất hoặc hỏng máy.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_thaoluan_nhom_b1",
+    "name": "Vai trò: người điều hành – thư ký – các thành viên phát biểu",
+    "type": "STEP",
+    "parentId": "less_van5_thaoluan_nhom",
+    "examples": null
+  },
+  {
+    "id": "step_van5_thaoluan_nhom_b2",
+    "name": "Nêu ý kiến có lí lẽ, dẫn chứng; tôn trọng ý kiến khác; thống nhất kết luận",
+    "type": "STEP",
+    "parentId": "less_van5_thaoluan_nhom",
+    "examples": null
+  },
+  {
+    "id": "top_van5_kytuathuat_noi",
+    "name": "Quy trình – Kỹ năng",
+    "type": "TOPIC",
+    "parentId": "cat_van5_noivanghe",
+    "examples": null
+  },
+  {
+    "id": "less_van5_quytrinh_3buoc",
+    "name": "Quy trình: Chuẩn bị → Trình bày → Nghe – Tương tác",
+    "type": "LESSON",
+    "parentId": "top_van5_kytuathuat_noi",
+    "examples": [
+      {
+        "id": "ex_van5_quytrinh_01",
+        "question": "Liệt kê nhiệm vụ cụ thể ở bước 'Nghe và Tương tác' để nghe tốt.",
+        "answer": "1. Tập trung lắng nghe người nói, không ngắt lời giữa chừng.\n2. Ghi chép nhanh các từ khóa hoặc chi tiết ấn tượng ra sổ tay.\n3. Đặt câu hỏi trao đổi lại với thái độ tôn trọng, lịch sự.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_quytrinh_02",
+        "question": "Liệt kê những việc cần làm ở bước 'Chuẩn bị' trước khi trình bày một bài nói.",
+        "answer": "1. Xác định đề tài, mục đích nói và đối tượng nghe.\n2. Tìm ý, sắp xếp thành dàn ý (mở đầu – nội dung chính – kết thúc).\n3. Chuẩn bị tranh ảnh, vật thật hoặc dữ liệu minh họa.\n4. Luyện nói trước gương hoặc trước người thân, chú ý thời gian.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_quytrinh_3buoc_b1",
+    "name": "Chuẩn bị: xác định đề tài, người nghe, mục đích → lập dàn ý → luyện nói",
+    "type": "STEP",
+    "parentId": "less_van5_quytrinh_3buoc",
+    "examples": null
+  },
+  {
+    "id": "step_van5_quytrinh_3buoc_b2",
+    "name": "Trình bày: nói rõ, đúng trọng tâm; kết hợp cử chỉ, ánh mắt",
+    "type": "STEP",
+    "parentId": "less_van5_quytrinh_3buoc",
+    "examples": null
+  },
+  {
+    "id": "step_van5_quytrinh_3buoc_b3",
+    "name": "Nghe – tương tác: chăm chú, ghi ý chính, hỏi lại lịch sự",
+    "type": "STEP",
+    "parentId": "less_van5_quytrinh_3buoc",
+    "examples": null
+  },
+  {
+    "id": "less_van5_kynang_giaotiep",
+    "name": "Ánh mắt – Giọng điệu – Từ nối",
+    "type": "LESSON",
+    "parentId": "top_van5_kytuathuat_noi",
+    "examples": [
+      {
+        "id": "ex_van5_kynang_01",
+        "question": "Trình bày 3 kỹ thuật giúp bài nói thu hút người nghe.",
+        "answer": "1. Ánh mắt: Nhìn đều về phía người nghe, không nhìn xuống giấy quá lâu.\n2. Cử chỉ, nét mặt: Dùng điệu bộ tay và nụ cười tự nhiên, phù hợp với cảm xúc bài nói.\n3. Giọng nói: Phát âm tròn vành rõ tiếng, tốc độ vừa phải, nhấn giọng ở từ khóa quan trọng.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_van5_kynang_02",
+        "question": "Nêu một số từ ngữ kết nối giúp bài nói mạch lạc, dễ theo dõi.",
+        "answer": "• Mở đầu: 'Trước hết…', 'Đầu tiên…'.\n• Chuyển ý: 'Tiếp theo…', 'Ngoài ra…', 'Bên cạnh đó…'.\n• Kết thúc: 'Cuối cùng…', 'Tóm lại…', 'Như vậy…'.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "step_van5_kynang_giaotiep_b1",
+    "name": "Ánh mắt: nhìn người nghe; nét mặt, cử chỉ tự nhiên; tư thế đứng thẳng",
+    "type": "STEP",
+    "parentId": "less_van5_kynang_giaotiep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kynang_giaotiep_b2",
+    "name": "Giọng: rõ ràng, tốc độ vừa phải, nhấn từ khóa, ngắt nghỉ hợp lí",
+    "type": "STEP",
+    "parentId": "less_van5_kynang_giaotiep",
+    "examples": null
+  },
+  {
+    "id": "step_van5_kynang_giaotiep_b3",
+    "name": "Từ nối chuyển ý: trước hết, tiếp theo, ngoài ra, cuối cùng…",
+    "type": "STEP",
+    "parentId": "less_van5_kynang_giaotiep",
+    "examples": null
+  }
+]

@@ -1,0 +1,2331 @@
+[
+  {
+    "id": "sudia6_subject",
+    "name": "Lịch sử & Địa lý 6\n(Kết nối tri thức)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "su6_cat_1",
+    "name": "Phân môn Lịch sử",
+    "type": "CATEGORY",
+    "parentId": "sudia6_subject",
+    "examples": null
+  },
+  {
+    "id": "dia6_cat_2",
+    "name": "Phân môn Địa lý",
+    "type": "CATEGORY",
+    "parentId": "sudia6_subject",
+    "examples": null
+  },
+  {
+    "id": "su6_top_1_1",
+    "name": "Nhập môn Lịch sử\nLịch sử + Tư liệu + Thời gian",
+    "type": "TOPIC",
+    "parentId": "su6_cat_1",
+    "examples": null
+  },
+  {
+    "id": "su6_top_1_2",
+    "name": "Xã hội nguyên thủy\nTiến hóa + Thị tộc + Kim loại",
+    "type": "TOPIC",
+    "parentId": "su6_cat_1",
+    "examples": null
+  },
+  {
+    "id": "su6_top_1_3",
+    "name": "Văn minh cổ đại\nPhương Đông + Phương Tây",
+    "type": "TOPIC",
+    "parentId": "su6_cat_1",
+    "examples": null
+  },
+  {
+    "id": "su6_top_1_4",
+    "name": "Đông Nam Á\nĐầu Công nguyên -> Thế kỷ X",
+    "type": "TOPIC",
+    "parentId": "su6_cat_1",
+    "examples": null
+  },
+  {
+    "id": "su6_top_1_5",
+    "name": "Việt Nam\nThế kỷ VII TCN -> Đầu thế kỷ X",
+    "type": "TOPIC",
+    "parentId": "su6_cat_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_top_2_1",
+    "name": "Bản đồ\nKinh vĩ tuyến + Tỉ lệ + Ký hiệu",
+    "type": "TOPIC",
+    "parentId": "dia6_cat_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_top_2_2",
+    "name": "Trái Đất\nVị trí + Tự quay + Công chuyển",
+    "type": "TOPIC",
+    "parentId": "dia6_cat_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_top_2_3",
+    "name": "Cấu tạo Trái Đất\nMảng kiến tạo + Địa hình",
+    "type": "TOPIC",
+    "parentId": "dia6_cat_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_top_2_4",
+    "name": "Khí hậu\nGió + Nhiệt độ + Biến đổi khí hậu",
+    "type": "TOPIC",
+    "parentId": "dia6_cat_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_top_2_5",
+    "name": "Nước trên Trái Đất\nSông + Biển + Tuần hoàn",
+    "type": "TOPIC",
+    "parentId": "dia6_cat_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_top_2_6",
+    "name": "Đất + Sinh vật + Dân cư\nCon người & Thiên nhiên",
+    "type": "TOPIC",
+    "parentId": "dia6_cat_2",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_1_1",
+    "name": "Lịch sử là gì?\nTư liệu (4 loại)",
+    "type": "LESSON",
+    "parentId": "su6_top_1_1",
+    "examples": [
+      {
+        "id": "su_ex_1_1_1_1",
+        "question": "Phân tích tư liệu: Tại sao tư liệu gốc có giá trị lịch sử cao nhất?",
+        "answer": "Nguyên nhân/Bối cảnh: Người làm ra tư liệu gốc tận mắt thấy / sống đúng thời sự kiện\nDiễn biến/Sự kiện: Chưa qua kể lại -> Ít thêm bớt\nTruyền thuyết: Qua nhiều đời -> Dễ sai\nSách viết sau: Theo quan điểm người viết\nKết quả/Hệ quả: Tư liệu gốc = Bằng chứng đáng tin cậy nhất\nÝ nghĩa & Lưu ý: Là cơ sở dựng lại lịch sử\nLưu ý: Vẫn có thể thiếu sót -> Phải đối chiếu nhiều nguồn",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_1_1_2",
+        "question": "Phân loại tư liệu: Bia đá thời Lý, truyền thuyết Sơn Tinh - Thủy Tinh, trống đồng Đông Sơn, sách Đại Việt sử ký toàn thư thuộc loại tư liệu nào?",
+        "answer": "Nguyên nhân/Bối cảnh: Muốn biết tư liệu tin được đến đâu -> Phải biết nó thuộc loại nào\nDiễn biến/Sự kiện: Bia đá thời Lý: Chữ viết (khắc đương thời, gần như tư liệu gốc)\nSơn Tinh - Thủy Tinh: Truyền miệng\nTrống đồng Đông Sơn: Hiện vật\nĐại Việt sử ký toàn thư: Chữ viết (viết sau sự kiện rất lâu)\nKết quả/Hệ quả: Hiện vật -> Đời sống vật chất\nChữ viết -> Sự kiện, con người\nTruyền miệng -> Dấu vết xa xưa\nÝ nghĩa & Lưu ý: Phân loại đúng -> Dùng tư liệu đúng cách\nLưu ý: Sách viết sau chưa phải tư liệu gốc của sự kiện xảy ra trước đó",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_1_1_1",
+    "name": "[Lịch sử là gì?]:\nLịch sử = Những gì ĐÃ xảy ra trong quá khứ\nQuá khứ = Mọi thứ trước hiện tại (hôm qua, năm xưa...)\nMôn Lịch sử = Khoa học tìm hiểu + dựng lại quá khứ\nĐối tượng: Hoạt động của con người + Xã hội loài người",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_1_2",
+    "name": "[Vì sao học Lịch sử?]:\nHiểu cội nguồn: Mình từ đâu đến\nRút kinh nghiệm: Cái hay -> học; Cái dở -> tránh\nBiết ơn người đi trước + Yêu nước\nHiểu hiện tại + Định hướng tương lai",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_1_3",
+    "name": "[Tư liệu là gì?]:\nTư liệu = Dấu vết quá khứ còn lại (bằng chứng)\nKhông có tư liệu -> Không dựng lại được lịch sử\nVí dụ: Đồ vật cũ, sách, bia đá, lời kể",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_1_4",
+    "name": "[4 loại tư liệu]:\nHiện vật: Vật thật còn lại (trống đồng, công cụ đá)\nChữ viết: Văn bản, sách, bia đá\nTruyền miệng: Truyền thuyết, ca dao, lời kể\nTư liệu gốc: Ra đời CÙNG THỜI với sự kiện",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_1_5",
+    "name": "[Bản chất: Vì sao tư liệu gốc đáng tin nhất?]:\nNgười làm ra tận mắt thấy / sống đúng thời đó\nChưa qua kể lại -> Ít thêm bớt\nTruyền miệng: Qua nhiều đời -> Dễ sai lệch\nSách viết sau: Mang quan điểm người viết",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_1_6",
+    "name": "[Cách làm: Phân loại tư liệu]:\nBước 1: Nó ở dạng gì? (Vật / Chữ / Lời kể)\nBước 2: Ra đời lúc nào? (Cùng thời hay viết sau?)\nBước 3: Kết luận loại + Mức tin cậy",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_1_7",
+    "name": "[Tránh nhầm]:\nTư liệu gốc vẫn có thể thiếu / sai -> Phải đối chiếu\nSách viết sau nhiều thế kỷ KHÔNG phải tư liệu gốc\nTruyền thuyết có 'lõi' lịch sử -> Cần kiểm chứng",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_1_2",
+    "name": "Thời gian lịch sử\nThế kỷ + Công lịch (CN / TCN)",
+    "type": "LESSON",
+    "parentId": "su6_top_1_1",
+    "examples": [
+      {
+        "id": "su_ex_1_1_2_1",
+        "question": "Tính toán thời gian: Năm 938 thuộc thế kỷ nào và cách năm 2026 bao nhiêu năm?",
+        "answer": "Nguyên nhân/Bối cảnh: Cần xếp sự kiện vào đúng thế kỷ để so sánh\nDiễn biến/Sự kiện: Bước 1: 938 -> bỏ 2 chữ số cuối -> 9\nBước 2: 9 + 1 = 10 -> Thế kỷ X (kiểm tra: 901 -> 1000 chứa 938)\nBước 3: Cách 2026: 2026 - 938 = 1088 năm\nKết quả/Hệ quả: 938 thuộc thế kỷ X; cách nay 1088 năm\nÝ nghĩa & Lưu ý: Lỗi hay gặp: Thấy số 9 -> kết luận thế kỷ IX (quên +1)",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 185' width='480' height='185' role='img'><title>Trục thời gian thế kỷ X, năm 938</title><rect width='480' height='185' fill='#ffffff'/><line x1='40' y1='110' x2='440' y2='110' stroke='#1f4e79' stroke-width='4'/><line x1='40' y1='102' x2='40' y2='118' stroke='#1f4e79' stroke-width='2'/><text x='40' y='136' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>901</text><line x1='237.98' y1='102' x2='237.98' y2='118' stroke='#1f4e79' stroke-width='2'/><text x='237.98' y='136' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>950</text><line x1='440' y1='102' x2='440' y2='118' stroke='#1f4e79' stroke-width='2'/><text x='440' y='136' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1000</text><circle cx='189.495' cy='110' r='6' fill='#c0392b'/><text x='189.495' y='92' font-size='15' text-anchor='middle' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>938</text><text x='240' y='36' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Thế kỷ X gồm các năm 901 đến 1000</text><text x='240' y='64' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Năm 938 nằm trong khoảng này</text><text x='240' y='160' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Quy tắc: 938 -> bỏ 2 chữ số cuối = 9 -> 9 + 1 = 10 -> thế kỷ X</text></svg>"
+      },
+      {
+        "id": "su_ex_1_1_2_2",
+        "question": "Năm tròn trăm: Năm 100 và năm 2000 thuộc thế kỷ nào?",
+        "answer": "Nguyên nhân/Bối cảnh: Lịch không có năm 0; thế kỷ I bắt đầu từ năm 1\nDiễn biến/Sự kiện: 100 và 2000 -> bỏ 2 chữ số cuối -> 1 và 20\nNăm tròn trăm: KHÔNG +1\nThế kỷ I: 1 -> 100 (100 là năm CUỐI)\nThế kỷ XX: 1901 -> 2000\nKết quả/Hệ quả: Năm 100 thuộc thế kỷ I; Năm 2000 thuộc thế kỷ XX\nÝ nghĩa & Lưu ý: Lỗi hay gặp: Thấy số tròn trăm -> kết luận thế kỷ II hoặc XXI",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_1_2_3",
+        "question": "Thời gian TCN: Nhà nước Văn Lang ra đời vào khoảng thế kỷ VII TCN. Hãy cho biết khoảng năm tương ứng và cách nay khoảng bao nhiêu năm (tính đến 2026)?",
+        "answer": "Nguyên nhân/Bối cảnh: Năm TCN đếm NGƯỢC về trước năm 1 CN: Số càng lớn càng xa\nDiễn biến/Sự kiện: Thế kỷ VII TCN: 700 -> 601 TCN\nCách nay = Năm TCN + 2026 - 1 (không có năm 0)\n601 + 2026 - 1 = 2626\n700 + 2026 - 1 = 2725\nKết quả/Hệ quả: Văn Lang ra đời cách nay khoảng 2600 - 2700 năm\nÝ nghĩa & Lưu ý: Lưu ý: Không cộng thẳng 601 + 2026 mà quên trừ 1",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_1_2_1",
+    "name": "[Đơn vị thời gian]:\nThập kỷ = 10 năm\nThế kỷ = 100 năm\nThiên niên kỷ = 1000 năm = 10 thế kỷ",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_2",
+    "name": "[Vì sao cần cách tính chung?]:\nSự kiện xảy ra lần lượt -> Cần xếp thứ tự\nMỗi dân tộc 1 cách tính -> Rối, khó so sánh\nCần MỐC CHUNG cho cả thế giới",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_3",
+    "name": "[Âm lịch - Dương lịch - Công lịch]:\nÂm lịch: Theo Mặt Trăng quay quanh Trái Đất\nDương lịch: Theo Trái Đất quay quanh Mặt Trời\n1 năm dương lịch = 365 ngày 6 giờ (năm nhuận 366 ngày)\nCông lịch = Dương lịch dùng chung toàn thế giới",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_4",
+    "name": "[CN - TCN (mốc năm 1)]:\nMốc: Năm 1 Công nguyên (CN)\nSau mốc: Năm CN (1, 2, 3... tăng dần)\nTrước mốc: Năm TCN (đếm ngược: ... 3, 2, 1 TCN)\nKHÔNG có năm 0: 1 TCN -> 1 CN",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_5",
+    "name": "[Bản chất: Thế kỷ]:\nThế kỷ I: năm 1 -> 100\nThế kỷ II: năm 101 -> 200\nThế kỷ n: (n-1) × 100 + 1 -> n × 100\nNăm tròn trăm = Năm CUỐI của thế kỷ",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_6",
+    "name": "[Cách làm: Năm -> Thế kỷ]:\nBước 1: Bỏ 2 chữ số cuối\nBước 2: Lấy số còn lại + 1 -> Đổi sang số La Mã\nVí dụ: 938 -> 9 + 1 = 10 -> Thế kỷ X\nNăm tròn trăm (100, 2000): Lấy số trăm, KHÔNG +1",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_7",
+    "name": "[Cách làm: Năm TCN + Khoảng cách]:\nNăm TCN: Số càng LỚN càng XA hiện tại\nThế kỷ VII TCN: 700 -> 601 TCN\nCách nay (từ TCN) = Năm TCN + 2026 - 1 (bỏ năm 0)\nCùng phía CN: Lấy năm lớn - năm nhỏ",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_1_2_8",
+    "name": "[Tránh nhầm]:\n938 thuộc thế kỷ X (KHÔNG phải IX)\nNăm 100 thuộc thế kỷ I (KHÔNG phải II)\nTCN: 700 TCN xa hơn 601 TCN\nQuên trừ 1 khi tính qua mốc (không có năm 0)",
+    "type": "STEP",
+    "parentId": "su6_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_2_1",
+    "name": "Nguồn gốc loài người\nBầy người -> Thị tộc",
+    "type": "LESSON",
+    "parentId": "su6_top_1_2",
+    "examples": [
+      {
+        "id": "su_ex_1_2_1_1",
+        "question": "So sánh tổ chức xã hội: Điểm khác biệt căn bản giữa Thị tộc và Bầy người nguyên thủy là gì?",
+        "answer": "Nguyên nhân/Bối cảnh: Con người sống thành nhóm để săn bắt, hái lượm\nDiễn biến/Sự kiện: Bầy người: Thời Người tối cổ, vài chục người, quan hệ sơ khai\nThị tộc: Thời Người tinh khôn, nhiều gia đình cùng huyết thống\nThị tộc: Có tộc trưởng, sống chung, làm chung, hưởng chung\nKết quả/Hệ quả: Thị tộc gắn bó chặt hơn, giúp nhau trong lao động\nÝ nghĩa & Lưu ý: Thị tộc là bước tiến về tổ chức xã hội\nLưu ý: Thị tộc CHƯA có giàu - nghèo (chỉ có khi có kim loại)",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_2_1_2",
+        "question": "Quá trình tiến hóa: Sắp xếp Người tinh khôn, Vượn người, Người tối cổ theo thứ tự xuất hiện và nêu biểu hiện cải biến cơ thể nhờ lao động.",
+        "answer": "Nguyên nhân/Bối cảnh: Lao động + chế tạo công cụ thúc đẩy tiến hóa\nDiễn biến/Sự kiện: Vượn người -> Người tối cổ (đứng thẳng, tay làm công cụ đá ghè đẽo, biết dùng lửa)\n-> Người tinh khôn (dáng như ngày nay, não phát triển, đá mài + khoan)\nKết quả/Hệ quả: Cơ thể thay đổi, năng lực lao động + tư duy tăng\nÝ nghĩa & Lưu ý: Lao động tạo ra khác biệt giữa người và vượn\nLưu ý: Không nhầm Người tối cổ với Người tinh khôn",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_2_1_1",
+    "name": "[Xã hội nguyên thủy là gì?]:\nNguyên thủy = Thời đầu tiên của loài người\nChưa có chữ viết, chưa có nhà nước\nChưa có giàu - nghèo, chưa có giai cấp\nChiếm thời gian DÀI NHẤT lịch sử loài người",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_1_2",
+    "name": "[Quá trình tiến hóa]:\nVượn người (khoảng 4-6 triệu năm trước)\n-> Người tối cổ (khoảng 4 triệu năm trước)\n-> Người tinh khôn (khoảng 150 nghìn năm trước)\nMốc năm là số gần đúng, khác nhau giữa các nguồn",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_1_3",
+    "name": "[Bản chất: Lao động làm người tiến hóa]:\nĐi 2 chân -> Giải phóng 2 tay\nTay làm việc -> Chế tạo công cụ\nLàm + nghĩ nhiều -> Não phát triển\nLao động giúp vượn trở thành người",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_1_4",
+    "name": "[Công cụ + Lửa]:\nĐá cũ: Ghè đẽo thô (Người tối cổ)\nĐá mới: Mài, khoan tinh xảo (Người tinh khôn)\nLửa: Sưởi ấm + Nấu chín + Xua thú dữ\nKiếm sống: Săn bắt + Hái lượm",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_1_5",
+    "name": "[Bầy người nguyên thủy]:\nThời Người tối cổ\nVài chục người, sống thành bầy\nSăn bắt, hái lượm cùng nhau\nQuan hệ còn sơ khai",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_1_6",
+    "name": "[Công xã thị tộc]:\nThời Người tinh khôn\nNhiều gia đình cùng HUYẾT THỐNG\nSống chung + Làm chung + Hưởng chung (bình đẳng)\nCó người đứng đầu (tộc trưởng), được tôn trọng",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_1_7",
+    "name": "[Tránh nhầm]:\nTối cổ KHÁC tinh khôn (đứng trước, kém tiến bộ hơn)\nBầy: Sơ khai | Thị tộc: Huyết thống rõ ràng\nThị tộc CHƯA có giàu - nghèo\nNgười không do trời tạo ra: Do tiến hóa + lao động",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_2_2",
+    "name": "Kim loại -> Tư hữu\nPhân hóa giàu - nghèo",
+    "type": "LESSON",
+    "parentId": "su6_top_1_2",
+    "examples": [
+      {
+        "id": "su_ex_1_2_2_1",
+        "question": "Giải thích nguyên nhân: Tại sao việc phát minh ra kim loại làm tan rã xã hội nguyên thủy?",
+        "answer": "Nguyên nhân/Bối cảnh: Con người phát minh đồng, sắt làm công cụ thay đá\nDiễn biến/Sự kiện: Công cụ tốt -> Năng suất tăng -> Của cải dư thừa\nMột số người chiếm làm của riêng (Tư hữu) -> Giàu - Nghèo\nKết quả/Hệ quả: Thị tộc bình đẳng tan rã -> Xã hội có giai cấp + Nhà nước (Việt Nam: Văn Lang)\nÝ nghĩa & Lưu ý: Công cụ kim loại là nguyên nhân sâu xa tan rã xã hội nguyên thủy\nLưu ý: Sau nguyên thủy chưa phải phong kiến",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_2_2_2",
+        "question": "Trục văn hóa: Sắp xếp Đông Sơn, Phùng Nguyên, Gò Mun, Đồng Đậu theo thứ tự thời gian và cho biết xu hướng thay đổi về vật liệu công cụ.",
+        "answer": "Nguyên nhân/Bối cảnh: Cư dân lưu vực sông Hồng, sông Mã, sông Cả liên tục cải tiến công cụ\nDiễn biến/Sự kiện: Phùng Nguyên (đồng sơ khai) -> Đồng Đậu -> Gò Mun (đồng thau) -> Đông Sơn (đồng thau đỉnh cao + sắt)\nKết quả/Hệ quả: Kỹ thuật luyện kim phát triển liên tục -> Năng suất + phân hóa xã hội tăng\nÝ nghĩa & Lưu ý: Là cơ sở ra đời nhà nước Văn Lang\nLưu ý: Đông Sơn là giai đoạn sau cùng, không đảo lên trước",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_2_2_1",
+    "name": "[Kim loại là gì?]:\nCông cụ kim loại: Cứng, bền, sắc hơn đá\nĐồng: Mềm, dễ đúc (có trước)\nĐồng + Thiếc = Đồng thau (cứng hơn)\nSắt: Cứng, sắc nhất (có sau)",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_2_2",
+    "name": "[Bản chất: Kim loại -> Năng suất tăng]:\nCông cụ tốt -> Làm nhanh hơn, được nhiều hơn\nKhai hoang, cày cấy, đúc vũ khí, buôn bán\nSản phẩm > Nhu cầu ăn dùng = DƯ THỪA",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_2_3",
+    "name": "[Chuỗi nhân quả: Tan rã]:\nKim loại -> Năng suất tăng -> Của cải dư thừa\n-> Chiếm làm của riêng (Tư hữu) -> Giàu - Nghèo\n-> Thị tộc bình đẳng tan rã\n-> Xã hội có giai cấp + Nhà nước",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_2_4",
+    "name": "[Việt Nam: Trục văn hóa]:\nPhùng Nguyên (khoảng 4000 năm trước): Đồng sơ khai\nĐồng Đậu -> Gò Mun: Đồng thau\nĐông Sơn (khoảng 2700 năm trước): Đồng thau đỉnh cao + Sắt\nCơ sở ra đời Nhà nước Văn Lang",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_2_2_5",
+    "name": "[Tránh nhầm]:\nSau nguyên thủy: Xã hội có giai cấp (KHÔNG phải phong kiến)\nPhân hóa giàu - nghèo bắt đầu khi có kim loại\nĐông Sơn là giai đoạn SAU CÙNG",
+    "type": "STEP",
+    "parentId": "su6_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_3_1",
+    "name": "Ai Cập + Lưỡng Hà\nQuân chủ chuyên chế",
+    "type": "LESSON",
+    "parentId": "su6_top_1_3",
+    "examples": [
+      {
+        "id": "su_ex_1_3_1_1",
+        "question": "Phân tích điều kiện tự nhiên: Vì sao văn minh Ai Cập và Lưỡng Hà hình thành ven các dòng sông lớn?",
+        "answer": "Nguyên nhân/Bối cảnh: Ven sông có phù sa màu mỡ + nước dồi dào (Ai Cập: sông Nin; Lưỡng Hà: Ti-grơ + Ơ-phơ-rát)\nDiễn biến/Sự kiện: Cư dân trồng lúa mì, lúa mạch -> Phải đắp đê, đào kênh, tưới tiêu\nViệc chung cần 1 người chỉ huy tập trung\nKết quả/Hệ quả: Hình thành nhà nước quân chủ chuyên chế (vua nắm mọi quyền)\nÝ nghĩa & Lưu ý: Tự nhiên -> Nông nghiệp -> Nhà nước\nLưu ý: Kinh tế chính là nông nghiệp, KHÔNG phải thương mại biển",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_3_1_2",
+        "question": "Nêu thành tựu: Kể hai thành tựu tiêu biểu của mỗi nền văn minh Ai Cập và Lưỡng Hà.",
+        "answer": "Nguyên nhân/Bối cảnh: Mỗi nền văn minh phát triển trong điều kiện riêng -> Thành tựu khác nhau\nDiễn biến/Sự kiện: Ai Cập: Chữ tượng hình + Kim tự tháp + Lịch 365 ngày\nLưỡng Hà: Chữ hình nêm + Luật Ha-mu-ra-bi + Vườn treo Ba-bi-lon\nKết quả/Hệ quả: Phục vụ đời sống, tôn giáo, quản lý nhà nước; ảnh hưởng lâu dài\nÝ nghĩa & Lưu ý: Lưu ý: Không gán Kim tự tháp cho Lưỡng Hà, không gán Vườn treo cho Ai Cập",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_3_1_1",
+    "name": "[Văn minh cổ đại là gì?]:\nCổ đại = Thời xa xưa, đã có nhà nước + chữ viết\nVăn minh = Trình độ phát triển cao (nhà nước, chữ, khoa học)\nPhương Đông: Ai Cập, Lưỡng Hà, Ấn Độ, Trung Quốc\nPhương Tây: Hy Lạp, La Mã",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_1_2",
+    "name": "[Vị trí: Ven sông lớn]:\nAi Cập: Sông Nin (Đông Bắc châu Phi)\nLưỡng Hà = 'Giữa hai sông': Ti-grơ + Ơ-phơ-rát (Tây Á)\nSông Nin: Nước dâng hằng năm, để lại phù sa",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_1_3",
+    "name": "[Bản chất: Vì sao ven sông?]:\nPhù sa màu mỡ -> Trồng lúa mì, lúa mạch\nCó nước -> Sinh hoạt + Tưới tiêu\nLũ lụt -> Phải đắp đê, đào kênh\nViệc chung -> Cần tổ chức + người chỉ huy",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_1_4",
+    "name": "[Nhà nước: Quân chủ chuyên chế]:\nQuân chủ = Vua đứng đầu\nChuyên chế = Vua nắm MỌI quyền\nAi Cập: Vua = Pha-ra-ông (coi như thần)\nLưỡng Hà: Vua Ha-mu-ra-bi + Bộ luật",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_1_5",
+    "name": "[Bản chất: Vì sao vua quyền lực tuyệt đối?]:\nTrị thủy + Xây công trình lớn cần rất đông người\nCần 1 người chỉ huy tập trung -> Vua\nVua giữ đất, quân đội, tôn giáo",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_1_6",
+    "name": "[Thành tựu]:\nAi Cập: Chữ tượng hình + Kim tự tháp + Lịch 365 ngày\nLưỡng Hà: Chữ hình nêm + Luật Ha-mu-ra-bi\nLưỡng Hà: Vườn treo Ba-bi-lon + Hệ đếm 60\nCùng: Toán học (đo đạc, hình học)",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_1_7",
+    "name": "[Tránh nhầm]:\nKim tự tháp = Ai Cập (KHÔNG phải Lưỡng Hà)\nVườn treo Ba-bi-lon = Lưỡng Hà\nKinh tế chính: Nông nghiệp (KHÔNG phải buôn biển)\nCây trồng chính: Lúa mì, lúa mạch (không gọi chung 'lúa nước')",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_3_2",
+    "name": "Ấn Độ + Trung Quốc\nChữ số, Nho giáo, Phát minh",
+    "type": "LESSON",
+    "parentId": "su6_top_1_3",
+    "examples": [
+      {
+        "id": "su_ex_1_3_2_1",
+        "question": "Nêu đóng góp văn hóa: Tóm tắt các thành tựu văn hóa tiêu biểu của Ấn Độ cổ đại.",
+        "answer": "Nguyên nhân/Bối cảnh: Ấn Độ phát triển bên sông Ấn + sông Hằng, đất đai thuận lợi, giao lưu rộng\nDiễn biến/Sự kiện: Tôn giáo: Phật giáo + Hin-đu giáo\nChữ viết: Chữ Phạn\nToán học: Hệ đếm thập phân có số 0\nKiến trúc: Chùa hang, tháp\nKết quả/Hệ quả: Hệ chữ số được người Ả Rập truyền sang châu Âu rồi lan khắp thế giới\nÝ nghĩa & Lưu ý: Ấn Độ là trung tâm văn minh lớn\nLưu ý: Ấn Độ phát minh chữ số; Ả Rập chỉ truyền bá",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_3_2_2",
+        "question": "Trình bày thành tựu: Kể tên các phát minh kỹ thuật tiêu biểu của Trung Quốc cổ đại.",
+        "answer": "Nguyên nhân/Bối cảnh: Trung Quốc phát triển bên Hoàng Hà + Trường Giang; sản xuất + chiến tranh thúc đẩy sáng tạo\nDiễn biến/Sự kiện: Giấy: Sái Luân cải tiến (Đông Hán)\nIn + Thuốc súng: Thời Đường\nLa bàn: Từ Chiến Quốc, dùng đi biển về sau\nKết quả/Hệ quả: Thúc đẩy văn hóa, kinh tế, đi biển; lan ra nhiều nơi trên thế giới\nÝ nghĩa & Lưu ý: Lưu ý: Đây là phát minh của Trung Quốc, không phải của châu Âu",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_3_2_1",
+    "name": "[Vị trí]:\nẤn Độ: Sông Ấn + sông Hằng (Nam Á)\nTrung Quốc: Hoàng Hà + Trường Giang (Đông Á)\nCùng đặc điểm: Ven sông lớn -> Nông nghiệp phát triển",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_2_2",
+    "name": "[Ấn Độ: Xã hội 4 đẳng cấp]:\nBà-la-môn: Tăng lữ, quý tộc (cao nhất)\nSát-đế-lỵ: Võ sĩ, vua chúa\nVệ-xá: Nông dân, thương nhân, thợ thủ công\nThủ-đà-la: Người thấp kém, nô lệ (thấp nhất)",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_2_3",
+    "name": "[Ấn Độ: Thành tựu]:\nTôn giáo: Phật giáo + Hin-đu giáo\nChữ viết: Chữ Phạn\nToán: Hệ đếm thập phân + SỐ 0\nKiến trúc: Chùa hang, tháp",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_2_4",
+    "name": "[Trung Quốc: Nhà nước + Tư tưởng]:\nNăm 221 TCN: Tần Thủy Hoàng thống nhất (nhà Tần)\nChữ Hán + Kinh Thi (thơ ca) + Vạn Lý Trường Thành\nNho giáo (Khổng Tử): Đạo đức, trật tự xã hội\nĐạo giáo (Lão Tử): Sống thuận tự nhiên",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_2_5",
+    "name": "[Trung Quốc: Phát minh]:\nGiấy (Sái Luân cải tiến, thời Đông Hán)\nKỹ thuật in + Thuốc súng (thời Đường)\nLa bàn (xuất hiện từ Chiến Quốc, dùng đi biển về sau)",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_2_6",
+    "name": "[Bản chất: Ý nghĩa]:\nGiấy + In -> Ghi chép + Truyền tri thức rộng\nLa bàn -> Đi biển xa, an toàn hơn\nThuốc súng -> Thay đổi cách đánh trận\nLan ra thế giới -> Thúc đẩy văn minh",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_2_7",
+    "name": "[Tránh nhầm]:\nPhật giáo: Ra đời ở Ấn Độ (KHÔNG phải Trung Quốc)\nNho giáo, Đạo giáo: Ra đời ở Trung Quốc\nSố 0: Ấn Độ phát minh, Ả Rập truyền bá\nGiấy, in, la bàn, thuốc súng: Của Trung Quốc",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_3_3",
+    "name": "Hy Lạp + La Mã\nDân chủ chủ nô + Cộng hòa",
+    "type": "LESSON",
+    "parentId": "su6_top_1_3",
+    "examples": [
+      {
+        "id": "su_ex_1_3_3_1",
+        "question": "So sánh thể chế chính trị: Điểm khác biệt về chính trị giữa phương Đông và phương Tây cổ đại?",
+        "answer": "Nguyên nhân/Bối cảnh: Phương Đông cần trị thủy -> Quyền lực tập trung vào vua\nHy Lạp: Núi chia cắt + Buôn bán biển -> Nhiều thị quốc độc lập\nDiễn biến/Sự kiện: Phương Đông: Quân chủ chuyên chế\nA-ten: Dân chủ chủ nô (công dân nam tự do được bầu cử, bàn việc nước)\nLa Mã: Cộng hòa (từ 509 TCN) -> Đế chế\nKết quả/Hệ quả: Quyền công dân ở A-ten là bước tiến lớn\nNhưng nô lệ, phụ nữ, người nước ngoài không có quyền chính trị\nÝ nghĩa & Lưu ý: A-ten đặt nền móng cho dân chủ\nLưu ý: Dân chủ chưa dành cho mọi người; La Mã Đế chế do hoàng đế đứng đầu",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_3_3_2",
+        "question": "Nêu thành tựu: Kể hai thành tựu tiêu biểu của Hy Lạp và của La Mã cổ đại.",
+        "answer": "Nguyên nhân/Bối cảnh: Kinh tế thủ công + buôn bán biển + đời sống sôi động của các thị quốc -> Văn hóa phát triển\nDiễn biến/Sự kiện: Hy Lạp: Ô-lim-pích (776 TCN) + I-li-át, Ô-đi-xê + Triết học + Toán học\nLa Mã: Cô-lô-xê-um + Luật La Mã + Chữ La-tinh + Lịch Dương\nKết quả/Hệ quả: Trở thành nền tảng văn minh châu Âu + thế giới\nÝ nghĩa & Lưu ý: Lưu ý: Ô-lim-pích bắt nguồn từ Hy Lạp, không phải La Mã",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_3_3_1",
+    "name": "[Vị trí + Địa hình]:\nHy Lạp: Bán đảo Ban-căng + Nhiều đảo\nLa Mã: Bán đảo I-ta-li-a\nCùng ven Địa Trung Hải\nNhiều núi, ít đồng bằng; Bờ biển nhiều cảng tốt",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_3_2",
+    "name": "[Bản chất: Hệ quả của địa hình]:\nĐất ít + xấu -> Nông nghiệp hạn chế\nNhiều cảng -> Buôn bán đường biển + Thủ công\nNúi chia cắt -> Nhiều thành bang nhỏ độc lập (thị quốc)",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_3_3",
+    "name": "[A-ten: Dân chủ chủ nô]:\nCông dân nam tự do: Họp, bàn việc nước, bầu cử\nKHÔNG có quyền: Nô lệ, phụ nữ, người nước ngoài\nChủ nô = Người sở hữu nô lệ\n'Dân chủ' nhưng chỉ cho thiểu số",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_3_4",
+    "name": "[La Mã: Cộng hòa -> Đế chế]:\nCộng hòa (từ 509 TCN): Quý tộc điều hành\nMở rộng lãnh thổ quanh Địa Trung Hải (cướp đất + nô lệ)\nĐế chế (từ 27 TCN): Hoàng đế nắm quyền lớn\nNô lệ bị bóc lột nặng -> Khởi nghĩa Xpác-ta-cút",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_3_5",
+    "name": "[Thành tựu Hy Lạp]:\nThế vận hội Ô-lim-pích (776 TCN)\nSử thi I-li-át + Ô-đi-xê\nTriết học + Toán học + Kịch + Điêu khắc\nKiến trúc: Đền thờ thần",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_3_6",
+    "name": "[Thành tựu La Mã]:\nĐấu trường Cô-lô-xê-um\nLuật La Mã (nền tảng luật nhiều nước)\nChữ La-tinh (nền tảng chữ cái nhiều nước)\nLịch Dương (Giu-li-út) -> Cơ sở của Công lịch",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_3_3_7",
+    "name": "[Tránh nhầm]:\nA-ten: Dân chủ chủ nô (KHÔNG phải quân chủ)\nDân chủ A-ten chưa dành cho mọi người\nLa Mã: Cộng hòa TRƯỚC, Đế chế SAU\nÔ-lim-pích: Hy Lạp (KHÔNG phải La Mã)",
+    "type": "STEP",
+    "parentId": "su6_les_1_3_3",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_4_1",
+    "name": "Khái quát Đông Nam Á\nVị trí, Lục địa - Hải đảo",
+    "type": "LESSON",
+    "parentId": "su6_top_1_4",
+    "examples": [
+      {
+        "id": "su_ex_1_4_1_1",
+        "question": "Đánh giá vị trí: Vị trí địa lý tác động thế nào đến sự phát triển của Đông Nam Á?",
+        "answer": "Nguyên nhân/Bối cảnh: Đông Nam Á nằm giữa Ấn Độ + Trung Quốc, giữa 2 đại dương; khí hậu gió mùa nhiệt đới ẩm\nDiễn biến/Sự kiện: Thuyền buôn qua lại, dừng nghỉ, trao đổi hàng -> Giao thương + giao lưu văn hóa\nĐồng thời trồng lúa nước thuận lợi\nKết quả/Hệ quả: Vừa có thương mại sầm uất, vừa có nông nghiệp lúa nước làm nền tảng\nÝ nghĩa & Lưu ý: Vị trí + khí hậu cùng thúc đẩy phát triển\nLưu ý: Đừng chỉ thấy lợi thế thương mại mà quên tác động của khí hậu",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_4_1_2",
+        "question": "Phân loại khu vực: Việt Nam, Lào, Phi-líp-pin, In-đô-nê-xi-a thuộc Đông Nam Á lục địa hay hải đảo?",
+        "answer": "Nguyên nhân/Bối cảnh: Đông Nam Á gồm phần lục địa (Đông Dương) + phần hải đảo (Mã Lai)\nDiễn biến/Sự kiện: Việt Nam + Lào: Nằm trên bán đảo Đông Dương (lục địa)\nPhi-líp-pin + In-đô-nê-xi-a: Nằm trên các đảo (hải đảo)\nKết quả/Hệ quả: Lục địa thiên về nông nghiệp; hải đảo thuận lợi hơn cho đi biển\nÝ nghĩa & Lưu ý: Lưu ý: Việt Nam có biển nhưng vẫn thuộc lục địa; Ma-lai-xi-a có cả hai phần",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_4_1_1",
+    "name": "[Đông Nam Á ở đâu?]:\nPhía Đông Nam châu Á\nGiữa Ấn Độ + Trung Quốc\nGiữa 2 đại dương: Ấn Độ Dương + Thái Bình Dương\nNay có 11 quốc gia (có Việt Nam)",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_1_2",
+    "name": "[2 khu vực]:\nLục địa (Đông Dương): Việt Nam, Lào, Cam-pu-chia, Thái Lan, Mi-an-ma\nHải đảo (quần đảo Mã Lai): In-đô-nê-xi-a, Phi-líp-pin, Bru-nây, Xin-ga-po, Đông Ti-mo\nMa-lai-xi-a: Có CẢ HAI phần",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_1_3",
+    "name": "[Tự nhiên: Gió mùa nhiệt đới]:\nNóng + Mưa nhiều (nhiệt đới ẩm)\nGió mùa: Có mùa mưa + mùa khô\nĐồng bằng sông lớn + Đất phù sa màu mỡ\n-> Thuận lợi trồng LÚA NƯỚC",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_1_4",
+    "name": "[Bản chất: Vị trí -> Giao thương]:\nNằm giữa Ấn Độ + Trung Quốc\nThuyền buôn đi qua, dừng nghỉ, trao đổi hàng\n-> Cảng biển phát triển + Giao lưu văn hóa\nGọi là 'ngã tư đường biển'",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_1_5",
+    "name": "[Kinh tế + Dân cư]:\nNông nghiệp lúa nước (nền tảng)\nThương mại biển (nổi bật ở hải đảo)\nSản vật: Gia vị, hương liệu, ngà voi\nNhiều dân tộc, ngôn ngữ, tôn giáo",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_1_6",
+    "name": "[Tránh nhầm]:\nViệt Nam: Lục địa (dù có biển)\nMa-lai-xi-a: Cả lục địa + hải đảo\nLợi thế = Vị trí (thương mại) + Khí hậu (nông nghiệp)\nKhông phải nước nào cũng sống bằng buôn biển",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_1",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_4_2",
+    "name": "Vương quốc cổ Đông Nam Á\nThế kỷ VII - X",
+    "type": "LESSON",
+    "parentId": "su6_top_1_4",
+    "examples": [
+      {
+        "id": "su_ex_1_4_2_1",
+        "question": "Trình bày đặc điểm: Nêu các đặc điểm kinh tế nổi bật của các vương quốc Đông Nam Á.",
+        "answer": "Nguyên nhân/Bối cảnh: Đất đai + vị trí khác nhau -> Mô hình kinh tế khác nhau\nDiễn biến/Sự kiện: Lục địa (Chân Lạp, Dvaravati, Sri Ksetra): Chủ yếu lúa nước\nHải đảo (Srivijaya ở Sumatra): Thương mại biển + kiểm soát tuyến đường biển\nKết quả/Hệ quả: Các vương quốc phát triển bằng cách khác nhau nhưng đều mạnh\nÝ nghĩa & Lưu ý: Nông nghiệp lúa nước + Thương mại biển -> Phát triển toàn diện\nLưu ý: Không phải mọi quốc gia sống bằng thương mại biển",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_4_2_2",
+        "question": "Xác định mốc thời gian: Vương quốc Ăng-co của người Khơ-me bắt đầu từ năm 802 thuộc thế kỷ nào và ra đời sau hay trước Phù Nam?",
+        "answer": "Nguyên nhân/Bối cảnh: Phù Nam (khoảng thế kỷ I - VII) suy yếu -> Chân Lạp mạnh lên, chiếm Phù Nam (khoảng thế kỷ VII)\nDiễn biến/Sự kiện: Năm 802: Gia-giay-a-vác-man II lên ngôi, lập vương quốc Ăng-co\n802 thuộc các năm 801 -> 900 -> Thế kỷ IX\nKết quả/Hệ quả: Ăng-co ra đời SAU Phù Nam, trở thành vương quốc phong kiến hùng mạnh của người Khơ-me\nÝ nghĩa & Lưu ý: Từ quốc gia sơ kỳ (Phù Nam) đến vương quốc phong kiến (Ăng-co)\nLưu ý: Không nhầm vương quốc Ăng-co với đền Ăng-co Vát xây về sau",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_4_2_1",
+    "name": "[Quốc gia sơ kỳ (đầu CN -> VII)]:\nSơ kỳ = Mới hình thành, còn đơn giản\nPhù Nam: Nam Bộ Việt Nam + Cam-pu-chia\nLâm Ấp (Chăm-pa): Trung Bộ Việt Nam",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_2_2",
+    "name": "[Vương quốc thế kỷ VII - X: Lục địa]:\nChân Lạp (Cam-pu-chia): Ăng-co từ năm 802\nSri Ksetra (Mi-an-ma, người Pyu)\nDvaravati (Thái Lan, người Môn)\nChăm-pa (Trung Bộ Việt Nam)",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_2_3",
+    "name": "[Vương quốc hải đảo]:\nSrivijaya (Sumatra, In-đô-nê-xi-a)\nKinh đô: Pa-lem-bang\nKiểm soát eo biển -> Thu thuế thuyền buôn\nTrung tâm thương mại + Phật giáo",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_2_4",
+    "name": "[Bản chất: Lục địa khác Hải đảo]:\nLục địa: Đồng bằng sông lớn -> Lúa nước -> Nông nghiệp\nHải đảo: Nằm trên đường biển -> Thương mại + Cảng\nCả hai: Vua nắm quyền + Tiếp thu văn hóa Ấn Độ",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_2_5",
+    "name": "[Mốc thời gian]:\nPhù Nam: Thế kỷ I -> VII\nChân Lạp thôn tính Phù Nam (khoảng thế kỷ VII)\nNăm 802: Ăng-co ra đời (thế kỷ IX)\nPhù Nam TRƯỚC -> Ăng-co SAU",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_2_6",
+    "name": "[Tránh nhầm]:\nPhù Nam (sơ kỳ) KHÁC Chân Lạp - Ăng-co\nVương quốc Ăng-co KHÁC đền Ăng-co Vát (xây thế kỷ XII)\nNăm 802 thuộc thế kỷ IX\nKhông phải mọi nước sống bằng buôn biển",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_2",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_4_3",
+    "name": "Giao lưu Đông Nam Á - Ấn Độ\nThương mại + Văn hóa",
+    "type": "LESSON",
+    "parentId": "su6_top_1_4",
+    "examples": [
+      {
+        "id": "su_ex_1_4_3_1",
+        "question": "Phân tích tính bản địa: Nhân dân Đông Nam Á tiếp thu văn hóa Ấn Độ như thế nào?",
+        "answer": "Nguyên nhân/Bối cảnh: Giao thương thường xuyên với Ấn Độ -> Văn hóa Ấn Độ vào Đông Nam Á\nDiễn biến/Sự kiện: Tiếp thu: Phật giáo, Ấn Độ giáo, chữ Phạn, đền tháp\nSáng tạo riêng: Chữ Chăm cổ, Khơ-me cổ, Mã Lai cổ + kiến trúc mang nét riêng\nKết quả/Hệ quả: Văn hóa Đông Nam Á vừa chịu ảnh hưởng Ấn Độ vừa giữ bản sắc\nÝ nghĩa & Lưu ý: Tiếp thu chủ động, sáng tạo\nLưu ý: KHÔNG phải sao chép nguyên xi",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_4_3_2",
+        "question": "Nêu ví dụ: Kể hai công trình ở Đông Nam Á chịu ảnh hưởng văn hóa Ấn Độ.",
+        "answer": "Nguyên nhân/Bối cảnh: Tiếp thu văn hóa Ấn Độ thể hiện rõ qua công trình tôn giáo\nDiễn biến/Sự kiện: Mỹ Sơn (Quảng Nam, Chăm-pa): Xây từ khoảng thế kỷ IV, thờ thần Si-va\nBô-rô-bu-đua (đảo Gia-va): Đền thờ Phật, xây khoảng thế kỷ VIII - IX\nKết quả/Hệ quả: Công trình do cư dân bản địa xây, kết hợp yếu tố ngoại nhập, phong cách riêng\nÝ nghĩa & Lưu ý: Lưu ý: Đây KHÔNG phải công trình của Ấn Độ",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_4_3_1",
+    "name": "[Giao lưu là gì?]:\nGiao lưu = Trao đổi qua lại\nThương mại = Mua bán hàng hóa\nVăn hóa = Chữ viết, tôn giáo, kiến trúc, lối sống",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_3_2",
+    "name": "[Con đường giao thương]:\nĐường biển: Ấn Độ <-> Đông Nam Á <-> Trung Quốc\nThương nhân Ấn Độ + Trung Hoa đến buôn bán\nCảng thị lớn: Óc Eo (Phù Nam), Pa-lem-bang",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_3_3",
+    "name": "[Bản chất: Vì sao tiếp thu văn hóa Ấn Độ?]:\nThương nhân + Nhà sư mang tôn giáo, chữ viết đến\nVua chúa dùng tôn giáo để củng cố uy quyền\nCư dân chọn điều phù hợp với mình",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_3_4",
+    "name": "[Tiếp thu từ Ấn Độ]:\nTôn giáo: Phật giáo + Ấn Độ giáo\nChữ Phạn (nền tảng chữ viết)\nKiến trúc đền tháp\nVăn học: Sử thi Ra-ma-ya-na",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_3_5",
+    "name": "[Bản địa hóa (sáng tạo riêng)]:\nChữ Chăm cổ, Khơ-me cổ, Mã Lai cổ (dựa chữ Phạn)\nĐền tháp mang phong cách riêng\nVí dụ: Mỹ Sơn (Chăm-pa) + Bô-rô-bu-đua (In-đô-nê-xi-a)",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_4_3_6",
+    "name": "[Tránh nhầm]:\nVăn hóa Đông Nam Á KHÔNG phải bản sao Ấn Độ\nCông trình do NGƯỜI BẢN ĐỊA xây dựng\nThương mại + Văn hóa đi cùng nhau\nNgoài Ấn Độ còn có ảnh hưởng Trung Hoa",
+    "type": "STEP",
+    "parentId": "su6_les_1_4_3",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_5_1",
+    "name": "Văn Lang - Âu Lạc\nBộ máy nhà nước",
+    "type": "LESSON",
+    "parentId": "su6_top_1_5",
+    "examples": [
+      {
+        "id": "su_ex_1_5_1_1",
+        "question": "Đánh giá sơ khai: Tại sao nói bộ máy nhà nước Văn Lang còn sơ khai?",
+        "answer": "Nguyên nhân/Bối cảnh: Cần trị thủy, chống ngoại xâm, quản lý cộng đồng -> Hình thành nhà nước\nDiễn biến/Sự kiện: Văn Lang: Vua Hùng -> Lạc hầu, Lạc tướng -> 15 bộ -> Chiềng, chạ (Bồ chính)\nKết quả/Hệ quả: Chưa có luật pháp thành văn, quân đội + thuế chưa hoàn chỉnh; quản lý bằng phong tục\nÝ nghĩa & Lưu ý: Là nhà nước đầu tiên, đặt nền móng chủ quyền dân tộc\nLưu ý: Không nhầm Văn Lang đã có luật thành văn + quân đội chuyên nghiệp",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_5_1_2",
+        "question": "So sánh nhà nước: Nêu điểm khác biệt giữa Văn Lang và Âu Lạc.",
+        "answer": "Nguyên nhân/Bối cảnh: Năm 208 TCN: Thục Phán hợp nhất người Tây Âu + Lạc Việt -> Lập nước Âu Lạc\nDiễn biến/Sự kiện: Văn Lang: Hùng Vương, kinh đô Phong Châu\nÂu Lạc: An Dương Vương, kinh đô Cổ Loa, thành 3 vòng, có nỏ\nKết quả/Hệ quả: Âu Lạc có lãnh thổ rộng hơn, quân sự + phòng thủ tốt hơn\nÝ nghĩa & Lưu ý: Âu Lạc kế thừa + phát triển từ Văn Lang\nLưu ý: Kinh đô Âu Lạc là Cổ Loa, không phải Phong Châu",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_5_1_1",
+    "name": "[Nhà nước là gì?]:\nNhà nước = Bộ máy quản lý 1 vùng đất + dân cư\nCó vua (người đứng đầu) + quan lại giúp việc\nXuất hiện khi xã hội phân hóa giàu - nghèo\nViệt Nam: Văn Lang là nhà nước đầu tiên",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_1_2",
+    "name": "[Văn Lang]:\nThời gian: Khoảng thế kỷ VII TCN\nKinh đô: Phong Châu (Phú Thọ)\nVua: Hùng Vương\nCư dân: Người Lạc Việt",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_1_3",
+    "name": "[Văn Lang: Bộ máy 4 tầng]:\nVua Hùng (đứng đầu)\nLạc hầu + Lạc tướng (giúp việc)\n15 bộ (do Lạc tướng cai quản)\nChiềng, chạ (làng) do Bồ chính quản lý",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_1_4",
+    "name": "[Bản chất: Vì sao nói 'sơ khai'?]:\nChưa có luật pháp thành văn\nChưa có quân đội + thuế hoàn chỉnh\nQuản lý dựa vào phong tục, tập quán\nNhưng đã có vua + bộ máy -> Nền móng dân tộc",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_1_5",
+    "name": "[Đời sống: Văn hóa Đông Sơn]:\nKinh tế: Lúa nước (chính) + Chăn nuôi + Đánh cá\nThủ công: Đúc đồng (trống đồng, rìu, giáo)\nỞ nhà sàn; Lễ hội cộng đồng\nTín ngưỡng: Thờ thần tự nhiên + Tổ tiên",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_1_6",
+    "name": "[Âu Lạc]:\nNăm 208 TCN: Thục Phán hợp nhất Tây Âu + Lạc Việt\nVua: An Dương Vương\nKinh đô: Cổ Loa (Hà Nội), thành 3 vòng\nVũ khí lợi hại: Nỏ",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_1_7",
+    "name": "[Tránh nhầm]:\nKinh đô: Văn Lang = Phong Châu | Âu Lạc = Cổ Loa\nViết đúng: Bồ chính (không phải 'Bố chính')\nVăn Lang CHƯA có luật thành văn\nÂu Lạc ra đời 208 TCN, SAU Văn Lang",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_1",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_5_2",
+    "name": "Bắc thuộc\nChính sách cai trị + Chuyển biến",
+    "type": "LESSON",
+    "parentId": "su6_top_1_5",
+    "examples": [
+      {
+        "id": "su_ex_1_5_2_1",
+        "question": "Giải thích nguyên nhân: Vì sao văn hóa Việt không bị đồng hóa qua hơn 1000 năm Bắc thuộc?",
+        "answer": "Nguyên nhân/Bối cảnh: Phong kiến phương Bắc muốn biến nước ta thành đất của họ -> Chính sách đồng hóa\nDiễn biến/Sự kiện: Áp đặt ngôn ngữ, phong tục\nNhân dân ta giữ tiếng mẹ đẻ + tục lệ (ăn trầu, nhuộm răng)\nChọn lọc tiếp thu: Rèn sắt, cày sức kéo, chữ Hán\nKết quả/Hệ quả: Văn hóa Việt không bị đồng hóa, còn được làm giàu thêm\nÝ nghĩa & Lưu ý: Làng xã Việt giữ tiếng nói, phong tục\nLưu ý: Tiếp thu CÓ CHỌN LỌC, không từ chối mọi yếu tố Trung Hoa",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_5_2_2",
+        "question": "Trình bày chính sách: Nêu các biểu hiện chính sách cai trị của phong kiến phương Bắc về kinh tế và văn hóa.",
+        "answer": "Nguyên nhân/Bối cảnh: Mục đích: Vơ vét tài nguyên + củng cố quyền thống trị\nDiễn biến/Sự kiện: Kinh tế: Thuế nặng, cống nạp sản vật quý, độc quyền sắt + muối\nVăn hóa: Truyền chữ Hán, Nho giáo, ép theo phong tục Hán\nKết quả/Hệ quả: Đời sống nhân dân khổ cực, mâu thuẫn dân tộc gay gắt -> Nhiều khởi nghĩa\nÝ nghĩa & Lưu ý: Lưu ý: Chính sách cai trị gồm cả kinh tế + văn hóa, không chỉ chính trị",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_5_2_1",
+    "name": "[Bắc thuộc là gì?]:\nBắc thuộc = Thời nước ta bị phong kiến phương Bắc đô hộ\nTừ năm 179 TCN -> năm 938\nKéo dài hơn 1000 năm\nCác triều: Triệu, Hán, Ngô, Lương, Tùy, Đường",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_2_2",
+    "name": "[Vì sao họ xâm lược + cai trị?]:\nMuốn mở rộng lãnh thổ\nVơ vét tài nguyên (vàng, ngà voi, sản vật quý)\nBiến nước ta thành đất của họ (đồng hóa)",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_2_3",
+    "name": "[Chính sách cai trị]:\nChính trị: Chia quận, huyện; Quan người Hán cai trị\nKinh tế: Thuế nặng + Cống nạp + Độc quyền sắt, muối\nVăn hóa: Truyền Nho giáo, chữ Hán; Ép theo phong tục Hán",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_2_4",
+    "name": "[Chuyển biến kinh tế]:\nTiếp thu: Rèn sắt, cày bằng sức kéo trâu bò\nNông nghiệp tiến bộ hơn\nNhưng vẫn bị bóc lột nặng nề",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_2_5",
+    "name": "[Chuyển biến xã hội + văn hóa]:\nXã hội: Địa chủ + quan lại Hán; Nông dân công xã\nVăn hóa: Chữ Hán + Nho giáo + Đạo giáo du nhập\nPhật giáo từ Ấn Độ cũng vào nước ta\nNgười Việt: Vẫn giữ tiếng nói + phong tục",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_2_6",
+    "name": "[Bản chất: Vì sao không bị đồng hóa?]:\nLàng xã Việt bền vững (giữ tiếng nói, phong tục)\nTiếp thu CÓ CHỌN LỌC, không nhận hết\nÝ chí độc lập -> Khởi nghĩa liên tục",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_2_7",
+    "name": "[Tránh nhầm]:\nKhông bị đồng hóa HOÀN TOÀN\nKhông từ chối mọi yếu tố văn hóa Trung Hoa\nChính sách cai trị: Cả kinh tế + văn hóa\nBắc thuộc kết thúc năm 938",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_2",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_5_3",
+    "name": "Khởi nghĩa chống Bắc thuộc\nHai Bà Trưng -> Phùng Hưng",
+    "type": "LESSON",
+    "parentId": "su6_top_1_5",
+    "examples": [
+      {
+        "id": "su_ex_1_5_3_1",
+        "question": "Ý nghĩa lịch sử: Nêu ý nghĩa của cuộc khởi nghĩa Hai Bà Trưng năm 40.",
+        "answer": "Nguyên nhân/Bối cảnh: Tô Định tàn bạo, giết Thi Sách (chồng Trưng Trắc)\nDiễn biến/Sự kiện: Năm 40: Hai Bà Trưng khởi nghĩa ở Hát Môn, đánh đuổi Tô Định, giành 65 thành trì, Trưng Trắc xưng vương\nKết quả/Hệ quả: Năm 43: Nhà Hán đàn áp -> Khởi nghĩa thất bại, chưa chấm dứt Bắc thuộc\nÝ nghĩa & Lưu ý: Mở đầu chuỗi đấu tranh giành độc lập, khẳng định tinh thần yêu nước\nLưu ý: Không chấm dứt hoàn toàn Bắc thuộc",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_5_3_2",
+        "question": "Xác định thế kỷ: Xếp các khởi nghĩa Hai Bà Trưng (40), Bà Triệu (248), Lý Bí (542), Mai Thúc Loan (713) theo thế kỷ.",
+        "answer": "Nguyên nhân/Bối cảnh: Ách đô hộ kéo dài -> Khởi nghĩa liên tục\nDiễn biến/Sự kiện: Cách làm: Bỏ 2 chữ số cuối + 1\n40 -> I | 248 -> III | 542 -> VI | 713 -> VIII\nKết quả/Hệ quả: Các khởi nghĩa nối tiếp nhau qua nhiều thế kỷ; 544: Lý Bí lập nước Vạn Xuân\nÝ nghĩa & Lưu ý: Thể hiện đấu tranh bền bỉ, chuẩn bị cho thắng lợi 938\nLưu ý: 542 thuộc thế kỷ VI, không phải V",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_5_3_1",
+    "name": "[Vì sao khởi nghĩa?]:\nBị áp bức nặng: Thuế, cống nạp, đồng hóa\nMâu thuẫn dân tộc gay gắt\nNhân dân muốn giành lại độc lập, tự chủ",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_3_2",
+    "name": "[Hai Bà Trưng (năm 40)]:\nNguyên nhân: Tô Định tàn bạo, giết Thi Sách (chồng Trưng Trắc)\nKhởi nghĩa ở Hát Môn (Hà Nội)\nĐánh đuổi Tô Định, giành 65 thành trì\nTrưng Trắc xưng vương",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_3_3",
+    "name": "[Hai Bà Trưng: Thất bại + Ý nghĩa]:\nNăm 43: Nhà Hán đàn áp (Mã Viện) -> Thất bại\nÝ nghĩa: Mở đầu chuỗi đấu tranh giành độc lập\nKhẳng định tinh thần yêu nước + Vai trò phụ nữ",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_3_4",
+    "name": "[Các khởi nghĩa tiếp theo]:\n248: Bà Triệu (chống nhà Ngô)\n542: Lý Bí (chống nhà Lương) -> 544 lập nước Vạn Xuân\n713: Mai Thúc Loan (chống nhà Đường)\nKhoảng 776 - 791: Phùng Hưng",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_3_5",
+    "name": "[Cách làm: Năm -> Thế kỷ]:\nBỏ 2 chữ số cuối, rồi +1\n40 -> 0 + 1 = I | 248 -> 2 + 1 = III\n542 -> 5 + 1 = VI | 713 -> 7 + 1 = VIII",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_3",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_3_6",
+    "name": "[Tránh nhầm]:\nHai Bà Trưng: Chưa chấm dứt hẳn Bắc thuộc\nLý Bí (542, Vạn Xuân) KHÁC Hai Bà Trưng (40)\n542 thuộc thế kỷ VI (không phải V)\nKhởi nghĩa thất bại vẫn có ý nghĩa lớn",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_3",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_5_4",
+    "name": "Khúc Thừa Dụ -> Ngô Quyền\nBạch Đằng 938",
+    "type": "LESSON",
+    "parentId": "su6_top_1_5",
+    "examples": [
+      {
+        "id": "su_ex_1_5_4_1",
+        "question": "Phân tích trận đánh: Nêu sự sáng tạo trong nghệ thuật quân sự của Ngô Quyền.",
+        "answer": "Nguyên nhân/Bối cảnh: Đầu thế kỷ X, nhà Đường suy yếu; người Việt giành quyền tự chủ (905). Năm 938 Nam Hán xâm lược\nDiễn biến/Sự kiện: Ngô Quyền đóng cọc nhọn dưới lòng sông Bạch Đằng\nTriều lên: Nhử thuyền địch vào; Triều rút: Thuyền mắc cọc, bị tiêu diệt\nLưu Hoằng Tháo bị giết\nKết quả/Hệ quả: Quân Nam Hán thất bại; 939 Ngô Quyền xưng vương\nÝ nghĩa & Lưu ý: Chấm dứt Bắc thuộc, mở ra thời đại độc lập\nLưu ý: Không nhầm với Bạch Đằng 1288 của Trần Hưng Đạo",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_5_4_2",
+        "question": "So sánh trận đánh: Nêu điểm giống và khác giữa Bạch Đằng 938 và 1288.",
+        "answer": "Nguyên nhân/Bối cảnh: Cả hai lần quân xâm lược đều đem thủy quân vào sông Bạch Đằng\nDiễn biến/Sự kiện: 938: Ngô Quyền đánh Nam Hán\n1288: Trần Hưng Đạo đánh quân Mông - Nguyên\nGiống: Cọc ngầm + Thủy triều\nCách nhau: 1288 - 938 = 350 năm\nKết quả/Hệ quả: Cả hai trận đều thắng lớn, bảo vệ độc lập\nÝ nghĩa & Lưu ý: Thể hiện sự kế thừa nghệ thuật đánh giặc\nLưu ý: Khác nhau về người chỉ huy + kẻ thù",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_5_4_1",
+    "name": "[Bối cảnh đầu thế kỷ X]:\nNhà Đường suy yếu, đất nước loạn lạc\nNgười Việt từng bước giành quyền tự chủ",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_4",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_4_2",
+    "name": "[Các mốc tự chủ]:\n905: Khúc Thừa Dụ giành quyền tự chủ\n931: Dương Đình Nghệ đánh Nam Hán, giành lại Tống Bình\n937: Kiều Công Tiễn giết Dương Đình Nghệ\n938: Ngô Quyền diệt Kiều Công Tiễn, đánh Nam Hán",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_4",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_4_3",
+    "name": "[Bạch Đằng 938: Diễn biến]:\nNam Hán đem quân, Lưu Hoằng Tháo chỉ huy\nNgô Quyền đóng cọc nhọn xuống lòng sông Bạch Đằng\nTriều lên: Nhử thuyền địch vào\nTriều rút: Thuyền địch mắc cọc, bị tiêu diệt",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_4",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_4_4",
+    "name": "[Bản chất: Vì sao thắng?]:\nThiên thời: Dùng thủy triều\nĐịa lợi: Sông Bạch Đằng hiểm, nhiều cọc ngầm\nNhân hòa: Quân dân đồng lòng\nMưu lược: Cọc ngầm + Nhử địch",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_4",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_4_5",
+    "name": "[Kết quả + Ý nghĩa]:\nQuân Nam Hán thất bại, Lưu Hoằng Tháo bị giết\n939: Ngô Quyền xưng vương, đóng đô Cổ Loa\nChấm dứt thời kỳ Bắc thuộc\nMở ra thời đại độc lập",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_4",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_4_6",
+    "name": "[Tránh nhầm]:\n938 (Ngô Quyền, đánh Nam Hán) KHÁC 1288 (Trần Hưng Đạo)\nGiống nhau: Cọc ngầm + Thủy triều\nCách nhau: 1288 - 938 = 350 năm\nHết Bắc thuộc: 938 (không phải 40, 542)",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_4",
+    "examples": null
+  },
+  {
+    "id": "su6_les_1_5_5",
+    "name": "Chăm-pa + Phù Nam\nÓc Eo",
+    "type": "LESSON",
+    "parentId": "su6_top_1_5",
+    "examples": [
+      {
+        "id": "su_ex_1_5_5_1",
+        "question": "Trình bày thành tựu: Nêu các nét văn hóa đặc sắc của Vương quốc Chăm-pa.",
+        "answer": "Nguyên nhân/Bối cảnh: Năm 192: Khu Liên lập Lâm Ấp (sau là Chăm-pa) ở Trung Bộ, tiếp thu văn hóa Ấn Độ\nDiễn biến/Sự kiện: Chữ Chăm cổ + Ấn Độ giáo, Phật giáo + Tháp Chàm bằng gạch nung + Điêu khắc đá\nKết quả/Hệ quả: Để lại di sản độc đáo như khu đền tháp Mỹ Sơn\nÝ nghĩa & Lưu ý: Góp phần vào sự đa dạng văn hóa Việt Nam\nLưu ý: Chăm-pa ở Trung Bộ, Phù Nam ở Nam Bộ",
+        "mediaUrl": null
+      },
+      {
+        "id": "su_ex_1_5_5_2",
+        "question": "Nêu bằng chứng: Di chỉ Óc Eo (An Giang) chứng tỏ điều gì về Vương quốc Phù Nam?",
+        "answer": "Nguyên nhân/Bối cảnh: Phù Nam (khoảng thế kỷ I - VII) ở Nam Bộ, vị trí thuận lợi cho giao thương biển\nDiễn biến/Sự kiện: Óc Eo (An Giang): Gốm, trang sức, tượng + đồ nước ngoài\nKết quả/Hệ quả: Chứng tỏ Óc Eo là cảng thị có buôn bán quốc tế\nÝ nghĩa & Lưu ý: Phù Nam có thương mại biển phát triển\nLưu ý: Phù Nam không ở Bắc Bộ",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "su6_step_1_5_5_1",
+    "name": "[Chăm-pa là gì?]:\nVị trí: Trung Bộ Việt Nam ngày nay\nNăm 192: Khu Liên lập nước Lâm Ấp (sau là Chăm-pa)\nCư dân: Người Chăm\nTiếp thu văn hóa Ấn Độ",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_5",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_5_2",
+    "name": "[Chăm-pa: Văn hóa]:\nChữ: Chữ Chăm cổ (dựa trên chữ Phạn)\nTôn giáo: Ấn Độ giáo (thờ Si-va) + Phật giáo\nKiến trúc: Tháp Chàm (gạch nung), Mỹ Sơn\nĐiêu khắc đá tinh xảo",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_5",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_5_3",
+    "name": "[Phù Nam]:\nThời gian: Khoảng thế kỷ I -> VII\nVị trí: Nam Bộ Việt Nam + Cam-pu-chia\nKinh tế: Nông nghiệp + Thủ công + Buôn bán biển\nTiếp thu văn hóa Ấn Độ",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_5",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_5_4",
+    "name": "[Óc Eo: Bằng chứng của Phù Nam]:\nÓc Eo (An Giang): Cảng thị lớn\nHiện vật: Gốm, trang sức vàng, tượng\nCó đồ nước ngoài: Huy chương La Mã, gương Hán\n-> Giao thương rộng (Ấn Độ, Trung Quốc, La Mã)",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_5",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_5_5",
+    "name": "[Bản chất: Vì sao Phù Nam giàu?]:\nVen biển, giữa Ấn Độ + Trung Quốc\nCảng thị -> Thuyền buôn dừng lại, trao đổi hàng\nBuôn bán + Giao lưu văn hóa\nThế kỷ VI - VII: Suy yếu, bị Chân Lạp thôn tính",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_5",
+    "examples": null
+  },
+  {
+    "id": "su6_step_1_5_5_6",
+    "name": "[Tránh nhầm]:\nChăm-pa: Trung Bộ | Phù Nam: Nam Bộ\nPhù Nam KHÔNG ở Bắc Bộ\nHiện vật khảo cổ = Tư liệu hiện vật (bằng chứng)\nTháp Chàm: Do người Chăm bản địa xây",
+    "type": "STEP",
+    "parentId": "su6_les_1_5_5",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_1_1",
+    "name": "Kinh tuyến - Vĩ tuyến\nTọa độ địa lý",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_1",
+    "examples": [
+      {
+        "id": "dia_ex_2_1_1_1",
+        "question": "Đọc tọa độ: Hãy giải thích ý nghĩa của tọa độ địa lý A(105°Đ, 21°B).",
+        "answer": "Cơ chế hình thành: Kinh tuyến + vĩ tuyến cắt nhau tại 1 điểm -> Điểm đó có tọa độ\n105°Đ = Kinh độ Đông (phía Đông kinh tuyến gốc)\n21°B = Vĩ độ Bắc (phía Bắc xích đạo)\nViết: A(105°Đ, 21°B)\nTác động tích cực: Xác định chính xác vị trí điểm A trên bản đồ + Địa Cầu; thuộc bán cầu Đông + Bắc (gần Hà Nội)\nTác động tiêu cực/Hạn chế: Viết ngược thứ tự hoặc nhầm ký hiệu (Đ, T, B, N) -> Sai vị trí\nKết luận & Lưu ý: A là giao điểm kinh tuyến 105 độ Đông + vĩ tuyến 21 độ Bắc\nLưu ý: N là Nam, KHÔNG phải North",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 520 400' width='520' height='400' role='img'><title>Lưới kinh tuyến vĩ tuyến và điểm A</title><rect width='520' height='400' fill='#ffffff'/><line x1='80' y1='40' x2='80' y2='340' stroke='#7f8c8d' stroke-width='1.2'/><text x='80' y='360' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>100°Đ</text><line x1='230' y1='40' x2='230' y2='340' stroke='#7f8c8d' stroke-width='1.2'/><text x='230' y='360' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>105°Đ</text><line x1='380' y1='40' x2='380' y2='340' stroke='#7f8c8d' stroke-width='1.2'/><text x='380' y='360' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>110°Đ</text><line x1='80' y1='40' x2='380' y2='40' stroke='#7f8c8d' stroke-width='1.2'/><text x='70' y='44' font-size='13' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>25°B</text><line x1='80' y1='190' x2='380' y2='190' stroke='#7f8c8d' stroke-width='1.2'/><text x='70' y='194' font-size='13' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>20°B</text><line x1='80' y1='340' x2='380' y2='340' stroke='#7f8c8d' stroke-width='1.2'/><text x='70' y='344' font-size='13' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>15°B</text><line x1='80' y1='160' x2='230' y2='160' stroke='#c0392b' stroke-width='1.5' stroke-dasharray='5,4'/><text x='70' y='164' font-size='13' text-anchor='end' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>21°B</text><circle cx='230' cy='160' r='5' fill='#c0392b'/><text x='246' y='152' font-size='15' text-anchor='middle' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>A</text><text x='240' y='22' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Điểm A có tọa độ (105°Đ, 21°B)</text><text x='240' y='388' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Kinh tuyến: đường dọc (Bắc - Nam) | Vĩ tuyến: đường ngang (Đông - Tây)</text></svg>"
+      },
+      {
+        "id": "dia_ex_2_1_1_2",
+        "question": "Xác định bán cầu: Điểm B(70°T, 30°N) nằm ở những bán cầu nào?",
+        "answer": "Cơ chế hình thành: 70°T: Kinh độ Tây -> Bán cầu Tây\\n30°N: Vĩ độ Nam -> Bán cầu Nam\nTác động tích cực: Biết bán cầu -> Suy ra nhanh khu vực (Nam Mỹ), mùa, khí hậu\nTác động tiêu cực/Hạn chế: Đọc N thành Bắc (North) -> Xếp nhầm vào bán cầu Bắc\nKết luận & Lưu ý: B thuộc bán cầu Tây + Nam\nLưu ý: Ký hiệu tiếng Việt: N = Nam, B = Bắc",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_1_1_1",
+    "name": "[Quả Địa Cầu là gì?]:\nQuả Địa Cầu = Mô hình thu nhỏ của Trái Đất\nTrục: Đường nối Cực Bắc - Cực Nam\nCó các đường kẻ ngang + dọc để định vị",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_1_2",
+    "name": "[Kinh tuyến]:\nKinh tuyến = Đường nối Cực Bắc với Cực Nam\nLà nửa vòng tròn, dài bằng nhau\nChỉ hướng Bắc - Nam\nCó 360 kinh tuyến (cách nhau 1 độ)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_1_3",
+    "name": "[Vĩ tuyến]:\nVĩ tuyến = Vòng tròn song song với Xích đạo\nChỉ hướng Đông - Tây\nCàng gần cực, vòng càng NHỎ (Xích đạo dài nhất)\nCó 181 vĩ tuyến (cách nhau 1 độ)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_1_4",
+    "name": "[Mốc gốc + Bán cầu]:\nKinh tuyến gốc: 0° (qua Grin-uých, Anh)\nVĩ tuyến gốc: 0° = Xích đạo\nXích đạo chia: Bán cầu Bắc + Bán cầu Nam\nKinh tuyến 0° và 180° chia: Bán cầu Đông + Tây",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_1_5",
+    "name": "[Tọa độ địa lý]:\nTọa độ = Kinh độ + Vĩ độ của 1 điểm\nViết: (kinh độ, vĩ độ)\nKinh độ: 0° -> 180°, kèm Đ hoặc T\nVĩ độ: 0° -> 90°, kèm B hoặc N",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_1_6",
+    "name": "[Cách làm: Xác định tọa độ]:\nBước 1: Kinh tuyến qua điểm là bao nhiêu, Đ hay T?\nBước 2: Vĩ tuyến qua điểm là bao nhiêu, B hay N?\nBước 3: Viết kinh độ TRƯỚC, vĩ độ SAU\nBước 4: Suy ra bán cầu của điểm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_1_7",
+    "name": "[Tránh nhầm]:\nKý hiệu: Đ (Đông), T (Tây), B (Bắc), N (Nam)\nN = Nam (KHÔNG phải North)\nKinh độ viết TRƯỚC, vĩ độ viết SAU\nKinh tuyến chạy dọc | Vĩ tuyến chạy ngang",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_1_2",
+    "name": "Tỉ lệ bản đồ\nKhoảng cách + Phương hướng",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_1",
+    "examples": [
+      {
+        "id": "dia_ex_2_1_2_1",
+        "question": "Tính khoảng cách: Trên bản đồ tỉ lệ 1:200.000, khoảng cách giữa 2 thành phố là 5 cm. Tính khoảng cách thực tế.",
+        "answer": "Cơ chế hình thành: Biết: d = 5 cm, M = 200.000\nCông thức: D = d × M\nD = 5 × 200.000 = 1.000.000 cm\nĐổi: 1.000.000 cm = 10.000 m = 10 km\nTác động tích cực: Biết khoảng cách thực -> Lập kế hoạch đi lại\nTác động tiêu cực/Hạn chế: Đo lệch nhỏ x mẫu số lớn -> Sai lệch lớn; quên đổi đơn vị -> Sai nhiều lần\nKết luận & Lưu ý: Khoảng cách thực tế: 10 km",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 215' width='480' height='215' role='img'><title>Tỉ lệ 1 : 200 000 (1 cm ứng 2 km)</title><rect width='480' height='215' fill='#ffffff'/><text x='240' y='26' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Tỉ lệ 1 : 200 000 (1 cm ứng 2 km)</text><text x='240' y='46' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>5 cm trên bản đồ = 10 km ngoài thực tế</text><text x='40' y='74' font-size='12' text-anchor='start' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Trên bản đồ</text><line x1='40' y1='90' x2='240' y2='90' stroke='#1f4e79' stroke-width='4'/><line x1='40' y1='83' x2='40' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='40' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>0 cm</text><line x1='80' y1='83' x2='80' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='80' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1 cm</text><line x1='120' y1='83' x2='120' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='120' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>2 cm</text><line x1='160' y1='83' x2='160' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='160' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>3 cm</text><line x1='200' y1='83' x2='200' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='200' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>4 cm</text><line x1='240' y1='83' x2='240' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='240' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>5 cm</text><text x='40' y='144' font-size='12' text-anchor='start' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Ngoài thực tế</text><line x1='40' y1='160' x2='240' y2='160' stroke='#1e8449' stroke-width='4'/><line x1='40' y1='153' x2='40' y2='167' stroke='#1e8449' stroke-width='2'/><text x='40' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>0 km</text><line x1='80' y1='153' x2='80' y2='167' stroke='#1e8449' stroke-width='2'/><text x='80' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>2 km</text><line x1='120' y1='153' x2='120' y2='167' stroke='#1e8449' stroke-width='2'/><text x='120' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>4 km</text><line x1='160' y1='153' x2='160' y2='167' stroke='#1e8449' stroke-width='2'/><text x='160' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>6 km</text><line x1='200' y1='153' x2='200' y2='167' stroke='#1e8449' stroke-width='2'/><text x='200' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>8 km</text><line x1='240' y1='153' x2='240' y2='167' stroke='#1e8449' stroke-width='2'/><text x='240' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>10 km</text><line x1='40' y1='90' x2='40' y2='160' stroke='#999' stroke-width='1' stroke-dasharray='3,3'/><line x1='240' y1='90' x2='240' y2='160' stroke='#999' stroke-width='1' stroke-dasharray='3,3'/></svg>"
+      },
+      {
+        "id": "dia_ex_2_1_2_2",
+        "question": "Tính ngược: Hai địa điểm cách nhau 12 km ngoài thực tế. Trên bản đồ tỉ lệ 1:500.000, khoảng cách là bao nhiêu cm?",
+        "answer": "Cơ chế hình thành: Đổi: 12 km = 1.200.000 cm\nCông thức: d = D : M\nd = 1.200.000 : 500.000 = 2,4 cm\nKiểm tra: 1 cm ứng 5 km; 2,4 × 5 = 12 (đúng)\nTác động tích cực: Chọn đúng tờ bản đồ: Vừa chi tiết, vừa đủ khổ giấy\nTác động tiêu cực/Hạn chế: Nhân thay vì chia, hoặc quên đổi km -> cm -> Sai\nKết luận & Lưu ý: Khoảng cách trên bản đồ: 2,4 cm",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 215' width='480' height='215' role='img'><title>Tỉ lệ 1 : 500 000 (1 cm ứng 5 km)</title><rect width='480' height='215' fill='#ffffff'/><text x='240' y='26' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Tỉ lệ 1 : 500 000 (1 cm ứng 5 km)</text><text x='240' y='46' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>12 km ngoài thực tế = 2,4 cm trên bản đồ</text><text x='40' y='74' font-size='12' text-anchor='start' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Trên bản đồ</text><line x1='40' y1='90' x2='232' y2='90' stroke='#1f4e79' stroke-width='4'/><line x1='40' y1='83' x2='40' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='40' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>0 cm</text><line x1='120' y1='83' x2='120' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='120' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1 cm</text><line x1='200' y1='83' x2='200' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='200' y='114' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>2 cm</text><line x1='232' y1='83' x2='232' y2='97' stroke='#1f4e79' stroke-width='2'/><text x='232' y='128' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>2,4 cm</text><text x='40' y='144' font-size='12' text-anchor='start' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Ngoài thực tế</text><line x1='40' y1='160' x2='232' y2='160' stroke='#1e8449' stroke-width='4'/><line x1='40' y1='153' x2='40' y2='167' stroke='#1e8449' stroke-width='2'/><text x='40' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>0 km</text><line x1='120' y1='153' x2='120' y2='167' stroke='#1e8449' stroke-width='2'/><text x='120' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>5 km</text><line x1='200' y1='153' x2='200' y2='167' stroke='#1e8449' stroke-width='2'/><text x='200' y='184' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>10 km</text><line x1='232' y1='153' x2='232' y2='167' stroke='#1e8449' stroke-width='2'/><text x='232' y='198' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>12 km</text><line x1='40' y1='90' x2='40' y2='160' stroke='#999' stroke-width='1' stroke-dasharray='3,3'/><line x1='232' y1='90' x2='232' y2='160' stroke='#999' stroke-width='1' stroke-dasharray='3,3'/></svg>"
+      },
+      {
+        "id": "dia_ex_2_1_2_3",
+        "question": "Xác định phương hướng: Trên bản đồ không có lưới kinh vĩ tuyến, đầu phía trên của bản đồ thường chỉ hướng nào? Điểm A nằm ở bên phải điểm B thì A ở hướng nào so với B?",
+        "answer": "Cơ chế hình thành: Quy ước (không có lưới): Trên Bắc, Dưới Nam, Phải Đông, Trái Tây\n8 hướng: B, ĐB, Đ, ĐN, N, TN, T, TB\nCó lưới: Kinh tuyến = Bắc - Nam; Vĩ tuyến = Đông - Tây\nTác động tích cực: Mô tả nhanh vị trí tương đối giữa các địa điểm\nTác động tiêu cực/Hạn chế: Nhầm quy ước hoặc bản đồ xoay hướng -> Chỉ sai hướng\nNgoài thực địa dùng la bàn / sao Bắc Đẩu\nKết luận & Lưu ý: A ở hướng Đông của B\nLưu ý: Bên phải = Đông, KHÔNG phải Tây",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_1_2_1",
+    "name": "[Bản đồ + Vì sao phải thu nhỏ?]:\nBản đồ = Hình vẽ thu nhỏ 1 vùng đất lên mặt phẳng\nThực tế quá lớn -> Phải thu nhỏ theo tỉ lệ\nTỉ lệ cho biết: Thu nhỏ bao nhiêu lần",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_2_2",
+    "name": "[Tỉ lệ bản đồ]:\nTỉ lệ số: 1 : M (ví dụ 1 : 200.000)\n1 cm trên bản đồ = M cm ngoài thực tế\nM = Mẫu số\nTỉ lệ thước: Thước vẽ sẵn (1 cm ứng bao nhiêu km)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_2_3",
+    "name": "[Bản chất: Tỉ lệ lớn hay nhỏ?]:\nMẫu số NHỎ -> Tỉ lệ LỚN -> Nhiều chi tiết, vùng nhỏ\nMẫu số LỚN -> Tỉ lệ NHỎ -> Ít chi tiết, vùng rộng\nVí dụ: 1:1.000 chi tiết hơn 1:1.000.000",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_2_4",
+    "name": "[Công thức khoảng cách]:\nThực tế = Bản đồ × M\nBản đồ = Thực tế : M\nĐổi: 1 km = 1.000 m\nĐổi: 1 km = 100.000 cm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_2_5",
+    "name": "[Cách làm: Tính khoảng cách]:\nBước 1: Đo khoảng cách trên bản đồ (cm)\nBước 2: Tính xuôi: nhân M | Tính ngược: chia M\nBước 3: Đổi cm -> m -> km\nBước 4: Kiểm tra: 1 cm ứng bao nhiêu km?",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_2_6",
+    "name": "[Phương hướng]:\nQuy ước: Trên Bắc, Dưới Nam, Phải Đông, Trái Tây\n8 hướng: B, ĐB, Đ, ĐN, N, TN, T, TB\nCó lưới kinh vĩ: Kinh tuyến = Bắc - Nam\nNgoài thực địa: La bàn / Sao Bắc Đẩu (hướng Bắc)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_2_7",
+    "name": "[Tránh nhầm]:\nQuên đổi cm -> km\nNhầm nhân / chia (xuôi: nhân; ngược: chia)\nBên phải = Đông (KHÔNG phải Tây)\nTỉ lệ lớn = Mẫu số nhỏ",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_1_3",
+    "name": "Ký hiệu bản đồ\nĐường đồng mức",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_1",
+    "examples": [
+      {
+        "id": "dia_ex_2_1_3_1",
+        "question": "Đọc đường đồng mức: Mối quan hệ giữa khoảng cách các đường đồng mức và độ dốc địa hình?",
+        "answer": "Cơ chế hình thành: Độ cao đổi NHANH (sườn dốc) -> Đường đồng mức SÁT nhau\nĐộ cao đổi CHẬM (sườn thoải) -> Đường XA nhau\nĐường đồng mức nối các điểm cùng độ cao\nTác động tích cực: Nhìn mật độ đường -> Biết độ dốc, chọn tuyến đường, vị trí xây dựng\nTác động tiêu cực/Hạn chế: Chỉ cho biết các mức độ cao, không thấy chi tiết giữa 2 đường; dễ đọc sai nếu không xem khoảng cao đều\nKết luận & Lưu ý: Đồng mức càng dày -> Địa hình càng dốc\nLưu ý: SÁT nhau KHÔNG phải bằng phẳng",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 380' width='600' height='380' role='img'><title>Đường đồng mức và độ dốc</title><rect width='600' height='380' fill='#ffffff'/><text x='300' y='18' font-size='13' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Mặt cắt ngang ngọn đồi (các đường cách nhau 100 m độ cao)</text><polygon points='130,150 230,50 510,150' fill='#d5e8d4' stroke='#1e8449' stroke-width='2'/><line x1='155' y1='125' x2='440' y2='125' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='122' y='129' font-size='11' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>100 m</text><line x1='180' y1='100' x2='370' y2='100' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='122' y='104' font-size='11' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>200 m</text><line x1='205' y1='75' x2='300' y2='75' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='122' y='79' font-size='11' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>300 m</text><text x='122' y='154' font-size='11' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>0 m</text><text x='238' y='46' font-size='11' text-anchor='start' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>400 m (đỉnh)</text><text x='300' y='200' font-size='13' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Nhìn từ trên xuống: các đường đồng mức</text><ellipse cx='297.5' cy='270' rx='142.5' ry='51' fill='none' stroke='#8e5a2b' stroke-width='1.8'/><line x1='155' y1='125' x2='155' y2='270' stroke='#bbb' stroke-width='1' stroke-dasharray='2,3'/><line x1='440' y1='125' x2='440' y2='270' stroke='#bbb' stroke-width='1' stroke-dasharray='2,3'/><text x='444' y='266' font-size='10' text-anchor='start' fill='#8e5a2b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>100 m</text><ellipse cx='275' cy='270' rx='95' ry='39' fill='none' stroke='#8e5a2b' stroke-width='1.8'/><line x1='180' y1='100' x2='180' y2='270' stroke='#bbb' stroke-width='1' stroke-dasharray='2,3'/><line x1='370' y1='100' x2='370' y2='270' stroke='#bbb' stroke-width='1' stroke-dasharray='2,3'/><text x='374' y='266' font-size='10' text-anchor='start' fill='#8e5a2b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>200 m</text><ellipse cx='252.5' cy='270' rx='47.5' ry='27' fill='none' stroke='#8e5a2b' stroke-width='1.8'/><line x1='205' y1='75' x2='205' y2='270' stroke='#bbb' stroke-width='1' stroke-dasharray='2,3'/><line x1='300' y1='75' x2='300' y2='270' stroke='#bbb' stroke-width='1' stroke-dasharray='2,3'/><text x='304' y='266' font-size='10' text-anchor='start' fill='#8e5a2b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>300 m</text><circle cx='230' cy='270' r='3' fill='#8e5a2b'/><text x='180' y='345' font-size='12' text-anchor='middle' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sườn dốc (bên trái)</text><text x='180' y='361' font-size='12' text-anchor='middle' fill='#c0392b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>đường SÁT nhau</text><text x='370' y='345' font-size='12' text-anchor='middle' fill='#1f4e79' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sườn thoải (bên phải)</text><text x='370' y='361' font-size='12' text-anchor='middle' fill='#1f4e79' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>đường XA nhau</text></svg>"
+      },
+      {
+        "id": "dia_ex_2_1_3_2",
+        "question": "Phân loại ký hiệu: Đường sắt, thủ đô, khu rừng thuộc loại ký hiệu nào?",
+        "answer": "Cơ chế hình thành: Ký hiệu chia theo hình dạng đối tượng:\nĐiểm: Đối tượng nhỏ (thủ đô)\nĐường: Đối tượng kéo dài (đường sắt)\nDiện tích: Đối tượng chiếm vùng (rừng)\nTác động tích cực: Phân loại đúng -> Đọc chú giải nhanh, hiểu nội dung bản đồ\nTác động tiêu cực/Hạn chế: Một đối tượng đổi loại ký hiệu theo tỉ lệ (thành phố: điểm / diện tích) -> Dễ nhầm nếu không xem chú giải\nKết luận & Lưu ý: Thủ đô: Điểm | Đường sắt: Đường | Khu rừng: Diện tích\nLưu ý: Sông lớn KHÔNG phải ký hiệu điểm",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_1_3_1",
+    "name": "[Ký hiệu bản đồ là gì?]:\nKý hiệu = Hình vẽ quy ước thay cho đối tượng thật\nBản đồ nhỏ, không vẽ hết được vật thật\nBảng chú giải = Giải nghĩa từng ký hiệu",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_3_2",
+    "name": "[3 loại ký hiệu]:\nKý hiệu điểm: Đối tượng nhỏ (thủ đô, sân bay)\nKý hiệu đường: Đối tượng kéo dài (đường sắt, biên giới)\nKý hiệu diện tích: Đối tượng chiếm vùng (rừng, vùng lúa)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_3_3",
+    "name": "[Đường đồng mức]:\nĐường đồng mức = Nối các điểm CÙNG độ cao\nGhi số độ cao trên mỗi đường\n2 đường kề nhau cách nhau độ cao bằng nhau\nDùng biểu diễn địa hình (núi, đồi)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_3_4",
+    "name": "[Bản chất: Đồng mức -> Độ dốc]:\nSườn DỐC: Độ cao đổi nhanh -> Đường SÁT nhau\nSườn THOẢI: Độ cao đổi chậm -> Đường XA nhau\nĐường khép kín, số càng lớn càng vào trong -> Đỉnh",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_3_5",
+    "name": "[Lược đồ trí nhớ]:\nLược đồ trí nhớ = Bản vẽ đơn giản, vẽ từ trí nhớ\nVí dụ: Đường từ nhà đến trường\nGồm: Điểm mốc + Đường đi + Hướng\nKhông cần chính xác tỉ lệ",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_3_6",
+    "name": "[Cách làm: Đọc bản đồ]:\nBước 1: Xem tên + tỉ lệ bản đồ\nBước 2: Xem bảng chú giải\nBước 3: Xác định loại ký hiệu\nBước 4: Đọc nội dung",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_1_3_7",
+    "name": "[Tránh nhầm]:\nĐồng mức SÁT = Dốc (KHÔNG phải bằng phẳng)\nThành phố: Là điểm hay diện tích tùy tỉ lệ\nLuôn xem chú giải trước khi đọc\nSông lớn: Ký hiệu đường / diện tích, KHÔNG phải điểm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_1_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_2_1",
+    "name": "Trái Đất\nVị trí + Hình dạng + Kích thước",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_2",
+    "examples": [
+      {
+        "id": "dia_ex_2_2_1_1",
+        "question": "Ý nghĩa vị trí: Vị trí thứ 3 trong Hệ Mặt Trời có ý nghĩa gì đối với sự sống?",
+        "answer": "Cơ chế hình thành: Trái Đất cách Mặt Trời khoảng 149,6 triệu km (hành tinh thứ 3)\nKhoảng cách VỪA ĐỦ -> Nhiệt độ thích hợp + Nước thể lỏng\nTác động tích cực: Nhiệt độ + nước thích hợp -> Có sự sống (hành tinh duy nhất đã biết có sự sống)\nTác động tiêu cực/Hạn chế: Gần hơn -> Quá nóng, nước bốc hơi\nXa hơn -> Quá lạnh, nước đóng băng\nKết luận & Lưu ý: Vị trí thứ 3 là điều kiện quan trọng cho sự sống\nLưu ý: Sự sống không chỉ do có nước",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_2_1_2",
+        "question": "Chứng minh hình dạng: Nêu hai bằng chứng cho thấy Trái Đất có dạng hình cầu.",
+        "answer": "Cơ chế hình thành: Bằng chứng 1: Ma-gien-lăng đi vòng quanh Trái Đất, về nơi xuất phát\nBằng chứng 2: Ảnh vệ tinh chụp từ vũ trụ\nBằng chứng 3: Tàu ra xa, thân tàu mất trước cột buồm\nTác động tích cực: Hình cầu -> Giải thích nhiệt khác nhau theo vĩ độ + có kinh, vĩ độ để định vị\nTác động tiêu cực/Hạn chế: Nhìn nơi nhỏ thấy mặt đất phẳng -> Dễ tưởng Trái Đất phẳng (vì Trái Đất rất lớn)\nKết luận & Lưu ý: Trái Đất có dạng hình cầu\nLưu ý: KHÔNG phải đĩa phẳng",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_2_1_1",
+    "name": "[Hệ Mặt Trời]:\nMặt Trời = Ngôi sao trung tâm; 8 hành tinh quay quanh\nThứ tự: Thủy, Kim, Trái Đất, Hỏa,\nMộc, Thổ, Thiên Vương, Hải Vương\nTrái Đất: Hành tinh thứ 3",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_1_2",
+    "name": "[Hình dạng + Kích thước]:\nHình cầu (hơi dẹt ở 2 cực)\nBán kính khoảng 6371 km\nChu vi xích đạo khoảng 40076 km\nHành tinh duy nhất có sự sống (đã biết)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_1_3",
+    "name": "[Bằng chứng: Trái Đất hình cầu]:\nMa-gien-lăng đi vòng quanh, về nơi xuất phát\nẢnh chụp từ vệ tinh, tàu vũ trụ\nTàu ra xa: Thân tàu mất trước, cột buồm mất sau",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_1_4",
+    "name": "[Bản chất: Vì sao có sự sống?]:\nKhoảng cách tới Mặt Trời VỪA ĐỦ (khoảng 150 triệu km)\nNhiệt độ trung bình thích hợp\nCó nước ở thể lỏng\nCó khí quyển (không khí để thở)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_1_5",
+    "name": "[Hệ quả của hình cầu]:\nMặt Trời chỉ chiếu 1 nửa: Nơi sáng (ngày), nơi tối (đêm)\nGóc chiếu khác nhau -> Nhiệt nhận được khác nhau\nCần kinh độ + vĩ độ để định vị",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_1_6",
+    "name": "[Tránh nhầm]:\nTrái Đất hình cầu (KHÔNG phải đĩa phẳng)\nThứ 3 từ Mặt Trời (KHÔNG phải thứ 2, thứ 4)\nSự sống cần cả nhiệt độ + nước + khí quyển\nNhìn gần thấy phẳng vì Trái Đất rất lớn",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_2_2",
+    "name": "Tự quay\nNgày đêm + Múi giờ + Cô-ri-ô-lít",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_2",
+    "examples": [
+      {
+        "id": "dia_ex_2_2_2_1",
+        "question": "Tính giờ múi: Khi giờ GMT là 12h00 thì ở Hà Nội (múi giờ số 7) là mấy giờ?",
+        "answer": "Cơ chế hình thành: Trái Đất quay Tây -> Đông; mỗi múi giờ rộng 15°\nHà Nội: Múi số 7 (phía Đông) -> Cộng\nT = T0 + m = 12 + 7 = 19h00\nTác động tích cực: Chia múi giờ -> Mỗi vùng thống nhất giờ, giao lưu quốc tế dễ\nTác động tiêu cực/Hạn chế: Trừ thay vì cộng (phía Đông) -> Sai giờ\nKết luận & Lưu ý: GMT 12h00 -> Hà Nội 19h00 cùng ngày",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 200' width='500' height='200' role='img'><title>Múi giờ GMT và Hà Nội</title><rect width='500' height='200' fill='#ffffff'/><text x='250' y='24' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Đi về phía Đông: mỗi múi giờ sớm hơn 1 giờ (cộng)</text><rect x='18' y='60' width='52' height='70' rx='6' fill='#fdebd0' stroke='#1f4e79'/><text x='44' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 0</text><text x='44' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>12h00</text><rect x='76' y='60' width='52' height='70' rx='6' fill='#eaf2f8' stroke='#1f4e79'/><text x='102' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 1</text><text x='102' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>13h00</text><rect x='134' y='60' width='52' height='70' rx='6' fill='#eaf2f8' stroke='#1f4e79'/><text x='160' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 2</text><text x='160' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>14h00</text><rect x='192' y='60' width='52' height='70' rx='6' fill='#eaf2f8' stroke='#1f4e79'/><text x='218' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 3</text><text x='218' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>15h00</text><rect x='250' y='60' width='52' height='70' rx='6' fill='#eaf2f8' stroke='#1f4e79'/><text x='276' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 4</text><text x='276' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>16h00</text><rect x='308' y='60' width='52' height='70' rx='6' fill='#eaf2f8' stroke='#1f4e79'/><text x='334' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 5</text><text x='334' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>17h00</text><rect x='366' y='60' width='52' height='70' rx='6' fill='#eaf2f8' stroke='#1f4e79'/><text x='392' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 6</text><text x='392' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>18h00</text><rect x='424' y='60' width='52' height='70' rx='6' fill='#fdebd0' stroke='#1f4e79'/><text x='450' y='82' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Múi 7</text><text x='450' y='112' font-size='15' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>19h00</text><text x='44' y='152' font-size='13' text-anchor='middle' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>GMT</text><text x='450' y='152' font-size='13' text-anchor='middle' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Hà Nội</text><text x='250' y='185' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>T = T0 + m = 12 + 7 = 19h00</text></svg>"
+      },
+      {
+        "id": "dia_ex_2_2_2_2",
+        "question": "Qua ngày: Khi Hà Nội (múi giờ số 7) là 3h00 ngày 1/10 thì giờ GMT là mấy giờ, ngày nào?",
+        "answer": "Cơ chế hình thành: Tính giờ GMT: T0 = T - m = 3 - 7 = -4\nKết quả âm: -4 + 24 = 20h00, LÙI 1 ngày (30/9)\nKiểm tra: 20 + 7 = 27; 27 - 24 = 3 (ngày 1/10)\nTác động tích cực: Đổi giờ chính xác khi họp trực tuyến, đặt lịch bay, theo dõi sự kiện toàn cầu\nTác động tiêu cực/Hạn chế: Quên đổi ngày khi âm / quá 24 giờ -> Sai ngày\nQua đường đổi ngày (180°): Tây -> Đông lùi 1 ngày\nKết luận & Lưu ý: GMT: 20h00 ngày 30/9",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_2_2_1",
+    "name": "[Chuyển động tự quay]:\nTrục = Đường tưởng tượng nối Cực Bắc - Cực Nam\nTrái Đất quay quanh trục\nHướng quay: Từ TÂY sang ĐÔNG\n1 vòng khoảng 24 giờ = 1 ngày đêm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_2_2",
+    "name": "[Hệ quả: Ngày đêm luân phiên]:\nMặt Trời chỉ chiếu sáng 1 NỬA Trái Đất\nNửa được chiếu: Ngày | Nửa còn lại: Đêm\nTrái Đất quay -> Mọi nơi lần lượt có ngày + đêm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_2_3",
+    "name": "[Giờ + Múi giờ]:\nNơi ở phía ĐÔNG đón Mặt Trời TRƯỚC -> Giờ SỚM hơn\nChia 24 múi giờ, mỗi múi 15° kinh độ\nMúi số 0: Qua Grin-uých (giờ GMT)\nViệt Nam: Múi giờ số 7",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_2_4",
+    "name": "[Cách làm: Đổi giờ]:\nPhía ĐÔNG: Giờ sớm hơn -> CỘNG\nPhía TÂY: Giờ muộn hơn -> TRỪ\nGiờ cần tính = Giờ gốc ± Số múi giờ chênh\nQuá 24h hoặc âm: Đổi ngày",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_2_5",
+    "name": "[Đường đổi ngày]:\nKinh tuyến 180° = Đường đổi ngày quốc tế\nĐi qua từ Tây sang Đông: LÙI 1 ngày\nĐi qua từ Đông sang Tây: TĂNG 1 ngày",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_2_6",
+    "name": "[Lực Cô-ri-ô-lít]:\nDo Trái Đất tự quay -> Vật chuyển động bị lệch hướng\nBắc bán cầu: Lệch PHẢI\nNam bán cầu: Lệch TRÁI\nÁp dụng: Gió, dòng biển",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_2_7",
+    "name": "[Tránh nhầm]:\nĐông CỘNG, Tây TRỪ\nKết quả âm: Cộng 24 + lùi 1 ngày\nNam bán cầu lệch TRÁI (KHÔNG phải phải)\nQuay Tây -> Đông (KHÔNG phải Đông -> Tây)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_2_3",
+    "name": "Công chuyển\nTrục nghiêng -> Bốn mùa",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_2",
+    "examples": [
+      {
+        "id": "dia_ex_2_2_3_1",
+        "question": "Giải thích hiện tượng: Tại sao khi Bán cầu Bắc là mùa hè thì Bán cầu Nam là mùa đông?",
+        "answer": "Cơ chế hình thành: Trục nghiêng 66°33' + KHÔNG đổi hướng khi quay quanh Mặt Trời\nNửa cầu NGẢ về Mặt Trời: Nhiều nhiệt (hè); nửa cầu CHẾCH xa: Ít nhiệt (đông)\nTác động tích cực: Nửa cầu ngả về Mặt Trời: Ngày dài, nhiều nhiệt -> Cây phát triển, sản xuất thuận lợi\nTác động tiêu cực/Hạn chế: Nửa cầu chếch xa: Đêm dài, lạnh -> Khó khăn cho sinh hoạt, sản xuất\nKết luận & Lưu ý: Bắc hè -> Nam đông\nLưu ý: Mùa KHÔNG do gần - xa Mặt Trời",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_2_3_2",
+        "question": "Ngày đêm dài ngắn: Ngày 22/6, ở Bán cầu Bắc ngày dài hay đêm dài? Ở xích đạo thì sao?",
+        "answer": "Cơ chế hình thành: 22/6 là hạ chí: Mặt Trời chiếu vuông góc chí tuyến Bắc\nBắc bán cầu ngả về Mặt Trời -> Ngày dài nhất, đêm ngắn nhất\nTác động tích cực: Bắc bán cầu: Nhiều ánh sáng + nhiệt -> Hè, nông nghiệp + du lịch thuận lợi\nTác động tiêu cực/Hạn chế: Nam bán cầu cùng lúc: Ngày ngắn nhất, đêm dài nhất (mùa đông)\nXích đạo: Ngày = đêm quanh năm\nKết luận & Lưu ý: Ngày 22/6: Bắc ngày dài hơn đêm; xích đạo ngày = đêm\nLưu ý: Không nhầm Nam bán cầu có ngày dài",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 560 350' width='560' height='350' role='img'><title>Trái Đất ngày 22/6</title><rect width='560' height='350' fill='#ffffff'/><defs><marker id='a' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='b' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#1f4e79'/></marker><marker id='o' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#e67e22'/></marker></defs><text x='280' y='22' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Ngày 22/6 (hạ chí): Bắc bán cầu ngả về Mặt Trời</text><circle cx='250' cy='175' r='100' fill='#d6eaf8' stroke='#1f4e79' stroke-width='2'/><path d='M250,75 A100,100 0 0 1 250,275 Z' fill='#2c3e50' opacity='0.28'/><line x1='301.837' y1='294.218' x2='198.163' y2='55.7822' stroke='#555' stroke-width='2' stroke-dasharray='6,3'/><line x1='158.294' y1='214.875' x2='341.706' y2='135.125' stroke='#c0392b' stroke-width='2'/><line x1='150' y1='175' x2='318.2' y2='101.865' stroke='#e67e22' stroke-width='2'/><line x1='181.8' y1='248.135' x2='350' y2='175' stroke='#e67e22' stroke-width='2'/><line x1='176.865' y1='106.8' x2='250' y2='75' stroke='#8e44ad' stroke-width='2'/><text x='351.706' y='139.125' font-size='11' text-anchor='start' fill='#c0392b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Xích đạo</text><text x='328.2' y='105.865' font-size='11' text-anchor='start' fill='#e67e22' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Chí tuyến Bắc 23°27'B</text><text x='260' y='69' font-size='11' text-anchor='start' fill='#8e44ad' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Vòng cực Bắc</text><text x='360' y='179' font-size='11' text-anchor='start' fill='#e67e22' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Chí tuyến Nam</text><text x='190.163' y='51.7822' font-size='12' text-anchor='end' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Cực Bắc</text><text x='293.837' y='300.218' font-size='12' text-anchor='end' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Cực Nam</text><path d='M40,135 L156.348,135' stroke='#e67e22' stroke-width='2' marker-end='url(#o)'/><path d='M40,175 L148,175' stroke='#e67e22' stroke-width='2' marker-end='url(#o)'/><path d='M40,215 L156.348,215' stroke='#e67e22' stroke-width='2' marker-end='url(#o)'/><text x='40' y='123' font-size='12' text-anchor='start' fill='#d68910' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Tia sáng Mặt Trời</text><circle cx='150' cy='175' r='4' fill='#c0392b'/><text x='280' y='325' font-size='12' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Tia sáng vuông góc với mặt đất tại chí tuyến Bắc (chấm đỏ)</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_2_3_1",
+    "name": "[Chuyển động quanh Mặt Trời]:\nTrái Đất quay quanh Mặt Trời (công chuyển)\nQuỹ đạo: Hình elip gần tròn\n1 vòng: 365 ngày 6 giờ = 1 năm\nVừa quay quanh Mặt Trời, vừa tự quay",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_3_2",
+    "name": "[Trục nghiêng không đổi]:\nTrục nghiêng 66°33' so với mặt phẳng quỹ đạo\nHướng nghiêng KHÔNG đổi (luôn về phía sao Bắc Cực)\n-> Lúc Bắc bán cầu ngả về Mặt Trời, lúc Nam bán cầu",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_3_3",
+    "name": "[Bản chất: Vì sao có mùa?]:\nNửa cầu NGẢ về Mặt Trời: Nhận nhiều nhiệt -> Hè\nNửa cầu CHẾCH xa: Nhận ít nhiệt -> Đông\nHai bán cầu có mùa NGƯỢC nhau\nKHÔNG do gần - xa Mặt Trời",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_3_4",
+    "name": "[4 mốc quan trọng (Bắc bán cầu)]:\n21/3: Xuân phân (ngày = đêm)\n22/6: Hạ chí (ngày dài nhất)\n23/9: Thu phân (ngày = đêm)\n22/12: Đông chí (ngày ngắn nhất)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_3_5",
+    "name": "[Ngày đêm dài ngắn theo vĩ độ]:\nXích đạo: Ngày = đêm quanh năm\nCàng xa xích đạo: Ngày - đêm càng chênh\nVòng cực: Có ngày / đêm dài 24 giờ\nCực: Nửa năm ngày, nửa năm đêm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_2_3_6",
+    "name": "[Tránh nhầm]:\nTháng 1: Gần Mặt Trời nhất, Bắc bán cầu vẫn mùa đông\nBắc bán cầu hè -> Nam bán cầu đông\n22/6: Bắc ngày dài nhất, Nam ngày ngắn nhất\nXích đạo: Ngày đêm bằng nhau quanh năm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_2_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_3_1",
+    "name": "Cấu tạo Trái Đất\n3 lớp + Mảng kiến tạo",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_3",
+    "examples": [
+      {
+        "id": "dia_ex_2_3_1_1",
+        "question": "Giải thích cơ chế: Điều gì xảy ra khi hai mảng kiến tạo xô vào nhau?",
+        "answer": "Cơ chế hình thành: Mảng kiến tạo trôi CHẬM trên man-ti quánh dẻo\nHai mảng xô vào nhau -> Đá bị nén ép, uốn nếp, trồi lên\nTác động tích cực: Hình thành dãy núi uốn nếp lớn (Himalaya) + nguồn khoáng sản\nTác động tiêu cực/Hạn chế: Có thể gây động đất, núi lửa\nHai mảng tách xa: Mắc-ma trào lên -> Dãy núi ngầm đại dương\nKết luận & Lưu ý: Hai mảng xô vào nhau -> Dãy núi uốn nếp lớn\nLưu ý: Không chỉ tạo vực sâu",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_3_1_2",
+        "question": "Xác định lớp: Lớp nào của Trái Đất dày nhất? Nhân chứa vật chất ở trạng thái nào?",
+        "answer": "Cơ chế hình thành: 3 lớp: Vỏ (từ 5 đến 70 km) | Man-ti (khoảng 2900 km) | Nhân (ngoài lỏng, trong rắn)\nTác động tích cực: Hiểu cấu tạo -> Giải thích động đất, núi lửa, sự trôi của các mảng\nTác động tiêu cực/Hạn chế: Chỉ khoan được lớp vỏ -> Các lớp sâu suy ra gián tiếp qua sóng địa chấn\nKết luận & Lưu ý: Man-ti là lớp dày nhất\nLưu ý: Vỏ là lớp mỏng nhất",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_3_1_1",
+    "name": "[Bên trong Trái Đất]:\nHình dung như quả trứng: Vỏ + Lòng trắng + Lòng đỏ\n3 lớp: Vỏ -> Man-ti -> Nhân\nTừ ngoài vào trong: Càng sâu càng nóng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_1_2",
+    "name": "[Lớp vỏ]:\nMỏng nhất, rắn chắc\nDày khoảng 5 -> 70 km (lục địa dày hơn đại dương)\nNơi sinh sống của con người + sinh vật\nKhông liền một khối: Gồm nhiều MẢNG",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_1_3",
+    "name": "[Man-ti + Nhân]:\nMan-ti: Dày NHẤT (khoảng 2900 km)\nMan-ti: Vật chất quánh dẻo, các mảng vỏ trôi trên đó\nNhân: Ngoài lỏng, trong rắn\nNhiệt độ nhân cao nhất khoảng 5000°C",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_1_4",
+    "name": "[Mảng kiến tạo]:\n7 mảng lớn: Âu-Á, Phi, Bắc Mỹ, Nam Mỹ,\nNam Cực, Ấn Độ - Ô-xtrây-li-a, Thái Bình Dương\nCác mảng trôi CHẬM trên man-ti\nHai mảng gặp nhau: Xô vào nhau hoặc tách xa nhau",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_1_5",
+    "name": "[Bản chất: Hai mảng xô vào nhau]:\nĐá bị nén ép -> Uốn nếp -> Trồi lên thành NÚI\nHoặc 1 mảng chui xuống mảng kia -> Núi lửa + Động đất\nVí dụ: Himalaya (mảng Ấn - Úc xô mảng Âu - Á)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_1_6",
+    "name": "[Bản chất: Hai mảng tách xa nhau]:\nMắc-ma từ man-ti trào lên\nNguội đi, đông đặc thành vỏ mới\nTạo dãy núi NGẦM dưới đại dương",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_1_7",
+    "name": "[Tránh nhầm]:\nMan-ti dày NHẤT (vỏ mỏng nhất)\nXô vào nhau -> Núi (không chỉ tạo vực sâu)\nTách xa nhau -> Dãy núi ngầm (không phải vực sâu)\nVỏ Trái Đất gồm nhiều mảng, không liền một khối",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_3_2",
+    "name": "Nội lực + Ngoại lực\nĐộng đất + Núi lửa",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_3",
+    "examples": [
+      {
+        "id": "dia_ex_2_3_2_1",
+        "question": "So sánh hai lực: Mối quan hệ giữa nội lực và ngoại lực trong tạo lập địa hình?",
+        "answer": "Cơ chế hình thành: Nội lực: Từ BÊN TRONG Trái Đất\nNgoại lực: Từ BÊN NGOÀI (nhiệt, gió, nước)\nHai quá trình đối nghịch, diễn ra ĐỒNG THỜI\nTác động tích cực: Nội lực nâng, hạ -> Núi, cao nguyên\nNgoại lực bóc mòn, bồi tụ -> Đồng bằng, thung lũng\nTác động tiêu cực/Hạn chế: Nội lực: Động đất, núi lửa\nNgoại lực: Xói mòn, sạt lở\nKết luận & Lưu ý: Địa hình = Kết quả của cả hai lực\nLưu ý: Hai lực KHÔNG triệt tiêu nhau",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_3_2_2",
+        "question": "Phân loại: Núi lửa phun trào, gió thổi mòn đá, sóng biển xói lở bờ, động đất thuộc nội lực hay ngoại lực?",
+        "answer": "Cơ chế hình thành: Hỏi: Năng lượng gây hiện tượng nằm bên trong hay bên ngoài?\nNúi lửa, động đất -> Bên trong\nGió, sóng biển -> Bên ngoài\nTác động tích cực: Phân loại đúng -> Dự báo + phòng tránh thiên tai\nTác động tiêu cực/Hạn chế: Dễ nhầm các hiện tượng gần nhau\nKết luận & Lưu ý: Núi lửa, động đất: Nội lực | Gió, sóng biển: Ngoại lực\nLưu ý: Sóng biển KHÔNG phải nội lực",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_3_2_1",
+    "name": "[Hai nhóm lực]:\nĐịa hình liên tục thay đổi (rất chậm)\nDo 2 nhóm lực: Nội lực + Ngoại lực\nNội lực làm CAO lên | Ngoại lực làm THẤP xuống",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_2_2",
+    "name": "[Nội lực]:\nNội lực = Lực sinh ra BÊN TRONG Trái Đất\nBiểu hiện: Động đất, Núi lửa, Nâng - hạ vỏ\nKết quả: Địa hình gồ ghề (núi, thung lũng)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_2_3",
+    "name": "[Núi lửa + Động đất]:\nNúi lửa: Mắc-ma trào lên mặt đất qua miệng núi\nĐộng đất: Vỏ Trái Đất rung chuyển\nThường ở nơi 2 mảng tiếp xúc\nSóng thần: Do động đất / núi lửa dưới đáy biển",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_2_4",
+    "name": "[Ngoại lực]:\nNgoại lực = Tác nhân BÊN NGOÀI (nhiệt, gió, nước, sinh vật)\n3 quá trình: Phong hóa -> Bóc mòn -> Bồi tụ\nKết quả: San bằng địa hình",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_2_5",
+    "name": "[3 quá trình ngoại lực]:\nPhong hóa: Đá vỡ vụn tại chỗ (do nhiệt, nước, sinh vật)\nBóc mòn: Vật liệu bị gió, nước cuốn đi\nBồi tụ: Vật liệu lắng đọng ở nơi khác",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_2_6",
+    "name": "[Bản chất: Hai lực đối nghịch]:\nNội lực: Tạo gồ ghề (núi cao)\nNgoại lực: San bằng (bào mòn, bồi lấp)\nCùng tác động ĐỒNG THỜI\nĐịa hình = Kết quả của cả hai lực",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_2_7",
+    "name": "[Tránh nhầm]:\nNúi lửa, động đất = Nội lực\nGió, sóng biển, mưa = Ngoại lực\nHai lực KHÔNG triệt tiêu nhau\nSóng biển KHÔNG phải nội lực",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_3_3",
+    "name": "Địa hình + Khoáng sản",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_3",
+    "examples": [
+      {
+        "id": "dia_ex_2_3_3_1",
+        "question": "Phân loại khoáng sản: Than đá, quặng sắt, đá vôi thuộc loại khoáng sản nào?",
+        "answer": "Cơ chế hình thành: Phân theo công dụng:\nNăng lượng: Than đá, dầu mỏ\nKim loại: Quặng sắt, đồng\nPhi kim: Đá vôi, muối mỏ\nTác động tích cực: Nguyên liệu công nghiệp: Than -> Nhiệt điện; Quặng sắt -> Luyện thép; Đá vôi -> Xi măng\nTác động tiêu cực/Hạn chế: Khai thác quá mức -> Cạn kiệt (không tái tạo), mất rừng, ô nhiễm, thải khí nhà kính\nKết luận & Lưu ý: Than đá: Năng lượng | Quặng sắt: Kim loại | Đá vôi: Phi kim\nLưu ý: Than đá KHÔNG phải phi kim",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_3_3_2",
+        "question": "Độ cao: Đỉnh núi cao 1200 m so với mực nước biển, chân núi cao 300 m. Tính độ cao tuyệt đối và tương đối của đỉnh.",
+        "answer": "Cơ chế hình thành: Độ cao tuyệt đối: Từ mực nước biển = 1200 m\nĐộ cao tương đối: Từ chân núi = 1200 - 300 = 900 m\nTác động tích cực: Độ cao tuyệt đối -> Phân loại địa hình; tương đối -> Biết độ chênh trong vùng\nTác động tiêu cực/Hạn chế: Nhầm 2 khái niệm -> Phân loại sai địa hình\nKết luận & Lưu ý: Tuyệt đối 1200 m; tương đối 900 m (là núi vì cao hơn 500 m)",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 330' width='540' height='330' role='img'><title>Độ cao tuyệt đối và tương đối</title><rect width='540' height='330' fill='#ffffff'/><defs><marker id='a' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='b' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#1f4e79'/></marker><marker id='o' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#e67e22'/></marker></defs><text x='260' y='22' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Độ cao tuyệt đối và độ cao tương đối</text><polygon points='40,300 40,240 160,240 260,60 360,240 480,240 480,300' fill='#d5e8d4' stroke='#1e8449' stroke-width='2'/><line x1='40' y1='300' x2='480' y2='300' stroke='#2e86c1' stroke-width='2'/><text x='480' y='316' font-size='11' text-anchor='end' fill='#2e86c1' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Mực nước biển (0 m)</text><line x1='40' y1='240' x2='160' y2='240' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='100' y='256' font-size='11' text-anchor='middle' fill='#555' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Chân núi: 300 m</text><circle cx='260' cy='60' r='4' fill='#c0392b'/><text x='260' y='52' font-size='12' text-anchor='middle' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Đỉnh: 1200 m</text><line x1='260' y1='60' x2='430' y2='60' stroke='#c0392b' stroke-width='1' stroke-dasharray='4,3'/><line x1='110' y1='60' x2='260' y2='60' stroke='#1f4e79' stroke-width='1' stroke-dasharray='4,3'/><path d='M430,300 L430,62' stroke='#c0392b' stroke-width='1.8' marker-end='url(#a)'/><text x='440' y='180' font-size='12' text-anchor='start' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Tuyệt đối</text><text x='440' y='196' font-size='12' text-anchor='start' fill='#c0392b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1200 m</text><path d='M110,240 L110,62' stroke='#1f4e79' stroke-width='1.8' marker-end='url(#b)'/><text x='102' y='150' font-size='12' text-anchor='end' fill='#1f4e79' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Tương đối: 900 m</text><text x='102' y='166' font-size='11' text-anchor='end' fill='#1f4e79' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>(1200 - 300)</text></svg>"
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_3_3_1",
+    "name": "[Địa hình là gì?]:\nĐịa hình = Hình dạng bề mặt Trái Đất\n4 dạng chính: Núi, Đồi, Cao nguyên, Đồng bằng\nPhân biệt bằng: Độ cao + Độ dốc + Hình dạng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_3_2",
+    "name": "[Độ cao]:\nĐộ cao tuyệt đối: Tính từ MỰC NƯỚC BIỂN\nĐộ cao tương đối: Tính từ điểm THẤP kề bên (chân núi)\nTương đối = Cao của đỉnh - Cao của chân",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_3_3",
+    "name": "[4 dạng địa hình]:\nNúi: Cao trên 500 m, đỉnh nhọn, sườn dốc\nĐồi: Cao tương đối dưới 200 m, đỉnh tròn, sườn thoải\nCao nguyên: Cao trên 500 m, mặt PHẲNG\nĐồng bằng: Thấp (dưới 200 m), mặt bằng phẳng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_3_4",
+    "name": "[Khoáng sản là gì?]:\nKhoáng sản = Khoáng vật, đá có ích cho con người\nHình thành rất lâu trong lòng đất\nKHÔNG tái tạo (dùng hết là hết)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_3_5",
+    "name": "[3 loại khoáng sản]:\nNăng lượng: Than đá, Dầu mỏ, Khí tự nhiên\nKim loại: Sắt, Đồng, Thiếc, Vàng\nPhi kim: Đá vôi, Muối mỏ, Cát, Apatit",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_3_6",
+    "name": "[Công dụng + Bảo vệ]:\nThan -> Nhiệt điện | Quặng sắt -> Luyện thép\nĐá vôi -> Xi măng\nKhai thác quá mức -> Cạn kiệt + Ô nhiễm\nCần khai thác hợp lý + Tiết kiệm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_3_3_7",
+    "name": "[Tránh nhầm]:\nĐộ cao tuyệt đối: Từ mực nước biển\nĐộ cao tương đối: Từ chân núi\nThan đá = Năng lượng (KHÔNG phải phi kim)\nCao nguyên cao nhưng mặt PHẲNG",
+    "type": "STEP",
+    "parentId": "dia6_les_2_3_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_4_1",
+    "name": "Khí quyển\nKhí áp + Gió",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_4",
+    "examples": [
+      {
+        "id": "dia_ex_2_4_1_1",
+        "question": "Giải thích nguyên nhân: Tại sao có gió trên Trái Đất?",
+        "answer": "Cơ chế hình thành: Mặt Trời làm mặt đất nóng không đều\nNơi nóng: Không khí nở, bốc lên -> Áp THẤP\nNơi lạnh: Không khí co, chìm xuống -> Áp CAO\nKhông khí chuyển từ áp CAO về áp THẤP = GIÓ\nTác động tích cực: Gió điều hòa nhiệt + ẩm, đưa mây mưa vào đất liền, chạy thuyền buồm, phát điện gió\nTác động tiêu cực/Hạn chế: Gió mạnh -> Bão, thiệt hại lớn; phát tán bụi, khí độc; làm cháy rừng lan nhanh\nKết luận & Lưu ý: Chênh lệch khí áp sinh ra gió\nLưu ý: Gió thổi từ lạnh (áp cao) -> nóng (áp thấp)",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_4_1_2",
+        "question": "Xác định hướng gió: Gió Tín phong ở Bắc bán cầu thổi từ đâu đến đâu và theo hướng nào?",
+        "answer": "Cơ chế hình thành: Tín phong: Từ áp cao chí tuyến (khoảng 30°B) về áp thấp xích đạo\nBắc bán cầu: Lực Cô-ri-ô-lít làm lệch PHẢI -> Hướng Đông Bắc\nTác động tích cực: Tín phong ổn định quanh năm -> Thuyền buồm vượt đại dương; mang ẩm vào bờ đông lục địa\nTác động tiêu cực/Hạn chế: Vùng áp cao chí tuyến (30°): Khô -> Hoang mạc lớn (Xa-ha-ra)\nKết luận & Lưu ý: Tín phong Bắc bán cầu: Hướng Đông Bắc\nLưu ý: KHÔNG thổi từ cực về xích đạo",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_4_1_1",
+    "name": "[Khí quyển là gì?]:\nKhí quyển = Lớp không khí bao quanh Trái Đất\nThành phần: $ \\text{N}_2 $ 78%, $ \\text{O}_2 $ 21%, Hơi nước + khí khác 1%\nGiữ nhiệt + Bảo vệ khỏi tia có hại",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_1_2",
+    "name": "[Các tầng khí quyển]:\nTầng đối lưu: Sát mặt đất, chứa 90% không khí\nTầng đối lưu: Nơi có mây, mưa, gió\nTầng bình lưu: Có tầng ô-dôn (chắn tia tử ngoại)\nCác tầng cao: Rất loãng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_1_3",
+    "name": "[Khối khí]:\nKhối khí = Khối không khí rộng, tính chất đồng nhất\nTheo nhiệt độ: Nóng | Lạnh\nTheo nơi hình thành: Đại dương (ẩm) | Lục địa (khô)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_1_4",
+    "name": "[Khí áp]:\nKhí áp = Sức nén của không khí lên mặt đất\nNóng -> Không khí nở, nhẹ, bốc lên -> Áp THẤP\nLạnh -> Không khí co, nặng, chìm xuống -> Áp CAO\nĐai: Thấp xích đạo, Cao chí tuyến, Thấp ôn đới, Cao cực",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_1_5",
+    "name": "[Bản chất: Vì sao có gió?]:\nGió = Không khí chuyển động từ áp CAO về áp THẤP\nGiống nước chảy từ nơi cao xuống nơi thấp\nChênh lệch khí áp càng lớn -> Gió càng mạnh",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_1_6",
+    "name": "[Các loại gió]:\nTín phong: Từ 30° về xích đạo (ĐB ở Bắc bán cầu)\nTây ôn đới: Từ 30° lên 60° (TN ở Bắc bán cầu)\nĐông cực: Từ cực xuống 60° (ĐB ở Bắc bán cầu)\nHướng bị lệch do lực Cô-ri-ô-lít",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_1_7",
+    "name": "[Tránh nhầm]:\nGió thổi từ lạnh (áp cao) -> nóng (áp thấp)\nTín phong KHÔNG thổi từ cực về xích đạo\nTên hướng gió = Nơi gió thổi TỪ đâu\nMây mưa nằm ở tầng đối lưu",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_4_2",
+    "name": "Nhiệt độ + Mưa",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_4",
+    "examples": [
+      {
+        "id": "dia_ex_2_4_2_1",
+        "question": "Tính nhiệt độ theo độ cao: Chân núi 0 m là 30°C. Đỉnh núi 1500 m là bao nhiêu?",
+        "answer": "Cơ chế hình thành: Biết: Chân núi 30°C, độ cao chênh 1500 m\nĐộ giảm = (1500 : 100) × 0,6 = 9°C\nĐỉnh núi: 30 - 9 = 21°C\nTác động tích cực: Vùng núi cao mát mẻ -> Du lịch nghỉ dưỡng, trồng cây ưa lạnh\nTác động tiêu cực/Hạn chế: Núi quá cao -> Rất lạnh, khó sinh sống + trồng trọt\nKết luận & Lưu ý: Nhiệt độ đỉnh núi: 21°C\nLưu ý: Lên cao thì TRỪ, không cộng",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 520 330' width='520' height='330' role='img'><title>Nhiệt độ giảm theo độ cao</title><rect width='520' height='330' fill='#ffffff'/><text x='250' y='22' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Lên cao 100 m, nhiệt độ giảm 0,6°C</text><polygon points='60,290 240,50 420,290' fill='#d5e8d4' stroke='#1e8449' stroke-width='2'/><line x1='52' y1='290' x2='428' y2='290' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='46' y='294' font-size='12' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>0 m</text><text x='434' y='294' font-size='13' text-anchor='start' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>30°C</text><line x1='112' y1='210' x2='368' y2='210' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='46' y='214' font-size='12' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>500 m</text><text x='374' y='214' font-size='13' text-anchor='start' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>27°C</text><line x1='172' y1='130' x2='308' y2='130' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='46' y='134' font-size='12' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1000 m</text><text x='314' y='134' font-size='13' text-anchor='start' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>24°C</text><line x1='232' y1='50' x2='248' y2='50' stroke='#999' stroke-width='1' stroke-dasharray='4,3'/><text x='46' y='54' font-size='12' text-anchor='end' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1500 m</text><text x='254' y='54' font-size='13' text-anchor='start' fill='#c0392b' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>21°C</text><text x='250' y='316' font-size='13' text-anchor='middle' fill='#222' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>1500 m: giảm (1500 : 100) x 0,6 = 9°C  ->  30 - 9 = 21°C</text></svg>"
+      },
+      {
+        "id": "dia_ex_2_4_2_2",
+        "question": "Tính nhiệt độ trung bình ngày: Đo 4 lần lúc 1h, 7h, 13h, 19h được 22°C, 24°C, 31°C, 27°C. Tính nhiệt độ trung bình và biên độ nhiệt ngày.",
+        "answer": "Cơ chế hình thành: TB ngày = (22 + 24 + 31 + 27) : 4 = 104 : 4 = 26°C\nBiên độ = 31 - 22 = 9°C\nTác động tích cực: Số liệu trung bình -> Mô tả khí hậu, so sánh nơi này với nơi khác, dự báo thời tiết\nTác động tiêu cực/Hạn chế: Đo ít lần hoặc sai giờ -> Kết quả lệch\nKết luận & Lưu ý: TB ngày 26°C; Biên độ 9°C\nLưu ý: Chia đúng số lần đo (4)",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_4_2_3",
+        "question": "Giải thích hiện tượng mưa: Mưa được hình thành như thế nào?",
+        "answer": "Cơ chế hình thành: Nước bốc hơi (biển, sông, cây) -> Bốc lên cao, gặp lạnh -> Ngưng tụ thành giọt nhỏ = MÂY\nGiọt lớn dần, nặng -> Rơi = MƯA\nTác động tích cực: Mưa cấp nước cho sông, hồ, nước ngầm, cây trồng\nTác động tiêu cực/Hạn chế: Mưa quá nhiều -> Lũ lụt, sạt lở; mưa ít kéo dài -> Hạn hán\nKết luận & Lưu ý: Mưa = Bốc hơi + Ngưng tụ\nLưu ý: Có mây chưa chắc có mưa",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_4_2_1",
+    "name": "[Nhiệt độ không khí]:\nNhiệt độ = Độ nóng, lạnh của không khí\nĐơn vị: độ C (°C), đo bằng nhiệt kế\nNguồn nhiệt: Mặt Trời -> Nung nóng mặt đất -> Sưởi không khí",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_2_2",
+    "name": "[Nhiệt độ thay đổi theo gì?]:\nTheo vĩ độ: Xích đạo nóng -> Cực lạnh\nTheo độ cao: Lên cao -> Lạnh dần\nTheo vị trí: Gần biển chênh ít | Sâu lục địa chênh nhiều",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_2_3",
+    "name": "[Bản chất: Nhiệt độ theo độ cao]:\nKhông khí được sưởi nóng từ MẶT ĐẤT\nCàng lên cao càng xa mặt đất -> Càng lạnh\nLên cao 100 m: Giảm 0,6°C\nĐộ giảm = (Chênh độ cao : 100) × 0,6°C",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_2_4",
+    "name": "[Cách làm: Nhiệt độ theo độ cao]:\nBước 1: Tính độ cao chênh (m)\nBước 2: Chia 100 -> Số lần giảm\nBước 3: Nhân 0,6°C -> Độ giảm\nBước 4: Nhiệt độ gốc TRỪ độ giảm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_2_5",
+    "name": "[Nhiệt độ trung bình + Biên độ]:\nTB ngày = Tổng các lần đo : Số lần đo\nTB tháng = TB các ngày | TB năm = TB các tháng\nBiên độ = Cao nhất - Thấp nhất",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_2_6",
+    "name": "[Mưa: Từ hơi nước đến giọt mưa]:\n1. Nước bốc hơi (biển, sông, cây)\n2. Hơi nước lên cao, gặp lạnh -> Ngưng tụ thành mây\n3. Giọt lớn dần, nặng -> Rơi thành MƯA\nĐo lượng mưa: Vũ kế (mm)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_2_7",
+    "name": "[Tránh nhầm]:\nLên cao -> Nhiệt độ GIẢM (trừ, không cộng)\nChia đúng số lần đo khi tính trung bình\nCó mây chưa chắc có mưa\nXích đạo nóng hơn cực (không ngược lại)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_4_3",
+    "name": "Thời tiết - Khí hậu\nĐới khí hậu + Biến đổi khí hậu",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_4",
+    "examples": [
+      {
+        "id": "dia_ex_2_4_3_1",
+        "question": "So sánh khái niệm: Sự khác nhau căn bản giữa thời tiết và khí hậu?",
+        "answer": "Cơ chế hình thành: Thời tiết: 1 nơi, 1 lúc, thay đổi nhanh\nKhí hậu: Quy luật lặp lại nhiều năm, vùng rộng, ổn định\nTác động tích cực: Dự báo thời tiết -> Quyết định ngắn hạn (mang ô, lịch bay)\nHiểu khí hậu -> Chọn cây trồng, thiết kế nhà, quy hoạch\nTác động tiêu cực/Hạn chế: Nhầm 2 khái niệm -> Kết luận sai (1 đợt rét không có nghĩa khí hậu đổi)\nKết luận & Lưu ý: Thời tiết = Thời điểm | Khí hậu = Quy luật dài hạn",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_4_3_2",
+        "question": "Phân loại: Câu nào nói về thời tiết, câu nào về khí hậu: (a) Sáng nay Hà Nội mưa rào; (b) Hà Nội có mùa hè nóng ẩm?",
+        "answer": "Cơ chế hình thành: Hỏi: Bao lâu? Lặp lại hằng năm không?\n(a) Sáng nay mưa rào -> 1 lúc\n(b) Mùa hè nóng ẩm -> Lặp lại hằng năm\nTác động tích cực: Phân biệt đúng -> Nói chính xác khi mô tả địa phương\nTác động tiêu cực/Hạn chế: Dễ nhầm vì cả hai nhắc đến mưa, nóng\nKết luận & Lưu ý: (a) Thời tiết | (b) Khí hậu",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_4_3_3",
+        "question": "Chuỗi nhân quả: Nêu mối quan hệ giữa khí thải CO2 và nước biển dâng.",
+        "answer": "Cơ chế hình thành: Đốt than, dầu, phá rừng -> Khí nhà kính ($ \\text{CO}_2 $) tăng\nKhí nhà kính giữ nhiệt -> Trái Đất nóng lên\nBăng tan + Nước nở vì nóng -> Nước biển dâng\nTác động tích cực: Hiểu chuỗi nhân quả -> Hành động đúng: Giảm thải, trồng rừng (giảm thiểu); xây đê, đổi mùa vụ (thích ứng)\nTác động tiêu cực/Hạn chế: Nước biển dâng -> Ngập vùng thấp, xâm nhập mặn (đồng bằng sông Cửu Long); thiên tai cực đoan hơn\nKết luận & Lưu ý: Giảm khí thải -> Hạn chế BĐKH\nLưu ý: Khí nhà kính tăng gây BĐKH, KHÔNG ngược lại",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_4_3_1",
+    "name": "[Thời tiết là gì?]:\nThời tiết = Trạng thái khí quyển ở 1 nơi, 1 lúc\nNgắn hạn (giờ, ngày), thay đổi nhanh\nVí dụ: Sáng nay Hà Nội mưa rào",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_3_2",
+    "name": "[Khí hậu là gì?]:\nKhí hậu = Thời tiết lặp lại có quy luật nhiều năm\nVùng rộng, tương đối ổn định\nVí dụ: Việt Nam: Nhiệt đới gió mùa (nóng ẩm, mưa nhiều)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_3_3",
+    "name": "[Bản chất: Phân biệt nhanh]:\nHỏi: Bao lâu? (1 lúc -> Thời tiết; Nhiều năm -> Khí hậu)\nHỏi: Lặp lại hằng năm không? (Có -> Khí hậu)\nDự báo ngắn hạn: Thời tiết | Kế hoạch lâu dài: Khí hậu",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_3_4",
+    "name": "[Các đới khí hậu]:\nChia theo vĩ độ (Mặt Trời chiếu khác nhau)\n5 đới: 1 Nhiệt đới + 2 Ôn đới + 2 Hàn đới\nNhiệt đới: Giữa 2 chí tuyến (nóng)\nHàn đới: Từ vòng cực đến cực (lạnh)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_3_5",
+    "name": "[Biến đổi khí hậu]:\nBĐKH = Khí hậu thay đổi LÂU DÀI (nóng lên)\nNguyên nhân: Khí nhà kính ($ \\text{CO}_2 $) tăng\nDo đốt than, dầu, phá rừng\nKhí nhà kính giữ nhiệt -> Nóng lên -> Băng tan -> Nước biển dâng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_3_6",
+    "name": "[Ứng phó BĐKH]:\nGiảm thiểu: Giảm khí thải, năng lượng sạch, trồng rừng\nThích ứng: Xây đê, đổi mùa vụ, tiết kiệm nước\nMỗi người: Tiết kiệm điện, giảm rác",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_4_3_7",
+    "name": "[Tránh nhầm]:\nKhí nhà kính tăng -> BĐKH (KHÔNG ngược lại)\nMột đợt rét KHÔNG chứng minh khí hậu đổi\nThời tiết (ngắn) KHÁC Khí hậu (dài)\nBĐKH gây: Nước biển dâng, thiên tai nhiều",
+    "type": "STEP",
+    "parentId": "dia6_les_2_4_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_5_1",
+    "name": "Thủy quyển\nTuần hoàn nước",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_5",
+    "examples": [
+      {
+        "id": "dia_ex_2_5_1_1",
+        "question": "Trình bày cơ chế: Mô tả vòng tuần hoàn lớn của nước trên Trái Đất.",
+        "answer": "Cơ chế hình thành: Mặt Trời làm biển bốc hơi\nGió đưa hơi nước vào ĐẤT LIỀN\nGặp lạnh -> Ngưng tụ thành mây -> Mưa, tuyết\nNước chảy theo sông + nước ngầm -> Về biển\nTác động tích cực: Bổ sung + làm mới nước ngọt cho sông, hồ, nước ngầm -> Nuôi sống sinh vật + con người\nTác động tiêu cực/Hạn chế: Nước ngọt chỉ khoảng 3% + phân bố không đều -> Nơi lụt, nơi hạn; nước chảy mang ô nhiễm ra biển\nKết luận & Lưu ý: Vòng tuần hoàn lớn duy trì nước ngọt trên lục địa\nLưu ý: Khác vòng nhỏ ở chỗ có gió đưa mây vào đất liền + sông về biển",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_5_1_2",
+        "question": "Phân biệt: Nước bốc hơi từ biển rồi mưa ngay xuống biển thuộc vòng tuần hoàn nào?",
+        "answer": "Cơ chế hình thành: Biển bốc hơi -> Mây trên biển -> Mưa xuống BIỂN\nKhông đi qua đất liền\nHỏi: Có vào đất liền không? Không -> Vòng nhỏ\nTác động tích cực: Đơn giản, giữ cân bằng lượng nước trên đại dương\nTác động tiêu cực/Hạn chế: Không cấp nước cho lục địa\nKết luận & Lưu ý: Đó là vòng tuần hoàn NHỎ\nLưu ý: Không có dòng chảy sông",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_5_1_1",
+    "name": "[Thủy quyển là gì?]:\nThủy quyển = Toàn bộ nước trên Trái Đất\nGồm: Biển, sông, hồ, nước ngầm, băng, hơi nước\nNước luôn LUÂN CHUYỂN, không đứng yên",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_1_2",
+    "name": "[Nước mặn - Nước ngọt]:\nNước mặn: Khoảng 97% (biển, đại dương)\nNước ngọt: Khoảng 3% (sông, hồ, nước ngầm, băng)\nNước ngọt rất QUÝ -> Phải tiết kiệm\nPhần lớn nước ngọt nằm trong băng + nước ngầm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_1_3",
+    "name": "[Bản chất: Vì sao nước luân chuyển?]:\nMặt Trời cung cấp NHIỆT\nNước nóng lên -> Bốc hơi\nHơi nước gặp lạnh -> Ngưng tụ -> Rơi xuống\nChu trình lặp đi lặp lại mãi",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_1_4",
+    "name": "[Vòng tuần hoàn nhỏ]:\nBiển bốc hơi -> Mây trên biển -> Mưa xuống BIỂN\nKhép kín trên đại dương\nKhông đi vào đất liền",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_1_5",
+    "name": "[Vòng tuần hoàn lớn]:\nBiển bốc hơi -> Gió đưa vào ĐẤT LIỀN\nGặp lạnh -> Mây -> Mưa, tuyết\nNước chảy theo sông + nước ngầm -> Về BIỂN\nBổ sung nước ngọt cho lục địa",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_1_6",
+    "name": "[Cách làm: Nhận diện vòng nào]:\nHỏi: Nước có vào đất liền không?\nKhông -> Vòng NHỎ\nCó (gió đưa mây + sông chảy về biển) -> Vòng LỚN",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_1_7",
+    "name": "[Tránh nhầm]:\nNước ngọt chỉ khoảng 3% (không phải phần lớn)\nVòng nhỏ: KHÔNG có dòng chảy sông\nVòng lớn: Có gió đưa mây + sông về biển\nNước luân chuyển, không mất đi",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_5_2",
+    "name": "Sông + Hồ\nNước ngầm + Băng hà",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_5",
+    "examples": [
+      {
+        "id": "dia_ex_2_5_2_1",
+        "question": "Phân biệt bộ phận: Phụ lưu và chi lưu sông khác nhau như thế nào?",
+        "answer": "Cơ chế hình thành: Sông chính nhận nước từ phụ lưu, tách nước ra chi lưu\nPhụ lưu: ĐỔ VÀO sông chính\nChi lưu: TÁCH RA khỏi sông chính\nTác động tích cực: Phụ lưu làm tăng nước cho sông chính; chi lưu thoát bớt nước ở hạ lưu, điều hòa chế độ nước, tưới cho đồng bằng\nTác động tiêu cực/Hạn chế: Mưa lớn: Nhiều phụ lưu đổ nước cùng lúc -> Lũ dâng nhanh\nChi lưu thoát kém (bồi lấp, triều dâng) -> Ngập úng\nKết luận & Lưu ý: Phụ lưu cấp nước, chi lưu thoát nước\nLưu ý: Nhìn nước chảy VÀO hay RA sông chính",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_5_2_2",
+        "question": "Xác định ví dụ: Sông Đà, sông Lô, sông Đuống thuộc bộ phận nào của hệ thống sông Hồng?",
+        "answer": "Cơ chế hình thành: Sông Hồng = Sông chính\nSông Đà, sông Lô đổ nước vào sông Hồng -> Phụ lưu\nSông Đuống tách ra từ sông Hồng (khu vực Hà Nội) -> Chi lưu\nTác động tích cực: Phụ lưu tăng nước, thủy điện (hồ Hòa Bình trên sông Đà)\nChi lưu thoát lũ, tưới tiêu, giao thông thủy\nTác động tiêu cực/Hạn chế: Mùa mưa: Các phụ lưu dồn nước -> Lũ cao ở hạ lưu -> Phải đắp đê, điều tiết hồ chứa\nChi lưu bồi lấp -> Ngập úng\nKết luận & Lưu ý: Đà, Lô: Phụ lưu | Đuống: Chi lưu\nLưu ý: Đà, Lô đổ VÀO; Đuống tách RA",
+        "mediaUrl": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 560 290' width='560' height='290' role='img'><title>Phụ lưu và chi lưu sông Hồng</title><rect width='560' height='290' fill='#ffffff'/><defs><marker id='a' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='b' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#1f4e79'/></marker><marker id='o' markerUnits='userSpaceOnUse' markerWidth='10' markerHeight='10' refX='9' refY='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#e67e22'/></marker></defs><text x='270' y='22' font-size='14' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sơ đồ hệ thống sông Hồng (minh họa, không đúng tỉ lệ)</text><path d='M60,150 L430,150' stroke='#2e86c1' stroke-width='6' fill='none' marker-end='url(#b)'/><path d='M60,60 L196,146' stroke='#5dade2' stroke-width='3' fill='none' marker-end='url(#b)'/><path d='M60,240 L196,154' stroke='#5dade2' stroke-width='3' fill='none' marker-end='url(#b)'/><text x='60' y='52' font-size='12' text-anchor='start' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sông Đà</text><text x='60' y='262' font-size='12' text-anchor='start' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sông Lô</text><text x='100' y='100' font-size='11' text-anchor='start' fill='#1f4e79' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Phụ lưu: ĐỔ VÀO sông chính</text><path d='M304,146 L420,76' stroke='#5dade2' stroke-width='3' fill='none' marker-end='url(#b)'/><path d='M304,154 L420,224' stroke='#5dade2' stroke-width='3' fill='none' marker-end='url(#b)'/><text x='424' y='72' font-size='12' text-anchor='start' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sông Đuống</text><text x='424' y='240' font-size='12' text-anchor='start' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sông Luộc</text><text x='330' y='118' font-size='11' text-anchor='start' fill='#c0392b' font-weight='normal' font-family='Arial,Helvetica,sans-serif'>Chi lưu: TÁCH RA</text><text x='250' y='180' font-size='12' text-anchor='middle' fill='#222' font-weight='bold' font-family='Arial,Helvetica,sans-serif'>Sông Hồng (sông chính)</text><circle cx='200' cy='150' r='4' fill='#1f4e79'/><circle cx='300' cy='150' r='4' fill='#c0392b'/></svg>"
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_5_2_1",
+    "name": "[Sông là gì?]:\nSông = Dòng nước chảy thường xuyên trên lục địa\nNước chảy từ nơi cao xuống nơi thấp\nĐổ ra biển, hồ hoặc sông khác",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_2_2",
+    "name": "[Các phần của sông]:\nNguồn: Nơi sông bắt đầu (núi, suối)\nCửa sông: Nơi sông đổ ra biển\nLưu vực = Vùng đất cấp nước cho sông\nHệ thống sông = Sông chính + Phụ lưu + Chi lưu",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_2_3",
+    "name": "[Phụ lưu + Chi lưu]:\nPhụ lưu: Sông nhỏ ĐỔ NƯỚC VÀO sông chính\nChi lưu: Sông TÁCH RA từ sông chính để thoát nước\nVí dụ sông Hồng: Phụ lưu Đà, Lô\nVí dụ sông Hồng: Chi lưu Đuống, Luộc",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_2_4",
+    "name": "[Bản chất: Nước sông đến từ đâu?]:\nMưa + Nước ngầm + Băng tuyết tan\nMưa nhiều -> Sông nhiều nước (mùa lũ)\nÍt mưa -> Sông ít nước (mùa cạn)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_2_5",
+    "name": "[Hồ + Nước ngầm + Băng hà]:\nHồ = Khoảng nước đọng khá rộng, sâu trong đất liền\nNước ngầm = Nước thấm dưới đất\nBăng hà = Sông băng (ở cực + núi cao)\nBăng hà + Nước ngầm: Chứa phần lớn nước ngọt",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_2_6",
+    "name": "[Vai trò + Tác hại]:\nVai trò: Sinh hoạt, tưới tiêu, thủy điện, giao thông\nTác hại: Lũ lụt, ngập úng, sạt lở bờ\nCần: Đê điều + Hồ chứa + Giữ rừng đầu nguồn",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_2_7",
+    "name": "[Tránh nhầm]:\nPhụ lưu = ĐỔ VÀO | Chi lưu = TÁCH RA\nLưu vực KHÁC hệ thống sông\nHồ: Nước đọng | Sông: Nước chảy\nNước ngọt chủ yếu nằm trong băng + nước ngầm",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_5_3",
+    "name": "Biển + Đại dương\nSóng + Thủy triều + Dòng biển",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_5",
+    "examples": [
+      {
+        "id": "dia_ex_2_5_3_1",
+        "question": "Giải thích hiện tượng: Nguyên nhân sinh ra sóng biển và thủy triều?",
+        "answer": "Cơ chế hình thành: Sóng: GIÓ thổi trên mặt biển -> Nước dao động tại chỗ (sóng thần do động đất / núi lửa đáy biển)\nThủy triều: Sức HÚT Mặt Trăng + Mặt Trời\nTriều cường: 3 thiên thể thẳng hàng (trăng tròn, không trăng)\nTác động tích cực: Thủy triều giúp tàu ra vào cảng, lấy nước làm muối, nuôi trồng thủy sản\nSóng, thủy triều: Du lịch + năng lượng\nTác động tiêu cực/Hạn chế: Sóng lớn + bão + triều cường -> Ngập úng, xói lở bờ\nSóng thần: Thiệt hại nặng\nKết luận & Lưu ý: Sóng do gió | Thủy triều do lực hút\nLưu ý: Thủy triều KHÔNG do gió",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_5_3_2",
+        "question": "Ảnh hưởng dòng biển: Dòng biển nóng và dòng biển lạnh ảnh hưởng thế nào đến khí hậu ven bờ?",
+        "answer": "Cơ chế hình thành: Dòng biển = Dòng nước chảy trong đại dương (gió + chênh nhiệt)\nMang theo nhiệt + ẩm đến vùng ven bờ\nDòng nóng: Từ vĩ độ thấp lên | Dòng lạnh: Từ vĩ độ cao về\nTác động tích cực: Dòng nóng: Không khí ấm + ẩm -> Mưa nhiều (dòng nóng Bắc Đại Tây Dương làm Tây Bắc châu Âu ấm hơn cùng vĩ độ)\nDòng lạnh: Giàu dinh dưỡng -> Ngư trường lớn (Pê-ru)\nTác động tiêu cực/Hạn chế: Dòng lạnh: Không khí khô -> Hoang mạc ven biển (A-ta-ca-ma, tây Nam Mỹ)\nDòng nóng: Nước ấm tiếp thêm sức cho bão nhiệt đới\nKết luận & Lưu ý: Dòng nóng tăng mưa | Dòng lạnh gây khô hạn\nLưu ý: Dòng biển ảnh hưởng rõ đến khí hậu ven bờ",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_5_3_1",
+    "name": "[Đại dương + Biển]:\nĐại dương lớn: Thái Bình Dương (lớn nhất),\nĐại Tây Dương, Ấn Độ Dương, Bắc Băng Dương\nBiển: Nhỏ hơn, nằm ven hoặc trong đại dương",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_3_2",
+    "name": "[Nước biển]:\nĐộ muối TB: 35 phần nghìn (35 g muối / 1 kg nước)\nNhiệt độ: Giảm từ xích đạo về cực\nNơi nóng, ít mưa, bốc hơi nhiều: Mặn hơn",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_3_3",
+    "name": "[Sóng]:\nSóng = Nước biển dao động lên xuống tại chỗ\nNguyên nhân chính: GIÓ thổi trên mặt biển\nGió càng mạnh -> Sóng càng lớn\nSóng thần: Do động đất / núi lửa dưới đáy biển",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_3_4",
+    "name": "[Thủy triều]:\nThủy triều = Nước biển dâng lên - hạ xuống theo chu kỳ\nNguyên nhân: Sức HÚT của Mặt Trăng + Mặt Trời\nTriều cường: 3 thiên thể thẳng hàng (trăng tròn, không trăng)\nTriều kém: Mặt Trăng ở bán nguyệt",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_3_5",
+    "name": "[Dòng biển]:\nDòng biển = Dòng nước chảy trong đại dương\nNguyên nhân: Gió thường xuyên + Chênh nhiệt độ\nDòng NÓNG: Từ vĩ độ thấp lên vĩ độ cao\nDòng LẠNH: Từ vĩ độ cao về vĩ độ thấp",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_3_6",
+    "name": "[Bản chất: Dòng biển -> Khí hậu]:\nDòng nóng: Không khí ven bờ ấm + ẩm -> Mưa nhiều\nDòng lạnh: Không khí lạnh + khô -> Ít mưa, hoang mạc ven biển\nDòng lạnh giàu dinh dưỡng -> Ngư trường lớn (Pê-ru)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_5_3_7",
+    "name": "[Tránh nhầm]:\nSóng do GIÓ (KHÔNG phải do Mặt Trăng)\nThủy triều do Mặt Trăng + Mặt Trời (KHÔNG phải gió)\nSóng: Nước dao động tại chỗ, không chạy cả khối\nDòng nóng tăng mưa | Dòng lạnh gây khô",
+    "type": "STEP",
+    "parentId": "dia6_les_2_5_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_6_1",
+    "name": "Đất\nTầng đất + Nhân tố + Độ phì",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_6",
+    "examples": [
+      {
+        "id": "dia_ex_2_6_1_1",
+        "question": "Phân tích nhân tố: Nhân tố nào quyết định chất khoáng và chất hữu cơ trong đất?",
+        "answer": "Cơ chế hình thành: Đá mẹ: Phong hóa -> Cho chất KHOÁNG (ví dụ đá bazan -> Đất đỏ giàu khoáng)\nSinh vật: Chết đi, phân hủy -> Cho chất HỮU CƠ (mùn)\nKhí hậu nóng ẩm: Thúc đẩy phong hóa + phân hủy\nTác động tích cực: Đủ khoáng + hữu cơ -> Độ phì cao -> Trồng trọt thuận lợi\nTác động tiêu cực/Hạn chế: Thiếu hữu cơ -> Đất bạc màu | Thiếu khoáng -> Đất nghèo\nMất lớp phủ thực vật -> Mưa rửa trôi dinh dưỡng\nKết luận & Lưu ý: Đá mẹ quyết định khoáng | Sinh vật quyết định hữu cơ\nLưu ý: Đá mẹ KHÔNG sinh ra chất hữu cơ",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_6_1_2",
+        "question": "Xác định tầng đất: Lớp đất gồm các tầng nào? Tầng nào chứa nhiều mùn nhất?",
+        "answer": "Cơ chế hình thành: Lớp đất có 3 tầng (trên -> dưới):\nChứa mùn | Tích tụ | Đá mẹ\nTầng chứa mùn sẫm màu, nhiều xác sinh vật phân hủy\nTác động tích cực: Tầng mùn giàu dinh dưỡng, tơi xốp, giữ nước -> Cây hút chất để lớn\nTác động tiêu cực/Hạn chế: Tầng đá mẹ cứng, nghèo hữu cơ\nTầng mùn mỏng -> Dễ bị xói mòn\nKết luận & Lưu ý: Tầng chứa mùn nhiều chất hữu cơ nhất\nLưu ý: Tầng đá mẹ là nguồn khoáng, KHÔNG nhiều mùn",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_6_1_1",
+    "name": "[Đất là gì?]:\nĐất = Lớp mỏng ngoài cùng của vỏ Trái Đất\nNơi cây mọc, sinh vật sống\nHình thành RẤT CHẬM, mất đi rất nhanh (xói mòn)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_1_2",
+    "name": "[Thành phần của đất]:\nChất khoáng: Khoảng 45%\nKhông khí: Khoảng 25% | Nước: Khoảng 25%\nChất hữu cơ (mùn): Khoảng 5%\nÍt nhưng QUAN TRỌNG: Chất hữu cơ",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_1_3",
+    "name": "[3 tầng đất]:\nTầng chứa mùn: Trên cùng, sẫm màu, nhiều hữu cơ\nTầng tích tụ: Chất từ trên bị nước cuốn xuống, tích lại\nTầng đá mẹ: Dưới cùng, đá bị phong hóa dở",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_1_4",
+    "name": "[Nhân tố hình thành đất]:\nĐá mẹ: Cho chất KHOÁNG\nSinh vật: Cho chất HỮU CƠ (xác chết phân hủy)\nKhí hậu: Nóng ẩm -> Phong hóa, phân hủy nhanh\nCòn có: Địa hình + Thời gian",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_1_5",
+    "name": "[Độ phì]:\nĐộ phì = Khả năng cung cấp nước, khí, dinh dưỡng cho cây\nĐộ phì CAO: Nhiều mùn, tơi xốp, giữ nước tốt\nĐộ phì quyết định năng suất cây trồng\nBảo vệ: Giữ rừng, bón phân hữu cơ, chống xói mòn",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_1_6",
+    "name": "[Bản chất: Vì sao đất bị mất?]:\nKhông có cây che phủ -> Mưa rửa trôi tầng mùn\nMất mùn -> Đất bạc màu\nTầng mùn mỏng, mất đi thì rất lâu mới phục hồi",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_1_7",
+    "name": "[Tránh nhầm]:\nĐá mẹ cho KHOÁNG (KHÔNG phải hữu cơ)\nSinh vật cho HỮU CƠ\nTầng chứa mùn nhiều chất hữu cơ nhất\nĐất gồm 4 thành phần, KHÔNG chỉ khoáng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_1",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_6_2",
+    "name": "Sinh vật\nĐới thiên nhiên + Rừng mưa",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_6",
+    "examples": [
+      {
+        "id": "dia_ex_2_6_2_1",
+        "question": "Trình bày đặc điểm: Rừng mưa nhiệt đới có những đặc điểm nổi bật nào?",
+        "answer": "Cơ chế hình thành: Vùng xích đạo + nhiệt đới ẩm: Nóng, mưa nhiều quanh năm (A-ma-dôn, Công-gô, Đông Nam Á)\nCây tranh nhau ánh sáng -> Mọc thành NHIỀU tầng\nVượt tán, Tán rừng, Dưới tán, Cây bụi, Thảm mục\nTác động tích cực: Đa dạng sinh học cao nhất, điều hòa khí hậu, giữ nước, cho gỗ + dược liệu\nTác động tiêu cực/Hạn chế: Khai thác gỗ, đốt rừng làm rẫy -> Mất rừng nhanh, mất loài, xói mòn\nĐất rừng mưa nghèo khoáng, mất rừng khó phục hồi\nKết luận & Lưu ý: Rừng mưa nhiệt đới: Nhiều tầng + động vật phong phú\nLưu ý: KHÔNG phải rừng 1 tầng",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_6_2_2",
+        "question": "Sự thích nghi: Hãy nêu ví dụ sinh vật thích nghi với hoang mạc và với đới lạnh.",
+        "answer": "Cơ chế hình thành: Môi trường khắc nghiệt chọn lọc sinh vật -> Cơ thể + tập tính thay đổi để sống sót\nHoang mạc: Xương rồng (thân chứa nước, lá thành gai), lạc đà (bướu mỡ)\nĐới lạnh: Gấu Bắc Cực (lông dày, mỡ dày)\nTác động tích cực: Thích nghi -> Sinh vật tồn tại ở cả nơi khắc nghiệt -> Giữ đa dạng sinh học\nTác động tiêu cực/Hạn chế: Chuyên hóa cao -> Nhạy cảm khi môi trường đổi nhanh (băng tan: Gấu Bắc Cực mất nơi săn mồi)\nKết luận & Lưu ý: Sinh vật thích nghi để tồn tại\nLưu ý: Đới lạnh vẫn có sự sống",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_6_2_1",
+    "name": "[Sinh vật + Môi trường]:\nSinh vật = Thực vật + Động vật + Vi sinh vật\nSống ở: Đất, nước, không khí\nPhụ thuộc: Nhiệt độ, nước, ánh sáng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_2_2",
+    "name": "[Bản chất: Khí hậu quyết định sinh vật]:\nNóng + Ẩm -> Rừng rậm\nNóng + Khô -> Hoang mạc (cây ít)\nLạnh -> Đồng rêu\n-> Sinh vật thay đổi theo khí hậu",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_2_3",
+    "name": "[Các đới thiên nhiên]:\nĐới nóng: Rừng mưa nhiệt đới, Xavan, Hoang mạc\nĐới ôn hòa: Rừng lá rộng, Rừng lá kim\nĐới lạnh: Đồng rêu (rêu, địa y)",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_2_4",
+    "name": "[Rừng mưa nhiệt đới]:\nNơi: Xích đạo (A-ma-dôn, Công-gô, Đông Nam Á)\nNóng + Mưa nhiều quanh năm\nNhiều tầng: Vượt tán, Tán rừng, Dưới tán, Cây bụi, Thảm mục\nĐa dạng sinh học cao nhất",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_2_5",
+    "name": "[Thích nghi]:\nHoang mạc: Xương rồng (thân chứa nước, lá thành gai)\nHoang mạc: Lạc đà (bướu mỡ, chịu khát)\nĐới lạnh: Gấu Bắc Cực (lông dày, mỡ dày)\nThích nghi = Cơ thể + Tập tính hợp môi trường",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_2_6",
+    "name": "[Tránh nhầm]:\nĐới lạnh vẫn CÓ sự sống\nRừng mưa có NHIỀU tầng (không phải 1 tầng)\nSinh vật chuyên hóa -> Nhạy cảm khi môi trường đổi\nKhai thác quá mức -> Mất rừng + Mất loài",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_2",
+    "examples": null
+  },
+  {
+    "id": "dia6_les_2_6_3",
+    "name": "Dân số + Mật độ\nCon người - Thiên nhiên",
+    "type": "LESSON",
+    "parentId": "dia6_top_2_6",
+    "examples": [
+      {
+        "id": "dia_ex_2_6_3_1",
+        "question": "Tính mật độ: Nước A có dân số 10 triệu người, diện tích 100.000 km². Tính mật độ dân số.",
+        "answer": "Cơ chế hình thành: Biết: Dân số P = 10.000.000 người; Diện tích S = 100.000 km²\nMật độ = P : S = 10.000.000 : 100.000 = 100 người/km²\nĐổi đơn vị trước khi chia: Dân số (người), diện tích (km²)\nTác động tích cực: Mật độ cho biết nơi đông hay thưa dân -> Quy hoạch trường học, bệnh viện, giao thông, nhà ở\nTác động tiêu cực/Hạn chế: Mật độ trung bình che khuất phân bố không đều (đồng bằng rất đông, núi cao rất thưa)\nMật độ quá cao -> Áp lực lên đất, nước, việc làm, môi trường\nKết luận & Lưu ý: Mật độ nước A: 100 người/km²\nLưu ý: Dân số CHIA diện tích, nhớ ghi đơn vị",
+        "mediaUrl": null
+      },
+      {
+        "id": "dia_ex_2_6_3_2",
+        "question": "Tác động con người - thiên nhiên: Nêu một tác động tích cực và một tác động tiêu cực của con người tới thiên nhiên.",
+        "answer": "Cơ chế hình thành: Con người sống nhờ thiên nhiên, khai thác + cải tạo để đáp ứng nhu cầu\nDân số tăng -> Nhu cầu đất, nước, tài nguyên tăng -> Tác động lên môi trường mạnh hơn\nTác động tích cực: TÍCH CỰC: Trồng rừng phủ xanh đồi trọc, ruộng bậc thang chống xói mòn, hồ chứa + đê điều chống lũ, thủy điện\nTác động tiêu cực/Hạn chế: TIÊU CỰC: Phá rừng, khai thác quá mức làm cạn kiệt; xả thải, khí thải gây ô nhiễm + biến đổi khí hậu\nKết luận & Lưu ý: Cần khai thác hợp lý + bảo vệ môi trường (phát triển bền vững)\nLưu ý: Không phải mọi tác động của con người đều có hại",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dia6_step_2_6_3_1",
+    "name": "[Dân số là gì?]:\nDân số = Tổng số người sống ở 1 vùng / 1 nước\nĐơn vị: Người\nDân số tăng -> Nhu cầu đất, nước, việc làm tăng",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_3_2",
+    "name": "[Mật độ dân số]:\nMật độ = Số người sống trên MỖI km²\n$ \\text{Mật độ} = \\dfrac{\\text{Dân số}}{\\text{Diện tích}} $\nĐơn vị: người/km²",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_3_3",
+    "name": "[Cách làm: Tính mật độ]:\nBước 1: Lấy dân số (người)\nBước 2: Lấy diện tích (km²), đổi nếu là m²\nBước 3: Chia dân số cho diện tích\nBước 4: Ghi đơn vị người/km²",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_3_4",
+    "name": "[Phân bố dân cư]:\nĐông: Đồng bằng, ven biển, đô thị (đất tốt, nước, giao thông)\nThưa: Núi cao, hoang mạc, vùng cực (khắc nghiệt)\nMật độ trung bình KHÔNG phản ánh phân bố thật",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_3_5",
+    "name": "[Con người + Thiên nhiên]:\nThiên nhiên cho: Đất, nước, khoáng sản, không khí\nCon người khai thác + cải tạo để sống\nTÍCH CỰC: Trồng rừng, ruộng bậc thang, hồ chứa\nTIÊU CỰC: Phá rừng, xả thải, khai thác quá mức",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_3_6",
+    "name": "[Phát triển bền vững]:\nDùng tài nguyên VỪA ĐỦ, để dành cho đời sau\nBảo vệ rừng, nước, không khí\nMỗi người: Tiết kiệm + Giảm rác + Trồng cây",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  },
+  {
+    "id": "dia6_step_2_6_3_7",
+    "name": "[Tránh nhầm]:\nMật độ = Dân số CHIA diện tích (không ngược lại)\nĐổi m² sang km² trước khi chia\nNhớ ghi đơn vị\nKhông phải mọi tác động của con người đều có hại",
+    "type": "STEP",
+    "parentId": "dia6_les_2_6_3",
+    "examples": null
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "khtn9_subject",
+    "name": "Khoa học tự nhiên 9",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "khtn9_cat_ly",
+    "name": "Năng lượng và sự biến đổi (Vật lý)",
+    "type": "CATEGORY",
+    "parentId": "khtn9_subject",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_co_nang",
+    "name": "Năng lượng cơ học (Cơ năng, Công & Công suất)",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_ly",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_co_nang",
+    "name": "Bài toán Động năng, Thế năng & Bảo toàn cơ năng",
+    "type": "LESSON",
+    "parentId": "khtn9_top_co_nang",
+    "examples": [
+      {
+        "id": "ex_cn_1",
+        "question": "[Bài toán Bảo toàn cơ năng]: Một vật khối lượng $m = 200\\\\text{g}$ được thả rơi tự do từ độ cao $h_1 = 20\\\\text{m}$ so với mặt đất. Lấy $g = 10\\\\text{m/s}^2$. Bỏ qua lực cản không khí. Tính vận tốc của vật khi nó ở độ cao $h_2 = 5\\\\text{m}$ so with mặt đất.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài bảo toàn cơ năng trong trường trọng lực. Dấu hiệu: Thả rơi tự do, bỏ qua lực cản không khí, vật chỉ chịu tác dụng của trọng lực.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy đổi đơn vị khối lượng $m = 200\\\\text{g} \\\\rightarrow 0.2\\\\text{kg}$; bẫy quên chọn gốc thế năng làm sai mốc độ cao; bẫy quên căn bậc hai khi tìm vận tốc $v$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Chọn gốc thế năng tại mặt đất. Đổi $m = 200\\\\text{g} = 0.2\\\\text{kg}$.\n- Bước 2: Cơ năng ban đầu tại vị trí thả $A$ ($h_1 = 20\\\\text{m}, v_1 = 0$):\n  $W_A = W_{tA} + W_{dA} = mgh_1 + 0 = 0.2 \\\\times 10 \\\\times 20 = 40 \\\\text{ (J)}$.\n- Bước 3: Cơ năng tại vị trí $B$ ở độ cao $h_2 = 5\\\\text{m}$:\n  $W_B = W_{tB} + W_{dB} = mgh_2 + \\\\frac{1}{2}mv_2^2 = 0.2 \\\\times 10 \\\\times 5 + \\\\frac{1}{2}(0.2)v_2^2 = 10 + 0.1v_2^2 \\\\text{ (J)}$.\n- Bước 4: Áp dụng định luật bảo toàn cơ năng $W_B = W_A$:\n  $10 + 0.1v_2^2 = 40 \\\\Rightarrow 0.1v_2^2 = 30 \\\\Rightarrow v_2^2 = 300 \\\\Rightarrow v_2 = \\\\sqrt{300} \\\\approx 17.32 \\\\text{ (m/s)}$.\n4. Kết luận & Đáp số chuẩn: Vận tốc của vật tại độ cao $5\\\\text{m}$ là $v_2 = 10\\\\sqrt{3} \\\\text{ m/s} \\\\approx 17.32 \\\\text{ m/s}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_cn_lt",
+    "name": "Cơ năng ➔ $W = W_d + W_t = \\\\frac{1}{2}mv^2 + mgh$ ... Cơ năng bảo toàn khi vật chỉ chịu tác dụng của trọng lực...",
+    "type": "STEP",
+    "parentId": "khtn9_les_co_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_cn_pp",
+    "name": "Phương pháp bảo toàn cơ năng ➔ $W_1 = W_2$ tại mọi vị trí chuyển động ... Chuyển hóa Động năng ⇌ Thế năng...",
+    "type": "STEP",
+    "parentId": "khtn9_les_co_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_cn_tt",
+    "name": "Thuật toán ➔ Chọn gốc thế năng ➔ Tính $W$ tại mốc ban đầu ➔ Cho $W_x = W$ để giải tìm $v_x, h_x$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_co_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_cn_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy đổi đơn vị $m (g \\\\rightarrow kg), v (km/h \\\\rightarrow m/s)$ ... Quên chọn gốc thế năng...",
+    "type": "STEP",
+    "parentId": "khtn9_les_co_nang",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_quang_hoc",
+    "name": "Quang học & Năng lượng ánh sáng",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_ly",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_thau_kinh",
+    "name": "Bài toán Thấu kính hội tụ & Thấu kính phân kỳ",
+    "type": "LESSON",
+    "parentId": "khtn9_top_quang_hoc",
+    "examples": [
+      {
+        "id": "ex_tk_1",
+        "question": "[Bài toán Thấu kính hội tụ]: Vật sáng $AB$ cao $h = 2\\\\text{cm}$ đặt vuông góc với trục chính của thấu kính hội tụ có tiêu cự $f = 12\\\\text{cm}$, cách thấu kính một khoảng $d = 18\\\\text{cm}$. Xác định vị trí ảnh $d'$ và chiều cao ảnh $h'$.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán thấu kính hội tụ tạo ảnh thật ($d = 18\\\\text{cm} > f = 12\\\\text{cm}$). Dấu hiệu: $AB \\\\perp$ trục chính, cho tiêu cự $f$ và khoảng cách vật $d$.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy không đổi đồng bộ đơn vị $\\\\text{cm}$; bẫy nhầm lẫn giữa ảnh thật ($d' > 0$) và ảnh ảo ($d' < 0$); bẫy lấy tỉ số chiều cao bị ngược $h'/h$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Áp dụng công thức thấu kính hội tụ cho ảnh thật: $\\\\frac{1}{f} = \\\\frac{1}{d} + \\\\frac{1}{d'}$.\n- Bước 2: Thay số $f = 12, d = 18$:\n  $\\\\frac{1}{12} = \\\\frac{1}{18} + \\\\frac{1}{d'} \\\\Rightarrow \\\\frac{1}{d'} = \\\\frac{1}{12} - \\\\frac{1}{18} = \\\\frac{3 - 2}{36} = \\\\frac{1}{36} \\\\Rightarrow d' = 36 \\\\text{ (cm)}$.\n- Bước 3: Áp dụng tỉ lệ tam giác đồng dạng tìm chiều cao ảnh:\n  $\\\\frac{h'}{h} = \\\\frac{d'}{d} \\\\Rightarrow \\\\frac{h'}{2} = \\\\frac{36}{18} = 2 \\\\Rightarrow h' = 2 \\\\times 2 = 4 \\\\text{ (cm)}$.\n4. Kết luận & Đáp số chuẩn: Ảnh $A'B'$ là ảnh thật, ngược chiều vật, cách thấu kính $d' = 36\\\\text{cm}$ và có chiều cao $h' = 4\\\\text{cm}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_tk_lt",
+    "name": "Công thức thấu kính ➔ $\\\\frac{1}{f} = \\\\frac{1}{d} + \\\\frac{1}{d'}$ ... Ảnh thật $d' > 0$, Ảnh ảo $d' < 0$ ... Tỉ lệ ảnh $\\\\frac{h'}{h} = \\\\frac{|d'|}{d}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_thau_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_tk_pp",
+    "name": "Phương pháp đồng dạng ➔ Tỉ số tam giác $\\\\Delta ABO \\\\sim \\\\Delta A'B'O$ và $\\\\Delta F'OI \\\\sim \\\\Delta F'A'B'$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_thau_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_tk_tt",
+    "name": "Thuật toán giải nhanh ➔ Bấm phân số đảo nghịch Casio $d' = (f^{-1} - d^{-1})^{-1}$ hoặc $d' = \\\\frac{d \\\\cdot f}{d - f}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_thau_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_tk_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy khoảng cách giữa vật và ảnh $L = d + d'$ ... Bẫy dấu $d'$ khi ảnh ảo thấu kính phân kỳ $d' < 0$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_thau_kinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_khuc_xa",
+    "name": "Khúc xạ ánh sáng & Phản xạ toàn phần",
+    "type": "LESSON",
+    "parentId": "khtn9_top_quang_hoc",
+    "examples": [
+      {
+        "id": "ex_kx_1",
+        "question": "[Khúc xạ ánh sáng]: Một tia sáng chiếu từ nước ($n_1 = \\\\frac{4}{3}$) ra không khí ($n_2 = 1$). Tính góc giới hạn phản xạ toàn phần $i_{gh}$ và xác định đường đi của tia sáng khi góc tới $i = 60^\\\\circ$.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán khúc xạ và phản xạ toàn phần khi ánh sáng đi từ môi trường chiết quang hơn sang môi trường kém chiết quang ($n_1 > n_2$).\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy lấy nhầm tỉ số $\\\\sin i_{gh} = \\\\frac{n_1}{n_2} > 1$ gây lỗi bấm máy; bẫy nhầm giữa góc tới $i$ (tạo với pháp tuyến) và góc tạo bởi tia sáng với mặt phân cách.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Công thức góc giới hạn phản xạ toàn phần: $\\\\sin i_{gh} = \\\\frac{n_2}{n_1} = \\\\frac{1}{4/3} = 0.75$.\n- Bước 2: Bấm máy $\\\\text{shift-sin}(0.75) \\\\Rightarrow i_{gh} \\\\approx 48.59^\\\\circ$.\n- Bước 3: So sánh góc tới $i = 60^\\\\circ$ với $i_{gh} = 48.59^\\\\circ$:\n  Vì $n_1 > n_2$ và $i = 60^\\\\circ > i_{gh}$, điều kiện phản xạ toàn phần được thỏa mãn hoàn toàn.\n- Bước 4: Kết luận tia sáng bị phản xạ toàn phần trở lại môi trường nước với góc phản xạ $i' = i = 60^\\\\circ$, không có tia khúc xạ ra không khí.\n4. Kết luận & Đáp số chuẩn: $i_{gh} \\\\approx 48.59^\\\\circ$; Tại $i = 60^\\\\circ$ xảy ra phản xạ toàn phần.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_kx_lt",
+    "name": "Định luật khúc xạ ➔ $\\\\frac{\\\\sin i}{\\\\sin r} = \\\\frac{n_2}{n_1}$ ... Góc khúc xạ $r < i$ khi sang môi trường chiết quang hơn...",
+    "type": "STEP",
+    "parentId": "khtn9_les_khuc_xa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kx_pp",
+    "name": "Điều kiện phản xạ toàn phần ➔ Ánh sáng truyền từ $n_1 > n_2$ và Góc tới $i \\\\ge i_{gh}$ với $\\\\sin i_{gh} = \\\\frac{n_2}{n_1}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_khuc_xa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kx_tt",
+    "name": "Thuật toán xét tia ➔ Tính $i_{gh}$ ➔ So sánh $i$ với $i_{gh}$ ➔ Nếu $i < i_{gh}$ có khúc xạ, nếu $i \\\\ge i_{gh}$ phản xạ toàn phần...",
+    "type": "STEP",
+    "parentId": "khtn9_les_khuc_xa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kx_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy nhầm góc tới $i$ với góc hợp bởi tia tới và mặt phân cách $\\\\alpha = 90^\\\\circ - i$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_khuc_xa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_dien_hoc",
+    "name": "Điện học & Điện từ học",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_ly",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_dinh_luat_ohm",
+    "name": "Bài toán Định luật Ohm cho mạch nối tiếp, song song & hỗn hợp",
+    "type": "LESSON",
+    "parentId": "khtn9_top_dien_hoc",
+    "examples": [
+      {
+        "id": "ex_ohm_1",
+        "question": "[Định luật Ohm mạch hỗn hợp]: Cho đoạn mạch gồm $R_1 = 6\\\\Omega$ nối tiếp với cụm song song ($R_2 = 10\\\\Omega // R_3 = 15\\\\Omega$). Hiệu điện thế toàn mạch $U = 24\\\\text{V}$. Tính điện trở tương đương toàn mạch $R_{tđ}$ và cường độ dòng điện qua mỗi điện trở.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán định luật Ohm cho đoạn mạch hỗn hợp $R_1 \\\\text{ nt } (R_2 // R_3)$. Dấu hiệu: Cho sơ đồ mắc, giá trị các điện trở và hiệu điện thế nguồn $U$.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy tính sai điện trở cụm song song $\\\\frac{1}{R_{23}} = \\\\frac{1}{R_2} + \\\\frac{1}{R_3}$; bẫy nhầm lẫn giữa cường độ dòng điện mạch chính $I$ và dòng điện nhánh $I_2, I_3$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Tính điện trở tương đương cụm song song $R_{23}$:\n  $R_{23} = \\\\frac{R_2 \\\\cdot R_3}{R_2 + R_3} = \\\\frac{10 \\\\times 15}{10 + 15} = \\\\frac{150}{25} = 6 \\\\text{ (}\\\\Omega\\\\text{)}$.\n- Bước 2: Điện trở tương đương toàn mạch $R_{tđ}$:\n  $R_{tđ} = R_1 + R_{23} = 6 + 6 = 12 \\\\text{ (}\\\\Omega\\\\text{)}$.\n- Bước 3: Cường độ dòng điện mạch chính (cũng là dòng qua $R_1$):\n  $I = I_1 = \\\\frac{U}{R_{tđ}} = \\\\frac{24}{12} = 2 \\\\text{ (A)}$.\n- Bước 4: Hiệu điện thế cụm song song $U_{23}$:\n  $U_{23} = I \\\\cdot R_{23} = 2 \\\\times 6 = 12 \\\\text{ (V)}$.\n- Bước 5: Cường độ dòng điện qua $R_2$ và $R_3$:\n  $I_2 = \\\\frac{U_{23}}{R_2} = \\\\frac{12}{10} = 1.2 \\\\text{ (A)}$;\n  $I_3 = \\\\frac{U_{23}}{R_3} = \\\\frac{12}{15} = 0.8 \\\\text{ (A)}$. (Kiểm tra lại: $I_2 + I_3 = 1.2 + 0.8 = 2\\\\text{A} = I$ chuẩn xác).\n4. Kết luận & Đáp số chuẩn: $R_{tđ} = 12\\\\Omega$; $I_1 = 2\\\\text{A}, I_2 = 1.2\\\\text{A}, I_3 = 0.8\\\\text{A}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_dho_lt",
+    "name": "Định luật Ohm ➔ $I = \\\\frac{U}{R}$ ... Mạch nối tiếp: $R_{tđ} = R_1 + R_2, I = I_1 = I_2$ ... Mạch song song: $R_{tđ} = \\\\frac{R_1 R_2}{R_1 + R_2}, U = U_1 = U_2$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dinh_luat_ohm",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dho_pp",
+    "name": "Phương pháp phân tích mạch ➔ Thu gọn mạch từ trong cụm song song ra ngoài cụm nối tiếp...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dinh_luat_ohm",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dho_tt",
+    "name": "Thuật toán giải mạch ➔ Tìm $R_{tđ}$ ➔ Tìm $I_{mạch main} = \\\\frac{U}{R_{tđ}}$ ➔ Tính $U$ từng cụm ➔ Suy ra $I$ nhánh...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dinh_luat_ohm",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dho_casio",
+    "name": "Thuật toán Casio mạch điện ➔ Bấm giải hệ phương trình `MENU 9-1-2` (Fx-580EX) hoặc `MODE 5-1` (Fx-570VN) giải hệ phương trình Kirchoff mạch cầu...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dinh_luat_ohm",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dho_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Nhầm công thức $R_{tđ}$ song song thành $R_1 + R_2$ ... Nhầm hiệu điện thế cục bộ $U_{23}$ với $U$ toàn mạch...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dinh_luat_ohm",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_cong_suat_dien",
+    "name": "Bài toán Điện năng tiêu thụ & Công suất điện",
+    "type": "LESSON",
+    "parentId": "khtn9_top_dien_hoc",
+    "examples": [
+      {
+        "id": "ex_cs_1",
+        "question": "[Tính tiền điện sử dụng]: Một bếp điện có công suất định mức $P = 1500\\\\text{W}$ hoạt động bình thường ở hiệu điện thế $U = 220\\\\text{V}$. Mỗi ngày bếp sử dụng $2$ giờ. Tính điện năng tiêu thụ của bếp trong $30$ ngày theo đơn vị $\\\\text{kWh}$ và tiền điện phải trả biết $1\\\\text{kWh}$ có giá $2000$ đồng.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán tính công suất, điện năng tiêu thụ $A = P \\\\cdot t$ và tiền điện thực tế sinh hoạt.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy đổi đơn vị công suất từ $\\\\text{W} \\\\rightarrow \\\\text{kW}$ ($1500\\\\text{W} = 1.5\\\\text{kW}$); bẫy tính tổng số giờ trong cả tháng ($t = 2 \\\\times 30 = 60$ giờ).\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Đổi công suất $P = 1500\\\\text{W} = 1.5\\\\text{kW}$.\n- Bước 2: Tính tổng thời gian bếp hoạt động trong 30 ngày:\n  $t = 2 \\\\text{ giờ/ngày} \\\\times 30 \\\\text{ ngày} = 60 \\\\text{ giờ}$.\n- Bước 3: Tính điện năng tiêu thụ $A$ theo $\\\\text{kWh}$:\n  $A = P \\\\times t = 1.5 \\\\text{ (kW)} \\\\times 60 \\\\text{ (h)} = 90 \\\\text{ (kWh)}$ (tương đương 90 số điện).\n- Bước 4: Tính số tiền điện phải trả:\n  $\\\\text{Tiền điện} = 90 \\\\text{ (kWh)} \\\\times 2000 \\\\text{ (đồng/kWh)} = 180000 \\\\text{ (đồng)}$.\n4. Kết luận & Đáp số chuẩn: Điện năng tiêu thụ là $90\\\\text{kWh}$; Tiền điện phải trả là $180000$ đồng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_cs_lt",
+    "name": "Công suất & Điện năng ➔ $P = UI = I^2 R = \\\\frac{U^2}{R}$ ... $A = Pt = UIt$ ... $1 kWh = 3.6 \\\\times 10^6 J$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_cong_suat_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_cs_pp",
+    "name": "Phương pháp đổi đơn vị chuẩn ➔ $P (kW), t (h) \\\\rightarrow A (kWh)$ ... $P (W), t (s) \\\\rightarrow A (J)$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_cong_suat_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_cs_tt",
+    "name": "Thuật toán tính tiền điện ➔ Đổi $P$ sang $kW$ ➔ Tính tổng số giờ $t$ trong tháng ➔ Nhân $A = P \\\\cdot t$ ➔ Nhân đơn giá tiền điện...",
+    "type": "STEP",
+    "parentId": "khtn9_les_cong_suat_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_cs_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy nhân nhầm giây thay vì giờ khi tính $kWh$ ... Bẫy thiết bị dùng không đúng hiệu điện thế định mức...",
+    "type": "STEP",
+    "parentId": "khtn9_les_cong_suat_dien",
+    "examples": null
+  },
+  {
+    "id": "khtn9_cat_hoa",
+    "name": "Chất và sự biến đổi của chất (Hóa học)",
+    "type": "CATEGORY",
+    "parentId": "khtn9_subject",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_kim_loai",
+    "name": "Kim loại & Dãy hoạt động hóa học",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_hoa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_day_hoat_dong_kl",
+    "name": "Bài toán Dãy hoạt động hóa học của Kim loại",
+    "type": "LESSON",
+    "parentId": "khtn9_top_kim_loai",
+    "examples": [
+      {
+        "id": "ex_kl_1",
+        "question": "[Tăng giảm khối lượng kim loại]: Nhúng một thanh sắt ($Fe$) có khối lượng ban đầu $m_0 = 10\\\\text{g}$ vào $200\\\\text{ml}$ dung dịch $CuSO_4 1\\\\text{M}$. Sau khi phản ứng xảy ra hoàn toàn, lấy thanh sắt ra rửa sạch, sấy khô cân lại. Tính khối lượng thanh sắt sau phản ứng.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán kim loại mạnh đẩy kim loại yếu ra khỏi dung dịch muối kết hợp phương pháp tăng giảm khối lượng thanh kim loại.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy tính nhầm độ tăng/giảm thanh kim loại; bẫy quên rằng $1\\\\text{mol } Fe$ tan ra ($56\\\\text{g}$) được thay thế bởi $1\\\\text{mol } Cu$ bám vào ($64\\\\text{g}$) nên khối lượng thanh tăng lên $64 - 56 = 8\\\\text{g/mol}$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Tính số mol $CuSO_4$: $n_{CuSO_4} = C_M \\\\times V = 1 \\\\times 0.2 = 0.2 \\\\text{ (mol)}$.\n- Bước 2: Viết phương trình hóa học:\n  $Fe + CuSO_4 \\\\rightarrow FeSO_4 + Cu \\\\downarrow$.\n- Bước 3: Theo phương trình, $n_{Fe \\\\text{ phản ứng}} = n_{Cu \\\\text{ sinh ra}} = n_{CuSO_4} = 0.2 \\\\text{ (mol)}$.\n- Bước 4: Lập biểu thức tăng giảm khối lượng thanh kim loại:\n  Khối lượng $Fe$ tan ra: $m_{Fe \\\\text{ tan}} = 0.2 \\\\times 56 = 11.2 \\\\text{ (g)}$.\n  Khối lượng $Cu$ bám vào: $m_{Cu \\\\text{ bám}} = 0.2 \\\\times 64 = 12.8 \\\\text{ (g)}$.\n  Độ tăng khối lượng thanh: $\\\\Delta m_{tăng} = m_{Cu \\\\text{ bám}} - m_{Fe \\\\text{ tan}} = 12.8 - 11.2 = 1.6 \\\\text{ (g)}$.\n- Bước 5: Khối lượng thanh sắt sau phản ứng:\n  $m_{thanh sau} = m_0 + \\\\Delta m_{tăng} = 10 + 1.6 = 11.6 \\\\text{ (g)}$.\n4. Kết luận & Đáp số chuẩn: Khối lượng thanh sắt sau phản ứng là $11.6\\\\text{g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_kl_lt",
+    "name": "Dãy hoạt động hóa học ➔ $K, Na, Ca, Mg, Al, Zn, Fe, Pb, (H), Cu, Hg, Ag, Pt, Au$ ... Kim loại đứng trước đẩy kim loại đứng sau ra khỏi muối...",
+    "type": "STEP",
+    "parentId": "khtn9_les_day_hoat_dong_kl",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kl_pp",
+    "name": "Phương pháp tăng giảm khối lượng ➔ Độ tăng $\\\\Delta m_{tăng} = m_{bám} - m_{tan}$ ... Độ giảm $\\\\Delta m_{giảm} = m_{tan} - m_{bám}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_day_hoat_dong_kl",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kl_tt",
+    "name": "Thuật toán giải bài muối ➔ Lập $n_{muối}$ ➔ Viết PTHH ➔ Tính $m_{tan}$ và $m_{bám}$ ➔ $m_{sau} = m_0 + m_{bám} - m_{tan}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_day_hoat_dong_kl",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kl_casio",
+    "name": "Thuật toán Casio giải hệ hỗn hợp kim loại ➔ Bấm `MENU 9-1-2` (Fx-580EX) hoặc `MODE 5-1` (Fx-570VN) giải hệ khối lượng $Ax + By = m$ và hệ e/khí $cx + dy = n_{khí}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_day_hoat_dong_kl",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_kl_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy $K, Na, Ca$ phản ứng với nước trước chứ không đẩy kim loại trong dung dịch muối ... Bẫy tính nhầm $m_{tan}$ với $m_{bám}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_day_hoat_dong_kl",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_hydrocarbon",
+    "name": "Hydrocarbon & Nguồn nhiên liệu",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_hoa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_ctpt_hydrocarbon",
+    "name": "Lập Công thức phân tử & Cấu tạo Hydrocarbon (Methane, Ethylene)",
+    "type": "LESSON",
+    "parentId": "khtn9_top_hydrocarbon",
+    "examples": [
+      {
+        "id": "ex_hc_1",
+        "question": "[Lập Công thức phân tử Hydrocarbon]: Đốt cháy hoàn toàn $2.8\\\\text{g}$ một Hydrocarbon $A$ thu được $8.8\\\\text{g } CO_2$ và $3.6\\\\text{g } H_2O$. Tỉ khối hơi của $A$ so với $H_2$ bằng $14$. Tìm công thức phân tử và công thức cấu tạo của $A$.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán lập CTPT Hydrocarbon dựa vào sản phẩm cháy $CO_2, H_2O$ và khối lượng mol phân tử $M_A$.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy không kiểm tra tổng khối lượng $m_C + m_H$ có bằng $m_A$ không; bẫy nhầm lẫn giữa tỉ khối $d_{A/H_2}$ với $M_A$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Tính khối lượng mol của $A$: $M_A = 14 \\\\times 2 = 28 \\\\text{ (g/mol)}$.\n- Bước 2: Tính số mol $C$ và $H$ trong sản phẩm cháy:\n  $n_C = n_{CO_2} = \\\\frac{8.8}{44} = 0.2 \\\\text{ (mol)} \\\\Rightarrow m_C = 0.2 \\\\times 12 = 2.4 \\\\text{ (g)}$.\n  $n_H = 2 \\\\cdot n_{H_2O} = 2 \\\\times \\\\frac{3.6}{18} = 0.4 \\\\text{ (mol)} \\\\Rightarrow m_H = 0.4 \\\\times 1 = 0.4 \\\\text{ (g)}$.\n  Kiểm tra: $m_C + m_H = 2.4 + 0.4 = 2.8 \\\\text{ (g)} = m_A$ (Đúng là Hydrocarbon $C_x H_y$).\n- Bước 3: Lập tỉ lệ số mol nguyên tố:\n  $x : y = n_C : n_H = 0.2 : 0.4 = 1 : 2 \\\\Rightarrow$ Công thức đơn giản nhất là $(CH_2)_n$.\n- Bước 4: Tìm $n$ dựa vào $M_A$:\n  $M_A = 14n = 28 \\\\Rightarrow n = 2 \\\\Rightarrow$ CTPT của $A$ là $C_2H_4$ (Ethylene).\n- Bước 5: Công thức cấu tạo của $A$: $CH_2 = CH_2$ (có 1 liên kết đôi $C=C$).\n4. Kết luận & Đáp số chuẩn: CTPT $C_2H_4$; CTCT $CH_2 = CH_2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_hc_lt",
+    "name": "Cấu tạo Hydrocarbon ➔ Methane $CH_4$ (liên kết đơn $C-H$) ... Ethylene $C_2H_4$ (liên kết đôi $C=C$ làm mất màu dung dịch $Br_2$)...",
+    "type": "STEP",
+    "parentId": "khtn9_les_ctpt_hydrocarbon",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_hc_pp",
+    "name": "Phương pháp bảo toàn nguyên tố ➔ $n_C = n_{CO_2}$, $n_H = 2 n_{H_2O}$ ... Tỉ lệ $x : y = n_C : n_H$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_ctpt_hydrocarbon",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_hc_tt",
+    "name": "Thuật toán lập CTPT ➔ Tính $m_C, m_H$ ➔ Lập tỉ lệ $x : y$ ➔ Lập $(CTĐGN)_n = M_A$ để giải $n$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_ctpt_hydrocarbon",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_hc_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy quên nhân đôi số mol $H$ khi tính từ $H_2O$ ($n_H = 2 n_{H_2O}$) ... Nhầm phản ứng thế của Alkane với phản ứng cộng của Alkene...",
+    "type": "STEP",
+    "parentId": "khtn9_les_ctpt_hydrocarbon",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_dan_xuat_hc",
+    "name": "Dẫn xuất Hydrocarbon & Hợp chất hữu cơ sinh học",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_hoa",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_alcohol_acid",
+    "name": "Bài toán Ethylic Alcohol & Acetic Acid (Phản ứng Ester hóa)",
+    "type": "LESSON",
+    "parentId": "khtn9_top_dan_xuat_hc",
+    "examples": [
+      {
+        "id": "ex_ester_1",
+        "question": "[Tính hiệu suất phản ứng Ester hóa]: Đun nóng $12\\\\text{g } CH_3COOH$ với $11.5\\\\text{g } C_2H_5OH$ có xúc tác $H_2SO_4$ đặc. Sau phản ứng thu được $13.2\\\\text{g}$ Ester Ethyl acetate ($CH_3COOC_2H_5$). Tính hiệu suất phản ứng Ester hóa $H$.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán tính hiệu suất phản ứng Ester hóa giữa Acetic acid và Ethylic alcohol khi biết khối lượng hai chất ban đầu và lượng sản phẩm thu được thực tế.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy không so sánh tỉ lệ mol để xác định chất thiếu (chất dùng để tính lý thuyết); bẫy lấy khối lượng Ester tính ngược lại bị nhầm lẫn giữa lượng lý thuyết và thực tế.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Tính số mol các chất ban đầu:\n  $n_{CH_3COOH} = \\\\frac{12}{60} = 0.2 \\\\text{ (mol)}$;\n  $n_{C_2H_5OH} = \\\\frac{11.5}{46} = 0.25 \\\\text{ (mol)}$.\n- Bước 2: Viết PTHH phản ứng Ester hóa:\n  $CH_3COOH + C_2H_5OH \\\\stackrel{H_2SO_4 \\\\text{ đ}, t^o}{\\\\rightleftharpoons} CH_3COOC_2H_5 + H_2O$.\n- Bước 3: So sánh tỉ lệ mol ban đầu:\n  $\\\\frac{n_{CH_3COOH}}{1} = 0.2 < \\\\frac{n_{C_2H_5OH}}{1} = 0.25 \\\\Rightarrow C_2H_5OH$ dư, hiệu suất phản ứng phải tính theo $CH_3COOH$.\n- Bước 4: Tính khối lượng Ester thu được theo lý thuyết (nếu $H = 100\\%$):\n  $n_{ester \\\\text{ lí thuyết}} = n_{CH_3COOH} = 0.2 \\\\text{ (mol)} \\\\Rightarrow m_{ester \\\\text{ lí thuyết}} = 0.2 \\\\times 88 = 17.6 \\\\text{ (g)}$.\n- Bước 5: Tính hiệu suất phản ứng $H$:\n  $H = \\\\frac{m_{ester \\\\text{ thực tế}}}{m_{ester \\\\text{ lí thuyết}}} \\\\times 100\\% = \\\\frac{13.2}{17.6} \\\\times 100\\% = 75\\%$.\n4. Kết luận & Đáp số chuẩn: Hiệu suất phản ứng Ester hóa là $H = 75\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_es_lt",
+    "name": "Phản ứng Ester hóa ➔ $CH_3COOH + C_2H_5OH \\\\rightleftharpoons CH_3COOC_2H_5 + H_2O$ (xúc tác $H_2SO_4$ đặc, $t^o$)...",
+    "type": "STEP",
+    "parentId": "khtn9_les_alcohol_acid",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_es_pp",
+    "name": "Phương pháp tính hiệu suất ➔ So sánh $n_{acid}$ và $n_{alcohol}$ để xác định chất thiếu ➔ $H = \\\\frac{m_{thực tế}}{m_{lý thuyết}} \\\\times 100\\%$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_alcohol_acid",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_es_tt",
+    "name": "Thuật toán giải bài Ester ➔ Tìm mol ban đầu ➔ Tìm chất thiếu ➔ Tính $m_{lý thuyết}$ ➔ Lập tỉ lệ hiệu suất...",
+    "type": "STEP",
+    "parentId": "khtn9_les_alcohol_acid",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_es_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy tính hiệu suất theo chất dư $C_2H_5OH$ dẫn đến $H > 100\\%$ vô lý ... Bẫy quên khối lượng mol của Ester $M = 88 \\\\text{g/mol}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_alcohol_acid",
+    "examples": null
+  },
+  {
+    "id": "khtn9_cat_sinh",
+    "name": "Vật sống (Sinh học)",
+    "type": "CATEGORY",
+    "parentId": "khtn9_subject",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_di_truyen_mendel",
+    "name": "Di truyền học Mendel & Cơ sở phân tử (DNA, Gene)",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_sinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_quy_luat_mendel",
+    "name": "Bài toán Quy luật di truyền Mendel (Lai 1 cặp & 2 cặp tính trạng)",
+    "type": "LESSON",
+    "parentId": "khtn9_top_di_truyen_mendel",
+    "examples": [
+      {
+        "id": "ex_md_1",
+        "question": "[Di truyền Mendel 1 cặp tính trạng]: Ở đậu Hà Lan, gen A quy định hạt vàng trội hoàn toàn so với gen a quy định hạt xanh. Cho cây đậu hạt vàng không thuần chủng tự thụ phấn thu được $F_1$. Xác định tỉ lệ kiểu gen và tỉ lệ kiểu hình ở $F_1$.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán quy luật di truyền phân li của Mendel với 1 cặp tính trạng trội lặn hoàn toàn. Cây hạt vàng không thuần chủng có kiểu gen heterozygote $Aa$.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy nhầm lẫn giữa 'Tỉ lệ kiểu gen' ($1AA : 2Aa : 1aa$) và 'Tỉ lệ kiểu hình' ($3$ vàng : $1$ xanh); bẫy đề hỏi tỉ lệ hạt vàng thuần chủng trong số các cây hạt vàng ($1/3$ chứ không phải $1/4$).\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Quy ước gen: $A$ - hạt vàng (trội hoàn toàn), $a$ - hạt xanh (lặn).\n- Bước 2: Cây bố mẹ $P$ tự thụ phấn có kiểu gen không thuần chủng: $Aa \\\\times Aa$.\n- Bước 3: Lập sơ đồ lai $P$: $Aa \\\\times Aa$.\n  Giao tử $G_P$: $P$ cho $\\\\frac{1}{2}A : \\\\frac{1}{2}a$.\n- Bước 4: Kết quả kiểu gen $F_1$:\n  $F_1 = (\\\\frac{1}{2}A + \\\\frac{1}{2}a)(\\\\frac{1}{2}A + \\\\frac{1}{2}a) = \\\\frac{1}{4}AA : \\\\frac{2}{4}Aa : \\\\frac{1}{4}aa$.\n- Bước 5: Tỉ lệ kiểu hình $F_1$:\n  Hạt vàng ($AA + Aa$) = $\\\\frac{1}{4} + \\\\frac{2}{4} = \\\\frac{3}{4}$ (75%).\n  Hạt xanh ($aa$) = $\\\\frac{1}{4}$ (25%).\n4. Kết luận & Đáp số chuẩn: Tỉ lệ kiểu gen $F_1$: $1AA : 2Aa : 1aa$; Tỉ lệ kiểu hình $F_1$: $3$ hạt vàng : $1$ hạt xanh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_md_lt",
+    "name": "Định luật Mendel ➔ Lai 1 cặp $Aa \\\\times Aa \\\\rightarrow 1AA : 2Aa : 1aa$ (3 Trội : 1 Lặn) ... Lai 2 cặp độc lập $(3:1)(3:1) = 9:3:3:1$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_quy_luat_mendel",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_md_pp",
+    "name": "Phương pháp phép lai phân tích ➔ Cho cơ thể mang tính trạng trội lai với cơ thể lặn $aa$ để kiểm tra độ thuần chủng...",
+    "type": "STEP",
+    "parentId": "khtn9_les_quy_luat_mendel",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_md_tt",
+    "name": "Thuật toán sơ đồ lai ➔ Quy ước gen ➔ Xác định kiểu gen P ➔ Viết giao tử G ➔ Nhân tích giao tử ra $F_1$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_quy_luat_mendel",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_md_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy nhầm lẫn tỉ lệ kiểu gen ($1:2:1$) với tỉ lệ kiểu hình ($3:1$) ... Bẫy xác suất trong nhóm kiểu hình trội ($AA = 1/3, Aa = 2/3$)...",
+    "type": "STEP",
+    "parentId": "khtn9_les_quy_luat_mendel",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_dna_gene",
+    "name": "Bài toán Cấu trúc DNA, RNA & Cơ chế di truyền",
+    "type": "LESSON",
+    "parentId": "khtn9_top_di_truyen_mendel",
+    "examples": [
+      {
+        "id": "ex_dna_1",
+        "question": "[Tính toán đại lượng DNA]: Phân tử DNA có tổng số $N = 3000$ nucleotide, trong đó số nucleotide loại $A = 600$. Tính số nucleotide các loại còn lại, tổng số liên kết hydrogen $H$ và chiều dài $L$ của phân tử DNA.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán nguyên tắc bổ sung và các đại lượng cấu trúc phân tử DNA hai mạch xoắn kép.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy nhầm lẫn công thức liên kết hydrogen $H = 2A + 3G$ với tổng số nu $N = 2A + 2G$; bẫy nhầm đơn vị chiều dài Angstrom ($\\\\text{\\\\AA}$) với nanomet ($\\\\text{nm}$) ($1\\\\text{nm} = 10\\\\text{\\\\AA}$).\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Áp dụng nguyên tắc bổ sung $A = T$ và $G = C$:\n  $A = T = 600 \\\\text{ (nucleotide)}$.\n- Bước 2: Tính số nu loại $G$ và $C$ từ tổng số $N = 2A + 2G$:\n  $2G = N - 2A = 3000 - 2(600) = 3000 - 1200 = 1800 \\\\Rightarrow G = C = 900 \\\\text{ (nucleotide)}$.\n- Bước 3: Tính tổng số liên kết hydrogen $H$:\n  $H = 2A + 3G = 2(600) + 3(900) = 1200 + 2700 = 3900 \\\\text{ (liên kết)}$.\n- Bước 4: Tính chiều dài phân tử DNA $L$:\n  $L = \\\\frac{N}{2} \\\\times 3.4 = \\\\frac{3000}{2} \\\\times 3.4 = 1500 \\\\times 3.4 = 5100 \\\\text{ (\\\\AA)} = 510 \\\\text{ (nm)}$.\n4. Kết luận & Đáp số chuẩn: $A = T = 600$, $G = C = 900$; Số liên kết hydrogen $H = 3900$; Chiều dài $L = 5100\\\\text{\\\\AA} = 510\\\\text{nm}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_dna_lt",
+    "name": "Cấu trúc DNA ➔ Nguyên tắc bổ sung $A = T, G = C$ ... Tổng $N = 2A + 2G$ ... Chiều dài $L = \\\\frac{N}{2} \\\\times 3.4 \\\\text{\\\\AA}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dna_gene",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dna_pp",
+    "name": "Phương pháp liên kết hydrogen ➔ $H = 2A + 3G = N + G$ ... Khối lượng $M = N \\\\times 300 \\\\text{đvC}$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dna_gene",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dna_tt",
+    "name": "Thuật toán nhân đôi DNA ➔ Tái bản $x$ lần tạo $2^x$ DNA ... Số liên kết $H$ bị phá hủy $H_{phá} = (2^x - 1)H$ ... Số mạch mới hoàn toàn $2^x - 2$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dna_gene",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dna_casio",
+    "name": "Thuật toán Casio tính nhanh ADN ➔ Bấm $2^x$ tính số phân tử con, tính số $H$ hình thành $H_{hình thành} = 2^x \\\\cdot H$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dna_gene",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_dna_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy nhầm số nucleotide 1 mạch ($N/2$) với cả 2 mạch ($N$) ... Bẫy đổi đơn vị $1 nm = 10 \\\\text{\\\\AA} = 10^{-3} \\\\mu m$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_dna_gene",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_nst_phan_bao",
+    "name": "Di truyền Nhiễm sắc thể & Phân bào",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_sinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_nguyen_phan_giam_phan",
+    "name": "Bài toán Nguyên phân, Giảm phân & Biến đổi NST",
+    "type": "LESSON",
+    "parentId": "khtn9_top_nst_phan_bao",
+    "examples": [
+      {
+        "id": "ex_pb_1",
+        "question": "[Bài toán Nguyên phân tế bào]: Có $5$ tế bào sinh dưỡng của cùng một loài ($2n = 14$) tiến hành nguyên phân liên tiếp $3$ lần bằng nhau. Tính tổng số tế bào con tạo thành và số NST môi trường nội bào phải cung cấp cho quá trình nguyên phân trên.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán nguyên phân tế bào sinh dưỡng nhiều lần và số lượng NST môi trường cung cấp.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy quên tính cho $a = 5$ tế bào ban đầu; bẫy nhầm công thức NST môi trường cung cấp $2n(2^k - 1)$ với tổng số NST trong tế bào con $2n \\\\cdot 2^k$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Xác định các dữ kiện: Số tế bào ban đầu $a = 5$; Bộ NST $2n = 14$; Số lần nguyên phân $k = 3$.\n- Bước 2: Tính tổng số tế bào con tạo thành:\n  $N_{tế bào con} = a \\\\times 2^k = 5 \\\\times 2^3 = 5 \\\\times 8 = 40 \\\\text{ (tế bào con)}$.\n- Bước 3: Tính tổng số NST có trong tất cả các tế bào con:\n  $\\\\sum NST_{con} = 40 \\\\times 14 = 560 \\\\text{ (NST)}$.\n- Bước 4: Tính số NST môi trường nội bào cần cung cấp:\n  $NST_{môi trường} = a \\\\times 2n \\\\times (2^k - 1) = 5 \\\\times 14 \\\\times (2^3 - 1) = 70 \\\\times 7 = 490 \\\\text{ (NST)}$.\n4. Kết luận & Đáp số chuẩn: Tạo thành $40$ tế bào con; Số NST môi trường cung cấp là $490$ NST.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_pb_lt",
+    "name": "Nguyên phân & Giảm phân ➔ Nguyên phân $1$ tế bào $2n \\\\rightarrow 2$ tế bào $2n$ ... Giảm phân $1$ tế bào $2n \\\\rightarrow 4$ tế bào $n$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_nguyen_phan_giam_phan",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_pb_pp",
+    "name": "Phương pháp đếm NST các kỳ ➔ Kỳ giữa (NST kép xếp 1 hay 2 hàng) ... Kỳ sau (NST đơn phân li về 2 cực)...",
+    "type": "STEP",
+    "parentId": "khtn9_les_nguyen_phan_giam_phan",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_pb_tt",
+    "name": "Thuật toán nhân tế bào ➔ $a$ tế bào nguyên phân $k$ lần ➔ $a \\\\cdot 2^k$ tế bào con ➔ $NST_{cung cấp} = a \\\\cdot 2n (2^k - 1)$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_nguyen_phan_giam_phan",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_pb_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy nhầm lẫn số tế bào con sau Giảm phân ($4$ tế bào) với Nguyên phân ($2^k$) ... Bẫy nhầm NST kép với chromatid...",
+    "type": "STEP",
+    "parentId": "khtn9_les_nguyen_phan_giam_phan",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_pha_he",
+    "name": "Di truyền học người & Sơ đồ phả hệ",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_sinh",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_so_do_pha_he",
+    "name": "Bài toán Sơ đồ phả hệ di truyền ở người",
+    "type": "LESSON",
+    "parentId": "khtn9_top_pha_he",
+    "examples": [
+      {
+        "id": "ex_ph_1",
+        "question": "[Phân tích Sơ đồ phả hệ]: Ở người, bệnh bạch tạng do gen lặn $a$ nằm trên NST thường quy định, gen $A$ quy định bình thường. Một cặp vợ chồng đều có kiểu hình bình thường nhưng có bố của người vợ và mẹ của người chồng bị bệnh bạch tạng. Tính xác suất cặp vợ chồng này sinh đứa con đầu lòng bị bệnh bạch tạng.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Bài toán phân tích phả hệ di truyền gen lặn nằm trên NST thường và tính xác suất xuất hiện kiểu hình bệnh ở đời con.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy chưa xác định chắc chắn kiểu gen của bố mẹ đã vội tính xác suất; bẫy nhầm gen nằm trên NST giới tính $X$.\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Bước 1: Quy ước gen: $A$ - bình thường (trội hoàn toàn), $a$ - bệnh bạch tạng (lặn).\n- Bước 2: Biện luận kiểu gen của người vợ:\n  Bố của người vợ bị bệnh bạch tạng ($aa$) $\\\\Rightarrow$ Bố phải truyền giao tử $a$ cho người vợ. Vì người vợ có kiểu hình bình thường ($A\\_$) nên kiểu gen bắt buộc của người vợ là $Aa$.\n- Bước 3: Biện luận kiểu gen của người chồng:\n  Mẹ của người chồng bị bệnh bạch tạng ($aa$) $\\\\Rightarrow$ Mẹ phải truyền giao tử $a$ cho người chồng. Vì người chồng có kiểu hình bình thường ($A\\_$) nên kiểu gen bắt buộc của người chồng là $Aa$.\n- Bước 4: Sơ đồ lai giữa hai vợ chồng: $Aa \\\\times Aa$.\n  Tỉ lệ đời con xuất hiện kiểu hình bị bệnh bạch tạng ($aa$) là $\\\\frac{1}{4} = 25\\%$.\n4. Kết luận & Đáp số chuẩn: Xác suất cặp vợ chồng sinh con đầu lòng bị bệnh bạch tạng là $\\\\frac{1}{4}$ (25%).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_ph_lt",
+    "name": "Đặc điểm phả hệ ➔ Bố mẹ bình thường sinh con bị bệnh ➔ Bệnh do gen lặn quy định ... Bố bị bệnh lặn sinh con gái bình thường ➔ Gen trên NST thường...",
+    "type": "STEP",
+    "parentId": "khtn9_les_so_do_pha_he",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_ph_pp",
+    "name": "Phương pháp quy ước & Biện luận ➔ Từ người có kiểu hình lặn $aa$ suy ngược kiểu gen của bố, mẹ và con cái...",
+    "type": "STEP",
+    "parentId": "khtn9_les_so_do_pha_he",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_ph_tt",
+    "name": "Thuật toán xác suất phả hệ ➔ Tìm kiểu gen chắc chắn ➔ Tìm tỉ lệ giao tử mang gen lặn ➔ Nhân xác suất con $aa = p(a_{mẹ}) \\\\times p(a_{bố})$...",
+    "type": "STEP",
+    "parentId": "khtn9_les_so_do_pha_he",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_ph_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Bẫy nhầm lẫn giữa xác suất sinh con trai bị bệnh ($1/2 \\\\times 1/4 = 1/8$) với xác suất sinh con bị bệnh ($1/4$)...",
+    "type": "STEP",
+    "parentId": "khtn9_les_so_do_pha_he",
+    "examples": null
+  },
+  {
+    "id": "khtn9_cat_trai_dat",
+    "name": "Trái Đất và bầu trời (Khoa học Trái Đất)",
+    "type": "CATEGORY",
+    "parentId": "khtn9_subject",
+    "examples": null
+  },
+  {
+    "id": "khtn9_top_moi_truong",
+    "name": "Môi trường Trái Đất & Biến đổi khí hậu",
+    "type": "TOPIC",
+    "parentId": "khtn9_cat_trai_dat",
+    "examples": null
+  },
+  {
+    "id": "khtn9_les_bien_doi_khi_hau",
+    "name": "Đánh giá Biến đổi khí hậu & Phát triển bền vững",
+    "type": "LESSON",
+    "parentId": "khtn9_top_moi_truong",
+    "examples": [
+      {
+        "id": "ex_bdkh_1",
+        "question": "[Hiện tượng Hiệu ứng nhà kính]: Trình bày cơ chế gây ra hiệu ứng nhà kính khí quyển, nêu tên các khí nhà kính chính và đề xuất 2 giải pháp giảm thiểu tốc độ biến đổi khí hậu toàn cầu.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi lý thuyết tổng hợp về bản chất hiện tượng hiệu ứng nhà kính, nguyên nhân khí quyển và giải pháp bảo vệ môi trường.\n2. Cảnh báo bẫy ngầm của đề thi: Bẫy nhầm lẫn giữa hiện tượng 'Hiệu ứng nhà kính' (do $CO_2, CH_4$) làm Trái Đất nóng lên với hiện tượng 'Suy giảm tầng Ozone' (do khí CFC gây lỗ hổng tầng bảo vệ tia cực tím).\n3. Biện luận logic & Các bước tính toán chi tiết:\n- Cơ chế hiệu ứng nhà kính: Năng lượng bức xạ mặt trời chiếu xuống mặt đất làm mặt đất nóng lên và phát ra bức xạ nhiệt hồng ngoại. Bức xạ nhiệt này bị các khí nhà kính trong khí quyển hấp thụ và giữ lại, tỏa ngược lại mặt đất làm nhiệt độ trung bình Trái Đất gia tăng.\n- Khí nhà kính chính: $CO_2$ (carbon dioxide), $CH_4$ (methane), $N_2O$, hơi nước.\n- Giải pháp giảm thiểu:\n  + Giải pháp 1: Chuyển đổi từ năng lượng hóa thạch (than đá, dầu mỏ) sang năng lượng tái tạo (mặt trời, gió, thủy điện).\n  + Giải pháp 2: Tăng cường trồng rừng và bảo vệ rừng tự nhiên để tăng khả năng thu hồi và hấp thụ $CO_2$ khí quyển.\n4. Kết luận & Đáp số chuẩn: Hiểu rõ cơ chế giữ nhiệt của $CO_2, CH_4$ và áp dụng năng lượng tái tạo + trồng rừng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "khtn9_step_bdkh_lt",
+    "name": "Cơ chế hiệu ứng nhà kính ➔ Khí nhà kính ($CO_2, CH_4$) giữ lại bức xạ nhiệt hồng ngoại làm Trái Đất nóng lên...",
+    "type": "STEP",
+    "parentId": "khtn9_les_bien_doi_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_bdkh_pp",
+    "name": "Phương pháp phân tích nguyên nhân ➔ Hoạt động giao thông, công nghiệp, đốt than đá ➔ Gia tăng $CO_2$ khí quyển...",
+    "type": "STEP",
+    "parentId": "khtn9_les_bien_doi_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_bdkh_tt",
+    "name": "Thuật toán giải pháp ➔ Chuyển đổi năng lượng tái tạo + Trồng rừng hấp thụ carbon + Tiết kiệm điện...",
+    "type": "STEP",
+    "parentId": "khtn9_les_bien_doi_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "khtn9_step_bdkh_bay",
+    "name": "Cảnh báo bẫy ngầm ➔ Nhầm lẫn Hiệu ứng nhà kính ($CO_2$) với Suy giảm tầng Ozone (CFC) ... Nhầm mưa acid ($SO_2, NO_x$) với hiệu ứng nhà kính...",
+    "type": "STEP",
+    "parentId": "khtn9_les_bien_doi_khi_hau",
+    "examples": null
+  }
+]

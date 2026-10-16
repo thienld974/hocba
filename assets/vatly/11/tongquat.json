@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "ly11_subject",
+    "name": "Vật lý 11 (Kết nối tri thức)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "ly11_cat_dao_dong_co",
+    "name": "Dao động cơ học",
+    "type": "CATEGORY",
+    "parentId": "ly11_subject",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_mota_dddh",
+    "name": "Động lực học & Mô tả Dao động điều hòa",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dao_dong_co",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_1_1",
+    "name": "Mối liên hệ x - v - a & PTDĐĐH",
+    "type": "LESSON",
+    "parentId": "ly11_top_mota_dddh",
+    "examples": [
+      {
+        "id": "ly11_ex_1_1_1_1",
+        "question": "Mối liên hệ Li độ – Vận tốc – Gia tốc & Phương trình DĐĐH: Một vật dao động điều hòa trên quỹ đạo thẳng dài 10 cm. Tần số dao động là 2 Hz. Tại thời điểm t = 0, vật đi qua vị trí có li độ x = 2,5 cm theo chiều dương. Viết phương trình dao động điều hòa của vật.",
+        "answer": "Bước 1 (Tóm tắt & Đổi đơn vị): Quỹ đạo $L = 10\\text{ cm} \\Rightarrow A = \\frac{L}{2} = 5\\text{ cm}$. Tần số $f = 2\\text{ Hz} \\Rightarrow \\omega = 2\\pi f = 4\\pi\\text{ rad/s}$. Đơn vị $x$ (cm), $t$ (s).\nBước 2 (Né bẫy & Lập luận): Tại $t = 0$, $x_0 = 2,5\\text{ cm} = \\frac{A}{2}$. Vật chuyển động theo chiều dương ($v > 0$) $\\Rightarrow \\sin\\varphi < 0 \\Rightarrow \\varphi < 0$.\nBước 3 (Tính toán): $\\cos\\varphi = \\frac{x_0}{A} = \\frac{2,5}{5} = 0,5 \\Rightarrow \\varphi = -\\frac{\\pi}{3}\\text{ rad}$.\nBước 4 (Kết luận): Phương trình dao động của vật là $x = 5\\cos\\left(4\\pi t - \\frac{\\pi}{3}\\right)\\text{ (cm)}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_1_1_1",
+    "name": "PT li độ ➔ $x = A\\cos(\\omega t + \\varphi)$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_1_2",
+    "name": "PT vận tốc ➔ $v = x' = -\\omega A\\sin(\\omega t + \\varphi) = \\omega A\\cos(\\omega t + \\varphi + \\frac{\\pi}{2})$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_1_3",
+    "name": "PT gia tốc ➔ $a = v' = -\\omega^2 x = \\omega^2 A\\cos(\\omega t + \\varphi + \\pi)$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_1_4",
+    "name": "Công thức độc lập ➔ $A^2 = x^2 + \\frac{v^2}{\\omega^2} = \\frac{a^2}{\\omega^4} + \\frac{v^2}{\\omega^2}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_1_5",
+    "name": "Vòng tròn lượng giác ➔ $x = A\\cos\\Phi$, chiều quay ngược kim đồng hồ",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_1_6",
+    "name": "Bẫy pha ban đầu ➔ $v > 0 \\Rightarrow \\varphi < 0$; $v < 0 \\Rightarrow \\varphi > 0$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_1_2",
+    "name": "Bài toán Thời gian, Quãng đường & V_tb",
+    "type": "LESSON",
+    "parentId": "ly11_top_mota_dddh",
+    "examples": [
+      {
+        "id": "ly11_ex_1_1_2_1",
+        "question": "Bài toán Thời gian, Quãng đường, Vận tốc trung bình & Pha dao động: Một vật DĐĐH với phương trình $x = 6\\cos\\left(10\\pi t - \\frac{\\pi}{6}\\right)\\text{ (cm)}$. Tính thời gian ngắn nhất vật đi từ vị trí $x_1 = 3\\text{ cm}$ đến $x_2 = -3\\sqrt{3}\\text{ cm}$.",
+        "answer": "Bước 1 (Tóm tắt & Đổi đơn vị): $A = 6\\text{ cm}$, $\\omega = 10\\pi\\text{ rad/s} \\Rightarrow T = \\frac{2\\pi}{\\omega} = 0,2\\text{ s}$.\nBước 2 (Ứng dụng VTLG): Tại $x_1 = 3\\text{ cm} = \\frac{A}{2}$, góc pha $\\Phi_1 = -\\frac{\\pi}{3}$ (hoặc $\\frac{\\pi}{3}$). Đến $x_2 = -3\\sqrt{3}\\text{ cm} = -\\frac{A\\sqrt{3}}{2}$, góc pha $\\Phi_2 = \\frac{5\\pi}{6}$.\nBước 3 (Tính toán thời gian): Góc quét nhỏ nhất $\\Delta\\varphi = \\frac{5\\pi}{6} - \\left(-\frac{\\pi}{3}\\right) = \\frac{7\\pi}{6}$ rad hoặc từ $\\frac{\\pi}{3} \\rightarrow \\frac{5\\pi}{6} \\Rightarrow \\Delta\\varphi_{min} = \\frac{\\pi}{2}\\text{ rad}$. $\\Delta t = \\frac{\\Delta\\varphi}{\\omega} = \\frac{\\pi/2}{10\\pi} = 0,05\\text{ s}$.\nBước 4 (Kết luận): Thời gian ngắn nhất là $0,05\\text{ s}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_1_2_1",
+    "name": "Thời gian quét góc ➔ $\\Delta t = \\frac{\\Delta\\varphi}{\\omega} = \\frac{\\Delta\\varphi \\cdot T}{2\\pi}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_2_2",
+    "name": "Quãng đường trong $1T$ ➔ $S_{1T} = 4A$, trong $0,5T$ ➔ $S_{0,5T} = 2A$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_2_3",
+    "name": "Vận tốc trung bình ➔ $v_{tb} = \\frac{\\Delta x}{\\Delta t}$; Tốc độ trung bình ➔ $v_{tb\\text{ tốc độ}} = \\frac{S}{\\Delta t}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_2_4",
+    "name": "Quãng đường max/min ➔ $S_{max} = 2A\\sin\\left(\\frac{\\omega \\Delta t}{2}\\right)$, $S_{min} = 2A\\left[1 - \\cos\\left(\\frac{\\omega \\Delta t}{2}\\right)\\right]$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_2_5",
+    "name": "Bẫy $v_{tb}$ vs tốc độ trung bình ➔ $v_{tb}$ dùng độ dời $\\Delta x$, tốc độ dùng quãng đường $S$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_1_3",
+    "name": "Khai thác Đồ thị Dao động điều hòa",
+    "type": "LESSON",
+    "parentId": "ly11_top_mota_dddh",
+    "examples": [
+      {
+        "id": "ly11_ex_1_1_3_1",
+        "question": "Khảo sát và khai thác Đồ thị Dao động điều hòa: Đồ thị li độ - thời gian của một vật DĐĐH cho thấy đỉnh cực đại $x_{max} = 4\\text{ cm}$ và khoảng thời gian giữa 2 lần liên tiếp vật qua VTCB là $0,25\\text{ s}$. Xác định biên độ $A$ và tần số góc $\\omega$.",
+        "answer": "Bước 1 (Đọc đồ thị): Đỉnh cao nhất $x_{max} = A = 4\\text{ cm}$. Khoảng thời gian giữa 2 lần liên tiếp qua VTCB là $\\frac{T}{2} = 0,25\\text{ s}$.\nBước 2 (Tính toán): Chu kỳ $T = 0,5\\text{ s} \\Rightarrow \\omega = \\frac{2\\pi}{T} = 4\\pi\\text{ rad/s}$.\nBước 3 (Kết luận): Biên độ $A = 4\\text{ cm}$, Tần số góc $\\omega = 4\\pi\\text{ rad/s}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_1_3_1",
+    "name": "Đọc $A$ từ đỉnh đồ thị $x-t$ ➔ $A = x_{max}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_3",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_3_2",
+    "name": "Đọc $T$ từ đồ thị ➔ Khoảng cách 2 đỉnh liền kề $= T$; 2 lần qua VTCB $= T/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_3",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_3_3",
+    "name": "Xác định pha ban đầu $\\varphi$ ➔ Chiều biến thiên đồ thị tại $t=0$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_3",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_3_4",
+    "name": "Đồ thị $v-t$ vuông pha $x-t$ ➔ $v$ sớm pha $\\pi/2$ so với $x$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_3",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_1_3_5",
+    "name": "Bẫy trục thời gian ➔ Kiểm tra đơn vị trục hoành ($ms$ hay $s$)",
+    "type": "STEP",
+    "parentId": "ly11_les_1_1_3",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_nang_luong_dddh",
+    "name": "Năng lượng trong Dao động điều hòa",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dao_dong_co",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_2_1",
+    "name": "Biến đổi Động năng, Thế năng & Bảo toàn Cơ năng",
+    "type": "LESSON",
+    "parentId": "ly11_top_nang_luong_dddh",
+    "examples": [
+      {
+        "id": "ly11_ex_1_2_1_1",
+        "question": "Bài toán Biến đổi Động năng, Thế năng & Bảo toàn Cơ năng: Một vật nặng $m = 200\\text{ g}$ DĐĐH với biên độ $A = 10\\text{ cm}$, tần số $f = 2\\text{ Hz}$. Tính động năng của vật khi li độ $x = 6\\text{ cm}$.",
+        "answer": "Bước 1 (Đổi đơn vị chuẩn SI): $m = 0,2\\text{ kg}$, $A = 0,1\\text{ m}$, $x = 0,06\\text{ m}$. $\\omega = 2\\pi f = 4\\pi\\text{ rad/s}$.\nBước 2 (Cơ năng): $W = \\frac{1}{2}m\\omega^2 A^2 = \\frac{1}{2} \\cdot 0,2 \\cdot (4\\pi)^2 \\cdot 0,1^2 \\approx 0,16\\pi^2 \\approx 0,158\\text{ J}$ (lấy $\\pi^2 \\approx 10 \\Rightarrow W = 0,16\\text{ J}$).\nBước 3 (Thế năng & Động năng): $W_t = \\frac{1}{2}m\\omega^2 x^2 = 0,16 \\cdot \\left(\\frac{0,06}{0,1}\\right)^2 = 0,0576\\text{ J}$. $W_d = W - W_t = 0,16 - 0,0576 = 0,1024\\text{ J}$.\nBước 4 (Kết luận): Động năng của vật là $0,1024\\text{ J}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_2_1_1",
+    "name": "Thế năng ➔ $W_t = \\frac{1}{2}m\\omega^2 x^2 = \\frac{1}{2}k x^2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_1_2",
+    "name": "Động năng ➔ $W_d = \\frac{1}{2}m v^2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_1_3",
+    "name": "Cơ năng bảo toàn ➔ $W = W_d + W_t = \\frac{1}{2}m\\omega^2 A^2 = \\text{const}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_1_4",
+    "name": "Vị trí $W_d = n W_t$ ➔ $x = \\pm \\frac{A}{\\sqrt{n+1}}$, $v = \\pm \\frac{v_{max}\\sqrt{n}}{\\sqrt{n+1}}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_1_5",
+    "name": "Tần số biến thiên $W_d, W_t$ ➔ $f' = 2f$, $\\omega' = 2\\omega$, $T' = T/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_1_6",
+    "name": "Bẫy đơn vị năng lượng ➔ Bắt buộc đổi $A, x$ sang mét (m), $m$ sang kg",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_2_2",
+    "name": "Khảo sát Đồ thị Năng lượng",
+    "type": "LESSON",
+    "parentId": "ly11_top_nang_luong_dddh",
+    "examples": [
+      {
+        "id": "ly11_ex_1_2_2_1",
+        "question": "Khảo sát Đồ thị Năng lượng theo Li độ và Thời gian: Cho đồ thị thế năng theo li độ $W_t(x)$ là một đường parabol có đỉnh tại gốc tọa độ $O$ và $W_{t\\text{ max}} = 0,2\\text{ J}$ tại $x = \\pm 8\\text{ cm}$. Xác định động năng tại $x = 4\\text{ cm}$.",
+        "answer": "Bước 1 (Đọc đồ thị): $W = W_{t\\text{ max}} = 0,2\\text{ J}$ tại $x = A = 8\\text{ cm}$.\nBước 2 (Lập luận tỉ lệ): $W_t(x) = W \\cdot \\left(\\frac{x}{A}\\right)^2$. Tại $x = 4\\text{ cm} = \\frac{A}{2} \\Rightarrow W_t = W \\cdot \\left(\\frac{1}{2}\\right)^2 = \\frac{W}{4} = 0,05\\text{ J}$.\nBước 3 (Tính động năng): $W_d = W - W_t = 0,2 - 0,05 = 0,15\\text{ J}$.\nBước 4 (Kết luận): Động năng tại $x = 4\\text{ cm}$ bằng $0,15\\text{ J}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_2_2_1",
+    "name": "Đồ thị $W_t(x)$ Parabol bề lõm hướng lên ➔ Đỉnh tại $x=0$, $W_{t\\text{ max}}$ tại $x=\\pm A$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_2_2",
+    "name": "Đồ thị $W_d(x)$ Parabol bề lõm hướng xuống ➔ Đỉnh tại $x=0$, $W_d=0$ tại $x=\\pm A$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_2_3",
+    "name": "Giao điểm $W_d$ và $W_t$ ➔ $x = \\pm \\frac{A}{\\sqrt{2}}$, $W_d = W_t = W/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_2_2_4",
+    "name": "Đồ thị $W_t(t), W_d(t)$ theo thời gian ➔ Chu kỳ biến thiên $T_{NL} = T/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_tat_dan_cuong_buc",
+    "name": "Dao động tắt dần, Cưỡng bức & Cộng hưởng",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dao_dong_co",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_3_1",
+    "name": "Nhận diện & Bài toán Dao động tắt dần",
+    "type": "LESSON",
+    "parentId": "ly11_top_tat_dan_cuong_buc",
+    "examples": [
+      {
+        "id": "ly11_ex_1_3_1_1",
+        "question": "Nhận diện Hiện tượng & Bài toán Thực tế về Dao động tắt dần: Một con lắc lò xo dao động tắt dần chậm. Sau mỗi chu kỳ, biên độ dao động giảm $3\\%$. Hỏi sau một chu kỳ, cơ năng của con lắc giảm bao nhiêu phần trăm?",
+        "answer": "Bước 1 (Công thức tỉ lệ): $A' = 0,97 A$.\nBước 2 (Lập luận cơ năng): Cơ năng $W = \\frac{1}{2}kA^2 \\Rightarrow W' = \\frac{1}{2}k(A')^2 = \\frac{1}{2}k(0,97A)^2 = 0,9409 W$.\nBước 3 (Tính phần trăm suy giảm): $\\Delta W\\% = \\frac{W - W'}{W} \\cdot 100\\% = (1 - 0,9409) \\cdot 100\\% = 5,91\\%$.\nBước 4 (Kết luận): Cơ năng giảm $5,91\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_3_1_1",
+    "name": "Nguyên nhân tắt dần ➔ Lực cản môi trường làm tiêu hao cơ năng thành nhiệt",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_3_1_2",
+    "name": "Độ giảm biên độ ➔ $\\Delta A = A_1 - A_2$; Phần trăm mất cơ năng $\\frac{\\Delta W}{W} = 1 - \\left(\\frac{A'}{A}\\right)^2$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_3_1_3",
+    "name": "Ứng dụng thực tế ➔ Bộ giảm xóc ô tô/xe máy, cửa đóng tự động",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_1_3_2",
+    "name": "Bài toán Cộng hưởng & Dao động cưỡng bức",
+    "type": "LESSON",
+    "parentId": "ly11_top_tat_dan_cuong_buc",
+    "examples": [
+      {
+        "id": "ly11_ex_1_3_2_1",
+        "question": "Bài toán Điều kiện Cộng hưởng & Đặc điểm Dao động cưỡng bức: Một xe lửa chạy trên đường ray, mỗi thanh ray dài $12,5\\text{ m}$. Tần số dao động riêng của khung xe trên các lò xo giảm xóc là $f_0 = 2\\text{ Hz}$. Tìm tốc độ của xe lửa để xe bị xóc mạnh nhất.",
+        "answer": "Bước 1 (Điều kiện cộng hưởng): Xe bị xóc mạnh nhất khi xảy ra cộng hưởng $\\Rightarrow T_{ngoại lực} = T_0 = \\frac{1}{f_0} = \\frac{1}{2} = 0,5\\text{ s}$.\nBước 2 (Lập luận hiện tượng): Thời gian xe đi qua một thanh ray $s = 12,5\\text{ m}$ là $t = T_{ngoại lực} = 0,5\\text{ s}$.\nBước 3 (Tính vận tốc): $v = \\frac{s}{t} = \\frac{12,5}{0,5} = 25\\text{ m/s} = 90\\text{ km/h}$.\nBước 4 (Kết luận): Xe bị xóc mạnh nhất khi chạy với tốc độ $90\\text{ km/h}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_1_3_2_1",
+    "name": "Đặc điểm DĐ cưỡng bức ➔ Tần số $f = f_{ngoại lực}$, biên độ phụ thuộc $|f - f_0|$ và lực cản",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_3_2_2",
+    "name": "Điều kiện Cộng hưởng ➔ $f_{ngoại lực} = f_0$ (hoặc $\\omega_{ngoại lực} = \\omega_0$) $\\Rightarrow A_{max}$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_3_2_3",
+    "name": "Cộng hưởng xe lửa/con lắc đơn ➔ $v = \\frac{s}{T_0}$ (với $s$ là chiều dài thanh ray/bước đi)",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_1_3_2_4",
+    "name": "Bẫy tần số DĐ cưỡng bức ➔ Bằng tần số ngoại lực $f_{cb}$, KHÔNG bằng $f_0$",
+    "type": "STEP",
+    "parentId": "ly11_les_1_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_cat_song_co_va_dien_tu",
+    "name": "Sóng cơ & Sóng điện từ",
+    "type": "CATEGORY",
+    "parentId": "ly11_subject",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_song_co_truyen_song",
+    "name": "Sóng cơ & Sự truyền Sóng cơ",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_song_co_va_dien_tu",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_1_1",
+    "name": "Xác định các Đại lượng Đặc trưng & PT Sóng",
+    "type": "LESSON",
+    "parentId": "ly11_top_song_co_truyen_song",
+    "examples": [
+      {
+        "id": "ly11_ex_2_1_1_1",
+        "question": "Xác định các Đại lượng Đặc trưng & Phương trình sóng: Một sóng cơ truyền dọc theo trục $Ox$ với tần số $f = 50\\text{ Hz}$, tốc độ truyền sóng $v = 4\\text{ m/s}$. Biên độ sóng $A = 3\\text{ cm}$ không đổi. Viết phương trình sóng tại điểm $M$ cách nguồn $O$ một khoảng $d = 2\\text{ cm}$, biết phương trình sóng tại nguồn $O$ là $u_O = 3\\cos(100\\pi t)\\text{ (cm)}$.",
+        "answer": "Bước 1 (Đổi đơn vị & Bước sóng): $v = 400\\text{ cm/s}$. Bước sóng $\\lambda = \\frac{v}{f} = \\frac{400}{50} = 8\\text{ cm}$.\nBước 2 (Lập luận trễ pha): Điểm $M$ trễ pha hơn nguồn $O$ một góc $\\Delta\\varphi = \\frac{2\\pi d}{\\lambda} = \\frac{2\\pi \\cdot 2}{8} = \\frac{\\pi}{2}\\text{ rad}$.\nBước 3 (Thiết lập phương trình): $u_M = 3\\cos\\left(100\\pi t - \\frac{\\pi}{2}\\right)\\text{ (cm)}$.\nBước 4 (Kết luận): Phương trình sóng tại $M$ là $u_M = 3\\cos\\left(100\\pi t - \\frac{\\pi}{2}\\right)\\text{ (cm)}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_1_1_1",
+    "name": "Bước sóng ➔ $\\lambda = v \\cdot T = \\frac{v}{f}$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_1_1_2",
+    "name": "PT sóng tại điểm $M$ trễ pha hơn $O$ ➔ $u_M = A\\cos\\left(\\omega t + \\varphi_O - \\frac{2\\pi d}{\\lambda}\\right)$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_1_1_3",
+    "name": "Khoảng cách $n$ ngọn sóng liên tiếp ➔ $(n-1)\\lambda$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_1_1_4",
+    "name": "Bẫy ngọn sóng ➔ Khoảng cách 5 ngọn sóng $= 4\\lambda$ (KHÔNG PHẢI $5\\lambda$)",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_1_2",
+    "name": "Độ lệch pha & Đồ thị Sóng cơ",
+    "type": "LESSON",
+    "parentId": "ly11_top_song_co_truyen_song",
+    "examples": [
+      {
+        "id": "ly11_ex_2_1_2_1",
+        "question": "Độ lệch pha giữa hai điểm trên phương truyền sóng & Đồ thị sóng: Sóng cơ truyền trên dây với bước sóng $\\lambda = 24\\text{ cm}$. Hai điểm $M, N$ nằm trên cùng phương truyền sóng cách nhau $d = 18\\text{ cm}$. Xác định trạng thái pha của $M$ và $N$.",
+        "answer": "Bước 1 (Tính độ lệch pha): $\\Delta\\varphi = \\frac{2\\pi d}{\\lambda} = \\frac{2\\pi \\cdot 18}{24} = \\frac{3\\pi}{2}\\text{ rad} = 2\\pi - \\frac{\\pi}{2}$.\nBước 2 (Lập luận vuông pha): Do $\\Delta\\varphi = (2k+1)\\frac{\\pi}{2}$ với $k = 1 \\Rightarrow M$ và $N$ dao động vuông pha nhau.\nBước 3 (Kết luận): Hai điểm $M$ và $N$ dao động vuông pha.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_1_2_1",
+    "name": "Độ lệch pha tổng quát ➔ $\\Delta\\varphi = \\frac{2\\pi d}{\\lambda}$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_1_2_2",
+    "name": "Cùng pha ➔ $d = k\\lambda$; Ngược pha ➔ $d = (k+0,5)\\lambda$; Vuông pha ➔ $d = (k+0,25)\\lambda/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_1_2_3",
+    "name": "Hình dạng đồ thị không gian $u-x$ ➔ Quy tắc sườn sóng (sườn đón sóng đi lên)",
+    "type": "STEP",
+    "parentId": "ly11_les_2_1_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_giao_thoa_song",
+    "name": "Hiện tượng Giao thoa Sóng",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_song_co_va_dien_tu",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_2_1",
+    "name": "Bài toán Giao thoa Sóng cơ (2 nguồn cùng pha)",
+    "type": "LESSON",
+    "parentId": "ly11_top_giao_thoa_song",
+    "examples": [
+      {
+        "id": "ly11_ex_2_2_1_1",
+        "question": "Bài toán Giao thoa Sóng cơ – Vị trí Cực đại, Cực tiểu: Trong thí nghiệm giao thoa mặt nước với 2 nguồn cùng pha $A, B$ cách nhau $11\\text{ cm}$, bước sóng $\\lambda = 2\\text{ cm}$. Tính số điểm cực đại giao thoa trên đoạn thẳng $AB$.",
+        "answer": "Bước 1 (Tóm tắt & Công thức chặn): $AB = 11\\text{ cm}$, $\\lambda = 2\\text{ cm}$. Điều kiện cực đại với 2 nguồn cùng pha: $d_1 - d_2 = k\\lambda$.\nBước 2 (Lập bất phương trình): $-\\frac{AB}{\\lambda} < k < \\frac{AB}{\\lambda} \\Rightarrow -\\frac{11}{2} < k < \\frac{11}{2} \\Rightarrow -5,5 < k < 5,5$.\nBước 3 (Đếm số giá trị nguyên $k$): $k \\in \\{-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5\\} \\Rightarrow 11$ giá trị.\nBước 4 (Kết luận): Có 11 điểm cực đại trên đoạn $AB$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_2_1_1",
+    "name": "Điều kiện Cực đại (cùng pha) ➔ $d_1 - d_2 = k\\lambda\\ (k \\in \\mathbb{Z})$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_1_2",
+    "name": "Điều kiện Cực tiểu (cùng pha) ➔ $d_1 - d_2 = (k + 0,5)\\lambda\\ (k \\in \\mathbb{Z})$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_1_3",
+    "name": "Số cực đại trên đoạn $S_1S_2$ ➔ $-\\frac{S_1S_2}{\\lambda} < k < \\frac{S_1S_2}{\\lambda}$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_1_4",
+    "name": "Khoảng cách 2 cực đại/cực tiểu liên tiếp trên $S_1S_2$ ➔ $\\lambda/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_1_5",
+    "name": "Bẫy 2 nguồn ngược pha ➔ Điều kiện cực đại/cực tiểu bị đảo ngược cho nhau",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_2_2",
+    "name": "Giao thoa Ánh sáng qua Khe Y-âng",
+    "type": "LESSON",
+    "parentId": "ly11_top_giao_thoa_song",
+    "examples": [
+      {
+        "id": "ly11_ex_2_2_2_1",
+        "question": "Giao thoa Ánh sáng qua Khe Y-âng: Thí nghiệm Y-âng có $a = 1\\text{ mm}$, $D = 2\\text{ m}$, chiếu ánh sáng đơn sắc bước sóng $\\lambda = 0,6\\ \\mu\\text{m}$. Tính khoảng vân $i$ và vị trí vân sáng bậc 3.",
+        "answer": "Bước 1 (Đổi đơn vị chuẩn): Áp dụng hệ đơn vị chuẩn trắc nghiệm: $\\lambda = 0,6\\text{ (}\\mu\\text{m)}$, $D = 2\\text{ (m)}$, $a = 1\\text{ (mm)}$. Khoảng vân: $i = \\frac{\\lambda D}{a} = \\frac{0,6 \\cdot 2}{1} = 1,2\\text{ mm}$.\nBước 2 (Vị trí vân sáng bậc 3): $x_{s3} = 3i = 3 \\cdot 1,2 = 3,6\\text{ mm}$.\nBước 3 (Kết luận): Khoảng vân $i = 1,2\\text{ mm}$, vị trí vân sáng bậc 3 là $x = \\pm 3,6\\text{ mm}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_2_2_1",
+    "name": "Khoảng vân ➔ $i = \\frac{\\lambda D}{a}$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_2_2",
+    "name": "Vị trí vân sáng ➔ $x_s = k i = k \\frac{\\lambda D}{a}$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_2_3",
+    "name": "Vị trí vân tối ➔ $x_t = (k + 0,5) i = (k + 0,5) \\frac{\\lambda D}{a}$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_2_4",
+    "name": "Trùng vân đa sắc ➔ $k_1 \\lambda_1 = k_2 \\lambda_2 \\Rightarrow \\frac{k_1}{k_2} = \\frac{\\lambda_2}{\\lambda_1}$ (tối giản)",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_2_2_5",
+    "name": "Mẹo đổi đơn vị chuẩn ➔ $\\lambda\\ (\\mu\\text{m})$, $D\\text{ (m)}$, $a\\text{ (mm)} \\Rightarrow i\\text{ (mm)}$ tính trực tiếp!",
+    "type": "STEP",
+    "parentId": "ly11_les_2_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_song_dung",
+    "name": "Sóng dừng & Ứng dụng",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_song_co_va_dien_tu",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_3_1",
+    "name": "Điều kiện Sóng dừng trên Dây & Cột khí",
+    "type": "LESSON",
+    "parentId": "ly11_top_song_dung",
+    "examples": [
+      {
+        "id": "ly11_ex_2_3_1_1",
+        "question": "Điều kiện Sóng dừng trên Dây: Một sợi dây đàn hồi dài $l = 1,2\\text{ m}$ hai đầu cố định. Sóng truyền trên dây với tần số $f = 100\\text{ Hz}$ tạo ra sóng dừng với 3 bụng sóng. Tính tốc độ truyền sóng trên dây.",
+        "answer": "Bước 1 (Nhận diện điều kiện 2 đầu cố định): $l = k \\frac{\\lambda}{2} = k \\frac{v}{2f}$. Với dây 2 đầu cố định, số bụng sóng $= k = 3$.\nBước 2 (Thay số tính tốc độ): $1,2 = 3 \\cdot \\frac{v}{2 \\cdot 100} \\Rightarrow 1,2 = \\frac{3v}{200} \\Rightarrow v = \\frac{1,2 \\cdot 200}{3} = 80\\text{ m/s}$.\nBước 3 (Kết luận): Tốc độ truyền sóng trên dây là $80\\text{ m/s}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_3_1_1",
+    "name": "Hai đầu cố định ➔ $l = k \\frac{\\lambda}{2}$ ($k =$ số bụng $=$ số múi sóng, $k+1 =$ số nút)",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_3_1_2",
+    "name": "1 đầu cố định 1 tự do ➔ $l = (2k+1) \\frac{\\lambda}{4}$ ($k =$ số múi, $k+1 =$ số nút $=$ số bụng)",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_3_1_3",
+    "name": "Khoảng cách giữa 2 nút / 2 bụng liên tiếp ➔ $\\lambda/2$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_3_1_4",
+    "name": "Khoảng cách giữa 1 nút và 1 bụng liên tiếp ➔ $\\lambda/4$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_3_1_5",
+    "name": "Bẫy đầu dây ➔ Cần xác định kỹ dây cố định hay gắn vào cần rung (được tính là nút)",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_3_2",
+    "name": "Ứng dụng Sóng dừng & Thực hành Đo tốc độ truyền âm",
+    "type": "LESSON",
+    "parentId": "ly11_top_song_dung",
+    "examples": [
+      {
+        "id": "ly11_ex_2_3_2_1",
+        "question": "Ứng dụng Sóng dừng trong Nhạc cụ & Thực hành Đo tốc độ truyền âm: Một ống khí một đầu kín một đầu hở có chiều dài thay đổi được nhờ pít-tông. Khi hạ pít-tông để chiều dài cột khí tăng dần, âm phát ra từ âm thoa $f = 500\\text{ Hz}$ nghe to nhất tại 2 vị trí cột khí $l_1 = 17\\text{ cm}$ và $l_2 = 51\\text{ cm}$. Tính tốc độ truyền âm.",
+        "answer": "Bước 1 (Lập luận khoảng cách 2 vị trí cộng hưởng): Khoảng cách giữa 2 lần nghe to nhất liên tiếp ứng với 2 vị trí sóng dừng liên tiếp: $\\Delta l = l_2 - l_1 = \\frac{\\lambda}{2}$.\nBước 2 (Tính bước sóng): $\\frac{\\lambda}{2} = 51 - 17 = 34\\text{ cm} \\Rightarrow \\lambda = 68\\text{ cm} = 0,68\\text{ m}$.\nBước 3 (Tính tốc độ): $v = \\lambda f = 0,68 \\cdot 500 = 340\\text{ m/s}$.\nBước 4 (Kết luận): Tốc độ truyền âm trong ống là $340\\text{ m/s}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_3_2_1",
+    "name": "Đo tốc độ âm qua ống khí ➔ $v = 2(l_2 - l_1) f$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_3_2_2",
+    "name": "Họa âm nhạc cụ ➔ Dây đàn (2 đầu cố định): $f_n = n f_1$; Ống khí hở 1 đầu: $f_n = (2n-1)f_1$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_thang_song_dien_tu",
+    "name": "Thang Sóng điện từ",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_song_co_va_dien_tu",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_2_4_1",
+    "name": "Phân loại, Tính chất & Ứng dụng Bức xạ Điện từ",
+    "type": "LESSON",
+    "parentId": "ly11_top_thang_song_dien_tu",
+    "examples": [
+      {
+        "id": "ly11_ex_2_4_1_1",
+        "question": "Phân loại, Tính chất & Ứng dụng các Bức xạ trong Thang Sóng điện từ: Sắp xếp các bức xạ sau theo thứ tự bước sóng giảm dần trong chân không: Ánh sáng nhìn thấy, Tia X, Tia hồng ngoại, Tia tử ngoại, Sóng vô tuyến.",
+        "answer": "Bước 1 (Nhớ quy luật thang sóng): Bước sóng $\\lambda$ giảm dần $\\Leftrightarrow$ Tần số $f$ tăng dần $\\Leftrightarrow$ Năng lượng photon tăng dần.\nBước 2 (Thứ tự $\\lambda$ giảm dần): Sóng vô tuyến ($> 1\\text{ mm}$) ➔ Tia hồng ngoại ($760\\text{ nm} - 1\\text{ mm}$) ➔ Ánh sáng nhìn thấy ($380\\text{ nm} - 760\\text{ nm}$) ➔ Tia tử ngoại ($10\\text{ nm} - 380\\text{ nm}$) ➔ Tia X ($10^{-11}\\text{ m} - 10^{-8}\\text{ m}$).\nBước 3 (Kết luận): Thứ tự đúng là Sóng vô tuyến > Tia hồng ngoại > Ánh sáng nhìn thấy > Tia tử ngoại > Tia X.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_2_4_1_1",
+    "name": "Thang bước sóng ➔ Sóng vô tuyến > Hồng ngoại > Nhìn thấy > Tử ngoại > Tia X > Tia Gamma",
+    "type": "STEP",
+    "parentId": "ly11_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_4_1_2",
+    "name": "Vận tốc SĐTM trong chân không ➔ $c = 3 \\cdot 10^8\\text{ m/s} = \\lambda f$",
+    "type": "STEP",
+    "parentId": "ly11_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_4_1_3",
+    "name": "Tia hồng ngoại ➔ Tác dụng nhiệt nổi bật, điều khiển từ xa, sấy khô",
+    "type": "STEP",
+    "parentId": "ly11_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_4_1_4",
+    "name": "Tia tử ngoại ➔ Tác dụng sinh học, diệt khuẩn, phát quang, bị thủy tinh hấp thụ mạnh",
+    "type": "STEP",
+    "parentId": "ly11_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_2_4_1_5",
+    "name": "Tia X ➔ Khả năng đâm xuyên mạnh, chiếu điện, chụp X-quang, kiểm tra khuyết tật kim loại",
+    "type": "STEP",
+    "parentId": "ly11_les_2_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_cat_dien_truong",
+    "name": "Điện trường & Tương tác tĩnh điện",
+    "type": "CATEGORY",
+    "parentId": "ly11_subject",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_dinh_luat_coulomb",
+    "name": "Lực tương tác Tĩnh điện",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dien_truong",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_1_1",
+    "name": "Định luật Coulomb & Tương tác Điện tích điểm",
+    "type": "LESSON",
+    "parentId": "ly11_top_dinh_luat_coulomb",
+    "examples": [
+      {
+        "id": "ly11_ex_3_1_1_1",
+        "question": "Bài toán Định luật Coulomb & Hệ Điện tích điểm Cân bằng: Hai điện tích điểm $q_1 = 2 \\cdot 10^{-8}\\text{ C}$ và $q_2 = -8 \\cdot 10^{-8}\\text{ C}$ đặt tại hai điểm $A, B$ cách nhau $10\\text{ cm}$ trong không khí. Tính lực tương tác tĩnh điện giữa chúng.",
+        "answer": "Bước 1 (Tóm tắt & Đổi đơn vị SI): $q_1 = 2 \\cdot 10^{-8}\\text{ C}$, $q_2 = -8 \\cdot 10^{-8}\\text{ C}$, $r = 10\\text{ cm} = 0,1\\text{ m}$, không khí $\\varepsilon = 1$, $k = 9 \\cdot 10^9\\text{ N}\\cdot\\text{m}^2/\\text{C}^2$.\nBước 2 (Né bẫy dấu & Áp dụng Coulomb): $F = k \\frac{|q_1 q_2|}{\\varepsilon r^2} = 9 \\cdot 10^9 \\cdot \\frac{|2 \\cdot 10^{-8} \\cdot (-8 \\cdot 10^{-8})|}{1 \\cdot 0,1^2}$.\nBước 3 (Tính toán): $F = 9 \\cdot 10^9 \\cdot \\frac{16 \\cdot 10^{-16}}{0,01} = 1,44 \\cdot 10^{-3}\\text{ N}$.\nBước 4 (Kết luận): Lực hút tĩnh điện giữa hai điện tích có độ lớn $1,44 \\cdot 10^{-3}\\text{ N}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_1_1_1",
+    "name": "Định luật Coulomb ➔ $F = k \\frac{|q_1 q_2|}{\\varepsilon r^2}$ (với $k = 9 \\cdot 10^9\\text{ N}\\cdot\\text{m}^2/\\text{C}^2$)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_1_1_2",
+    "name": "Tương tác ➔ Cùng dấu Đẩy nhau (Lực hướng ra xa), Trái dấu Hút nhau (Lực hướng vào nhau)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_1_1_3",
+    "name": "Độ dời cân bằng $q_0$ ➔ $\\vec{F}_0 = \\vec{F}_{10} + \\vec{F}_{20} = \\vec{0} \\Rightarrow \\vec{F}_{10} = -\\vec{F}_{20}$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_1_1_4",
+    "name": "Vị trí cân bằng $q_0$ ➔ Cùng dấu nằm TRONG đoạn $AB$, Trái dấu nằm NGOÀI đoạn $AB$ gần điện tích nhỏ hơn",
+    "type": "STEP",
+    "parentId": "ly11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_1_1_5",
+    "name": "Bẫy đơn vị $r$ ➔ BẮT BUỘC đổi $r$ sang mét (m) trước khi bấm máy!",
+    "type": "STEP",
+    "parentId": "ly11_les_3_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_cuong_do_dien_truong",
+    "name": "Cường độ Điện trường & Điện trường đều",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dien_truong",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_2_1",
+    "name": "Cường độ Điện trường Tổng hợp",
+    "type": "LESSON",
+    "parentId": "ly11_top_cuong_do_dien_truong",
+    "examples": [
+      {
+        "id": "ly11_ex_3_2_1_1",
+        "question": "Tính Cường độ Điện trường Tổng hợp: Hai điện tích $q_1 = 4 \\cdot 10^{-8}\\text{ C}$ và $q_2 = -4 \\cdot 10^{-8}\\text{ C}$ đặt tại $A, B$ cách nhau $6\\text{ cm}$ trong chân không. Tính cường độ điện trường tổng hợp tại trung điểm $M$ của $AB$.",
+        "answer": "Bước 1 (Tóm tắt & Đổi đơn vị): $r_1 = r_2 = AM = BM = 3\\text{ cm} = 0,03\\text{ m}$. $k = 9 \\cdot 10^9$.\nBước 2 (Tính thành phần): $E_1 = k \\frac{|q_1|}{r_1^2} = 9 \\cdot 10^9 \\cdot \\frac{4 \\cdot 10^{-8}}{0,03^2} = 4 \\cdot 10^5\\text{ V/m}$.\n$E_2 = k \\frac{|q_2|}{r_2^2} = 9 \\cdot 10^9 \\cdot \\frac{4 \\cdot 10^{-8}}{0,03^2} = 4 \\cdot 10^5\\text{ V/m}$.\nBước 3 (Nguyên lý chồng chất): Vì $q_1 > 0$ nên $\\vec{E}_1$ hướng từ $A \\rightarrow M$. $q_2 < 0$ nên $\\vec{E}_2$ hướng từ $M \\rightarrow B$. Vậy $\\vec{E}_1 \\uparrow\\uparrow \\vec{E}_2 \\Rightarrow E_M = E_1 + E_2 = 8 \\cdot 10^5\\text{ V/m}$.\nBước 4 (Kết luận): Cường độ điện trường tại $M$ có độ lớn $8 \\cdot 10^5\\text{ V/m}$, hướng từ $A$ đến $B$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_2_1_1",
+    "name": "Độ lớn CĐĐT điện tích điểm ➔ $E = k \\frac{|q|}{\\varepsilon r^2}$ (Đơn vị V/m)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_2_1_2",
+    "name": "Chiều vectơ CĐĐT ➔ $q > 0$ Hướng ra xa điện tích; $q < 0$ Hướng về phía điện tích",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_2_1_3",
+    "name": "Nguyên lý chồng chất ➔ $\\vec{E} = \\vec{E}_1 + \\vec{E}_2 + ... + \\vec{E}_n$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_2_1_4",
+    "name": "Cộng vectơ ➔ Cùng chiều $E = E_1 + E_2$; Ngược chiều $E = |E_1 - E_2|$; Vuông góc $E = \\sqrt{E_1^2 + E_2^2}$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_2_2",
+    "name": "Chuyển động của Hạt mang điện trong Điện trường đều",
+    "type": "LESSON",
+    "parentId": "ly11_top_cuong_do_dien_truong",
+    "examples": [
+      {
+        "id": "ly11_ex_3_2_2_1",
+        "question": "Chuyển động của Hạt mang điện trong Điện trường đều: Một electron ($m = 9,1 \\cdot 10^{-31}\\text{ kg}, q = -1,6 \\cdot 10^{-19}\\text{ C}$) bay vào điện trường đều giữa 2 bản kim loại tích điện trái dấu với vận tốc ban đầu $v_0 = 2 \\cdot 10^6\\text{ m/s}$ song song với 2 bản. Cường độ điện trường $E = 1000\\text{ V/m}$. Tính gia tốc của electron.",
+        "answer": "Bước 1 (Lực điện & Động lực học): Lực điện tác dụng $F = |q|E = 1,6 \\cdot 10^{-19} \\cdot 1000 = 1,6 \\cdot 10^{-16}\\text{ N}$.\nBước 2 (Tính gia tốc Newton II): $a = \\frac{F}{m} = \\frac{1,6 \\cdot 10^{-16}}{9,1 \\cdot 10^{-31}} \\approx 1,76 \\cdot 10^{14}\\text{ m/s}^2$.\nBước 3 (Kết luận): Gia tốc của electron có độ lớn $1,76 \\cdot 10^{14}\\text{ m/s}^2$, hướng ngược chiều vectơ $\\vec{E}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_2_2_1",
+    "name": "Lực điện trường ➔ $\\vec{F} = q \\vec{E}$ ($q > 0 \\Rightarrow \\vec{F} \\uparrow\\uparrow \\vec{E}$; $q < 0 \\Rightarrow \\vec{F} \\uparrow\\downarrow \\vec{E}$)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_2_2_2",
+    "name": "Gia tốc hạt mang điện ➔ $a = \\frac{|q|E}{m}$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_2_2_3",
+    "name": "Chuyển động ném ngang trong điện trường ➔ $x = v_0 t$, $y = \\frac{1}{2} a t^2 = \\frac{|q|E}{2m v_0^2} x^2$ (quỹ đạo Parabol)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_cong_the_nang_dien_the",
+    "name": "Công lực điện, Thế năng điện & Điện thế",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dien_truong",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_3_1",
+    "name": "Tính Công lực điện & Thế năng Điện tích",
+    "type": "LESSON",
+    "parentId": "ly11_top_cong_the_nang_dien_the",
+    "examples": [
+      {
+        "id": "ly11_ex_3_3_1_1",
+        "question": "Tính Công của Lực điện & Thế năng Điện tích trong Điện trường: Một điện tích $q = 5 \\cdot 10^{-9}\\text{ C}$ dịch chuyển từ điểm $M$ đến $N$ trong điện trường đều $E = 2000\\text{ V/m}$ dọc theo đường sức điện một khoảng $d = 5\\text{ cm}$. Tính công của lực điện trường.",
+        "answer": "Bước 1 (Tóm tắt & Đổi đơn vị SI): $q = 5 \\cdot 10^{-9}\\text{ C}$, $E = 2000\\text{ V/m}$, $d = 0,05\\text{ m}$ (vì dịch chuyển cùng chiều đường sức nên $d > 0$).\nBước 2 (Áp dụng công thức Anh Quên Em Đi): $A_{MN} = q E d = 5 \\cdot 10^{-9} \\cdot 2000 \\cdot 0,05 = 5 \\cdot 10^{-7}\\text{ J}$.\nBước 3 (Kết luận): Công của lực điện là $5 \\cdot 10^{-7}\\text{ J}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_3_1_1",
+    "name": "Công lực điện (Anh Quên Em Đi) ➔ $A_{MN} = q E d_{MN}$ ($d$ là hình chiếu đường đi lên đường sức)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_3_1_2",
+    "name": "Tính chất đặc biệt ➔ Công lực điện KHÔNG phụ thuộc hình dạng đường đi, chỉ phụ thuộc vị trí đầu và cuối",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_3_1_3",
+    "name": "Thế năng điện ➔ $W_M = A_{M\\infty} = q V_M$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_3_1_4",
+    "name": "Bẫy dấu $d$ ➔ Dịch chuyển cùng chiều $\\vec{E} \\Rightarrow d > 0$; Ngược chiều $\\vec{E} \\Rightarrow d < 0$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_3_2",
+    "name": "Điện thế, Hiệu điện thế & Mối liên hệ U = E.d",
+    "type": "LESSON",
+    "parentId": "ly11_top_cong_the_nang_dien_the",
+    "examples": [
+      {
+        "id": "ly11_ex_3_3_2_1",
+        "question": "Điện thế, Hiệu điện thế & Mối liên hệ $U = E \\cdot d$: Giữa hai bản kim loại phẳng song song tích điện trái dấu cách nhau $2\\text{ cm}$ có một hiệu điện thế $U = 100\\text{ V}$. Tính cường độ điện trường giữa hai bản.",
+        "answer": "Bước 1 (Tóm tắt & Đổi đơn vị): $d = 2\\text{ cm} = 0,02\\text{ m}$, $U = 100\\text{ V}$.\nBước 2 (Áp dụng liên hệ $U = E \\cdot d$): $E = \\frac{U}{d} = \\frac{100}{0,02} = 5000\\text{ V/m}$.\nBước 3 (Kết luận): Cường độ điện trường giữa hai bản là $5000\\text{ V/m}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_3_2_1",
+    "name": "Hiệu điện thế ➔ $U_{MN} = V_M - V_N = \\frac{A_{MN}}{q}$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_3_2_2",
+    "name": "Mối liên hệ điện trường đều ➔ $E = \\frac{U}{d}$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_3_2_3",
+    "name": "Định lý biến thiên động năng ➔ $W_{d_N} - W_{d_M} = A_{MN} = q U_{MN}$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_tu_dien",
+    "name": "Tụ điện & Năng lượng Điện trường",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dien_truong",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_4_1",
+    "name": "Bài toán Điện dung, Điện tích & Ghép Tụ điện",
+    "type": "LESSON",
+    "parentId": "ly11_top_tu_dien",
+    "examples": [
+      {
+        "id": "ly11_ex_3_4_1_1",
+        "question": "Bài toán Điện dung, Điện tích & Mắc Bộ Tụ điện: Cho hai tụ điện $C_1 = 3\\ \\mu\\text{F}$ và $C_2 = 6\\ \\mu\\text{F}$ mắc nối tiếp vào hiệu điện thế $U = 12\\text{ V}$. Tính điện dung tương đương của bộ tụ và điện tích trên tụ $C_1$.",
+        "answer": "Bước 1 (Tính $C_{tđ}$ mắc nối tiếp): $\\frac{1}{C_{tđ}} = \\frac{1}{C_1} + \\frac{1}{C_2} \\Rightarrow C_{tđ} = \\frac{C_1 C_2}{C_1 + C_2} = \\frac{3 \\cdot 6}{3 + 6} = 2\\ \\mu\\text{F}$.\nBước 2 (Tính điện tích bộ tụ): $Q_b = C_{tđ} \\cdot U = 2 \\cdot 10^{-6} \\cdot 12 = 24 \\cdot 10^{-6}\\text{ C} = 24\\ \\mu\\text{C}$.\nBước 3 (Tính $Q_1$): Vì $C_1$ mắc nối tiếp $C_2 \\Rightarrow Q_1 = Q_2 = Q_b = 24\\ \\mu\\text{C}$.\nBước 4 (Kết luận): $C_{tđ} = 2\\ \\mu\\text{F}$, điện tích $Q_1 = 24\\ \\mu\\text{C}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_4_1_1",
+    "name": "Định nghĩa điện dung ➔ $C = \\frac{Q}{U}$ (Đơn vị Farad - F)",
+    "type": "STEP",
+    "parentId": "ly11_les_3_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_4_1_2",
+    "name": "Bộ tụ nối tiếp ➔ $\\frac{1}{C_{tđ}} = \\frac{1}{C_1} + \\frac{1}{C_2}$; $Q = Q_1 = Q_2$; $U = U_1 + U_2$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_4_1_3",
+    "name": "Bộ tụ song song ➔ $C_{tđ} = C_1 + C_2$; $Q = Q_1 + Q_2$; $U = U_1 = U_2$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_4_1_4",
+    "name": "Bẫy công thức ghép tụ ➔ Bộ tụ mắc NỐI TIẾP có công thức tính giống điện trở mắc SONG SONG!",
+    "type": "STEP",
+    "parentId": "ly11_les_3_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_3_4_2",
+    "name": "Năng lượng Tụ điện & Phóng điện",
+    "type": "LESSON",
+    "parentId": "ly11_top_tu_dien",
+    "examples": [
+      {
+        "id": "ly11_ex_3_4_2_1",
+        "question": "Bài toán Năng lượng Tụ điện & Ứng dụng Phóng điện thực tế: Một tụ điện có điện dung $C = 10\\ \\mu\\text{F}$ được tích điện đến hiệu điện thế $U = 100\\text{ V}$. Tính năng lượng điện trường tích trữ trong tụ điện.",
+        "answer": "Bước 1 (Đổi đơn vị SI): $C = 10 \\cdot 10^{-6}\\text{ F} = 10^{-5}\\text{ F}$, $U = 100\\text{ V}$.\nBước 2 (Áp dụng công thức năng lượng): $W = \\frac{1}{2} C U^2 = \\frac{1}{2} \\cdot 10^{-5} \\cdot 100^2 = 0,05\\text{ J}$.\nBước 3 (Kết luận): Năng lượng điện trường trong tụ là $0,05\\text{ J}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_3_4_2_1",
+    "name": "Công thức Năng lượng tụ ➔ $W = \\frac{1}{2} C U^2 = \\frac{1}{2} \\frac{Q^2}{C} = \\frac{1}{2} Q U$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_4_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_3_4_2_2",
+    "name": "Mật độ năng lượng điện trường ➔ $w = \\frac{1}{2}\\varepsilon \\varepsilon_0 E^2$",
+    "type": "STEP",
+    "parentId": "ly11_les_3_4_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_cat_dong_dien_mach_dien",
+    "name": "Dòng điện không đổi & Mạch điện",
+    "type": "CATEGORY",
+    "parentId": "ly11_subject",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_cuong_do_dong_dien",
+    "name": "Cường độ Dòng điện & Hạt mang điện",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dong_dien_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_1_1",
+    "name": "Bài toán Điện lượng & Biểu thức Dòng điện",
+    "type": "LESSON",
+    "parentId": "ly11_top_cuong_do_dong_dien",
+    "examples": [
+      {
+        "id": "ly11_ex_4_1_1_1",
+        "question": "Bài toán Điện lượng & Biểu thức Dòng điện trong Dây dẫn: Một dây dẫn đồng có tiết diện $S = 1\\text{ mm}^2$ có dòng điện $I = 2\\text{ A}$ chạy qua. Mật độ electron tự do trong đồng là $n = 8,5 \\cdot 10^{28}\\text{ m}^{-3}$. Tính tốc độ trôi của electron.",
+        "answer": "Bước 1 (Đổi đơn vị SI): $S = 1\\text{ mm}^2 = 10^{-6}\\text{ m}^2$, $e = 1,6 \\cdot 10^{-19}\\text{ C}$.\nBước 2 (Áp dụng công thức dòng điện trôi): $I = S \\cdot n \\cdot v \\cdot e \\Rightarrow v = \\frac{I}{S \\cdot n \\cdot e}$.\nBước 3 (Tính toán): $v = \\frac{2}{10^{-6} \\cdot 8,5 \\cdot 10^{28} \\cdot 1,6 \\cdot 10^{-19}} = \\frac{2}{13,6} \\approx 0,147 \\cdot 10^{-3}\\text{ m/s} = 0,147\\text{ mm/s}$.\nBước 4 (Kết luận): Tốc độ trôi của electron là $0,147\\text{ mm/s}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_1_1_1",
+    "name": "Định nghĩa CĐ dòng điện ➔ $I = \\frac{\\Delta q}{\\Delta t}$ (Đơn vị Ampe - A)",
+    "type": "STEP",
+    "parentId": "ly11_les_4_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_1_1_2",
+    "name": "Dòng điện trôi hạt mang điện ➔ $I = S \\cdot n \\cdot v \\cdot e$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_1_1_3",
+    "name": "Bẫy đơn vị tiết diện ➔ Bắt buộc đổi $S$ từ $\\text{mm}^2 \\rightarrow \\text{m}^2$ (nhân $10^{-6}$)",
+    "type": "STEP",
+    "parentId": "ly11_les_4_1_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_dien_tro_dinh_luat_ohm",
+    "name": "Điện trở & Định luật Ohm",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dong_dien_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_2_1",
+    "name": "Định luật Ohm cho Đoạn mạch & Điện trở theo Nhiệt độ",
+    "type": "LESSON",
+    "parentId": "ly11_top_dien_tro_dinh_luat_ohm",
+    "examples": [
+      {
+        "id": "ly11_ex_4_2_1_1",
+        "question": "Định luật Ohm cho Đoạn mạch & Sự phụ thuộc Nhiệt độ: Một dây điện trở đồng ở $20^\\circ\text{C}$ có điện trở $R_0 = 50\\ \\Omega$. Biết hệ số nhiệt điện trở của đồng là $\\alpha = 4,3 \\cdot 10^{-3}\\text{ K}^{-1}$. Tính điện trở của dây này ở $70^\\circ\text{C}$.",
+        "answer": "Bước 1 (Xác định độ chênh lệch nhiệt độ): $\\Delta t = 70 - 20 = 50^\\circ\text{C}$.\nBước 2 (Áp dụng công thức phụ thuộc nhiệt độ): $R = R_0 (1 + \\alpha \\Delta t) = 50 \\cdot [1 + 4,3 \\cdot 10^{-3} \\cdot 50]$.\nBước 3 (Tính toán): $R = 50 \\cdot [1 + 0,215] = 50 \\cdot 1,215 = 60,75\\ \\Omega$.\nBước 4 (Kết luận): Điện trở ở $70^\\circ\text{C}$ là $60,75\\ \\Omega$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_2_1_1",
+    "name": "Định luật Ohm đoạn mạch ➔ $I = \\frac{U}{R}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_2_1_2",
+    "name": "Điện trở dây dẫn ➔ $R = \\rho \\frac{l}{S}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_2_1_3",
+    "name": "Điện trở theo nhiệt độ ➔ $R = R_0 [1 + \\alpha (t - t_0)]$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_2_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_2_2",
+    "name": "Đồ thị Đặc trưng Vôn - Ampe (I - U)",
+    "type": "LESSON",
+    "parentId": "ly11_top_dien_tro_dinh_luat_ohm",
+    "examples": [
+      {
+        "id": "ly11_ex_4_2_2_1",
+        "question": "Đồ thị Đặc trưng Vôn – Ampe ($I-U$) của các Linh kiện Điện tử: Đồ thị $I-U$ của một điện trở tuyến tính là đường thẳng đi qua gốc tọa độ và điểm $U = 6\\text{ V}, I = 0,5\\text{ A}$. Xác định giá trị điện trở $R$.",
+        "answer": "Bước 1 (Đọc tọa độ đồ thị): Đồ thị $I-U$ là đường thẳng đi qua gốc tọa độ và điểm $U = 6\\text{ V}, I = 0,5\\text{ A}$.\nBước 2 (Tính độ dốc & Điện trở): $R = \\frac{U}{I} = \\frac{6}{0,5} = 12\\ \\Omega$.\nBước 3 (Kết luận): Điện trở $R = 12\\ \\Omega$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_2_2_1",
+    "name": "Đặc tuyến $I-U$ điện trở thuần ➔ Đường thẳng qua gốc $O$, độ dốc $\\tan\\theta = 1/R$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_2_2_2",
+    "name": "Linh kiện phi tuyến (Diode, Đèn dây tóc) ➔ Đường cong không tuân theo định luật Ohm thuần túy",
+    "type": "STEP",
+    "parentId": "ly11_les_4_2_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_nguon_dien_mach_kin",
+    "name": "Nguồn điện & Mạch điện Kín",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dong_dien_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_3_1",
+    "name": "Suất điện động & Định luật Ohm cho Toàn mạch",
+    "type": "LESSON",
+    "parentId": "ly11_top_nguon_dien_mach_kin",
+    "examples": [
+      {
+        "id": "ly11_ex_4_3_1_1",
+        "question": "Suất điện động, Điện trở trong & Định luật Ohm cho Toàn mạch: Cho mạch điện gồm nguồn điện có suất điện động $\\mathcal{E} = 12\\text{ V}$, điện trở trong $r = 1\\ \\Omega$ cung cấp điện cho mạch ngoài có điện trở $R_N = 5\\ \\Omega$. Tính cường độ dòng điện trong mạch và hiệu điện thế hai đầu nguồn điện.",
+        "answer": "Bước 1 (Tóm tắt): $\\mathcal{E} = 12\\text{ V}$, $r = 1\\ \\Omega$, $R_N = 5\\ \\Omega$.\nBước 2 (Áp dụng Định luật Ohm cho toàn mạch): $I = \\frac{\\mathcal{E}}{R_N + r} = \\frac{12}{5 + 1} = 2\\text{ A}$.\nBước 3 (Tính hiệu điện thế hai đầu nguồn): $U_N = I \\cdot R_N = 2 \\cdot 5 = 10\\text{ V}$ (hoặc $U_N = \\mathcal{E} - I r = 12 - 2 \\cdot 1 = 10\\text{ V}$).\nBước 4 (Kết luận): Dòng điện trong mạch $I = 2\\text{ A}$, hiệu điện thế ngoài $U_N = 10\\text{ V}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_3_1_1",
+    "name": "Định luật Ohm toàn mạch ➔ $I = \\frac{\\mathcal{E}}{R_N + r}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_3_1_2",
+    "name": "Hiệu điện thế mạch ngoài ➔ $U_N = I \\cdot R_N = \\mathcal{E} - I r$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_3_1_3",
+    "name": "Hiện tượng đoản mạch ➔ Khi $R_N = 0 \\Rightarrow I_{max} = \\frac{\\mathcal{E}}{r}$ (Gây nguy hiểm nổ mạch)",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_3_1_4",
+    "name": "Bẫy hiệu điện thế nguồn ➔ $U_N$ LUÔN NHỎ HƠN $\\mathcal{E}$ khi mạch kín có $r > 0$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_3_2",
+    "name": "Bài toán Mắc bộ Nguồn & Thực hành Đo E, r",
+    "type": "LESSON",
+    "parentId": "ly11_top_nguon_dien_mach_kin",
+    "examples": [
+      {
+        "id": "ly11_ex_4_3_2_1",
+        "question": "Bài toán Mắc bộ Nguồn & Thực hành Đo Suất điện động / Điện trở trong: Có 4 pin giống nhau mỗi pin có $\\mathcal{E}_0 = 1,5\\text{ V}$, $r_0 = 0,25\\ \\Omega$ được mắc nối tiếp thành một bộ nguồn. Bộ nguồn này nối với $R = 5\\ \\Omega$. Tính cường độ dòng điện trong mạch.",
+        "answer": "Bước 1 (Tính thông số bộ nguồn nối tiếp): $\\mathcal{E}_b = 4 \\mathcal{E}_0 = 4 \\cdot 1,5 = 6\\text{ V}$. $r_b = 4 r_0 = 4 \\cdot 0,25 = 1\\ \\Omega$.\nBước 2 (Áp dụng Định luật Ohm toàn mạch): $I = \\frac{\\mathcal{E}_b}{R + r_b} = \\frac{6}{5 + 1} = 1\\text{ A}$.\nBước 3 (Kết luận): Cường độ dòng điện qua mạch là $1\\text{ A}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_3_2_1",
+    "name": "Bộ nguồn nối tiếp ➔ $\\mathcal{E}_b = n \\mathcal{E}_0$, $r_b = n r_0$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_3_2_2",
+    "name": "Bộ nguồn song song ($m$ nhánh giống nhau) ➔ $\\mathcal{E}_b = \\mathcal{E}_0$, $r_b = \\frac{r_0}{m}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_3_2_3",
+    "name": "Mẹo Casio giải đồ thị $U-I$ nguồn ➔ Giải hệ phương trình $U_1 = \\mathcal{E} - I_1 r$ và $U_2 = \\mathcal{E} - I_2 r \\Rightarrow (\\mathcal{E}, r)$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_3_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_top_nang_luong_cong_suat",
+    "name": "Năng lượng Điện & Công suất Điện",
+    "type": "TOPIC",
+    "parentId": "ly11_cat_dong_dien_mach_dien",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_4_1",
+    "name": "Công, Công suất, Nhiệt lượng Joule-Lenz & Hiệu suất",
+    "type": "LESSON",
+    "parentId": "ly11_top_nang_luong_cong_suat",
+    "examples": [
+      {
+        "id": "ly11_ex_4_4_1_1",
+        "question": "Tính Công, Công suất Điện, Nhiệt lượng Joule – Lenz & Hiệu suất Mạch điện: Một nguồn điện $\\mathcal{E} = 12\\text{ V}, r = 2\\ \\Omega$ nối với mạch ngoài $R_N = 10\\ \\Omega$. Tính công suất tỏa nhiệt trên $R_N$ và hiệu suất của nguồn điện.",
+        "answer": "Bước 1 (Tính dòng điện mạch): $I = \\frac{\\mathcal{E}}{R_N + r} = \\frac{12}{10 + 2} = 1\\text{ A}$.\nBước 2 (Công suất tỏa nhiệt mạch ngoài): $P_N = I^2 R_N = 1^2 \\cdot 10 = 10\\text{ W}$.\nBước 3 (Tính hiệu suất nguồn): $H = \\frac{R_N}{R_N + r} \\cdot 100\\% = \\frac{10}{10 + 2} \\cdot 100\\% = 83,33\\%$.\nBước 4 (Kết luận): Công suất mạch ngoài $P_N = 10\\text{ W}$, Hiệu suất $H = 83,33\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_4_1_1",
+    "name": "Công toàn mạch của nguồn ➔ $A_g = \\mathcal{E} I t$, Công suất nguồn ➔ $P_g = \\mathcal{E} I$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_4_1_2",
+    "name": "Định luật Joule-Lenz ➔ $Q = I^2 R t$, Công suất tiêu thụ ➔ $P = I^2 R = U I = \\frac{U^2}{R}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_4_1_3",
+    "name": "Hiệu suất nguồn điện ➔ $H = \\frac{U_N}{\\mathcal{E}} = \\frac{R_N}{R_N + r} \\cdot 100\\%$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_4_1",
+    "examples": null
+  },
+  {
+    "id": "ly11_les_4_4_2",
+    "name": "Bài toán Tiền điện & An toàn Điện",
+    "type": "LESSON",
+    "parentId": "ly11_top_nang_luong_cong_suat",
+    "examples": [
+      {
+        "id": "ly11_ex_4_4_2_1",
+        "question": "Bài toán Tiền điện Thực tế, Công suất Đỉnh / Định mức & An toàn Điện: Một gia đình sử dụng 1 điều hòa công suất $1000\\text{ W}$ trung bình 8 giờ mỗi ngày. Tính điện năng tiêu thụ của điều hòa trong 30 ngày theo đơn vị kWh (số điện).",
+        "answer": "Bước 1 (Tính tổng số giờ sử dụng): $t = 8 \\cdot 30 = 240\\text{ giờ}$.\nBước 2 (Tính năng lượng kWh): $W = P \\cdot t = 1\\text{ kW} \\cdot 240\\text{ h} = 240\\text{ kWh}$.\nBước 3 (Kết luận): Điều hòa tiêu thụ 240 kWh (240 số điện) trong 30 ngày.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ly11_stp_4_4_2_1",
+    "name": "Đơn vị điện năng ➔ $1\\text{ kWh} = 1\\text{ số điện} = 3,6 \\cdot 10^6\\text{ J}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_4_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_4_2_2",
+    "name": "Tính tiền điện ➔ $W\\text{ (kWh)} \\times \\text{Đơn giá bậc thang}$",
+    "type": "STEP",
+    "parentId": "ly11_les_4_4_2",
+    "examples": null
+  },
+  {
+    "id": "ly11_stp_4_4_2_3",
+    "name": "An toàn điện ➔ Sử dụng cầu chì/Aptomat (MCB), nối đất vỏ thiết bị kim loại",
+    "type": "STEP",
+    "parentId": "ly11_les_4_4_2",
+    "examples": null
+  }
+]

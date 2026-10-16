@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "ls11_subject_history",
+    "name": "Lịch sử 11",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "ls11_cat_cmts_cntb",
+    "name": "Cách mạng tư sản & Sự phát triển của chủ nghĩa tư bản",
+    "type": "CATEGORY",
+    "parentId": "ls11_subject_history",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_cmts_tiende",
+    "name": "Tiền đề, mục tiêu, động lực và tính chất của Cách mạng tư sản",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_cmts_cntb",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cmts_tiende_pt",
+    "name": "Phân tích tiền đề kinh tế, chính trị, xã hội, tư tưởng dẫn đến bùng nổ CMTS",
+    "type": "LESSON",
+    "parentId": "ls11_top_cmts_tiende",
+    "examples": [
+      {
+        "id": "ls11_ex_cmts_tiende_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích tiền đề kinh tế và tư tưởng quyết định sự bùng nổ của Cách mạng tư sản Anh thế kỉ XVII.",
+        "answer": "Bối cảnh & Né bẫy: XVI-XVII, Anh xuất hiện quan hệ sản xuất TBCN nhưng bị chế độ phong kiến Stiu-ớt kìm hãm. Né bẫy: Tư tưởng Thanh giáo không thay thế vai trò của tư sản mà là ngọn cờ tập hợp ➔ Từ khóa: LLSX TBCN + Thanh giáo ➔ Biện luận: Sự phát triển kinh tế TBCN tạo ra lực lượng tư sản & quý tộc mới; hệ tư tưởng Thanh giáo dọn đường tư tưởng ➔ Kết luận: Tiền đề kinh tế là gốc rễ, tư tưởng là ngọn cờ quyết định bùng nổ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_1_1_1_1",
+    "name": "STEP Lý thuyết ➔ Kinh tế TBCN phát triển + Bị phong kiến kìm hãm ➔ Mâu thuẫn xã hội gay gắt",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_tiende_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_1_1_2",
+    "name": "STEP Phương pháp ➔ Tư duy nhân quả hệ thống: Nguyên nhân sâu xa (Kinh tế) + Tiền đề trực tiếp (Tư tưởng, Chính trị)",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_tiende_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_1_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách từ khóa đề bài ➔ Nhận diện mâu thuẫn giai cấp gốc ➔ Xác định giai cấp lãnh đạo",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_tiende_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_1_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn giữa ngọn cờ tư tưởng (Thanh giáo/Triết học Ánh sáng) với nguyên nhân gốc rễ (Kinh tế)",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_tiende_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cmts_sosanh",
+    "name": "So sánh mục tiêu, nhiệm vụ, giai cấp lãnh đạo và động lực của các cuộc CMTS tiêu biểu",
+    "type": "LESSON",
+    "parentId": "ls11_top_cmts_tiende",
+    "examples": [
+      {
+        "id": "ls11_ex_cmts_sosanh_01",
+        "question": "[Dạng bài Lịch sử]: So sánh điểm khác biệt về nhiệm vụ dân tộc và dân chủ giữa Cách mạng tư sản Anh và Chiến tranh dành độc lập 13 thuộc địa Anh ở Bắc Mỹ.",
+        "answer": "Bối cảnh & Né bẫy: Cả hai đều là CMTS nhưng Bắc Mỹ kết hợp giải phóng dân tộc. Né bẫy: Bắc Mỹ không nhằm lật đổ phong kiến trong nước mà lật đổ ách trị thực dân Anh ➔ Từ khóa: Anh = Dân chủ (lật đổ phong kiến); Bắc Mỹ = Dân tộc + Dân chủ (độc lập + TBCN) ➔ Biện luận: Anh giải quyết mâu thuẫn nội bộ; Bắc Mỹ giải quyết mâu thuẫn dân tộc với chính quốc ➔ Kết luận: Bắc Mỹ mang tính chất giải phóng dân tộc rõ rệt hơn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_1_1_2_1",
+    "name": "STEP Lý thuyết ➔ Mục tiêu = Xóa bỏ rào cản phong kiến/thực dân + Mở đường cho CNTB phát triển",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_1_2_2",
+    "name": "STEP Phương pháp ➔ Bảng so sánh 4 tiêu chí: Mục tiêu, Nhiệm vụ, Lãnh đạo, Động lực quần chúng",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_1_2_3",
+    "name": "STEP Thuật toán ➔ Phân lập bản chất: Nhiệm vụ Dân tộc (Độc lập/Thống nhất) # Nhiệm vụ Dân chủ (Quyền sống/Ruộng đất)",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_1_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn giai cấp lãnh đạo: Anh (Tư sản + Quý tộc mới) # Mỹ (Tư sản + Chủ nô) # Pháp (Tư sản)",
+    "type": "STEP",
+    "parentId": "ls11_les_cmts_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_cntb_xaclap",
+    "name": "Quá trình xác lập và phát triển của Chủ nghĩa tư bản",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_cmts_cntb",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cntb_xamluoc",
+    "name": "Đánh giá sự mở rộng phạm vi và quá trình xâm lược thuộc địa của Chủ nghĩa tư bản",
+    "type": "LESSON",
+    "parentId": "ls11_top_cntb_xaclap",
+    "examples": [
+      {
+        "id": "ls11_ex_cntb_xamluoc_01",
+        "question": "[Dạng bài Lịch sử]: Đánh giá mối liên hệ giữa sự phát triển kinh tế TBCN với chính sách xâm lược thuộc địa của các nước Âu - Mỹ thế kỉ XIX.",
+        "answer": "Bối cảnh & Né bẫy: Cách mạng công nghiệp hoàn thành thúc đẩy sản xuất bùng nổ. Né bẫy: Xâm lược thuộc địa không xuất phát từ ý muốn chủ quan mà do nhu cầu tất yếu của kinh tế TBCN ➔ Từ khóa: CMCN ➔ Tìm thị trường + Nguyên liệu + Nhân công ➔ Biện luận: Nền sản xuất lớn TBCN đòi hỏi mở rộng không gian kinh tế vượt khỏi biên giới quốc gia ➔ Kết luận: Thuộc địa là điều kiện sinh tồn của CNTB Âu - Mỹ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_1_2_1_1",
+    "name": "STEP Lý thuyết ➔ CNTB mở rộng: Châu Âu, Bắc Mỹ ➔ Châu Á, Châu Phi, Mỹ La-tinh qua xâm lược thuộc địa",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_xamluoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_1_2",
+    "name": "STEP Phương pháp ➔ Tư duy không gian - thời gian: CMCN ➔ Khát khao nguyên liệu/thị trường ➔ Toàn cầu hóa thuộc địa",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_xamluoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_1_3",
+    "name": "STEP Thuật toán ➔ Lập bản đồ tiến trình: Nửa sau XVII (Anh, Hà Lan) ➔ Giữa XIX (Đức, Ý) ➔ Hệ thống thuộc địa toàn cầu",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_xamluoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn mục đích xâm lược: Không phải khai hóa văn minh mà là bóc lột kinh tế và nô dịch chính trị",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_xamluoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cntb_docquyen",
+    "name": "Phân tích nguyên nhân sâu xa dẫn đến sự chuyển biến từ CNTB tự do cạnh tranh sang độc quyền",
+    "type": "LESSON",
+    "parentId": "ls11_top_cntb_xaclap",
+    "examples": [
+      {
+        "id": "ls11_ex_cntb_docquyen_01",
+        "question": "[Dạng bài Lịch sử]: Giải thích nguyên nhân cốt lõi dẫn đến sự chuyển biến của CNTB từ tự do cạnh tranh sang giai đoạn độc quyền cuối XIX - đầu XX.",
+        "answer": "Bối cảnh & Né bẫy: Cuối XIX - đầu XX, khoa học - kỹ thuật phát triển mạnh. Né bẫy: Độc quyền không xóa bỏ cạnh tranh mà làm cạnh tranh gay gắt hơn ➔ Từ khóa: Tiến bộ KHKT + Cạnh tranh ➔ Tích tụ & Tập trung sản xuất ➔ Tổ chức độc quyền ➔ Biện luận: Cạnh tranh tự do dẫn đến tập trung tư bản vào tay số ít tập đoàn chi phối kinh tế - chính trị ➔ Kết luận: Tập trung sản xuất là nguyên nhân trực tiếp sinh ra độc quyền.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_1_2_2_1",
+    "name": "STEP Lý thuyết ➔ CNTB Độc quyền = LLSX phát triển + Cạnh tranh gay gắt ➔ Tích tụ tư bản ➔ Các-ten, Xanh-đi-ca, Tơ-rớt",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_docquyen",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_2_2",
+    "name": "STEP Phương pháp ➔ Sơ đồ nguyên nhân - kết quả: Tiến bộ KHKT ➔ Sản xuất quy mô lớn ➔ Xuất hiện các tập đoàn độc quyền",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_docquyen",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_2_3",
+    "name": "STEP Thuật toán ➔ Bóc tách đặc điểm: Tư bản tài chính + Xuất khẩu tư bản + Phân chia thị trường thế giới",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_docquyen",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né quan niệm sai lầm: Độc quyền làm tiêu vong cạnh tranh (Thực tế: Cạnh tranh độc quyền khốc liệt hơn)",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_docquyen",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cntb_hiendai",
+    "name": "Đánh giá tiềm năng, thách thức và bản chất của Chủ nghĩa tư bản hiện đại",
+    "type": "LESSON",
+    "parentId": "ls11_top_cntb_xaclap",
+    "examples": [
+      {
+        "id": "ls11_ex_cntb_hiendai_01",
+        "question": "[Dạng bài Lịch sử]: Đánh giá tiềm năng và những thách thức toàn cầu của Chủ nghĩa tư bản hiện đại trong thế kỉ XXI.",
+        "answer": "Bối cảnh & Né bẫy: Chủ nghĩa tư bản hiện đại có sức sản xuất phát triển mạnh mẽ dựa trên thành tựu Cách mạng khoa học - công nghệ. Né bẫy: Quá trình tự điều chỉnh và mở rộng không gian kinh tế toàn cầu giúp CNTB duy trì sức sống ổn định tương đối nhưng không thể giải quyết triệt để các mâu thuẫn và khủng hoảng kinh tế nội tại của hệ thống. ➔ Từ khóa: Tiềm năng thích ứng + Khủng hoảng chu kỳ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_1_2_3_1",
+    "name": "STEP Lý thuyết ➔ CNTB Hiện đại = Tự do điều chỉnh + Ứng dụng CM CN 4.0 + Toàn cầu hóa ➔ Duy trì sức sống",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_hiendai",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_3_2",
+    "name": "STEP Phương pháp ➔ Phân tích hai mặt (Mặt tiến bộ & Hạn chế bản chất): Tiềm năng LLSX # Mâu thuẫn xã hội sâu sắc",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_hiendai",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_3_3",
+    "name": "STEP Thuật toán ➔ Nhận diện khái niệm: CNTB độc quyền nhà nước + Lực lượng lao động tri thức + Toàn cầu hóa",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_hiendai",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_1_2_3_4",
+    "name": "STEP Nhận diện bẫy ➔ Né đánh giá phiến diện: Hoặc phủ nhận hoàn toàn thành tựu CNTB hoặc cho rằng CNTB đã giải quyết hết mâu thuẫn",
+    "type": "STEP",
+    "parentId": "ls11_les_cntb_hiendai",
+    "examples": null
+  },
+  {
+    "id": "ls11_cat_cnxh",
+    "name": "Sự hình thành và phát triển của Chủ nghĩa xã hội từ 1917 đến nay",
+    "type": "CATEGORY",
+    "parentId": "ls11_subject_history",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_cnxh_radoi",
+    "name": "Sự ra đời và củng cố của Nhà nước xã hội chủ nghĩa đầu tiên trên thế giới",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_cnxh",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cmtm_nga",
+    "name": "Đánh giá ý nghĩa lịch sử và thời đại của Cách mạng tháng Mười Nga & sự thành lập Liên Xô",
+    "type": "LESSON",
+    "parentId": "ls11_top_cnxh_radoi",
+    "examples": [
+      {
+        "id": "ls11_ex_cmtm_nga_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích ý nghĩa thời đại của Cách mạng tháng Mười Nga năm 1917 đối với phong trào giải phóng dân tộc ở phương Đông.",
+        "answer": "Bối cảnh & Né bẫy: Tháng 10/1917, Đảng Bôn-xê-vích lãnh đạo công nông lật đổ chính phủ tư sản lâm thời. Né bẫy: CM Tháng Mười không chỉ là cách mạng xã hội chủ nghĩa mà còn gắn liền giải phóng dân tộc bị trị ➔ Từ khóa: Mở ra kỷ nguyên mới + Thức tỉnh phương Đông + Gắn CMGPDT với CMXHCN ➔ Biện luận: Lần đầu tiên công nông nắm quyền; chứng minh giai cấp công nhân lãnh đạo thành công, vạch ra đường lối giải phóng dân tộc theo con đường vô sản ➔ Kết luận: Mở ra thời kỳ mới cho phong trào cách mạng thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_2_1_1_1",
+    "name": "STEP Lý thuyết ➔ CM Tháng Mười 1917 ➔ Đập tan bộ máy tư sản ➔ Nhà nước Công - Nông ➔ Liên Xô thành lập 1922",
+    "type": "STEP",
+    "parentId": "ls11_les_cmtm_nga",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_1_1_2",
+    "name": "STEP Phương pháp ➔ Phân biệt Ý nghĩa Quốc gia (Thay đổi vận mệnh Nga) # Ý nghĩa Thời đại (Mở ra thời kỳ Lịch sử hiện đại)",
+    "type": "STEP",
+    "parentId": "ls11_les_cmtm_nga",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_1_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách bước ngoặt: Chuyển từ CM dân chủ tư sản (Tháng Hai) ➔ CM XHCN (Tháng Mười)",
+    "type": "STEP",
+    "parentId": "ls11_les_cmtm_nga",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_1_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn tính chất: Tháng Hai 1917 = Dân chủ tư sản kiểu mới # Tháng Mười 1917 = Xã hội chủ nghĩa",
+    "type": "STEP",
+    "parentId": "ls11_les_cmtm_nga",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_cnxh_phattrien",
+    "name": "Sự phát triển, khủng hoảng và công cuộc đổi mới/cải cách của CNXH",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_cnxh",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cnxh_morong",
+    "name": "Phân tích quá trình mở rộng của CNXH ở Đông Âu, Châu Á và Mỹ La-tinh sau CTTG2",
+    "type": "LESSON",
+    "parentId": "ls11_top_cnxh_phattrien",
+    "examples": [
+      {
+        "id": "ls11_ex_cnxh_morong_01",
+        "question": "[Dạng bài Lịch sử]: Đánh giá tác động của sự phát triển CNXH ở Đông Âu, Châu Á và Mỹ La-tinh đến quan hệ quốc tế sau Chiến tranh thế giới thứ hai.",
+        "answer": "Bối cảnh & Né bẫy: Sau 1945, CNXH vượt khỏi phạm vi một nước trở thành hệ thống thế giới. Né bẫy: Sự hình thành hệ thống không phải do Liên Xô áp đặt hoàn toàn mà xuất phát từ phong trào cách mạng nội tại các nước ➔ Từ khóa: Hệ thống thế giới + Xóa bỏ trật tự đơn cực TBCN + Chỗ dựa phong trào giải phóng dân tộc ➔ Biện luận: CNXH trở thành lực lượng đối trọng với CNTB, làm thay đổi cục diện chính trị thế giới ➔ Kết luận: Hệ thống CNXH là nhân tố bảo vệ hòa bình thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_2_2_1_1",
+    "name": "STEP Lý thuyết ➔ Từ một nước (Liên Xô) ➔ Hệ thống thế giới (Đông Âu, Trung Quốc, Việt Nam, Bắc Triều Tiên, Cuba)",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_morong",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_1_2",
+    "name": "STEP Phương pháp ➔ Tư duy hệ thống: Tiến trình lịch sử từ thắng lợi phát xít ➔ Mở rộng không gian địa lý CNXH",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_morong",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_1_3",
+    "name": "STEP Thuật toán ➔ Đánh giá mốc sự kiện: 1945-1949 (Đông Âu) + 1949 (Trung Quốc) + 1959 (Cuba) ➔ Hệ thống hoàn chỉnh",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_morong",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn thời điểm: CNXH trở thành hệ thống thế giới gắn liền sự ra đời nước CHND Trung Hoa (1949)",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_morong",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cnxh_supdo",
+    "name": "Trích xuất nguyên nhân cốt lõi dẫn đến sự sụp đổ mô hình CNXH ở Liên Xô và Đông Âu",
+    "type": "LESSON",
+    "parentId": "ls11_top_cnxh_phattrien",
+    "examples": [
+      {
+        "id": "ls11_ex_cnxh_supdo_01",
+        "question": "[Dạng bài Lịch sử]: Trích xuất nguyên nhân sâu xa và nguyên nhân trực tiếp dẫn đến sự sụp đổ mô hình CNXH ở Liên Xô và Đông Âu.",
+        "answer": "Bối cảnh & Né bẫy: 1989-1991, chế độ XHCN ở Đông Âu và Liên Xô sụp đổ. Né bẫy: Sụp đổ mô hình XHCN cụ thể không có nghĩa là sự phá sản của lý luận CNXH khoa học ➔ Từ khóa: Nguyên nhân sâu xa (Mô hình quan liêu bao cấp + Chậm đổi mới) # Trực tiếp (Sai lầm Cải tổ + Chống phá bên ngoài) ➔ Biện luận: Mô hình kinh tế tập trung quan liêu làm triệt tiêu động lực phát triển; khi cải tổ lại rời xa nguyên tắc Mác-Lênin ➔ Kết luận: Sụp đổ do mô hình bị biến dạng chứ không phải do bản chất lý luận CNXH.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_2_2_2_1",
+    "name": "STEP Lý thuyết ➔ Mô hình tập trung quan liêu bao cấp + Chậm cải cách KHKT + Sai lầm cải tổ ➔ Sụp đổ 1991",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_supdo",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_2_2",
+    "name": "STEP Phương pháp ➔ Phân tích nguyên nhân Nội tại (Gốc rễ) # Bên ngoài (Tác động Diễn biến hòa bình)",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_supdo",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_2_3",
+    "name": "STEP Thuật toán ➔ Bóc tách bẫy tư tưởng: Phân biệt sụp đổ MÔ HÌNH XHCN # sụp đổ BẢN CHẤT HỌC THUYẾT CNXH",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_supdo",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né quy kết nguyên nhân sụp đổ hoàn toàn do sự chống phá của phương Tây (Thực chất nguyên nhân nội bộ quyết định)",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_supdo",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_cnxh_doimoi",
+    "name": "Đánh giá thành tựu và bài học kinh nghiệm từ công cuộc cải cách đổi mới ở Trung Quốc, Việt Nam",
+    "type": "LESSON",
+    "parentId": "ls11_top_cnxh_phattrien",
+    "examples": [
+      {
+        "id": "ls11_ex_cnxh_doimoi_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích những giá trị thực tiễn và bài học kinh nghiệm từ công cuộc Cải cách mở cửa Trung Quốc (1978) và Đổi mới Việt Nam (1986).",
+        "answer": "Bối cảnh & Né bẫy: Cuối thập kỷ 70-80, các nước XHCN tiến hành cải cách đổi mới toàn diện. Né bẫy: Đổi mới/Cải cách không phải là thay đổi mục tiêu XHCN mà là thay đổi phương pháp, mô hình phát triển ➔ Từ khóa: Lấy phát triển kinh tế làm trọng tâm + Kiên định con đường xã hội chủ nghĩa + Xây dựng nền kinh tế thị trường xã hội chủ nghĩa (Trung Quốc) và nền kinh tế thị trường định hướng xã hội chủ nghĩa (Việt Nam) ➔ Biện luận: Giữ vững vai trò lãnh đạo tuyệt đối của Đảng; vận dụng linh hoạt cơ chế thị trường nhưng không chệch hướng XHCN ➔ Kết luận: Khẳng định sức sống tươi trẻ của CNXH trong thời đại mới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_2_2_3_1",
+    "name": "STEP Lý thuyết ➔ Trung Quốc (1978), Việt Nam (1986) ➔ Đổi mới kinh tế làm trọng tâm + Giữ vững định hướng XHCN",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_doimoi",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_3_2",
+    "name": "STEP Phương pháp ➔ So sánh bài học thành công: Kiên định mục tiêu CNXH + Vận dụng linh hoạt quy luật kinh tế thị trường",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_doimoi",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_3_3",
+    "name": "STEP Thuật toán ➔ Bóc tách đặc trưng: Kinh tế thị trường định hướng XHCN # Kinh tế thị trường TBCN",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_doimoi",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_2_2_3_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn: Phát triển kinh tế thị trường không đồng nghĩa với tư bản hóa hay rời xa vai trò quản lý của Nhà nước",
+    "type": "STEP",
+    "parentId": "ls11_les_cnxh_doimoi",
+    "examples": null
+  },
+  {
+    "id": "ls11_cat_dna",
+    "name": "Quá trình giành độc lập dân tộc & Phát triển ở Đông Nam Á",
+    "type": "CATEGORY",
+    "parentId": "ls11_subject_history",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_dna_xamluoc",
+    "name": "Quá trình xâm lược và chính sách cai trị của thực dân Phương Tây ở Đông Nam Á",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_dna",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_dna_caitri",
+    "name": "So sánh phương thức xâm lược và chính sách cai trị của thực dân tại Đông Nam Á",
+    "type": "LESSON",
+    "parentId": "ls11_top_dna_xamluoc",
+    "examples": [
+      {
+        "id": "ls11_ex_dna_caitri_01",
+        "question": "[Dạng bài Lịch sử]: So sánh điểm giống và khác nhau trong chính sách cai trị về chính trị và kinh tế của thực dân Pháp ở Đông Dương và thực dân Anh ở Mã Lai.",
+        "answer": "Bối cảnh & Né bẫy: Thế kỷ XIX-XX, các nước ĐNÁ thành thuộc địa phương Tây. Né bẫy: Mặc dù hình thức cai trị trực tiếp hay gián tiếp khác nhau nhưng bản chất vơ vét tài nguyên hoàn toàn giống nhau ➔ Từ khóa: Giống = Bóc lột kinh tế + Nô dịch chính trị; Khác = Pháp (Trực tiếp, chia để trị) # Anh (Gián tiếp qua thủ lĩnh bản địa) ➔ Biện luận: Thực dân lựa chọn hình thức cai trị tùy thuộc đặc điểm truyền thống từng quốc gia để tối đa hóa lợi ích ➔ Kết luận: Bản chất thực dân luôn là xâm lược và nô dịch.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_3_1_1_1",
+    "name": "STEP Lý thuyết ➔ Xâm lược thế kỷ XVI-XIX ➔ Chính trị: Chia để trị ➔ Kinh tế: Cướp ruộng đất, độc quyền ➔ Văn hóa: Ngu dân",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_caitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_1_1_2",
+    "name": "STEP Phương pháp ➔ Tư duy so sánh đối chiếu: Chính trị (Trực tiếp # Gián tiếp) + Kinh tế (Nông nghiệp # Khai khoáng)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_caitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_1_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách hệ quả: Biến nền kinh tế bản địa thành hậu thuẫn cung cấp nguyên liệu phụ thuộc chính quốc",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_caitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_1_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn ngoại lệ: Toàn bộ ĐNÁ thành thuộc địa NGOẠI TRỪ Xiêm (Thái Lan)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_caitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_dna_xiem",
+    "name": "Phân tích nguyên nhân và bài học từ công cuộc cải cách độc đáo của Xiêm (Thái Lan)",
+    "type": "LESSON",
+    "parentId": "ls11_top_dna_xamluoc",
+    "examples": [
+      {
+        "id": "ls11_ex_dna_xiem_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích nguyên nhân quyết định giúp Xiêm (Thái Lan) giữ vững độc lập chủ quyền trước làn sóng xâm lược của thực dân phương Tây.",
+        "answer": "Bối cảnh & Né bẫy: Cuối XIX - đầu XX, Anh và Pháp tranh chấp khu vực ĐNÁ. Né bẫy: Xiêm không thụ động nhờ vị trí đệm mà chủ động cải cách và ngoại giao ➔ Từ khóa: Cải cách Ra-ma V + Ngoại giao mềm dẻo (Cân bằng Anh - Pháp) ➔ Biện luận: Cải cách toàn diện làm đất nước phát triển; chính sách ngoại giao cây tre lợi dụng mâu thuẫn giữa 2 cường quốc ➔ Kết luận: Sự kết hợp giữa sức mạnh nội tại và nghệ thuật ngoại giao là nguyên nhân quyết định.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_3_1_2_1",
+    "name": "STEP Lý thuyết ➔ Cải cách Ra-ma V (Chủ động mở cửa, cải cách bộ máy, kinh tế) + Ngoại giao khôn khéo ➔ Giữ độc lập",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_xiem",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_1_2_2",
+    "name": "STEP Phương pháp ➔ Phân tích mối quan hệ Nội lực (Cải cách) & Ngoại giao (Lợi dụng mâu thuẫn Anh - Pháp)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_xiem",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_1_2_3",
+    "name": "STEP Thuật toán ➔ Nhận diện bản chất: Cắt bớt lãnh thổ phụ thuộc ➔ Bảo vệ vùng đất cốt lõi ➔ Độc lập chủ quyền",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_xiem",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_1_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né đánh giá sai: Cho rằng Xiêm không mất gì (Thực chất Xiêm phải nhượng một số vùng đất lệ thuộc cho Anh, Pháp)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_xiem",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_dna_doclap",
+    "name": "Hành trình giành độc lập và tái thiết phát triển quốc gia ở Đông Nam Á",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_dna",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_dna_tientrinh",
+    "name": "Phân tích các giai đoạn phát triển của phong trào đấu tranh giành độc lập dân tộc ở Đông Nam Á",
+    "type": "LESSON",
+    "parentId": "ls11_top_dna_doclap",
+    "examples": [
+      {
+        "id": "ls11_ex_dna_tientrinh_01",
+        "question": "[Dạng bài Lịch sử]: Đánh giá sự chuyển biến về khuynh hướng đấu tranh từ Phong kiến/Tư sản sang Vô sản trong phong trào giải phóng dân tộc ĐNÁ (1920-1945).",
+        "answer": "Bối cảnh & Né bẫy: Sau CTTG1, giai cấp công nhân ĐNÁ lớn mạnh và tiếp thu chủ nghĩa Mác-Lênin. Né bẫy: Sự xuất hiện khuynh hướng vô sản không triệt tiêu hoàn toàn khuynh hướng tư sản mà cùng song song tồn tại ➔ Từ khóa: Sự ra đời các Đảng Cộng sản + Lãnh đạo phong trào triệt để + Tận dụng CTTG2 giành chính quyền ➔ Biện luận: Khuynh hướng vô sản đáp ứng đúng yêu cầu giải phóng dân tộc gắn liền giải phóng giai cấp ➔ Kết luận: Tạo ra bước nhảy vọt dẫn đến thắng lợi năm 1945.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_3_2_1_1",
+    "name": "STEP Lý thuyết ➔ Cuối XIX - 1920 (Phong kiến, Tư sản) ➔ 1920 - 1945 (Vô sản xuất hiện ➔ Giành chính quyền 1945)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_tientrinh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_2_1_2",
+    "name": "STEP Phương pháp ➔ Lập tiến trình lịch sử 3 giai đoạn: Khủng hoảng đường lối ➔ Xác lập khuynh hướng mới ➔ Hoàn tất giải phóng",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_tientrinh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_2_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách thời cơ 1945: Phát xít Nhật đầu hàng ➔ Indonesia, Việt Nam, Lào tuyên bố độc lập",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_tientrinh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_2_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn: Không phải tất cả các nước ĐNÁ đều giành được độc lập năm 1945 (Chỉ có Indonesia, Việt Nam, Lào)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_tientrinh",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_dna_asean",
+    "name": "Đánh giá chiến lược tái thiết phát triển kinh tế và vai trò của ASEAN sau độc lập",
+    "type": "LESSON",
+    "parentId": "ls11_top_dna_doclap",
+    "examples": [
+      {
+        "id": "ls11_ex_dna_asean_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích sự chuyển dịch chiến lược phát triển kinh tế từ Công nghiệp hóa thay thế nhập khẩu sang Hướng về xuất khẩu của nhóm 5 nước sáng lập ASEAN.",
+        "answer": "Bối cảnh & Né bẫy: Thập niên 50-60, 5 nước ASEAN phát triển kinh tế sau khi giành độc lập. Né bẫy: Chiến lược thay thế nhập khẩu không thất bại hoàn toàn mà tạo nền tảng ban đầu trước khi chuyển hướng ➔ Từ khóa: Thay thế nhập khẩu (Tự cung tự cấp, bộc lộ hạn chế) ➔ Hướng về xuất khẩu (Mở cửa, thu hút vốn FDI, phát triển ngoại thương) ➔ Biện luận: Đáp ứng xu thế toàn cầu hóa và phát huy thế mạnh của từng quốc gia ➔ Kết luận: Đưa nhóm nước ASEAN trở thành những con rồng kinh tế mới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_3_2_2_1",
+    "name": "STEP Lý thuyết ➔ Chiến lược Nội địa hóa ➔ Chuyển sang Hướng về xuất khẩu + Thành lập ASEAN (1967) ➔ Hợp tác khu vực",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_asean",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_2_2_2",
+    "name": "STEP Phương pháp ➔ So sánh 2 chiến lược kinh tế (Mục tiêu, Hạn chế, Tác động thực tế đối với độc lập tự chủ)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_asean",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_2_2_3",
+    "name": "STEP Thuật toán ➔ Đánh giá vai trò ASEAN: Từ liên minh chính trị - an ninh ➔ Hợp tác kinh tế toàn diện (Cộng đồng ASEAN 2015)",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_asean",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_3_2_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn mục tiêu ban đầu của ASEAN: Bắt đầu từ hợp tác hòa bình, ổn định khu vực chứ không phải liên minh quân sự",
+    "type": "STEP",
+    "parentId": "ls11_les_dna_asean",
+    "examples": null
+  },
+  {
+    "id": "ls11_cat_chientranh_bvfq",
+    "name": "Chiến tranh bảo vệ Tổ quốc & Chiến tranh giải phóng dân tộc trong lịch sử Việt Nam (Trước 1945)",
+    "type": "CATEGORY",
+    "parentId": "ls11_subject_history",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_bvfq_nghethuat",
+    "name": "Nghệ thuật quân sự và bài học kinh nghiệm từ các cuộc chiến tranh bảo vệ Tổ quốc",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_chientranh_bvfq",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_bvfq_vitri",
+    "name": "Phân tích vị trí địa chiến lược của Việt Nam và vai trò của chiến tranh bảo vệ Tổ quốc",
+    "type": "LESSON",
+    "parentId": "ls11_top_bvfq_nghethuat",
+    "examples": [
+      {
+        "id": "ls11_ex_bvfq_vitri_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích tác động của vị trí địa - chiến lược Việt Nam đối với lịch sử chống ngoại xâm của dân tộc.",
+        "answer": "Bối cảnh & Né bẫy: Việt Nam nằm ở ngã tư đường giao lưu quốc tế, cầu nối Đông Nam Á lục địa và hải đảo. Né bẫy: Vị trí địa lý vừa là lợi thế phát triển vừa là thách thức lớn luôn bị các đại quốc thôn tính ➔ Từ khóa: Ngã tư đường + Cầu nối + Nơi tranh chấp quyền lực ➔ Nhận diện đối tượng xâm lược thường xuyên ➔ Biện luận: Vị trí đắc địa khiến Việt Nam luôn là mục tiêu xâm lược ưu tiên, đòi hỏi dân tộc phải liên tục tiến hành chiến tranh bảo vệ Tổ quốc ➔ Kết luận: Vị trí địa lý rèn luyện sức sống dẻo dai và nghệ thuật quân sự độc đáo.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_4_1_1_1",
+    "name": "STEP Lý thuyết ➔ Vị trí Cầu nối + Án ngữ giao thương ➔ Thường xuyên bị xâm lược ➔ Chiến tranh bảo vệ Tổ quốc là tất yếu",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_vitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_1_2",
+    "name": "STEP Phương pháp ➔ Mối quan hệ giữa Vị trí địa lý - Nguy cơ ngoại xâm - Yêu cầu Đại đoàn kết dân tộc",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_vitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách vai trò: Bảo vệ độc lập, giữ gìn bản sắc, tạo điều kiện xây dựng đất nước",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_vitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né quan niệm sai: Vị trí địa chiến lược chỉ mang đến nguy cơ (Thực tế mang lại cả cơ hội phát triển kinh tế biển)",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_vitri",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_bvfq_thangloi",
+    "name": "So sánh nguyên nhân thắng lợi và bài học lịch sử từ các cuộc kháng chiến chống ngoại xâm tiêu biểu",
+    "type": "LESSON",
+    "parentId": "ls11_top_bvfq_nghethuat",
+    "examples": [
+      {
+        "id": "ls11_ex_bvfq_thangloi_01",
+        "question": "[Dạng bài Lịch sử]: Trích xuất nguyên nhân quyết định nhất dẫn đến thắng lợi của các cuộc kháng chiến chống ngoại xâm thời Lý, Trần, Tây Sơn.",
+        "answer": "Bối cảnh & Né bẫy: Các cuộc kháng chiến chống Tống (Lý), Mông-Nguyên (Trần), Xiêm-Thanh (Tây Sơn). Né bẫy: Tướng giỏi và vũ khí không phải nguyên nhân quyết định nhất mà là lòng dân ➔ Từ khóa: Chiến tranh chính nghĩa + Khối đại đoàn kết toàn dân + Nghệ thuật quân sự tài tình ➔ Biện luận: Vua tôi đồng lòng, anh em hòa thuận, cả nước góp sức biến chiến tranh thành chiến tranh nhân dân rộng khắp ➔ Kết luận: Khối đại đoàn kết toàn dân là nguyên nhân gốc rễ quyết định mọi thắng lợi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_4_1_2_1",
+    "name": "STEP Lý thuyết ➔ Thắng lợi (Lý, Trần, Tây Sơn) = Chiến tranh chính nghĩa + Khối đại đoàn kết + Nghệ thuật quân sự độc đáo",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thangloi",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_2_2",
+    "name": "STEP Phương pháp ➔ So sánh nghệ thuật quân sự: Lý (Tiên phát chế nhân) # Trần (Vườn không nhà trống) # Tây Sơn (Thần tốc, táo bạo)",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thangloi",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_2_3",
+    "name": "STEP Thuật toán ➔ Trích xuất bài học: Lấy nhỏ đánh lớn, lấy ít địch nhiều, khoan thư sức dân làm kế sâu rễ bền gốc",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thangloi",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né tuyệt đối hóa vai trò của yếu tố thiên thời/địa lợi mà coi nhẹ vai trò của lòng dân và sự lãnh đạo",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thangloi",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_bvfq_thatbai",
+    "name": "Mổ xẻ nguyên nhân thất bại của các cuộc kháng chiến không thành công và bài học lịch sử",
+    "type": "LESSON",
+    "parentId": "ls11_top_bvfq_nghethuat",
+    "examples": [
+      {
+        "id": "ls11_ex_bvfq_thatbai_01",
+        "question": "[Dạng bài Lịch sử]: Rút ra bài học kinh nghiệm sâu sắc nhất cho công công xây dựng và bảo vệ Tổ quốc hiện nay từ sự thất bại của nhà Hồ (chống Minh) và nhà Nguyễn (chống Pháp).",
+        "answer": "Bối cảnh & Né bẫy: Nhà Hồ thất bại năm 1407, Nhà Nguyễn để mất nước cuối XIX. Né bẫy: Không phải do quân địch quá mạnh mà do sai lầm nghiêm trọng trong đường lối tập hợp lòng dân ➔ Từ khóa: Mất lòng dân (Nhà Hồ) + Đường lối bảo thủ, chia rẽ (Nhà Nguyễn) ➔ Bài học: Bỏ dân, Quy hàng # Lòng dân là gốc ➔ Biện luận: Sức dân như nước, không quy tụ được sức mạnh toàn dân thì dù thành cao hào sâu vẫn thất bại ➔ Kết luận: Bài học vô giá là xây dựng Thế trận lòng dân vững chắc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_4_1_3_1",
+    "name": "STEP Lý thuyết ➔ Thất bại (An Dương Vương, Nhà Hồ, Nhà Nguyễn) = Mất đoàn kết + Xa rời quần chúng + Sai lầm đường lối",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thatbai",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_3_2",
+    "name": "STEP Phương pháp ➔ Phân tích nguyên nhân chủ quan (Quyết định) # Nguyên nhân khách quan (Sức mạnh kẻ thù)",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thatbai",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_3_3",
+    "name": "STEP Thuật toán ➔ Đối chiếu bài học: Nhà Hồ Chiến lũy kiên cố nhưng không quy tụ được lòng dân ➔ Thất bại nhanh chóng",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thatbai",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_1_3_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn: Thất bại của nhà Nguyễn không phải do thiếu tinh thần yêu nước của nhân dân mà do đường lối quy hàng của triều đình",
+    "type": "STEP",
+    "parentId": "ls11_les_bvfq_thatbai",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_khoinghia_giaiphong",
+    "name": "Các cuộc khởi nghĩa và chiến tranh giải phóng dân tộc tiêu biểu (Từ III TCN đến cuối XIX)",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_chientranh_bvfq",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_bacthuoc_khoinghia",
+    "name": "Đánh giá quy mô, tính chất và ý nghĩa của các cuộc khởi nghĩa thời Bắc thuộc",
+    "type": "LESSON",
+    "parentId": "ls11_top_khoinghia_giaiphong",
+    "examples": [
+      {
+        "id": "ls11_ex_bacthuoc_khoinghia_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích tính chất liên tục và sức sống dẻo dai của phong trào đấu tranh giành độc lập thời Bắc thuộc.",
+        "answer": "Bối cảnh & Né bẫy: Hơn 1000 năm bị phong kiến phương Bắc nô dịch và đồng hóa. Né bẫy: Chính sách đồng hóa cực kỳ tàn bạo nhưng văn hóa Việt không bị tiêu vong ➔ Từ khóa: Nổi dậy liên tục (Hai Bà Trưng, Lý Bí, Mai Thúc Loan...) ➔ Bảo tồn bản sắc + Giành quyền tự chủ ➔ Bạch Đằng 938 ➔ Biện luận: Khởi nghĩa trước thất bại là tiền đề cho khởi nghĩa sau, đỉnh cao là bước ngoặt mở ra kỷ nguyên độc lập tự chủ lâu dài ➔ Kết luận: Sức sống dân tộc thắng gục chính sách đồng hóa tàn bạo.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_4_2_1_1",
+    "name": "STEP Lý thuyết ➔ Bất khuất nổ ra (Hai Bà Trưng, Bà Triệu, Lý Bí, Phùng Hưng) ➔ Đỉnh cao Khúc Thừa Dụ & Ngô Quyền 938",
+    "type": "STEP",
+    "parentId": "ls11_les_bacthuoc_khoinghia",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_2_1_2",
+    "name": "STEP Phương pháp ➔ Tư duy tiến trình: Từ khởi nghĩa địa phương ➔ Phong trào toàn dân ➔ Giành chính quyền tự chủ",
+    "type": "STEP",
+    "parentId": "ls11_les_bacthuoc_khoinghia",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_2_1_3",
+    "name": "STEP Thuật toán ➔ Khai thác ý nghĩa: Đập tan ách đô hộ + Giữ gìn tiếng nói, mảng sống văn hóa dân tộc",
+    "type": "STEP",
+    "parentId": "ls11_les_bacthuoc_khoinghia",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_2_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn mốc mở đầu kỷ nguyên độc lập: Khúc Thừa Dụ (Dựng nền tự chủ) # Ngô Quyền (Mở kỷ nguyên độc lập)",
+    "type": "STEP",
+    "parentId": "ls11_les_bacthuoc_khoinghia",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_lamson_tayson",
+    "name": "Phân tích đường lối chiến tranh nhân dân và nghệ thuật quân sự trong Khởi nghĩa Lam Sơn & Phong trào Tây Sơn",
+    "type": "LESSON",
+    "parentId": "ls11_top_khoinghia_giaiphong",
+    "examples": [
+      {
+        "id": "ls11_ex_lamson_tayson_01",
+        "question": "[Dạng bài Lịch sử]: So sánh điểm giống và khác nhau về tính chất và nghệ thuật quân sự giữa Khởi nghĩa Lam Sơn và Phong trào Tây Sơn.",
+        "answer": "Bối cảnh & Né bẫy: Khởi nghĩa Lam Sơn (1418-1427) chống Minh; Tây Sơn (1771-1789) đánh đổ phong kiến trong nước và ngoại xâm Xiêm - Thanh. Né bẫy: Lam Sơn khởi đầu là khởi nghĩa địa phương phát triển thành chiến tranh giải phóng; Tây Sơn kết hợp nông dân khởi nghĩa + thống nhất đất nước + kháng chiến ➔ Từ khóa: Lam Sơn (Nhẫn nại, vây thành diệt viện) # Tây Sơn (Thần tốc, táo bạo, tiến công mãnh liệt) ➔ Biện luận: Cả hai đều dựa vào dân, phát triển nghệ thuật quân sự chiến tranh nhân dân đạt đến đỉnh cao ➔ Kết luận: Là hai mốc son chói lọi trong lịch sử giải phóng dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_4_2_2_1",
+    "name": "STEP Lý thuyết ➔ Lam Sơn (Từ khởi nghĩa nhỏ ➔ Chiến tranh giải phóng) + Tây Sơn (Lật đổ phong kiến ➔ Đánh tan Xiêm - Thanh)",
+    "type": "STEP",
+    "parentId": "ls11_les_lamson_tayson",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_2_2_2",
+    "name": "STEP Phương pháp ➔ So sánh nhiệm vụ: Lam Sơn (Một nhiệm vụ chống Minh) # Tây Sơn (Hai nhiệm vụ: Nội chiến + Chống ngoại xâm)",
+    "type": "STEP",
+    "parentId": "ls11_les_lamson_tayson",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_2_2_3",
+    "name": "STEP Thuật toán ➔ Trích xuất nghệ thuật: Lam Sơn Bình Ngô đại cáo, Hội thề Đông Quan # Tây Sơn Hành quân thần tốc Ngọc Hồi - Đống Đa",
+    "type": "STEP",
+    "parentId": "ls11_les_lamson_tayson",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_4_2_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn: Tây Sơn không chỉ đánh ngoại xâm mà còn có công lao to lớn xóa bỏ chia cắt Đàng Trong - Đàng Ngoài",
+    "type": "STEP",
+    "parentId": "ls11_les_lamson_tayson",
+    "examples": null
+  },
+  {
+    "id": "ls11_cat_caicach",
+    "name": "Các cuộc cải cách lớn trong lịch sử Việt Nam (Trước 1858)",
+    "type": "CATEGORY",
+    "parentId": "ls11_subject_history",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_caicach_hoquyly",
+    "name": "Bối cảnh, nội dung và bài học từ cuộc cải cách của Hồ Quý Ly và Triều Hồ",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_caicach",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_hoquyly_pt",
+    "name": "Phân tích tính toàn diện, táo bạo và lý do thất bại của cuộc cải cách Hồ Quý Ly",
+    "type": "LESSON",
+    "parentId": "ls11_top_caicach_hoquyly",
+    "examples": [
+      {
+        "id": "ls11_ex_hoquyly_pt_01",
+        "question": "[Dạng bài Lịch sử]: Đánh giá tính chất tiến bộ và nguyên nhân thất bại trong cuộc cải cách Hồ Quý Ly đầu thế kỉ XV.",
+        "answer": "Bối cảnh & Né bẫy: Cuối XIV, nhà Trần suy yếu nghiêm trọng. Né bẫy: Cải cách Hồ Quý Ly rất tiến bộ nhưng thất bại không phải do bản thân chính sách sai mà do thiếu lòng dân ➔ Từ khóa: Tiến bộ, táo bạo (Hạn điền, hạn nô, phát hành tiền giấy, dùng chữ Nôm) # Thất bại (Cải cách vội vã + Chưa chăm lo đời sống nhân dân) ➔ Biện luận: Cải cách đụng chạm lợi ích tầng lớp quý tộc Trần nhưng chưa đem lại lợi ích thực sự cho quần chúng ➔ Kết luận: Cải cách tiến bộ nhưng thiếu nền tảng sức mạnh lòng dân.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_5_1_1_1",
+    "name": "STEP Lý thuyết ➔ Cải cách toàn diện (Hạn điền, Hạn nô, Tiền giấy Thông bảo, Chữ Nôm) ➔ Bị gián đoạn do nhà Minh xâm lược",
+    "type": "STEP",
+    "parentId": "ls11_les_hoquyly_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_1_1_2",
+    "name": "STEP Phương pháp ➔ Phân tích hai mặt (Giá trị tiến bộ vượt thời đại # Hạn chế trong phương pháp triển khai)",
+    "type": "STEP",
+    "parentId": "ls11_les_hoquyly_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_1_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách bài học: Cải cách phải gắn liền lòng dân và tạo ra sự ổn định xã hội",
+    "type": "STEP",
+    "parentId": "ls11_les_hoquyly_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_1_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né đánh giá phủ nhận toàn bộ cải cách Hồ Quý Ly chỉ vì sự thất bại trong cuộc kháng chiến chống Minh",
+    "type": "STEP",
+    "parentId": "ls11_les_hoquyly_pt",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_caicach_lethanhtong",
+    "name": "Cuộc cải cách hành chính toàn diện của Lê Thánh Tông (Thế kỉ XV)",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_caicach",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_lethanhtong_noidung",
+    "name": "Phân tích mô hình quân chủ chuyên chế tập quyền đỉnh cao thời Lê Thánh Tông",
+    "type": "LESSON",
+    "parentId": "ls11_top_caicach_lethanhtong",
+    "examples": [
+      {
+        "id": "ls11_ex_lethanhtong_noidung_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích mô hình quân chủ chuyên chế tập quyền đỉnh cao qua cải cách bộ máy nhà nước của vua Lê Thánh Tông.",
+        "answer": "Bối cảnh & Né bẫy: Nửa sau thế kỷ XV, nhà Lê sơ củng cố đất nước. Né bẫy: Lê Thánh Tông không duy trì bộ máy cũ mà triệt để bãi bỏ các chức quan trung gian ➔ Từ khóa: Bỏ Tướng quốc/Đại hành khiển ➔ Vua trực tiếp quản lý Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) + Chia cả nước thành 13 Thừa tuyên ➔ Biện luận: Quyền lực tập trung tuyệt đối vào tay Hoàng đế; bộ máy hành chính được chuyên môn hóa cao độ ➔ Kết luận: Đưa chế độ phong kiến Việt Nam đạt đỉnh cao tập quyền.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_5_2_1_1",
+    "name": "STEP Lý thuyết ➔ Bỏ chức quan trung gian ➔ Trực thuộc Vua (Lục bộ, Lục khoa, Lục tự) + Chia nước = 13 Thừa tuyên",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_2_1_2",
+    "name": "STEP Phương pháp ➔ Vẽ sơ đồ tổ chức bộ máy Trung ương & Địa phương ➔ Nhận diện tính chuyên môn hóa và giám sát quyền lực",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_2_1_3",
+    "name": "STEP Thuật toán ➔ Trích xuất văn hóa - pháp luật: Quốc triều hình luật (Luật Hồng Đức) + Đề cao giáo dục Nho giáo, khoa cử",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_2_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn đơn vị địa phương: Thời Lê Thánh Tông là 13 Thừa tuyên (Không phải Tỉnh như thời Minh Mạng)",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_lethanhtong_baihoc",
+    "name": "Rút ra bài học kinh nghiệm từ cải cách Lê Thánh Tông đối với nền hành chính hiện nay",
+    "type": "LESSON",
+    "parentId": "ls11_top_caicach_lethanhtong",
+    "examples": [
+      {
+        "id": "ls11_ex_lethanhtong_baihoc_01",
+        "question": "[Dạng bài Lịch sử]: Rút ra bài học kinh nghiệm từ cải cách Lê Thánh Tông đối với công cuộc xây dựng nền hành chính nhà nước hiện đại ở Việt Nam.",
+        "answer": "Bối cảnh & Né bẫy: Cải cách Lê Thánh Tông là cuộc cải cách thành công nhất thời phong kiến. Né bẫy: Vận dụng bài học cải cách không phải mô phỏng mô hình phong kiến mà tiếp thu tinh thần quản lý ➔ Từ khóa: Tinh gọn bộ máy + Đề cao thượng tôn pháp luật + Tuyển dụng cán bộ qua thi tuyển minh bạch ➔ Biện luận: Xây dựng bộ máy hoạt động hiệu lực hiệu năng; kiểm soát quyền lực chặt chẽ phòng chống tham nhũng ➔ Kết luận: Bài học vô giá về quản trị quốc gia và trọng dụng hiền tài.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_5_2_2_1",
+    "name": "STEP Lý thuyết ➔ Tinh gọn bộ máy + Thượng tôn pháp luật (Luật Hồng Đức) + Tuyển dụng minh bạch qua khoa cử",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_baihoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_2_2_2",
+    "name": "STEP Phương pháp ➔ Liên hệ lịch sử - thực tiễn: Cải cách bộ máy công quyền + Phòng chống tham nhũng + Trọng dụng hiền tài",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_baihoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_2_2_3",
+    "name": "STEP Thuật toán ➔ Trích xuất nguyên tắc: Phân định rõ chức năng, nhiệm vụ từng cơ quan, tránh chồng chéo quyền lực",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_baihoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_2_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né áp dụng máy móc mô hình phong kiến chuyên chế vào nền dân chủ xã hội chủ nghĩa hiện đại",
+    "type": "STEP",
+    "parentId": "ls11_les_lethanhtong_baihoc",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_caicach_minhmang",
+    "name": "Cuộc cải cách hành chính của Minh Mạng (Nửa đầu thế kỉ XIX)",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_caicach",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_minhmang_noidung",
+    "name": "Phân tích nội dung cải cách bộ máy trung ương và địa phương của Minh Mạng",
+    "type": "LESSON",
+    "parentId": "ls11_top_caicach_minhmang",
+    "examples": [
+      {
+        "id": "ls11_ex_minhmang_noidung_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích nội dung và ý nghĩa cải cách hành chính địa phương của vua Minh Mạng (1831-1832).",
+        "answer": "Bối cảnh & Né bẫy: Đất nước thống nhất nhưng còn tồn tại chế độ Tổng trấn tự trị ở Bắc Thành và Gia Định Thành. Né bẫy: Minh Mạng xóa bỏ Bắc Thành và Gia Định Thành để tập trung quyền lực về Trung ương ➔ Từ khóa: Bãi bỏ chức Quan tổng trấn + Chia cả nước = 30 Tỉnh + 1 Phủ Thừa Thiên + Chế độ Hồi tỵ ➔ Biện luận: Thống nhất đơn vị hành chính cả nước dưới sự quản lý trực tiếp của triều đình; đặt nền móng cho phân cấp hành chính tỉnh hiện đại ➔ Kết luận: Cuộc cải cách hành chính địa phương quy mô và triệt để nhất.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_5_3_1_1",
+    "name": "STEP Lý thuyết ➔ Bỏ quan đầu triều + Bỏ Bắc Thành/Gia Định Thành ➔ Cả nước = 30 Tỉnh + 1 Phủ Thừa Thiên + Cơ mật viện",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_3_1_2",
+    "name": "STEP Phương pháp ➔ So sánh đơn vị địa phương thời Gia Long (Chia 3 vùng) # Minh Mạng (Thống nhất hệ thống Tỉnh)",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_3_1_3",
+    "name": "STEP Thuật toán ➔ Khai thác chế độ kiểm soát: Đô sát viện + Chế độ Hồi tỵ (Quan không làm ở quê hương/họ hàng)",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_3_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn: Minh Mạng chia nước thành 30 Tỉnh và 1 Phủ Thừa Thiên (Nhiều học sinh viết nhầm 31 Tỉnh)",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_noidung",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_minhmang_sosanh",
+    "name": "So sánh điểm giống và khác nhau giữa cải cách Minh Mạng và các cải cách phong kiến khác",
+    "type": "LESSON",
+    "parentId": "ls11_top_caicach_minhmang",
+    "examples": [
+      {
+        "id": "ls11_ex_minhmang_sosanh_01",
+        "question": "[Dạng bài Lịch sử]: So sánh điểm giống và khác nhau giữa cuộc cải cách của Lê Thánh Tông (thế kỉ XV) và Minh Mạng (thế kỉ XIX).",
+        "answer": "Bối cảnh & Né bẫy: Hai cuộc cải cách đỉnh cao thời phong kiến Việt Nam. Né bẫy: Điểm khác biệt lớn nhất nằm ở mô hình tổ chức hành chính địa phương và bối cảnh lịch sử ➔ Từ khóa: Giống = Cùng củng cố quân chủ chuyên chế tập quyền + Tinh gọn bộ máy; Khác = Lê Thánh Tông (13 Thừa tuyên) # Minh Mạng (30 Tỉnh + 1 Phủ Thừa Thiên, thành lập Tỉnh) ➔ Biện luận: Cả hai đều tìm cách kiểm soát tối đa quyền lực nhưng Minh Mạng hoàn thiện hệ thống quản lý địa phương bền vững đến nay ➔ Kết luận: Minh Mạng kế thừa và phát triển đỉnh cao mô hình thể chế Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_5_3_2_1",
+    "name": "STEP Lý thuyết ➔ Cùng củng cố Chuyên chế tập quyền # Minh Mạng hoàn thiện Phân cấp Tỉnh - Huyện - Xã hiện đại",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_3_2_2",
+    "name": "STEP Phương pháp ➔ Lập bảng đối chiếu 3 tiêu chí: Bối cảnh, Mô hình bộ máy, Tác động lâu dài đối với nền hành chính",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_3_2_3",
+    "name": "STEP Thuật toán ➔ Trích xuất nét độc đáo Minh Mạng: Thành lập Cơ mật viện + Hoàn thiện chế độ Hồi tỵ triệt để",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_5_3_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né nhầm lẫn tên gọi các cơ quan trung ương: Lê Thánh Tông (Lục bộ) # Minh Mạng (Lục bộ + Nội các + Cơ mật viện)",
+    "type": "STEP",
+    "parentId": "ls11_les_minhmang_sosanh",
+    "examples": null
+  },
+  {
+    "id": "ls11_cat_biendong_hoangsa",
+    "name": "Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+    "type": "CATEGORY",
+    "parentId": "ls11_subject_history",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_biendong_vitri",
+    "name": "Vị trí địa chiến lược và tầm quan trọng của Biển Đông, quần đảo Hoàng Sa và Trường Sa",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_biendong_hoangsa",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_biendong_tamquantrong",
+    "name": "Phân tích tầm quan trọng chiến lược của Biển Đông về giao thông, kinh tế và quốc phòng",
+    "type": "LESSON",
+    "parentId": "ls11_top_biendong_vitri",
+    "examples": [
+      {
+        "id": "ls11_ex_biendong_tamquantrong_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích tầm quan trọng chiến lược của Biển Đông đối với an ninh quốc phòng và phát triển kinh tế của Việt Nam.",
+        "answer": "Bối cảnh & Né bẫy: Biển Đông là tuyến đường hàng hải quốc tế huyết mạch thứ 2 thế giới. Né bẫy: Tầm quan trọng của Biển Đông không chỉ ở tài nguyên hải sản/dầu khí mà cốt lõi ở không gian an sinh và vị trí phòng thủ chiến lược ➔ Từ khóa: Tuyến hàng hải huyết mạch + Tài nguyên phong phú + Cửa ngõ phòng thủ hướng biển ➔ Biện luận: Hoàng Sa và Trường Sa tạo thành hệ thống tiền tiêu bảo vệ đất liền; là không gian sinh tồn kinh tế biển bền vững ➔ Kết luận: Biển Đông có ý nghĩa sống còn đối với sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_6_1_1_1",
+    "name": "STEP Lý thuyết ➔ Huyết mạch hàng hải quốc tế + Kho tài nguyên dầu khí/hải sản + Tuyến phòng thủ tiền tiêu hướng biển",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_tamquantrong",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_1_1_2",
+    "name": "STEP Phương pháp ➔ Phân tích 3 trụ cột: Giao thông đường biển + Kinh tế biển + Quốc phòng - An ninh",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_tamquantrong",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_1_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách vị trí Hoàng Sa & Trường Sa: Án ngữ cửa ngõ Biển Đông, tạo khoảng không kiểm soát an ninh biển",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_tamquantrong",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_1_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né coi nhẹ vai trò an ninh quốc phòng mà chỉ tập trung vào tiềm năng khai thác tài nguyên dầu khí",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_tamquantrong",
+    "examples": null
+  },
+  {
+    "id": "ls11_top_hoangsa_truongsa_chuquyen",
+    "name": "Quá trình xác lập, thực thi chủ quyền và giải quyết tranh chấp biển đảo của Việt Nam",
+    "type": "TOPIC",
+    "parentId": "ls11_cat_biendong_hoangsa",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_hoangsa_chungcu",
+    "name": "Lập luận chứng cứ lịch sử khẳng định chủ quyền liên tục tại Hoàng Sa và Trường Sa qua các thời kỳ",
+    "type": "LESSON",
+    "parentId": "ls11_top_hoangsa_truongsa_chuquyen",
+    "examples": [
+      {
+        "id": "ls11_ex_hoangsa_chungcu_01",
+        "question": "[Dạng bài Lịch sử]: Lập luận hệ thống chứng cứ lịch sử và pháp lý khẳng định Việt Nam xác lập và thực thi chủ quyền liên tục đối với Hoàng Sa và Trường Sa.",
+        "answer": "Bối cảnh & Né bẫy: Việt Nam là nhà nước đầu tiên chiếm hữu và quản lý 2 quần đảo khi còn là đất vô chủ. Né bẫy: Dùng đúng thuật ngữ pháp lý quốc tế Chiếm hữu hòa bình, liên tục, thực sự theo công pháp quốc tế ➔ Từ khóa: Đội Hoàng Sa/Bắc Hải (Chúa Nguyễn, Tây Sơn, Triều Nguyễn) ➔ Thời Pháp thuộc (Thực thi quyền đại diện đối ngoại và quản lý hành chính) ➔ Tiếp tục được thực thi liên tục và hòa bình bởi các chính quyền kế tiếp của Việt Nam theo đúng quy chuẩn pháp lý công pháp quốc tế ➔ Biện luận: Việt Nam có đầy đủ bằng chứng lịch sử và cơ sở pháp lý phù hợp với luật pháp quốc tế ➔ Kết luận: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa là không thể tranh cãi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_6_2_1_1",
+    "name": "STEP Lý thuyết ➔ Trước 1884 (Đội Hoàng Sa, Bắc Hải) ➔ Pháp thuộc (Bia chủ quyền) ➔ 1954 - nay (Quản lý liên tục, hợp pháp)",
+    "type": "STEP",
+    "parentId": "ls11_les_hoangsa_chungcu",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_2_1_2",
+    "name": "STEP Phương pháp ➔ Lập luận theo chuẩn công pháp quốc tế: Chiếm hữu hòa bình + Thực thi chủ quyền liên tục + Không ai phản đối",
+    "type": "STEP",
+    "parentId": "ls11_les_hoangsa_chungcu",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_2_1_3",
+    "name": "STEP Thuật toán ➔ Bóc tách nguồn tư liệu: Đại Nam thực lục, Phủ biên tạp lục, Châu bản triều Nguyễn, bản đồ cổ phương Tây",
+    "type": "STEP",
+    "parentId": "ls11_les_hoangsa_chungcu",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_2_1_4",
+    "name": "STEP Nhận diện bẫy ➔ Né dùng sai thuật ngữ: Không dùng phát hiện đơn thuần mà phải nhấn mạnh xác lập và thực thi chủ quyền hòa bình, liên tục",
+    "type": "STEP",
+    "parentId": "ls11_les_hoangsa_chungcu",
+    "examples": null
+  },
+  {
+    "id": "ls11_les_biendong_giaiphap",
+    "name": "Phân tích chủ trương và giải pháp hòa bình của Việt Nam trong giải quyết tranh chấp Biển Đông",
+    "type": "LESSON",
+    "parentId": "ls11_top_hoangsa_truongsa_chuquyen",
+    "examples": [
+      {
+        "id": "ls11_ex_biendong_giaiphap_01",
+        "question": "[Dạng bài Lịch sử]: Phân tích chủ trương và các biện pháp hòa bình của Việt Nam trong việc giải quyết các tranh chấp chủ quyền ở Biển Đông.",
+        "answer": "Bối cảnh & Né bẫy: Tranh chấp Biển Đông diễn biến phức tạp. Né bẫy: Chủ trương kiên quyết bảo vệ chủ quyền nhưng luôn bằng biện pháp hòa bình trên cơ sở luật pháp quốc tế ➔ Từ khóa: UNCLOS 1982 + Tuyên bố DOC + Tiến tới COC + Luật Biển Việt Nam 2012 ➔ Nguyên tắc: Hòa bình, tôn trọng chủ quyền, không sử dụng vũ lực ➔ Biện luận: Kết hợp đấu tranh ngoại giao, pháp lý và giữ vững an ninh thực địa ➔ Kết luận: Thể hiện thiện chí, trách nhiệm của Việt Nam đối với hòa bình, ổn định khu vực.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "ls11_step_6_2_2_1",
+    "name": "STEP Lý thuyết ➔ Luật pháp quốc tế (UNCLOS 1982, DOC, COC) + Biện pháp hòa bình + Tôn trọng độc lập chủ quyền các nước",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_giaiphap",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_2_2_2",
+    "name": "STEP Phương pháp ➔ Tư duy Pháp lý - Ngoại giao: Tuyên truyền chứng cứ lịch sử + Đấu tranh trên diễn đàn đa phương",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_giaiphap",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_2_2_3",
+    "name": "STEP Thuật toán ➔ Khai thác văn bản quy phạm: UNCLOS 1982 (Công ước LHQ về Luật Biển) & Luật Biển Việt Nam 2012",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_giaiphap",
+    "examples": null
+  },
+  {
+    "id": "ls11_step_6_2_2_4",
+    "name": "STEP Nhận diện bẫy ➔ Né hiểu sai: Hòa bình không phải là thỏa hiệp vô nguyên tắc mà là kiên quyết kiên trì bảo vệ chủ quyền bằng luật pháp",
+    "type": "STEP",
+    "parentId": "ls11_les_biendong_giaiphap",
+    "examples": null
+  }
+]

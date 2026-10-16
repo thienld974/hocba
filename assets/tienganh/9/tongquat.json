@@ -1,0 +1,979 @@
+[
+  {
+    "id": "anh9_subject",
+    "name": "Tiếng Anh 9 (Global Success)",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "anh9_cat_phonetics",
+    "name": "Phonetics & Word Stress",
+    "type": "CATEGORY",
+    "parentId": "anh9_subject",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_pronunciation",
+    "name": "Pronunciation of Vowels & Consonants",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_phonetics",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_vowels_consonants",
+    "name": "Phát âm nguyên âm & phụ âm kép",
+    "type": "LESSON",
+    "parentId": "anh9_top_pronunciation",
+    "examples": [
+      {
+        "id": "ex_vc_1",
+        "question": "[Phát âm nguyên âm]: Mark the letter A, B, C, or D to indicate the word whose underlined part differs from the other three in pronunciation: A. city  B. community  C. facility  D. cycle",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài nhận diện phát âm của nguyên âm 'y' gạch chân trong các từ vựng chủ điểm Community & City life (Unit 1, 2 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nhìn chữ 'y' đoán mò phát âm giống nhau; chữ 'y' ở cuối từ thường phát âm là /i/ hoặc /aɪ/ tùy loại từ và cấu trúc âm tiết.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. city /ˈsɪti/ ➔ 'y' phát âm là /i/\n- B. community /kəˈmjuːnəti/ ➔ 'y' phát âm là /i/\n- C. facility /fəˈsɪləti/ ➔ 'y' phát âm là /i/\n- D. cycle /ˈsaɪkl/ ➔ 'y' phát âm là /aɪ/\n➔ Từ 'cycle' có phần gạch chân phát âm là /aɪ/, khác với /i/ ở các từ còn lại.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: city (thành phố), community (cộng đồng), facility (Cơ sở vật chất), cycle (chu kỳ/đi xe đạp). ➔ Đáp án D.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_vc_2",
+        "question": "[Phát âm phụ âm kép]: Mark the letter A, B, C, or D to indicate the word whose underlined part differs from the other three in pronunciation: A. slow  B. slice  C. slim  D. suburb",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài kiểm tra cách phát âm của tổ hợp phụ âm đầu /sl/ so với phụ âm đơn /s/.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy không đọc kĩ âm bắt đầu của từ 'suburb' (chỉ có âm /s/ đơn đứng trước nguyên âm /ʌ/) so với tổ hợp hai phụ âm /s/ + /l/ liên tiếp.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. slow /sləʊ/ ➔ phát âm phụ âm kép /sl/\n- B. slice /slaɪs/ ➔ phát âm phụ âm kép /sl/\n- C. slim /slɪm/ ➔ phát âm phụ âm kép /sl/\n- D. suburb /ˈsʌbɜːb/ ➔ bắt đầu bằng phụ âm đơn /s/\n➔ Từ 'suburb' bắt đầu bằng âm /s/, khác với âm ghép /sl/ ở ba từ còn lại.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: slow (chậm), slice (lát mỏng), slim (mảnh mai), suburb (ngoại thành). ➔ Đáp án D.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_vc_lt",
+    "name": "Phát âm ➔ Nguyên âm /æ/, /ɑ:/, /e/, /i/, /aɪ/... + Phụ âm đôi /sl/, /sn/, /fl/, /fr/...",
+    "type": "STEP",
+    "parentId": "anh9_les_vowels_consonants",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vc_pp",
+    "name": "Phương pháp ➔ Mẹo nhận diện gốc từ trong 5 giây + Tra phiên âm IPA chuẩn...",
+    "type": "STEP",
+    "parentId": "anh9_les_vowels_consonants",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vc_tt",
+    "name": "Thuật toán ➔ Đọc nhẩm IPA ➔ So sánh nhóm âm tương đồng ➔ Chốt đáp án khác biệt...",
+    "type": "STEP",
+    "parentId": "anh9_les_vowels_consonants",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vc_bay",
+    "name": "Né bẫy ➔ Bẫy âm câm (ghost, doubt, knife...) & Ngoại lệ phiên âm bất quy tắc (choir, quay...)",
+    "type": "STEP",
+    "parentId": "anh9_les_vowels_consonants",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_ed_s_es",
+    "name": "Phát âm đuôi -ed và -s/-es",
+    "type": "LESSON",
+    "parentId": "anh9_top_pronunciation",
+    "examples": [
+      {
+        "id": "ex_edes_1",
+        "question": "[Phát âm đuôi -ed]: Mark the letter A, B, C, or D to indicate the word whose underlined part differs in pronunciation: A. visited  B. decided  C. stopped  D. needed",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài phân biệt cách phát âm của đuôi -ed trong động từ quá khứ / tính từ.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy không xét âm cuối của từ gốc đứng ngay trước -ed; bẫy các tính từ ngoại lệ phát âm là /ɪd/ bất kể âm cuối.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Áp dụng quy tắc phát âm đuôi -ed:\n  + Phát âm /ɪd/ khi âm tận cùng từ gốc là /t/ hoặc /d/\n  + Phát âm /t/ khi âm tận cùng từ gốc là âm vô thanh: /p, k, f, s, ʃ, tʃ/\n  + Phát âm /d/ trong các trường hợp còn lại\n- Xét từng từ:\n  + A. visited /ˈvɪzɪtɪd/ ➔ từ gốc 'visit' tận cùng là /t/ ➔ phát âm /ɪd/\n  + B. decided /dɪˈsaɪdɪd/ ➔ từ gốc 'decide' tận cùng là /d/ ➔ phát âm /ɪd/\n  + C. stopped /stɒpt/ ➔ từ gốc 'stop' tận cùng là /p/ (vô thanh) ➔ phát âm /t/\n  + D. needed /ˈniːdɪd/ ➔ từ gốc 'need' tận cùng là /d/ ➔ phát âm /ɪd/\n➔ Đáp án C có đuôi -ed phát âm là /t/, khác với /ɪd/ ở ba đáp án còn lại.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: visited (đã thăm), decided (đã quyết định), stopped (đã dừng lại), needed (đã cần). ➔ Đáp án C.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_edes_2",
+        "question": "[Phát âm đuôi -s/-es]: Mark the letter A, B, C, or D to indicate the word whose underlined part differs in pronunciation: A. books  B. cats  C. maps  D. dogs",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài phân biệt cách phát âm đuôi -s/-es của danh từ số nhiều / động từ ngôi thứ 3 số ít.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nhầm lẫn giữa âm vô thanh (tạo ra đuôi /s/) và âm hữu thanh (tạo ra đuôi /z/).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Quy tắc phát âm đuôi -s/-es:\n  + Phát âm /s/ khi âm cuối từ gốc là âm vô thanh: /p, k, f, t, θ/\n  + Phát âm /ɪz/ khi âm cuối từ gốc là âm gió: /s, z, ʃ, ʒ, tʃ, dʒ/\n  + Phát âm /z/ khi âm cuối từ gốc là âm hữu thanh còn lại (nguyên âm và phụ âm hữu thanh)\n- Xét từng từ:\n  + A. books /bʊks/ ➔ gốc 'book' âm cuối /k/ (vô thanh) ➔ đuôi phát âm /s/\n  + B. cats /kæts/ ➔ gốc 'cat' âm cuối /t/ (vô thanh) ➔ đuôi phát âm /s/\n  + C. maps /mæps/ ➔ gốc 'map' âm cuối /p/ (vô thanh) ➔ đuôi phát âm /s/\n  + D. dogs /dɒɡz/ ➔ gốc 'dog' âm cuối /ɡ/ (hữu thanh) ➔ đuôi phát âm /z/\n➔ Từ 'dogs' có đuôi -s phát âm là /z/, khác với /s/ ở ba từ còn lại.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: books (sách), cats (mèo), maps (bản đồ), dogs (chó). ➔ Đáp án D.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_edes_lt",
+    "name": "-ed: /t/ (p,k,f,s,ʃ,tʃ...), /ɪd/ (t,d...), /d/ (còn lại...) | -s/-es: /s/ (p,k,f,t,θ...), /ɪz/ (s,z,ʃ,ʒ...), /z/ (còn lại...)",
+    "type": "STEP",
+    "parentId": "anh9_les_ed_s_es",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_edes_pp",
+    "name": "Phương pháp ➔ Mẹo loại trừ đáp án nhanh + Ghi nhớ âm vô thanh / hữu thanh bằng câu thần chú...",
+    "type": "STEP",
+    "parentId": "anh9_les_ed_s_es",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_edes_tt",
+    "name": "Thuật toán ➔ Tách đuôi -ed/-s ➔ Bắt âm cuối từ gốc ➔ Áp quy tắc chốt đáp án...",
+    "type": "STEP",
+    "parentId": "anh9_les_ed_s_es",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_edes_bay",
+    "name": "Né bẫy ➔ Bẫy tính từ đuôi -ed phát âm /ɪd/ (wicked, learned, naked, aged, beloved...)",
+    "type": "STEP",
+    "parentId": "anh9_les_ed_s_es",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_stress",
+    "name": "Word Stress Rules",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_phonetics",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_stress_2_3_syllables",
+    "name": "Trọng âm từ có 2, 3 và nhiều âm tiết",
+    "type": "LESSON",
+    "parentId": "anh9_top_stress",
+    "examples": [
+      {
+        "id": "ex_str_1",
+        "question": "[Trọng âm từ 2 âm tiết]: Mark the letter A, B, C, or D to indicate the word whose main stress position differs from the others: A. attract  B. decide  C. beauty  D. receive",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài tìm từ có vị trí trọng âm chính khác biệt ở nhóm từ 2 âm tiết.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy không xác định từ loại (Động từ vs Danh từ/Tính từ); các động từ 2 âm tiết thường nhấn âm 2, còn danh từ/tính từ nhấn âm 1.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. attract /əˈtrækt/ (động từ) ➔ trọng âm rơi vào âm tiết 2\n- B. decide /dɪˈsaɪd/ (động từ) ➔ trọng âm rơi vào âm tiết 2\n- C. beauty /ˈbjuːti/ (danh từ) ➔ trọng âm rơi vào âm tiết 1\n- D. receive /rɪˈsiːv/ (động từ) ➔ trọng âm rơi vào âm tiết 2\n➔ Từ 'beauty' có trọng âm rơi vào âm tiết 1, khác với âm tiết 2 ở các từ còn lại.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: attract (thu hút), decide (decide), beauty (vẻ đẹp), receive (nhận). ➔ Đáp án C.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_str_2",
+        "question": "[Trọng âm từ 3 âm tiết]: Mark the letter A, B, C, or D to indicate the word whose main stress differs: A. tradition  B. decision  C. pollution  D. heritage",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài xác định trọng âm từ 3 âm tiết có chứa các hậu tố đặc biệt (-ion, -age).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy quên quy tắc đuôi -ion (trọng âm rơi vào ngay âm tiết trước nó) và bẫy danh từ 3 âm tiết có chứa âm yếu /ə/.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. tradition /trəˈdɪʃn/ (đuôi -ion) ➔ trọng âm âm tiết 2\n- B. decision /dɪˈsɪʒn/ (đuôi -ion) ➔ trọng âm âm tiết 2\n- C. pollution /pəˈluːʃn/ (đuôi -ion) ➔ trọng âm âm tiết 2\n- D. heritage /ˈherɪtɪdʒ/ (danh từ 3 âm tiết) ➔ trọng âm âm tiết 1\n➔ Từ 'heritage' nhấn âm tiết 1, khác với âm tiết 2 ở ba từ còn lại.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: tradition (truyền thống), decision (quyết định), pollution (sự ô nhiễm), heritage (di sản). ➔ Đáp án D.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_str_lt",
+    "name": "2 âm tiết: Động từ (âm 2...), Danh/Tính từ (âm 1...) | Đuôi -ic, -ion, -ious... ➔ Trọng âm kề cuối | Đuôi -ee, -eer, -ese... ➔ Trọng âm chính nó...",
+    "type": "STEP",
+    "parentId": "anh9_les_stress_2_3_syllables",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_str_pp",
+    "name": "Phương pháp ➔ Đếm ngược âm tiết + Mẹo nhận diện hậu tố (Suffixes) trong 5 giây...",
+    "type": "STEP",
+    "parentId": "anh9_les_stress_2_3_syllables",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_str_tt",
+    "name": "Thuật toán ➔ Nhận diện từ loại/hậu tố ➔ Áp quy tắc trọng âm ➔ Đánh số thứ tự âm tiết chốt đáp án...",
+    "type": "STEP",
+    "parentId": "anh9_les_stress_2_3_syllables",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_str_bay",
+    "name": "Né bẫy ➔ Ngoại lệ 2 âm tiết (record, present, visit, answer...) & Âm yếu /ə/, /ɪ/ không nhận trọng âm...",
+    "type": "STEP",
+    "parentId": "anh9_les_stress_2_3_syllables",
+    "examples": null
+  },
+  {
+    "id": "anh9_cat_vocabulary",
+    "name": "Vocabulary by Topics & Word Mechanics",
+    "type": "CATEGORY",
+    "parentId": "anh9_subject",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_vocab_topics",
+    "name": "Từ vựng theo chủ điểm Global Success 9",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_vocab_community_city",
+    "name": "Từ vựng Community, City life & Healthy living (Units 1, 2, 3)",
+    "type": "LESSON",
+    "parentId": "anh9_top_vocab_topics",
+    "examples": [
+      {
+        "id": "ex_vcc_1",
+        "question": "[Từ vựng theo chủ điểm]: Choose the best answer: Heavy traffic jams are a major problem in this city during _____ hours. A. peak  B. rush  C. busy  D. crowded",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi kiểm tra Cụm từ cố định (Collocation) miêu tả 'giờ cao điểm' trong môi trường đô thị (Unit 2 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chọn các tính từ gần nghĩa như 'busy' hay 'crowded' thay vì kết hợp từ chuẩn xác đi với 'hours'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Cụm từ cố định chuẩn trong tiếng Anh chỉ 'giờ cao điểm giao thông' là 'rush hours'.\n- Mặc dù 'busy' (bận rộn), 'crowded' (đông đúc) có nghĩa tương tự nhưng không đi thành cụm cố định với 'hours' để chỉ giờ cao điểm.\n➔ Chốt đáp án B (rush).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Ùn tắc giao thông nghiêm trọng là một vấn đề lớn ở thành phố này trong những giờ cao điểm. ➔ Đáp án B.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_vcc_2",
+        "question": "[Từ vựng theo chủ điểm]: Choose the best option: Doing yoga regularly can help teens manage their _____ levels before exams. A. anxiety  B. craft  C. suburb  D. monument",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chọn danh từ phù hợp nghĩa ngữ cảnh thuộc chủ đề Sức khỏe thiếu niên (Healthy living for teens - Unit 3 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy không hiểu nghĩa các danh từ chỉ trạng thái tâm lý thiếu niên trước kỳ thi.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. anxiety (n): sự lo âu, cảm giác căng thẳng ➔ Khớp ngữ cảnh 'manage their anxiety levels' (quản lý mức độ lo âu)\n- B. craft (n): đồ thủ công\n- C. suburb (n): vùng ngoại ô\n- D. monument (n): đài tưởng niệm\n➔ Chốt đáp án A (anxiety).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Tập yoga thường xuyên có thể giúp học sinh thiếu niên kiểm soát mức độ lo âu trước các kỳ thi. ➔ Đáp án A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_vcc_lt",
+    "name": "Chủ điểm ➔ Artisan, handicraft, suburb, congestion, anxiety, well-being, garbage collector...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_community_city",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vcc_pp",
+    "name": "Phương pháp ➔ Mẹo đoán nghĩa qua ngữ cảnh (Contextual clues) + Mẹo nhớ Collocations...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_community_city",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vcc_tt",
+    "name": "Thuật toán ➔ Bắt Keywords ngữ cảnh ➔ Xác định nét nghĩa & từ loại cần điền ➔ Loại trừ đáp án gây nhiễu...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_community_city",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vcc_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn từ gần nghĩa (urban vs suburban, stress vs anxiety, rush hours vs peak hours...)",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_community_city",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_vocab_heritage_wonders",
+    "name": "Từ vựng Heritage, Wonders & Environment (Units 4, 7, 10)",
+    "type": "LESSON",
+    "parentId": "anh9_top_vocab_topics",
+    "examples": [
+      {
+        "id": "ex_vhw_1",
+        "question": "[Từ vựng theo chủ điểm]: Choose the best option: Trang An Scenic Landscape Complex was recognised as a UNESCO World _____ Site in 2014. A. Heritage  B. Citadel  C. Cavern  D. Structure",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi về cụm danh từ danh xưng di sản thế giới 'UNESCO World Heritage Site' (Unit 4, 7 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chọn các danh từ mô tả công trình kiến trúc (citadel, structure) thay vì danh từ gốc cấu tạo danh hiệu quốc tế 'Heritage'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Cụm từ cố định chuẩn được UNESCO công nhận: 'World Heritage Site' (Di sản Thế giới).\n- Trang An là Quần thể danh thắng được công nhận là Di sản Thế giới hỗn hợp (thiên nhiên & văn hóa).\n➔ Chốt đáp án A (Heritage).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Quần thể danh thắng Tràng An đã được công nhận là Di sản Thế giới UNESCO vào năm 2014. ➔ Đáp án A.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_vhw_2",
+        "question": "[Từ vựng theo chủ điểm]: Choose the best option: Local authorities are trying to _____ natural habitats to protect endangered species. A. preserve  B. destroy  C. pollute  D. construct",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chọn động từ phù hợp ngữ cảnh thuộc chủ đề Môi trường & Bảo tồn hệ sinh thái (Planet Earth - Unit 10 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chọn động từ mang nghĩa tiêu cực (destroy, pollute) hoặc không sát nghĩa bảo tồn môi trường tự nhiên.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. preserve (v): bảo tồn, giữ gìn ➔ Khớp mục đích 'protect endangered species' (bảo vệ loài nguy cấp)\n- B. destroy (v): phá hủy\n- C. pollute (v): làm ô nhiễm\n- D. construct (v): xây dựng\n➔ Chốt đáp án A (preserve).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Chính quyền địa phương đang nỗ lực bảo tồn các môi trường sống tự nhiên để bảo vệ các loài có nguy cơ tuyệt chủng. ➔ Đáp án A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_vhw_lt",
+    "name": "Chủ điểm ➔ World Heritage Site, ancient citadel, limestone cavern, natural habitat, biodiversity...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_heritage_wonders",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vhw_pp",
+    "name": "Phương pháp ➔ Ghi nhớ danh từ ghép (Compound Nouns) & Động từ chỉ hành động bảo vệ môi trường...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_heritage_wonders",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vhw_tt",
+    "name": "Thuật toán ➔ Bắt tín hiệu ngữ cảnh bảo tồn/di sản ➔ Chọn Collocation tương ứng ➔ Dịch nghĩa chốt...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_heritage_wonders",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_vhw_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa preserve (bảo tồn nguyên trạng) và conserve (sử dụng tiết kiệm, bền vững)...",
+    "type": "STEP",
+    "parentId": "anh9_les_vocab_heritage_wonders",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_articles_advanced",
+    "name": "Mạo từ nâng cao (A / An / The & Zero article Ø cho danh lam thắng cảnh)",
+    "type": "LESSON",
+    "parentId": "anh9_top_vocab_topics",
+    "examples": [
+      {
+        "id": "ex_art_1",
+        "question": "[Mạo từ địa danh]: Choose the best answer: _____ Red River flows through Hanoi, the capital of Vietnam. A. A  B. An  C. The  D. Ø",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi kiểm tra quy tắc dùng mạo từ trước tên riêng sông núi, đại dương (Unit 4, 7 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nghĩ rằng tên riêng địa danh luôn không dùng mạo từ (Zero article Ø); quy tắc bắt buộc dùng 'The' trước tên sông, biển, đại dương, dãy núi.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Quy tắc mạo từ địa danh:\n  + Dùng 'The' trước tên sông (rivers), biển (seas), đại dương (oceans), dãy núi số nhiều (mountain ranges).\n  + 'Red River' (Sông Hồng) là tên một con sông ➔ Bắt buộc dùng mạo từ 'The'.\n➔ Chốt đáp án C (The).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Sông Hồng chảy qua Hà Nội, thủ đô của Việt Nam. ➔ Đáp án C.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_art_2",
+        "question": "[Mạo từ nâng cao]: Choose the best answer: Many mountaineers dream of climbing _____ Mount Fansipan, the highest peak in Indochina. A. a  B. an  C. the  D. Ø",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài mạo từ kiểm tra quy tắc đi với tên ngọn núi đơn lẻ (peaks/single mountains) hoặc tên hồ nước.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nhầm lẫn giữa dãy núi số nhiều (dùng 'The' như The Himalayas) và một đỉnh núi/ngọn núi đơn lẻ (dùng Zero article Ø).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Quy tắc mạo từ:\n  + Không dùng mạo từ (Zero article Ø) trước tên một ngọn núi đơn lẻ có từ 'Mount' đứng trước (như Mount Fansipan, Mount Everest).\n  + Không dùng mạo từ trước tên một hồ nước đơn (Lake Baikal, West Lake).\n➔ Chốt đáp án D (Ø).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Nhiều nhà leo núi mơ ước chinh phục đỉnh Fansipan, đỉnh núi cao nhất Đông Dương. ➔ Đáp án D.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_art_lt",
+    "name": "The + Sông/Biển/Dãy núi/Di sản độc nhất... | Zero article (Ø) + Tên hồ/Đỉnh núi đơn/Tỉnh thành...",
+    "type": "STEP",
+    "parentId": "anh9_les_articles_advanced",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_art_pp",
+    "name": "Phương pháp ➔ Bảng phân loại danh từ địa lý & Phân biệt danh từ xác định vs không xác định...",
+    "type": "STEP",
+    "parentId": "anh9_les_articles_advanced",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_art_tt",
+    "name": "Thuật toán ➔ Nhận diện danh từ địa danh ➔ Áp quy tắc mạo từ 'The' hay 'Ø' ➔ Chốt đáp án...",
+    "type": "STEP",
+    "parentId": "anh9_les_articles_advanced",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_art_bay",
+    "name": "Né bẫy ➔ Bẫy thêm 'The' trước tên đỉnh núi đơn (Mount Fansipan) hoặc tên hồ (West Lake)...",
+    "type": "STEP",
+    "parentId": "anh9_les_articles_advanced",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_phrasal_wordform",
+    "name": "Phrasal Verbs & Word Form",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_vocabulary",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_phrasal_verbs",
+    "name": "Cụm động từ (Phrasal Verbs) lớp 9",
+    "type": "LESSON",
+    "parentId": "anh9_top_phrasal_wordform",
+    "examples": [
+      {
+        "id": "ex_pv_1",
+        "question": "[Phrasal Verbs]: Many traditional craft workshops in this village have had to _____ because of low demand. A. close down  B. pass down  C. face up to  D. come down with",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chọn Cụm động từ (Phrasal Verbs) phù hợp ngữ cảnh đóng cửa / ngừng hoạt động xưởng thủ công (Unit 1 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nhầm lẫn giữa các phrasal verb đi với giới từ 'down' (close down, pass down, come down with) hoặc chọn sai từ theo nghĩa truyền lại (pass down).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. close down: đóng cửa, ngừng hoạt động vĩnh viễn (xưởng làm việc, cửa hàng) ➔ Khớp ngữ cảnh 'craft workshops... low demand'\n- B. pass down: truyền lại cho thế hệ sau\n- C. face up to: chấp nhận, đối mặt với thực tế khó khăn\n- D. come down with: bị mắc bệnh nhẹ (cúm, cảm lạnh)\n➔ Chốt đáp án A (close down).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Nhiều xưởng thủ công truyền thống ở làng này đã phải đóng cửa vì nhu cầu thị trường thấp. ➔ Đáp án A.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_pv_2",
+        "question": "[Phrasal Verbs]: Artisan families have _____ their traditional pottery skills from generation to generation. A. handed down  B. turned off  C. looked up  D. cut down on",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chọn Cụm động từ (Phrasal Verbs) miêu tả việc trao lại / truyền nghề qua các thế hệ (Unit 1 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nhầm lẫn giữa 'hand down' (truyền lại) và 'cut down on' (cắt giảm) hoặc 'look up' (tra cứu).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- A. hand down = pass down: truyền lại từ đời này sang đời khác (khớp cụm 'from generation to generation')\n- B. turn off: tắt thiết bị\n- C. look up: tra cứu thông tin\n- D. cut down on: cắt giảm tiêu dùng\n➔ Chốt đáp án A (handed down).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Các gia đình nghệ nhân đã truyền lại kỹ năng làm gốm truyền thống của họ từ thế hệ này sang thế hệ khác. ➔ Đáp án A.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_pv_lt",
+    "name": "Phrasal Verbs ➔ Pass down, hand down, close down, face up to, come down with, cut down on, get on with...",
+    "type": "STEP",
+    "parentId": "anh9_les_phrasal_verbs",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_pv_pp",
+    "name": "Phương pháp ➔ Nhóm phrasal verbs theo gốc động từ (go, turn, look, get...) & Giới từ chỉ hướng...",
+    "type": "STEP",
+    "parentId": "anh9_les_phrasal_verbs",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_pv_tt",
+    "name": "Thuật toán ➔ Xác định ngữ cảnh câu ➔ Phân tích ý nghĩa cụm động từ ➔ Loại trừ phương án sai...",
+    "type": "STEP",
+    "parentId": "anh9_les_phrasal_verbs",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_pv_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa phrasal verb có 2 giới từ (look forward to, cut down on, face up to...)",
+    "type": "STEP",
+    "parentId": "anh9_les_phrasal_verbs",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_word_formation",
+    "name": "Biến đổi dạng đúng của từ (Word Form)",
+    "type": "LESSON",
+    "parentId": "anh9_top_phrasal_wordform",
+    "examples": [
+      {
+        "id": "ex_wf_1",
+        "question": "[Biến đổi Word Form]: Give the correct form of the word in brackets: Hoi An Ancient Town is one of the most famous tourist _____ in Vietnam. (ATTRACT)",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài điền dạng đúng của từ trong ngoặc (Word Formation) dựa trên vị trí cú pháp trong câu.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy xác định đúng danh từ 'attraction' nhưng quên chia số nhiều 'attractions' sau cụm 'one of the most famous tourist...'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Phân tích cú pháp: Đứng sau cụm 'one of the + Adj + N(số nhiều)' ➔ Cần một Danh từ đếm được số nhiều.\n- Gốc từ 'ATTRACT' (v) ➔ Danh từ chỉ sự thu hút / địa điểm du lịch là 'attraction' (n).\n- Chuyển sang danh từ số nhiều: 'attractions'.\n➔ Chốt từ cần điền: attractions.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Phố cổ Hội An là một trong những điểm thu hút du khách nổi tiếng nhất ở Việt Nam. ➔ Đáp án: attractions.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_wf_2",
+        "question": "[Biến đổi Word Form]: Give the correct form of the word in brackets: Using public transport is an _____ friendly way to travel around the city. (ENVIRONMENT)",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài điền Trạng từ (Adverb) bổ nghĩa cho Tính từ ghép đứng phía sau ('friendly').\n2. Cảnh báo bẫy ngầm đề bài: Bẫy tưởng 'friendly' là trạng từ nên điền danh từ; thực chất 'friendly' là Tính từ (Adj), do đó từ đứng trước phải là Trạng từ (Adv) bổ nghĩa cho nó.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Cấu trúc: Adv + Adj + Noun ➔ Trạng từ bổ nghĩa cho Tính từ 'friendly'.\n- Gốc từ 'ENVIRONMENT' (n) ➔ Tính từ 'environmental' ➔ Trạng từ 'environmentally'.\n- Cụm tính từ ghép quen thuộc: 'environmentally friendly' (thân thiện với môi trường).\n➔ Chốt từ cần điền: environmentally.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Sử dụng phương tiện giao thông công cộng là một cách di chuyển quanh thành phố thân thiện với môi trường. ➔ Đáp án: environmentally.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_wf_lt",
+    "name": "N ➔ Suffixes (-tion, -ment, -ness, -ity, -ance...) | Adj ➔ (-ful, -less, -ive, -ous, -able...) | Adv ➔ Adj + ly...",
+    "type": "STEP",
+    "parentId": "anh9_les_word_formation",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_wf_pp",
+    "name": "Phương pháp ➔ Phân tích vị trí từ loại (Adj + N, V + Adv, Be + Adj, One of + N-plural...)...",
+    "type": "STEP",
+    "parentId": "anh9_les_word_formation",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_wf_tt",
+    "name": "Thuật toán ➔ Nhìn trước sau khoảng trống ➔ Xác định từ loại ➔ Biến đổi tiền tố/hậu tố ➔ Kiểm tra số nhiều/phủ định...",
+    "type": "STEP",
+    "parentId": "anh9_les_word_formation",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_wf_bay",
+    "name": "Né bẫy ➔ Quên thêm s/es cho danh từ số nhiều hoặc quên tiền tố phủ định (un-, im-, in-, dis...)",
+    "type": "STEP",
+    "parentId": "anh9_les_word_formation",
+    "examples": null
+  },
+  {
+    "id": "anh9_cat_grammar",
+    "name": "Grammar System for Grade 10 Entrance Exam",
+    "type": "CATEGORY",
+    "parentId": "anh9_subject",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_relative_clauses",
+    "name": "Mệnh đề quan hệ (Relative Clauses)",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_relative_clauses",
+    "name": "Sử dụng Đại từ & Trạng từ quan hệ",
+    "type": "LESSON",
+    "parentId": "anh9_top_relative_clauses",
+    "examples": [
+      {
+        "id": "ex_rc_1",
+        "question": "[Mệnh đề quan hệ]: Choose the best answer: The artisan _____ made these beautiful lacquerware products lives in a traditional craft village. A. who  B. which  C. whom  D. whose",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài điền đại từ quan hệ thay thế cho danh từ chỉ người đóng vai trò làm Chủ ngữ trong mệnh đề quan hệ.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy nhầm lẫn giữa 'who' (làm chủ ngữ/tân ngữ) và 'whom' (chỉ làm tân ngữ) hoặc 'whose' (chỉ sở hữu trước danh từ).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Danh từ đứng trước: 'The artisan' (nghệ nhân) ➔ Danh từ chỉ người.\n- Phía sau khoảng trống là Động từ 'made' ➔ Khoảng trống đóng vai trò làm Chủ ngữ (Subject).\n- Đại từ quan hệ thay cho danh từ chỉ người làm chủ ngữ là 'Who'.\n➔ Chốt đáp án A (who).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Nghệ nhân người mà đã làm ra những sản phẩm sơn mài đẹp đẽ này sống ở một làng nghề truyền thống. ➔ Đáp án A.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_rc_2",
+        "question": "[Trạng từ quan hệ]: Choose the best answer: This is the ancient town _____ my family visited two years ago. A. where  B. which  C. when  D. who",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài phân biệt giữa Trạng từ quan hệ 'where' và Đại từ quan hệ 'which' khi danh từ đứng trước là một địa danh ('the ancient town').\n2. Cảnh báo bẫy ngầm đề bài: Bẫy thấy địa danh vội vàng chọn 'where' mà không kiểm tra xem động từ đứng sau có tân ngữ chưa. Nếu mệnh đề sau là S + V + O thì 'which' làm tân ngữ cho động từ đó!\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Danh từ đứng trước: 'the ancient town' (phố cổ - chỉ vật/địa điểm).\n- Phân tích mệnh đề quan hệ: 'my family (S) + visited (V) + [thiếu tân ngữ O]'. Động từ 'visit' đòi hỏi tân ngữ trực tiếp (visit something).\n- Vì thay thế cho tân ngữ trực tiếp chỉ vật ➔ Phải dùng Đại từ quan hệ 'Which' (không dùng 'where' vì 'where = in/at which').\n➔ Chốt đáp án B (which).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Đây là ngôi phố cổ mà gia đình tôi đã đến thăm hai năm trước. ➔ Đáp án B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_rc_lt",
+    "name": "Who (người - S/O...) | Whom (người - O...) | Which (vật - S/O...) | Whose (sở hữu + N...) | That (người/vật...)",
+    "type": "STEP",
+    "parentId": "anh9_les_relative_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rc_pp",
+    "name": "Phương pháp ➔ Phân tích danh từ đứng trước & Thành phần đứng sau khoảng trống...",
+    "type": "STEP",
+    "parentId": "anh9_les_relative_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rc_tt",
+    "name": "Thuật toán ➔ Bắt danh từ tiền ngữ ➔ Kiểm tra S/V/O đằng sau ➔ Chọn đại từ/trạng từ quan hệ chuẩn...",
+    "type": "STEP",
+    "parentId": "anh9_les_relative_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rc_bay",
+    "name": "Né bẫy ➔ Tuyệt đối KHÔNG dùng 'That' sau dấu phẩy (mệnh đề không xác định) hoặc sau giới từ...",
+    "type": "STEP",
+    "parentId": "anh9_les_relative_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_reported_speech",
+    "name": "Câu gián tiếp (Reported Speech)",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_reported_speech",
+    "name": "Chuyển đổi Câu gián tiếp & Câu hỏi/mệnh lệnh",
+    "type": "LESSON",
+    "parentId": "anh9_top_reported_speech",
+    "examples": [
+      {
+        "id": "ex_rs_1",
+        "question": "[Viết lại câu gián tiếp]: Rewrite the sentence: \"I am learning how to preserve local handicrafts,\" said Lan. ➔ Lan said that __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chuyển đổi câu tường thuật trực tiếp sang gián tiếp (Reported Speech - Statements).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy quên lùi thì của động từ (am learning ➔ was learning), quên đổi đại từ xưng hô (I ➔ she) hoặc trạng từ thời gian/nơi chốn.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Bước 1: Đổi đại từ: 'I' ➔ 'she' (do Lan là nữ).\n- Bước 2: Lùi thì động từ: 'am learning' (Hiện tại tiếp diễn) ➔ 'was learning' (Quá khứ tiếp diễn).\n- Bước 3: Giữ nguyên các phần không chứa từ phải đổi: 'how to preserve local handicrafts'.\n➔ Kết quả: Lan said that she was learning how to preserve local handicrafts.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Lan nói rằng cô ấy đang học cách bảo tồn các sản phẩm thủ công địa phương. ➔ Chốt câu hoàn thành.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_rs_2",
+        "question": "[Viết lại câu gián tiếp - Câu hỏi Yes/No]: Rewrite the sentence: \"Do you live near the town center, Mai?\" asked Nam. ➔ Nam asked Mai if __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chuyển đổi câu hỏi Yes/No sang câu gián tiếp sử dụng từ nối 'if' hoặc 'whether'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy giữ nguyên trợ động từ 'do/does/did' hoặc quên đảo trật tự về dạng câu khẳng định (S + V) và quên lùi thì.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Đề bài cho sẵn từ nối 'if'.\n- Đổi đại từ 'you' ➔ 'she' (chỉ Mai).\n- Bỏ trợ động từ 'Do', đổi động từ 'live' (Hiện tại đơn) lùi thì sang 'lived' (Quá khứ đơn).\n- Giữ nguyên 'near the town center'.\n➔ Kết quả: Nam asked Mai if she lived near the town center.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Nam đã hỏi Mai xem cô ấy có sống gần trung tâm thị trấn hay không. ➔ Chốt câu hoàn thành.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_rs_lt",
+    "name": "Say/Tell that ➔ Lùi thì (Present ➔ Past, Will ➔ Would...) + Đổi đại từ + Đổi trạng từ (now ➔ then, today ➔ that day...)",
+    "type": "STEP",
+    "parentId": "anh9_les_reported_speech",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rs_pp",
+    "name": "Phương pháp ➔ Thuật toán 3 bước: Đổi đại từ ➔ Lùi thì động từ ➔ Đổi trạng từ chỉ thời gian/nơi chốn...",
+    "type": "STEP",
+    "parentId": "anh9_les_reported_speech",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rs_tt",
+    "name": "Thuật toán ➔ Bắt động từ tường thuật ➔ Bỏ dấu ngoặc kép ➔ Đổi trật tự câu hỏi về S + V lùi thì...",
+    "type": "STEP",
+    "parentId": "anh9_les_reported_speech",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rs_bay",
+    "name": "Né bẫy ➔ Bẫy lùi thì khi câu diễn tả sự thật hiển nhiên/chân lý hoặc bẫy giữ nguyên trợ động từ trong câu hỏi...",
+    "type": "STEP",
+    "parentId": "anh9_les_reported_speech",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_passive_voice",
+    "name": "Câu bị động & Bị động đặc biệt (Passive Voice)",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_special_passive",
+    "name": "Câu bị động đặc biệt & Câu bị động khách quan (Special Passive Voice)",
+    "type": "LESSON",
+    "parentId": "anh9_top_passive_voice",
+    "examples": [
+      {
+        "id": "ex_sp_1",
+        "question": "[Bị động khách quan]: Rewrite the sentence: People say that the ancient citadel was built in the 15th century. ➔ It is __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài viết lại câu bị động khách quan (Impersonal Passive) với động từ tường thuật 'say' (Unit 4 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chia sai thì của chủ ngữ giả 'It is' hoặc biến đổi nhầm thì của mệnh đề 'that' đứng sau.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Cấu trúc bị động khách quan với 'It':\n  + $People + say + that + S2 + V2$ ➔ $It + is + said + that + S2 + V2$\n- Động từ tường thuật gốc là 'say' (Hiện tại đơn) ➔ Chuyển thành 'It is said'.\n- Giữ nguyên mệnh đề 'that' phía sau: 'that the ancient citadel was built in the 15th century'.\n➔ Kết quả: It is said that the ancient citadel was built in the 15th century.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Người ta nói rằng tòa thành cổ được xây dựng vào thế kỷ 15. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_sp_2",
+        "question": "[Bị động chuyển Chủ ngữ 2]: Rewrite the sentence: They report that the local artisan completed the tapestry last week. ➔ The local artisan is reported __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chuyển đổi câu bị động nâng cao bằng cách đưa Chủ ngữ 2 (S2) lên đầu câu.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy không so sánh thì giữa 2 mệnh đề; khi mệnh đề sau xảy ra trước mệnh đề trước ('completed' quá khứ vs 'report' hiện tại) bắt buộc phải dùng 'to have Vpp'!\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Đưa S2 'The local artisan' lên làm chủ ngữ.\n- Động từ tường thuật 'report' (hiện tại đơn) ➔ 'is reported'.\n- So sánh thì: 'report' (hiện tại) vs 'completed' (quá khứ) ➔ Hành động hành nghề xảy ra trước ➔ Dùng 'to have completed'.\n➔ Kết quả: The local artisan is reported to have completed the tapestry last week.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Nghệ nhân địa phương được báo cáo là đã hoàn thành tấm thảm thêu vào tuần trước. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_sp_lt",
+    "name": "It + is/was + Vpp + that + S + V... | S2 + is/was + Vpp + to-V / to have Vpp...",
+    "type": "STEP",
+    "parentId": "anh9_les_special_passive",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_sp_pp",
+    "name": "Phương pháp ➔ Bắt động từ tường thuật (say, think, report, believe...) + So sánh mốc thời gian 2 mệnh đề...",
+    "type": "STEP",
+    "parentId": "anh9_les_special_passive",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_sp_tt",
+    "name": "Thuật toán ➔ Cùng thì dùng 'to V-inf' ➔ Khác thì (mệnh đề sau xảy ra trước) dùng 'to have Vpp'...",
+    "type": "STEP",
+    "parentId": "anh9_les_special_passive",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_sp_bay",
+    "name": "Né bẫy ➔ Bẫy nhầm thì động từ 'be' ở chủ ngữ giả 'It' hoặc quên chia 'to have Vpp' khi lệch thì...",
+    "type": "STEP",
+    "parentId": "anh9_les_special_passive",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_conditionals_wish",
+    "name": "Câu điều kiện & Cấu trúc Wish",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_conditionals_type1_2",
+    "name": "Câu điều kiện loại 1, loại 2 & Wish ở hiện tại",
+    "type": "LESSON",
+    "parentId": "anh9_top_conditionals_wish",
+    "examples": [
+      {
+        "id": "ex_cw_1",
+        "question": "[Câu điều kiện loại 2]: Choose the best answer: If I _____ you, I would take part in the community cleanup project. A. am  B. was  C. were  D. be",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chọn dạng đúng của động từ trong mệnh đề If của Câu điều kiện loại 2 (giả định không có thật ở hiện tại).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chọn 'was' theo thói quen danh từ số ít; trong văn phong thi cử chuẩn của Câu điều kiện loại 2, 'were' được ưu tiên sử dụng cho tất cả các ngôi chủ ngữ.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Nhận diện mệnh đề chính: 'would take' (would + V-inf) ➔ Câu điều kiện loại 2.\n- Cấu trúc mệnh đề If loại 2: $If + S + V(quá khứ đơn)$.\n- Động từ 'to be' ở mệnh đề If loại 2 chia là 'were' cho mọi ngôi (If I were you = Nếu tôi là bạn).\n➔ Chốt đáp án C (were).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Nếu tôi là bạn, tôi sẽ tham gia vào dự án dọn dẹp vệ sinh cộng đồng. ➔ Đáp án C.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_cw_2",
+        "question": "[Viết lại câu với Wish]: Rewrite the sentence: What a pity! I cannot speak English fluently. ➔ I wish __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài viết lại câu bày tỏ ước muốn trái ngược với thực tế ở hiện tại (Wish for present).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy giữ nguyên thì hiện tại 'cannot' mà quên lùi thì sang quá khứ 'could not / could'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Thực tế hiện tại: 'cannot speak' (không thể nói).\n- Ước muốn trái ngược thực tế hiện tại ➔ Lùi thì về Quá khứ đơn / Khuyết thiếu quá khứ.\n- Cấu trúc: $S + wish(es) + S + V(quá khứ)$. 'cannot speak' ➔ 'could speak'.\n➔ Kết quả: I wish I could speak English fluently.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Ước gì tôi có thể nói tiếng Anh trôi chảy. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_cw_lt",
+    "name": "If loại 1 ➔ $If + S + V(pres), S + will + V$ | If loại 2 ➔ $If + S + V(past/were), S + would + V$ | Wish ➔ $S + wish + S + V(past)...$",
+    "type": "STEP",
+    "parentId": "anh9_les_conditionals_type1_2",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_cw_pp",
+    "name": "Phương pháp ➔ Xác định mốc thời gian thực tế ➔ Lùi thì tương ứng & Đổi thể khẳng định/phủ định...",
+    "type": "STEP",
+    "parentId": "anh9_les_conditionals_type1_2",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_cw_tt",
+    "name": "Thuật toán ➔ Nhìn mệnh đề cho trước ➔ Xác định loại điều kiện ➔ Áp công thức chia động từ chuẩn...",
+    "type": "STEP",
+    "parentId": "anh9_les_conditionals_type1_2",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_cw_bay",
+    "name": "Né bẫy ➔ Dùng nhầm 'will/would' trong mệnh đề If hoặc quên đổi 'was' thành 'were' trong văn phong chuẩn...",
+    "type": "STEP",
+    "parentId": "anh9_les_conditionals_type1_2",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_tense_coordination",
+    "name": "Sự phối hợp thì nâng cao (When / While & By the time...)",
+    "type": "LESSON",
+    "parentId": "anh9_top_conditionals_wish",
+    "examples": [
+      {
+        "id": "ex_tc_1",
+        "question": "[Phối hợp thì When/While]: Choose the best answer: While the artisans _____ traditional pottery, the tourists came to visit the workshop. A. were making  B. are making  C. made  D. have made",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi kiểm tra sự phối hợp thì giữa Quá khứ tiếp diễn và Quá khứ đơn đi với liên từ 'While'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chia hai động từ cùng thì Quá khứ đơn mà không phân biệt hành động đang diễn ra (kéo dài) vs hành động chen ngang (ngắn).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Mệnh đề đi với 'While' diễn tả hành động đang diễn ra trong quá khứ (làm gốm) ➔ Chia Quá khứ tiếp diễn ($was/were + V-ing$).\n- Hành động 'tourists came' (khách du lịch đến) là hành động xen vào ➔ Chia Quá khứ đơn.\n- Chủ ngữ 'the artisans' số nhiều ➔ Dùng 'were making'.\n➔ Chốt đáp án A (were making).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Trong khi các nghệ nhân đang làm gốm truyền thống, du khách đã đến thăm xưởng làm việc. ➔ Đáp án A.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_tc_2",
+        "question": "[Phối hợp thì By the time]: Choose the best answer: By the time we arrive at the heritage site tomorrow, the tour guide _____. A. leaves  B. left  C. will have left  D. had left",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi kiểm tra sự phối hợp thì với cụm trạng ngữ chỉ thời gian 'By the time + Hiện tại đơn' hướng tới tương lai.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy thấy 'By the time' vội vàng chia Quá khứ hoàn thành (had left) mà quên nhìn mốc thời gian 'tomorrow' và động từ 'arrive' ở hiện tại đơn!\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Công thức phối hợp thì với 'By the time' chỉ tương lai:\n  + $By + the + time + S + V(hiện tại đơn), S + will + have + Vpp (Tương lai hoàn thành)$\n- Mệnh đề trạng ngữ: 'By the time we arrive ... tomorrow' (trước khi chúng tôi đến vào ngày mai).\n- Mệnh đề chính diễn tả hành động sẽ hoàn thành trước mốc đó ➔ Chia Tương lai hoàn thành: 'will have left'.\n➔ Chốt đáp án C (will have left).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Trước khi chúng tôi đến khu di sản vào ngày mai, hướng dẫn viên du lịch sẽ đã rời đi rồi. ➔ Đáp án C.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_tc_lt",
+    "name": "When + QK đơn, QK tiếp diễn... | While + QK tiếp diễn... | By the time + Hiện tại đơn, Tương lai hoàn thành...",
+    "type": "STEP",
+    "parentId": "anh9_les_tense_coordination",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_tc_pp",
+    "name": "Phương pháp ➔ Phân biệt hành động kéo dài (tiếp diễn) vs hành động ngắn (xen vào) & Mốc hoàn thành...",
+    "type": "STEP",
+    "parentId": "anh9_les_tense_coordination",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_tc_tt",
+    "name": "Thuật toán ➔ Bắt từ nối (When/While/By the time) ➔ Xác định mốc thời gian ➔ Chia cặp thì chuẩn...",
+    "type": "STEP",
+    "parentId": "anh9_les_tense_coordination",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_tc_bay",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa 'By the time + QK đơn ➔ QK hoàn thành' và 'By the time + HT đơn ➔ TL hoàn thành'...",
+    "type": "STEP",
+    "parentId": "anh9_les_tense_coordination",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_comparisons_question_words",
+    "name": "So sánh nâng cao & Từ hỏi + To-V",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_double_comparatives",
+    "name": "So sánh kép (Double Comparatives) & Question words + To-V",
+    "type": "LESSON",
+    "parentId": "anh9_top_comparisons_question_words",
+    "examples": [
+      {
+        "id": "ex_dc_1",
+        "question": "[So sánh kép]: Choose the best answer: The _____ you study, the better your exam results will be. A. hard  B. harder  C. hardest  D. more hard",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Câu hỏi kiểm tra Cấu trúc So sánh kép (Double Comparatives) 'càng... thì càng...'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy dùng dạng nguyên thể hoặc tính từ so sánh nhất; cấu trúc so sánh kép bắt buộc phải dùng mạo từ 'The' + Tính từ/Trạng từ so sánh hơn ở cả 2 vế.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Cấu trúc chuẩn: $The + comparative + S1 + V1, the + comparative + S2 + V2$.\n- Trạng từ 'hard' dạng so sánh hơn là 'harder'.\n- Vế 1: 'The harder you study' (Bạn càng học chăm chỉ).\n- Vế 2: 'the better your exam results will be' (kết quả thi của bạn càng tốt hơn).\n➔ Chốt đáp án B (harder).\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Bạn càng học hành chăm chỉ, kết quả thi của bạn sẽ càng tốt hơn. ➔ Đáp án B.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_dc_2",
+        "question": "[Question word + To-V]: Rewrite the sentence: She doesn't know where she should buy traditional handicrafts. ➔ She doesn't know where __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài thu gọn mệnh đề danh từ chứa từ hỏi thành cấu trúc 'Question word + To-V' (Unit 1 Global Success).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy giữ lại chủ ngữ 'she' hoặc động từ khuyết thiếu 'should' khi đã chuyển sang 'to-V'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Điều kiện rút gọn: Chủ ngữ của mệnh đề chính ('She') trùng với chủ ngữ mệnh đề từ hỏi ('she').\n- Cấu trúc thu gọn: $Wh-word + S + should/can + V-inf$ ➔ $Wh-word + to + V-inf$.\n- Biến đổi: 'where she should buy' ➔ 'where to buy'.\n➔ Kết quả: She doesn't know where to buy traditional handicrafts.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Cô ấy không biết nên mua đồ thủ công truyền thống ở đâu. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_dc_lt",
+    "name": "So sánh kép ➔ $The + adj/adv-er / more + S1 + V1, the + adj/adv-er / more + S2 + V2$ | Từ hỏi + To-V ➔ $Wh-word + to + V-inf$...",
+    "type": "STEP",
+    "parentId": "anh9_les_double_comparatives",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_dc_pp",
+    "name": "Phương pháp ➔ Chuyển Adj/Adv sang dạng so sánh hơn + Rút gọn mệnh đề từ hỏi cùng chủ ngữ...",
+    "type": "STEP",
+    "parentId": "anh9_les_double_comparatives",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_dc_tt",
+    "name": "Thuật toán ➔ Thêm 'The' đầu mỗi mệnh đề so sánh ➔ Bỏ S + should thay bằng 'to V'...",
+    "type": "STEP",
+    "parentId": "anh9_les_double_comparatives",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_dc_bay",
+    "name": "Né bẫy ➔ Quên 'The' ở vế thứ 2 hoặc dùng nhầm 'why + to V' (từ 'why' KHÔNG đi với to-V)...",
+    "type": "STEP",
+    "parentId": "anh9_les_double_comparatives",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_conjunctions_verb_forms",
+    "name": "Từ nối & Mệnh đề trạng ngữ",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_grammar",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_conjunctions_clauses",
+    "name": "Mệnh đề trạng ngữ nhượng bộ, nguyên nhân & kết quả",
+    "type": "LESSON",
+    "parentId": "anh9_top_conjunctions_verb_forms",
+    "examples": [
+      {
+        "id": "ex_cc_1",
+        "question": "[Từ nối chỉ sự nhượng bộ]: Rewrite the sentence: Although the weather was bad, we went on a guided tour of the citadel. ➔ In spite of __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài viết lại câu chuyển đổi từ mệnh đề nhượng bộ 'Although + S + V' sang cụm từ 'In spite of + Noun phrase / V-ing'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy giữ nguyên cấu trúc mệnh đề S + V đằng sau 'In spite of' thay vì đổi sang Cụm danh từ hoặc V-ing.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Mệnh đề gốc: 'Although the weather (S) was (V) bad (Adj)'.\n- Biến đổi Mệnh đề ➔ Cụm danh từ: 'the bad weather'.\n- Cấu trúc: $In + spite + of + Noun + phrase$.\n➔ Kết quả: In spite of the bad weather, we went on a guided tour of the citadel.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Mặc dù thời tiết xấu, chúng tôi vẫn tham gia chuyến tham quan thành cổ có hướng dẫn viên. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_cc_2",
+        "question": "[Từ nối chỉ nguyên nhân]: Rewrite the sentence: Because it rained heavily, the outdoor concert was postponed. ➔ Because of __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chuyển đổi từ liên từ chỉ nguyên nhân 'Because + Mệnh đề' sang giới từ 'Because of + Cụm danh từ / V-ing'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy không đổi trạng từ 'heavily' thành tính từ 'heavy' khi chuyển mệnh đề 'it rained heavily' thành cụm danh từ 'the heavy rain'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Mệnh đề gốc: 'it rained heavily' (chủ ngữ giả 'it' + động từ 'rain' + trạng từ 'heavily').\n- Chuyển thành cụm danh từ: 'the heavy rain' (danh từ 'rain' + tính từ 'heavy').\n- Cấu trúc: $Because + of + the + heavy + rain$.\n➔ Kết quả: Because of the heavy rain, the outdoor concert was postponed.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Vì cơn mưa lớn, buổi hòa nhạc ngoài trời đã bị hoãn lại. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_cc_lt",
+    "name": "Although/Though + S + V = Despite/In spite of + N/V-ing | Because + S + V = Because of + N/V-ing...",
+    "type": "STEP",
+    "parentId": "anh9_les_conjunctions_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_cc_pp",
+    "name": "Phương pháp ➔ Chuyển đổi Mệnh đề (S + V) ➔ Cụm danh từ (The + Adj + N) hoặc V-ing khi cùng chủ ngữ...",
+    "type": "STEP",
+    "parentId": "anh9_les_conjunctions_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_cc_tt",
+    "name": "Thuật toán ➔ Bắt từ nối gốc ➔ Kiểm tra trùng chủ ngữ ➔ Biến đổi cụm danh từ chốt câu...",
+    "type": "STEP",
+    "parentId": "anh9_les_conjunctions_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_cc_bay",
+    "name": "Né bẫy ➔ Tuyệt đối KHÔNG dùng cả 'Although' và 'But' trong cùng một câu đơn...",
+    "type": "STEP",
+    "parentId": "anh9_les_conjunctions_clauses",
+    "examples": null
+  },
+  {
+    "id": "anh9_cat_reading_writing",
+    "name": "Reading & Writing Mechanics",
+    "type": "CATEGORY",
+    "parentId": "anh9_subject",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_reading_skills",
+    "name": "Kỹ năng Đọc hiểu & Điền từ",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_reading_writing",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_reading_comprehension",
+    "name": "Đọc hiểu trả lời câu hỏi (Reading Comprehension)",
+    "type": "LESSON",
+    "parentId": "anh9_top_reading_skills",
+    "examples": [
+      {
+        "id": "ex_rcs_1",
+        "question": "[Kỹ năng Đọc hiểu]: According to the passage, why do many tourists visit Hoi An Ancient Town? A. For its modern skyscrapers  B. To experience its preserved heritage and traditional architecture  C. For cheap electronics  D. To attend international sports events",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài đọc hiểu tìm thông tin chi tiết (Detail question) với từ hỏi 'why' (lý do du khách thăm Hội An).\n2. Cảnh báo bẫy ngầm đề bài: Bẫy chọn các chi tiết suy diễn không xuất hiện trong bài hoặc chứa các từ nhiễu mang tính hiện đại (skyscrapers, electronics).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Bước 1: Gạch chân từ khóa trong câu hỏi: 'why', 'tourists visit', 'Hoi An Ancient Town'.\n- Bước 2: Định vị thông tin trong đoạn văn liên quan đến sức hút của phố cổ (preserved heritage, traditional architecture).\n- Bước 3: Đối chiếu với phương án B: 'To experience its preserved heritage and traditional architecture' khớp hoàn toàn với ý trong bài đọc.\n➔ Chốt đáp án B.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Theo đoạn văn, tại sao nhiều du khách ghé thăm Phố cổ Hội An? ➔ Để trải nghiệm di sản được bảo tồn và kiến trúc truyền thống. ➔ Đáp án B.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_rcs_lt",
+    "name": "Skimming (Đọc lướt ý chính) + Scanning (Định vị dữ liệu từ khóa cụ thể trong bài đọc)...",
+    "type": "STEP",
+    "parentId": "anh9_les_reading_comprehension",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rcs_pp",
+    "name": "Phương pháp ➔ Gạch chân Keywords trong câu hỏi ➔ Tìm cụm từ đồng nghĩa (Paraphrasing) trong đoạn văn...",
+    "type": "STEP",
+    "parentId": "anh9_les_reading_comprehension",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rcs_tt",
+    "name": "Thuật toán ➔ Đọc câu hỏi ➔ Scan từ khóa trong bài ➔ Đối chiếu câu chứa từ khóa ➔ Loại phương án nhiễu...",
+    "type": "STEP",
+    "parentId": "anh9_les_reading_comprehension",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rcs_bay",
+    "name": "Né bẫy ➔ Bẫy đáp án chứa từ trong bài đọc nhưng sai lệch nghĩa hoặc bẫy suy diễn quá mức (over-generalization)...",
+    "type": "STEP",
+    "parentId": "anh9_les_reading_comprehension",
+    "examples": null
+  },
+  {
+    "id": "anh9_top_sentence_transformation",
+    "name": "Kỹ thuật Viết lại câu tương đương (Sentence Transformation)",
+    "type": "TOPIC",
+    "parentId": "anh9_cat_reading_writing",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_rewrite_transformation",
+    "name": "Viết lại câu không đổi nghĩa",
+    "type": "LESSON",
+    "parentId": "anh9_top_sentence_transformation",
+    "examples": [
+      {
+        "id": "ex_rt_1",
+        "question": "[Viết lại câu gợi ý]: Rewrite the sentence using the word in brackets: \"Why don't we reduce plastic waste by bringing reusable bags?\" (SUGGESTS) ➔ She __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài viết lại câu đề nghị 'Why don't we...' sang cấu trúc với động từ gợi ý 'suggest'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy quên dạng $S + suggest + V-ing$ khi gợi ý cùng tham gia hành động, hoặc nhầm sang cấu trúc $suggest + that + S + (should) + V-inf$.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Câu gốc là câu đề nghị cùng thực hiện hành động: 'Why don't we...'.\n- Động từ cho sẵn: 'SUGGESTS' (Hiện tại đơn) / 'suggested' (Quá khứ).\n- Cấu trúc: $S + suggest(s) + V-ing$.\n- Biến đổi động từ 'reduce' ➔ 'reducing'.\n➔ Kết quả: She suggests reducing plastic waste by bringing reusable bags.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Cô ấy gợi ý giảm thiểu rác thải nhựa bằng cách mang theo túi sử dụng nhiều lần. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_rt_lt",
+    "name": "Chủ điểm viết lại ➔ Reported speech, Passive, Relative clause, Conditionals, Wish, Comparisons, Suggestions...",
+    "type": "STEP",
+    "parentId": "anh9_les_rewrite_transformation",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rt_pp",
+    "name": "Phương pháp ➔ Mẹo rà soát lỗi chính tả & Cấu trúc ngữ pháp + Áp dụng công thức biến đổi tương đương...",
+    "type": "STEP",
+    "parentId": "anh9_les_rewrite_transformation",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rt_tt",
+    "name": "Thuật toán ➔ Nhận diện cấu trúc gốc ➔ Bắt từ gợi ý đầu câu ➔ Viết vế mới ➔ Kiểm tra hòa hợp thì & nghĩa...",
+    "type": "STEP",
+    "parentId": "anh9_les_rewrite_transformation",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_rt_bay",
+    "name": "Né bẫy ➔ Quên lùi thì, viết thiếu từ chìa khóa hoặc sai dạng động từ V-ing / To-V...",
+    "type": "STEP",
+    "parentId": "anh9_les_rewrite_transformation",
+    "examples": null
+  },
+  {
+    "id": "anh9_les_sentence_pairs",
+    "name": "Các cặp cấu trúc biến đổi câu kinh điển (Because/Because of, Although/Despite, Too/Enough, It's time...)",
+    "type": "LESSON",
+    "parentId": "anh9_top_sentence_transformation",
+    "examples": [
+      {
+        "id": "ex_spair_1",
+        "question": "[Chuyển đổi Because -> Because of]: Rewrite the sentence: He couldn't participate in the community clean-up because he was ill. ➔ Because of __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài viết lại câu chuyển đổi nguyên nhân từ mệnh đề 'because + S + V' sang cụm danh từ 'because of + Noun phrase'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy giữ nguyên chủ ngữ 'he' và động từ 'was' sau 'because of', hoặc dùng sai danh từ biến đổi từ tính từ 'ill' (ill ➔ illness).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Mệnh đề nguyên nhân: 'because he (S) was (V) ill (Adj)'.\n- Biến đổi sang cụm danh từ sở hữu: 'his illness' (danh từ của tính từ 'ill' là 'illness').\n- Cấu trúc: $Because + of + his + illness$.\n➔ Kết quả: Because of his illness, he couldn't participate in the community clean-up.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Vì căn bệnh của mình, anh ấy đã không thể tham gia vào hoạt động dọn dẹp cộng đồng. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_spair_2",
+        "question": "[Chuyển đổi Too -> Enough]: Rewrite the sentence: The mountain path is too steep for the elderly tourists to climb. ➔ The mountain path is not __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài viết lại câu chuyển đổi giữa cấu trúc 'too ... to' (quá... không thể) sang 'not + tính từ trái nghĩa + enough to'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy quên tìm tính từ trái nghĩa ('steep' dốc ➔ 'flat / gentle / easy' bằng phẳng/dễ đi) hoặc đặt sai vị trí của 'enough' (phải là Adj + enough).\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Cấu trúc quá không thể: $S + be + too + Adj + for + O + to-V$ (Dốc quá không trèo nổi).\n- Đề cho 'is not' ➔ Cần tính từ trái nghĩa với 'steep' (dốc): 'gentle' (thoai thoải) hoặc 'easy' (dễ).\n- Cấu trúc enough: $S + be + not + Adj(trái nghĩa) + enough + for + O + to-V$.\n➔ Kết quả: The mountain path is not gentle enough for the elderly tourists to climb.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Con đường núi không đủ thoai thoải cho các du khách cao tuổi leo lên. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      },
+      {
+        "id": "ex_spair_3",
+        "question": "[Cấu trúc It's time]: Rewrite the sentence: It's time we renewed our local environment project. ➔ It's time for us __________________________________.",
+        "answer": "1. Nhận diện dạng bài & Dấu hiệu cốt lõi: Dạng bài chuyển đổi cấu trúc 'It's time + S + V(quá khứ)' sang cấu trúc 'It's time for O + to-V'.\n2. Cảnh báo bẫy ngầm đề bài: Bẫy giữ lại động từ ở thì quá khứ 'renewed' sau 'to' thay vì chuyển về dạng động từ nguyên thể 'to renew'.\n3. Lập luận giải thích chi tiết từng bước (Step-by-step):\n- Mệnh đề giả định: 'It's time we (S) renewed (V-past) ...' (Đã đến lúc chúng ta phải đổi mới...).\n- Chuyển sang cấu trúc với 'for': $It's + time + for + O + to-V$.\n- Chủ ngữ 'we' ➔ Tân ngữ 'us'.\n- Động từ 'renewed' ➔ Nguyên thể có 'to': 'to renew'.\n➔ Kết quả: It's time for us to renew our local environment project.\n4. Dịch nghĩa toàn bộ câu và chốt đáp án: Đã đến lúc chúng ta phải đổi mới dự án môi trường địa phương. ➔ Chốt đáp án hoàn chỉnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "anh9_step_spair_lt",
+    "name": "Because ➔ Because of | Although ➔ Despite | Too...to ➔ Not...enough to | It's time + S + V-past ➔ It's time for O + to-V...",
+    "type": "STEP",
+    "parentId": "anh9_les_sentence_pairs",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_spair_pp",
+    "name": "Phương pháp ➔ Tìm tính từ trái nghĩa cân bằng cấu trúc Too/Enough & Chuyển Clause ➔ Noun phrase...",
+    "type": "STEP",
+    "parentId": "anh9_les_sentence_pairs",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_spair_tt",
+    "name": "Thuật toán ➔ Nhận diện cặp cấu trúc tương đương ➔ Biến đổi danh từ/tính từ ➔ Viết lại vế mới chốt câu...",
+    "type": "STEP",
+    "parentId": "anh9_les_sentence_pairs",
+    "examples": null
+  },
+  {
+    "id": "anh9_step_spair_bay",
+    "name": "Né bẫy ➔ Đặt nhầm vị trí 'enough' (Adj + enough vs enough + N) hoặc giữ thì quá khứ sau 'to-V'...",
+    "type": "STEP",
+    "parentId": "anh9_les_sentence_pairs",
+    "examples": null
+  }
+]

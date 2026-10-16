@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "sinh12_root",
+    "name": "Sinh học 12 - Cơ sở dữ liệu Dạng bài & Thuật toán thực chiến",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "sinh12_cat1",
+    "name": "Cơ chế di truyền & Biến dị cấp phân tử và tế bào",
+    "type": "CATEGORY",
+    "parentId": "sinh12_root",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top1_1",
+    "name": "Cơ chế di truyền cấp phân tử & Đột biến gen",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les1_1_1",
+    "name": "Tái bản DNA, Phiên mã, Dịch mã & Operon Lac",
+    "type": "LESSON",
+    "parentId": "sinh12_top1_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_1_1_1_1",
+        "question": "[Dạng toán Cơ chế phân tử]: Một phân tử DNA mạch kép ở vi khuẩn E. coli có tổng số $3000$ nucleotide, trong đó số nucleotide loại A chiếm $20\\%$. Phân tử DNA này nhân đôi $3$ lần liên tiếp trong môi trường chứa hoàn toàn $N^{15}$, sau đó chuyển các phân tử con sang môi trường $N^{14}$ cho nhân đôi tiếp $2$ lần. Tính số phân tử DNA chứa cả $N^{15}$ và $N^{14}$ thu được.",
+        "answer": "Bước 1: [Nhận diện & Tách rẽ dữ kiện] Tổng số nucleotide $N = 3000$. Số nucleotide loại $A = T = 20\\% \\times 3000 = 600$ nu. Số nucleotide loại $G = C = 30\\% \\times 3000 = 900$ nu.\\nBước 2: [Thuật toán nhân đôi DNA] Ban đầu 1 phân tử $N^{14}$ kép ➔ Nhân đôi 3 lần trong $N^{15}$ tạo $2^3 = 8$ phân tử DNA kép (mạch chứa $N^{15}$). Cụ thể có 2 phân tử lai ($1$ mạch $N^{14}, 1$ mạch $N^{15}$) và 6 phân tử thuần $N^{15}$ ($2$ mạch $N^{15}$).\\nBước 3: [Nhân đôi tiếp trong $N^{14}$] Cả 8 phân tử DNA (chứa tổng cộng 16 mạch $N^{15}$ và 2 mạch $N^{14}$) cho nhân đôi 2 lần trong môi trường $N^{14}$. Tổng số phân tử tạo thành = $8 \\times 2^2 = 32$ phân tử.\\nSo mạch khuôn: 16 mạch $N^{15}$ ban đầu sẽ đóng vai trò mạch khuôn kết hợp với mạch mới $N^{14}$ ➔ Tạo ra đúng 16 phân tử DNA lai chứa cả $N^{15}$ và $N^{14}$.\\nBước 4: [Kết luận] Số phân tử DNA chứa cả hai loại đồng vị $N^{15}$ và $N^{14}$ là $16$ phân tử.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step1_1_1_1",
+    "name": "Tái bản DNA ➔ Bán bảo toàn + Nửa gián đoạn ($5' \\rightarrow 3'$)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_1_2",
+    "name": "Phiên mã ➔ Mạch gốc $3' \\rightarrow 5'$, mRNA $5' \\rightarrow 3'$",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_1_3",
+    "name": "Dịch mã ➔ Mở đầu $5'\\text{AUG}3'$, Kết thúc $5'\\text{UAA}, 5'\\text{UAG}, 5'\\text{UGA}3'$",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_1_4",
+    "name": "Operon Lac ➔ Gen $R \\rightarrow$ Protein ức chế; Lactose (+) ➔ Giải ức chế",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les1_1_2",
+    "name": "Đột biến gen & Thuật toán biến đổi chuỗi Polypeptide",
+    "type": "LESSON",
+    "parentId": "sinh12_top1_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_1_1_2_1",
+        "question": "[Dạng toán Đột biến gen]: Một gen cấu trúc ở sinh vật nhân thực có chiều dài $4080 \\text{ Å}$ và có tỉ lệ $\\frac{A+T}{G+C} = \\frac{2}{3}$. Gen bị đột biến điểm làm giảm $2$ liên kết hydrogen nhưng chiều dài gen không đổi. Xác định số nucleotide mỗi loại của gen đột biến.",
+        "answer": "Bước 1: [Tính thông số gen ban đầu] Tổng số nu $N = \\frac{2 \\times 4080}{3.4} = 2400$. Hệ phương trình: $A + G = 1200$ và $\\frac{A}{G} = \\frac{2}{3} \\Rightarrow A = T = 480$, $G = C = 720$.\\nSố liên kết hydrogen ban đầu: $H = 2A + 3G = 2(480) + 3(720) = 3120$.\\nBước 2: [Né bẫy & Biện luận dạng ĐB] Đột biến điểm, chiều dài không đổi ➔ Đột biến thay thế cặp nucleotide. Đột biến làm giảm 2 liên kết hydrogen ➔ Thay thế 2 cặp G-C bằng 2 cặp A-T.\\nBước 3: [Tính số nu gen đột biến] $A_{đb} = T_{đb} = 480 + 2 = 482$; $G_{đb} = C_{đb} = 720 - 2 = 718$.\\nBước 4: [Kết luận] Số nu mỗi loại của gen đột biến là $A = T = 482$, $G = C = 718$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step1_1_2_1",
+    "name": "Đột biến điểm ➔ Thay thế / Thêm / Mất $1$ cặp nucleotide",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_2_2",
+    "name": "Đột biến thay thế ➔ Đồng nghĩa, Sai nghĩa, Vô nghĩa (Codon kết thúc sớm)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_2_3",
+    "name": "Đột biến dịch khung ➔ Thêm/Mất $1$ cặp nu ➔ Thay đổi toàn bộ bộ ba từ vị trí ĐB",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_2_4",
+    "name": "Né bẫy đề ➔ Mất/Thêm $3$ cặp nu thuộc $1$ bộ ba ➔ Chuỗi ngắn/dài $1$ aa, không dịch khung",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les1_1_3",
+    "name": "Công nghệ gen, Kỹ thuật DNA tái tổ hợp & GMO",
+    "type": "LESSON",
+    "parentId": "sinh12_top1_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_1_1_3_1",
+        "question": "[Dạng bài Kỹ thuật DNA tái tổ hợp]: Trong quy trình tạo thể truyền chứa gen kháng sinh, enzyme cắt hạn chế Restriction Enzyme BamHI được sử dụng để cắt cả DNA thể truyền và gen cần chuyển. Giải thích nguyên lý liên kết của hai phân tử DNA này khi trộn chung với nhau.",
+        "answer": "Bước 1: [Cơ chế enzyme cắt] BamHI cắt phân tử DNA ở trình tự nhận biết đặc hiệu tạo ra hai đầu dính bổ sung.\\nBước 2: [Nguyên tắc bổ sung đầu dính] Khi trộn DNA thể truyền và gen cần chuyển đã được cắt bằng cùng một loại RE, các đầu dính tự do sẽ bắt đôi bổ sung theo nguyên tắc $A-T, G-C$.\\nBước 3: [Cơ chế nối] Enzyme DNA Ligase hình thành liên kết phosphodiester nối liền khung đường-phosphate ➔ Tạo thành DNA tái tổ hợp hoàn chỉnh.\\nBước 4: [Kết luận] Quy trình dựa trên nguyên tắc bổ sung đầu dính và sự xúc tác tạo liên kết phosphodiester của DNA Ligase.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step1_1_3_1",
+    "name": "Thể truyền (Vector) ➔ Plasmid / Phage + Gen cần chuyển",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_3_2",
+    "name": "Cắt + Nối ➔ Enzyme cắt giới hạn (Restriction enzyme) + Enzyme nối DNA ligase",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_3_3",
+    "name": "Chuyển DNA tái tổ hợp ➔ $CaCl_2$ / Sốc nhiệt / Xung điện ➔ Tế bào nhận",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_1_3_4",
+    "name": "Phát hiện dòng tế bào chứa DNA tái tổ hợp ➔ Gen đánh dấu (Kháng sinh/Phát quang)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_1_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top1_2",
+    "name": "Nhiễm sắc thể & Đột biến nhiễm sắc thể",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les1_2_1",
+    "name": "Cấu trúc siêu hiển vi NST & Cơ chế phân bào",
+    "type": "LESSON",
+    "parentId": "sinh12_top1_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_1_2_1_1",
+        "question": "[Dạng toán Phân bào NST]: Một tế bào sinh dưỡng của loài có $2n = 24$ tiến hành nguyên phân $3$ lần. Xác định số tâm động và số chromatid ở kỳ giữa của lần nguyên phân thứ 3.",
+        "answer": "Bước 1: [Xác định số tế bào tham gia] Qua 2 lần nguyên phân đầu tạo ra $2^2 = 4$ tế bào bước vào lần nguyên phân thứ 3.\\nBước 2: [Thuật toán kỳ giữa nguyên phân] Tại kỳ giữa của lần nguyên phân thứ 3, mỗi tế bào chứa $2n = 24$ NST kép. Số lượng tâm động trong mỗi tế bào là 24, số lượng chromatid là $24 \\times 2 = 48$.\\nBước 3: [Tính toán cho hệ 4 tế bào] Tổng số lượng tâm động của 4 tế bào là $4 \\times 24 = 96$. Tổng số lượng chromatid là $4 \\times 48 = 192$.\\nBước 4: [Kết luận] Ở kỳ giữa lần nguyên phân thứ 3 có $96$ tâm động và $192$ chromatid.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step1_2_1_1",
+    "name": "Nucleosome ➔ $8$ histone + $147$ bp DNA ($1.65$ vòng)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_1_2",
+    "name": "Mức đóng xoắn ➔ Sợi cơ bản ($11$nm) ➔ Sợi nhiễm sắc ($30$nm) ➔ Chromatid ($700$nm)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_1_3",
+    "name": "Nguyên phân vs Giảm phân ➔ Kỳ giữa I (kép song song), Kỳ sau I (phân li cặp kép)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_1_4",
+    "name": "Né bẫy phân bào ➔ Đếm số chromatid, số tâm động qua từng kỳ ($2n$ kép, $4n$ đơn)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les1_2_2",
+    "name": "Đột biến cấu trúc NST & Thuật toán nhận diện",
+    "type": "LESSON",
+    "parentId": "sinh12_top1_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_1_2_2_1",
+        "question": "[Dạng bài Đột biến cấu trúc NST]: Cho trình tự gen ban đầu trên NST là ABCDEFG. Sự biến đổi tạo ra hai NST đột biến: NST 1 có trình tự ADCBEFG; NST 2 có trình tự ABCDEF. Xác định tên dạng đột biến cấu trúc NST tương ứng.",
+        "answer": "Bước 1: [So sánh trình tự NST 1 với ban đầu] Đoạn BCD bị đảo ngược thứ tự thành DCB ➔ NST 1 bị Đột biến đảo đoạn đoạn BCD chứa tâm động hoặc không chứa tâm động.\\nBước 2: [So sánh trình tự NST 2 với ban đầu] Gen G bị mất khỏi NST ➔ NST 2 bị Đột biến mất đoạn gen G ở đầu đuôi NST.\\nBước 3: [Kết luận] NST 1 bị Đột biến đảo đoạn; NST 2 bị Đột biến mất đoạn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step1_2_2_1",
+    "name": "Mất đoạn ➔ Làm giảm số lượng gen, mất cân bằng hệ gen ➔ Ứng dụng để xác định vị trí của gen trên nhiễm sắc thể (lập bản đồ gen)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_2_2",
+    "name": "Lặp đoạn ➔ Tăng số gen ➔ Tăng/giảm mức biểu hiện tính trạng",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_2_3",
+    "name": "Đảo đoạn ➔ Thay đổi trình tự gen ➔ Không mất gen, góp phần tạo loài mới",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_2_4",
+    "name": "Chuyển đoạn ➔ Trong/Giữa NST ➔ Giảm sức sống, tạo nhóm gen liên kết mới",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les1_2_3",
+    "name": "Đột biến số lượng NST (Lệch bội & Đa bội)",
+    "type": "LESSON",
+    "parentId": "sinh12_top1_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_1_2_3_1",
+        "question": "[Dạng toán Đột biến số lượng NST]: Cây tứ bội $AAaa$ giảm phân bình thường cho các giao tử lưỡng bội $2n$. Xác định tỉ lệ giao tử mang allele $A$ và tỉ lệ kiểu hình lặn thu được khi cho cây $AAaa$ tự thụ phấn (biết $A$ trội hoàn toàn so với $a$).",
+        "answer": "Bước 1: [Sơ đồ hình chữ nhật giảm phân 4n] Cơ thể $AAaa$ giảm phân cho 6 tổ hợp giao tử lưỡng bội: $1AA : 4Aa : 1aa$.\\nBước 2: [Tỉ lệ giao tử] Tỉ lệ giao tử $aa = 1/6$; Tỉ lệ giao tử chứa allele A ($AA$ hoặc $Aa$) = $1 - 1/6 = 5/6$.\\nBước 3: [Phép lai tự thụ $AAaa \\times AAaa$] Kiểu hình lặn ($aaaa$) chỉ hình thành từ tổ hợp giao tử $aa \\times aa$.\\n$aaaa = \\frac{1}{6} aa \\times \\frac{1}{6} aa = \\frac{1}{36}$.\\nTỉ lệ kiểu hình trội = $1 - \\frac{1}{36} = \\frac{35}{36}$.\\nBước 4: [Kết luận] Tỉ lệ giao tử mang allele A là $5/6$; Tỉ lệ kiểu hình lặn là $1/36$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step1_2_3_1",
+    "name": "Lệch bội ➔ $2n+1$ (Thể ba), $2n-1$ (Thể một), $2n+2$ (Thể tư), $2n-2$ (Thể không)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_3_2",
+    "name": "Không phân li GP I ➔ Giao tử $n+1$ chứa $2$ chiếc khác nguồn ($Aa$); GP II ➔ Giao tử $n+1$ chứa $2$ chiếc cùng nguồn ($AA$ hoặc $aa$)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_3_3",
+    "name": "Tự đa bội ➔ $3n, 4n, 6n$ (Tăng kích thước cơ quan, bất thụ ở $3n$)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step1_2_3_4",
+    "name": "Dị đa bội ➔ Lai xa + Đa bội hóa ➔ Cơ thể $2n_A + 2n_B$ (Song nhị bội, hữu thụ)",
+    "type": "STEP",
+    "parentId": "sinh12_les1_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_cat2",
+    "name": "Tính quy luật của hiện tượng di truyền & Mở rộng",
+    "type": "CATEGORY",
+    "parentId": "sinh12_root",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top2_1",
+    "name": "Các quy luật di truyền Mendel & Mở rộng tương tác gen",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les2_1_1",
+    "name": "Quy luật Phân li & Phân li độc lập Mendel",
+    "type": "LESSON",
+    "parentId": "sinh12_top2_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_2_1_1_1",
+        "question": "[Dạng toán Di truyền Mendel phân hóa 9+]: Ở đậu Hà Lan, $A$: thân cao trội hoàn toàn so với $a$: thân thấp; $B$: hoa đỏ trội hoàn toàn so với $b$: hoa trắng. Cho phép lai $P: AaBb \\times AaBb$. Tính xác suất thu được 3 cây F1 có kiểu hình thân cao, hoa đỏ trong số 4 cây F1 được chọn ngẫu nhiên.",
+        "answer": "Bước 1: [Tính tỉ lệ kiểu hình đơn lẻ ở F1] $P: AaBb \\times AaBb \\rightarrow F1$ có tỉ lệ kiểu hình thân cao, hoa đỏ ($A-B-$) = $\\frac{3}{4} \\times \\frac{3}{4} = \\frac{9}{16}$. Kiểu hình khác = $1 - \\frac{9}{16} = \\frac{7}{16}$.\\nBước 2: [Áp dụng công thức chỉnh hợp/tổ hợp xác suất] Chọn ngẫu nhiên 4 cây, xác suất thu được đúng 3 cây $(A-B-)$ và 1 cây kiểu hình khác:\\n$P = C_4^3 \\times \\left(\\frac{9}{16}\\right)^3 \\times \\left(\\frac{7}{16}\\right)^1 = 4 \\times \\frac{729}{4096} \\times \\frac{7}{16} = \\frac{20412}{65536} \\approx 31.15\\%$.\\nBước 3: [Kết luận] Xác suất thu được 3 cây thân cao hoa đỏ trong 4 cây được chọn là $31.15\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step2_1_1_1",
+    "name": "Lai $1$ cặp gen ➔ $Aa \\times Aa \\rightarrow 1AA : 2Aa : 1aa$ ($3$ Trội : $1$ Lặn)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_1_1_2",
+    "name": "Phân li độc lập ➔ Tích xác suất đơn lẻ $(3:1)^n$, số loại giao tử $2^n$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_1_1_3",
+    "name": "Tách rẽ cặp gen ➔ Phép lai $AaBb \\times AaBb = (Aa \\times Aa)(Bb \\times Bb)$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_1_1_4",
+    "name": "Né bẫy trội không hoàn toàn ➔ Kiểu gen $Aa$ biểu hiện kiểu hình trung gian (Tỉ lệ KH = Tỉ lệ KG)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les2_1_2",
+    "name": "Tương tác gen không allele & Tác động đa hiệu",
+    "type": "LESSON",
+    "parentId": "sinh12_top2_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_2_1_2_1",
+        "question": "[Dạng toán Tương tác gen]: Ở một loài thực vật, màu sắc hoa do 2 cặp gen A, a và B, b phân li độc lập quy định. Khi có mặt cả 2 allele trội A và B thì hoa có màu đỏ; các kiểu gen còn lại cho hoa màu trắng. Cho cây dị hợp 2 cặp gen $AaBb$ tự thụ phấn thu được F1. Xác định tỉ lệ kiểu hình hoa trắng mang ít nhất 1 allele trội ở F1.",
+        "answer": "Bước 1: [Xác định quy luật di truyền] Sự xuất hiện của cả A và B cho hoa đỏ ➔ Quy luật Tương tác bổ sung $9:7$.\\nSơ đồ $AaBb \\times AaBb \\rightarrow 9 A-B- \\text{ (Đỏ)} : 3 A-bb \\text{ (Trắng)} : 3 aaB- \\text{ (Trắng)} : 1 aabb \\text{ (Trắng)}$.\\nBước 2: [Phân tích yêu cầu đề bài] Các kiểu gen quy định hoa trắng bao gồm: $3 A-bb$, $3 aaB-$, $1 aabb$.\\nTrong đó, kiểu gen $aabb$ không mang allele trội nào.\\nCác kiểu gen hoa trắng mang ít nhất 1 allele trội gồm: $3 A-bb + 3 aaB- = 6$ phần trong tổng số 16 tổ hợp.\\nBước 3: [Tính tỉ lệ] Tỉ lệ = $\\frac{6}{16} = \\frac{3}{8} = 37.5\\%$.\\nBước 4: [Kết luận] Tỉ lệ cây hoa trắng mang ít nhất 1 allele trội ở F1 là $37.5\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step2_1_2_1",
+    "name": "Tương tác bổ sung ➔ Tỉ lệ $9:3:3:1$ ($A-B-$ KH1, còn lại KH2) hoặc $9:7$, $9:6:1$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_1_2_2",
+    "name": "Tương tác át chế ➔ Át chế trội $12:3:1$, $13:3$; Át chế lặn $9:3:4$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_1_2_3",
+    "name": "Tương tác cộng gộp ➔ $15:1$ hoặc phân hóa theo số lượng allele trội ($1:4:6:4:1$)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_1_2_4",
+    "name": "Gen đa hiệu ➔ $1$ gen quy định nhiều tính trạng (Hội chứng Marfan, hồng cầu liềm)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top2_2",
+    "name": "Di truyền liên kết, Hoán vị gen & Di truyền giới tính",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les2_2_1",
+    "name": "Liên kết gen hoàn toàn & Hoán vị gen",
+    "type": "LESSON",
+    "parentId": "sinh12_top2_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_2_2_1_1",
+        "question": "[Dạng toán Hoán vị gen phân hóa 9+]: Cho phép lai $P: \\frac{AB}{ab} \\times \\frac{AB}{ab}$ với tần số hoán vị gen $f = 20\\%$ ở cả bố và mẹ. Xác định tỉ lệ kiểu hình đồng hợp lặn $\\frac{ab}{ab}$ và tỉ lệ kiểu hình mang 1 tính trạng trội ở F1.",
+        "answer": "Bước 1: [Tính tỉ lệ giao tử hoán vị và liên kết] Tần số $f = 20\\% \\Rightarrow$ Giao tử hoán vị $Ab = aB = f/2 = 10\\% = 0.1$. Giao tử liên kết $AB = ab = (1-f)/2 = 40\\% = 0.4$.\\nBước 2: [Tính tỉ lệ $\\frac{ab}{ab}$] $\\frac{ab}{ab} = ab \\text{ (mẹ)} \\times ab \\text{ (bố)} = 0.4 \\times 0.4 = 0.16 = 16\\%$.\\nBước 3: [Thuật toán tính nhanh các nhóm kiểu hình khi $P$ cùng kiểu gen] $A-B- = 50\\% + \\%\\frac{ab}{ab} = 50\\% + 16\\% = 66\\%$.\\nKiểu hình $A-bb = aaB- = 25\\% - \\%\\frac{ab}{ab} = 25\\% - 16\\% = 9\\%$.\\nBước 4: [Tính tỉ lệ kiểu hình mang 1 tính trạng trội] Tỉ lệ KH 1 tính trạng trội ($A-bb + aaB-$) = $9\\% + 9\\% = 18\\%$.\\nBước 5: [Kết luận] Tỉ lệ $\\frac{ab}{ab} = 16\\%$; Tỉ lệ kiểu hình 1 tính trạng trội = $18\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step2_2_1_1",
+    "name": "Liên kết hoàn toàn ➔ $\\frac{AB}{ab} \\times \\frac{AB}{ab} \\rightarrow 1\\frac{AB}{AB} : 2\\frac{AB}{ab} : 1\\frac{ab}{ab}$ ($3:1$)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_1_2",
+    "name": "Hoán vị gen ➔ $f \\le 50\\% ➔ f = 2 \\times \\% \\text{giao tử hoán vị}$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_1_3",
+    "name": "Xác định kiểu gen bố mẹ ➔ Tỉ lệ lặn $\\frac{ab}{ab} = x(ab) \\times y(ab) ➔ f$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_1_4",
+    "name": "Quy tắc đồng - dị ➔ Đồng ($\\frac{AB}{ab}$) cho $AB=ab > 25\\%$; Dị ($\\frac{Ab}{aB}$) cho $Ab=aB > 25\\%$",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les2_2_2",
+    "name": "Di truyền liên kết giới tính & Di truyền ngoài nhân",
+    "type": "LESSON",
+    "parentId": "sinh12_top2_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_2_2_2_1",
+        "question": "[Dạng toán Di truyền giới tính]: Ở ruồi giấm, $A$: mắt đỏ trội hoàn toàn so với $a$: mắt trắng (gen nằm trên vùng không tương đồng của NST giới tính X). Cho ruồi cái mắt đỏ dị hợp $X^A X^a$ lai với ruồi đực mắt đỏ $X^A Y$. Tính tỉ lệ ruồi đực mắt trắng thu được ở F1 và tỉ lệ ruồi mắt đỏ trong tổng số ruồi F1.",
+        "answer": "Bước 1: [Lập sơ đồ lai] $P: X^A X^a \\times X^A Y$.\\nGiao tử mẹ: $\\frac{1}{2} X^A, \\frac{1}{2} X^a$. Giao tử bố: $\\frac{1}{2} X^A, \\frac{1}{2} Y$.\\nBước 2: [Tỉ lệ kiểu gen F1] $\\frac{1}{4} X^A X^A$ (Cái đỏ) : $\\frac{1}{4} X^A X^a$ (Cái đỏ) : $\\frac{1}{4} X^A Y$ (Đực đỏ) : $\\frac{1}{4} X^a Y$ (Đực trắng).\\nBước 3: [Tính toán xác suất theo yêu cầu đề bài]\\n- Tỉ lệ ruồi đực mắt trắng ($X^a Y$) trong tổng số F1 = $\\frac{1}{4} = 25\\%$.\\n- Tỉ lệ ruồi mắt đỏ ($X^A X^A + X^A X^a + X^A Y$) trong tổng số F1 = $\\frac{3}{4} = 75\\%$.\\nBước 4: [Kết luận] Tỉ lệ ruồi đực mắt trắng là $25\\%$; Tỉ lệ ruồi mắt đỏ là $75\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step2_2_2_1",
+    "name": "Gen trên NST X (không allele Y) ➔ Di truyền chéo ($Bố \\rightarrow Con gái \\rightarrow Cháu trai$)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_2_2",
+    "name": "Gen trên NST Y (không allele X) ➔ Di truyền thẳng ($100\\%$ con trai mang tính trạng bố)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_2_3",
+    "name": "Di truyền ngoài nhân (Ty thể/Lục lạp) ➔ Di truyền dòng mẹ ($100\\%$ con mang KH của mẹ)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_2_4",
+    "name": "Né bẫy giới tính ➔ Nhớ xác định cặp NST giới tính ($XX/XY$ ở người/thú, ngược lại ở chim/bướm)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les2_2_3",
+    "name": "Tương tác Kiểu gen - Môi trường & Mức phản ứng",
+    "type": "LESSON",
+    "parentId": "sinh12_top2_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_2_2_3_1",
+        "question": "[Dạng bài Mức phản ứng & Thường biến]: Lấy cành của một cây hoa cẩm tú cầu có kiểu gen quy định màu hoa trồng ở các chậu đất có độ pH khác nhau. Chậu đất axit cho hoa xanh, chậu đất kiềm cho hoa hồng. Giải thích hiện tượng và xác định tính trạng này do yếu tố nào quy định chính.",
+        "answer": "Bước 1: [Nhận diện hiện tượng] Sự thay đổi màu hoa của cùng một kiểu gen dưới tác động của độ pH môi trường là Thường biến (mềm dẻo kiểu hình).\\nBước 2: [Bản chất mức phản ứng] Màu sắc hoa do sự tương tác giữa Kiểu gen và Môi trường (độ pH). Kiểu gen quy định giới hạn phản ứng (mức phản ứng), môi trường quyết định kiểu hình cụ thể trong giới hạn đó.\\nBước 3: [Kết luận] Đây là hiện tượng thường biến. Màu hoa xanh hay hồng do độ pH môi trường tác động trực tiếp lên sự biểu hiện của gen.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step2_2_3_1",
+    "name": "Mức phản ứng ➔ Tập hợp các kiểu hình của $1$ kiểu gen trong các môi trường khác nhau",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_3_2",
+    "name": "Tính trạng chất lượng ➔ Mức phản ứng hẹp, ít phụ thuộc môi trường (Máu, giống)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_3_3",
+    "name": "Tính trạng số lượng ➔ Mức phản ứng rộng, phụ thuộc nhiều môi trường (Năng suất, khối lượng)",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step2_2_3_4",
+    "name": "Thường biến (Mềm dẻo kiểu hình) ➔ Biến đổi kiểu hình không biến đổi DNA ➔ Không di truyền",
+    "type": "STEP",
+    "parentId": "sinh12_les2_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_cat3",
+    "name": "Di truyền học quần thể, Di truyền học người & Y học",
+    "type": "CATEGORY",
+    "parentId": "sinh12_root",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top3_1",
+    "name": "Cấu trúc di truyền và sự biến đổi vốn gen quần thể",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les3_1_1",
+    "name": "Cấu trúc di truyền quần thể Tự phối & Ngẫu phối",
+    "type": "LESSON",
+    "parentId": "sinh12_top3_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_3_1_1_1",
+        "question": "[Dạng toán Quần thể di truyền 9+]: Quần thể ban đầu $P$ có cấu trúc: $0.2 AA : 0.8 Aa$. Nếu quần thể tiến hành tự phối bắt buộc qua $3$ thế hệ liên tiếp thì thành phần kiểu gen ở thế hệ $F_3$ là bao nhiêu? Nếu thay bằng ngẫu phối thì cấu trúc $F_3$ là bao nhiêu?",
+        "answer": "Bước 1: [Trường hợp Tự phối qua 3 thế hệ]\\n$Aa_{F3} = 0.8 \\times \\left(\\frac{1}{2}\\right)^3 = 0.8 \\times 0.125 = 0.1$.\\n$AA_{F3} = 0.2 + 0.8 \\times \\frac{1 - (1/2)^3}{2} = 0.2 + 0.8 \\times 0.4375 = 0.55$.\\n$aa_{F3} = 0.8 \\times \\frac{1 - (1/2)^3}{2} = 0.35$.\\nThành phần KG tự phối $F_3$: $0.55 AA : 0.1 Aa : 0.35 aa$.\\n\\nBước 2: [Trường hợp Ngẫu phối]\\nTần số allele ban đầu: $p(A) = 0.2 + \\frac{0.8}{2} = 0.6$; $q(a) = 0.4$.\\nNgẫu phối 1 thế hệ đã đạt cân bằng Hardy - Weinberg và duy trì không đổi qua mọi thế hệ $F_n$:\\n$AA = p^2 = 0.6^2 = 0.36$; $Aa = 2pq = 2(0.6)(0.4) = 0.48$; $aa = q^2 = 0.4^2 = 0.16$.\\nThành phần KG ngẫu phối $F_3$: $0.36 AA : 0.48 Aa : 0.16 aa$.\\n\\nBước 3: [Kết luận] Tự phối $F_3$: $0.55 AA : 0.1 Aa : 0.35 aa$; Ngẫu phối $F_3$: $0.36 AA : 0.48 Aa : 0.16 aa$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step3_1_1_1",
+    "name": "Tự phối $n$ thế hệ ➔ $\\text{Aa}_n = \\left(\\frac{1}{2}\\right)^n$; $\\text{AA}_n = \\text{AA}_0 + \\frac{1 - (1/2)^n}{2}\\text{Aa}_0$",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_1_1_2",
+    "name": "Tần số allele ➔ $p(A) = D + \\frac{H}{2}$, $q(a) = R + \\frac{H}{2}$ ($p + q = 1$)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_1_1_3",
+    "name": "Định luật Hardy - Weinberg ➔ Quần thể cân bằng $p^2\\text{AA} + 2pq\\text{Aa} + q^2\\text{aa} = 1$",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_1_1_4",
+    "name": "Điều kiện H-W ➔ Kích thước lớn, ngẫu phối, không ĐB, không CLTN, không di nhập gen",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les3_1_2",
+    "name": "Bài toán biến đổi tần số Allele & Thành phần kiểu gen",
+    "type": "LESSON",
+    "parentId": "sinh12_top3_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_3_1_2_1",
+        "question": "[Dạng toán Biến đổi tần số allele do CLTN]: Một quần thể ngẫu phối có tần số allele ban đầu $q_0(a) = 0.4$. Chọn lọc tự nhiên đào thải hoàn toàn các cá thể có kiểu hình lặn $aa$ ngay ở giai đoạn sơ sinh ($s=1$). Tính tần số allele $a$ và tỉ lệ cá thể mang kiểu hình lặn $aa$ thu được ở thế hệ $F_2$.",
+        "answer": "Bước 1: [Công thức CLTN loại bỏ hoàn toàn lặn] Tần số allele $a$ sau $n$ thế hệ chọn lọc chống lặn hoàn toàn được tính bằng hệ thức: $q_n = \\frac{q_0}{1 + n \\cdot q_0}$.\\nBước 2: [Tính tần số allele $a$ ở $F_2$] Với $n = 2$ thế hệ và $q_0 = 0.4$:\\n$q_2 = \\frac{0.4}{1 + 2 \\times 0.4} = \\frac{0.4}{1.8} = \\frac{2}{9} \\approx 0.222$.\\nBước 3: [Tính tỉ lệ kiểu hình $aa$ ở $F_2$] Quần thể ngẫu phối ở người trưởng thành $F_1$ sinh ra hợp tử $F_2$ có tỉ lệ $aa = q_2^2 = \\left(\\frac{2}{9}\\right)^2 = \\frac{4}{81} \\approx 4.94\\%$.\\nBước 4: [Kết luận] Tần số allele $a$ ở $F_2$ là $2/9$; Tỉ lệ cá thể $aa$ sinh ra ở $F_2$ là $4/81$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step3_1_2_1",
+    "name": "CLTN chống gen lặn ($aa$) ➔ $q_n = \\frac{q_0}{1 + n \\cdot q_0}$",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_1_2_2",
+    "name": "Loại bỏ hoàn toàn $aa$ ($s=1$) ➔ Tỉ lệ $aa$ ở $F_n$ là $q_n^2 = \\left(\\frac{q_0}{1 + n \\cdot q_0}\\right)^2$",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_1_2_3",
+    "name": "Di nhập gen ➔ $\\Delta p = m(p_m - p_0)$ ($m$ là tỉ lệ cá thể nhập cư)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_1_2_4",
+    "name": "Đột biến gen ➔ $\\Delta p = v \\cdot q - u \\cdot p$ ($u$: $A \\rightarrow a$, $v$: $a \\rightarrow A$)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top3_2",
+    "name": "Di truyền học người & Phân tích sơ đồ phả hệ",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les3_2_1",
+    "name": "Thuật toán phân tích Phả hệ di truyền",
+    "type": "LESSON",
+    "parentId": "sinh12_top3_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_3_2_1_1",
+        "question": "[Dạng toán Phả hệ di truyền 9+]: Phả hệ mô tả bệnh mù màu do gen lặn $a$ trên NST X (không có allele tương ứng trên Y) và bệnh bạch tạng do gen lặn $b$ trên NST thường quy định. Bố mẹ bình thường sinh con trai đầu bị cả hai bệnh. Xác định xác suất cặp bố mẹ này sinh đứa con thứ hai là con gái không bị bệnh nào.",
+        "answer": "Bước 1: [Xác định kiểu gen bố mẹ]\\n- Bệnh bạch tạng: Bố mẹ bình thường sinh con bệnh $bb \\Rightarrow$ Bố mẹ dị hợp $Bb \\times Bb$.\\n- Bệnh mù màu: Con trai bệnh $X^a Y \\Rightarrow$ Mẹ nhận gen bệnh $X^a \\Rightarrow$ Bố $X^A Y$, Mẹ $X^A X^a$.\\nKiểu gen của Bố: $Bb X^A Y$; Kiểu gen của Mẹ: $Bb X^A X^a$.\\n\\nBước 2: [Tính xác suất sinh con gái không bị bệnh]\\n- Xét bệnh bạch tạng ($Bb \\times Bb$): Tỉ lệ con không bệnh ($B-$) = $3/4$.\\n- Xét bệnh mù màu ($X^A Y \\times X^A X^a$): Tỉ lệ sinh con gái không bệnh ($X^A X^A$ hoặc $X^A X^a$) = $1/2$ (tất cả con gái đều không bệnh từ bố $X^A Y$).\\n\\nBước 3: [Tính xác suất tích hợp] Xác suất sinh con gái không bị cả 2 bệnh = $\\frac{3}{4} (B-) \\times \\frac{1}{2} (Con gái X^A X^-) = \\frac{3}{8} = 37.5\\%$.\\nBước 4: [Kết luận] Xác suất đứa con thứ hai là con gái không bị bệnh nào là $37.5\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step3_2_1_1",
+    "name": "Xác định Trội/Lặn ➔ Bố mẹ bình thường sinh con bệnh ➔ Gen lặn (ngược lại: Trội)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_2_1_2",
+    "name": "Xác định NST thường/giới tính ➔ Gen lặn X: Mẹ bệnh ➔ Con trai $100\\%$ bệnh; Bố bệnh ➔ Con gái mang gen",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_2_1_3",
+    "name": "Tính xác suất kiểu gen cá thể ➔ Biện luận từ con cái/bố mẹ kết hợp H-W",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_2_1_4",
+    "name": "Né bẫy phả hệ ➔ Nhớ nhân hệ số $1/2$ giới tính, tích hợp $2$ bệnh ($P_{tổng} = P_1 \\times P_2$)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les3_2_2",
+    "name": "Di truyền y học, Tư vấn di truyền & Liệu pháp gen",
+    "type": "LESSON",
+    "parentId": "sinh12_top3_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_3_2_2_1",
+        "question": "[Dạng bài Di truyền Y học]: So sánh cơ chế hình thành hội chứng Đao (3 NST 21) và hội chứng Turner (XO). Nhận diện bẫy trong chẩn đoán sàng lọc trước sinh.",
+        "answer": "Bước 1: [Cơ chế Đao] Sự không phân li của cặp NST số 21 trong giảm phân tạo giao tử $n+1$ ($2$ NST 21) kết hợp với giao tử bình thường $n$ ($1$ NST 21) ➔ Hợp tử $2n+1 = 47$ NST.\\nBước 2: [Cơ chế Turner] Sự không phân li của cặp NST giới tính tạo giao tử $n-1$ (không có NST giới tính) kết hợp với giao tử $n$ chứa $X$ ➔ Hợp tử $2n-1 = 45$ NST (XO).\\nBước 3: [Bẫy chẩn đoán] Nhầm lẫn giữa hội chứng đột biến số lượng NST (sàng lọc qua lập karyotype) và bệnh di truyền phân tử (sàng lọc qua giải trình tự DNA).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step3_2_2_1",
+    "name": "Bệnh di truyền phân tử ➔ Đột biến gen (Phenylketonuria, Hồng cầu liềm, Câm điếc bẩm sinh)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_2_2_2",
+    "name": "Hội chứng di truyền NST ➔ Đột biến số lượng hoặc cấu trúc nhiễm sắc thể (Hội chứng Down - 3 NST 21, Hội chứng Turner - XO, Hội chứng Klinefelter - XXY)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_2_2_3",
+    "name": "Tư vấn di truyền ➔ Phân tích phả hệ + Xét nghiệm ADN/sàng lọc trước sinh ➔ Đưa ra lời khuyên",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step3_2_2_4",
+    "name": "Liệu pháp gen ➔ Thay thế gen bệnh bằng gen lành ($Ex\\ vivo$ hoặc $In\\ vivo$)",
+    "type": "STEP",
+    "parentId": "sinh12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_cat4",
+    "name": "Tiến hóa sinh học & Phát sinh sự sống",
+    "type": "CATEGORY",
+    "parentId": "sinh12_root",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top4_1",
+    "name": "Bằng chứng tiến hóa & Các học thuyết tiến hóa",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat4",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les4_1_1",
+    "name": "Bằng chứng tiến hóa & Học thuyết chọn lọc tự nhiên",
+    "type": "LESSON",
+    "parentId": "sinh12_top4_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_4_1_1_1",
+        "question": "[Dạng bài Bằng chứng tiến hóa]: Phân biệt bản chất tiến hóa của Tuyến nọc độc ở rắn và Tuyến nước bọt ở người so với Cánh chim và Cánh côn trùng. Xác định dạng cơ quan tương ứng.",
+        "answer": "Bước 1: [Phân tích Tuyến nọc độc rắn vs Tuyến nước bọt người] Cùng có nguồn gốc từ tuyến nước bọt của biến đổi tiến hóa ➔ Cơ quan tương đồng (phản ánh nguồn gốc chung).\\nBước 2: [Phân tích Cánh chim vs Cánh côn trùng] Khác nhau về nguồn gốc cấu tạo (cánh chim là chi trước, cánh côn trùng là nếp gấp da), nhưng cùng thực hiện chức năng bay ➔ Cơ quan tương tự (phản ánh tiến hóa đồng hình).\\nBước 3: [Kết luận] Tuyến nọc độc rắn và tuyến nước bọt người là Cơ quan tương đồng; Cánh chim và cánh côn trùng là Cơ quan tương tự.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step4_1_1_1",
+    "name": "Bằng chứng trực tiếp ➔ Hóa thạch (Di tích sinh vật trong các lớp đất đá)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_1_1_2",
+    "name": "Bằng chứng gián tiếp ➔ Giải phẫu so sánh (Cơ quan tương đồng, tương tự, thoái hóa)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_1_1_3",
+    "name": "Bằng chứng SHPT & Tế bào ➔ Tính thống nhất của mã di truyền, amino acid, DNA",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_1_1_4",
+    "name": "CLTN Darwin ➔ Biến dị cá thể + Đấu tranh sinh tồn ➔ Tích lũy biến dị có lợi",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les4_1_2",
+    "name": "Học thuyết tiến hóa tổng hợp hiện đại",
+    "type": "LESSON",
+    "parentId": "sinh12_top4_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_4_1_2_1",
+        "question": "[Dạng bài Học thuyết tiến hóa hiện đại]: So sánh Tiến hóa nhỏ và Tiến hóa lớn theo học thuyết tiến hóa tổng hợp hiện đại về quy mô, thời gian, phương pháp nghiên cứu và kết quả.",
+        "answer": "Bước 1: [Tiến hóa nhỏ] Quy mô quần thể; Thời gian lịch sử tương đối ngắn; Có thể nghiên cứu bằng thực nghiệm; Kết quả: Hình thành loài mới.\\nBước 2: [Tiến hóa lớn] Quy mô rộng lớn (trên loài); Thời gian lịch sử rất dài (hàng triệu năm); Nghiên cứu qua phân tích hóa thạch & phân loại học; Kết quả: Hình thành các chi, họ, bộ, lớp, ngành.\\nBước 3: [Kết luận] Tiến hóa nhỏ là cơ sở của tiến hóa lớn, loài là ranh giới giữa tiến hóa nhỏ và tiến hóa lớn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step4_1_2_1",
+    "name": "Tiến hóa nhỏ ➔ Biến đổi tần số allele & thành phần KG quần thể ➔ Hình thành loài mới",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_1_2_2",
+    "name": "Tiến hóa lớn ➔ Hình thành các đơn vị phân loại trên loài (Chi, Họ, Bộ, Lớp, Ngành)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_1_2_3",
+    "name": "Nguyên liệu tiến hóa ➔ Nguyên liệu sơ cấp (Đột biến gen) + Thứ cấp (Biến dị tổ hợp)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_1_2_4",
+    "name": "Đơn vị tiến hóa ➔ Quần thể (không phải cá thể)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top4_2",
+    "name": "Các nhân tố tiến hóa, Hình thành loài & Phát sinh sự sống",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat4",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les4_2_1",
+    "name": "Cơ chế tác động của 5 nhân tố tiến hóa",
+    "type": "LESSON",
+    "parentId": "sinh12_top4_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_4_2_1_1",
+        "question": "[Dạng bài Nhận diện Nhân tố tiến hóa]: Một quần thể cây trồng ngẫu phối gặp cơn bão lớn làm chết ngẫu nhiên $90\\%$ số cá thể. Tần số allele $A$ đang từ $0.7$ giảm xuống còn $0.1$ ở thế hệ sau. Xác định nhân tố tiến hóa tác động lên quần thể.",
+        "answer": "Bước 1: [Nhận diện đặc điểm tác động] Cơn bão chết ngẫu nhiên $90\\%$ số cá thể không phụ thuộc vào kiểu hình trội hay lặn.\\nBước 2: [Biến đổi tần số allele đột ngột] Tần số allele $A$ giảm mạnh từ $0.7$ xuống $0.1$ một cách ngẫu nhiên vô hướng.\\nBước 3: [Kết luận] Nhân tố tiến hóa tác động ở đây là Các yếu tố ngẫu nhiên (hoặc Hiệu ứng phiêu bạt gen / Biến động di truyền).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step4_2_1_1",
+    "name": "Đột biến ➔ Thay đổi tần số allele chậm, tạo allele mới (Nguyên liệu sơ cấp)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_1_2",
+    "name": "Di - Nhập gen ➔ Tăng/giảm tần số allele, thêm allele mới vào quần thể",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_1_3",
+    "name": "CLTN ➔ Nhân tố có hướng, quy định chiều hướng và tốc độ tiến hóa",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_1_4",
+    "name": "Yếu tố ngẫu nhiên (Phiêu bạt gen) ➔ Thay đổi tần số allele vô hướng, loại bỏ cả allele có lợi",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_1_5",
+    "name": "Giao phối không ngẫu phối ➔ Không thay đổi tần số allele, làm tăng tỉ lệ đồng hợp",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les4_2_2",
+    "name": "Cơ chế cách ly sinh sản & Con đường hình thành loài",
+    "type": "LESSON",
+    "parentId": "sinh12_top4_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_4_2_2_1",
+        "question": "[Dạng bài Hình thành loài bằng Lai xa & Đa bội hóa]: Cho loài thực vật A có bộ NST $2n_A = 18$ lai với loài thực vật B có bộ NST $2n_B = 24$. Hợp tử lai F1 được đa bội hóa tạo thành thể song nhị bội. Xác định số lượng NST trong tế bào sinh dưỡng của thể song nhị bội này.",
+        "answer": "Bước 1: [Giao tử của hai loài parent] Loài A cho giao tử $n_A = 9$; Loài B cho giao tử $n_B = 12$.\\nBước 2: [Cơ thể lai F1 chưa đa bội hóa] Hợp tử F1 chứa $n_A + n_B = 9 + 12 = 21$ NST (bất thụ do NST không bắt đôi tương đồng).\\nBước 3: [Đa bội hóa thành Song nhị bội] Nhân đôi toàn bộ bộ NST: $2n_A + 2n_B = 18 + 24 = 42$ NST.\\nBước 4: [Kết luận] Thể song nhị bội hữu thụ chứa $42$ NST trong tế bào sinh dưỡng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step4_2_2_1",
+    "name": "Cách ly trước hợp tử ➔ Cách ly tập tính, sinh thái, cơ học, thời gian (mùa vụ)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_2_2",
+    "name": "Cách ly sau hợp tử ➔ Hợp tử bị chết, con lai bất thụ (Mẫu tử - Con La)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_2_3",
+    "name": "Hình thành loài cùng khu ➔ Bằng tập tính, sinh thái, lai xa + đa bội hóa",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_2_4",
+    "name": "Hình thành loài khác khu ➔ Bằng cách ly địa lý (Chậm chạp, qua nhiều giai đoạn trung gian)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les4_2_3",
+    "name": "Tiến hóa lớn & Quá trình phát sinh sự sống",
+    "type": "LESSON",
+    "parentId": "sinh12_top4_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_4_2_3_1",
+        "question": "[Dạng bài Tiến hóa phát sinh sự sống]: Trình bày thứ tự các giai đoạn phát sinh sự sống trên Trái Đất và nêu vai trò của RNA trong giai đoạn tiến hóa hóa học.",
+        "answer": "Bước 1: [Trình tự 3 giai đoạn] Tiến hóa hóa học ➔ Tiến hóa tiền sinh học ➔ Tiến hóa sinh học.\\nBước 2: [Vai trò của RNA] RNA là đại phân tử hữu cơ đầu tiên có khả năng tự tái bản mà không cần enzyme (nhờ tính chất xúc tác ribozyme), đóng vai trò lưu trữ và truyền đạt thông tin di truyền trước khi DNA xuất hiện.\\nBước 3: [Kết luận] RNA xuất hiện trước DNA trong quá trình phát sinh sự sống.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step4_2_3_1",
+    "name": "Giai đoạn tiến hóa hóa học ➔ Chất vô cơ ➔ Chất hữu cơ đơn giản ➔ Đại phân tử (RNA/DNA/Protein)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_3_2",
+    "name": "Giai đoạn tiến hóa tiền sinh học ➔ Đại phân tử ➔ Giọt Protobiont (Tế bào sơ khai)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_3_3",
+    "name": "Giai đoạn tiến hóa sinh học ➔ Tế bào sơ khai ➔ Đa dạng sinh giới ngày nay",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step4_2_3_4",
+    "name": "Các đại địa chất ➔ Thái cổ ➔ Nguyên sinh ➔ Cổ sinh ➔ Trung sinh ➔ Tân sinh (Bò sát/Thú/Người)",
+    "type": "STEP",
+    "parentId": "sinh12_les4_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_cat5",
+    "name": "Sinh thái học & Môi trường vĩ mô",
+    "type": "CATEGORY",
+    "parentId": "sinh12_root",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top5_1",
+    "name": "Môi trường, Nhân tố sinh thái & Sinh thái cá thể/quần thể",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat5",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les5_1_1",
+    "name": "Môi trường, Quy luật sinh thái & Nhịp sinh học",
+    "type": "LESSON",
+    "parentId": "sinh12_top5_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_5_1_1_1",
+        "question": "[Dạng bài Giới hạn sinh thái]: Cá rô phi nuôi ở Việt Nam có giới hạn sinh thái về nhiệt độ từ $5.6^\\circ C$ đến $42^\\circ C$, trong đó khoảng thuận lợi từ $20^\\circ C$ đến $35^\\circ C$. Phân tích sự sống sót của cá khi nhiệt độ môi trường xuống $10^\\circ C$ hoặc lên $40^\\circ C$.",
+        "answer": "Bước 1: [Nhận diện khoảng nhiệt độ] Khoảng dưới $5.6^\\circ C$ và trên $42^\\circ C$ là điểm gây chết. Từ $5.6^\\circ C - 20^\\circ C$ là khoảng chống chịu dưới. Từ $35^\\circ C - 42^\\circ C$ là khoảng chống chịu trên.\\nBước 2: [Phân tích ở $10^\\circ C$ và $40^\\circ C$] Cả hai mức nhiệt độ này đều nằm trong Khoảng chống chịu ➔ Cá vẫn sống sót nhưng hoạt động sinh lý bị ức chế, sinh trưởng giảm mạnh.\\nBước 3: [Kết luận] Cá rô phi sống sót nhưng phát triển kém ở $10^\\circ C$ và $40^\\circ C$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step5_1_1_1",
+    "name": "Môi trường sống ➔ Đất, Nước, Không khí, Môi trường sinh vật",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_1_1_2",
+    "name": "Giới hạn sinh thái ➔ Khoảng thuận lợi + Khoảng chống chịu + Điểm gây chết",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_1_1_3",
+    "name": "Ổ sinh thái ➔ Không gian sinh thái quy định sự tồn tại, phát triển lâu dài của loài",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_1_1_4",
+    "name": "Quy luật tác động tổng hợp ➔ Tất cả nhân tố sinh thái tác động đồng thời lên cơ thể",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les5_1_2",
+    "name": "Các đặc trưng quần thể & Mô hình tăng trưởng",
+    "type": "LESSON",
+    "parentId": "sinh12_top5_1",
+    "examples": [
+      {
+        "id": "ex_sinh12_5_1_2_1",
+        "question": "[Dạng bài Tăng trưởng quần thể]: Phân biệt đường cong tăng trưởng thực tế (S-shape) và đường cong tăng trưởng theo tiềm năng sinh học (J-shape) về điều kiện môi trường và sức chứa $K$.",
+        "answer": "Bước 1: [Dạng J-shape] Điều kiện môi trường vô hạn (nguồn sống dồi dào, không bị cạnh tranh); Kích thước tăng liên tục không phụ thuộc sức chứa $K$.\\nBước 2: [Dạng S-shape] Điều kiện môi trường có hạn (nguồn sống giới hạn, xuất hiện cạnh tranh); Kích thước quần thể tăng chậm ➔ nhanh ➔ chậm dần ➔ dừng lại ở sức chứa tối đa $K$ của môi trường.\\nBước 3: [Kết luận] Trong tự nhiên dạng S-shape là phổ biến nhất.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step5_1_2_1",
+    "name": "Đặc trưng quần thể ➔ Tỉ lệ giới tính, Nhóm tuổi, Mật độ cá thể, Phân bố cá thể",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_1_2_2",
+    "name": "Phân bố ➔ Đồng đều (Cạnh tranh gay gắt), Theo nhóm (Phổ biến, hỗ trợ), Ngẫu nhiên (Đồng nhất)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_1_2_3",
+    "name": "Tăng trưởng J-shape ➔ Môi trường không bị giới hạn (Tiềm năng sinh học tối đa)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_1_2_4",
+    "name": "Tăng trưởng S-shape ➔ Môi trường bị giới hạn (Kích thước tối đa $K$)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_top5_2",
+    "name": "Quần xã sinh vật, Hệ sinh thái & Chu trình sinh địa hóa",
+    "type": "TOPIC",
+    "parentId": "sinh12_cat5",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les5_2_1",
+    "name": "Cấu trúc Quần xã & Mối quan hệ sinh thái",
+    "type": "LESSON",
+    "parentId": "sinh12_top5_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_5_2_1_1",
+        "question": "[Dạng bài Mối quan hệ sinh thái trong quần xã]: Phân biệt hiện tượng Cộng sinh và Hợp tác giữa các loài trong quần xã sinh vật.",
+        "answer": "Bước 1: [Cộng sinh] Mối quan hệ chặt chẽ giữa 2 loài, cả 2 cùng có lợi ($+/+$) và BẮT BUỘC phải có nhau để tồn tại (ví dụ: Hải quỳ và Cua hermite, Vi khuẩn Rhizobium và Rễ cây họ Đậu).\\nBước 2: [Hợp tác] Mối quan hệ giữa 2 loài, cả 2 cùng có lợi ($+/+$) nhưng KHÔNG BẮT BUỘC (ví dụ: Chim sáo và Trâu rừng, Chim nhỏ và Cá sấu).\\nBước 3: [Kết luận] Điểm khác biệt cốt lõi là tính chất Bắt buộc của mối quan hệ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step5_2_1_1",
+    "name": "Đặc trưng quần xã ➔ Độ đa dạng (Loài ưu thế, Loài đặc trưng), Cấu trúc không gian (Tầng/Mặt phẳng)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_1_2",
+    "name": "Mối quan hệ hỗ trợ ➔ Cộng sinh ($+/+$ bắt buộc), Hợp tác ($+/+$ không bắt buộc), Hội sinh ($+/0$)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_1_3",
+    "name": "Mối quan hệ đối kháng ➔ Cạnh tranh ($-/-$), Ký sinh ($-/+$), Khống chế sinh học, Vật ăn thịt - Con mồi",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_1_4",
+    "name": "Khống chế sinh học ➔ Số lượng cá thể loài này khống chế loài khác ➔ Cân bằng sinh thái",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les5_2_2",
+    "name": "Cấu trúc Hệ sinh thái & Dòng năng lượng",
+    "type": "LESSON",
+    "parentId": "sinh12_top5_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_5_2_2_1",
+        "question": "[Dạng toán Hiệu suất sinh thái 9+]: Cho chuỗi thức ăn: Sinh vật sản xuất ($1.2 \\times 10^6 \\text{ kcal}$) ➔ Sinh vật tiêu thụ bậc 1 ($1.2 \\times 10^5 \\text{ kcal}$) ➔ Sinh vật tiêu thụ bậc 2 ($1.8 \\times 10^4 \\text{ kcal}$) ➔ Sinh vật tiêu thụ bậc 3 ($1.8 \\times 10^3 \\text{ kcal}$). Tính hiệu suất sinh thái giữa bậc dinh dưỡng cấp 3 và bậc dinh dưỡng cấp 2.",
+        "answer": "Bước 1: [Xác định bậc dinh dưỡng tương ứng]\\n- Bậc dinh dưỡng cấp 1: Sinh vật sản xuất ($1.2 \\times 10^6 \\text{ kcal}$).\\n- Bậc dinh dưỡng cấp 2: SVTT bậc 1 ($1.2 \\times 10^5 \\text{ kcal}$).\\n- Bậc dinh dưỡng cấp 3: SVTT bậc 2 ($1.8 \\times 10^4 \\text{ kcal}$).\\n\\nBước 2: [Tính hiệu suất sinh thái giữa BDD cấp 3 và BDD cấp 2]\\n$eff = \\frac{Q_3}{Q_2} \\times 100\\% = \\frac{1.8 \\times 10^4}{1.2 \\times 10^5} \\times 100\\% = 15\\%$.\\n\\nBước 3: [Kết luận] Hiệu suất sinh thái giữa bậc dinh dưỡng cấp 3 và bậc dinh dưỡng cấp 2 là $15\\%$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step5_2_2_1",
+    "name": "Thành phần HST ➔ Sinh vật sản xuất (SVSX) + Sinh vật tiêu thụ (SVTT) + Sinh vật phân giải (SVPG)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_2_2",
+    "name": "Chuỗi & Lưới thức ăn ➔ Chuỗi mở đầu bằng SVSX hoặc Chuỗi mở đầu bằng mùn bã sinh vật",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_2_3",
+    "name": "Hiệu suất sinh thái ➔ $eff = \\frac{Q_{n+1}}{Q_n} \\times 100\\%$ (Quy tắc $10\\%$ năng lượng)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_2_4",
+    "name": "Tháp sinh thái ➔ Tháp số lượng, Tháp sinh khối, Tháp năng lượng (Luôn có dạng chuẩn)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "sinh12_les5_2_3",
+    "name": "Diễn thế sinh thái & Chu trình sinh địa hóa",
+    "type": "LESSON",
+    "parentId": "sinh12_top5_2",
+    "examples": [
+      {
+        "id": "ex_sinh12_5_2_3_1",
+        "question": "[Dạng bài Diễn thế sinh thái]: Phân biệt Diễn thế nguyên sinh và Diễn thế thứ sinh về môi trường khởi đầu, nguyên nhân và kết quả.",
+        "answer": "Bước 1: [Diễn thế nguyên sinh] Môi trường khởi đầu: Trống trọc (chưa từng có sinh vật); Nguyên nhân: Tác động mạnh mẽ của ngoại cảnh / nội tại; Kết quả: Hình thành quần xã đỉnh cực tương đối ổn định.\\nBước 2: [Diễn thế thứ sinh] Môi trường khởi đầu: Đã từng có quần xã sinh vật sinh sống nhưng bị hủy hoại; Nguyên nhân: Thiên tai, dịch bệnh hoặc do hoạt động tàn phá của con người; Kết quả: Phục hồi quần xã tương tự hoặc suy ngoái thành quần xã nghèo nàn.\\nBước 3: [Kết luận] Điểm khác biệt quan trọng nhất là môi trường khởi đầu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "sinh12_step5_2_3_1",
+    "name": "Diễn thế nguyên sinh ➔ Môi trường trống trọc ➔ Quần xã đỉnh cực (Môi trường phát triển)",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_3_2",
+    "name": "Diễn thế thứ sinh ➔ Môi trường đã có quần xã ➔ Bị suy ngoái/hủy hoại ➔ Quần xã mới/phục hồi",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_3_3",
+    "name": "Chu trình Carbon, Nitrogen, Water ➔ Cố định Nitrogen nhờ vi khuẩn $NH_4^+, NO_3^-$",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_3",
+    "examples": null
+  },
+  {
+    "id": "sinh12_step5_2_3_4",
+    "name": "Bảo tồn & Phát triển bền vững ➔ Quản lý tài nguyên tái tạo, giảm ô nhiễm môi trường",
+    "type": "STEP",
+    "parentId": "sinh12_les5_2_3",
+    "examples": null
+  }
+]

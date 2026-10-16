@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "hoa12_subject",
+    "name": "Hóa học 12 - Kết nối tri thức",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat1",
+    "name": "Ester - Lipid & Chất giặt rửa",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top1_1",
+    "name": "Cấu tạo, danh pháp & tính chất Ester",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les1_1_1",
+    "name": "Đếm phát biểu, đồng phân, danh pháp Ester",
+    "type": "LESSON",
+    "parentId": "hoa12_top1_1",
+    "examples": [
+      {
+        "id": "hoa12_ex1_1_1_1",
+        "question": "[Đếm phát biểu Ester]: Cho các phát biểu về ester $\\text{HCOOCH}_3$: (1) Có tên là methyl formate; (2) Có phản ứng tráng bạc; (3) Là đồng phân của $\\text{CH}_3\\text{COOH}$; (4) Sôi ở nhiệt độ cao hơn $\\text{C}_2\\text{H}_5\\text{OH}$. Số phát biểu đúng?",
+        "answer": "Quy đổi/Nhận diện: Ester $\\text{HCOOCH}_3$ chứa nhóm $-\\text{CHO}$ ester của formic acid. ➔ Né bẫy: Ester không có liên kết hydrogen liên phân tử nên nhiệt độ sôi thấp hơn alcohol cùng $M$. ➔ Xét phát biểu: (1) Đúng, (2) Đúng do có nhóm HCOO-, (3) Đúng vì cùng $C_2H_4O_2$, (4) Sai vì $T_{\\text{sôi}} \\text{Ester} < T_{\\text{sôi}} \\text{Alcohol}$. ➔ Kết luận: Có 3 phát biểu đúng (1, 2, 3).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step1_1_1_1",
+    "name": "Cấu tạo ➔ $\\text{RCOOR'}$ ($R' \\neq H$)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_1_1_2",
+    "name": "Đồng phân ➔ $2^{n-2}$ ($n < 5$)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_1_1_3",
+    "name": "Nhiệt độ sôi ➔ Acid > Alcohol > Ester",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_1_1_4",
+    "name": "Né bẫy ➔ Ester formic $\\text{HCOOR'}$ tráng bạc ($1 \\text{HCOOR'} \\rightarrow 2\\text{Ag}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les1_1_2",
+    "name": "Hiệu suất ester hóa & thủy phân ester",
+    "type": "LESSON",
+    "parentId": "hoa12_top1_1",
+    "examples": [
+      {
+        "id": "hoa12_ex1_1_2_1",
+        "question": "[Hiệu suất Ester hóa]: Đun $6{,}0\\text{ g } \\text{CH}_3\\text{COOH}$ với $6{,}0\\text{ g } \\text{C}_2\\text{H}_5\\text{OH}$ (xúc tác $\\text{H}_2\\text{SO}_4$ đặc) thu được $4{,}4\\text{ g ethyl acetate}$. Tính hiệu suất phản ứng?",
+        "answer": "Quy đổi/Nhận diện: $n_{\\text{CH}_3\\text{COOH}} = 0,1\\text{ mol}$; $n_{\\text{C}_2\\text{H}_5\\text{OH}} \\approx 0,13\\text{ mol}$. Phản ứng theo tỉ lệ mol $1:1$, chất thiếu là acetic acid nên hiệu suất tính theo acid. ➔ Áp dụng: Theo lý thuyết $n_{\\text{ethyl acetate}} = 0,1\\text{ mol} \\Rightarrow m_{\\text{lí thuyết}} = 8,8\\text{ g}$. ➔ Tính toán: $H = (4,4 / 8,8) \\times 100\\% = 50\\%$. ➔ Kết luận: Hiệu suất phản ứng là $50\\% $.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step1_1_2_1",
+    "name": "Ester hóa ➔ $\\text{RCOOH} + \\text{R'OH} \\xrightleftharpoons[\\text{H}_2\\text{SO}_4\\text{ đ}]{\\text{t}^\\circ} \\text{RCOOR'} + \\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_1_2_2",
+    "name": "Thủy phân kiềm ➔ $\\text{RCOOR'} + \\text{NaOH} \\xrightarrow{t^\\circ} \\text{RCOONa} + \\text{R'OH}$ (1 chiều)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_1_2_3",
+    "name": "Bảo toàn khối lượng ➔ $m_{\\text{ester}} + m_{\\text{NaOH}} = m_{\\text{muối}} + m_{\\text{alcohol}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_1_2_4",
+    "name": "Hiệu suất ➔ $H(\\%) = \\frac{n_{\\text{phản ứng}}}{n_{\\text{ban đầu}}} \\cdot 100\\%$ (chất thiếu)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top1_2",
+    "name": "Chất béo (Triglyceride) & Xà phòng",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les1_2_1",
+    "name": "Thủy phân chất béo tìm m muối, glycerol",
+    "type": "LESSON",
+    "parentId": "hoa12_top1_2",
+    "examples": [
+      {
+        "id": "hoa12_ex1_2_1_1",
+        "question": "[Thủy phân Chất béo]: Xà phòng hóa hoàn toàn $17{,}8\\text{ g}$ triolein $(\\text{C}_{57}\\text{H}_{104}\\text{O}_6)$ bằng dung dịch $\\text{NaOH}$ vừa đủ. Tính khối lượng glycerol thu được?",
+        "answer": "Quy đổi/Nhận diện: Công thức của triolein là $(\\text{C}_{17}\\text{H}_{33}\\text{COO})_3\\text{C}_3\\text{H}_5$ ($M = 884\\text{ g/mol}$) $\\Rightarrow n_{\\text{triolein}} \\approx 0,02\\text{ mol}$. ➔ Tỉ lệ mol: $n_{\\text{glycerol}} = n_{\\text{triolein}} = 0{,}02\\text{ mol}$. ➔ Tính toán: $m_{\\text{glycerol}} = 0{,}02 \\cdot 92 = 1{,}84\\text{ g}$. ➔ Kết luận: Thu được $1{,}84\\text{ g}$ glycerol.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step1_2_1_1",
+    "name": "Công thức chung ➔ $(\\text{RCOO})_3\\text{C}_3\\text{H}_5$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_2_1_2",
+    "name": "Tỉ lệ mol cố định ➔ $n_{\\text{NaOH}} = 3n_{\\text{chất béo}} = 3n_{\\text{glycerol}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_2_1_3",
+    "name": "Thủy phân kiềm ➔ $(\\text{RCOO})_3\\text{C}_3\\text{H}_5 + 3\\text{NaOH} \\rightarrow 3\\text{RCOONa} + \\text{C}_3\\text{H}_5(\\text{OH})_3$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_2_1_4",
+    "name": "Thủy phân hóa ➔ $\\text{Chất béo} + 3\\text{H}_2\\text{O} \\rightarrow 3\\text{Acid béo} + \\text{Glycerol}$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les1_2_2",
+    "name": "Cộng H2, oxi hóa chất béo & cơ chế xà phòng",
+    "type": "LESSON",
+    "parentId": "hoa12_top1_2",
+    "examples": [
+      {
+        "id": "hoa12_ex1_2_2_1",
+        "question": "[Hydrogen hóa Chất béo]: Cần bao nhiêu lít $\\text{H}_2$ (đktc) để hydro hóa hoàn toàn $44{,}2\\text{ g}$ triolein thành tristearin?",
+        "answer": "Quy đổi/Nhận diện: Triolein có 3 liên kết $C=C$ ở 3 gốc oleic. $n_{\\text{triolein}} = 44{,}2 / 884 = 0{,}05\\text{ mol}$. ➔ Phương pháp: $n_{\\text{H}_2} = 3n_{\\text{triolein}} = 0{,}15\\text{ mol}$. ➔ Tính toán: $V_{\\text{H}_2} = 0{,}15 \\cdot 22{,}4 = 3{,}36\\text{ lít}$. ➔ Kết luận: Cần $3{,}36\\text{ lít } \\text{H}_2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step1_2_2_1",
+    "name": "Hydrogen hóa ➔ Chất béo lỏng $+ k\\text{H}_2 \\xrightarrow{\\text{Ni, } t^\\circ} \\text{Chất béo rắn}$",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_2_2_2",
+    "name": "Chỉ số peroxide ➔ Đo mức độ ôi thiu chất béo (gốc không no)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_2_2_3",
+    "name": "Cấu trúc xà phòng ➔ Đầu kị nước (đuôi hydrocarbon) + Đầu ưa nước ($-\\text{COO}^-\\text{Na}^+$)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step1_2_2_4",
+    "name": "Né bẫy ➔ Xà phòng mất tác dụng trong nước cứng ($\\text{Ca}^{2+}, \\text{Mg}^{2+}$ tạo kết tủa)",
+    "type": "STEP",
+    "parentId": "hoa12_les1_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat2",
+    "name": "Carbohydrate",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top2_1",
+    "name": "Monosaccharide (Glucose & Fructose)",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les2_1_1",
+    "name": "Cấu trúc & tính chất hóa học Glucose, Fructose",
+    "type": "LESSON",
+    "parentId": "hoa12_top2_1",
+    "examples": [
+      {
+        "id": "hoa12_ex2_1_1_1",
+        "question": "[Phân biệt Glucose - Fructose]: Thuốc thử duy nhất dùng để phân biệt dung dịch Glucose và Fructose là gì?",
+        "answer": "Quy đổi/Nhận diện: Trong môi trường kiềm, Fructose chuyển hóa thành Glucose nên cả 2 đều tráng bạc và làm tan $\\text{Cu(OH)}_2$. ➔ Né bẫy: Cần dùng dung dịch nước Bromine trong môi trường acid/trung tính. Glucose làm mất màu nước $\\text{Br}_2$, Fructose thì không. ➔ Kết luận: Dùng dung dịch nước $\\text{Br}_2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step2_1_1_1",
+    "name": "Cấu tạo ➔ Glucose (Aldohexose: $5\\text{-OH} + 1\\text{-CHO}$); Fructose (Ketohexose: $5\\text{-OH} + 1\\text{-CO}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_1_1_2",
+    "name": "Cân bằng kiềm ➔ $\\text{Fructose} \\xrightleftharpoons[\\text{OH}^-]{} \\text{Glucose}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_1_1_3",
+    "name": "Thuốc thử phân biệt ➔ Dung dịch nước $\\text{Br}_2$ (Glucose làm mất màu, Fructose không)",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_1_1_4",
+    "name": "Tạo phức ➔ $2\\text{C}_6\\text{H}_{12}\\text{O}_6 + \\text{Cu(OH)}_2 \\rightarrow \\text{Phức xanh đậm} + 2\\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les2_1_2",
+    "name": "Bài toán tráng bạc, Cu(OH)2 & lên men Glucose",
+    "type": "LESSON",
+    "parentId": "hoa12_top2_1",
+    "examples": [
+      {
+        "id": "hoa12_ex2_1_2_1",
+        "question": "[Lên men Glucose]: Lên men $180\\text{ g}$ glucose với hiệu suất $80\\%$. Cho toàn bộ khí $\\text{CO}_2$ vào $\\text{Ca(OH)}_2$ dư thu được $m\\text{ g}$ kết tủa. Tính $m$?",
+        "answer": "Quy đổi/Nhận diện: $n_{\\text{glucose}} = 180 / 180 = 1{,}0\\text{ mol}$. Sơ đồ: $\\text{C}_6\\text{H}_{12}\\text{O}_6 \\rightarrow 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2$. ➔ Áp dụng $H=80\\%$: $n_{\\text{CO}_2} = 2 \\cdot 1{,}0 \\cdot 0{,}8 = 1{,}6\\text{ mol}$. ➔ Khối lượng kết tủa: $n_{\\text{CaCO}_3} = n_{\\text{CO}_2} = 1{,}6\\text{ mol} \\Rightarrow m = 1{,}6 \\cdot 100 = 160\\text{ g}$. ➔ Kết luận: $m = 160\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step2_1_2_1",
+    "name": "Tráng bạc ➔ $1 \\text{Glucose} \\rightarrow 2\\text{Ag}$ ($n_{\\text{Ag}} = 2n_{\\text{glu}}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_1_2_2",
+    "name": "Lên men alcohol ➔ $\\text{C}_6\\text{H}_{12}\\text{O}_6 \\xrightarrow{\\text{enzyme, } 30-35^\\circ\\text{C}} 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_1_2_3",
+    "name": "Khử Cu(OH)2 ➔ $\\text{Glucose} + 2\\text{Cu(OH)}_2 + \\text{NaOH} \\xrightarrow{t^\\circ} \\text{Gluconate} + \\text{Cu}_2\\text{O}\\downarrow (\\text{đỏ gạch}) + 3\\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_1_2_4",
+    "name": "Né bẫy ➔ Tính $H$ nhân chiều thuận, chia chiều nghịch",
+    "type": "STEP",
+    "parentId": "hoa12_les2_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top2_2",
+    "name": "Disaccharide & Polysaccharide",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les2_2_1",
+    "name": "Phân biệt Saccharose, Tinh bột, Cellulose",
+    "type": "LESSON",
+    "parentId": "hoa12_top2_2",
+    "examples": [
+      {
+        "id": "hoa12_ex2_2_1_1",
+        "question": "[Cấu tạo Carbohydrate]: Carbohydrate nào sau đây không có phản ứng thủy phân trong môi trường acid?",
+        "answer": "Quy đổi/Nhận diện: Monosaccharide (Glucose, Fructose) là đường đơn không bị thủy phân. Disaccharide và Polysaccharide bị thủy phân thành monosaccharide. ➔ Kết luận: Glucose (hoặc Fructose).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step2_2_1_1",
+    "name": "Saccharose ➔ Gồm $\\alpha\\text{-Glucose} + \\beta\\text{-Fructose}$ qua liên kết $\\alpha-1,2-\\text{glycoside}$ (Không tráng bạc)",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_2_1_2",
+    "name": "Tinh bột ➔ Amylose (mạch thẳng, $\\alpha-1,4$) + Amylopectin (mạch nhánh, $\\alpha-1,4$ và $\\alpha-1,6$)",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_2_1_3",
+    "name": "Cellulose ➔ Mạch không nhánh, $\\beta-1,4-\\text{glycoside}$, công thức $[\\text{C}_6\\text{H}_7\\text{O}_2(\\text{OH})_3]_n$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_2_1_4",
+    "name": "Thuốc thử Hồ tinh bột ➔ Dung dịch Iodine ($I_2$) xuất hiện màu xanh tím đặc trưng",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les2_2_2",
+    "name": "Thủy phân polysaccharide & nitrat hóa cellulose",
+    "type": "LESSON",
+    "parentId": "hoa12_top2_2",
+    "examples": [
+      {
+        "id": "hoa12_ex2_2_2_1",
+        "question": "[Nitrat hóa Cellulose]: Cho $16{,}2\\text{ kg}$ cellulose tác dụng dư $\\text{HNO}_3$ đặc (xúc tác $\\text{H}_2\\text{SO}_4$ đặc). Khối lượng cellulose trinitrate thu được với $H=90\\%$ là bao nhiêu?",
+        "answer": "Quy đổi/Nhận diện: $[\\text{C}_6\\text{H}_7\\text{O}_2(\\text{OH})_3]_n + 3n\\text{HNO}_3 \\rightarrow [\\text{C}_6\\text{H}_7\\text{O}_2(\\text{ONO}_2)_3]_n + 3n\\text{H}_2\\text{O}$. ➔ Tỉ lệ $M$: $162\\text{ g} \\rightarrow 297\\text{ g}$. ➔ Khối lượng lí thuyết: $m_{\\text{LT}} = 16{,}2 \\cdot (297/162) = 29{,}7\\text{ kg}$. ➔ Thực tế ($H=90\\%$): $m_{\\text{TT}} = 29{,}7 \\cdot 0{,}9 = 26{,}73\\text{ kg}$. ➔ Kết luận: $26{,}73\\text{ kg}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step2_2_2_1",
+    "name": "Thủy phân Saccharose ➔ $1 \\text{Sac} \\xrightarrow{\\text{H}^+, t^\\circ} 1 \\text{Glu} + 1 \\text{Fru} \\xrightarrow{\\text{AgNO}_3/\\text{NH}_3} 4\\text{Ag}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_2_2_2",
+    "name": "Nitrat hóa ➔ $[\\text{C}_6\\text{H}_7\\text{O}_2(\\text{OH})_3]_n + 3n\\text{HNO}_3 \\xrightarrow{\\text{H}_2\\text{SO}_4\\text{ đ}} [\\text{C}_6\\text{H}_7\\text{O}_2(\\text{ONO}_2)_3]_n + 3n\\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_2_2_3",
+    "name": "Bảo toàn $C$ tráng bạc ➔ Tinh bột/Cellulose $\\rightarrow n\\text{Glu} \\rightarrow 2n\\text{Ag}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step2_2_2_4",
+    "name": "Né bẫy ➔ Saccharose không tráng bạc nhưng sản phẩm thủy phân của nó tráng bạc tạo $4\\text{Ag}$",
+    "type": "STEP",
+    "parentId": "hoa12_les2_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat3",
+    "name": "Hợp chất chứa Nitrogen",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top3_1",
+    "name": "Amine & Tính chất bậc Amine",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat3",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les3_1_1",
+    "name": "Danh pháp, tính base & phản ứng Aniline",
+    "type": "LESSON",
+    "parentId": "hoa12_top3_1",
+    "examples": [
+      {
+        "id": "hoa12_ex3_1_1_1",
+        "question": "[Tính Base Amine]: Sắp xếp dãy các chất theo chiều tăng dần lực base: (1) Aniline, (2) Ammonia, (3) Methylamine, (4) Dimethylamine.",
+        "answer": "Quy đổi/Nhận diện: Gốc hút e ($C_6H_5-$) giảm lực base, gốc đẩy e (alkyl) tăng lực base. Số gốc alkyl tăng làm tăng lực base (bậc 2 > bậc 1). ➔ Trật tự: Aniline < Ammonia < Methylamine < Dimethylamine. ➔ Kết luận: (1) < (2) < (3) < (4).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step3_1_1_1",
+    "name": "Phân loại bậc amine ➔ Bậc I ($-\\text{NH}_2$), Bậc II ($-\\text{NH}-$), Bậc III ($-\\text{N}<$)",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_1_1_2",
+    "name": "Lực base ➔ Amine thơm < $\\text{NH}_3$ < Amine béo bậc I < Amine béo bậc II",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_1_1_3",
+    "name": "Phản ứng thế vào nhân thơm của aniline ➔ $\\text{C}_6\\text{H}_5\\text{NH}_2 + 3\\text{Br}_2 \\rightarrow 2,4,6-\\text{tribromoaniline}\\downarrow (kết\\,tủa\\,trắng) + 3\\text{HBr}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_1_1_4",
+    "name": "Né bẫy ➔ Aniline không làm đổi màu quỳ tím do tính base quá yếu",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les3_1_2",
+    "name": "Amine tác dụng acid, dung dịch muối, Br2",
+    "type": "LESSON",
+    "parentId": "hoa12_top3_1",
+    "examples": [
+      {
+        "id": "hoa12_ex3_1_2_1",
+        "question": "[Tăng giảm khối lượng Amine]: Cho $9{,}3\\text{ g}$ aniline tác dụng hoàn toàn với dung dịch $\\text{HCl}$ dư. Khối lượng muối phenylammonium chloride thu được là bao nhiêu?",
+        "answer": "Quy đổi/Nhận diện: $n_{\\text{aniline}} = 9{,}3 / 93 = 0{,}1\\text{ mol}$. ➔ Phản ứng: $\\text{C}_6\\text{H}_5\\text{NH}_2 + \\text{HCl} \\rightarrow \\text{C}_6\\text{H}_5\\text{NH}_3\\text{Cl}$. ➔ Tính toán: $m_{\\text{muối}} = 0{,}1 \\cdot 129{,}5 = 12{,}95\\text{ g}$. ➔ Kết luận: $12{,}95\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step3_1_2_1",
+    "name": "Phản ứng acid ➔ $\\text{RNH}_2 + \\text{HCl} \\rightarrow \\text{RNH}_3\\text{Cl}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_1_2_2",
+    "name": "Bảo toàn khối lượng ➔ $m_{\\text{amine}} + m_{\\text{HCl}} = m_{\\text{muối}} \\Rightarrow n_{\\text{HCl}} = \\frac{m_{\\text{muối}} - m_{\\text{amine}}}{36{,}5}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_1_2_3",
+    "name": "Tạo tủa ion kim loại ➔ $3\\text{CH}_3\\text{NH}_2 + \\text{FeCl}_3 + 3\\text{H}_2\\text{O} \\rightarrow \\text{Fe(OH)}_3\\downarrow + 3\\text{CH}_3\\text{NH}_3\\text{Cl}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_1_2_4",
+    "name": "Đốt cháy Amine no đơn ➔ $\\text{C}_n\\text{H}_{2n+3}\\text{N} \\rightarrow n\\text{CO}_2 + (n+1{,}5)\\text{H}_2\\text{O} + 0{,}5\\text{N}_2$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top3_2",
+    "name": "Amino Acid & Tính lưỡng tính",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat3",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les3_2_1",
+    "name": "Ion lưỡng cực, tính lưỡng tính & điện trường",
+    "type": "LESSON",
+    "parentId": "hoa12_top3_2",
+    "examples": [
+      {
+        "id": "hoa12_ex3_2_1_1",
+        "question": "[Điện di Amino Acid]: Ở $pH = 6{,}0$ (điểm đẳng điện), dung dịch Glycine có khả năng di chuyển về cực nào của điện trường?",
+        "answer": "Quy đổi/Nhận diện: Ở điểm đẳng điện ($pH_{I}$), Glycine tồn tại ở dạng ion lưỡng cực $\\text{H}_3\\text{N}^+-\\text{CH}_2-\\text{COO}^-$ có tổng điện tích bằng 0. ➔ Kết luận: Không di chuyển về cực nào.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step3_2_1_1",
+    "name": "Cấu trúc ion ➔ Dạng $\\text{H}_3\\text{N}^+-\\text{R}-\\text{COO}^-$ (thể rắn, $T_{\\text{nóng chảy}}$ cao)",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_2_1_2",
+    "name": "Lưỡng tính ➔ Tác dụng cả acid mạnh (nhóm $-\\text{COO}^-$ nhận $\\text{H}^+$) và base mạnh (nhóm $-\\text{NH}_3^+$ nhường $\\text{H}^+$)",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_2_1_3",
+    "name": "Môi trường $pH$ ➔ Tỉ lệ nhóm $(-\\text{NH}_2) : (-\\text{COOH})$. Glu ($1:2 \\rightarrow \\text{acid}$), Lys ($2:1 \\rightarrow \\text{base}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_2_1_4",
+    "name": "Điện di ➔ Môi trường acid ($\\text{H}^+$ dư $\\rightarrow$ cation $\\rightarrow$ Cathode cực âm); Môi trường base (Anode cực dương)",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les3_2_2",
+    "name": "Amino Acid + acid/base & biện luận muối amoni",
+    "type": "LESSON",
+    "parentId": "hoa12_top3_2",
+    "examples": [
+      {
+        "id": "hoa12_ex3_2_2_1",
+        "question": "[Phản ứng nối tiếp Amino Acid]: Cho $0{,}1\\text{ mol}$ Glycine tác dụng vừa đủ với $100\\text{ mL}$ dung dịch $\\text{HCl } 1\\text{M}$. Thu được dung dịch $X$. Cho $X$ tác dụng dư dung dịch $\\text{NaOH}$. Cần dùng bao nhiêu mol $\\text{NaOH}$?",
+        "answer": "Quy đổi/Nhận diện: Coi hỗn hợp $X$ gồm $0{,}1\\text{ mol Gly}$ và $0{,}1\\text{ mol HCl}$ phản ứng độc lập với $\\text{NaOH}$. ➔ Áp dụng: $n_{\\text{NaOH}} = n_{\\text{Gly}} + n_{\\text{HCl}} = 0{,}1 + 0{,}1 = 0{,}2\\text{ mol}$. ➔ Kết luận: $n_{\\text{NaOH}} = 0{,}2\\text{ mol}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step3_2_2_1",
+    "name": "Thuật toán nối tiếp ➔ Coi hỗn hợp (Amino acid + Acid) phản ứng đồng thời với Base",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_2_2_2",
+    "name": "Bảo toàn điện tích dung dịch muối ➔ $\\sum n_{\\text{đt dương}} = \\sum n_{\\text{đt âm}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_2_2_3",
+    "name": "Biện luận muối amoni ➔ Công thức $\\text{C}_n \\text{H}_{2n+4} \\text{O}_2 \\text{N}_2$ (muối amoni carboxylic acid / amino acid)",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_2_2_4",
+    "name": "Né bẫy ➔ Chú ý số nhóm $-\\text{COOH}$ khi tính $n_{\\text{NaOH}}$ dư",
+    "type": "STEP",
+    "parentId": "hoa12_les3_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top3_3",
+    "name": "Peptide, Protein & Enzyme",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat3",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les3_3_1",
+    "name": "Liên kết peptide, màu Biuret, đông tụ Protein",
+    "type": "LESSON",
+    "parentId": "hoa12_top3_3",
+    "examples": [
+      {
+        "id": "hoa12_ex3_3_1_1",
+        "question": "[Phản ứng màu Biuret]: Chất nào sau đây không cho phản ứng màu Biuret với $\\text{Cu(OH)}_2/\\text{NaOH}$?",
+        "answer": "Quy đổi/Nhận diện: Điều kiện cho phản ứng Biuret là Peptide phải có từ 2 liên kết peptide trở lên (từ Tripeptide trở lên). Dipeptide không cho phản ứng này. ➔ Kết luận: Dipeptide (ví dụ Gly-Ala).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step3_3_1_1",
+    "name": "Liên kết peptide ➔ Nhóm $-\\text{CO}-\\text{NH}-$ giữa các đơn vị $\\alpha\\text{-amino acid}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_3_1_2",
+    "name": "Phản ứng Biuret ➔ Tripeptide trở lên $+ \\text{Cu(OH)}_2/\\text{NaOH} \\rightarrow \\text{Phức tím đặc trưng}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_3_1_3",
+    "name": "Sự đông tụ ➔ Do $t^\\circ$, acid, base hoặc muối kim loại nặng làm đứt gãy liên kết hydro/biến tính",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_3_1_4",
+    "name": "Màu nitric acid ➔ Protein có gốc thơm (như Tyrosine) $+ \\text{HNO}_3 \\rightarrow \\text{Màu vàng}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les3_3_2",
+    "name": "Thủy phân hoàn toàn & không hoàn toàn Peptide",
+    "type": "LESSON",
+    "parentId": "hoa12_top3_3",
+    "examples": [
+      {
+        "id": "hoa12_ex3_3_2_1",
+        "question": "[Thủy phân Peptide]: Thủy phân hoàn toàn $1\\text{ mol}$ peptide $X$ thu được $2\\text{ mol Gly}$, $1\\text{ mol Ala}$, $1\\text{ mol Val}$. Thủy phân không hoàn toàn thu được Gly-Ala, Ala-Val, Gly-Gly. Xác định thứ tự cấu tạo $X$?",
+        "answer": "Quy đổi/Nhận diện: Mảnh nối: Gly-Ala, Ala-Val $\\rightarrow$ Gly-Ala-Val. Kết hợp mảnh Gly-Gly $\\rightarrow$ Gly-Gly-Ala-Val. ➔ Kết luận: Cấu tạo $X$ là Gly-Gly-Ala-Val.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step3_3_2_1",
+    "name": "Thủy phân k-peptide trong kiềm ➔ $\\text{Peptide}_k + k\\text{NaOH} \\rightarrow \\text{Muối} + 1\\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_3_2_2",
+    "name": "Thủy phân k-peptide trong acid ➔ $\\text{Peptide}_k + (k-1)\\text{H}_2\\text{O} + k\\text{HCl} \\rightarrow \\text{Muối amoni}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_3_2_3",
+    "name": "Bảo toàn mắt xích ➔ $n_{\\text{mắt xích}} = k \\cdot n_{\\text{peptide}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step3_3_2_4",
+    "name": "Ghép mảnh peptide ➔ Xếp chồng các đoạn peptide ngắn trùng lắp để tìm chuỗi mạch",
+    "type": "STEP",
+    "parentId": "hoa12_les3_3_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat4",
+    "name": "Polymer & Vật liệu Polymer",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top4_1",
+    "name": "Đại cương Polymer & Phản ứng tổng hợp",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat4",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les4_1_1",
+    "name": "Phân loại, điều chế (trùng hợp, trùng ngưng)",
+    "type": "LESSON",
+    "parentId": "hoa12_top4_1",
+    "examples": [
+      {
+        "id": "hoa12_ex4_1_1_1",
+        "question": "[Phản ứng Trùng ngưng]: Monomer nào sau đây có khả năng tham gia phản ứng trùng ngưng?",
+        "answer": "Quy đổi/Nhận diện: Điều kiện trùng ngưng là monomer phải chứa ít nhất 2 nhóm chức có khả năng phản ứng (như $-\\text{COOH}, -\\text{OH}, -\\text{NH}_2$). ➔ Kết luận: $\\text{H}_2\\text{N}-[\\text{CH}_2]_5-\\text{COOH}$ (6-aminohexanoic acid).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step4_1_1_1",
+    "name": "Trùng hợp ➔ Monomer có liên kết bội ($C=C$) hoặc vòng kém bền (như caprolactam)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_1_1_2",
+    "name": "Trùng ngưng ➔ Monomer có $\\ge 2$ nhóm chức phản ứng kết hợp tách chất nhỏ (như $\\text{H}_2\\text{O}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_1_1_3",
+    "name": "Mạch polymer ➔ Mạch không nhánh (PE, PVC), Mạch phân nhánh (Amylopectin), Mạch không gian (Cao su lưu hóa, Bakelite)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_1_1_4",
+    "name": "Né bẫy ➔ Tơ visco và Tơ acetate là tơ bán tổng hợp (nhân tạo) biến đổi từ cellulose",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les4_1_2",
+    "name": "Tính hệ số trùng hợp (mắt xích) & hiệu suất",
+    "type": "LESSON",
+    "parentId": "hoa12_top4_1",
+    "examples": [
+      {
+        "id": "hoa12_ex4_1_2_1",
+        "question": "[Mắt xích Polymer]: Hệ số trùng hợp của Polyethylene (PE) có khối lượng phân tử trung bình $28000\\text{ amu}$ là bao nhiêu?",
+        "answer": "Quy đổi/Nhận diện: Mắt xích PE là $-\\text{CH}_2-\\text{CH}_2-$ có $M_{\\text{mắt xích}} = 28\\text{ g/mol}$. ➔ Tính toán: $n = \\frac{M_{\\text{polymer}}}{M_{\\text{mắt xích}}} = \\frac{28000}{28} = 1000$. ➔ Kết luận: Hệ số trùng hợp $n = 1000$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step4_1_2_1",
+    "name": "Hệ số mắt xích ➔ $n = \\frac{\\bar{M}_{polymer}}{M_{\\text{mắt xích}}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_1_2_2",
+    "name": "Bảo toàn khối lượng ➔ $m_{\\text{monomer}} = m_{\\text{polymer}} + m_{\\text{sản phẩm phụ}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_1_2_3",
+    "name": "Chuỗi tổng hợp PVC ➔ $\\text{CH}_4 \\xrightarrow{1500^\\circ\\text{C}} \\text{C}_2\\text{H}_2 \\xrightarrow{+\\text{HCl}} \\text{CH}_2=\\text{CHCl} \\xrightarrow{\\text{trùng hợp}} \\text{PVC}$",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_1_2_4",
+    "name": "Hiệu suất chuỗi ➔ $H_{\\text{tổng}} = H_1 \\cdot H_2 \\cdot H_3...$",
+    "type": "STEP",
+    "parentId": "hoa12_les4_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top4_2",
+    "name": "Các dạng vật liệu Polymer thực tiễn",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat4",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les4_2_1",
+    "name": "Phân biệt Chất dẻo, Tơ, Cao su, Composite",
+    "type": "LESSON",
+    "parentId": "hoa12_top4_2",
+    "examples": [
+      {
+        "id": "hoa12_ex4_2_1_1",
+        "question": "[Phân loại Tơ]: Loại tơ nào sau đây thuộc loại tơ polyamide?",
+        "answer": "Quy đổi/Nhận diện: Tơ polyamide chứa các liên kết $-\\text{CO}-\\text{NH}-$. Ví dụ: Tơ nilon-6,6, Tơ capron (nilon-6), Tơ enang (nilon-7). ➔ Kết luận: Tơ nilon-6,6.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step4_2_1_1",
+    "name": "Chất dẻo ➔ PE, PP, PVC, PS, PMMA (thủy tinh hữu cơ Plexiglas từ methyl methacrylate)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_2_1_2",
+    "name": "Tơ Polyamide ➔ Nilon-6,6; Nilon-6; Nilon-7 (Kém bền trong môi trường acid hoặc kiềm do dễ bị thủy phân liên kết amide)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_2_1_3",
+    "name": "Tơ Vinylic ➔ Tơ nitron/olon từ acrylonitrile $\\text{CH}_2=\\text{CH}-\\text{CN}$ (Giữ nhiệt tốt làm áo ấm)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_2_1_4",
+    "name": "Composite ➔ Vật liệu gồm chất nền (polymer) + chất độn (sợi thủy tinh, sợi carbon...)",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les4_2_2",
+    "name": "Lưu hóa cao su & keo dán",
+    "type": "LESSON",
+    "parentId": "hoa12_top4_2",
+    "examples": [
+      {
+        "id": "hoa12_ex4_2_2_1",
+        "question": "[Cao su lưu hóa]: Bản chất của quá trình lưu hóa cao su bằng Sulfur (S) là gì?",
+        "answer": "Quy đổi/Nhận diện: Đun nóng cao su thô với Sulfur ở $130-150^\\circ\\text{C}$ tạo cầu nối $-S-S-$ giữa các mạch cao su. ➔ Kết luận: Chuyển cao su từ cấu trúc mạch thẳng thành cấu trúc mạng không gian bền, đàn hồi hơn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step4_2_2_1",
+    "name": "Cao su tự nhiên ➔ Isoprene $[-\\text{CH}_2-\\text{C}(\\text{CH}_3)=\\text{CH}-\\text{CH}_2-]_n$ dạng cis",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_2_2_2",
+    "name": "Cao su lưu hóa ➔ Cầu nối $-S-S-$ tạo mạng không gian 3D làm tăng chịu nhiệt, chịu lực",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_2_2_3",
+    "name": "Bảo toàn Sulfur ➔ Tỉ lệ mắt xích Isoprene : $S$ trong phản ứng lưu hóa",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step4_2_2_4",
+    "name": "Keo dán ➔ Keo epoxi, Keo dán poly(vinyl acetate), Keo hồ tinh bột",
+    "type": "STEP",
+    "parentId": "hoa12_les4_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat5",
+    "name": "Pin điện & Điện phân (Điện hóa)",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top5_1",
+    "name": "Thế điện cực chuẩn & Pin Galvanic",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat5",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les5_1_1",
+    "name": "Thế điện cực chuẩn, chiều phản ứng & suất điện động",
+    "type": "LESSON",
+    "parentId": "hoa12_top5_1",
+    "examples": [
+      {
+        "id": "hoa12_ex5_1_1_1",
+        "question": "[Suất điện động Pin]: Cho $E^\\circ_{\\text{Zn}^{2+}/\\text{Zn}} = -0{,}76\\text{ V}$ và $E^\\circ_{\\text{Cu}^{2+}/\\text{Cu}} = +0{,}34\\text{ V}$. Tính suất điện động chuẩn $E^\\circ_{\\text{pin(Zn-Cu)}}$?",
+        "answer": "Quy đổi/Nhận diện: $E^\\circ_{\\text{pin}} = E^\\circ_{\\text{Cathode}} - E^\\circ_{\\text{Anode}} = E^\\circ_{\\text{dương}} - E^\\circ_{\\text{âm}}$. ➔ Áp dụng: $E^\\circ_{\\text{pin}} = (+0{,}34) - (-0{,}76) = 1{,}10\\text{ V}$. ➔ Kết luận: $E^\\circ_{\\text{pin}} = 1{,}10\\text{ V}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step5_1_1_1",
+    "name": "Sắp xếp dãy ➔ $E^\\circ$ nhỏ (tính khử mạnh) đứng trước, $E^\\circ$ lớn (tính oxi hóa mạnh) đứng sau",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_1_1_2",
+    "name": "Quy tắc Alpha ($\\alpha$) ➔ Chất oxi hóa mạnh hơn + Chất khử mạnh hơn $\\rightarrow$ Oxi hóa yếu hơn + Khử yếu hơn",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_1_1_3",
+    "name": "Suất điện động Pin ➔ $E^\\circ_{\\text{pin}} = E^\\circ_{\\text{Cathode (+) }} - E^\\circ_{\\text{Anode (-) }} > 0$",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_1_1_4",
+    "name": "Né bẫy ➔ Cathode (+) xảy ra sự khử; Anode (-) xảy ra sự oxi hóa (ngược với điện phân)",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les5_1_2",
+    "name": "Pin Galvanic, Acquy, Pin Li-ion",
+    "type": "LESSON",
+    "parentId": "hoa12_top5_1",
+    "examples": [
+      {
+        "id": "hoa12_ex5_1_2_1",
+        "question": "[Cấu tạo Pin Daniell]: Trong Pin Daniell Zn-Cu, vai trò của cầu muối (salt bridge chứa $\\text{KCl}$) là gì?",
+        "answer": "Quy đổi/Nhận diện: Cầu muối đóng kín mạch điện và duy trì sự trung hòa điện tích ở hai bán tế bào. ➔ Kết luận: Khép kín mạch và trung hòa điện tích hai dung dịch.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step5_1_2_1",
+    "name": "Pin Galvanic ➔ Hóa năng $\\rightarrow$ Điện năng (Tự diễn biến, $E_{\\text{pin}} > 0$)",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_1_2_2",
+    "name": "Pin Nhiên liệu $H_2-O_2$ ➔ Anode: $2\\text{H}_2 + 4\\text{OH}^- \\rightarrow 4\\text{H}_2\\text{O} + 4e$; Cathode: $\\text{O}_2 + 2\\text{H}_2\\text{O} + 4e \\rightarrow 4\\text{OH}^-$",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_1_2_3",
+    "name": "Acquy Lead-Acid ➔ Phản ứng sạc/xả thuận nghịch: $\\text{Pb} + \\text{PbO}_2 + 2\\text{H}_2\\text{SO}_4 \\xrightleftharpoons[\\text{sạc}]{\\text{xả}} 2\\text{PbSO}_4 + 2\\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_1_2_4",
+    "name": "Pin Lithium-ion ➔ Di chuyển $\\text{Li}^+$ giữa cực graphite âm và cathode oxide kim loại chuyển tiếp",
+    "type": "STEP",
+    "parentId": "hoa12_les5_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top5_2",
+    "name": "Cơ chế Điện phân & Ứng dụng",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat5",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les5_2_1",
+    "name": "Thứ tự điện phân Anode/Cathode & ứng dụng",
+    "type": "LESSON",
+    "parentId": "hoa12_top5_2",
+    "examples": [
+      {
+        "id": "hoa12_ex5_2_1_1",
+        "question": "[Thứ tự Điện phân]: Điện phân dung dịch chứa $\\text{CuSO}_4$ và $\\text{NaCl}$ với điện cực trơ. Ion nào bị khử trước tiên tại Cathode?",
+        "answer": "Quy đổi/Nhận diện: Tại Cathode (cực âm), cation nào có thế điện cực chuẩn $E^\\circ$ lớn hơn (tính oxi hóa mạnh hơn) sẽ bị khử trước. $E^\\circ_{\\text{Cu}^{2+}/\\text{Cu}} = +0{,}34\\text{ V} > E^\\circ_{2\\text{H}_2\\text{O}/\\text{H}_2}$. Ion $\\text{Na}^+$ không bị khử trong dung dịch. ➔ Kết luận: Ion $\\text{Cu}^{2+}$ bị khử trước.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step5_2_1_1",
+    "name": "Cathode (-) ➔ Khử cation (Thứ tự $E^\\circ$ giảm dần: $\\text{Ag}^+ > \\text{Fe}^{3+} > \\text{Cu}^{2+} > \\text{H}^+ > \\text{Pb}^{2+}...$). Kim loại kiềm/kiềm thổ/Al không bị khử",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_2_1_2",
+    "name": "Anode (+) ➔ Oxi hóa anion (Thứ tự: $\\text{S}^{2-} > \\text{I}^- > \\text{Br}^- > \\text{Cl}^- > \\text{OH}^- > \\text{H}_2\\text{O}$). Acid có oxy ($\\text{SO}_4^{2-}, \\text{NO}_3^-$) không bị oxi hóa",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_2_1_3",
+    "name": "Mạ điện ➔ Vật cần mạ làm Cathode (-), kim loại mạ làm Anode tan (+)",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_2_1_4",
+    "name": "Né bẫy ➔ Bình điện phân có Anode (+) và Cathode (-) gắn vào nguồn điện ngoài",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les5_2_2",
+    "name": "Bài toán điện phân dung dịch (Đồ thị, Faraday)",
+    "type": "LESSON",
+    "parentId": "hoa12_top5_2",
+    "examples": [
+      {
+        "id": "hoa12_ex5_2_2_1",
+        "question": "[Điện phân Faraday]: Điện phân $200\\text{ mL}$ dung dịch $\\text{CuSO}_4\\text{ 1M}$ với cường độ $I = 9{,}65\\text{ A}$ trong $2000\\text{ giây}$. Tính khối lượng kim loại Cu bám vào Cathode?",
+        "answer": "Quy đổi/Nhận diện: $n_e = \\frac{I \\cdot t}{F} = \\frac{9{,}65 \\cdot 2000}{96500} = 0{,}2\\text{ mol}$. ➔ Bán phản ứng Cathode: $\\text{Cu}^{2+} + 2e \\rightarrow \\text{Cu}$. ➔ Tính toán: $n_{\\text{Cu}} = n_e / 2 = 0{,}1\\text{ mol} \\Rightarrow m_{\\text{Cu}} = 0{,}1 \\cdot 64 = 6{,}4\\text{ g}$. (Kiểm tra $n_{\\text{CuSO}_4 \\text{ đầu}} = 0{,}2\\text{ mol} > 0{,}1\\text{ mol}$, $\\text{Cu}^{2+}$ chưa hết). ➔ Kết luận: $m_{\\text{Cu}} = 6{,}4\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step5_2_2_1",
+    "name": "Công thức Faraday ➔ $n_e = \\frac{I \\cdot t}{F}$ ($F = 96500\\text{ C/mol}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_2_2_2",
+    "name": "Bảo toàn electron ➔ $n_{e (\\text{Anode})} = n_{e (\\text{Cathode})} = n_e$",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_2_2_3",
+    "name": "Đồ thị khí thoát ra ➔ Độ dốc đường $n_{\\text{khí}}$ thay đổi tại các thời điểm có sự tham gia điện phân của nước",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step5_2_2_4",
+    "name": "Đổi bình điện phân ➔ Bảng chia khoảng thời gian $t_1, t_2, t_3$ theo tỉ lệ $n_e$",
+    "type": "STEP",
+    "parentId": "hoa12_les5_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat6",
+    "name": "Đại cương Kim loại & Ăn mòn Kim loại",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top6_1",
+    "name": "Tinh thể kim loại, Liên kết & Tách kim loại",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat6",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les6_1_1",
+    "name": "Mạng tinh thể, liên kết kim loại & tính chất vật lý",
+    "type": "LESSON",
+    "parentId": "hoa12_top6_1",
+    "examples": [
+      {
+        "id": "hoa12_ex6_1_1_1",
+        "question": "[Tính chất vật lý Kim loại]: Giải thích nguyên nhân tính dẻo, dẫn điện, dẫn nhiệt và ánh kim chung của tất cả các kim loại?",
+        "answer": "Quy đổi/Nhận diện: Các tính chất vật lý chung của kim loại gây ra bởi sự chuyển động tự do của các electron tự do trong mạng tinh thể kim loại. ➔ Kết luận: Do các electron tự do trong mạng tinh thể gây ra.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step6_1_1_1",
+    "name": "Cấu trúc tinh thể ➔ Lập phương tâm khối (Li, Na, K, Ba, $\\text{Fe}-\\alpha$), Lập phương tâm diện (Cu, Ag, Au, Al), Lục phương (Be, Mg, Zn)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_1_1_2",
+    "name": "Kỷ lục kim loại ➔ Dẫn điện ($\\text{Ag} > \\text{Cu} > \\text{Au} > \\text{Al} > \\text{Fe}$); Cứng nhất (Cr); Nhẹ nhất (Li); Nhiệt độ nóng chảy cao nhất (W)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_1_1_3",
+    "name": "Liên kết kim loại ➔ Lực hút tĩnh điện giữa các cation kim loại tại nút mạng và các $e$ tự do",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_1_1_4",
+    "name": "Né bẫy ➔ Bán kính nguyên tử kim loại lớn hơn bán kính ion tương ứng của nó",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les6_1_2",
+    "name": "Tách kim loại (nhiệt luyện, thủy luyện, điện phân) & hợp kim",
+    "type": "LESSON",
+    "parentId": "hoa12_top6_1",
+    "examples": [
+      {
+        "id": "hoa12_ex6_1_2_1",
+        "question": "[Nhiệt luyện Kim loại]: Dùng khí $\\text{CO}$ dư khử hoàn toàn $16\\text{ g } \\text{Fe}_2\\text{O}_3$ ở nhiệt độ cao. Khối lượng Fe thu được là bao nhiêu?",
+        "answer": "Quy đổi/Nhận diện: $n_{\\text{Fe}_2\\text{O}_3} = 16 / 160 = 0{,}1\\text{ mol}$. Bảo toàn nguyên tố Fe: $n_{\\text{Fe}} = 2n_{\\text{Fe}_2\\text{O}_3} = 0{,}2\\text{ mol}$. ➔ Tính toán: $m_{\\text{Fe}} = 0{,}2 \\cdot 56 = 11{,}2\\text{ g}$. ➔ Kết luận: $11{,}2\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step6_1_2_1",
+    "name": "Nhiệt luyện ➔ Khử oxide kim loại trung bình-yếu (sau Al) bằng $\\text{CO}, \\text{H}_2, \\text{Al}, \\text{C}$ ở $t^\\circ$ cao",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_1_2_2",
+    "name": "Thủy luyện ➔ Dùng kim loại mạnh đẩy kim loại yếu khỏi dung dịch muối (sau Al)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_1_2_3",
+    "name": "Điện phân nóng chảy ➔ Bắt buộc để điều chế kim loại mạnh (Nhóm IA, IIA, Al: $2\\text{Al}_2\\text{O}_3 \\xrightarrow{\\text{đpnc, criolit}} 4\\text{Al} + 3\\text{O}_2$)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_1_2_4",
+    "name": "Hợp kim ➔ Nhiệt độ nóng chảy thường thấp hơn và độ cứng cao hơn kim loại thành phần",
+    "type": "STEP",
+    "parentId": "hoa12_les6_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top6_2",
+    "name": "Ăn mòn Kim loại & Bảo vệ",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat6",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les6_2_1",
+    "name": "Phân biệt ăn mòn hóa học & ăn mòn điện hóa",
+    "type": "LESSON",
+    "parentId": "hoa12_top6_2",
+    "examples": [
+      {
+        "id": "hoa12_ex6_2_1_1",
+        "question": "[Điều kiện Ăn mòn Điện hóa]: Cho thanh gang (Fe-C) vào dung dịch $\\text{H}_2\\text{SO}_4$ loãng. Cực nào đóng vai trò Anode và bị ăn mòn?",
+        "answer": "Quy đổi/Nhận diện: Gang là hợp kim Fe-C tiếp xúc dung dịch điện li. Fe có tính khử mạnh hơn C nên làm Anode (cực âm) bị ăn mòn điện hóa. C làm Cathode (cực dương) xảy ra sự khử $\\text{H}^+$. ➔ Kết luận: Fe làm Anode và bị ăn mòn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step6_2_1_1",
+    "name": "3 Điều kiện ăn mòn điện hóa ➔ (1) 2 Điện cực khác bản chất; (2) Tiếp xúc trực tiếp/dán tiếp; (3) Cùng tiếp xúc dung dịch điện li",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_2_1_2",
+    "name": "Cơ chế ➔ Kim loại mạnh hơn làm Anode (-) bị oxi hóa/ăn mòn; Kim loại yếu/phi kim làm Cathode (+)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_2_1_3",
+    "name": "Phân biệt ➔ Ăn mòn hóa học không phát sinh dòng điện; Ăn mòn điện hóa phát sinh dòng điện một chiều",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_2_1_4",
+    "name": "Né bẫy ➔ Nhúng thanh Fe thuần khiết vào $\\text{H}_2\\text{SO}_4$ loãng chứa $\\text{CuSO}_4$ làm tăng tốc độ ăn mòn do xuất hiện cặp Fe-Cu ăn mòn điện hóa",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les6_2_2",
+    "name": "Phương pháp bảo vệ kim loại",
+    "type": "LESSON",
+    "parentId": "hoa12_top6_2",
+    "examples": [
+      {
+        "id": "hoa12_ex6_2_2_1",
+        "question": "[Bảo vệ Điện hóa]: Để bảo vệ vỏ tàu biển bằng thép ngâm dưới nước biển, người ta gắn vào vỏ tàu các khối kim loại nào?",
+        "answer": "Quy đổi/Nhận diện: Phương pháp bảo vệ bằng điện hóa (dùng kim loại hi sinh). Cần gắn kim loại có tính khử mạnh hơn Fe (thường dùng Zinc - Zn). Zn sẽ đóng vai trò Anode bị ăn mòn thay Fe. ➔ Kết luận: Khối Zinc (Zn).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step6_2_2_1",
+    "name": "Phủ bề mặt ➔ Sơn, mạ, bôi dầu mỡ, tráng enken/thiếc (Tạo lớp ngăn cách không khí/nước)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_2_2_2",
+    "name": "Phương pháp điện hóa ➔ Gắn kim loại hi sinh có tính khử mạnh hơn kim loại cần bảo vệ (như Zn bảo vệ vỏ tàu thép)",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_2_2_3",
+    "name": "Tôn lợp nhà ➔ Sắt tráng kẽm (Zn). Khi trầy xước, Zn bị ăn mòn trước bảo vệ Fe",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step6_2_2_4",
+    "name": "Sắt tây ➔ Sắt tráng thiếc (Sn). Khi trầy xước, Fe có tính khử mạnh hơn Sn nên Fe bị ăn mòn nhanh hơn!",
+    "type": "STEP",
+    "parentId": "hoa12_les6_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat7",
+    "name": "Nguyên tố Nhóm IA & Nhóm IIA",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top7_1",
+    "name": "Kim loại Kiềm (Nhóm IA) & Hợp chất",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat7",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les7_1_1",
+    "name": "Kim loại kiềm, NaHCO3, Na2CO3 & quy trình Solvay",
+    "type": "LESSON",
+    "parentId": "hoa12_top7_1",
+    "examples": [
+      {
+        "id": "hoa12_ex7_1_1_1",
+        "question": "[Quy trình Solvay]: Phương trình cốt lõi tạo ra $\\text{NaHCO}_3$ ít tan trong quy trình Solvay sản xuất soda là gì?",
+        "answer": "Quy đổi/Nhận diện: Khí $\\text{CO}_2$ và $\\text{NH}_3$ được sục vào dung dịch $\\text{NaCl}$ bão hòa. ➔ Phản ứng: $\\text{NaCl} + \\text{NH}_3 + \\text{CO}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{NaHCO}_3\\downarrow + \\text{NH}_4\\text{Cl}$. ➔ Kết luận: Phản ứng tạo kết tủa $\\text{NaHCO}_3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step7_1_1_1",
+    "name": "Tính chất Kim loại kiềm ➔ Cấu hình $ns^1$, tính khử rất mạnh, mềm, $D$ nhỏ, bọc trong dầu hỏa",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_1_1_2",
+    "name": "Tính chất NaHCO3 ➔ Lưỡng tính, kém bền nhiệt ($2\\text{NaHCO}_3 \\xrightarrow{t^\\circ} \\text{Na}_2\\text{CO}_3 + \\text{CO}_2\\uparrow + \\text{H}_2\\text{O}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_1_1_3",
+    "name": "Quy trình Solvay ➔ $\\text{NaCl} + \\text{NH}_3 + \\text{CO}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{NaHCO}_3\\downarrow + \\text{NH}_4\\text{Cl}$",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_1_1_4",
+    "name": "Màu ngọn lửa IA ➔ Li (Đỏ thắm), Na (Vàng tươi), K (Tím nhạt qua kính coban)",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les7_1_2",
+    "name": "Kiềm & hợp chất + H2O, acid, CO2",
+    "type": "LESSON",
+    "parentId": "hoa12_top7_1",
+    "examples": [
+      {
+        "id": "hoa12_ex7_1_2_1",
+        "question": "[Sục CO2 vào Kiềm]: Sục $0{,}15\\text{ mol } \\text{CO}_2$ vào dung dịch chứa $0{,}2\\text{ mol } \\text{NaOH}$. Muối nào được tạo thành và khối lượng bao nhiêu?",
+        "answer": "Quy đổi/Nhận diện: Lập tỉ lệ $T = n_{\\text{OH}^-} / n_{\\text{CO}_2} = 0{,}2 / 0{,}15 = 1{,}33$ ($1 < T < 2$). Tạo 2 muối $\\text{NaHCO}_3$ (x mol) và $\\text{Na}_2\\text{CO}_3$ (y mol). ➔ Hệ phương trình: $x + y = 0{,}15$; $x + 2y = 0{,}2 \\Rightarrow x = 0{,}1\\text{ mol}, y = 0{,}05\\text{ mol}$. ➔ Tính toán: $m_{\\text{NaHCO}_3} = 8{,}4\\text{ g}$; $m_{\\text{Na}_2\\text{CO}_3} = 5{,}3\\text{ g}$. ➔ Kết luận: Tạo 2 muối với khối lượng tương ứng $8{,}4\\text{ g}$ và $5{,}3\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step7_1_2_1",
+    "name": "Tỉ lệ sục CO2 ➔ $T = \\frac{n_{\\text{OH}^-}}{n_{\\text{CO}_2}}$. $T \\le 1 \\rightarrow \\text{HCO}_3^-$; $T \\ge 2 \\rightarrow \\text{CO}_3^{2-}$; $1 < T < 2 \\rightarrow$ Cả 2 muối",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_1_2_2",
+    "name": "Tác dụng nước ➔ $2\\text{M} + 2\\text{H}_2\\text{O} \\rightarrow 2\\text{M}^+ + 2\\text{OH}^- + \\text{H}_2\\uparrow$ ($n_{\\text{OH}^-} = 2n_{\\text{H}_2}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_1_2_3",
+    "name": "Đồ thị $\\text{CO}_2$ tác dụng $\\text{Ca(OH)}_2 + \\text{NaOH}$ ➔ Hình thang cân",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_1_2_4",
+    "name": "Bảo toàn $C$ và $Na$ ➔ $n_{\\text{NaHCO}_3} + n_{\\text{Na}_2\\text{CO}_3} = n_{\\text{CO}_2}$",
+    "type": "STEP",
+    "parentId": "hoa12_les7_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top7_2",
+    "name": "Kim loại Kiềm thổ (Nhóm IIA) & Nước cứng",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat7",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les7_2_1",
+    "name": "Kiềm thổ, tính bền nhiệt carbonate & ngọn lửa",
+    "type": "LESSON",
+    "parentId": "hoa12_top7_2",
+    "examples": [
+      {
+        "id": "hoa12_ex7_2_1_1",
+        "question": "[Nhiệt phân Muối Nitrate IIA]: Nhiệt phân hoàn toàn $16{,}4\\text{ g } \\text{Ca(NO}_3)_2$ thu được bao nhiêu gram chất rắn?",
+        "answer": "Quy đổi/Nhận diện: $n_{\\text{Ca(NO}_3)_2} = 16{,}4 / 164 = 0{,}1\\text{ mol}$. ➔ Phản ứng: $2\\text{Ca(NO}_3)_2 \\xrightarrow{t^\\circ} 2\\text{CaO} + 4\\text{NO}_2\\uparrow + \\text{O}_2\\uparrow$. ➔ Chất rắn là CaO: $n_{\\text{CaO}} = 0{,}1\\text{ mol} \\Rightarrow m_{\\text{CaO}} = 0{,}1 \\cdot 56 = 5{,}6\\text{ g}$. ➔ Kết luận: Chất rắn CaO có khối lượng $5{,}6\\text{ g}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step7_2_1_1",
+    "name": "Tính chất IIA ➔ Cấu hình $ns^2$, tính khử mạnh, tan trong nước (trừ Be không tan, Mg tan chậm nóng)",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_2_1_2",
+    "name": "Bền nhiệt Carbonate ➔ Mức độ bền nhiệt tăng dần từ $\\text{MgCO}_3 < \\text{CaCO}_3 < \\text{SrCO}_3 < \\text{BaCO}_3$",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_2_1_3",
+    "name": "Nhiệt phân Nitrate ➔ $2\\text{M(NO}_3)_2 \\xrightarrow{t^\\circ} 2\\text{MO} + 4\\text{NO}_2 + \\text{O}_2$",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_2_1_4",
+    "name": "Thạch cao ➔ Thạch cao sống ($\\text{CaSO}_4\\cdot 2\\text{H}_2\\text{O}$); Thạch cao nung ($\\text{CaSO}_4\\cdot \\text{H}_2\\text{O}$ bó bột/đúc tượng); Thạch cao khan ($\\text{CaSO}_4$)",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les7_2_2",
+    "name": "Nước cứng (tạm thời, vĩnh cửu) & phương pháp làm mềm",
+    "type": "LESSON",
+    "parentId": "hoa12_top7_2",
+    "examples": [
+      {
+        "id": "hoa12_ex7_2_2_1",
+        "question": "[Làm mềm Nước cứng]: Để làm mềm nước cứng có chứa các ion $\\text{Ca}^{2+}, \\text{Mg}^{2+}, \\text{HCO}_3^-, \\text{Cl}^-$, người ta dùng chất nào sau đây?",
+        "answer": "Quy đổi/Nhận diện: Đây là nước cứng toàn phần (chứa cả $\\text{HCO}_3^-$ và $\\text{Cl}^-$). Để kết tủa $\\text{Ca}^{2+}, \\text{Mg}^{2+}$ hoàn toàn có thể dùng $\\text{Na}_2\\text{CO}_3$ hoặc $\\text{Na}_3\\text{PO}_4$. ➔ Kết luận: Dung dịch $\\text{Na}_2\\text{CO}_3$ hoặc $\\text{Na}_3\\text{PO}_4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step7_2_2_1",
+    "name": "Phân loại ➔ Nước cứng Tạm thời ($\\text{HCO}_3^-$); Vĩnh cửu ($\\text{Cl}^-, \\text{SO}_4^{2-}$); Toàn phần (Gồm cả 2)",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_2_2_2",
+    "name": "Làm mềm tạm thời ➔ Đun sôi ($\\text{M}(\\text{HCO}_3)_2 \\xrightarrow{t^\\circ} \\text{MCO}_3\\downarrow + \\text{CO}_2 + \\text{H}_2\\text{O}$), dùng $\\text{Ca(OH)}_2$ vừa đủ hoặc NaOH",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_2_2_3",
+    "name": "Làm mềm mọi loại nước cứng ➔ Dùng hóa chất $\\text{Na}_2\\text{CO}_3$ hoặc $\\text{Na}_3\\text{PO}_4$ kết tủa $\\text{Ca}^{2+}, \\text{Mg}^{2+}$",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step7_2_2_4",
+    "name": "Phương pháp trao đổi ion ➔ Sử dụng vật liệu trao đổi ion (như hạt nhựa cationite) để giữ lại các ion $\\text{Ca}^{2+}$ và $\\text{Mg}^{2+}$",
+    "type": "STEP",
+    "parentId": "hoa12_les7_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_cat8",
+    "name": "Kim loại chuyển tiếp dãy 3d & Phức chất",
+    "type": "CATEGORY",
+    "parentId": "hoa12_subject",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top8_1",
+    "name": "Kim loại chuyển tiếp dãy 3d",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat8",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les8_1_1",
+    "name": "Cấu hình e, số oxi hóa, màu sắc ion 3d & chuẩn độ Fe2+",
+    "type": "LESSON",
+    "parentId": "hoa12_top8_1",
+    "examples": [
+      {
+        "id": "hoa12_ex8_1_1_1",
+        "question": "[Chuẩn độ Redox Fe2+]: Chuẩn độ $10{,}0\\text{ mL}$ dung dịch $\\text{FeSO}_4$ trong môi trường $\\text{H}_2\\text{SO}_4$ loãng cần dùng vừa đủ $12{,}0\\text{ mL}$ dung dịch $\\text{KMnO}_4\\text{ 0,02M}$. Tính nồng độ $C_M$ của $\\text{FeSO}_4$?",
+        "answer": "Quy đổi/Nhận diện: Phương trình: $5\\text{Fe}^{2+} + \\text{MnO}_4^- + 8\\text{H}^+ \\rightarrow 5\\text{Fe}^{3+} + \\text{Mn}^{2+} + 4\\text{H}_2\\text{O}$. ➔ Tỉ lệ mol: $n_{\\text{Fe}^{2+}} = 5n_{\\text{MnO}_4^-} = 5 \\cdot (0{,}012 \\cdot 0{,}02) = 0{,}0012\\text{ mol}$. ➔ Nồng độ: $C_M(\\text{FeSO}_4) = 0{,}0012 / 0{,}010 = 0{,}12\\text{ M}$. ➔ Kết luận: $C_M = 0{,}12\\text{ M}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step8_1_1_1",
+    "name": "Cấu hình electron bất thường ➔ $\\text{Cr } ([\\text{Ar}]3d^5 4s^1)$, $\\text{Cu } ([\\text{Ar}]3d^{10} 4s^1)$ do có phân lớp $3d$ bán bão hòa hoặc bão hòa bền vững",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_1_1_2",
+    "name": "Màu sắc ion aqua ➔ $\\text{Fe}^{2+}$ (Lục nhạt), $\\text{Fe}^{3+}$ (Vàng nâu/vàng cam), $\\text{Cu}^{2+}$ (Xanh lam), $\\text{Cr}^{3+}$ (Xanh tím/xanh rêu)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_1_1_3",
+    "name": "Chuẩn độ Redox ➔ $5\\text{Fe}^{2+} + \\text{MnO}_4^- + 8\\text{H}^+ \\rightarrow 5\\text{Fe}^{3+} + \\text{Mn}^{2+} + 4\\text{H}_2\\text{O}$ ($n_{\\text{Fe}^{2+}} = 5n_{\\text{KMnO}_4}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_1_1_4",
+    "name": "Dấu hiệu kết thúc ➔ Dung dịch chuyển sang màu hồng nhạt bền vững (do dư 1 giọt $\\text{KMnO}_4$)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les8_1_2",
+    "name": "Bài toán oxi hóa - khử của Fe, Cu, Cr & hợp chất",
+    "type": "LESSON",
+    "parentId": "hoa12_top8_1",
+    "examples": [
+      {
+        "id": "hoa12_ex8_1_2_1",
+        "question": "[Bảo toàn e Fe-Cu]: Hòa tan hoàn toàn $5{,}6\\text{ g}$ Fe trong dung dịch $\\text{HNO}_3$ loãng dư. Tính thể tích khí NO (đktc, sản phẩm khử duy nhất) thu được?",
+        "answer": "Quy đổi/Nhận diện: $n_{\\text{Fe}} = 5{,}6 / 56 = 0{,}1\\text{ mol}$. Fe bị oxi hóa lên $\\text{Fe}^{3+}$. ➔ Bảo toàn electron: $3n_{\\text{Fe}} = 3n_{\\text{NO}} \\Rightarrow n_{\\text{NO}} = n_{\\text{Fe}} = 0{,}1\\text{ mol}$. ➔ Tính toán: $V_{\\text{NO}} = 0{,}1 \\cdot 22{,}4 = 2{,}24\\text{ lít}$. ➔ Kết luận: $V_{\\text{NO}} = 2{,}24\\text{ lít}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step8_1_2_1",
+    "name": "Quy đổi hỗn hợp Fe ➔ Hỗn hợp $(\\text{Fe}, \\text{O}) \\rightarrow \\text{Fe}^{3+} + e$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_1_2_2",
+    "name": "Phản ứng Fe dư + Cu2+/Fe3+ ➔ $\\text{Fe} + 2\\text{Fe}^{3+} \\rightarrow 3\\text{Fe}^{2+}$; $\\text{Fe} + \\text{Cu}^{2+} \\rightarrow \\text{Fe}^{2+} + \\text{Cu}$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_1_2_3",
+    "name": "Lưỡng tính Hợp chất Chromium ➔ $\\text{Cr(OH)}_3$ và $\\text{Cr}_2\\text{O}_3$ lưỡng tính (tan trong acid và kiềm đặc)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_1_2_4",
+    "name": "Cân bằng Dichromate/Chromate ➔ $\\text{Cr}_2\\text{O}_7^{2-} (\\text{cam}) + \\text{H}_2\\text{O} \\xrightleftharpoons[\\text{acid}]{\\text{kiềm}} 2\\text{CrO}_4^{2-} (\\text{vàng}) + 2\\text{H}^+$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_1_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_top8_2",
+    "name": "Sơ lược về Phức chất & Hợp chất phối trí",
+    "type": "TOPIC",
+    "parentId": "hoa12_cat8",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les8_2_1",
+    "name": "Nguyên tử trung tâm, phối tử, liên kết cho-nhận, hình học phức",
+    "type": "LESSON",
+    "parentId": "hoa12_top8_2",
+    "examples": [
+      {
+        "id": "hoa12_ex8_2_1_1",
+        "question": "[Cấu trúc Phức chất]: Trong phức chất $[\\text{Cu(NH}_3)_4](\\text{OH})_2$, xác định nguyên tử trung tâm, phối tử và số phối trí?",
+        "answer": "Quy đổi/Nhận diện: Cation $\\text{Cu}^{2+}$ là nguyên tử trung tâm nhận cặp electron. $\\text{NH}_3$ là phối tử trung hòa nhường cặp electron. Có 4 phối tử $\\text{NH}_3$. ➔ Kết luận: Nguyên tử trung tâm là $\\text{Cu}^{2+}$, Phối tử là $\\text{NH}_3$, Số phối trí là 4.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step8_2_1_1",
+    "name": "Thành phần ➔ $[\\text{Cation kim loại trung tâm} + \\text{Phối tử (L nhường } e)]$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_2_1_2",
+    "name": "Liên kết phối trí ➔ Phối tử nhường cặp $e$ tự do vào orbital $d$ trống của nguyên tử trung tâm",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_2_1_3",
+    "name": "Hình học phức chất ➔ Số phối trí 2 (Đường thẳng); Số phối trí 4 (Tứ diện hoặc Vuông phẳng); Số phối trí 6 (Bát diện)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_2_1_4",
+    "name": "Điện tích cầu phức ➔ $q = q_{\\text{trung tâm}} + \\sum q_{\\text{phối tử}}$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_1",
+    "examples": null
+  },
+  {
+    "id": "hoa12_les8_2_2",
+    "name": "Phản ứng tạo phức aqua, thế phối tử & nhận biết ion",
+    "type": "LESSON",
+    "parentId": "hoa12_top8_2",
+    "examples": [
+      {
+        "id": "hoa12_ex8_2_2_1",
+        "question": "[Thế phối tử Phức chất]: Khi cho dung dịch $\\text{NH}_3$ dư vào dung dịch $\\text{CuSO}_4$, hiện tượng quan sát được là gì?",
+        "answer": "Quy đổi/Nhận diện: Ban đầu $\\text{NH}_3$ tạo tủa $\\text{Cu(OH)}_2$ màu xanh nhạt. Sau đó $\\text{NH}_3$ dư hòa tan tủa do phản ứng thế phối tử $\\text{H}_2\\text{O}$ thành phức $[\\text{Cu(NH}_3)_4](\\text{OH})_2$ màu xanh thẫm. ➔ Kết luận: Xuất hiện kết tủa xanh nhạt, sau đó kết tủa tan hoàn toàn tạo dung dịch màu xanh thẫm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "hoa12_step8_2_2_1",
+    "name": "Phức aqua ➔ Ion kim loại chuyển tiếp trong nước tạo phức $[\\text{M(H}_2\\text{O})_n]^{x+}$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_2_2_2",
+    "name": "Thế phối tử NH3 ➔ $\\text{Cu(OH)}_2 + 4\\text{NH}_3 \\rightarrow [\\text{Cu(NH}_3)_4](\\text{OH})_2$ (Dung dịch xanh thẫm đặc trưng)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_2_2_3",
+    "name": "Thế phối tử Ag+ ➔ $\\text{AgCl} + 2\\text{NH}_3 \\rightarrow [\\text{Ag(NH}_3)_2]^+ + \\text{Cl}^-$ (Hòa tan tủa $\\text{AgCl}$)",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_2",
+    "examples": null
+  },
+  {
+    "id": "hoa12_step8_2_2_4",
+    "name": "Thế phối tử Cl- ➔ $[\\text{Cu(H}_2\\text{O})_6]^{2+} (\\text{xanh}) + 4\\text{Cl}^- \\rightleftharpoons [\\text{CuCl}_4]^{2-} (\\text{vàng/xanh lá}) + 6\\text{H}_2\\text{O}$",
+    "type": "STEP",
+    "parentId": "hoa12_les8_2_2",
+    "examples": null
+  }
+]

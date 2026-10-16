@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "dl12_geo",
+    "name": "Địa lý 12 - Kết nối tri thức",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "dl12_cat_tn",
+    "name": "Địa lý Tự nhiên & Môi trường Việt Nam",
+    "type": "CATEGORY",
+    "parentId": "dl12_geo",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_vtdl",
+    "name": "Vị trí địa lý, phạm vi lãnh thổ và ý nghĩa chiến lược",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_tn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_vtdl_01",
+    "name": "Tác động của vị trí địa lý & phạm vi lãnh thổ",
+    "type": "LESSON",
+    "parentId": "dl12_top_vtdl",
+    "examples": [
+      {
+        "id": "dl12_ex_vtdl_01_1",
+        "question": "[Dạng bài Địa lý - Vị trí địa lý]: Thiên nhiên nước ta mang tính chất nhiệt đới ẩm gió mùa chủ yếu do tác động của những yếu tố nào?",
+        "answer": "Nhận diện quy luật tự nhiên: Tính nhiệt đới do vĩ độ nội chí tuyến; Tính ẩm do Biển Đông; Tính gió mùa do nằm trong vùng hoạt động của gió mùa châu Á ➔ Áp dụng nguyên lý địa lý tổng hợp: Vị trí nội chí tuyến ($23^\\circ23'B - 8^\\circ34'B$) ➔ Góc chiếu lớn + 2 lần Mặt Trời lên thiên đỉnh/năm; Tiếp giáp Biển Đông rộng lớn ➔ Tăng độ ẩm các khối khí; Nằm trong khu vực châu Á gió mùa ➔ Tín phong & Gió mùa tranh chấp ➔ Lập luận nhân quả: Sự kết hợp vị trí vĩ độ, hình thể kéo dài & tiếp giáp Biển Đông ➔ Tạo nên thiên nhiên nhiệt đới ẩm gió mùa độc đáo ➔ Kết luận: Chọn đáp án Vị trí nội chí tuyến, tiếp giáp Biển Đông và trong vùng gió mùa.",
+        "mediaUrl": null
+      },
+      {
+        "id": "dl12_ex_vtdl_01_2",
+        "question": "[Dạng bài Địa lý - Phạm vi lãnh thổ]: Vùng biển thuộc chủ quyền hoàn toàn trên bờ của nước ta nhưng được quy chế như lãnh thổ trên đất liền là vùng nào?",
+        "answer": "Nhận diện định chế pháp lý biển: 5 vùng biển thuộc vùng biển quốc gia (Nội thủy, Lãnh hải, Tiếp giáp lãnh hải, Đặc quyền kinh tế và Thềm lục địa) ➔ Né bẫy: Phân biệt Nội thủy (phía trong đường cơ sở, như đất liền) và Lãnh hải (pháp lý đường biên giới quốc gia trên biển) ➔ Lập luận: Nội thủy nằm giữa bờ biển và đường cơ sở ➔ Quốc gia có chủ quyền tuyệt đối, toàn vẹn như đất liền ➔ Kết luận: Chọn vùng Nội thủy.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_vtdl_01_01",
+    "name": "Nội chí tuyến ➔ Cán cân bức xạ dương ➔ $T_{TB} > 20^\\circ C$",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_vtdl_01_02",
+    "name": "Tiếp giáp Biển Đông ➔ Tăng độ ẩm ➔ Lượng mưa $1500 - 2000mm/năm$",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_vtdl_01_03",
+    "name": "Giao thoa sinh vật ➔ Luồng Hymalaya + Mã Lai + Ấn Độ ➔ Đa dạng sinh học",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_vtdl_01_04",
+    "name": "Nằm trên ngã tư hàng hải/hàng không ➔ Mở cửa hội nhập ➔ Bẫy thiên tai (Bão, sạt lở)",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_vtdl_02",
+    "name": "Bóc tách số liệu ranh giới lãnh thổ trên Atlat",
+    "type": "LESSON",
+    "parentId": "dl12_top_vtdl",
+    "examples": [
+      {
+        "id": "dl12_ex_vtdl_02_1",
+        "question": "[Dạng bài Địa lý - Kỹ năng Atlat]: Dựa vào Atlat Địa lý Việt Nam trang Hành chính, hãy cho biết tỉnh nào sau đây vừa có đường biên giới quốc gia trên đất liền với Lào vừa tiếp giáp biển?",
+        "answer": "Nhận diện công cụ: Atlat trang 4-5 (Hành chính) ➔ Tra cứu ma trận ranh giới: Rà soát từ Bắc vào Nam các tỉnh tiếp giáp Lào (Điện Biên, Sơn La, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên Huế, Quảng Nam, Kon Tum) ➔ Đối chiếu điều kiện tiếp giáp biển ➔ Lập luận: Hà Tĩnh/Thanh Hóa/Nghệ An/Quảng Bình/Quảng Trị/Quảng Nam/Thừa Thiên Huế đều vừa giáp Lào vừa giáp biển ➔ Kết luận: Chọn đáp án tương ứng theo phương án trắc nghiệm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_vtdl_02_01",
+    "name": "Mở Atlat Hành chính (Trang 4-5) ➔ Định vị tọa độ cực N-B-Đ-T",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_vtdl_02_02",
+    "name": "Đường biên giới đất liền ➔ Trung Quốc (khoảng 1400 km) + Lào (khoảng 2100 km) + Campuchia (khoảng 1100 km)",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_vtdl_02_03",
+    "name": "Định vị 28 tỉnh, thành phố trực thuộc Trung ương giáp biển ➔ Xác định các tỉnh vừa giáp biên giới đất liền vừa giáp biển",
+    "type": "STEP",
+    "parentId": "dl12_les_vtdl_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_kh_tnhm",
+    "name": "Tính chất nhiệt đới ẩm gió mùa & Phân hóa thiên nhiên",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_tn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_kh_01",
+    "name": "Cơ chế gió mùa & Biểu hiện nhiệt đới ẩm gió mùa",
+    "type": "LESSON",
+    "parentId": "dl12_top_kh_tnhm",
+    "examples": [
+      {
+        "id": "dl12_ex_kh_01_1",
+        "question": "[Dạng bài Địa lý - Cơ chế Gió mùa]: Giải thích nguyên nhân gây hiện tượng mưa phơn Tây Nam (gió Lào) sấy khô gay gắt ở dải đồng bằng ven biển Bắc Trung Bộ?",
+        "answer": "Nhận diện nguồn gốc khối khí: Khối khí nhiệt đới ẩm Bắc Ấn Độ Dương (TBg) di chuyển hướng Tây Nam ➔ Gặp địa hình chắn gió: Dãy Trường Sơn Bắc ➔ Áp dụng hiệu ứng Phơn: Trút mưa lớn ở sườn Tây (Lào) ➔ Lên cao giảm nhiệt $0,6^\\circ C/100m$; Vượt qua đỉnh núi vượt xuống sườn Đông (Việt Nam) ➔ Biến tính sấy khô, tăng nhiệt $1^\\circ C/100m$ ➔ Lập luận: Sườn Đông thời tiết khô nóng gay gắt ➔ Kết luận: Do khối khí TBg vượt qua dãy Trường Sơn gây hiệu ứng phơn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_kh_01_01",
+    "name": "Gió mùa Đông Bắc (T11-T4) ➔ Miền Bắc = Nửa đầu khô lạnh + Nửa sau ẩm mưa phùn",
+    "type": "STEP",
+    "parentId": "dl12_les_kh_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kh_01_02",
+    "name": "Tín phong Bắc bán cầu (T11-T4) ➔ Thống trị Nam Bộ/Tây Nguyên = Mùa khô sâu sắc",
+    "type": "STEP",
+    "parentId": "dl12_les_kh_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kh_01_03",
+    "name": "Gió mùa Tây Nam (Đầu hè từ Bắc Ấn Độ Dương) ➔ Mưa Nam Bộ/Tây Nguyên + Phơn BTB",
+    "type": "STEP",
+    "parentId": "dl12_les_kh_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kh_01_04",
+    "name": "Gió mùa Tây Nam (Giữa/cuối hè từ Áp cao BÁN CẦU NAM) ➔ Mưa lớn cả nước + Mưa Thu Đông Trung Bộ",
+    "type": "STEP",
+    "parentId": "dl12_les_kh_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_ph_02",
+    "name": "Quy luật phân hóa thiên nhiên (Bắc-Nam, Đông-Tây, Độ cao)",
+    "type": "LESSON",
+    "parentId": "dl12_top_kh_tnhm",
+    "examples": [
+      {
+        "id": "dl12_ex_ph_02_1",
+        "question": "[Dạng bài Địa lý - Phân hóa độ cao]: Vì sao đai cận nhiệt đới gió mùa trên núi ở miền Bắc bắt đầu từ độ cao thấp hơn (600-700m) so với miền Nam (900-1000m)?",
+        "answer": "Nhận diện quy luật đai cao: Đai nhiệt đới chân núi có ranh giới trên phụ thuộc vào nền nhiệt độ trung bình năm ➔ So sánh vĩ độ & gió mùa: Miền Bắc vĩ độ cao hơn + chịu tác động gió mùa Đông Bắc lạnh ➔ $T_{TB}$ năm thấp hơn miền Nam ➔ Áp dụng ngắt đai nhiệt độ: Tiêu chuẩn cận nhiệt đới ($T_{TB} < 25^\\circ C$, tháng lạnh nhất $< 18^\\circ C$) đạt được ở độ cao thấp hơn ➔ Lập luận nhân quả: Miền Bắc nền nhiệt thấp hơn nên lên độ cao 600-700m đã xuất hiện cận nhiệt đới ➔ Kết luận: Do miền Bắc có nền nhiệt độ trung bình năm thấp hơn miền Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_ph_02_01",
+    "name": "Phân hóa Bắc - Nam ➔ Ranh giới tự nhiên là dãy Bạch Mã ($16^\\circ B$) ➔ Phân chia thành miền khí hậu phía Bắc và miền khí hậu phía Nam",
+    "type": "STEP",
+    "parentId": "dl12_les_ph_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ph_02_02",
+    "name": "Phân hóa Đông - Tây ➔ Biển ➔ Đồng bằng ➔ Đồi núi (Đông Trường Sơn mưa ➔ Tây Nguyên khô)",
+    "type": "STEP",
+    "parentId": "dl12_les_ph_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ph_02_03",
+    "name": "Đai nhiệt đới chân núi ($0-600/700m$ MB; $0-900/1000m$ MN) ➔ Đất Feralit + Rừng nhiệt đới",
+    "type": "STEP",
+    "parentId": "dl12_les_ph_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ph_02_04",
+    "name": "Đai cận nhiệt trên núi ($600-2600m$) ➔ Đất Feralit có mùn + Rừng lá rộng/Lá kim",
+    "type": "STEP",
+    "parentId": "dl12_les_ph_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ph_02_05",
+    "name": "Đai ôn đới gió mùa trên núi ($>2600m$) ➔ Đất mùn thô + Thực vật ôn đới (Hoàng Liên Sơn)",
+    "type": "STEP",
+    "parentId": "dl12_les_ph_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_mien_03",
+    "name": "So sánh đặc điểm 3 miền địa lý tự nhiên",
+    "type": "LESSON",
+    "parentId": "dl12_top_kh_tnhm",
+    "examples": [
+      {
+        "id": "dl12_ex_mien_03_1",
+        "question": "[Dạng bài Địa lý - Miền Tự nhiên]: Đặc điểm địa hình nổi bật nhất của Miền Bắc và Đông Bắc Bắc Bộ là gì?",
+        "answer": "Nhận diện Miền Bắc & ĐBBB: Địa hình đồi núi thấp chiếm ưu thế + hướng cánh cung ➔ Áp dụng nguyên lý: 4 cánh cung lớn (Sông Gâm, Ngân Sơn, Bắc Sơn, Đông Triều) chụm lại ở Tam Đảo mở rộng về phía Bắc và Đông ➔ Tác động: Đón xói dốc gió mùa Đông Bắc thâm nhập sâu ➔ Kết luận: Địa hình đồi núi thấp hướng cánh cung.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_mien_03_01",
+    "name": "Miền Bắc & ĐBBB ➔ Đồi núi thấp + Cánh cung ➔ Mùa đông lạnh nhất nước",
+    "type": "STEP",
+    "parentId": "dl12_les_mien_03",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_mien_03_02",
+    "name": "Miền Tây Bắc & Bắc Trung Bộ ➔ Núi cao Tây Bắc + Hướng Tây Bắc - Đông Nam ➔ Khí hậu phân hóa đai cao",
+    "type": "STEP",
+    "parentId": "dl12_les_mien_03",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_mien_03_03",
+    "name": "Miền Nam Trung Bộ & Nam Bộ ➔ Khối núi cổ Kon Tum + Cao nguyên đất đỏ Bazo + ĐBSCL ➔ Cận xích đạo",
+    "type": "STEP",
+    "parentId": "dl12_les_mien_03",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_tn_mt",
+    "name": "Quản lý tài nguyên thiên nhiên và bảo vệ môi trường",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_tn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_tn_01",
+    "name": "Suy giảm & Giải pháp tài nguyên đất, nước, sinh vật",
+    "type": "LESSON",
+    "parentId": "dl12_top_tn_mt",
+    "examples": [
+      {
+        "id": "dl12_ex_tn_01_1",
+        "question": "[Dạng bài Địa lý - Tài nguyên Đất]: Biện pháp quan trọng nhất để chống xói mòn đất ở vùng đồi núi nước ta là gì?",
+        "answer": "Nhận diện nguyên nhân xói mòn: Độ dốc cao + Mưa tập trung theo mùa + Mất độ che phủ rừng ➔ Áp dụng nguyên lý sinh thái: Rừng giúp giữ đất, điều tiết dòng chảy ➔ Biện pháp hàng đầu: Làm ruộng bậc thang, đào hố vẩy cá, trồng cây theo đường đồng mức và BẢO VỆ RỪNG ĐẦU NGUỒN ➔ Kết luận: Trồng rừng và bảo vệ rừng đầu nguồn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_tn_01_01",
+    "name": "Suy giảm tài nguyên rừng ➔ Tỉ lệ che phủ suy giảm ➔ Giải pháp: Lập vườn quốc gia + Trồng rừng",
+    "type": "STEP",
+    "parentId": "dl12_les_tn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_tn_01_02",
+    "name": "Suy giảm đất đai ➔ Miền núi xói mòn / Đồng bằng nhiễm mặn ➔ Giải pháp: Ruộng bậc thang + Thủy lợi",
+    "type": "STEP",
+    "parentId": "dl12_les_tn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_tn_01_03",
+    "name": "Suy giảm Đa dạng sinh học ➔ Khai thác quá mức ➔ Sách đỏ + Quy hoạch khu bảo tồn",
+    "type": "STEP",
+    "parentId": "dl12_les_tn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_mt_02",
+    "name": "Ô nhiễm môi trường, thiên tai & Biến đổi khí hậu",
+    "type": "LESSON",
+    "parentId": "dl12_top_tn_mt",
+    "examples": [
+      {
+        "id": "dl12_ex_mt_02_1",
+        "question": "[Dạng bài Địa lý - Biến đổi khí hậu]: Vùng chịu ảnh hưởng nặng nề nhất của nguy cơ nước biển dâng do biến đổi khí hậu ở Việt Nam là vùng nào?",
+        "answer": "Nhận diện địa hình vùng: Đồng bằng sông Cửu Long địa hình thấp ($<2m$), 3 mặt giáp biển ➔ Áp dụng ngập lụt & xâm nhập mặn: Nước biển dâng $1m$ ➔ Ngập $40\\%$ diện tích ĐBSCL ➔ Lập luận: Ảnh hưởng trực tiếp đến an ninh lương thực và dân cư ➔ Kết luận: Chọn Đồng bằng sông Cửu Long.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_mt_02_01",
+    "name": "Bão (T8-T11) ➔ Đổ bộ Trung Bộ ➔ Dự báo + Sơ tán + Đê biển",
+    "type": "STEP",
+    "parentId": "dl12_les_mt_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_mt_02_02",
+    "name": "Ngập lụt ĐBSH + ĐBSCL / Lũ quét miền núi / Hạn hán mùa khô Nam Bộ-Tây Nguyên",
+    "type": "STEP",
+    "parentId": "dl12_les_mt_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_mt_02_03",
+    "name": "Biến đổi khí hậu ➔ Nước biển dâng ➔ Xâm nhập mặn ĐBSCL ➔ Chuyển đổi mô hình Nông nghiệp ứng biến",
+    "type": "STEP",
+    "parentId": "dl12_les_mt_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_cat_dc",
+    "name": "Địa lý Dân cư & Phát triển Nguồn nhân lực",
+    "type": "CATEGORY",
+    "parentId": "dl12_geo",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_ds_pb",
+    "name": "Dân số, nguồn lao động và phân bố dân cư",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_dc",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_ds_01",
+    "name": "Biến động quy mô dân số, cơ cấu dân số & phân bố",
+    "type": "LESSON",
+    "parentId": "dl12_top_ds_pb",
+    "examples": [
+      {
+        "id": "dl12_ex_ds_01_1",
+        "question": "[Dạng bài Địa lý - Toán Dân số]: Cho dân số Việt Nam năm 2021 là 98,5 triệu người, diện tích là 331 212 $km^2$. Mật độ dân số nước ta năm 2021 là bao nhiêu?",
+        "answer": "Nhận diện công thức Mật độ dân số: $M_d = \\\\frac{Dân\\\\ số\\\\ (người)}{Diện\\\\ tích\\\\ (km^2)}$ ➔ Xử lý số liệu: Đổi 98,5 triệu = 98 500 000 người ➔ Tính toán: $M_d = \\\\frac{98500000}{331212} \\\\approx 297,4$ người/$km^2$ ➔ Kết luận: 297 người/$km^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_ds_01_01",
+    "name": "Công thức Mật độ dân số $M_d = \\frac{Dân\\ số}{Diện\\ tích}$ (người/$km^2$)",
+    "type": "STEP",
+    "parentId": "dl12_les_ds_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ds_01_02",
+    "name": "Công thức Tỉ lệ gia tăng tự nhiên $T_g = \\frac{Sinh\\ -\\ Tử}{10}$ ($\\%$)",
+    "type": "STEP",
+    "parentId": "dl12_les_ds_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ds_01_03",
+    "name": "Cơ cấu dân số vàng ➔ Lực lượng lao động $>60\\%$ ➔ Cơ hội bứt phá kinh tế",
+    "type": "STEP",
+    "parentId": "dl12_les_ds_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ds_01_04",
+    "name": "Xu hướng Già hóa dân số ➔ Áp lực an sinh xã hội + Thiếu lao động tương lai",
+    "type": "STEP",
+    "parentId": "dl12_les_ds_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_ld_02",
+    "name": "Nguồn lao động, cơ cấu lao động & việc làm",
+    "type": "LESSON",
+    "parentId": "dl12_top_ds_pb",
+    "examples": [
+      {
+        "id": "dl12_ex_ld_02_1",
+        "question": "[Dạng bài Địa lý - Lao động]: Cơ cấu lao động theo ngành kinh tế ở nước ta đang chuyển dịch theo hướng nào?",
+        "answer": "Nhận diện hướng chuyển dịch cơ cấu kinh tế: Công nghiệp hóa - Hiện đại hóa ➔ Xu hướng: Giảm tỉ trọng lao động Nông - Lâm - Thủy sản, tăng tỉ trọng lao động Công nghiệp - Xây dựng và Dịch vụ ➔ Lập luận: Phù hợp với quá trình phát triển lực lượng sản xuất ➔ Kết luận: Giảm Khu vực I, tăng Khu vực II và III.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_ld_02_01",
+    "name": "Thế mạnh lao động: Dồi dào + Cần cù + Chất lượng ngày càng nâng cao",
+    "type": "STEP",
+    "parentId": "dl12_les_ld_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ld_02_02",
+    "name": "Hạn chế: Thiếu lao động kĩ thuật cao + Phân bố không đều giữa nông thôn/thành thị",
+    "type": "STEP",
+    "parentId": "dl12_les_ld_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_ld_02_03",
+    "name": "Chuyển dịch cơ cấu lao động ➔ Giảm Khu vực I $\\rightarrow$ Tăng Khu vực II và III",
+    "type": "STEP",
+    "parentId": "dl12_les_ld_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_dth",
+    "name": "Đô thị hóa và định hướng phát triển mạng lưới đô thị",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_dc",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dth_01",
+    "name": "Đặc điểm đô thị hóa, phân loại đô thị & ảnh hưởng",
+    "type": "LESSON",
+    "parentId": "dl12_top_dth",
+    "examples": [
+      {
+        "id": "dl12_ex_dth_01_1",
+        "question": "[Dạng bài Địa lý - Đô thị hóa]: Tỉ lệ dân đô thị nước ta tăng nhanh trong những năm gần đây chủ yếu do nguyên nhân nào?",
+        "answer": "Nhận diện quá trình đô thị hóa: Đô thị hóa gắn liền với công nghiệp hóa ➔ Áp dụng nguyên lý: Quá trình đẩy mạnh Công nghiệp hóa - Dịch vụ thu hút lao động về đô thị + Mở rộng không gian đô thị ➔ Né bẫy: Tăng dân số tự nhiên không phải nguyên nhân chủ yếu làm tăng TỈ LỆ dân đô thị ➔ Kết luận: Tốc độ phát triển kinh tế và quá trình công nghiệp hóa được đẩy mạnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dth_01_01",
+    "name": "Đặc điểm: Chậm chạp + Trình độ thấp + Tỉ lệ dân đô thị tăng nhanh",
+    "type": "STEP",
+    "parentId": "dl12_les_dth_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dth_01_02",
+    "name": "Phân loại đô thị: 6 loại (Đặc biệt: Hà Nội, TP.HCM; Loại I $\\rightarrow$ V)",
+    "type": "STEP",
+    "parentId": "dl12_les_dth_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dth_01_03",
+    "name": "Tác động tích cực ➔ Chuyển dịch cơ cấu kinh tế + Tác động tiêu cực ➔ Áp lực hạ tầng/môi trường",
+    "type": "STEP",
+    "parentId": "dl12_les_dth_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_cat_ktn",
+    "name": "Địa lý các Ngành Kinh tế Chuyển dịch",
+    "type": "CATEGORY",
+    "parentId": "dl12_geo",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_cd_kttg",
+    "name": "Chuyển dịch cơ cấu kinh tế tổng quát",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_ktn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_cdkt_01",
+    "name": "Chuyển dịch cơ cấu kinh tế (Ngành, Thành phần, Lãnh thổ)",
+    "type": "LESSON",
+    "parentId": "dl12_top_cd_kttg",
+    "examples": [
+      {
+        "id": "dl12_ex_cdkt_01_1",
+        "question": "[Dạng bài Địa lý - Chuyển dịch cơ cấu]: Sự chuyển dịch cơ cấu kinh tế theo thành phần kinh tế ở nước ta có đặc điểm gì?",
+        "answer": "Nhận diện định hướng thành phần kinh tế: Kinh tế nhiều thành phần ➔ Quy luật: Kinh tế Nhà nước giữ vai trò chủ đạo; Kinh tế ngoài Nhà nước và Kinh tế có vốn đầu tư nước ngoài (FDI) tăng nhanh tỉ trọng ➔ Kết luận: Giảm tỉ trọng kinh tế Nhà nước (nhưng vẫn chủ đạo), tăng tỉ trọng kinh tế FDI và ngoài Nhà nước.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_cdkt_01_01",
+    "name": "Cơ cấu ngành ➔ Giảm Khu vực I, Tăng Khu vực II và III",
+    "type": "STEP",
+    "parentId": "dl12_les_cdkt_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_cdkt_01_02",
+    "name": "Cơ cấu thành phần ➔ Kinh tế Nhà nước giữ chủ đạo + FDI tăng nhanh",
+    "type": "STEP",
+    "parentId": "dl12_les_cdkt_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_cdkt_01_03",
+    "name": "Cơ cấu lãnh thổ ➔ Hình thành các vùng chuyên canh + Vùng KTTĐ + Khu kinh tế",
+    "type": "STEP",
+    "parentId": "dl12_les_cdkt_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_nlts",
+    "name": "Phát triển & Tổ chức lãnh thổ Nông - Lâm - Thủy sản",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_ktn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_nlts_01",
+    "name": "Chuyển dịch cơ cấu nông nghiệp & Tổ chức lãnh thổ",
+    "type": "LESSON",
+    "parentId": "dl12_top_nlts",
+    "examples": [
+      {
+        "id": "dl12_ex_nlts_01_1",
+        "question": "[Dạng bài Địa lý - Nông nghiệp]: Yếu tố quan trọng nhất giúp nâng cao giá trị nông sản xuất khẩu của Việt Nam hiện nay là gì?",
+        "answer": "Nhận diện chuỗi giá trị nông sản: Khâu chế biến và thị trường ➔ Áp dụng nguyên lý: Đẩy mạnh công nghiệp chế biến nông sản + Ứng dụng công nghệ cao ➔ Lập luận: Tăng thời gian bảo quản, nâng cao giá trị gia tăng, đáp ứng tiêu chuẩn thị trường khó tính (EU, Mỹ) ➔ Kết luận: Đẩy mạnh công nghiệp chế biến và ứng dụng công nghệ cao.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_nlts_01_01",
+    "name": "Chuyển dịch Nông nghiệp ➔ Giảm Tỉ trọng Trồng trọt $\\rightarrow$ Tăng Tỉ trọng Chăn nuôi",
+    "type": "STEP",
+    "parentId": "dl12_les_nlts_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_nlts_01_02",
+    "name": "Trồng trọt ➔ Giảm Lương thực $\\rightarrow$ Tăng Cây công nghiệp / Cây ăn quả xuất khẩu",
+    "type": "STEP",
+    "parentId": "dl12_les_nlts_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_nlts_01_03",
+    "name": "TCLT Nông nghiệp ➔ Trang trại + Vùng chuyên canh (Tây Nguyên, Đông Nam Bộ, ĐBSCL)",
+    "type": "STEP",
+    "parentId": "dl12_les_nlts_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_nlts_02",
+    "name": "Thực trạng & Giải pháp lâm nghiệp, thủy sản",
+    "type": "LESSON",
+    "parentId": "dl12_top_nlts",
+    "examples": [
+      {
+        "id": "dl12_ex_nlts_02_1",
+        "question": "[Dạng bài Địa lý - Thủy sản]: Ngành nuôi trồng thủy sản nước ta phát triển nhanh chóng chủ yếu do nguyên nhân nào?",
+        "answer": "Nhận diện yếu tố động lực: Thị trường tiêu thụ mở rộng + Công nghệ nuôi + Hiệu quả kinh tế cao ➔ Lập luận: Nhu cầu thị trường trong và ngoài nước tăng cao thúc đẩy người dân đầu tư hạ tầng nuôi tôm, cá tra ➔ Kết luận: Thị trường tiêu thụ rộng lớn và hiệu quả kinh tế cao.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_nlts_02_01",
+    "name": "Lâm nghiệp ➔ Quản lý rừng + Trồng rừng sản xuất + Chế biến gỗ xuất khẩu",
+    "type": "STEP",
+    "parentId": "dl12_les_nlts_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_nlts_02_02",
+    "name": "Thủy sản ➔ Khai thác xa bờ + Tăng nhanh tỉ trọng Nuôi trồng (Tôm, Cá tra)",
+    "type": "STEP",
+    "parentId": "dl12_les_nlts_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_cn",
+    "name": "Chuyển dịch cơ cấu công nghiệp & Tổ chức lãnh thổ",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_ktn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_cn_01",
+    "name": "Chuyển dịch cơ cấu công nghiệp & Ngành trọng điểm",
+    "type": "LESSON",
+    "parentId": "dl12_top_cn",
+    "examples": [
+      {
+        "id": "dl12_ex_cn_01_1",
+        "question": "[Dạng bài Địa lý - Công nghiệp]: Cơ cấu ngành công nghiệp nước ta đang chuyển dịch mạnh mẽ nhằm mục đích chủ yếu nào?",
+        "answer": "Nhận diện mục tiêu chuyển dịch CN: Tăng trưởng bền vững, nâng cao sức cạnh tranh, thích ứng hội nhập ➔ Áp dụng: Tăng ngành công nghệ cao, chế biến chế tạo; Giảm khai khoáng ➔ Kết luận: Nâng cao hiệu quả kinh tế và thích ứng thị trường thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_cn_01_01",
+    "name": "Chuyển dịch cơ cấu CN ➔ Giảm Khai khoáng $\\rightarrow$ Tăng Chế biến chế tạo",
+    "type": "STEP",
+    "parentId": "dl12_les_cn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_cn_01_02",
+    "name": "CN Trọng điểm: Điện năng + Điện tử - Tin học + Chế biến thực phẩm + Dệt may",
+    "type": "STEP",
+    "parentId": "dl12_les_cn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_cn_02",
+    "name": "Các hình thức tổ chức lãnh thổ công nghiệp",
+    "type": "LESSON",
+    "parentId": "dl12_top_cn",
+    "examples": [
+      {
+        "id": "dl12_ex_cn_02_1",
+        "question": "[Dạng bài Địa lý - TCLT Công nghiệp]: Hai Trung tâm công nghiệp lớn nhất nước ta là hai trung tâm nào?",
+        "answer": "Nhận diện quy mô TTCN: TP. Hồ Chí Minh (lớn nhất) và Hà Nội (thứ hai) ➔ Tra Atlat trang Công nghiệp chung (Trang 21) ➔ Kết luận: TP. Hồ Chí Minh và Hà Nội.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_cn_02_01",
+    "name": "Các hình thức tổ chức lãnh thổ công nghiệp từ quy mô nhỏ đến lớn ➔ Điểm công nghiệp, khu công nghiệp, trung tâm công nghiệp, vùng công nghiệp",
+    "type": "STEP",
+    "parentId": "dl12_les_cn_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_cn_02_02",
+    "name": "Khu công nghiệp/Khu chế xuất ➔ Phân bố tập trung Đông Nam Bộ + ĐBSH",
+    "type": "STEP",
+    "parentId": "dl12_les_cn_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_dv",
+    "name": "Phát triển ngành Dịch vụ (GTVT, Thương mại, Du lịch)",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_ktn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dv_01",
+    "name": "Giao thông vận tải, Bưu chính viễn thông & Thương mại",
+    "type": "LESSON",
+    "parentId": "dl12_top_dv",
+    "examples": [
+      {
+        "id": "dl12_ex_dv_01_1",
+        "question": "[Dạng bài Địa lý - GTVT]: Tuyến đường ô tô huyết mạch có ý nghĩa thúc đẩy phát triển kinh tế - xã hội dải phía Tây nước ta là tuyến đường nào?",
+        "answer": "Nhận diện tuyến đường: Đường Hồ Chí Minh ➔ Áp dụng: Chạy dọc theo dãy Trường Sơn, kết nối các vùng đồi núi phía Tây ➔ Ý nghĩa: Thúc đẩy phát triển kinh tế - xã hội, củng cố quốc phòng an ninh vùng miền núi ➔ Kết luận: Đường Hồ Chí Minh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dv_01_01",
+    "name": "GTVT ➔ Đường bộ (chủ yếu) + Đường sắt (Bắc Nam) + Đường biển quốc tế",
+    "type": "STEP",
+    "parentId": "dl12_les_dv_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dv_01_02",
+    "name": "Thương mại ➔ Nội thương sầm uất + Ngoại thương nhập siêu $\\rightarrow$ xuất siêu",
+    "type": "STEP",
+    "parentId": "dl12_les_dv_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dv_02",
+    "name": "Du lịch & Vùng du lịch",
+    "type": "LESSON",
+    "parentId": "dl12_top_dv",
+    "examples": [
+      {
+        "id": "dl12_ex_dv_02_1",
+        "question": "[Dạng bài Địa lý - Du lịch]: Tài nguyên du lịch tự nhiên nước ta bao gồm những loại chủ yếu nào?",
+        "answer": "Nhận diện phân loại tài nguyên du lịch: Tài nguyên tự nhiên vs Văn hóa ➔ Áp dụng: Tự nhiên bao gồm Địa hình (karst, biển đảo), Khí hậu, Nước, Sinh vật ➔ Kết luận: Địa hình, khí hậu, nước, sinh vật.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dv_02_01",
+    "name": "Tài nguyên du lịch Tự nhiên (Di sản, Biển) + Văn hóa (Di tích, Lễ hội)",
+    "type": "STEP",
+    "parentId": "dl12_les_dv_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dv_02_02",
+    "name": "Phát triển ngành du lịch mũi nhọn ➔ Đô thị du lịch + Sản phẩm du lịch đa dạng",
+    "type": "STEP",
+    "parentId": "dl12_les_dv_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_cat_vkt",
+    "name": "Địa lý các Vùng Kinh tế Chiến lược & Vùng KTTĐ",
+    "type": "CATEGORY",
+    "parentId": "dl12_geo",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_vung_bac",
+    "name": "Khai thác thế mạnh TDMNBB & Đồng bằng sông Hồng",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_vkt",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_tdmnbb_01",
+    "name": "Thế mạnh & Khai thác Trung du miền núi Bắc Bộ",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_bac",
+    "examples": [
+      {
+        "id": "dl12_ex_tdmnbb_01_1",
+        "question": "[Dạng bài Địa lý - TDMNBB]: Ngành kinh tế thế mạnh hàng đầu của Trung du và miền núi Bắc Bộ dựa trên tài nguyên khoáng sản và sông ngòi là gì?",
+        "answer": "Nhận diện nguồn lực: Than đá (Quảng Ninh), sắt, bôxít + Trữ năng thủy điện lớn nhất cả nước (Sông Đà) ➔ Áp dụng: Khai thác khoáng sản và Công nghiệp Thủy điện (Sơn La, Hòa Bình) ➔ Kết luận: Công nghiệp khai khoáng và thủy điện.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_tdmnbb_01_01",
+    "name": "Thủy điện lớn nhất cả nước (Sơn La, Hòa Bình trên Sông Đà)",
+    "type": "STEP",
+    "parentId": "dl12_les_tdmnbb_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_tdmnbb_01_02",
+    "name": "Khai thác khoáng sản (Than Quảng Ninh, Apatit Lào Cai, Sắt Thái Nguyên)",
+    "type": "STEP",
+    "parentId": "dl12_les_tdmnbb_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_tdmnbb_01_03",
+    "name": "Cây công nghiệp cận nhiệt/ôn đới (Chè Mộc Châu, dược liệu Sa Pa)",
+    "type": "STEP",
+    "parentId": "dl12_les_tdmnbb_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dbsh_02",
+    "name": "Chuyển dịch cơ cấu & Sức ép dân số ĐBSH",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_bac",
+    "examples": [
+      {
+        "id": "dl12_ex_dbsh_02_1",
+        "question": "[Dạng bài Địa lý - ĐBSH]: Định hướng chuyển dịch cơ cấu kinh tế theo ngành ở Đồng bằng sông Hồng là gì?",
+        "answer": "Nhận diện hạn chế vùng: Đất hẹp người đông, mật độ dân số cao nhất cả nước ➔ Định hướng: Chuyển dịch giảm tỉ trọng nông nghiệp, tăng tỉ trọng công nghiệp và dịch vụ hiện đại ➔ Kết luận: Tăng Khu vực II và III, giảm Khu vực I.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dbsh_02_01",
+    "name": "Thế mạnh: Đất phù sa màu mỡ + Lao động trình độ cao + Hạ tầng hoàn thiện",
+    "type": "STEP",
+    "parentId": "dl12_les_dbsh_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dbsh_02_02",
+    "name": "Hạn chế: Sức ép dân số lớn nhất cả nước + Môi trường suy giảm",
+    "type": "STEP",
+    "parentId": "dl12_les_dbsh_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dbsh_02_03",
+    "name": "Giải pháp: Chuyển dịch cơ cấu ngành + Phát triển dịch vụ chất lượng cao",
+    "type": "STEP",
+    "parentId": "dl12_les_dbsh_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_vung_trung",
+    "name": "Phát triển kinh tế Bắc Trung Bộ & Duyên hải Nam Trung Bộ",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_vkt",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_btb_01",
+    "name": "Cơ cấu nông - lâm - thủy sản & Kinh tế BTB",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_trung",
+    "examples": [
+      {
+        "id": "dl12_ex_btb_01_1",
+        "question": "[Dạng bài Địa lý - BTB]: Việc hình thành cơ cấu nông - lâm - thủy sản ở Bắc Trung Bộ có ý nghĩa chiến lược nào?",
+        "answer": "Nhận diện địa hình hẹp ngang theo chiều Tây - Đông: Núi ➔ Đồi ➔ Đồng bằng ➔ Biển ➔ Áp dụng: Tạo thế liên hoàn kinh tế theo không gian, sử dụng hợp lý tài nguyên từng dải địa hình ➔ Kết luận: Tạo sự liên hoàn trong phát triển kinh tế theo không gian.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_btb_01_01",
+    "name": "Lâm nghiệp (phía Tây) $\\rightarrow$ Cây công nghiệp/Chăn nuôi (đồi gò) $\\rightarrow$ Lúa/Thủy sản (ven biển)",
+    "type": "STEP",
+    "parentId": "dl12_les_btb_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_btb_01_02",
+    "name": "Phát triển hành lang kinh tế Đông - Tây kết nối Lào",
+    "type": "STEP",
+    "parentId": "dl12_les_btb_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dhntb_02",
+    "name": "Kinh tế biển, du lịch, năng lượng DHNTB",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_trung",
+    "examples": [
+      {
+        "id": "dl12_ex_dhntb_02_1",
+        "question": "[Dạng bài Địa lý - DHNTB]: Duyên hải Nam Trung Bộ có thế mạnh vượt trội về phát triển năng lượng tái tạo nào?",
+        "answer": "Nhận diện khí hậu vùng: Số giờ nắng cao, lượng mưa thấp nhất cả nước (Ninh Thuận, Bình Thuận), gió biển mạnh ➔ Áp dụng: Phát triển Điện mặt trời và Điện gió ➔ Kết luận: Điện gió và điện mặt trời.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dhntb_02_01",
+    "name": "Khai thác tổng hợp kinh tế biển ➔ Cảng nước sâu (Vân Phong, Dung Quất) + Du lịch biển",
+    "type": "STEP",
+    "parentId": "dl12_les_dhntb_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dhntb_02_02",
+    "name": "Năng lượng tái tạo ➔ Điện gió + Điện mặt trời (Ninh Thuận, Bình Thuận)",
+    "type": "STEP",
+    "parentId": "dl12_les_dhntb_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_vung_nam",
+    "name": "Khai thác thế mạnh Tây Nguyên, Đông Nam Bộ & ĐBSCL",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_vkt",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_tn_01",
+    "name": "Cây công nghiệp, thủy điện, bô-xít Tây Nguyên",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_nam",
+    "examples": [
+      {
+        "id": "dl12_ex_tn_01_1",
+        "question": "[Dạng bài Địa lý - Tây Nguyên]: Biện pháp quan trọng nhất để nâng cao hiệu quả kinh tế vùng chuyên canh cây công nghiệp lâu năm ở Tây Nguyên là gì?",
+        "answer": "Nhận diện thách thức: Mùa khô kéo dài thiếu nước + Sản phẩm chủ yếu xuất khẩu thô ➔ Giải pháp đột phá: Đẩy mạnh công nghiệp chế biến sâu + Phát triển thủy lợi chống hạn ➔ Kết luận: Đẩy mạnh công nghiệp chế biến và thủy lợi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_tn_01_01",
+    "name": "Đất đỏ Bazo trên cao nguyên xếp tầng ➔ Cà phê, Hồ tiêu, Cao su, Chè",
+    "type": "STEP",
+    "parentId": "dl12_les_tn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_tn_01_02",
+    "name": "Bậc thang thủy điện (Sê San, Srêpôk) + Khai thác khoáng sản Bô-xít",
+    "type": "STEP",
+    "parentId": "dl12_les_tn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dnb_02",
+    "name": "Công nghiệp, dầu khí, cây công nghiệp Đông Nam Bộ",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_nam",
+    "examples": [
+      {
+        "id": "dl12_ex_dnb_02_1",
+        "question": "[Dạng bài Địa lý - Đông Nam Bộ]: Đông Nam Bộ dẫn đầu cả nước về giá trị sản xuất công nghiệp chủ yếu nhờ những thế mạnh nào?",
+        "answer": "Nhận diện vị trí dẫn đầu: Thu hút FDI mạnh nhất, hạ tầng hoàn thiện, giàu tài nguyên dầu khí, lao động lành nghề ➔ Kết luận: Vị trí địa lý thuận lợi, hạ tầng phát triển, nguồn vốn FDI lớn và lao động kĩ thuật.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dnb_02_01",
+    "name": "Vùng kinh tế năng động nhất cả nước ➔ Dẫn đầu GDP và Giá trị công nghiệp",
+    "type": "STEP",
+    "parentId": "dl12_les_dnb_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dnb_02_02",
+    "name": "Khai thác dầu khí thềm lục địa (Bà Rịa - Vũng Tàu) + Vùng chuyên canh cao su",
+    "type": "STEP",
+    "parentId": "dl12_les_dnb_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_dbscl_03",
+    "name": "Sử dụng hợp lý tự nhiên & Phát triển ĐBSCL",
+    "type": "LESSON",
+    "parentId": "dl12_top_vung_nam",
+    "examples": [
+      {
+        "id": "dl12_ex_dbscl_03_1",
+        "question": "[Dạng bài Địa lý - ĐBSCL]: Trong việc sử dụng hợp lý tự nhiên ở Đồng bằng sông Cửu Long, giải pháp hàng đầu cho vấn đề đất phèn, đất mặn vào mùa khô là gì?",
+        "answer": "Nhận diện khó khăn tự nhiên: Mùa khô thiếu nước ngọt, xâm nhập mặn sâu ➔ Giải pháp: Thủy lợi rửa phèn rửa mặn, cấp nước ngọt + Chuyển đổi cơ cấu cây trồng vật nuôi phù hợp ➔ Kết luận: Phát triển thủy lợi và chuyển đổi cơ cấu sản xuất.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_dbscl_03_01",
+    "name": "Vựa lúa & Thủy sản lớn nhất nước ➔ Nhóm đất Phèn ($41\\%$), Đất Mặn ($19\\%$)",
+    "type": "STEP",
+    "parentId": "dl12_les_dbscl_03",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_dbscl_03_02",
+    "name": "Nghị quyết 120 ➔ Thuận thiên, sống chung với lũ và hạn mặn",
+    "type": "STEP",
+    "parentId": "dl12_les_dbscl_03",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_vkttd",
+    "name": "Vùng Kinh tế Trọng điểm",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_vkt",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_vkttd_01",
+    "name": "So sánh & Biện luận 4 Vùng KTTĐ",
+    "type": "LESSON",
+    "parentId": "dl12_top_vkttd",
+    "examples": [
+      {
+        "id": "dl12_ex_vkttd_01_1",
+        "question": "[Dạng bài Địa lý - Vùng KTTĐ]: Vùng kinh tế trọng điểm phía Nam đóng góp vai trò gì cho nền kinh tế cả nước?",
+        "answer": "Nhận diện quy mô: Đóng góp tỉ trọng GDP cao nhất, dẫn đầu xuất khẩu và thu ngân sách ➔ Lập luận: Là đầu tàu kinh tế, lan tỏa phát triển cho các vùng xung quanh ➔ Kết luận: Đầu tàu tăng trưởng kinh tế cả nước.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_vkttd_01_01",
+    "name": "4 Vùng KTTĐ: Bắc Bộ, Miền Trung, Phía Nam, ĐBSCL",
+    "type": "STEP",
+    "parentId": "dl12_les_vkttd_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_vkttd_01_02",
+    "name": "Vùng KTTĐ Phía Nam ➔ Quy mô GDP + Thu ngân sách lớn nhất",
+    "type": "STEP",
+    "parentId": "dl12_les_vkttd_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_cat_bd_kn",
+    "name": "Kinh tế Biển đảo & Kỹ năng Địa lý Thực chiến",
+    "type": "CATEGORY",
+    "parentId": "dl12_geo",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_bien_dao",
+    "name": "Phát triển kinh tế biển đảo & An ninh quốc phòng",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_bd_kn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_bd_01",
+    "name": "Khai thác tổng hợp kinh tế biển đảo & Biển Đông",
+    "type": "LESSON",
+    "parentId": "dl12_top_bien_dao",
+    "examples": [
+      {
+        "id": "dl12_ex_bd_01_1",
+        "question": "[Dạng bài Địa lý - Biển đảo]: Vì sao phải khai thác tổng hợp kinh tế biển đảo ở nước ta?",
+        "answer": "Nhận diện đặc điểm tài nguyên biển: Rất phong phú nhưng dễ bị tổn thương ➔ Áp dụng nguyên lý: Khai thác tổng hợp mới mang lại hiệu quả kinh tế cao, bảo vệ môi trường và khẳng định chủ quyền biển đảo ➔ Kết luận: Đem lại hiệu quả kinh tế cao và bảo vệ an ninh quốc phòng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_bd_01_01",
+    "name": "4 Ngành kinh tế biển: Khai thác khoáng sản + Thủy sản + GTVT biển + Du lịch biển",
+    "type": "STEP",
+    "parentId": "dl12_les_bd_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_bd_01_02",
+    "name": "Hai quần đảo xa bờ: Hoàng Sa (Đà Nẵng), Trường Sa (Khánh Hòa) ➔ Khẳng định chủ quyền",
+    "type": "STEP",
+    "parentId": "dl12_les_bd_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_top_kynang",
+    "name": "Kỹ năng Atlat, Bảng số liệu & Biểu đồ",
+    "type": "TOPIC",
+    "parentId": "dl12_cat_bd_kn",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_kn_01",
+    "name": "Quy tắc ma trận bóc tách Atlat Địa lý Việt Nam",
+    "type": "LESSON",
+    "parentId": "dl12_top_kynang",
+    "examples": [
+      {
+        "id": "dl12_ex_kn_01_1",
+        "question": "[Dạng bài Địa lý - Kỹ năng Atlat]: Khi tra cứu các ngành công nghiệp hoặc trung tâm công nghiệp, trang Atlat nào là bắt buộc sử dụng?",
+        "answer": "Nhận diện ma trận trang Atlat: Trang 21 (Công nghiệp chung) và Trang 22 (Các ngành công nghiệp trọng điểm) ➔ Kết luận: Trang 21 và 22.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_kn_01_01",
+    "name": "Xem Bảng chú giải (Trang 3) ➔ Xác định đúng trang chuyên ngành",
+    "type": "STEP",
+    "parentId": "dl12_les_kn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kn_01_02",
+    "name": "Bóc tách ký hiệu nền (màu sắc) + Ký hiệu điểm (ngành/trung tâm)",
+    "type": "STEP",
+    "parentId": "dl12_les_kn_01",
+    "examples": null
+  },
+  {
+    "id": "dl12_les_kn_02",
+    "name": "Thuật toán tính toán số liệu & Nhận diện biểu đồ",
+    "type": "LESSON",
+    "parentId": "dl12_top_kynang",
+    "examples": [
+      {
+        "id": "dl12_ex_kn_02_1",
+        "question": "[Dạng bài Địa lý - Nhận diện Biểu đồ]: Để thể hiện 'Cơ cấu' sản lượng thủy sản nước ta phân theo khai thác và nuôi trồng giai đoạn 2010 - 2020 (4 năm), loại biểu đồ nào thích hợp nhất?",
+        "answer": "Nhận diện từ khóa: Từ khóa 'Cơ cấu' kết hợp chuỗi thời gian từ 4 năm trở lên ➔ Lập luận chọn biểu đồ Miền để thể hiện sự chuyển dịch cơ cấu qua các năm ➔ Kết luận: Chọn biểu đồ Miền.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "dl12_step_kn_02_01",
+    "name": "Từ khóa 'Cơ cấu' ($\\le 3$ mốc năm) $\\rightarrow$ Biểu đồ TRÒN; ($\\ge 4$ mốc) $\\rightarrow$ Biểu đồ MIỀN",
+    "type": "STEP",
+    "parentId": "dl12_les_kn_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kn_02_02",
+    "name": "Từ khóa 'Tốc độ tăng trưởng' $\\rightarrow$ Biểu đồ ĐƯỜNG ($100\\%$ mốc đầu)",
+    "type": "STEP",
+    "parentId": "dl12_les_kn_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kn_02_03",
+    "name": "Từ khóa 'Quy mô và cơ cấu' $\\rightarrow$ Biểu đồ TRÒN CÓ BÁN KÍNH ($R$)",
+    "type": "STEP",
+    "parentId": "dl12_les_kn_02",
+    "examples": null
+  },
+  {
+    "id": "dl12_step_kn_02_04",
+    "name": "Từ khóa thể hiện tình hình phát triển, khối lượng, sản lượng, giá trị hoặc quy mô đơn năm ➔ Chọn biểu đồ Cột",
+    "type": "STEP",
+    "parentId": "dl12_les_kn_02",
+    "examples": null
+  }
+]

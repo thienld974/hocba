@@ -1,0 +1,1535 @@
+[
+  {
+    "id": "toan10_subject",
+    "name": "Toán 10",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_mede_taphop",
+    "name": "Mệnh đề & Tập hợp",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_mede",
+    "name": "Mệnh đề toán học & Các loại mệnh đề",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_mede_taphop",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_mệnh_de_keo_theo",
+    "name": "Mệnh đề kéo theo, mệnh đề đảo và điều kiện cần, đủ",
+    "type": "LESSON",
+    "parentId": "toan10_top_mede",
+    "examples": [
+      {
+        "id": "toan10_ex_mệnh_de_keo_theo_1",
+        "question": "[Mệnh đề kéo theo]: Cho phát biểu 'Nếu $ABCD$ là hình bình hành thì $ABCD$ có hai đường chéo cắt nhau tại trung điểm mỗi đường'. Hãy phát biểu dạng $P \\Rightarrow Q$ và nêu điều kiện cần, đủ.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Dạng $P \\Rightarrow Q$. $P$: 'ABCD là hình bình hành', $Q$: 'ABCD có hai đường chéo cắt nhau tại trung điểm'. Né bẫy nhầm giữa $P$ và $Q$.\n2. Áp dụng quy tắc: $P$ là điều kiện đủ cho $Q$; $Q$ là điều kiện cần cho $P$.\n3. Lập luận: \n- Điều kiện đủ: 'ABCD là hình bình hành là điều kiện đủ để ABCD có hai đường chéo cắt nhau tại trung điểm của mỗi đường'.\n- Điều kiện cần: 'ABCD có hai đường chéo cắt nhau tại trung điểm của mỗi đường là điều kiện cần để ABCD là hình bình hành'.\n4. Kết luận: Đã phát biểu chính xác theo hai dạng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_mede_1_1",
+    "name": "Mệnh đề kéo theo ➔ $P \\Rightarrow Q$ (Chỉ sai khi $P$ đúng, $Q$ sai)",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_keo_theo",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_mede_1_2",
+    "name": "Mệnh đề đảo ➔ $Q \\Rightarrow P$",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_keo_theo",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_mede_1_3",
+    "name": "Điều kiện đủ ➔ $P$ là điều kiện đủ để có $Q$",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_keo_theo",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_mede_1_4",
+    "name": "Điều kiện cần ➔ $Q$ là điều kiện cần để có $P$",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_keo_theo",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_mede_1_5",
+    "name": "Né bẫy ➔ $P \\Rightarrow Q$ đúng không bắt buộc $Q \\Rightarrow P$ đúng",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_keo_theo",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_mệnh_de_phu_dinh",
+    "name": "Mệnh đề phủ định và mệnh đề chứa ký hiệu $\\forall, \\exists$",
+    "type": "LESSON",
+    "parentId": "toan10_top_mede",
+    "examples": [
+      {
+        "id": "toan10_ex_mệnh_de_phu_dinh_1",
+        "question": "[Phủ định mệnh đề]: Lập mệnh đề phủ định của mệnh đề $A$: '\\(\\forall x \\in \\mathbb{R}, x^2 + 1 > 0\\)'.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Phủ định của mệnh đề chứa \\(\\forall\\). Né bẫy đổi \\(\\forall\\) thành \\(\\exists\\) nhưng quên phủ định vị từ ($> \\rightarrow \\le$).\n2. Áp dụng quy tắc: \\(\\overline{\\forall x \\in P(x)} \\equiv \\exists x \\in \\overline{P(x)}\\).\n3. Tính toán: Đổi \\(\\forall x \\in \\mathbb{R}\\) ➔ \\(\\exists x \\in \\mathbb{R}\\); Phủ định \\(x^2+1 > 0\\) ➔ \\(x^2+1 \\le 0\\).\n4. Kết luận: \\(\\overline{A}\\): '\\(\\exists x \\in \\mathbb{R}, x^2 + 1 \\le 0\\)'.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_mede_2_1",
+    "name": "Phủ định $\\forall$ ➔ Đổi $\\forall$ thành $\\exists$, phủ định vị từ",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_phu_dinh",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_mede_2_2",
+    "name": "Phủ định $\\exists$ ➔ Đổi $\\exists$ thành $\\forall$, phủ định vị từ",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_phu_dinh",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_mede_2_3",
+    "name": "Bẫy phủ định dấu ➔ Phủ định của $>$ là $\\le$; Phủ định của $=$ là $\\neq$",
+    "type": "STEP",
+    "parentId": "toan10_les_mệnh_de_phu_dinh",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_taphop",
+    "name": "Tập hợp & Các phép toán trên tập hợp",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_mede_taphop",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_khai_niem_tap_hop",
+    "name": "Khái niệm tập hợp, tập con và hai tập hợp bằng nhau",
+    "type": "LESSON",
+    "parentId": "toan10_top_taphop",
+    "examples": [
+      {
+        "id": "toan10_ex_khai_niem_tap_hop_1",
+        "question": "[Tập hợp con]: Tìm tất cả các tập con của tập hợp $A = \\{1, 2\\}$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Liệt kê tập con. Né bẫy bỏ sót tập rỗng $\\emptyset$ và chính tập $A$.\n2. Áp dụng quy tắc: Số tập con của tập $n$ phần tử là $2^n$. Ở đây $n=2 \\Rightarrow 2^2=4$ tập con.\n3. Liệt kê: Tập 0 phần tử: $\\emptyset$; Tập 1 phần tử: $\\{1\\}, \\{2\\}$; Tập 2 phần tử: $\\{1, 2\\}$.\n4. Kết luận: Các tập con là $\\emptyset, \\{1\\}, \\{2\\}, \\{1, 2\\}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_taphop_1_1",
+    "name": "Số tập con ➔ $2^n$ (với $n$ là số phần tử)",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_niem_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_taphop_1_2",
+    "name": "Tập rỗng ➔ $\\emptyset \\subset A, \\forall A$",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_niem_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_taphop_1_3",
+    "name": "Hai tập bằng nhau ➔ $A = B \\Leftrightarrow A \\subset B \\land B \\subset A$",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_niem_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_phep_toan_tap_hop",
+    "name": "Các phép toán giao, hợp, hiệu và phần bù của tập hợp",
+    "type": "LESSON",
+    "parentId": "toan10_top_taphop",
+    "examples": [
+      {
+        "id": "toan10_ex_phep_toan_tap_hop_1",
+        "question": "[Phép toán khoảng/đoạn]: Cho $A = [-2; 3)$ và $B = (1; 5]$. Tìm $A \\cap B, A \\cup B, A \\setminus B$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Các phép toán trên tập hợp số. Né bẫy nhầm giữa ngoặc vuông $[ ]$ (lấy mút) và ngoặc tròn $( )$ (không lấy mút).\n2. Áp dụng quy tắc: Trục số hóa các khoảng/đoạn.\n3. Tính toán: \n- $A \\cap B = (1; 3)$\n- $A \\cup B = [-2; 5]$\n- $A \\setminus B = [-2; 1]$\n4. Kết luận: $A \\cap B = (1; 3), A \\cup B = [-2; 5], A \\setminus B = [-2; 1]$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_taphop_2_1",
+    "name": "Giao tập hợp ➔ $A \\cap B = \\{x \\mid x \\in A \\land x \\in B\\}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_taphop_2_2",
+    "name": "Hợp tập hợp ➔ $A \\cup B = \\{x \\mid x \\in A \\lor x \\in B\\}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_taphop_2_3",
+    "name": "Hiệu tập hợp ➔ $A \\setminus B = \\{x \\mid x \\in A \\land x \\notin B\\}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_taphop_2_4",
+    "name": "Phần bù ➔ $C_E A = E \\setminus A$ ($A \\subset E$)",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_taphop_2_5",
+    "name": "Né bẫy đầu mút ➔ Hiệu $A \\setminus B$ đổi trạng thái mút tại ranh giới của $B$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_tap_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_bpt_hbpt_bacnhat",
+    "name": "Bất phương trình & Hệ bất phương trình bậc nhất hai ẩn",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_bpt_2an",
+    "name": "Bất phương trình bậc nhất hai ẩn",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_bpt_hbpt_bacnhat",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_mien_nghiem_bpt",
+    "name": "Nhận diện và biểu diễn miền nghiệm của bất phương trình bậc nhất hai ẩn",
+    "type": "LESSON",
+    "parentId": "toan10_top_bpt_2an",
+    "examples": [
+      {
+        "id": "toan10_ex_mien_nghiem_bpt_1",
+        "question": "[Miền nghiệm BPT]: Biểu diễn miền nghiệm của bất phương trình $2x + y - 4 \\le 0$ trên mặt phẳng tọa độ.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: BPT $ax+by+c \\le 0$. Né bẫy lấy nhầm nửa mặt phẳng không chứa điểm thử nghiệm hoặc quên lấy đường thẳng d.\n2. Áp dụng phương pháp: Vẽ đường thẳng $d: 2x + y - 4 = 0$. Chọn gốc $O(0,0)$ thử nghiệm.\n3. Tính toán: Thay $O(0,0)$: $2(0) + 0 - 4 = -4 \\le 0$ (Đúng). Miền nghiệm chứa $O(0,0)$.\n4. Kết luận: Miền nghiệm là nửa mặt phẳng bờ $d$ chứa gốc $O(0,0)$ (kể cả đường thẳng $d$).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_bpt_1_1",
+    "name": "Đường ranh giới ➔ Vẽ $d: ax + by + c = 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_bpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_bpt_1_2",
+    "name": "Điểm thử ➔ Thay $O(0,0)$ (nếu $O \\notin d$) vào $ax + by + c$",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_bpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_bpt_1_3",
+    "name": "Xác định nửa mặt phẳng ➔ Thỏa mãn ➔ Miền nghiệm chứa $O$; Không thỏa mãn ➔ Bỏ miền chứa $O$",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_bpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_bpt_1_4",
+    "name": "Né bẫy dấu ➔ Dấu $\\le, \\ge$ lấy bờ $d$; Dấu $<, >$ không lấy bờ $d$",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_bpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_hbpt_2an",
+    "name": "Hệ bất phương trình bậc nhất hai ẩn & Bài toán tối ưu",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_bpt_hbpt_bacnhat",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_mien_nghiem_hbpt",
+    "name": "Biểu diễn miền nghiệm của hệ bất phương trình bậc nhất hai ẩn",
+    "type": "LESSON",
+    "parentId": "toan10_top_hbpt_2an",
+    "examples": [
+      {
+        "id": "toan10_ex_mien_nghiem_hbpt_1",
+        "question": "[Miền nghiệm Hệ BPT]: Biểu diễn miền nghiệm của hệ BPT $\\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ x + y \\le 4 \\end{cases}$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Hệ BPT đa giác. Né bẫy quên điều kiện $x \\ge 0, y \\ge 0$ (Góc phần tư thứ I).\n2. Áp dụng phương pháp: Giao miền nghiệm của từng BPT.\n3. Tính toán: $x \\ge 0, y \\ge 0$ lấy góc phần tư thứ I. $x+y \\le 4$ lấy nửa mặt phẳng dưới $x+y=4$.\n4. Kết luận: Miền nghiệm là tam giác $OAB$ với $O(0,0), A(4,0), B(0,4)$ bao gồm cả ranh giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_hbpt_1_1",
+    "name": "Vẽ d1, d2, ... ➔ Biểu diễn miền nghiệm từng BPT",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_hbpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_hbpt_1_2",
+    "name": "Lấy giao miền nghiệm ➔ Miền không bị gạch chéo",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_hbpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_hbpt_1_3",
+    "name": "Đa giác miền nghiệm ➔ Xác định tọa độ các đỉnh",
+    "type": "STEP",
+    "parentId": "toan10_les_mien_nghiem_hbpt",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_bai_toan_toi_uu",
+    "name": "Bài toán thực tế tìm giá trị lớn nhất, nhỏ nhất của biểu thức $F(x,y)$",
+    "type": "LESSON",
+    "parentId": "toan10_top_hbpt_2an",
+    "examples": [
+      {
+        "id": "toan10_ex_bai_toan_toi_uu_1",
+        "question": "[Tối ưu hóa đa giác]: Tìm $x, y$ thuộc miền nghiệm hệ BPT ở bài trên để $F(x, y) = 2x + 3y$ đạt GTLN.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tìm GTLN của $F(x,y) = ax+by$ trên đa giác. Né bẫy tính thiếu đỉnh đa giác.\n2. Áp dụng định lý: GTLN/GTNN đạt tại một trong các đỉnh của đa giác miền nghiệm.\n3. Tính toán: Đỉnh $O(0,0) \\Rightarrow F=0$; $A(4,0) \\Rightarrow F=8$; $B(0,4) \\Rightarrow F=12$.\n4. Kết luận: $F_{max} = 12$ khi $x=0, y=4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_hbpt_2_1",
+    "name": "Mô hình hóa ➔ Lập hệ BPT và biểu thức mục tiêu $F(x,y) = ax + by$",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_toi_uu",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_hbpt_2_2",
+    "name": "Tìm tọa độ đỉnh ➔ Giải hệ phương trình ranh giới",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_toi_uu",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_hbpt_2_3",
+    "name": "Định lý cực trị ➔ $F(x,y)$ đạt max/min tại một trong các đỉnh đa giác",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_toi_uu",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_hbpt_2_4",
+    "name": "So sánh $F(A_i)$ ➔ Chọn giá trị lớn nhất/nhỏ nhất",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_toi_uu",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_hethuctruong_tamgiac",
+    "name": "Hệ thức lượng trong tam giác",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_gtlg",
+    "name": "Giá trị lượng giác của góc từ $0^\\circ$ đến $180^\\circ$",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_hethuctruong_tamgiac",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_gia_tri_luong_giac",
+    "name": "Tính giá trị lượng giác của góc đặc biệt và góc bất kỳ",
+    "type": "LESSON",
+    "parentId": "toan10_top_gtlg",
+    "examples": [
+      {
+        "id": "toan10_ex_gia_tri_luong_giac_1",
+        "question": "[GTLG góc bù nhau]: Cho $\\alpha = 150^\\circ$. Tính $\\sin 150^\\circ, \\cos 150^\\circ$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Góc tù $\\alpha \\in (90^\\circ, 180^\\circ]$. Né bẫy sai dấu $\\cos, \\tan, \\cot$ ở góc tù.\n2. Áp dụng công thức: Góc bù nhau $\\sin(180^\\circ - \\alpha) = \\sin \\alpha$, $\\cos(180^\\circ - \\alpha) = -\\cos \\alpha$.\n3. Tính toán: $\\sin 150^\\circ = \\sin 30^\\circ = \\frac{1}{2}$; $\\cos 150^\\circ = -\\cos 30^\\circ = -\\frac{\\sqrt{3}}{2}$.\n4. Kết luận: $\\sin 150^\\circ = \\frac{1}{2}$, $\\cos 150^\\circ = -\\frac{\\sqrt{3}}{2}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_gtlg_1_1",
+    "name": "Góc bù ➔ $\\sin(180^\\circ - \\alpha) = \\sin \\alpha, \\cos(180^\\circ - \\alpha) = -\\cos \\alpha$",
+    "type": "STEP",
+    "parentId": "toan10_les_gia_tri_luong_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_gtlg_1_2",
+    "name": "Góc phụ ➔ $\\sin(90^\\circ - \\alpha) = \\cos \\alpha, \\cos(90^\\circ - \\alpha) = \\sin \\alpha$",
+    "type": "STEP",
+    "parentId": "toan10_les_gia_tri_luong_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_gtlg_1_3",
+    "name": "Dấu GTLG góc tù ➔ $\\sin > 0, \\cos < 0, \\tan < 0, \\cot < 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_gia_tri_luong_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_gtlg_1_4",
+    "name": "Hệ thức cơ bản ➔ $\\sin^2 \\alpha + \\cos^2 \\alpha = 1$",
+    "type": "STEP",
+    "parentId": "toan10_les_gia_tri_luong_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_dinh_ly_luong_giac",
+    "name": "Các định lý lượng giác & Giải tam giác",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_hethuctruong_tamgiac",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_dinh_ly_cosin_sin",
+    "name": "Định lý Cosin, định lý Sin và các công thức tính diện tích tam giác",
+    "type": "LESSON",
+    "parentId": "toan10_top_dinh_ly_luong_giac",
+    "examples": [
+      {
+        "id": "toan10_ex_dinh_ly_cosin_sin_1",
+        "question": "[Định lý Cosin]: Tam giác $ABC$ có $b=8, c=5, \\hat{A} = 60^\\circ$. Tính cạnh $a$ và bán kính $R$ đường tròn ngoại tiếp.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tam giác biết 2 cạnh và góc kẹp giữa. Né bẫy quên căn bậc hai khi tính $a$.\n2. Áp dụng công thức: $a^2 = b^2 + c^2 - 2bc \\cos A$; $\\frac{a}{\\sin A} = 2R$.\n3. Tính toán: \n- $a^2 = 8^2 + 5^2 - 2(8)(5) \\cos 60^\\circ = 64 + 25 - 40 = 49 \\Rightarrow a = 7$.\n- $R = \\frac{a}{2\\sin A} = \\frac{7}{2 \\sin 60^\\circ} = \\frac{7}{\\sqrt{3}} = \\frac{7\\sqrt{3}}{3}$.\n4. Kết luận: $a = 7, R = \\frac{7\\sqrt{3}}{3}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dinhly_1_1",
+    "name": "Định lý Cosin ➔ $a^2 = b^2 + c^2 - 2bc \\cos A$",
+    "type": "STEP",
+    "parentId": "toan10_les_dinh_ly_cosin_sin",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dinhly_1_2",
+    "name": "Hệ quả Cosin ➔ $\\cos A = \\frac{b^2 + c^2 - a^2}{2bc}$",
+    "type": "STEP",
+    "parentId": "toan10_les_dinh_ly_cosin_sin",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dinhly_1_3",
+    "name": "Định lý Sin ➔ $\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C} = 2R$",
+    "type": "STEP",
+    "parentId": "toan10_les_dinh_ly_cosin_sin",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dinhly_1_4",
+    "name": "Diện tích ➔ $S = \\frac{1}{2}bc \\sin A = \\frac{abc}{4R} = pr = \\sqrt{p(p-a)(p-b)(p-c)}$",
+    "type": "STEP",
+    "parentId": "toan10_les_dinh_ly_cosin_sin",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_bai_toan_thuc_te_tam_giac",
+    "name": "Bài toán thực tế ứng dụng giải tam giác",
+    "type": "LESSON",
+    "parentId": "toan10_top_dinh_ly_luong_giac",
+    "examples": [
+      {
+        "id": "toan10_ex_bai_toan_thuc_te_tam_giac_1",
+        "question": "[Đo khoảng cách thực tế]: Đo khoảng cách từ bờ sông $A$ đến cù lao $C$ biết $AB = 100m, \\hat{A} = 45^\\circ, \\hat{B} = 70^\\circ$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Ứng dụng định lý Sin tìm khoảng cách $AC$.\n2. Áp dụng công thức: $\\hat{C} = 180^\\circ - (45^\\circ + 70^\\circ) = 65^\\circ$. $\\frac{AC}{\\sin B} = \\frac{AB}{\\sin C}$.\n3. Tính toán: $AC = \\frac{100 \\cdot \\sin 70^\\circ}{\\sin 65^\\circ} \\approx 103.67 m$.\n4. Kết luận: Khoảng cách $AC \\approx 103.67m$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dinhly_2_1",
+    "name": "Mô hình hóa ➔ Đưa sơ đồ thực địa về tam giác $ABC$",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_thuc_te_tam_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dinhly_2_2",
+    "name": "Tính góc còn lại ➔ $\\hat{C} = 180^\\circ - (\\hat{A} + \\hat{B})$",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_thuc_te_tam_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dinhly_2_3",
+    "name": "Áp dụng định lý Sin/Cosin ➔ Tính khoảng cách hoặc chiều cao",
+    "type": "STEP",
+    "parentId": "toan10_les_bai_toan_thuc_te_tam_giac",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_vector",
+    "name": "Vector & Phép toán Vector",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_khai_niem_vector",
+    "name": "Khái niệm Vector & Các phép toán tuyến tính",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_khai_niem_co_ban_vector",
+    "name": "Khái niệm vector, sự cùng phương, cùng hướng và hai vector bằng nhau",
+    "type": "LESSON",
+    "parentId": "toan10_top_khai_niem_vector",
+    "examples": [
+      {
+        "id": "toan10_ex_khai_niem_co_ban_vector_1",
+        "question": "[Hai vector bằng nhau]: Cho hình bình hành $ABCD$. Chỉ ra các cặp vector bằng nhau.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Cùng độ dài và cùng hướng. Né bẫy nhầm giữa $\\vec{AB}$ và $\\vec{BA}$.\n2. Áp dụng định nghĩa: $\\vec{u} = \\vec{v} \\Leftrightarrow |\\vec{u}| = |\\vec{v}|$ và $\\vec{u} \\uparrow\\uparrow \\vec{v}$.\n3. Lập luận: $AB = CD$ và $\\vec{AB}$ cùng hướng $\\vec{DC} \\Rightarrow \\vec{AB} = \\vec{DC}$.\n4. Kết luận: Cặp vector bằng nhau: $\\vec{AB} = \\vec{DC}, \\vec{AD} = \\vec{BC}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_vec_1_1",
+    "name": "Vector rỗng ➔ $\\vec{0}$ (Cùng phương, cùng hướng mọi vector)",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_niem_co_ban_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_1_2",
+    "name": "Hai vector bằng nhau ➔ Cùng hướng + Cùng độ dài",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_niem_co_ban_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_1_3",
+    "name": "Hai vector đối nhau ➔ Ngược hướng + Cùng độ dài",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_niem_co_ban_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_phep_cong_tru_vector",
+    "name": "Phép cộng, phép trừ hai vector và các quy tắc hình học",
+    "type": "LESSON",
+    "parentId": "toan10_top_khai_niem_vector",
+    "examples": [
+      {
+        "id": "toan10_ex_phep_cong_tru_vector_1",
+        "question": "[Quy tắc 3 điểm & Hình bình hành]: Cho hình bình hành $ABCD$ tâm $O$. Rút gọn $\\vec{AB} + \\vec{AD}$ và $\\vec{AB} - \\vec{AC}$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Biến đổi biểu thức vector. Né bẫy áp dụng sai quy tắc trừ $\\vec{AB} - \\vec{AC} = \\vec{CB}$.\n2. Áp dụng quy tắc: Quy tắc HBH: $\\vec{AB} + \\vec{AD} = \\vec{AC}$; Quy tắc hiệu cùng gốc: $\\vec{AB} - \\vec{AC} = \\vec{CB}$.\n3. Biến đổi: $\\vec{AB} + \\vec{AD} = \\vec{AC}$; $\\vec{AB} - \\vec{AC} = \\vec{CB}$.\n4. Kết luận: Kết quả lần lượt là $\\vec{AC}$ và $\\vec{CB}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_vec_2_1",
+    "name": "Quy tắc 3 điểm cộng ➔ $\\vec{AB} + \\vec{BC} = \\vec{AC}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_cong_tru_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_2_2",
+    "name": "Quy tắc 3 điểm trừ ➔ $\\vec{OB} - \\vec{OA} = \\vec{AB}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_cong_tru_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_2_3",
+    "name": "Quy tắc hình bình hành ➔ $\\vec{AB} + \\vec{AD} = \\vec{AC}$ ($ABCD$ là HBH)",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_cong_tru_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_2_4",
+    "name": "Trung điểm & Trọng tâm ➔ $M$ là trung điểm $AB \\Rightarrow \\vec{MA} + \\vec{MB} = \\vec{0}$; $G$ là trọng tâm $\\triangle ABC \\Rightarrow \\vec{GA} + \\vec{GB} + \\vec{GC} = \\vec{0}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_cong_tru_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_phep_nhan_vector_voi_so",
+    "name": "Phép nhân vector với một số và điều kiện hai vector cùng phương",
+    "type": "LESSON",
+    "parentId": "toan10_top_khai_niem_vector",
+    "examples": [
+      {
+        "id": "toan10_ex_phep_nhan_vector_voi_so_1",
+        "question": "[Cùng phương & Thẳng hàng]: Cho 3 điểm $A, B, C$. Chứng minh $A, B, C$ thẳng hàng khi $\\vec{AB} = 2\\vec{AC}$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Điều kiện thẳng hàng. Né bẫy quên chung điểm $A$.\n2. Áp dụng định lý: $\\vec{u}, \\vec{v}$ cùng phương $\\Leftrightarrow \\vec{u} = k\\vec{v}$.\n3. Lập luận: $\\vec{AB} = 2\\vec{AC} \\Rightarrow \\vec{AB}, \\vec{AC}$ cùng phương. Có chung điểm $A \\Rightarrow A, B, C$ thẳng hàng.\n4. Kết luận: Ba điểm $A, B, C$ thẳng hàng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_vec_3_1",
+    "name": "Độ dài ➔ $|k\\vec{a}| = |k| \\cdot |\\vec{a}|$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_nhan_vector_voi_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_3_2",
+    "name": "Hướng ➔ $k > 0$ cùng hướng; $k < 0$ ngược hướng",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_nhan_vector_voi_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_3_3",
+    "name": "Thẳng hàng ➔ $\\vec{AB} = k\\vec{AC} \\Rightarrow A, B, C$ thẳng hàng",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_nhan_vector_voi_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_vec_3_4",
+    "name": "Phân tích vector ➔ $\\vec{x} = m\\vec{a} + n\\vec{b}$ (với $\\vec{a}, \\vec{b}$ không cùng phương)",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_nhan_vector_voi_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_tich_vo_huong",
+    "name": "Tích vô hướng của hai Vector & Ứng dụng",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_tich_vo_huong_khai_niem",
+    "name": "Tích vô hướng, góc giữa hai vector và tính chất",
+    "type": "LESSON",
+    "parentId": "toan10_top_tich_vo_huong",
+    "examples": [
+      {
+        "id": "toan10_ex_tich_vo_huong_khai_niem_1",
+        "question": "[Tính tích vô hướng]: Cho tam giác đều $ABC$ cạnh $a$. Tính $\\vec{AB} \\cdot \\vec{AC}$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tích vô hướng định nghĩa. Né bẫy nhầm góc giữa hai vector không cùng gốc.\n2. Áp dụng công thức: $\\vec{u} \\cdot \\vec{v} = |\\vec{u}| \\cdot |\\vec{v}| \\cdot \\cos(\\vec{u}, \\vec{v})$.\n3. Tính toán: Góc $(\\vec{AB}, \\vec{AC}) = 60^\\circ$. $\\vec{AB} \\cdot \\vec{AC} = a \\cdot a \\cdot \\cos 60^\\circ = \\frac{a^2}{2}$.\n4. Kết luận: $\\vec{AB} \\cdot \\vec{AC} = \\frac{a^2}{2}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_tvh_1_1",
+    "name": "Định nghĩa ➔ $\\vec{a} \\cdot \\vec{b} = |\\vec{a}| \\cdot |\\vec{b}| \\cdot \\cos(\\vec{a}, \\vec{b})$",
+    "type": "STEP",
+    "parentId": "toan10_les_tich_vo_huong_khai_niem",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tvh_1_2",
+    "name": "Bình phương vô hướng ➔ $\\vec{a}^2 = |\\vec{a}|^2$",
+    "type": "STEP",
+    "parentId": "toan10_les_tich_vo_huong_khai_niem",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tvh_1_3",
+    "name": "Góc giữa 2 vector ➔ $\\cos(\\vec{a}, \\vec{b}) = \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| \\cdot |\\vec{b}|}$",
+    "type": "STEP",
+    "parentId": "toan10_les_tich_vo_huong_khai_niem",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tvh_1_4",
+    "name": "Vuông góc ➔ $\\vec{a} \\perp \\vec{b} \\Leftrightarrow \\vec{a} \\cdot \\vec{b} = 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_tich_vo_huong_khai_niem",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_ung_dung_tich_vo_huong",
+    "name": "Ứng dụng tích vô hướng tính độ dài đoạn thẳng và chứng minh vuông góc",
+    "type": "LESSON",
+    "parentId": "toan10_top_tich_vo_huong",
+    "examples": [
+      {
+        "id": "toan10_ex_ung_dung_tich_vo_huong_1",
+        "question": "[Chứng minh vuông góc]: Cho $\\triangle ABC$ cân tại $A$. $M$ là trung điểm $BC$. Chứng minh $AM \\perp BC$ bằng tích vô hướng.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Chứng minh $AM \\perp BC \\Leftrightarrow \\vec{AM} \\cdot \\vec{BC} = 0$.\n2. Áp dụng công thức: $\\vec{AM} = \\frac{1}{2}(\\vec{AB} + \\vec{AC})$; $\\vec{BC} = \\vec{AC} - \\vec{AB}$.\n3. Tính toán: $\\vec{AM} \\cdot \\vec{BC} = \\frac{1}{2}(\\vec{AC} + \\vec{AB})(\\vec{AC} - \\vec{AB}) = \\frac{1}{2}(|\\vec{AC}|^2 - |\\vec{AB}|^2) = 0$ (do $AB=AC$).\n4. Kết luận: $\\vec{AM} \\cdot \\vec{BC} = 0 \\Rightarrow AM \\perp BC$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_tvh_2_1",
+    "name": "Độ dài đoạn thẳng ➔ $AB = |\\vec{AB}| = \\sqrt{\\vec{AB}^2}$",
+    "type": "STEP",
+    "parentId": "toan10_les_ung_dung_tich_vo_huong",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tvh_2_2",
+    "name": "Chứng minh vuông góc ➔ Tính $\\vec{u} \\cdot \\vec{v} = 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_ung_dung_tich_vo_huong",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_thongke",
+    "name": "Các số đặc trưng của mẫu số liệu không ghép nhóm",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_so_gan_dung",
+    "name": "Số gần đúng & Sai số",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_thongke",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_quy_tron_sai_so",
+    "name": "Quy tròn số gần đúng và đánh giá sai số tuyệt đối, sai số tương đối",
+    "type": "LESSON",
+    "parentId": "toan10_top_so_gan_dung",
+    "examples": [
+      {
+        "id": "toan10_ex_quy_tron_sai_so_1",
+        "question": "[Quy tròn số]: Quy tròn số $a = 12.3456$ đến hàng phần trăm và đánh giá sai số.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Quy tròn đến hàng phần trăm ($0.01$). Né bẫy tăng/giảm sai chữ số sau quy tròn.\n2. Áp dụng quy tắc: Chữ số sau hàng phần trăm là 5 $\\ge 5$ ➔ Tăng 1 đơn vị.\n3. Tính toán: Số quy tròn $\\tilde{a} = 12.35$. Sai số tuyệt đối $\\Delta = |12.3456 - 12.35| = 0.0044 \\le 0.005$.\n4. Kết luận: Số quy tròn là $12.35$ với độ chính xác $d = 0.005$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_thongke_1_1",
+    "name": "Sai số tuyệt đối ➔ $\\Delta_a = |a - \\tilde{a}| \\le d$",
+    "type": "STEP",
+    "parentId": "toan10_les_quy_tron_sai_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_1_2",
+    "name": "Sai số tương đối ➔ $\\delta_a = \\frac{\\Delta_a}{|\\tilde{a}|}$",
+    "type": "STEP",
+    "parentId": "toan10_les_quy_tron_sai_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_1_3",
+    "name": "Quy tròn ➔ Sau vị trí quy tròn $\\ge 5$ tăng 1, $< 5$ giữ nguyên",
+    "type": "STEP",
+    "parentId": "toan10_les_quy_tron_sai_so",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_so_dac_trung",
+    "name": "Các số đặc trưng đo xu thế trung tâm & Độ phân tán",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_thongke",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_xu_the_trung_tam",
+    "name": "Số trung bình, trung vị, mốt và tứ phân vị",
+    "type": "LESSON",
+    "parentId": "toan10_top_so_dac_trung",
+    "examples": [
+      {
+        "id": "toan10_ex_xu_the_trung_tam_1",
+        "question": "[Số đặc trưng mẫu số liệu]: Cho mẫu số liệu: $3, 5, 7, 8, 12$. Tìm số trung bình $\\bar{x}$, trung vị $M_e$, và các tứ phân vị.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tìm $M_e, Q_1, Q_3$. Né bẫy không sắp xếp mẫu số liệu theo thứ tự không giảm.\n2. Áp dụng quy tắc: Mẫu đã sắp xếp có $n=5$.\n3. Tính toán: \n- $\\bar{x} = \\frac{3+5+7+8+12}{5} = 7$.\n- $M_e = Q_2 = 7$ (Phần tử thứ 3).\n- Nửa dưới $\\{3, 5\\} \\Rightarrow Q_1 = 4$; Nửa trên $\\{8, 12\\} \\Rightarrow Q_3 = 10$.\n4. Kết luận: $\\bar{x}=7, M_e=7, Q_1=4, Q_3=10$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_thongke_2_1",
+    "name": "Số trung bình ➔ $\\bar{x} = \\frac{\\sum x_i}{n}$",
+    "type": "STEP",
+    "parentId": "toan10_les_xu_the_trung_tam",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_2_2",
+    "name": "Trung vị $M_e$ ➔ Lẻ lấy giá trị chính giữa; Chẵn lấy trung bình 2 số giữa",
+    "type": "STEP",
+    "parentId": "toan10_les_xu_the_trung_tam",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_2_3",
+    "name": "Tứ phân vị ➔ $Q_2 = M_e$; $Q_1$ là trung vị nửa dưới; $Q_3$ là trung vị nửa trên",
+    "type": "STEP",
+    "parentId": "toan10_les_xu_the_trung_tam",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_2_4",
+    "name": "Mốt $M_o$ ➔ Giá trị có tần số xuất hiện lớn nhất",
+    "type": "STEP",
+    "parentId": "toan10_les_xu_the_trung_tam",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_do_phan_tan",
+    "name": "Khoảng biến thiên, khoảng tứ phân vị, phương sai và độ lệch chuẩn",
+    "type": "LESSON",
+    "parentId": "toan10_top_so_dac_trung",
+    "examples": [
+      {
+        "id": "toan10_ex_do_phan_tan_1",
+        "question": "[Số đặc trưng độ phân tán]: Cho mẫu số liệu $3, 5, 7, 8, 12$. Tính khoảng biến thiên $R$, khoảng tứ phân vị $\\Delta_Q$ và phương sai $s^2$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tính độ phân tán. Né bẫy lấy nhầm $Q_1 - Q_3$ thay vì $Q_3 - Q_1$.\n2. Áp dụng công thức: $R = x_{max} - x_{min}; \\Delta_Q = Q_3 - Q_1; s^2 = \\frac{1}{n}\\sum (x_i - \\bar{x})^2$.\n3. Tính toán: \n- $R = 12 - 3 = 9$.\n- \\Delta_Q = 10 - 4 = 6$.\n- $s^2 = \\frac{(3-7)^2 + (5-7)^2 + (7-7)^2 + (8-7)^2 + (12-7)^2}{5} = \\frac{16+4+0+1+25}{5} = 9.2$.\n4. Kết luận: $R=9, \\Delta_Q=6, s^2=9.2, s \\approx 3.03$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_thongke_3_1",
+    "name": "Khoảng biến thiên ➔ $R = x_{max} - x_{min}$",
+    "type": "STEP",
+    "parentId": "toan10_les_do_phan_tan",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_3_2",
+    "name": "Khoảng tứ phân vị ➔ $\\Delta_Q = Q_3 - Q_1$",
+    "type": "STEP",
+    "parentId": "toan10_les_do_phan_tan",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_3_3",
+    "name": "Phương sai ➔ $s^2 = \\frac{1}{n}\\sum (x_i - \\bar{x})^2$",
+    "type": "STEP",
+    "parentId": "toan10_les_do_phan_tan",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_thongke_3_4",
+    "name": "Độ lệch chuẩn ➔ $s = \\sqrt{s^2}$",
+    "type": "STEP",
+    "parentId": "toan10_les_do_phan_tan",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_hamso_tamthuc",
+    "name": "Hàm số, Đồ thị & Tam thức bậc hai",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_khai_niem_hamso",
+    "name": "Hàm số & Đồ thị",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_hamso_tamthuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_tap_xac_dinh_don_dieu",
+    "name": "Tập xác định, tập giá trị và tính đồng biến, nghịch biến của hàm số",
+    "type": "LESSON",
+    "parentId": "toan10_top_khai_niem_hamso",
+    "examples": [
+      {
+        "id": "toan10_ex_tap_xac_dinh_don_dieu_1",
+        "question": "[Tập xác định hàm số]: Tìm tập xác định $D$ của hàm số $y = \\frac{\\sqrt{x+2}}{x - 1}$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Biểu thức chứa căn ở tử và mẫu ở mẫu. Né bẫy quên điều kiện mẫu $x-1 \\neq 0$.\n2. Áp dụng điều kiện: Căn thức $\\sqrt{A} \\ge 0 \\Rightarrow A \\ge 0$; Mẫu số $\\frac{B}{C} \\Rightarrow C \\neq 0$.\n3. Tính toán: $\\begin{cases} x+2 \\ge 0 \\\\ x - 1 \\neq 0 \\end{cases} \\Leftrightarrow \\begin{cases} x \\ge -2 \\\\ x \\neq 1 \\end{cases}$.\n4. Kết luận: $D = [-2; +\\infty) \\setminus \\{1\\}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_ham_1_1",
+    "name": "Căn bậc hai ➔ $\\sqrt{f(x)}$ xác định $\\Leftrightarrow f(x) \\ge 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_tap_xac_dinh_don_dieu",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_ham_1_2",
+    "name": "Mẫu thức ➔ \\frac{1}{f(x)} xác định $\\Leftrightarrow f(x) \\neq 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_tap_xac_dinh_don_dieu",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_ham_1_3",
+    "name": "Đồng biến/Nghịch biến ➔ đồ thị đi lên từ trái sang phải là đồng biến; đi xuống là nghịch biến",
+    "type": "STEP",
+    "parentId": "toan10_les_tap_xac_dinh_don_dieu",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_hamso_bac2",
+    "name": "Hàm số bậc hai & Đồ thị Parabol",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_hamso_tamthuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_khao_sat_parabol",
+    "name": "Khảo sát và vẽ đồ thị hàm số bậc hai $y = ax^2 + bx + c$",
+    "type": "LESSON",
+    "parentId": "toan10_top_hamso_bac2",
+    "examples": [
+      {
+        "id": "toan10_ex_khao_sat_parabol_1",
+        "question": "[Khảo sát Parabol]: Xác định tọa độ đỉnh $I$ và khoảng biến thiên của hàm số $y = x^2 - 4x + 3$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: $a = 1 > 0, b = -4, c = 3$. Né bẫy tính sai tung độ đỉnh $y_I$.\n2. Áp dụng công thức: Đỉnh $I\\left(-\\frac{b}{2a}; -\\frac{\\Delta}{4a}\\right)$.\n3. Tính toán: $x_I = -\\frac{-4}{2(1)} = 2 \\Rightarrow y_I = 2^2 - 4(2) + 3 = -1 \\Rightarrow I(2, -1)$. Do $a>0$, hàm số nghịch biến trên $(-\\infty; 2)$ và đồng biến trên $(2; +\\infty)$.\n4. Kết luận: Đỉnh $I(2,-1)$, hàm số đồng biến trên $(2; +\\infty)$, nghịch biến trên $(-\\infty; 2)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_par_1_1",
+    "name": "Tọa độ đỉnh ➔ $I\\left(-\\frac{b}{2a}; -\\frac{\\Delta}{4a}\\right)$",
+    "type": "STEP",
+    "parentId": "toan10_les_khao_sat_parabol",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_par_1_2",
+    "name": "Trục đối xứng ➔ $x = -\\frac{b}{2a}$",
+    "type": "STEP",
+    "parentId": "toan10_les_khao_sat_parabol",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_par_1_3",
+    "name": "Bề lõm ➔ $a > 0$ ngửa lên trên (Min tại $I$); $a < 0$ úp xuống dưới (Max tại $I$)",
+    "type": "STEP",
+    "parentId": "toan10_les_khao_sat_parabol",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_tam_thuc_bac_2",
+    "name": "Tam thức bậc hai & Bất phương trình bậc hai",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_hamso_tamthuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_xet_dau_tam_thuc",
+    "name": "Xét dấu tam thức bậc hai và giải bất phương trình bậc hai một ẩn",
+    "type": "LESSON",
+    "parentId": "toan10_top_tam_thuc_bac_2",
+    "examples": [
+      {
+        "id": "toan10_ex_xet_dau_tam_thuc_1",
+        "question": "[Giải BPT bậc hai]: Giải bất phương trình $x^2 - 5x + 6 \\le 0$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tam thức $f(x) = x^2 - 5x + 6$ có $a=1>0$. Né bẫy xét dấu 'Trong cùng ngoài khác'.\n2. Áp dụng định lý xét dấu: 'Trong khác (với a), ngoài cùng (với a)'.\n3. Tính toán: Nghiệm $f(x) = 0 \\Rightarrow x_1 = 2, x_2 = 3$. Vì $a=1>0$, $f(x) \\le 0$ trong khoảng hai nghiệm $\\Rightarrow x \\in [2; 3]$.\n4. Kết luận: Tập nghiệm $S = [2; 3]$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_tamthuc_1_1",
+    "name": "Định lý về dấu ➔ $\\Delta < 0 \\Rightarrow f(x)$ cùng dấu $a, \\forall x$",
+    "type": "STEP",
+    "parentId": "toan10_les_xet_dau_tam_thuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tamthuc_1_2",
+    "name": "Nghiệm kép ➔ $\\Delta = 0 \\Rightarrow f(x)$ cùng dấu $a, \\forall x \\neq -\\frac{b}{2a}$",
+    "type": "STEP",
+    "parentId": "toan10_les_xet_dau_tam_thuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tamthuc_1_3",
+    "name": "Hai nghiệm phân biệt ➔ $\\Delta > 0 \\Rightarrow$ 'Trong khác, ngoài cùng'",
+    "type": "STEP",
+    "parentId": "toan10_les_xet_dau_tam_thuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tamthuc_1_4",
+    "name": "Casio ➔ Bấm [Mode/Menu] [A] chọn BPT bậc hai để thử nghiệm lại",
+    "type": "STEP",
+    "parentId": "toan10_les_xet_dau_tam_thuc",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_phuong_trinh_chua_can",
+    "name": "Giải phương trình quy về phương trình bậc hai chứa căn thức",
+    "type": "LESSON",
+    "parentId": "toan10_top_tam_thuc_bac_2",
+    "examples": [
+      {
+        "id": "toan10_ex_phuong_trinh_chua_can_1",
+        "question": "[Giải phương trình chứa căn]: Giải phương trình $\\sqrt{x^2 - 3x + 2} = x - 1$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Dạng $\\sqrt{A} = B$. Né bẫy bình phương không đặt điều kiện $B \\ge 0$.\n2. Áp dụng quy tắc: $\\sqrt{A} = B \\Leftrightarrow \\begin{cases} B \\ge 0 \\\\ A = B^2 \\end{cases}$.\n3. Tính toán: $\\begin{cases} x - 1 \\ge 0 \\\\ x^2 - 3x + 2 = (x-1)^2 \\end{cases} \\Leftrightarrow \\begin{cases} x \\ge 1 \\\\ x^2 - 3x + 2 = x^2 - 2x + 1 \\end{cases} \\Leftrightarrow \\begin{cases} x \\ge 1 \\\\ x = 1 \\end{cases} \\Rightarrow x = 1$.\n4. Kết luận: Tập nghiệm $S = \\{1\\}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_ptcan_1_1",
+    "name": "Dạng $\\sqrt{f(x)} = \\sqrt{g(x)}$ ➔ $f(x) = g(x)$ rồi thử lại nghiệm",
+    "type": "STEP",
+    "parentId": "toan10_les_phuong_trinh_chua_can",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_ptcan_1_2",
+    "name": "Dạng $\\sqrt{f(x)} = g(x)$ ➔ Điều kiện $g(x) \\ge 0 \\land f(x) = [g(x)]^2$",
+    "type": "STEP",
+    "parentId": "toan10_les_phuong_trinh_chua_can",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_ptcan_1_3",
+    "name": "Né bẫy nghiệm ngoại lai ➔ Bắt buộc thử lại nghiệm vào phương trình ban đầu",
+    "type": "STEP",
+    "parentId": "toan10_les_phuong_trinh_chua_can",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_oxy",
+    "name": "Hình học tọa độ Oxy",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_toa_do_vector_diem",
+    "name": "Tọa độ của Vector & Điểm trong mặt phẳng Oxy",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_oxy",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_phep_toan_toa_do_vector",
+    "name": "Tọa độ của điểm, vector và các phép toán tọa độ vector",
+    "type": "LESSON",
+    "parentId": "toan10_top_toa_do_vector_diem",
+    "examples": [
+      {
+        "id": "toan10_ex_phep_toan_toa_do_vector_1",
+        "question": "[Tọa độ vector & Điểm]: Cho $A(1, 2), B(4, 6)$. Tìm tọa độ $\\vec{AB}$ và trung điểm $M$ của $AB$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tọa độ điểm và vector. Né bẫy lấy tọa độ $A$ trừ $B$ khi tìm $\\vec{AB}$.\n2. Áp dụng công thức: $\\vec{AB} = (x_B - x_A; y_B - y_A); M\\left(\\frac{x_A+x_B}{2}; \\frac{y_A+y_B}{2}\\right)$.\n3. Tính toán: $\\vec{AB} = (4-1; 6-2) = (3, 4)$; $M\\left(\\frac{1+4}{2}; \\frac{2+6}{2}\\right) = (2.5, 4)$.\n4. Kết luận: $\\vec{AB} = (3, 4), M(2.5, 4)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_oxy_1_1",
+    "name": "Tọa độ vector ➔ $\\vec{AB} = (x_B - x_A; y_B - y_A)$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_toa_do_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_oxy_1_2",
+    "name": "Phép toán tuyến tính ➔ $k\\vec{u} + m\\vec{v} = (kx_1 + mx_2; ky_1 + my_2)$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_toa_do_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_oxy_1_3",
+    "name": "Trung điểm & Trọng tâm ➔ $M\\left(\\frac{x_A+x_B}{2}; \\frac{y_A+y_B}{2}\\right); G\\left(\\frac{x_A+x_B+x_C}{3}; \\frac{y_A+y_B+y_C}{3}\\right)$",
+    "type": "STEP",
+    "parentId": "toan10_les_phep_toan_toa_do_vector",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_bieu_thuc_toa_do_tich_vo_huong",
+    "name": "Biểu thức tọa độ của tích vô hướng, độ dài đoạn thẳng và góc",
+    "type": "LESSON",
+    "parentId": "toan10_top_toa_do_vector_diem",
+    "examples": [
+      {
+        "id": "toan10_ex_bieu_thuc_toa_do_tich_vo_huong_1",
+        "question": "[Khoảng cách & Góc Oxy]: Cho $\\vec{u} = (1, 2)$ và $\\vec{v} = (3, -1)$. Tính $\\vec{u} \\cdot \\vec{v}$ và $\\cos(\\vec{u}, \\vec{v})$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tích vô hướng dạng tọa độ. Né bẫy cộng hoành với tung thay vì nhân hoành với hoành, tung với tung.\n2. Áp dụng công thức: $\\vec{u} \\cdot \\vec{v} = x_1 x_2 + y_1 y_2; \\cos(\\vec{u}, \\vec{v}) = \\frac{x_1 x_2 + y_1 y_2}{\\sqrt{x_1^2+y_1^2}\\sqrt{x_2^2+y_2^2}}$.\n3. Tính toán: $\\vec{u} \\cdot \\vec{v} = 1(3) + 2(-1) = 1$. $|\\vec{u}| = \\sqrt{5}, |\\vec{v}| = \\sqrt{10} \\Rightarrow \\cos(\\vec{u}, \\vec{v}) = \\frac{1}{\\sqrt{50}} = \\frac{\\sqrt{2}}{10}$.\n4. Kết luận: $\\vec{u} \\cdot \\vec{v} = 1, \\cos(\\vec{u}, \\vec{v}) = \\frac{\\sqrt{2}}{10}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_oxy_2_1",
+    "name": "Tích vô hướng ➔ $\\vec{u} \\cdot \\vec{v} = x_1 x_2 + y_1 y_2$",
+    "type": "STEP",
+    "parentId": "toan10_les_bieu_thuc_toa_do_tich_vo_huong",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_oxy_2_2",
+    "name": "Độ dài đoạn thẳng ➔ $AB = \\sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$",
+    "type": "STEP",
+    "parentId": "toan10_les_bieu_thuc_toa_do_tich_vo_huong",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_oxy_2_3",
+    "name": "Vuông góc ➔ $\\vec{u} \\perp \\vec{v} \\Leftrightarrow x_1 x_2 + y_1 y_2 = 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_bieu_thuc_toa_do_tich_vo_huong",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_phuong_trinh_duong_thang",
+    "name": "Phương trình đường thẳng",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_oxy",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_lap_phuong_trinh_duong_thang",
+    "name": "Phương trình tổng quát và phương trình tham số của đường thẳng",
+    "type": "LESSON",
+    "parentId": "toan10_top_phuong_trinh_duong_thang",
+    "examples": [
+      {
+        "id": "toan10_ex_lap_phuong_trinh_duong_thang_1",
+        "question": "[Lập PTTQ đường thẳng]: Lập phương trình tổng quát của đường thẳng $\\Delta$ đi qua $A(2, 1)$ và có VTPT $\\vec{n} = (3, -2)$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Viết PTTQ dạng $a(x-x_0) + b(y-y_0) = 0$. Né bẫy nhầm giữa VTPT $\\vec{n}=(a,b)$ và VTCP $\\vec{u}=(-b,a)$.\n2. Áp dụng công thức: $3(x - 2) - 2(y - 1) = 0$.\n3. Tính toán: $3x - 6 - 2y + 2 = 0 \\Leftrightarrow 3x - 2y - 4 = 0$.\n4. Kết luận: $\\Delta: 3x - 2y - 4 = 0$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dt_1_1",
+    "name": "Chuyển đổi Vector ➔ $\\vec{n} = (a, b) \\Rightarrow \\vec{u} = (-b, a)$ hoặc $(b, -a)$",
+    "type": "STEP",
+    "parentId": "toan10_les_lap_phuong_trinh_duong_thang",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dt_1_2",
+    "name": "PTTQ ➔ $a(x - x_0) + b(y - y_0) = 0 \\Leftrightarrow ax + by + c = 0$",
+    "type": "STEP",
+    "parentId": "toan10_les_lap_phuong_trinh_duong_thang",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dt_1_3",
+    "name": "PT Tham số ➔ \\begin{cases} x = x_0 + at \\\\ y = y_0 + bt \\end{cases} (với \\vec{u}=(a,b))",
+    "type": "STEP",
+    "parentId": "toan10_les_lap_phuong_trinh_duong_thang",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_vi_tri_tuong_doi_khoang_cach",
+    "name": "Vị trí tương đối, góc giữa hai đường thẳng và khoảng cách từ điểm đến đường thẳng",
+    "type": "LESSON",
+    "parentId": "toan10_top_phuong_trinh_duong_thang",
+    "examples": [
+      {
+        "id": "toan10_ex_vi_tri_tuong_doi_khoang_cach_1",
+        "question": "[Tính khoảng cách]: Tính khoảng cách từ điểm $M(1, 3)$ đến đường thẳng $\\Delta: 4x - 3y + 2 = 0$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tính $d(M, \\Delta)$. Né bẫy quên dấu giá trị tuyệt đối trên tử số.\n2. Áp dụng công thức: $d(M, \\Delta) = \\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2 + b^2}}$.\n3. Tính toán: $d(M, \\Delta) = \\frac{|4(1) - 3(3) + 2|}{\\sqrt{4^2 + (-3)^2}} = \\frac{|4 - 9 + 2|}{5} = \\frac{|-3|}{5} = \\frac{3}{5}$.\n4. Kết luận: $d(M, \\Delta) = 0.6$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dt_2_1",
+    "name": "Khoảng cách ➔ $d(M, \\Delta) = \\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2 + b^2}}$",
+    "type": "STEP",
+    "parentId": "toan10_les_vi_tri_tuong_doi_khoang_cach",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dt_2_2",
+    "name": "Góc giữa 2 đường thẳng ➔ $\\cos(\\Delta_1, \\Delta_2) = \\frac{|a_1 a_2 + b_1 b_2|}{\\sqrt{a_1^2+b_1^2}\\sqrt{a_2^2+b_2^2}}$",
+    "type": "STEP",
+    "parentId": "toan10_les_vi_tri_tuong_doi_khoang_cach",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dt_2_3",
+    "name": "Vị trí tương đối ➔ Cắt nhau, Song song, Trùng nhau dựa vào tỉ số hệ số",
+    "type": "STEP",
+    "parentId": "toan10_les_vi_tri_tuong_doi_khoang_cach",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_phuong_trinh_duong_tron",
+    "name": "Phương trình đường tròn & Tiếp tuyến",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_oxy",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_lap_phuong_trinh_duong_tron",
+    "name": "Lập phương trình đường tròn và xác định tâm, bán kính",
+    "type": "LESSON",
+    "parentId": "toan10_top_phuong_trinh_duong_tron",
+    "examples": [
+      {
+        "id": "toan10_ex_lap_phuong_trinh_duong_tron_1",
+        "question": "[Phương trình đường tròn]: Xác định tâm $I$ và bán kính $R$ của đường tròn $(C): x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Dạng tổng quát $x^2 + y^2 - 2ax - 2by + c = 0$. Né bẫy chia sai dấu khi tìm $a, b$.\n2. Áp dụng công thức: $a = \\frac{-4}{-2} = 2, b = \\frac{6}{-2} = -3, c = -3 \\Rightarrow I(a,b), R = \\sqrt{a^2+b^2-c}$.\n3. Tính toán: $I(2, -3); R = \\sqrt{2^2 + (-3)^2 - (-3)} = \\sqrt{4 + 9 + 3} = \\sqrt{16} = 4$.\n4. Kết luận: Tâm $I(2, -3)$, Bán kính $R = 4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dtren_1_1",
+    "name": "PT Chính tắc ➔ $(x - a)^2 + (y - b)^2 = R^2$",
+    "type": "STEP",
+    "parentId": "toan10_les_lap_phuong_trinh_duong_tron",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dtren_1_2",
+    "name": "PT Tổng quát ➔ $x^2 + y^2 - 2ax - 2by + c = 0$ ($a^2+b^2-c > 0$)",
+    "type": "STEP",
+    "parentId": "toan10_les_lap_phuong_trinh_duong_tron",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dtren_1_3",
+    "name": "Tâm & Bán kính ➔ $I(a, b); R = \\sqrt{a^2 + b^2 - c}$",
+    "type": "STEP",
+    "parentId": "toan10_les_lap_phuong_trinh_duong_tron",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_phuong_trinh_tiep_tuyen",
+    "name": "Lập phương trình tiếp tuyến của đường tròn",
+    "type": "LESSON",
+    "parentId": "toan10_top_phuong_trinh_duong_tron",
+    "examples": [
+      {
+        "id": "toan10_ex_phuong_trinh_tiep_tuyen_1",
+        "question": "[Viết PT Tiếp tuyến]: Viết phương trình tiếp tuyến $d$ của đường tròn $(x-1)^2 + (y+2)^2 = 25$ tại điểm $M(4, 2)$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Tiếp tuyến tại điểm $M \\in (C)$. Né bẫy nhầm giữa tiếp tuyến 'tại M' và tiếp tuyến 'đi qua M'.\n2. Áp dụng phương pháp: Tâm $I(1, -2)$. VTPT của tiếp tuyến chính là $\\vec{IM} = (4-1; 2-(-2)) = (3, 4)$.\n3. Tính toán: PT tiếp tuyến: $3(x - 4) + 4(y - 2) = 0 \\Leftrightarrow 3x + 4y - 20 = 0$.\n4. Kết luận: $d: 3x + 4y - 20 = 0$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dtren_2_1",
+    "name": "Tiếp tuyến tại $M(x_0, y_0)$ ➔ VTPT là $\\vec{IM}$",
+    "type": "STEP",
+    "parentId": "toan10_les_phuong_trinh_tiep_tuyen",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dtren_2_2",
+    "name": "Điều kiện tiếp xúc ➔ $d(I, \\Delta) = R$",
+    "type": "STEP",
+    "parentId": "toan10_les_phuong_trinh_tiep_tuyen",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_ba_duong_conic",
+    "name": "Ba đường Conic",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_oxy",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_duong_conic_chinh_tac",
+    "name": "Phương trình chính tắc và các yếu tố của Elip, Hypebol, Parabol",
+    "type": "LESSON",
+    "parentId": "toan10_top_ba_duong_conic",
+    "examples": [
+      {
+        "id": "toan10_ex_duong_conic_chinh_tac_1",
+        "question": "[Phương trình Elip]: Lập phương trình chính tắc của Elip $(E)$ có độ dài trục lớn $2a=10$ và tiêu cự $2c=6$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Dạng $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ với $a > b > 0$. Né bẫy nhầm hệ thức $a^2 = b^2 + c^2$.\n2. Áp dụng công thức: $a = 5, c = 3 \\Rightarrow b^2 = a^2 - c^2$.\n3. Tính toán: $b^2 = 5^2 - 3^2 = 16 \\Rightarrow b = 4$.\n4. Kết luận: PTCT Elip $(E): \\frac{x^2}{25} + \\frac{y^2}{16} = 1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_conic_1_1",
+    "name": "Elip (E) ➔ \\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1 ($a^2 = b^2 + c^2$)",
+    "type": "STEP",
+    "parentId": "toan10_les_duong_conic_chinh_tac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_conic_1_2",
+    "name": "Hypebol (H) ➔ \\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1 ($c^2 = a^2 + b^2$)",
+    "type": "STEP",
+    "parentId": "toan10_les_duong_conic_chinh_tac",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_conic_1_3",
+    "name": "Parabol (P) ➔ $y^2 = 2px$ ($p > 0$ là tham số tiêu)",
+    "type": "STEP",
+    "parentId": "toan10_les_duong_conic_chinh_tac",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_daiso_tohop",
+    "name": "Đại số tổ hợp",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_quy_tac_dem",
+    "name": "Quy tắc đếm cơ bản",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_daiso_tohop",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_quy_tac_cong_nhan",
+    "name": "Quy tắc cộng, quy tắc nhân và sơ đồ hình cây trong bài toán đếm",
+    "type": "LESSON",
+    "parentId": "toan10_top_quy_tac_dem",
+    "examples": [
+      {
+        "id": "toan10_ex_quy_tac_cong_nhan_1",
+        "question": "[Quy tắc cộng & Nhân]: Một lớp có 20 nam và 15 nữ. Có bao nhiêu cách chọn 1 học sinh làm lớp trưởng? Bao nhiêu cách chọn 1 nam và 1 nữ làm cán sự?",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Chọn 1 đối tượng (Quy tắc cộng) vs Thực hiện 2 hành động liên tiếp (Quy tắc nhân).\n2. Áp dụng quy tắc: Chọn 1 người ➔ $20 + 15 = 35$ cách; Chọn 1 nam VÀ 1 nữ ➔ $20 \\times 15 = 300$ cách.\n3. Tính toán: Cộng = $35$, Nhân = $300$.\n4. Kết luận: Có $35$ cách chọn 1 học sinh; Có $300$ cách chọn cặp nam - nữ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_dem_1_1",
+    "name": "Quy tắc cộng ➔ Các phương án độc lập $N = n_1 + n_2 + ... + n_k$",
+    "type": "STEP",
+    "parentId": "toan10_les_quy_tac_cong_nhan",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dem_1_2",
+    "name": "Quy tắc nhân ➔ Các công đoạn liên tiếp $N = n_1 \\times n_2 \\times ... \\times n_k$",
+    "type": "STEP",
+    "parentId": "toan10_les_quy_tac_cong_nhan",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_dem_1_3",
+    "name": "Né bẫy đếm trùng ➔ Áp dụng nguyên lý bù trừ $N(A \\cup B) = N(A) + N(B) - N(A \\cap B)$",
+    "type": "STEP",
+    "parentId": "toan10_les_quy_tac_cong_nhan",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_hoanvi_chinhhop_tohop",
+    "name": "Hoán vị, Chỉnh hợp & Tổ hợp",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_daiso_tohop",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_hoan_vi_chinh_hop_to_hop",
+    "name": "Công thức tính và bài toán thực tế áp dụng Hoán vị, Chỉnh hợp, Tổ hợp",
+    "type": "LESSON",
+    "parentId": "toan10_top_hoanvi_chinhhop_tohop",
+    "examples": [
+      {
+        "id": "toan10_ex_hoan_vi_chinh_hop_to_hop_1",
+        "question": "[Phân biệt $A_n^k$ và $C_n^k$]: Từ 10 học sinh, có bao nhiêu cách chọn 3 học sinh đi trực nhật? Bao nhiêu cách chọn 3 học sinh làm Trưởng, Phó, Thư ký?",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Phân biệt Tổ hợp (Không phân biệt thứ tự) và Chỉnh hợp (Có phân biệt thứ tự).\n2. Áp dụng công thức: Chọn 3 người trực nhật ➔ $C_{10}^3$; Chọn 3 chức danh khác nhau ➔ $A_{10}^3$.\n3. Tính toán: $C_{10}^3 = \\frac{10!}{3!7!} = 120$; $A_{10}^3 = \\frac{10!}{7!} = 720$.\n4. Kết luận: $120$ cách chọn trực nhật; $720$ cách phân công chức danh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_tohop_1_1",
+    "name": "Hoán vị ➔ $P_n = n!$ (Sắp xếp $n$ phần tử)",
+    "type": "STEP",
+    "parentId": "toan10_les_hoan_vi_chinh_hop_to_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tohop_1_2",
+    "name": "Chỉnh hợp ➔ $A_n^k = \\frac{n!}{(n-k)!}$ (Chọn $k$ từ $n$ + Có thứ tự)",
+    "type": "STEP",
+    "parentId": "toan10_les_hoan_vi_chinh_hop_to_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tohop_1_3",
+    "name": "Tổ hợp ➔ $C_n^k = \\frac{n!}{k!(n-k)!}$ (Chọn $k$ từ $n$ + Không thứ tự)",
+    "type": "STEP",
+    "parentId": "toan10_les_hoan_vi_chinh_hop_to_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_tohop_1_4",
+    "name": "Casio ➔ Bấm [SHIFT] [x] cho $nPr$; Bấm [SHIFT] [÷] cho $nCr$",
+    "type": "STEP",
+    "parentId": "toan10_les_hoan_vi_chinh_hop_to_hop",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_nhi_thuc_newton",
+    "name": "Nhị thức Newton",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_daiso_tohop",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_khai_trien_nhi_thuc_newton",
+    "name": "Khai triển Nhị thức Newton $(a+b)^n$ với $n \\in \\{4, 5\\}$ và tìm hệ số số hạng",
+    "type": "LESSON",
+    "parentId": "toan10_top_nhi_thuc_newton",
+    "examples": [
+      {
+        "id": "toan10_ex_khai_trien_nhi_thuc_newton_1",
+        "question": "[Khai triển Nhị thức Newton]: Khai triển biểu thức $(x + 2)^4$ và tìm hệ số của số hạng chứa $x^2$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Dạng $(a+b)^4$ với $a=x, b=2$. Né bẫy quên lũy thừa của $b=2$.\n2. Áp dụng công thức: $(a+b)^4 = C_4^0 a^4 + C_4^1 a^3 b + C_4^2 a^2 b^2 + C_4^3 a b^3 + C_4^4 b^4$.\n3. Tính toán: $(x+2)^4 = 1\\cdot x^4 + 4\\cdot x^3(2) + 6\\cdot x^2(4) + 4\\cdot x(8) + 1\\cdot 16 = x^4 + 8x^3 + 24x^2 + 32x + 16$.\n4. Kết luận: Khai triển là $x^4 + 8x^3 + 24x^2 + 32x + 16$; Hệ số của $x^2$ là $24$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_newton_1_1",
+    "name": "Tam giác Pascal / Tam giác hệ số ➔ 1, 4, 6, 4, 1 ($n=4$); 1, 5, 10, 10, 5, 1 ($n=5$)",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_trien_nhi_thuc_newton",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_newton_1_2",
+    "name": "Công thức tổng quát ➔ $(a+b)^n = \\sum_{k=0}^n C_n^k a^{n-k} b^k$",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_trien_nhi_thuc_newton",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_newton_1_3",
+    "name": "Hệ số vs Số hạng ➔ Số hạng chứa $x^k$ bao gồm cả biến $x$; Hệ số chỉ lấy phần số",
+    "type": "STEP",
+    "parentId": "toan10_les_khai_trien_nhi_thuc_newton",
+    "examples": null
+  },
+  {
+    "id": "toan10_cat_xacsuat",
+    "name": "Xác suất cổ điển",
+    "type": "CATEGORY",
+    "parentId": "toan10_subject",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_bien_co_khong_gian_mau",
+    "name": "Biến cố & Không gian mẫu",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_xacsuat",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_mo_ta_không_gian_mau",
+    "name": "Mô tả không gian mẫu, xác định biến cố và biến cố đối",
+    "type": "LESSON",
+    "parentId": "toan10_top_bien_co_khong_gian_mau",
+    "examples": [
+      {
+        "id": "toan10_ex_mo_ta_không_gian_mau_1",
+        "question": "[Xác định không gian mẫu]: Gieo một con xúc xắc cân đối 2 lần. Xác định số phần tử của không gian mẫu $n(\\Omega)$.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Gieo 2 lần liên tiếp. Né bẫy tính $6+6=12$ thay vì quy tắc nhân $6 \\times 6 = 36$.\n2. Áp dụng quy tắc: Mỗi lần gieo có 6 khả năng. Gieo 2 lần liên tiếp áp dụng quy tắc nhân.\n3. Tính toán: $n(\\Omega) = 6 \\times 6 = 36$.\n4. Kết luận: $n(\\Omega) = 36$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_xs_1_1",
+    "name": "Không gian mẫu $\\Omega$ ➔ Tập hợp tất cả các kết quả có thể xảy ra",
+    "type": "STEP",
+    "parentId": "toan10_les_mo_ta_không_gian_mau",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_xs_1_2",
+    "name": "Biến cố $A$ ➔ $A \\subset \\Omega$",
+    "type": "STEP",
+    "parentId": "toan10_les_mo_ta_không_gian_mau",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_xs_1_3",
+    "name": "Biến cố đối ➔ $\\bar{A} = \\Omega \\setminus A$",
+    "type": "STEP",
+    "parentId": "toan10_les_mo_ta_không_gian_mau",
+    "examples": null
+  },
+  {
+    "id": "toan10_top_tinh_xac_suat",
+    "name": "Tính xác suất theo định nghĩa cổ điển",
+    "type": "TOPIC",
+    "parentId": "toan10_cat_xacsuat",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_xac_suat_co_dien",
+    "name": "Tính xác suất bằng phương pháp đếm/tổ hợp và sơ đồ hình cây",
+    "type": "LESSON",
+    "parentId": "toan10_top_tinh_xac_suat",
+    "examples": [
+      {
+        "id": "toan10_ex_xac_suat_co_dien_1",
+        "question": "[Tính xác suất tổ hợp]: Một hộp có 5 viên bi đỏ và 4 viên bi xanh. Chọn ngẫu nhiên 3 viên bi. Tính xác suất để chọn được đúng 2 viên bi đỏ.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: Cổ điển $P(A) = \\frac{n(A)}{n(\\Omega)}$. Né bẫy tính thiếu trường hợp chọn bi xanh $C_4^1$.\n2. Áp dụng công thức: $n(\\Omega) = C_9^3$; Biến cố $A$: 'Chọn 2 đỏ VÀ 1 xanh' $\\Rightarrow n(A) = C_5^2 \\times C_4^1$.\n3. Tính toán: $n(\\Omega) = 84$; $n(A) = 10 \\times 4 = 40 \\Rightarrow P(A) = \\frac{40}{84} = \\frac{10}{21}$.\n4. Kết luận: $P(A) = \\frac{10}{21}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_xs_2_1",
+    "name": "Công thức cổ điển ➔ $P(A) = \\frac{n(A)}{n(\\Omega)}$ ($0 \\le P(A) \\le 1$)",
+    "type": "STEP",
+    "parentId": "toan10_les_xac_suat_co_dien",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_xs_2_2",
+    "name": "Tính $n(\\Omega)$ ➔ Dùng quy tắc đếm / Hoán vị / Chỉnh hợp / Tổ hợp",
+    "type": "STEP",
+    "parentId": "toan10_les_xac_suat_co_dien",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_xs_2_3",
+    "name": "Tính $n(A)$ ➔ Phân loại các trường hợp thỏa mãn yêu cầu",
+    "type": "STEP",
+    "parentId": "toan10_les_xac_suat_co_dien",
+    "examples": null
+  },
+  {
+    "id": "toan10_les_xac_suat_bien_co_doi",
+    "name": "Tính xác suất thông qua biến cố đối",
+    "type": "LESSON",
+    "parentId": "toan10_top_tinh_xac_suat",
+    "examples": [
+      {
+        "id": "toan10_ex_xac_suat_bien_co_doi_1",
+        "question": "[Tính xác suất biến cố đối]: Từ hộp 5 đỏ, 4 xanh ở trên, chọn 3 viên. Tính xác suất chọn được ít nhất 1 viên bi đỏ.",
+        "answer": "1. Nhận diện dạng bài & Né bẫy: 'Ít nhất 1'. Dùng biến cố đối $\\bar{A}$: 'Không có viên bi đỏ nào' (Chọn cả 3 bi xanh).\n2. Áp dụng công thức: $P(A) = 1 - P(\\bar{A})$.\n3. Tính toán: $n(\\bar{A}) = C_4^3 = 4 \\Rightarrow P(\\bar{A}) = \\frac{4}{84} = \\frac{1}{21} \\Rightarrow P(A) = 1 - \\frac{1}{21} = \\frac{20}{21}$.\n4. Kết luận: Xác suất $P(A) = \\frac{20}{21}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan10_step_xs_3_1",
+    "name": "Nhận diện từ khóa ➔ 'Ít nhất', 'Không quá', 'Lớn hơn 0' ➔ Dùng biến cố đối $\\bar{A}$",
+    "type": "STEP",
+    "parentId": "toan10_les_xac_suat_bien_co_doi",
+    "examples": null
+  },
+  {
+    "id": "toan10_step_xs_3_2",
+    "name": "Công thức ➔ $P(A) + P(\\bar{A}) = 1 \\Rightarrow P(A) = 1 - P(\\bar{A})$",
+    "type": "STEP",
+    "parentId": "toan10_les_xac_suat_bien_co_doi",
+    "examples": null
+  }
+]

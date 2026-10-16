@@ -1,0 +1,1675 @@
+[
+  {
+    "id": "lsdl8_subject_root",
+    "name": "Lịch sử và Địa lý 8",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "lsdl8_cat_ls_thegioi",
+    "name": "Lịch sử thế giới cận đại (Thế kỉ XVI - đầu thế kỉ XX)",
+    "type": "CATEGORY",
+    "parentId": "lsdl8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_cat_ls_vietnam",
+    "name": "Lịch sử Việt Nam từ thế kỉ XVI đến đầu thế kỉ XX",
+    "type": "CATEGORY",
+    "parentId": "lsdl8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_cat_dia_ly_tu_nhien",
+    "name": "Địa lý tự nhiên Việt Nam",
+    "type": "CATEGORY",
+    "parentId": "lsdl8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_cat_chu_de_chung",
+    "name": "Chủ đề chung (Tích hợp Lịch sử & Địa lý)",
+    "type": "CATEGORY",
+    "parentId": "lsdl8_subject_root",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_cmts_cntb",
+    "name": "Các cuộc cách mạng tư sản và sự phát triển của chủ nghĩa tư bản",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_thegioi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cmts_anh",
+    "name": "Phân tích nguyên nhân, diễn biến và ý nghĩa Cách mạng tư sản Anh",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_cmts_cntb",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_1_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Trình bày nguyên nhân sâu xa, duyên cớ trực tiếp và tính chất không triệt để của Cách mạng tư sản Anh thế kỉ XVII.",
+        "answer": "1. Nhận diện & Né bẫy: Phạm vi Anh thế kỉ XVII. Né bẫy: Nhầm lẫn giai cấp lãnh đạo (Tư sản + Quý tộc mới, không phải Quý tộc phong kiến cũ).\n2. Trích xuất dữ kiện: Nguyên nhân sâu xa = Mâu thuẫn LLSX mới (Tư bản chủ nghĩa) $\\times$ QHSX phong kiến lỗi thời (Vua Sác-lơ I). Duyên cớ = Vua Sác-lơ I triệu tập Quốc hội đòi tăng thuế (1642).\n3. Lập luận logic: Diễn biến chia 2 giai đoạn (1642-1648 Nội chiến ➔ 1649-1688 Thiết lập Quân chủ lập hiến). Tính chất = Không triệt để (Không giải quyết ruộng đất cho nông dân, duy trì ngôi vua).\n4. Kết luận: Mở đường cho Chủ nghĩa tư bản phát triển, xác lập chế độ Quân chủ lập hiến.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_cmts_anh_1",
+    "name": "Nguyên nhân CMTS Anh ➔ LLSX TBCN mâu thuẫn gay gắt với QHSX phong kiến lỗi thời",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_anh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmts_anh_2",
+    "name": "Lãnh đạo ➔ Liên minh Tư sản + Quý tộc mới | Quần chúng nhân dân là động lực chính",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_anh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmts_anh_3",
+    "name": "Tiến trình ➔ 1642-1648 (Nội chiến) ➔ 1649 (Xử tử Sác-lơ I) ➔ 1688 (Đảo chính chính trị)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_anh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmts_anh_4",
+    "name": "Né bẫy tính chất ➔ Cách mạng không triệt để (Chưa chia ruộng đất + Còn duy trì Vua)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_anh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_13_thuoc_dia",
+    "name": "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_cmts_cntb",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_1_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích bản chất kép (vừa là chiến tranh giải phóng dân tộc vừa là cách mạng tư sản) của Chiến tranh 13 thuộc địa Bắc Mỹ.",
+        "answer": "1. Nhận diện & Né bẫy: Bắc Mỹ giữa thế kỉ XVIII. Né bẫy: Nhầm lẫn đối tượng kẻ thù (Thực dân Anh chèn ép kinh tế TBCN, không phải phong kiến bản địa).\n2. Trích xuất dữ kiện: Duyên cớ = Chè Bo-xtơn (1773). Tuyên ngôn Độc lập (1776) do Tơ-mát Giép-phơ-sơn soạn thảo.\n3. Lập luận logic: Tính chất 1 = Chiến tranh giải phóng dân tộc (Lật đổ ách đô hộ thực dân Anh). Tính chất 2 = Cách mạng tư sản (Mở đường cho KTB TBCN phát triển, thành lập Hợp chúng quốc Mỹ - USA).\n4. Kết luận: Mang tính chất kép, cổ vũ mạnh mẽ phong trào giải phóng dân tộc thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_13_td_1",
+    "name": "Nguyên nhân ➔ Thực dân Anh kìm hãm kinh tế TBCN ở 13 thuộc địa",
+    "type": "STEP",
+    "parentId": "lsdl8_les_13_thuoc_dia",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_13_td_2",
+    "name": "Sự kiện bước ngoặt ➔ 1773 (Sự kiện Bo-xtơn) ➔ 1776 (Tuyên ngôn Độc lập)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_13_thuoc_dia",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_13_td_3",
+    "name": "Kết quả ➔ 1783 (Hòa ước Véc-xai) ➔ Anh công nhận độc lập 13 thuộc địa",
+    "type": "STEP",
+    "parentId": "lsdl8_les_13_thuoc_dia",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_13_td_4",
+    "name": "Né bẫy bản chất ➔ Nhiệm vụ đôi: Giải phóng dân tộc + Mở đường cho TBCN",
+    "type": "STEP",
+    "parentId": "lsdl8_les_13_thuoc_dia",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cmts_phap",
+    "name": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_cmts_cntb",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_1_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Vì sao nói Cách mạng tư sản Pháp cuối thế kỉ XVIII là cuộc cách mạng tư sản triệt để nhất thời cận đại?",
+        "answer": "1. Nhận diện & Né bẫy: Pháp thế kỉ XVIII. Né bẫy: Nhầm lẫn mốc sự kiện mở đầu cách mạng (Sự kiện Tấn công nhà ngục Ba-stuy 14/7/1789 với các sự kiện diễn ra trước đó).\n2. Trích xuất dữ kiện: Nguyên nhân = Chế độ 3 đẳng cấp (Tăng lữ, Quý tộc và Đẳng cấp thứ ba). Tấn công nhà ngục Ba-stuy (14/7/1789).\n3. Lập luận logic: Tính triệt để thể hiện ở 3 điểm: Lật đổ triệt để chế độ phong kiến ➔ Giải quyết vấn đề ruộng đất cho nông dân ➔ Ban hành Tuyên ngôn Nhân quyền và Dân quyền (1789).\n4. Kết luận: Là cuộc CMTS điển hình, triệt để nhất, mở ra thời kỳ đỉnh cao của TBCN.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_cmts_phap_1",
+    "name": "Bối cảnh ➔ Chế độ 3 đẳng cấp | Đẳng cấp thứ 3 chiếm đa số dân số, chịu mọi thứ thuế và không có quyền lực chính trị",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_phap",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmts_phap_2",
+    "name": "Tiến trình cách mạng ➔ Chuyên chính Gia-cô-banh (Rô-be-spie) ➔ Trị an & Chiêu tuyết ruộng đất",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_phap",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmts_phap_3",
+    "name": "Né bẫy triệt để ➔ Giải quyết triệt để nhiệm vụ Dân tộc + Dân chủ (Ruộng đất)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmts_phap",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cmcn",
+    "name": "Thành tựu và tác động của Cách mạng công nghiệp",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_cmts_cntb",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_1_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích tác động hai mặt (kinh tế và xã hội) của cuộc Cách mạng công nghiệp bắt đầu từ nước Anh.",
+        "answer": "1. Nhận diện & Né bẫy: Nửa sau thế kỉ XVIII đến giữa XIX. Né bẫy: Nhầm lẫn thứ tự phát minh (Sợi Ghen-ni ➔ Máy nổ ➔ Máy hơi nước Giam-es Oát 1784).\n2. Trích xuất dữ kiện: Máy hơi nước Giêm Oát (1784) đưa loài người từ văn minh nông nghiệp sang văn minh công nghiệp.\n3. Lập luận logic: Tác động kinh tế = Tăng năng suất lao động $\\times$ Hình thành các thành phố công nghiệp lớn. Tác động xã hội = Hình thành 2 giai cấp đối kháng: Tư sản $\\times$ Vô sản.\n4. Kết luận: Biến nước Anh thành 'xưởng máy của thế giới', thúc đẩy TBCN phát triển mạnh mẽ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_cmcn_1",
+    "name": "Khởi đầu ➔ Nước Anh (Nửa sau XVIII) ➔ Ngành công nghiệp nhẹ (Dệt) ➔ Công nghiệp nặng",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmcn",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmcn_2",
+    "name": "Phát minh trung tâm ➔ 1784 Giêm Oát chế tạo máy hơi nước ➔ Động lực cơ khí hóa",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmcn",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmcn_3",
+    "name": "Tác động kinh tế ➔ Chuyển từ sản xuất thủ công ➔ Sản xuất cơ khí quy mô lớn",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmcn",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cmcn_4",
+    "name": "Tác động xã hội ➔ Hình thành 2 giai cấp cơ bản: Tư sản $\\times$ Vô sản",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cmcn",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cn_de_quoc",
+    "name": "Sự hình thành Chủ nghĩa đế quốc cuối thế kỉ XIX - đầu thế kỉ XX",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_cmts_cntb",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_1_5",
+        "question": "[Dạng bài Lịch sử/Địa lý]: So sánh đặc điểm của Chủ nghĩa đế quốc Anh, Pháp, Đức, Mỹ cuối thế kỉ XIX - đầu thế kỉ XX.",
+        "answer": "1. Nhận diện & Né bẫy: Cuối XIX - đầu XX. Né bẫy: Nhầm tên biệt danh các đế quốc (Anh = Đế quốc thực dân; Pháp = Đế quốc cho vay lãi; Đức = Đế quốc quân phiệt hiếu chiến; Mỹ = Đế quốc Xơ-rớt).\n2. Trích xuất dữ kiện: Sự xuất hiện các công ty độc quyền (Cácten, Xanhđica, Trớt) và sự kết hợp tư bản ngân hàng với tư bản công nghiệp.\n3. Lập luận logic: Anh/Pháp phát triển kinh tế chậm lại nhưng có nhiều thuộc địa. Đức/Mỹ phát triển kinh tế nhanh vượt bậc nhưng ít thuộc địa ➔ Mâu thuẫn chia lại thế giới.\n4. Kết luận: Dẫn đến cuộc tranh giành thị trường và thuộc địa gay gắt giữa các đế quốc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_de_quoc_1",
+    "name": "Biểu hiện cốt lõi ➔ Tổ chức độc quyền + Tư bản tài chính + Xuất khẩu tư bản",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cn_de_quoc",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_de_quoc_2",
+    "name": "Đặc điểm Anh ➔ CNĐQ Thực dân (Hệ thống thuộc địa rộng nhất thế giới)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cn_de_quoc",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_de_quoc_3",
+    "name": "Đặc điểm Pháp ➔ CNĐQ Cho vay lãi | Đặc điểm Đức ➔ CNĐQ Quân phiệt hiếu chiến",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cn_de_quoc",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_de_quoc_4",
+    "name": "Nguồn gốc mâu thuẫn ➔ Tăng trưởng kinh tế $\\times$ Thị phần thuộc địa không đều",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cn_de_quoc",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_ptcn_cnxhn",
+    "name": "Phong trào công nhân, sự ra đời CNXH khoa học và các sự kiện thế giới đầu XX",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_thegioi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_ptcn_tg",
+    "name": "Phong trào công nhân thế giới từ cuối thế kỉ XVIII đến đầu thế kỉ XX",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_ptcn_cnxhn",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_2_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích sự chuyển biến trong hình thức đấu tranh của công nhân từ đập phá máy móc sang đấu tranh chính trị.",
+        "answer": "1. Nhận diện & Né bẫy: Cuối XVIII - giữa XIX. Né bẫy: Nhầm lẫn đập phá máy móc là đấu tranh triệt để (Thực chất là tự phát vì tưởng máy móc làm họ khổ).\n2. Trích xuất dữ kiện: Khởi nghĩa công nhân dệt Li-ong (Pháp 1831, 1834), Sơ-lê-zin (Đức 1844), Phong trào Hiến chương Anh (1836-1848).\n3. Lập luận logic: Chuyển biến từ Tự phát (Đập máy móc, đòi tăng lương) ➔ Tự giác (Lập công đoàn, đòi quyền bầu cử, đấu tranh chính trị).\n4. Kết luận: Đặt ra yêu cầu cấp thiết phải có lý luận cách mạng soi đường.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ptcn_1",
+    "name": "Giai đoạn đầu ➔ Đập phá máy móc, đốt công xưởng (Tự phát, chưa nhận rõ kẻ thù)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_ptcn_tg",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ptcn_2",
+    "name": "Giai đoạn sau ➔ Đấu tranh bãi công, lập Công đoàn, Phong trào Hiến chương (Tự giác)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_ptcn_tg",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_mac_angghen",
+    "name": "Sự ra đời của Chủ nghĩa xã hội khoa học và Quốc tế thứ nhất",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_ptcn_cnxhn",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_2_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nêu ý nghĩa lịch sử của việc xuất bản Tuyên ngôn của Đảng Cộng sản (2/1848).",
+        "answer": "1. Nhận diện & Né bẫy: Tháng 2/1848 tại Luân Đôn. Né bẫy: Tuyên ngôn do C. Mác và Ph. Ăng-ghen soạn thảo cho Đồng minh những người cộng sản.\n2. Trích xuất dữ kiện: Khẳng định sứ mệnh lịch sử của giai cấp vô sản là lật đổ TBCN, xây dựng CNXH.\n3. Lập luận logic: Đánh dấu sự ra đời của CNXH khoa học, cung cấp vũ khí tư tưởng lý luận cho giai cấp công nhân toàn thế giới.\n4. Kết luận: Mở ra kỉ nguyên mới cho phong trào công nhân quốc tế.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_mac_1",
+    "name": "Tháng 2/1848 ➔ C. Mác & Ph. Ăng-ghen xuất bản Tuyên ngôn của Đảng Cộng sản",
+    "type": "STEP",
+    "parentId": "lsdl8_les_mac_angghen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_mac_2",
+    "name": "Nội dung cốt lõi ➔ Sứ mệnh lịch sử giai cấp vô sản | Lật đổ TBCN, xây dựng CNXH",
+    "type": "STEP",
+    "parentId": "lsdl8_les_mac_angghen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cong_xa_pari",
+    "name": "Công xã Pa-ri (1871) - Nhà nước kiểu mới",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_ptcn_cnxhn",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_2_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Chứng minh Công xã Pa-ri (1871) là nhà nước kiểu mới - nhà nước của dân, do dân, vì dân.",
+        "answer": "1. Nhận diện & Né bẫy: Ngày 18/3/1871 đến 28/5/1871. Né bẫy: Công xã tồn tại 72 ngày nhưng để lại bài học vô giá về đập tan bộ máy nhà nước tư sản.\n2. Trích xuất dữ kiện: Hội đồng Công xã gồm đại biểu công nhân và nhân dân lao động. Ban hành các sắc lệnh vì lợi ích nhân dân.\n3. Lập luận logic: Tách nhà trường khỏi nhà giáo hội, giao xưởng máy bỏ trống cho công nhân, quy định mức lương trần.\n4. Kết luận: Hình ảnh thu nhỏ của nhà nước chuyên chính vô sản đầu tiên trên thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_pari_1",
+    "name": "Bối cảnh ➔ 18/3/1871 Khởi nghĩa nhân dân Pa-ri ➔ Lật đổ chính phủ tư sản Véc-xai",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cong_xa_pari",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_pari_2",
+    "name": "Bản chất nhà nước ➔ Đập tan bộ máy cũ ➔ Xây dựng Nhà nước chuyên chính vô sản",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cong_xa_pari",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cttg1",
+    "name": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_ptcn_cnxhn",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_2_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích nguyên nhân sâu xa, duyên cớ và tính chất phi nghĩa của Chiến tranh thế giới thứ nhất.",
+        "answer": "1. Nhận diện & Né bẫy: 1914 - 1918. Né bẫy: Nhầm lẫn Thái tử Áo - Hung bị ám sát là nguyên nhân (đó chỉ là duyên cớ trực tiếp).\n2. Trích xuất dữ kiện: 2 khối quân sự đối đầu: Liên minh (Đức, Áo-Hung) $\\times$ Hiệp ước (Anh, Pháp, Nga).\n3. Lập luận logic: Nguyên nhân sâu xa = Tranh giành thị trường, thuộc địa giữa các đế quốc. Tính chất = Chiến tranh đế quốc phi nghĩa cả 2 bên (trừ chiến tranh tự vệ của Xéc-bi).\n4. Kết luận: Gây thảm họa nặng nề cho nhân loại, làm suy yếu các đế quốc châu Âu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ct1_1",
+    "name": "Nguyên nhân sâu xa ➔ Mâu thuẫn thuộc địa giữa 2 khối Liên minh $\\times$ Hiệp ước",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cttg1",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ct1_2",
+    "name": "Duyên cớ ➔ 28/6/1914 Thái tử Áo-Hung bị ám sát tại Xa-ra-je-vo",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cttg1",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ct1_3",
+    "name": "Cột mốc kết thúc ➔ 11/11/1918 Đức ký hiệp định đình chiến hàng phục",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cttg1",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ct1_4",
+    "name": "Né bẫy tính chất ➔ Chiến tranh đế quốc phi nghĩa cả hai bên",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cttg1",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cm_thang10_nga",
+    "name": "Cách mạng tháng Mười Nga năm 1917",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_ptcn_cnxhn",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_2_5",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Ý nghĩa lịch sử và tác động của Cách mạng tháng Mười Nga năm 1917 đối với phong trào cách mạng thế giới.",
+        "answer": "1. Nhận diện & Né bẫy: Tháng 10 (tháng 11 dương lịch) năm 1917. Né bẫy: Phân biệt CM Tháng Hai (Dân chủ tư sản lật đổ Nga hoàng) và CM Tháng Mười (XHCN lật đổ Chính phủ tư sản lâm thời).\n2. Trích xuất dữ kiện: V.I. Lê-nin và Đảng Bôn-sê-vích lãnh đạo khởi nghĩa vũ trang thắng lợi ở Băng đảo Cung điện Mùa Đông.\n3. Lập luận logic: Lần đầu tiên đưa giai cấp công nhân và nhân dân lao động lên nắm chính quyền, thành lập Nhà nước XHCN đầu tiên trên thế giới.\n4. Kết luận: Mở ra thời đại mới - thời đại quá độ từ CNDN sang CNXH trên phạm vi toàn cầu.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_nga_1",
+    "name": "CM Tháng 2/1917 ➔ Lật đổ Nga hoàng ➔ Cục diện 2 chính quyền song song tồn tại",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cm_thang10_nga",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_nga_2",
+    "name": "CM Tháng 10/1917 ➔ Lê-nin & Bôn-sê-vích lật đổ Chính phủ tư sản lâm thời",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cm_thang10_nga",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_nga_3",
+    "name": "Tính chất ➔ Cách mạng xã hội chủ nghĩa (Cách mạng vô sản) đầu tiên trên thế giới",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cm_thang10_nga",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_van_hoa_khkt",
+    "name": "Thành tựu văn hóa, khoa học - kỹ thuật thời cận đại",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_thegioi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_kh_xhn_tnh",
+    "name": "Thành tựu Khoa học tự nhiên và Khoa học xã hội XVIII - XIX",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_van_hoa_khkt",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_3_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Tóm tắt các phát minh khoa học tự nhiên tiêu biểu thế kỉ XVIII - XIX và tác động của chúng đối với nhận thức con người.",
+        "answer": "1. Nhận diện & Né bẫy: Thế kỉ XVIII - XIX. Né bẫy: Ghép đúng tác giả và phát minh (Thuyết tiến hóa - Đác-uyn; Định luật bảo toàn năng lượng - Lơ-mô-nô-sốp; Thuyết nguyên tử - Đan-tơn).\n2. Trích xuất dữ kiện: Phát minh của Niêu-tơn, Đác-uyn, Men-đê-lê-ép, Lơ-mô-nô-sốp.\n3. Lập luận logic: Đập tan các quan niệm duy tâm, thần học về nguồn gốc vũ trụ và loài người ➔ Khẳng định thế giới vật chất vận động theo quy luật khách quan.\n4. Kết luận: Đặt nền tảng cho sự phát triển khoa học hiện đại.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kh_1",
+    "name": "KHTN tiêu biểu ➔ Niêu-tơn (Vạn vật hấp dẫn) | Đác-uyn (Thuyết tiến hóa) | Men-đê-lê-ép (Bảng tuần hoàn)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kh_xhn_tnh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kh_2",
+    "name": "KHXH tiêu biểu ➔ Chủ nghĩa duy vật biện chứng (Mác - Ăngghen) | Kinh tế chính trị cổ điển Anh",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kh_xhn_tnh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_kithuat_vanhoa",
+    "name": "Phát minh kỹ thuật và văn học, nghệ thuật thế kỉ XVIII - XIX",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_van_hoa_khkt",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_3_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Liệt kê các đại biểu văn học, nghệ thuật tiêu biểu thời cận đại và giá trị nhân văn trong tác phẩm của họ.",
+        "answer": "1. Nhận diện & Né bẫy: XVIII - XIX. Né bẫy: Nhầm quốc tịch tác giả (V. Huy-gô: Pháp; L. Tôn-stôi: Nga; M. Tơ-wen: Mỹ).\n2. Trích xuất dữ kiện: Văn học: V. Huy-gô (Những người cùng khổ), L. Tôn-stôi (Chiến tranh và hòa bình). Âm nhạc: Bê-tô-ven, Mô-za.\n3. Lập luận logic: Phản ánh thực tại xã hội bất công, lên án sự tàn bạo của chế độ tư bản và phong kiến, ca ngợi tự do và lòng nhân ái.\n4. Kết luận: Làm phong phú kho tàng văn hóa tinh thần của nhân loại.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_vh_1",
+    "name": "Văn học ➔ V. Huy-gô (Pháp) | L. Tôn-stôi (Nga) ➔ Trị an bất công xã hội",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kithuat_vanhoa",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_vh_2",
+    "name": "Nghệ thuật ➔ Bê-tô-ven (Đức) | L.Van Bê-tô-ven ➔ Âm nhạc cổ điển thế giới",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kithuat_vanhoa",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_chau_a_dna",
+    "name": "Khu vực Châu Á và Đông Nam Á thời cận đại",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_thegioi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_tdh_dna",
+    "name": "Quá trình thực dân hóa ở Đông Nam Á",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_chau_a_dna",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_4_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Quá trình xâm lược của các nước thực dân phương Tây đối với các nước Đông Nam Á đến cuối thế kỉ XIX.",
+        "answer": "1. Nhận diện & Né bẫy: Nửa sau XVI đến XIX. Né bẫy: Quốc gia duy nhất ở ĐNÁ giữ được độc lập là Xiêm (Thái Lan) nhờ chính sách ngoại giao mềm dẻo.\n2. Trích xuất dữ kiện: Anh chiếm Mã Lai, Miến Điện; Pháp chiếm 3 nước Đông Dương (Việt Nam, Lào, Campuchia); Hà Lan chiếm In-đô-nê-xi-a; Tây Ban Nha/Mỹ chiếm Phi-lip-pin.\n3. Lập luận logic: ĐNÁ có vị trí chiến lược, giàu tài nguyên ➔ Trở thành đối tượng xâm lược của thực dân phương Tây.\n4. Kết luận: Hầu hết các nước ĐNÁ biến thành thuộc địa và phụ thuộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_tdh_1",
+    "name": "Phân chia thuộc địa ➔ Anh (Mã Lai, Miến Điện) | Pháp (3 nước Đông Dương) | Hà Lan (In-đô)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_tdh_dna",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_tdh_2",
+    "name": "Trường hợp ngoại lệ ➔ Xiêm (Thái Lan) giữ độc lập nhờ cải cách & ngoại giao đu dây",
+    "type": "STEP",
+    "parentId": "lsdl8_les_tdh_dna",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_trung_quoc_cd",
+    "name": "Trung Quốc từ giữa thế kỉ XIX đến đầu thế kỉ XX",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_chau_a_dna",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_4_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Sự kiện mở đầu quá trình biến Trung Quốc từ quốc gia phong kiến độc lập thành nước nửa phong kiến nửa thuộc địa.",
+        "answer": "1. Nhận diện & Né bẫy: Chiến tranh Thuốc phiện (1840-1842). Né bẫy: Hiệp ước Nam Kinh (1842) là hiệp ước bất bình đẳng đầu tiên TQ phải ký với Anh.\n2. Trích xuất dữ kiện: Các nước đế quốc xâu xé TQ thành các vùng ảnh hưởng (Anh, Pháp, Đức, Nga, Nhật).\n3. Lập luận logic: Cách mạng Tân Hợi (1911) do Tôn Trung Sơn lãnh đạo lật đổ nhà Thanh, thành lập Dân quốc ➔ Tính chất CMTS không triệt để.\n4. Kết luận: Trung Quốc trở thành nước thuộc địa nửa phong kiến.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_tq_1",
+    "name": "Mở đầu ➔ 1840-1842 Chiến tranh Thuốc phiện ➔ Ký Hiệp ước Nam Kinh bất bình đẳng",
+    "type": "STEP",
+    "parentId": "lsdl8_les_trung_quoc_cd",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_tq_2",
+    "name": "Cách mạng Tân Hợi 1911 ➔ Tôn Trung Sơn (Chủ nghĩa Tam dân) ➔ Lật đổ triều đình nhà Thanh",
+    "type": "STEP",
+    "parentId": "lsdl8_les_trung_quoc_cd",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_duy_tan_minh_tri",
+    "name": "Cuộc Duy tân Minh Trị (1868) ở Nhật Bản",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_chau_a_dna",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_4_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích nội dung và ý nghĩa lịch sử của Cuộc Duy tân Minh Trị (1868) ở Nhật Bản.",
+        "answer": "1. Nhận diện & Né bẫy: Tháng 1/1868 Thiên hoàng Minh Trị. Né bẫy: Duy tân Minh Trị có tính chất như một cuộc cách mạng tư sản (không phải cải cách phong kiến đơn thuần).\n2. Trích xuất dữ kiện: Cải cách toàn diện về Chính trị, Kinh tế, Quân sự, Giáo dục (Cử học sinh du học Âu-Mỹ).\n3. Lập luận logic: Giúp Nhật Bản thoát khỏi nguy cơ biến thành thuộc địa, phát triển mạnh mẽ lên CNDQ.\n4. Kết luận: Là bài học kinh nghiệm quý báu cho các nước châu Á về tự cường dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_nhat_1",
+    "name": "Nội dung cải cách ➔ Chính trị (Bãi bỏ chế độ Mạc phủ) | Kinh tế (Thống nhất tiền tệ) | GD (Bắt buộc)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_duy_tan_minh_tri",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_nhat_2",
+    "name": "Tính chất & Ý nghĩa ➔ Cách mạng tư sản ➔ Giúp Nhật thoát ách thuộc địa, thành nước đế quốc",
+    "type": "STEP",
+    "parentId": "lsdl8_les_duy_tan_minh_tri",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_giai_phong_ando_dna",
+    "name": "Phong trào giải phóng dân tộc ở Ấn Độ và Đông Nam Á",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_chau_a_dna",
+    "examples": [
+      {
+        "id": "ex_lsdl8_1_4_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Điểm mới trong phong trào giải phóng dân tộc ở Ấn Độ và Đông Nam Á cuối thế kỉ XIX - đầu thế kỉ XX.",
+        "answer": "1. Nhận diện & Né bẫy: Cuối XIX - đầu XX. Né bẫy: Sự xuất hiện của giai cấp tư sản dân tộc và công nhân tham gia lãnh đạo phong trào.\n2. Trích xuất dữ kiện: Ấn Độ: Đảng Quốc đại (1885), khởi nghĩa Xi-pay. Phi-lip-pin: Cách mạng 1896 do A-gi-nal-đô lãnh đạo.\n3. Lập luận logic: Phong trào chuyển dần từ ngọn cờ phong kiến sang ngọn cờ tư sản.\n4. Kết luận: Tạo tiền đề cho sự phát triển của phong trào độc lập dân tộc sau này.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ando_1",
+    "name": "Ấn Độ ➔ 1885 Thành lập Đảng Quốc đại | Khởi nghĩa Binh lính Xi-pay (1857-1859)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_giai_phong_ando_dna",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_vn_xvi_xviii",
+    "name": "Việt Nam trong các thế kỉ XVI - XVIII (Biến động và phát triển)",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_vietnam",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_xung_dot_phong_kien",
+    "name": "Xung đột Nam - Bắc triều và Trịnh - Nguyễn",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_xvi_xviii",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_1_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nguyên nhân, hậu quả của các cuộc xung đột phong kiến Nam - Bắc triều và Trịnh - Nguyễn thế kỉ XVI - XVII.",
+        "answer": "1. Nhận diện & Né bẫy: XVI - XVII. Né bẫy: Nam - Bắc triều (Lê-Mạc $\\times$ Nhà Mạc); Trịnh - Nguyễn (Đàng Ngoài $\\times$ Đàng Trong, lấy sông Gianh - Quảng Bình làm ranh giới).\n2. Trích xuất dữ kiện: Mạc Đăng Dung cướp ngôi nhà Lê (1527) ➔ Nam - Bắc triều. Nguyễn Hoàng vào Trấn Thủ Thuận Hóa (1558) ➔ Trịnh - Nguyễn phân tranh.\n3. Lập luận logic: Hậu quả = Đất nước bị chia cắt kéo dài hơn 2 thế kỉ, đời sống nhân dân cực khổ, cản trở phát triển kinh tế.\n4. Kết luận: Thể hiện sự suy ngoái, khủng hoảng của chế độ phong kiến Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_xd_1",
+    "name": "Nam - Bắc triều (1545 - 1592) ➔ Triều Mạc (Bắc) đối đầu Triều Lê trung hưng (Nam)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_xung_dot_phong_kien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_xd_2",
+    "name": "Trịnh - Nguyễn phân tranh (1627-1672) ➔ Sông Gianh (Quảng Bình) chia cắt Đàng Ngoài và Đàng Trong",
+    "type": "STEP",
+    "parentId": "lsdl8_les_xung_dot_phong_kien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_khai_pha_phia_nam",
+    "name": "Khai phá vùng đất phía Nam và thực thi chủ quyền biển đảo",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_xvi_xviii",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_1_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Công cuộc khai phá vùng đất phía Nam và quá trình xác lập chủ quyền đối với quần đảo Hoàng Sa, Trường Sa của các chúa Nguyễn.",
+        "answer": "1. Nhận diện & Né bẫy: Thế kỉ XVII - XVIII. Né bẫy: Đội Hoàng Sa và Đội Bắc Hải là tổ chức nhà nước do chúa Nguyễn lập ra để thực thi chủ quyền (không phải tổ chức dân sự).\n2. Trích xuất dữ kiện: Nguyễn Hữu Cảnh kinh lược phương Nam, thành lập phủ Gia Định (1698). Thành lập Đội Hoàng Sa thu gom hàng hóa, đo đạc hải trình.\n3. Lập luận logic: Mở rộng lãnh thổ Việt Nam xuống đồng bằng sông Cửu Long ➔ Khẳng định chủ quyền liên tục đối với Hoàng Sa - Trường Sa.\n4. Kết luận: Đặt nền móng vững chắc cho vĩnh viễn không gian sinh tồn của dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kp_1",
+    "name": "1698 Nguyễn Hữu Cảnh kinh lược Nam Bộ ➔ Lập phủ Gia Định (Sài Gòn - Đồng Nai)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khai_pha_phia_nam",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kp_2",
+    "name": "Thực thi chủ quyền ➔ Thành lập Đội Hoàng Sa & Bắc Hải ➔ Khai thác và cắm mốc chủ quyền",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khai_pha_phia_nam",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_khoi_nghia_dang_ngoai",
+    "name": "Phong trào khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_xvi_xviii",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_1_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nguyên nhân bùng nổ và tác động của các cuộc khởi nghĩa nông dân Đàng Ngoài thế kỉ XVIII.",
+        "answer": "1. Nhận diện & Né bẫy: Thế kỉ XVIII. Né bẫy: Các cuộc khởi nghĩa nổ ra lẻ tẻ nhưng quy mô rộng lớn (Hoàng Công Chất, Nguyễn Hữu Cầu, Nguyễn Danh Phương).\n2. Trích xuất dữ kiện: Chính quyền chúa Trịnh thối nát, quan lại bóc phốt, thiên tai mất mùa liên tiếp.\n3. Lập luận logic: Tuy thất bại nhưng đã giáng đòn nặng nề vào chính quyền phong kiến tập quyền chúa Trịnh.\n4. Kết luận: Dọn đường cho phong trào Tây Sơn tiến ra Bắc sau này.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_dn_1",
+    "name": "Khởi nghĩa tiêu biểu ➔ Hoàng Công Chất (Điện Biên) | Nguyễn Hữu Cầu (Quận He) | Nguyễn Danh Phương",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khoi_nghia_dang_ngoai",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_phong_trao_tay_son",
+    "name": "Phong trào Tây Sơn và sự nghiệp của Quang Trung",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_xvi_xviii",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_1_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích 2 nhiệm vụ lịch sử to lớn mà Phong trào Tây Sơn đã hoàn thành xuất sắc.",
+        "answer": "1. Nhận diện & Né bẫy: 1771 - 1802. Né bẫy: Nhiệm vụ 1 = Lật đổ các tập đoàn phong kiến (Nguyễn ở Đàng Trong, Trịnh - Lê ở Đàng Ngoài); Nhiệm vụ 2 = Đánh tan quân xâm lược (Xiêm 1785, Thanh 1789).\n2. Trích xuất dữ kiện: Trận Rạch Gầm - Xoài Mút (1785) đánh 5 vạn quân Xiêm. Trận Ngọc Hồi - Đống Đa (Kỷ Dậu 1789) đánh 29 vạn quân Thanh.\n3. Lập luận logic: Thống nhất lại đất nước sau 2 thế kỉ chia cắt ➔ Bảo vệ vững chắc độc lập chủ quyền dân tộc.\n4. Kết luận: Nguyễn Huệ - Quang Trung là anh hùng dân tộc áo vải thiên tài.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ts_1",
+    "name": "1771 Khởi nghĩa Tây Sơn (3 anh em: Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ) tại Bình Định",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phong_trao_tay_son",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ts_2",
+    "name": "1785 Trận Rạch Gầm - Xoài Mút ➔ Tiêu diệt 5 vạn quân xâm lược Xiêm",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phong_trao_tay_son",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ts_3",
+    "name": "1789 Đại thắng Ngọc Hồi - Đống Đa ➔ Quét sạch 29 vạn quân xâm lược Mãn Thanh",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phong_trao_tay_son",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_kinh_te_xvi_xviii",
+    "name": "Tình hình kinh tế Việt Nam thế kỉ XVI - XVIII",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_xvi_xviii",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_1_5",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Sự phát triển của đô thị và ngoại thương ở Đàng Trong và Đàng Ngoài thế kỉ XVI - XVIII.",
+        "answer": "1. Nhận diện & Né bẫy: XVI - XVIII. Né bẫy: Các đô thị sầm uất: Thăng Long (Kẻ Chợ), Phố Hiến (Hưng Yên), Hội An (Quảng Nam), Gia Định.\n2. Trích xuất dữ kiện: 'Thứ nhất Kinh kỳ, thứ nhì Phố Hiến'. Thương nhân Bồ Đào Nha, Hà Lan, Nhật Bản, Trung Quốc đến buôn bán.\n3. Lập luận logic: Ngoại thương phát triển thúc đẩy thủ công nghiệp và nông nghiệp hàng hóa phát triển.\n4. Kết luận: Tuy nhiên về sau chúa Trịnh, chúa Nguyễn thi hành chính sách bế quan tỏa cảng làm đô thị suy tàn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kt_1",
+    "name": "Nông nghiệp ➔ Đàng Trong phát triển mạnh nhờ khai hoang | Đàng Ngoài sa sút do thiên tai",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kinh_te_xvi_xviii",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kt_2",
+    "name": "Đô thị tiêu biểu ➔ Thăng Long (Kẻ Chợ), Phố Hiến (Đàng Ngoài) | Hội An, Thanh Hà (Đàng Trong)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kinh_te_xvi_xviii",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_van_hoa_quoc_ngu",
+    "name": "Văn hóa, tư tưởng và sự ra đời Chữ Quốc ngữ (XVI - XVIII)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_xvi_xviii",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_1_6",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Quá trình hình thành Chữ Quốc ngữ trong thế kỉ XVII và vai trò của nó đối với văn hóa Việt Nam.",
+        "answer": "1. Nhận diện & Né bẫy: Thế kỉ XVII. Né bẫy: Chữ Quốc ngữ do các giáo sĩ phương Tây (tiêu biểu A-lex-an-đơ đơ Rốt) dùng chữ cái La-tinh ghi âm tiếng Việt để truyền đạo.\n2. Trích xuất dữ kiện: Cuốn từ điển Việt - Bồ - La xuất bản năm 1651 tại Rô-ma.\n3. Lập luận logic: Ban đầu phục vụ truyền giáo Thiên Chúa giáo ➔ Về sau trở thành chữ viết chính thức của dân tộc nhờ tính tiện lợi, dễ học.\n4. Kết luận: Là bước ngoặt lớn trong lịch sử văn hóa chữ viết Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_vhquocngu_1",
+    "name": "Thế kỉ XVII ➔ Giáo sĩ phương Tây (A.de Rhodes) dùng ký tự La-tinh ghi âm tiếng Việt",
+    "type": "STEP",
+    "parentId": "lsdl8_les_van_hoa_quoc_ngu",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_vn_nha_nguyen",
+    "name": "Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_vietnam",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_bo_may_nha_nguyen",
+    "name": "Tổ chức bộ máy nhà nước và chính sách trị nước thời Nguyễn",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_nha_nguyen",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_2_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Cuộc cải cách hành chính của vua Minh Mạng (1831-1832) và ý nghĩa đối với sự thống nhất đất nước.",
+        "answer": "1. Nhận diện & Né bẫy: Vua Minh Mạng (1831-1832). Né bẫy: Minh Mạng chia cả nước thành 30 tỉnh và 1 phủ Thừa Thiên (bãi bỏ Bắc Thành và Gia Định Thành).\n2. Trích xuất dữ kiện: Đặt ra chức Tổng đốc, Tuần phủ cai trị các tỉnh. Ban hành Bộ Hoàng Việt luật lệ (Luật Gia Long).\n3. Lập luận logic: Thống nhất hoàn toàn bộ máy hành chính trung ương đến địa phương ➔ Tăng cường quyền lực chuyên chế tập trung của nhà vua.\n4. Kết luận: Đặt mô hình phân chia tỉnh cơ bản còn giá trị đến ngày nay.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_mm_1",
+    "name": "1802 Nguyễn Ánh lên ngôi (Gia Long) ➔ Lập nhà Nguyễn, đặt kinh đô tại Phú Xuân (Huế)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_bo_may_nha_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_mm_2",
+    "name": "1831-1832 Cải cách Minh Mạng ➔ Chia cả nước thành 30 tỉnh + 1 phủ Thừa Thiên",
+    "type": "STEP",
+    "parentId": "lsdl8_les_bo_may_nha_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_kt_xh_nha_nguyen",
+    "name": "Tình hình kinh tế, xã hội và các cuộc nổi dậy thời Nguyễn",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_nha_nguyen",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_2_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nguyên nhân khiến nông dân liên tục nổi dậy chống lại triều đình nhà Nguyễn nửa đầu thế kỉ XIX.",
+        "answer": "1. Nhận diện & Né bẫy: Nửa đầu XIX. Né bẫy: Các cuộc khởi nghĩa lớn: Phan Bác Vành, Nông Văn Vân, Lê Duy Lương, Cao Bá Quát.\n2. Trích xuất dữ kiện: Địa chủ quan lại cướp đoạt ruộng đất, thuế khóa nặng nề, thiên tai vỡ đê liên miên.\n3. Lập luận logic: Đời sống nhân dân đường cùng ➔ Bùng nổ hàng trăm cuộc khởi nghĩa nông dân chống chính quyền.\n4. Kết luận: Làm suy yếu bộ máy triều đình trước bối cảnh nguy cơ Pháp xâm lược.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ktnguyen_1",
+    "name": "Khởi nghĩa tiêu biểu ➔ Phan Bác Vành (Thái Bình) | Nông Văn Vân (Tuyên Quang) | Cao Bá Quát (Hà Nội)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_kt_xh_nha_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_vh_bien_dong_nguyen",
+    "name": "Thành tựu văn hóa và thực thi chủ quyền Biển Đông thời Nguyễn",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vn_nha_nguyen",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_2_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Các hoạt động thực thi chủ quyền đối với quần đảo Hoàng Sa và Trường Sa dưới thời nhà Nguyễn.",
+        "answer": "1. Nhận diện & Né bẫy: Thời Gia Long, Minh Mạng. Né bẫy: Nhà Nguyễn chính thức đưa Đội Hoàng Sa thành tổ chức quân sự nhà nước, dựng bia chủ quyền, vẽ bản đồ 'Đại Nam nhất thống toàn đồ'.\n2. Trích xuất dữ kiện: 1816 vua Gia Long sai quân lính ra Hoàng Sa cắm cờ, dựng bia chủ quyền. Vua Minh Mạng trồng cây, xây miếu, đo đạc hải trình.\n3. Lập luận logic: Khai thác tài nguyên + Khảo sát địa hình + Cắm mốc chủ quyền mang tính nhà nước chính thức.\n4. Kết luận: Đóng góp bằng chứng pháp lý lịch sử vô giá cho chủ quyền Biển Đông Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_vhnguyen_1",
+    "name": "Thành tựu vĩ đại ➔ Quần thể di tích Cố đô Huế | Nhã nhạc cung đình Huế | Truyện Kiều (Nguyễn Du)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_vh_bien_dong_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_vhnguyen_2",
+    "name": "1816 Vua Gia Long cắm cờ chủ quyền Hoàng Sa | 1838 Vẽ bản đồ Đại Nam nhất thống toàn đồ",
+    "type": "STEP",
+    "parentId": "lsdl8_les_vh_bien_dong_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_khang_chien_chong_phap_1858_1884",
+    "name": "Cuộc kháng chiến chống thực dân Pháp xâm lược (1858 - 1884)",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_vietnam",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_quatrinh_phap_xam_luoc",
+    "name": "Quá trình thực dân Pháp xâm lược Việt Nam (1858 - 1884)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khang_chien_chong_phap_1858_1884",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_3_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Quá trình Pháp xâm lược Việt Nam từ Đà Nẵng (1858) đến khi hoàn thành áp đặt bảo hộ qua Hiệp ước Pa-tơ-nốt (1884).",
+        "answer": "1. Nhận diện & Né bẫy: 1858 - 1884. Né bẫy: Pháp dùng chiến lược 'Đánh nhanh thắng nhanh' tại Đà Nẵng bị thất bại ➔ Phải chuyển sang 'Chinh phục từng gói nhỏ' (Đánh chiếm Nam Kỳ ➔ Bắc Kỳ).\n2. Trích xuất dữ kiện: 1/9/1858 Pháp nổ súng đánh Đà Nẵng. 1862 Hiệp ước Nhâm Tuất (mất 3 tỉnh Đông Nam Kỳ). 1874 Hiệp ước Giáp Tuất (mất 6 tỉnh Nam Kỳ). 1883 Hài-măng & 1884 Pa-tơ-nốt.\n3. Lập luận logic: Triều đình nhà Nguyễn nhu nhược, thỏa hiệp ký kết các hiệp ước hàng phục từng bước.\n4. Kết luận: Việt Nam từ quốc gia độc lập trở thành nước thuộc địa nửa phong kiến.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kc1_1",
+    "name": "1/9/1858 Pháp đánh Đà Nẵng ➔ Mở đầu xâm lược | Nguyễn Tri Phương làm phá sản 'Đánh nhanh thắng nhanh'",
+    "type": "STEP",
+    "parentId": "lsdl8_les_quatrinh_phap_xam_luoc",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kc1_2",
+    "name": "Các hiệp ước hàng phục ➔ 1862 (Nhâm Tuất) ➔ 1874 (Giáp Tuất) ➔ 1883 (Hài-măng) ➔ 1884 (Pa-tơ-nốt)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_quatrinh_phap_xam_luoc",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_trach_nhiem_nha_nguyen",
+    "name": "Trách nhiệm của triều đình nhà Nguyễn trong việc để mất nước",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khang_chien_chong_phap_1858_1884",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_3_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích trách nhiệm lịch sử của triều đình nhà Nguyễn trong việc để Việt Nam rơi vào tay Pháp.",
+        "answer": "1. Nhận diện & Né bẫy: Nửa sau thế kỉ XIX. Né bẫy: Không thể đổ lỗi toàn bộ cho đường lối vũ khí kém, nguyên nhân chính là đường lối bảo thủ, sợ dân hơn sợ Pháp.\n2. Trích xuất dữ kiện: Đường lối 'Bế quan tỏa cảng', cấm đạo bóp nghẹt kinh tế. Không chịu thực hiện cải cách canh tân. Đánh mất các cơ hội đánh Pháp khi Pháp gặp khó khăn.\n3. Lập luận logic: Triều đình chia rẽ (Pha chủ hòa $\\times$ Phe chủ chiến). Liên tục hy sinh quyền lợi dân tộc để bảo vệ quyền lợi dòng họ ➔ Ký kết các hiệp ước bán nước.\n4. Kết luận: Triều đình nhà Nguyễn phải chịu trách nhiệm chính trong việc làm mất độc lập dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_tn_1",
+    "name": "Sai lầm đối nội ➔ Chính sách bảo thủ, độc quyền kinh tế, đàn áp phong trào nhân dân ➔ Tự làm suy yếu sức mạnh khối đại đoàn kết dân tộc",
+    "type": "STEP",
+    "parentId": "lsdl8_les_trach_nhiem_nha_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_tn_2",
+    "name": "Sai lầm đối ngoại ➔ Nhu nhược, cầu hòa, ảo tưởng vào thương thuyết ➔ Bỏ mất nhiều thời cơ đánh Pháp",
+    "type": "STEP",
+    "parentId": "lsdl8_les_trach_nhiem_nha_nguyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_trao_luu_cai_cach",
+    "name": "Trào lưu cải cách, canh tân đất nước nửa sau thế kỉ XIX",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khang_chien_chong_phap_1858_1884",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_3_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Các sĩ phu tiêu biểu và nội dung chính của trào lưu cải cách canh tân đất nước nửa sau thế kỉ XIX.",
+        "answer": "1. Nhận diện & Né bẫy: Nửa sau XIX. Né bẫy: Nguyễn Trường Tộ (Sĩ phu Công giáo) đề xuất các bản 'Tế cấp điều trần'. Nguyễn Lộ Trạch (Thời trung sách).\n2. Trích xuất dữ kiện: Đề nghị mở cửa thương cảng, thuê chuyên gia phương Tây, phát triển kinh tế công thương, đổi mới giáo dục, quân sự.\n3. Lập luận logic: Các sĩ phu nhận thức được sự lạc hậu của đất nước và sự tự cường của phương Tây ➔ Đề xuất cải cách nhưng bị triều đình từ chối khước từ.\n4. Kết luận: Thể hiện lòng yêu nước sáng suốt, chuẩn bị tư tưởng cho chuyển biến đầu XX.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_cc_1",
+    "name": "Đại biểu tiêu biểu ➔ Nguyễn Trường Tộ (Tế cấp điều trần) | Bùi Viện | Nguyễn Lộ Trạch",
+    "type": "STEP",
+    "parentId": "lsdl8_les_trao_luu_cai_cach",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_pt_yeu_nuoc_cuoi_xix_dau_xx",
+    "name": "Phong trào yêu nước chống Pháp cuối thế kỉ XIX - đầu thế kỉ XX",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_ls_vietnam",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_phong_trao_can_vuong",
+    "name": "Phong trào Cần vương (1885 - 1896)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_pt_yeu_nuoc_cuoi_xix_dau_xx",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_4_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Bối cảnh bùng nổ, 2 giai đoạn phát triển và nguyên nhân thất bại của Phong trào Cần vương.",
+        "answer": "1. Nhận diện & Né bẫy: 1885 - 1896. Né bẫy: Đột biến phản công tại kinh thành Huế (5/7/1885) ➔ Tôn Thất Thuyết đưa Vua Hàm Nghi ra Tân Sở ban 'Chiếu Cần vương'.\n2. Trích xuất dữ kiện: Giai đoạn 1 (1885-1888): Bùng nổ rộng khắp cả nước dưới sự lãnh đạo của Vua Hàm Nghi. Giai đoạn 2 (1888-1896): Quy tụ thành các trung tâm lớn (Ba Đình, Bãi Sậy, Hương Khê).\n3. Lập luận logic: Hương Khê (Phan Đình Phùng) là cuộc khởi nghĩa tiêu biểu nhất (chế tạo được súng trường kiểu Pháp). Thất bại do thiếu đường lối giai cấp tiến bộ.\n4. Kết luận: Chấm dứt phong trào yêu nước theo phong kiến.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_cv_1",
+    "name": "13/7/1885 Tôn Thất Thuyết nhân danh Vua Hàm Nghi ban Chiếu Cần vương ➔ Kêu gọi giúp vua cứu nước",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phong_trao_can_vuong",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cv_2",
+    "name": "3 cuộc khởi nghĩa lớn ➔ Ba Đình (Phạm Bành, Đinh Công Tráng) | Bãi Sậy (Nguyễn Thiện Thuật) | Hương Khê (Phan Đình Phùng)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phong_trao_can_vuong",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_khoi_nghia_yen_the",
+    "name": "Khởi nghĩa nông dân Yên Thế (1884 - 1913)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_pt_yeu_nuoc_cuoi_xix_dau_xx",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_4_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Điểm khác biệt căn bản giữa Khởi nghĩa Yên Thế và các cuộc khởi nghĩa trong phong trào Cần vương.",
+        "answer": "1. Nhận diện & Né bẫy: 1884 - 1913. Né bẫy: Khởi nghĩa Yên Thế KHÔNG thuộc phongtrào Cần vương (xuất phát từ tự vệ giữ làng của nông dân, không chịu chiếu Cần vương).\n2. Trích xuất dữ kiện: Thủ lĩnh Đề Thắm (Hoàng Hoa Thám). Địa bàn vùng núi Yên Thế (Bắc Giang). Tồn tại suốt 30 năm nhờ lối đánh du kích hiểm hóc.\n3. Lập luận logic: Hai lần giảng hòa với Pháp (1894, 1897) để xây dựng đồn điền tích trữ lương thực.\n4. Kết luận: Là cuộc khởi nghĩa nông dân lớn nhất, kéo dài nhất chống Pháp thời kỳ tự vệ.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_yt_1",
+    "name": "Lãnh đạo ➔ Đề Nắm ➔ Hoàng Hoa Thám (Đề Thắm) | Mục tiêu ➔ Tự vệ giữ đất giữ làng của nông dân",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khoi_nghia_yen_the",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_khai_thac_thuoc_dia_1",
+    "name": "Cuộc khai thác thuộc địa lần thứ nhất của Pháp (1897 - 1914)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_pt_yeu_nuoc_cuoi_xix_dau_xx",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_4_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Những chuyển biến về kinh tế và giai cấp xã hội Việt Nam dưới tác động của Cuộc khai thác thuộc địa lần 1.",
+        "answer": "1. Nhận diện & Né bẫy: 1897 - 1914 (Toàn quyền Pôn Đô-me). Né bẫy: Kinh tế Việt Nam biến thành thị trường tiêu thụ và cung cấp nguyên liệu cho Pháp (vẫn là KTB phong kiến lạc hậu).\n2. Trích xuất dữ kiện: Xuất hiện các ngành kinh tế mới (Đường sắt, đồn điền cao su, mỏ than). Xuất hiện các giai cấp/tầng lớp mới: Công nhân, Tư sản, Tiểu tư sản.\n3. Lập luận logic: Tạo tiền đề kinh tế và xã hội cho việc tiếp thu các luồng tư tưởng cách mạng mới (Dân chủ tư sản và Vô sản).\n4. Kết luận: Mở ra thời kỳ vận động giải phóng dân tộc theo xu hướng mới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kt1_1",
+    "name": "Kinh tế ➔ Pháp cướp đoạt ruộng đất, khai thác mỏ, xây giao thông ➔ KTB nửa thuộc địa nửa phong kiến",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khai_thac_thuoc_dia_1",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kt1_2",
+    "name": "Phân hóa xã hội ➔ Cũ (Địa chủ, Nông dân) + Mới xuất hiện (Công nhân, Tư sản, Tiểu tư sản)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khai_thac_thuoc_dia_1",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_phan_boi_chau_phan_chau_trinh",
+    "name": "So sánh xu hướng bạo động (PBC) và duy tân (PCT)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_pt_yeu_nuoc_cuoi_xix_dau_xx",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_4_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: So sánh chủ trương, phương pháp cứu nước của Phan Bội Châu (Bạo động) và Phan Châu Trinh (Cải cách/Duy tân).",
+        "answer": "1. Nhận diện & Né bẫy: Đầu thế kỉ XX. Né bẫy: Cả hai ông đều yêu nước sâu sắc theo xu hướng Dân chủ tư sản nhưng khác biệt về con đường thực hiện.\n2. Trích xuất dữ kiện: Phan Bội Châu: Chủ trương Bạo động, thành lập Duy tân hội (1904), phong trào Đông Du (Nhật Bản). Phan Châu Trinh: Chủ trương 'Khai dân trí, nâng dân khí, hậu dân sinh', bãi bỏ quân chủ.\n3. Lập luận logic: PBC 'Đuổi hổ cửa trước, rước hùm cửa sau' (sợ Nhật). PCT 'Xin Pháp rủ lòng thương' (sợ bạo động). Cả 2 xu hướng đều lần lượt thất bại.\n4. Kết luận: Đặt ra yêu cầu phải tìm một con đường cứu nước mới cho dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ss_1",
+    "name": "Phan Bội Châu ➔ Bạo động vũ trang | Duy tân hội ➔ Phong trào Đông Du (Dựa vào Nhật)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phan_boi_chau_phan_chau_trinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ss_2",
+    "name": "Phan Châu Trinh ➔ Cải cách dân chủ | 'Khai dân trí, nâng dân khí, hậu dân sinh' (Dựa vào Pháp lật phong kiến)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_phan_boi_chau_phan_chau_trinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_nguyen_tat_thanh",
+    "name": "Hoạt động yêu nước của Nguyễn Tất Thành (1911 - 1917)",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_pt_yeu_nuoc_cuoi_xix_dau_xx",
+    "examples": [
+      {
+        "id": "ex_lsdl8_2_4_5",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Vì sao Nguyễn Tất Thành quyết định ra đi tìm đường cứu nước sang phương Tây (5/6/1911)?",
+        "answer": "1. Nhận diện & Né bẫy: Ngày 5/6/1911 tại Cảng Nhà Rồng (Sài Gòn) trên con tàu La-tu-sơ Trê-vin. Né bẫy: Khác với các bậc tiền bối sang phương Đông (Nhật, TQ), Bác sang phương Tây (Pháp) để xem họ làm thế nào rồi về giúp đồng bào.\n2. Trích xuất dữ kiện: Khâm phục tinh thần yêu nước của PBC, PCT nhưng không tán thành con đường của họ.\n3. Lập luận logic: Đi qua nhiều châu lục (Mỹ, Anh, Pháp) ➔ Lao động và tìm hiểu thực tế ➔ Nhận ra bản chất của đế quốc tư bản ở đâu bọn thực dân cũng tàn bạo, ở đâu người nghèo cũng bị khổ cực, bóc lột.\n4. Kết luận: Bước khởi đầu quan trọng cho hành trình tìm ra con đường cứu nước đúng đắn cho dân tộc.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ntt_1",
+    "name": "5/6/1911 Nguyễn Tất Thành (Văn Ba) rời Cảng Nhà Rồng sang phương Tây tìm đường cứu nước",
+    "type": "STEP",
+    "parentId": "lsdl8_les_nguyen_tat_thanh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_vi_tri_dia_hinh",
+    "name": "Vị trí địa lý, phạm vi lãnh thổ và địa hình Việt Nam",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_dia_ly_tu_nhien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_vi_tri_pham_vi",
+    "name": "Phân tích đặc điểm vị trí địa lý và phạm vi lãnh thổ",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vi_tri_dia_hinh",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_1_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích ảnh hưởng của vị trí địa lý nội chí tuyến và giáp Biển Đông đến tính chất tự nhiên Việt Nam.",
+        "answer": "1. Nhận diện & Né bẫy: Tọa độ $8^\\circ 34'B - 23^\\circ 22'B$, $102^\\circ 09'Đ - 109^\\circ 24'Đ$. Né bẫy: Nhờ giáp Biển Đông nên khí hậu Việt Nam không bị khô hạn như các nước cùng vĩ độ ở Bắc Phi.\n2. Trích xuất dữ kiện: Nằm hoàn toàn trong vùng nội chí tuyến Bắc bán cầu ➔ Nhiệt độ trung bình năm $>20^\\circ C$, nhiều nắng. Nằm trong khu vực gió mùa Châu Á.\n3. Lập luận logic: Tọa độ nội chí tuyến $\\rightarrow$ Bức xạ nhiệt lớn. Giáp Biển Đông $\\rightarrow$ Mang lại độ ẩm cao, lượng mưa lớn ($1500 - 2000mm$).\n4. Kết luận: Tạo nên tính chất nhiệt đới ẩm gió mùa độc đáo của thiên nhiên Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_vt_1",
+    "name": "Tọa độ ➔ $8^\\circ 34'B \\rightarrow 23^\\circ 22'B$ (Nội chí tuyến) | $102^\\circ 09'Đ \\rightarrow 109^\\circ 24'Đ$",
+    "type": "STEP",
+    "parentId": "lsdl8_les_vi_tri_pham_vi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_vt_2",
+    "name": "Hệ quả ➔ Khí hậu Nhiệt đới ẩm gió mùa | Thiên nhiên phân hóa đa dạng | Vùng giao thoa sinh vật",
+    "type": "STEP",
+    "parentId": "lsdl8_les_vi_tri_pham_vi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_dac_diem_dia_hinh",
+    "name": "Giải thích đặc điểm chung của địa hình Việt Nam",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vi_tri_dia_hinh",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_1_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Chứng minh 4 đặc điểm chung nổi bật của địa hình Việt Nam.",
+        "answer": "1. Nhận diện & Né bẫy: Toàn lãnh thổ Việt Nam. Né bẫy: Đồi núi chiếm $\\frac{3}{4}$ diện tích nhưng chủ yếu là đồi núi thấp dưới $1000m$ (chiếm $85\\%$).\n2. Trích xuất dữ kiện: Đồi núi chiếm $\\frac{3}{4}$, đồng bằng chiếm $\\frac{1}{4}$. Cấu trúc địa hình phân bậc (Cổ kiến tạo ➔ Tân kiến tạo nâng lên). Hướng nghiêng Tây Bắc - Đông Nam.\n3. Lập luận logic: Tác động của khí hậu nhiệt đới ẩm gió mùa ➔ Tốc độ phong hóa mạnh, tạo địa hình Karst và xâm thực rửa trôi.\n4. Kết luận: Địa hình Việt Nam mang tính chất nhiệt đới ẩm gió mùa và chịu tác động mạnh của con người.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_dh_1",
+    "name": "Đặc điểm 1 ➔ Đồi núi chiếm $\\frac{3}{4}$ diện tích | Đồi núi thấp ($<1000m$) chiếm $85\\%$",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_dia_hinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_dh_2",
+    "name": "Đặc điểm 2 ➔ Cấu trúc nghiêng Tây Bắc - Đông Nam | Phân bậc rõ rệt theo Tân kiến tạo",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_dia_hinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_cac_khu_vuc_dia_hinh",
+    "name": "So sánh đặc điểm tự nhiên các khu vực địa hình",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vi_tri_dia_hinh",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_1_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: So sánh đặc điểm địa hình vùng núi Đông Bắc và Tây Bắc.",
+        "answer": "1. Nhận diện & Né bẫy: Miền Bắc Việt Nam. Né bẫy: Đông Bắc = núi thấp hướng cánh cung; Tây Bắc = núi cao hiểm trở hướng Tây Bắc - Đông Nam.\n2. Trích xuất dữ kiện: Đông Bắc có 4 cánh cung lớn (Sông Gâm, Ngân Sơn, Bắc Sơn, Đông Triều). Tây Bắc có dãy Hoàng Liên Sơn cao nhất nước ($3143m$).\n3. Lập luận logic: Hướng núi cánh cung Đông Bắc mở rộng về phía Bắc ➔ Hút gió mùa Đông Bắc làm mùa đông lạnh nhất nước. Hướng TB-ĐN Tây Bắc chắn gió ➔ Mùa đông ngắn hơn.\n4. Kết luận: Sự khác biệt hướng núi tạo nên sự phân hóa khí hậu rõ rệt giữa 2 vùng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kv_1",
+    "name": "Đông Bắc ➔ Núi thấp ưu thế | 4 Cánh cung (Sông Gâm, Ngân Sơn, Bắc Sơn, Đông Triều) chụm ở Tam Đảo",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cac_khu_vuc_dia_hinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kv_2",
+    "name": "Tây Bắc ➔ Đỉnh Fansipan $3143m$ | Núi cao đồ sộ nhất | Hướng Tây Bắc - Đông Nam",
+    "type": "STEP",
+    "parentId": "lsdl8_les_cac_khu_vuc_dia_hinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_anh_huong_dia_hinh",
+    "name": "Đánh giá ảnh hưởng địa hình đến tự nhiên và kinh tế",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_vi_tri_dia_hinh",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_1_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Đánh giá những thuận lợi và khó khăn của địa hình đồi núi đối với phát triển kinh tế - xã hội.",
+        "answer": "1. Nhận diện & Né bẫy: Vùng núi Việt Nam. Né bẫy: Thuận lợi lớn nhất là tiềm năng thủy điện, khoáng sản, cây công nghiệp; khó khăn lớn nhất là giao thông và thiên tai sạt lở.\n2. Trích xuất dữ kiện: Đất Feralit vùng đồi núi thích hợp trồng cây công nghiệp lâu năm (cà phê, chè, cao su). Sông ngòi dốc có tiềm năng thủy điện lớn.\n3. Lập luận logic: Địa hình chia cắt mạnh ➔ Giao thông khó khăn, chi phí đầu tư hạ tầng cao, thường xuyên xảy ra lũ quét, sạt lở đất.\n4. Kết luận: Cần phát triển kinh tế đi đôi với bảo vệ môi trường và phòng chống thiên tai.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ahdh_1",
+    "name": "Thuận lợi ➔ Thủy điện (Sông Đà) + Khoáng sản + Cây công nghiệp + Du lịch nghỉ dưỡng",
+    "type": "STEP",
+    "parentId": "lsdl8_les_anh_huong_dia_hinh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_khoang_san",
+    "name": "Tài nguyên khoáng sản Việt Nam",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_dia_ly_tu_nhien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_dac_diem_khoang_san",
+    "name": "Phân tích đặc điểm chung của khoáng sản Việt Nam",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khoang_san",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_2_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Vì sao nói Việt Nam là quốc gia có tài nguyên khoáng sản phong phú, đa dạng nhưng trữ lượng vừa và nhỏ?",
+        "answer": "1. Nhận diện & Né bẫy: Toàn bộ khoáng sản Việt Nam. Né bẫy: Dù đa dạng (hơn 5000 mỏ của 60 loại khoáng sản), phần lớn các mỏ có trữ lượng vừa và nhỏ, các mỏ có trữ lượng lớn tập trung ở một số khoáng sản chiến lược (Than, Dầu khí, Bô-xít, A-pa-tít, Sắt).\n2. Trích xuất dữ kiện: Vị trí giao thoa giữa 2 vành đai sinh khoáng Địa Trung Hải và Thái Bình Dương.\n3. Lập luận logic: Đã trải qua lịch sử địa chất phức tạp kéo dài hàng trăm triệu năm ➔ Hình thành nhiều loại khoáng sản khác nhau.\n4. Kết luận: Là cơ sở quan trọng để phát triển các ngành công nghiệp nền tảng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ks_1",
+    "name": "Đặc điểm ➔ Phong phú loài ($>60$ loại) | Trữ lượng phần lớn vừa và nhỏ",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_khoang_san",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ks_2",
+    "name": "Mỏ trữ lượng lớn ➔ Than đá (Quảng Ninh) | Bô-xít (Tây Nguyên) | A-pa-tít (Lào Cai) | Dầu khí (Thềm lục địa Nam)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_khoang_san",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_su_dung_khoang_san",
+    "name": "Khai thác và sử dụng hợp lý tài nguyên khoáng sản",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khoang_san",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_2_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nêu thực trạng khai thác khoáng sản hiện nay và đề xuất giải pháp sử dụng hợp lý.",
+        "answer": "1. Nhận diện & Né bẫy: Thực trạng Việt Nam. Né bẫy: Khai thác trái phép, xuất khẩu thô gây lãng phí tài nguyên và ô nhiễm môi trường.\n2. Trích xuất dữ kiện: Khoáng sản là tài nguyên không tái tạo. Khai thác than, quặng sắt, cát sỏi làm xói mòn, sạt lở.\n3. Lập luận logic: Cần chế biến sâu thay vì xuất khẩu thô ➔ Áp dụng công nghệ khai thác sạch ➔ Luật hóa công tác quản lý mỏ.\n4. Kết luận: Đảm bảo an ninh tài nguyên cho sự phát triển bền vững.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_sdks_1",
+    "name": "Giải pháp ➔ Khai thác tiết kiệm | Chế biến sâu | Bảo vệ môi trường mỏ | Tìm năng lượng tái tạo thay thế",
+    "type": "STEP",
+    "parentId": "lsdl8_les_su_dung_khoang_san",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_khi_hau_thuy_van",
+    "name": "Khí hậu và thủy văn Việt Nam",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_dia_ly_tu_nhien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_dac_diem_khi_hau",
+    "name": "Phân tích đặc điểm khí hậu nhiệt đới ẩm gió mùa",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khi_hau_thuy_van",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_3_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích hoạt động của Gió mùa Đông Bắc và Gió mùa Tây Nam đối với khí hậu hai miền Nam - Bắc.",
+        "answer": "1. Nhận diện & Né bẫy: Khí hậu Việt Nam. Né bẫy: Gió mùa Đông Bắc chỉ hoạt động ở miền Bắc (từ đèo Hải Vân trở ra $16^\\circ B$), miền Nam không có mùa đông lạnh mà có mùa khô bốc hơi mạnh.\n2. Trích xuất dữ kiện: Gió mùa Đông Bắc (tháng 11 - 4 năm sau): Nửa đầu mùa đông lạnh khô, nửa sau lạnh ẩm mưa phun. Gió mùa Tây Nam (tháng 5 - 10): Mưa nhiều cho toàn quốc, gây hiệu ứng Phơn khô nóng ở Bắc Trung Bộ.\n3. Lập luận logic: Sự luân phiên gió mùa tạo nên sự phân mùa khí hậu: Bắc Bộ 4 mùa, Nam Bộ 2 mùa (Mưa - Khô).\n4. Kết luận: Khí hậu Việt Nam vừa có tính chất chung vừa phân hóa đa dạng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ddkh_1",
+    "name": "Nhiệt đới ẩm ➔ Nhiệt độ trung bình $>20^\\circ C$ | Cán cân bức xạ dương | Lượng mưa $1500-2000mm$",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ddkh_2",
+    "name": "Gió mùa Đông Bắc (T11-T4) ➔ Lạnh khô (Đầu mùa) $\\rightarrow$ Lạnh ẩm mưa phun (Cuối mùa) ở Miền Bắc",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kh_3",
+    "name": "Gió mùa Tây Nam (T5-T10) ➔ Nóng ẩm Mưa nhiều toàn quốc | Gây gió Phơn khô nóng Trung Bộ",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_bieu_do_khi_hau",
+    "name": "Kỹ năng phân tích biểu đồ nhiệt độ và lượng mưa",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khi_hau_thuy_van",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_3_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Cho bảng số liệu nhiệt độ và lượng mưa trạm Hà Nội. Phân tích đặc điểm khí hậu trạm Hà Nội.",
+        "answer": "1. Nhận diện & Né bẫy: Hà Nội (Miền Bắc). Bước 1: Tính nhiệt độ trung bình năm và biên độ nhiệt $\\Delta T = T_{max} - T_{min}$.\n2. Trích xuất dữ kiện: $T_{max}$ vào tháng 6-7 ($>29^\\circ C$), $T_{min}$ vào tháng 1 ($<17^\\circ C$) ➔ Biên độ nhiệt cao ($\\Delta T > 12^\\circ C$) do có mùa đông lạnh. Mùa mưa tập trung tháng 5 đến tháng 10 ($>80\\%$ lượng mưa năm).\n3. Lập luận logic: Có mùa đông lạnh (3 tháng nhiệt độ $<18^\\circ C$) kết hợp gió mùa Đông Bắc.\n4. Kết luận: Hà Nội thuộc vùng khí hậu nhiệt đới ẩm gió mùa có mùa đông lạnh.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_bd_1",
+    "name": "Tính Nhiệt độ ➔ T_{tb} = (Tổng nhiệt độ 12 tháng) / 12 | Biên độ nhiệt \\Delta T = T_{max} - T_{min}",
+    "type": "STEP",
+    "parentId": "lsdl8_les_bieu_do_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_bd_2",
+    "name": "Phân tích Mưa ➔ Tổng lượng mưa $\\sum R$ | Tháng mưa nhiều nhất ($R > 100mm$) & Tháng cực đại",
+    "type": "STEP",
+    "parentId": "lsdl8_les_bieu_do_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_bd_3",
+    "name": "Quy tắc nhận diện ➔ Miền Bắc (Mùa đông lạnh $\\Delta T > 10^\\circ C$) | Miền Nam (Nóng quanh năm $\\Delta T < 3^\\circ C$)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_bieu_do_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_dac_diem_song_ngoi",
+    "name": "Phân tích đặc điểm mạng lưới sông ngòi và chế độ nước",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khi_hau_thuy_van",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_3_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Chứng minh 4 đặc điểm chung của sông ngòi Việt Nam và giải thích nguyên nhân.",
+        "answer": "1. Nhận diện & Né bẫy: Sông ngòi Việt Nam. Né bẫy: Mạng lưới dày đặc (2360 con sông dài $>10km$) nhưng phần lớn là sông nhỏ, ngắn và dốc.\n2. Trích xuất dữ kiện: Hướng chảy chính: Tây Bắc - Đông Nam (Sông Hồng, Sông Mã, Sông Đà) và Cánh cung (Sông Lô, Sông Cầu, Sông Thương).\n3. Lập luận logic: Chế độ nước sông theo mùa (Mùa lũ chiếm $70-80\\%$ lượng nước) trùng khớp hoàn toàn với mùa mưa khí hậu.\n4. Kết luận: Sông ngòi nhiều nước, giàu phù sa ($200$ triệu tấn/năm).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_sn_1",
+    "name": "4 Đặc điểm ➔ Mạng lưới dày đặc | Chế độ nước theo mùa | Nhiều nước giàu phù sa | Sông ngắn dốc",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_song_ngoi",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_vai_tro_nuoc_khi_hau",
+    "name": "Đánh giá vai trò của tài nguyên khí hậu và tài nguyên nước",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_khi_hau_thuy_van",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_3_4",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Đánh giá vai trò của khí hậu và nước đối với phát triển nông nghiệp Việt Nam.",
+        "answer": "1. Nhận diện & Né bẫy: Nông nghiệp Việt Nam. Né bẫy: Thuận lợi phát triển nông nghiệp nhiệt đới (xen canh, tăng vụ) nhưng khó khăn do sâu bệnh, bão lũ thất thường.\n2. Trích xuất dữ kiện: Khí hậu cho phép trồng cây nhiệt đới quanh năm, miền Bắc có mùa đông trồng được cây cận nhiệt và ôn đới (bắp cải, su hào, chè).\n3. Lập luận logic: Nguồn nước dồi dào từ sông ngòi, hồ đầm phục vụ tưới tiêu lúa nước.\n4. Kết luận: Giúp Việt Nam trở thành nước xuất khẩu nông sản top đầu thế giới.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_vtkh_1",
+    "name": "Thuận lợi ➔ Trồng trọt quanh năm, đa dạng hóa cơ cấu cây trồng (Nhiệt đới + Cận nhiệt)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_vai_tro_nuoc_khi_hau",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_bien_doi_khi_hau",
+    "name": "Biến đổi khí hậu và ứng phó BDKH tại Việt Nam",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_dia_ly_tu_nhien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_tac_dong_bdkh",
+    "name": "Phân tích biểu hiện và tác động của biến đổi khí hậu",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_bien_doi_khi_hau",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_4_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nêu các biểu hiện chính của biến đổi khí hậu ở Việt Nam và tác động đến Đồng bằng sông Cửu Long.",
+        "answer": "1. Nhận diện & Né bẫy: BDKH tại Việt Nam. Né bẫy: ĐBSCL bị ảnh hưởng nặng nề nhất do hiện tượng nước biển dâng và xâm nhập mặn.\n2. Trích xuất dữ kiện: Nhiệt độ trung bình tăng, các hiện tượng thời tiết cực đoan (bão mạnh, hạn hán, lũ quét) tăng tần suất.\n3. Lập luận logic: Nước biển dâng $\\rightarrow$ Ngập lụt vùng đất thấp ĐBSCL $\\rightarrow$ Xâm nhập mặn sâu vào nội đồng ➔ Đe dọa an ninh lương thực.\n4. Kết luận: BDKH là thách thức nghiêm trọng nhất đối với phát triển bền vững.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_bdkh_1",
+    "name": "Biểu hiện ➔ Nhiệt độ tăng | Mực nước biển dâng | Bão, hạn hán cực đoan gia tăng tần suất",
+    "type": "STEP",
+    "parentId": "lsdl8_les_tac_dong_bdkh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_giai_phap_bdkh",
+    "name": "Đề xuất giải pháp ứng phó biến đổi khí hậu",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_bien_doi_khi_hau",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_4_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân biệt giải pháp giảm nhẹ và giải pháp thích ứng với biến đổi khí hậu.",
+        "answer": "1. Nhận diện & Né bẫy: Giải pháp BDKH. Né bẫy: Giảm nhẹ = cắt giảm phát thải khí nhà kính (trồng rừng, năng lượng sạch); Thích ứng = sống chung và giảm thiệt hại (đê biển, giống cây chịu mặn).\n2. Trích xuất dữ kiện: Giảm nhẹ: Chuyển đổi năng lượng tái tạo (điện gió, điện mặt trời). Thích ứng: Chuyển đổi cơ cấu mùa vụ, xây đê bao chống ngập.\n3. Lập luận logic: Phải kết hợp đồng bộ cả 2 nhóm giải pháp.\n4. Kết luận: Đảm bảo chủ động ứng phó lâu dài.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_gpb_1",
+    "name": "Giảm nhẹ ➔ Cắt giảm khí nhà kính | Trồng rừng đầu nguồn & Rừng ngập mặn | Năng lượng sạch",
+    "type": "STEP",
+    "parentId": "lsdl8_les_giai_phap_bdkh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_gpb_2",
+    "name": "Thích ứng ➔ Chuyển đổi cây trồng chịu mặn | Củng cố đê biển | Quy hoạch lại dân cư",
+    "type": "STEP",
+    "parentId": "lsdl8_les_giai_phap_bdkh",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_tho_duong_sinh_vat",
+    "name": "Thổ dưỡng và sinh vật Việt Nam",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_dia_ly_tu_nhien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_dac_diem_dat",
+    "name": "Đặc điểm 3 nhóm đất chính ở Việt Nam",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_tho_duong_sinh_vat",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_5_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: So sánh đặc điểm, phân bố của nhóm đất Feralit và nhóm đất Phù sa ở Việt Nam.",
+        "answer": "1. Nhận diện & Né bẫy: Thổ dưỡng Việt Nam. Né bẫy: Đất Feralit chiếm $65\\%$ diện tích (vùng đồi núi); Đất Phù sa chiếm $24\\%$ diện tích (vùng đồng bằng).\n2. Trích xuất dữ kiện: Đất Feralit có màu đỏ vàng do tích tụ oxit sắt và nhôm, dễ bị rửa trôi. Đất Phù sa phì nhiêu do sông ngòi bồi đắp.\n3. Lập luận logic: Feralit phù hợp trồng cây công nghiệp lâu năm. Phù sa phù hợp trồng lúa nước và cây thực phẩm.\n4. Kết luận: Hai nhóm đất chính đóng vai trò cốt lõi cho sản xuất nông nghiệp.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_dat_1",
+    "name": "Đất Feralit ($65\\%$) ➔ Vùng đồi núi | Màu đỏ vàng | Chua, tích tụ $Fe_2O_3, Al_2O_3$ | Trồng cây công nghiệp",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_dat",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_dat_2",
+    "name": "Đất Phù sa ($24\\%$) ➔ Vùng đồng bằng | Màu mỡ phì nhiêu | Trồng lúa nước & cây ngắn ngày",
+    "type": "STEP",
+    "parentId": "lsdl8_les_dac_diem_dat",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_bao_ve_dat",
+    "name": "Phân tích vấn đề chống thoái hóa đất",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_tho_duong_sinh_vat",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_5_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Nêu các nguyên nhân gây thoái hóa đất ở đồi núi và đồng bằng, đề xuất biện pháp bảo vệ.",
+        "answer": "1. Nhận diện & Né bẫy: Thoái hóa đất. Né bẫy: Đồi núi bị rửa trôi, xói mòn, đá sa hóa; Đồng bằng bị chua hóa, mặn hóa, ô nhiễm hóa chất.\n2. Trích xuất dữ kiện: Đồi núi: Chặt phá rừng làm nương rẫy. Đồng bằng: Lạm dụng phân bón hóa học, tưới tiêu không hợp lý.\n3. Lập luận logic: Biện pháp đồi núi: Trồng rừng, làm ruộng bậc thang, canh tác theo đường đồng mức. Đồng bằng: Bón phân hữu cơ, rửa mặn rửa chua.\n4. Kết luận: Bảo vệ đất là bảo vệ tư liệu sản xuất nông nghiệp quan trọng nhất.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_bvdat_1",
+    "name": "Đồi núi ➔ Ruộng bậc thang + Trồng rừng + Canh tác theo đường đồng mức chống rửa trôi",
+    "type": "STEP",
+    "parentId": "lsdl8_les_bao_ve_dat",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_da_dang_sinh_vat",
+    "name": "Đặc điểm đa dạng sinh học và bảo vệ đa dạng sinh học",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_tho_duong_sinh_vat",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_5_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Chứng minh tính đa dạng sinh học ở Việt Nam và nêu các biện pháp bảo vệ.",
+        "answer": "1. Nhận diện & Né bẫy: Sinh vật Việt Nam. Né bẫy: Đa dạng biểu hiện ở 3 cấp độ: Đa dạng hệ sinh thái, Đa dạng loài, Đa dạng nguồn gen.\n2. Trích xuất dữ kiện: Thảm thực vật rừng nhiệt đới gió mùa chiếm ưu thế. Nhiều loài động thực vật quý hiếm nằm trong Sách Đỏ.\n3. Lập luận logic: Nguyên nhân suy giảm: Khai thác quá mức, ô nhiễm môi trường, biến đổi khí hậu ➔ Biện pháp: Lập Vườn quốc gia, Khu bảo tồn thiên nhiên, cấm săn bắt trái phép.\n4. Kết luận: Bảo tồn đa dạng sinh học là giải pháp bảo vệ cân bằng sinh thái.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_sv_1",
+    "name": "3 Cấp độ ➔ Hệ sinh thái (Rừng kín thường xanh, Rừng ngập mặn) | Đa dạng loài | Đa dạng gen",
+    "type": "STEP",
+    "parentId": "lsdl8_les_da_dang_sinh_vat",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_dia_ly_bien_dao",
+    "name": "Địa lý Biển đảo Việt Nam",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_dia_ly_tu_nhien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_pham_vi_bien_dong",
+    "name": "Trình bày phạm vi Biển Đông và đặc điểm tự nhiên vùng biển",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_dia_ly_bien_dao",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_6_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Khái quát diện tích, phạm vi Biển Đông và các đặc điểm tự nhiên hải văn.",
+        "answer": "1. Nhận diện & Né bẫy: Biển Đông. Né bẫy: Biển Đông là biển tương đối kín, rộng $3,447$ triệu $km^2$ (vùng biển Việt Nam rộng khoảng $1$ triệu $km^2$).\n2. Trích xuất dữ kiện: Nhiệt độ nước biển tầng mặt cao ($>23^\\circ C$), sóng biển mạnh vào mùa gió đông bắc. Chế độ thủy triều đa dạng (Bán nhật triều, Nhật triều điển hình ở Vịnh Bắc Bộ).\n3. Lập luận logic: Biển Đông làm dịu mát khí hậu mùa hạ, ấm áp mùa đông ➔ Mang lại nguồn lợi hải sản khổng lồ.\n4. Kết luận: Có vị trí chiến lược kinh tế và an ninh quốc phòng quan trọng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_pvbd_1",
+    "name": "Quy mô ➔ Biển Đông rộng $3,447$ triệu $km^2$ | Vùng biển Việt Nam khoảng $1$ triệu $km^2$",
+    "type": "STEP",
+    "parentId": "lsdl8_les_pham_vi_bien_dong",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_tai_nguyen_bien",
+    "name": "Đánh giá môi trường, tài nguyên biển đảo và giải pháp bảo vệ",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_dia_ly_bien_dao",
+    "examples": [
+      {
+        "id": "ex_lsdl8_3_6_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Kể tên 4 nguồn tài nguyên biển đảo chính và đề xuất biện pháp bảo vệ môi trường biển.",
+        "answer": "1. Nhận diện & Né bẫy: Môi trường biển. Né bẫy: 4 tài nguyên chính: Sinh vật biển (cá, tôm) + Khoáng sản (Dầu khí, cát thủy tinh, muối) + Du lịch biển + Giao thông vận tải biển.\n2. Trích xuất dữ kiện: Thực trạng suy giảm tài nguyên hải sản ven bờ, ô nhiễm rác thải nhựa và sự cố tràn dầu.\n3. Lập luận logic: Cần đánh bắt xa bờ ➔ Xử lý nước thải công nghiệp trước khi xả ra biển ➔ Bảo vệ rừng ngập mặn và rạn san hô.\n4. Kết luận: Khai thác bền vững gắn liền với bảo vệ an ninh chủ quyền.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_bien_1",
+    "name": "4 Nguồn tài nguyên ➔ Sinh vật (Hải sản) | Khoáng sản (Dầu khí, Muối) | Du lịch biển | GTVT biển",
+    "type": "STEP",
+    "parentId": "lsdl8_les_tai_nguyen_bien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_van_minh_chau_tho",
+    "name": "Văn minh châu thổ sông Hồng và sông Cửu Long",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_chu_de_chung",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_hinh_thanh_chau_tho",
+    "name": "Quá trình hình thành châu thổ và chế độ nước Sông Hồng, Sông Cửu Long",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_van_minh_chau_tho",
+    "examples": [
+      {
+        "id": "ex_lsdl8_4_1_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: So sánh quá trình hình thành châu thổ và chế độ nước của hệ thống Sông Hồng và Sông Cửu Long.",
+        "answer": "1. Nhận diện & Né bẫy: Châu thổ Sông Hồng & ĐBSCL. Né bẫy: Sông Hồng có đê bao ngăn lũ triệt để; Sông Cửu Long không có đê bao, sống chung với lũ điều hòa bởi Biển Hồ.\n2. Trích xuất dữ kiện: Châu thổ Sông Hồng ($15000km^2$) địa hình cao ở rìa, thấp ở trung tâm. ĐBSCL ($40000km^2$) địa hình bằng phẳng, nhiều kênh rạch.\n3. Lập luận logic: Sông Hồng lũ lên nhanh đột ngột ➔ Người dân phải đắp đê ngăn lũ. Sông Cửu Long lũ lên chậm và ôn hòa ➔ Người dân tận dụng mùa nước nổi để đánh bắt hải sản và xả chua rửa mặn.\n4. Kết luận: Tạo nên 2 vùng văn minh sông nước đặc sắc mang tính chất thích ứng tự nhiên.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_ct_1",
+    "name": "Châu thổ Sông Hồng ➔ Đắp đê trị thủy | Lũ lên nhanh thất thường | Văn minh sông Hồng gắn liền đê điều",
+    "type": "STEP",
+    "parentId": "lsdl8_les_hinh_thanh_chau_tho",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_ct_2",
+    "name": "ĐBSCL ➔ Sống chung với lũ | Chế độ nước ôn hòa nhờ Biển Hồ | Mùa nước nổi mang phù sa & tôm cá",
+    "type": "STEP",
+    "parentId": "lsdl8_les_hinh_thanh_chau_tho",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_khai_khan_chau_tho",
+    "name": "So sánh quá trình con người khai khẩn, chế ngự và thích ứng nguồn nước",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_van_minh_chau_tho",
+    "examples": [
+      {
+        "id": "ex_lsdl8_4_1_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích sự khác biệt trong phương thức ứng xử với nguồn nước của cư dân hai vùng châu thổ.",
+        "answer": "1. Nhận diện & Né bẫy: Cư dân 2 châu thổ. Né bẫy: Sông Hồng = 'Trị thủy, đắp đê ngăn lũ'; Sông Cửu Long = 'Thích ứng, sống chung với lũ'.\n2. Trích xuất dữ kiện: Hệ thống đê Sông Hồng dài hàng nghìn km bảo vệ đồng bằng. ĐBSCL đào hệ thống kênh rạch để thau chua rửa mặn, dẫn nước ngọt, xây nhà sàn đón lũ.\n3. Lập luận logic: Sự khác biệt về tính chất thủy văn quy định tập quán sinh hoạt, sản xuất và kiến trúc nhà ở.\n4. Kết luận: Thể hiện sự sáng tạo đỉnh cao của con người Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_kk_1",
+    "name": "Sông Hồng ➔ Biện pháp cứng: Hệ thống đê kiên cố ➔ Tạo đồng bằng ô lặn",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khai_khan_chau_tho",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_kk_2",
+    "name": "Sông Cửu Long ➔ Biện pháp mềm: Đào kênh rạch, nhà sàn, giao thông xuồng ghe ➔ Kinh tế mùa nước nổi",
+    "type": "STEP",
+    "parentId": "lsdl8_les_khai_khan_chau_tho",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_top_bao_ve_chu_quyen_bien_dao",
+    "name": "Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp ở Biển Đông",
+    "type": "TOPIC",
+    "parentId": "lsdl8_cat_chu_de_chung",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_luat_bien_unclos",
+    "name": "Xác định các vùng biển Việt Nam theo UNCLOS 1982 & Luật Biển VN",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_bao_ve_chu_quyen_bien_dao",
+    "examples": [
+      {
+        "id": "ex_lsdl8_4_2_1",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Trình bày phạm vi, quy chế pháp lý của 5 vùng biển Việt Nam theo Công ước UNCLOS 1982.",
+        "answer": "1. Nhận diện & Né bẫy: 5 Vùng biển Việt Nam. Né bẫy: Từ bờ ra ngoài gồm: Nội thủy ➔ Lãnh hải ($12$ hải lý) ➔ Vùng tiếp giáp lãnh hải ($12$ hải lý tiếp) ➔ Vùng đặc quyền kinh tế ($200$ hải lý từ đường cơ sở) ➔ Thềm lục địa.\n2. Trích xuất dữ kiện: Lãnh hải có chủ quyền hoàn toàn đầy đủ như trên đất liền. Vùng đặc quyền kinh tế Việt Nam có quyền chủ quyền về tài nguyên nhưng các nước khác được tự do hàng hải.\n3. Lập luận logic: Xác định đúng đường cơ sở làm căn cứ tính chiều rộng các vùng biển.\n4. Kết luận: Cung cấp cơ sở pháp lý quốc tế vững chắc để bảo vệ chủ quyền biển đảo.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_lb_1",
+    "name": "5 Vùng biển ➔ Nội thủy | Lãnh hải ($12$ hải lý) | Tiếp giáp lãnh hải ($12$ hải lý) | Đặc quyền kinh tế ($200$ hải lý) | Thềm lục địa",
+    "type": "STEP",
+    "parentId": "lsdl8_les_luat_bien_unclos",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_thuan_loi_kho_khan_bien",
+    "name": "Đánh giá thuận lợi, khó khăn phát triển kinh tế và bảo vệ chủ quyền",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_bao_ve_chu_quyen_bien_dao",
+    "examples": [
+      {
+        "id": "ex_lsdl8_4_2_2",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Phân tích vị trí chiến lược của Biển Đông đối với quốc phòng an ninh Việt Nam.",
+        "answer": "1. Nhận diện & Né bẫy: Vị trí chiến lược Biển Đông. Né bẫy: Biển Đông là tuyến đường hàng hải huyết mạch thứ 2 thế giới nối Thái Bình Dương và Ấn Độ Dương.\n2. Trích xuất dữ kiện: Hệ thống hàng nghìn đảo và quần đảo (tiêu biểu Hoàng Sa, Trường Sa) tạo thành tuyến phòng thủ hướng biển vĩnh cửu.\n3. Lập luận logic: Bảo vệ biển đảo là bảo vệ không gian sinh tồn, nguồn lợi kinh tế biển và an ninh quốc phòng từ xa.\n4. Kết luận: Kết hợp chặt chẽ giữa phát triển kinh tế biển với củng cố quốc phòng.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_tl_1",
+    "name": "Thuận lợi ➔ Tuyến hàng hải quốc tế sầm uất | Tài nguyên sinh vật & Dầu khí dồi dào",
+    "type": "STEP",
+    "parentId": "lsdl8_les_thuan_loi_kho_khan_bien",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_les_quatrinh_thuc_thi_chu_quyen",
+    "name": "Trình bày quá trình xác lập, thực thi chủ quyền biển đảo qua các thời kỳ",
+    "type": "LESSON",
+    "parentId": "lsdl8_top_bao_ve_chu_quyen_bien_dao",
+    "examples": [
+      {
+        "id": "ex_lsdl8_4_2_3",
+        "question": "[Dạng bài Lịch sử/Địa lý]: Tóm tắt quá trình khai phá, xác lập và thực thi chủ quyền Hoàng Sa, Trường Sa từ thời chúa Nguyễn đến nay.",
+        "answer": "1. Nhận diện & Né bẫy: Quá trình chủ quyền biển đảo. Né bẫy: Việt Nam là nhà nước đầu tiên và duy nhất khai phá, xác lập chủ quyền đối với 2 quần đảo Hoàng Sa và Trường Sa một cách liên tục, hòa bình phù hợp với luật pháp quốc tế.\n2. Trích xuất dữ kiện: Thế kỉ XVII Đội Hoàng Sa chúa Nguyễn ➔ Thời nhà Nguyễn cắm cờ dựng bia ➔ Thời Pháp thuộc bảo hộ và quản lý ➔ Chính quyền Việt Nam Cộng hòa bảo vệ ➔ CHXHCN Việt Nam tiếp quản và quản lý liên tục.\n3. Lập luận logic: Có đầy đủ tư liệu lịch sử, văn bản pháp lý và bản đồ cổ trong và ngoài nước chứng minh.\n4. Kết luận: Khẳng định Hoàng Sa, Trường Sa là bộ phận không thể tách rời của lãnh thổ Việt Nam.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lsdl8_step_cq_1",
+    "name": "Thế kỉ XVII ➔ Chúa Nguyễn lập Đội Hoàng Sa, Bắc Hải | Khai thác & Cắm mốc chủ quyền",
+    "type": "STEP",
+    "parentId": "lsdl8_les_quatrinh_thuc_thi_chu_quyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cq_2",
+    "name": "Thời Nguyễn ➔ 1816 Vua Gia Long cắm cờ chủ quyền | 1838 Bản đồ Đại Nam nhất thống toàn đồ",
+    "type": "STEP",
+    "parentId": "lsdl8_les_quatrinh_thuc_thi_chu_quyen",
+    "examples": null
+  },
+  {
+    "id": "lsdl8_step_cq_3",
+    "name": "Thời hiện đại ➔ Nhà nước CHXHCN Việt Nam liên tục đấu tranh bảo vệ chủ quyền bằng biện pháp hòa bình & Luật pháp quốc tế (UNCLOS 1982)",
+    "type": "STEP",
+    "parentId": "lsdl8_les_quatrinh_thuc_thi_chu_quyen",
+    "examples": null
+  }
+]

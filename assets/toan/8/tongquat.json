@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "toan8_subj",
+    "name": "Toán 8",
+    "type": "SUBJECT",
+    "parentId": null,
+    "examples": null
+  },
+  {
+    "id": "toan8_cat_dthdt",
+    "name": "Đa thức & Hằng đẳng thức",
+    "type": "CATEGORY",
+    "parentId": "toan8_subj",
+    "examples": null
+  },
+  {
+    "id": "toan8_cat_ptds",
+    "name": "Phân thức đại số",
+    "type": "CATEGORY",
+    "parentId": "toan8_subj",
+    "examples": null
+  },
+  {
+    "id": "toan8_cat_pt_hs",
+    "name": "Phương trình & Hàm số bậc nhất",
+    "type": "CATEGORY",
+    "parentId": "toan8_subj",
+    "examples": null
+  },
+  {
+    "id": "toan8_cat_hh_p",
+    "name": "Hình học phẳng (Tứ giác & Đồng dạng)",
+    "type": "CATEGORY",
+    "parentId": "toan8_subj",
+    "examples": null
+  },
+  {
+    "id": "toan8_cat_hh_tq",
+    "name": "Hình học trực quan (Hình khối thực tiễn)",
+    "type": "CATEGORY",
+    "parentId": "toan8_subj",
+    "examples": null
+  },
+  {
+    "id": "toan8_cat_tk_xs",
+    "name": "Một số yếu tố Thống kê & Xác suất",
+    "type": "CATEGORY",
+    "parentId": "toan8_subj",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_dt_nb",
+    "name": "Đơn thức & Đa thức nhiều biến",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_dthdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_hdt_ud",
+    "name": "Hằng đẳng thức đáng nhớ & Ứng dụng",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_dthdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_khai_niem_ptds",
+    "name": "Khái niệm & Tính chất cơ bản của phân thức",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_ptds",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_phep_toan_ptds",
+    "name": "Các phép toán trên phân thức đại số",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_ptds",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_pt_bac_nhat",
+    "name": "Phương trình bậc nhất một ẩn & Ứng dụng",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_pt_hs",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_hs_do_thi",
+    "name": "Hàm số & Đồ thị hàm số bậc nhất",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_pt_hs",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_tu_giac_dac_biet",
+    "name": "Các hình tứ giác đặc biệt",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_hh_p",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_thales_duong_tb",
+    "name": "Định lí Thales & Đường trung bình trong tam giác",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_hh_p",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_tam_giac_dong_dang",
+    "name": "Tam giác đồng dạng & Định lí Pythagore",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_hh_p",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_hinh_chop_deu",
+    "name": "Hình chóp tam giác đều & Hình chóp tứ giác đều",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_hh_tq",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_thong_ke_du_lieu",
+    "name": "Dữ liệu & Biểu diễn dữ liệu thống kê",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_tk_xs",
+    "examples": null
+  },
+  {
+    "id": "toan8_top_xac_suat_bien_co",
+    "name": "Xác suất của biến cố",
+    "type": "TOPIC",
+    "parentId": "toan8_cat_tk_xs",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_thu_gon_dthuc",
+    "name": "Nhận biết & Thu gọn đơn thức, đa thức nhiều biến",
+    "type": "LESSON",
+    "parentId": "toan8_top_dt_nb",
+    "examples": [
+      {
+        "id": "toan8_ex_1_1_1",
+        "question": "[Thu gọn đa thức]: Thu gọn và tìm bậc của đa thức $A = 3x^2y - 5xy^2 + 2x^2y + xy^2 - 7$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Dạng bài thu gọn đa thức nhiều biến. Bản chất là tìm các đơn thức đồng dạng (có phần biến giống hệt nhau) rồi nhóm lại cộng/trừ hệ số.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Tránh nhầm lẫn giữa $x^2y$ ($x$ bậc 2, $y$ bậc 1) và $xy^2$ ($x$ bậc 1, $y$ bậc 2). Khi nhóm hạng tử mang dấu âm $-5xy^2 + xy^2$, phải giữ nguyên dấu âm của hệ số $-5$.\n3. **Lời giải chi tiết**:\n   $A = (3x^2y + 2x^2y) + (-5xy^2 + xy^2) - 7$\n   $A = (3 + 2)x^2y + (-5 + 1)xy^2 - 7$\n   $A = 5x^2y - 4xy^2 - 7$.\n   - Hạng tử $5x^2y$ có bậc $2 + 1 = 3$.\n   - Hạng tử $-4xy^2$ có bậc $1 + 2 = 3$.\n   - Hạng tử tự do $-7$ có bậc $0$.\n   $\\Rightarrow$ Bậc của đa thức $A$ là $3$.\n4. **Mẹo bấm máy Casio**: Bấm phím `CALC`: Nhập biểu thức gốc trừ biểu thức thu gọn $(3x^2y - 5xy^2 + 2x^2y + xy^2 - 7) - (5x^2y - 4xy^2 - 7)$, bấm `CALC` gán $x = 2, y = 3$. Kết quả ra $0$ chứng tỏ phép thu gọn đúng 100%.\n5. **Kết luận**: Đa thức thu gọn là $A = 5x^2y - 4xy^2 - 7$, bậc là $3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_1_1_1_1",
+    "name": "Đơn thức ➔ Tích giữa số và các biến nâng lên lũy thừa",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_gon_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_1_2",
+    "name": "Bậc đơn thức ➔ Tổng số mũ tất cả các biến chứa trong đơn thức",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_gon_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_1_3",
+    "name": "Đơn thức đồng dạng ➔ Hệ số $\\neq 0$ + Phần biến giống hệt nhau",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_gon_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_1_4",
+    "name": "Thu gọn đa thức ➔ Nhóm đơn thức đồng dạng + Cộng trừ hệ số, giữ nguyên phần biến",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_gon_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_1_5",
+    "name": "Bậc đa thức ➔ Bậc của hạng tử có bậc cao nhất sau khi thu gọn",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_gon_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_1_6",
+    "name": "Né bẫy ➔ $x^2y \\neq xy^2$; Không bỏ quên hệ số âm khi nhóm hạng tử",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_gon_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_cong_tru_dthuc",
+    "name": "Phép cộng & phép trừ đa thức nhiều biến",
+    "type": "LESSON",
+    "parentId": "toan8_top_dt_nb",
+    "examples": [
+      {
+        "id": "toan8_ex_1_1_2",
+        "question": "[Cộng trừ đa thức]: Cho $A = 2x^2 - 3xy + y^2$ và $B = x^2 + 2xy - 3y^2$. Tính $A - B$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Phép trừ hai đa thức $A - B$. Bản chất là cộng $A$ với đa thức đối của $B$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Lỗi nguy hiểm nhất là chỉ đổi dấu hạng tử đầu tiên mà quên đổi dấu các hạng tử đằng sau. Viết đúng: $-(x^2 + 2xy - 3y^2) = -x^2 - 2xy + 3y^2$.\n3. **Lời giải chi tiết**:\n   $A - B = (2x^2 - 3xy + y^2) - (x^2 + 2xy - 3y^2)$\n   $A - B = 2x^2 - 3xy + y^2 - x^2 - 2xy + 3y^2$\n   $A - B = (2x^2 - x^2) + (-3xy - 2xy) + (y^2 + 3y^2)$\n   $A - B = x^2 - 5xy + 4y^2$.\n4. **Mẹo bấm máy Casio**: Nhập $A - B$ với $x = 2, y = 3$ vào máy tính:\n   $A = 2(2)^2 - 3(2)(3) + 3^2 = 8 - 18 + 9 = -1$.\n   $B = 2^2 + 2(2)(3) - 3(3)^2 = 4 + 12 - 27 = -11$.\n   $A - B = -1 - (-11) = 10$. Thử lại vế kết quả $2^2 - 5(2)(3) + 4(3)^2 = 4 - 30 + 36 = 10$. Khớp hoàn toàn!\n5. **Kết luận**: $A - B = x^2 - 5xy + 4y^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_1_1_2_1",
+    "name": "Cộng đa thức ➔ Bỏ ngoặc giữ nguyên dấu + Nhóm hạng tử đồng dạng + Thu gọn",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_2_2",
+    "name": "Trừ đa thức ➔ Bỏ ngoặc ĐỔI DẤU TOÀN BỘ hạng tử đa thức trừ + Nhóm đồng dạng",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_2_3",
+    "name": "Đặt tính cột dọc ➔ Xếp hạng tử đồng dạng thẳng cột + Cộng/trừ hệ số",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_2_4",
+    "name": "Né bẫy ➔ Quên đổi dấu khi bỏ ngoặc trước có dấu trừ $-(a - b + c) = -a + b - c$",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_2_5",
+    "name": "Casio thử nghiệm ➔ Bấm `CALC` thử $x = 2, y = 3$ kiểm tra $A - B$",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_nhan_chia_dthuc",
+    "name": "Phép nhân & phép chia đa thức cho đơn thức",
+    "type": "LESSON",
+    "parentId": "toan8_top_dt_nb",
+    "examples": [
+      {
+        "id": "toan8_ex_1_1_3",
+        "question": "[Nhân chia đa thức]: Thực hiện phép tính: $(6x^3y^2 - 9x^2y^3 + 15x^2y^2) : (3x^2y)$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Chia đa thức cho đơn thức. Ta lấy từng hạng tử của đa thức chia cho đơn thức rồi cộng các kết quả.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Trừ sai số mũ các biến, ví dụ $y^2 : y = y^{2-1} = y^1 = y$; $x^2 : x^2 = x^0 = 1$. Chú ý chia hệ số âm $-9 : 3 = -3$.\n3. **Lời giải chi tiết**:\n   $(6x^3y^2 - 9x^2y^3 + 15x^2y^2) : (3x^2y)$\n   $= (6x^3y^2 : 3x^2y) - (9x^2y^3 : 3x^2y) + (15x^2y^2 : 3x^2y)$\n   $= (6:3)x^{3-2}y^{2-1} - (9:3)x^{2-2}y^{3-1} + (15:3)x^{2-2}y^{2-1}$\n   $= 2xy - 3y^2 + 5y$.\n4. **Mẹo bấm máy Casio**: Nhập $(6x^3y^2 - 9x^2y^3 + 15x^2y^2) : (3x^2y) - (2xy - 3y^2 + 5y)$, bấm `CALC` với $x = 5, y = 2$, máy báo $0$ là kết quả đúng chuẩn.\n5. **Kết luận**: Đáp số là $2xy - 3y^2 + 5y$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_1_1_3_1",
+    "name": "Nhân đơn với đa ➔ $A(B + C) = AB + AC$ (Hệ số nhân hệ số, biến nhân biến)",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_3_2",
+    "name": "Nhân đa với đa ➔ $(A + B)(C + D) = AC + AD + BC + BD$",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_3_3",
+    "name": "Chia đơn cho đơn ➔ $x^m : x^n = x^{m-n}$ ($m \\ge n$) + Chia hệ số cho hệ số",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_3_4",
+    "name": "Chia đa cho đơn ➔ $(A + B) : C = A:C + B:C$ (Chia từng hạng tử)",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_3_5",
+    "name": "Né bẫy ➔ Sai dấu phép nhân số âm $(-a)(-b) = +ab$; Lộn ngược số mũ $x^m : x^n = x^{n-m}$",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_1_3_6",
+    "name": "Casio thử nghiệm ➔ CALC thử $x = 10, y = 2$ kiểm tra đẳng thức chia",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_dthuc",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_khai_trien_hdt",
+    "name": "Khai triển & Rút gọn biểu thức bằng hằng đẳng thức",
+    "type": "LESSON",
+    "parentId": "toan8_top_hdt_ud",
+    "examples": [
+      {
+        "id": "toan8_ex_1_2_1",
+        "question": "[Khai triển HĐT]: Khai triển và thu gọn biểu thức $P = (2x + 3y)^2 - (2x - 3y)^2$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Khai triển và rút gọn biểu thức bằng HĐT bình phương một tổng và bình phương một hiệu, hoặc áp dụng trực tiếp hiệu hai bình phương $A^2 - B^2$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Khi tính $(2x)^2$, nếu không ngoặc sẽ viết sai thành $2x^2$ (đúng phải là $4x^2$). Khi bỏ ngoặc có dấu trừ $-(4x^2 - 12xy + 9y^2)$ phải đổi toàn bộ dấu bên trong.\n3. **Lời giải chi tiết**:\n   *Cách 1 (Khai triển từng ngoặc)*:\n   $P = [(2x)^2 + 2(2x)(3y) + (3y)^2] - [(2x)^2 - 2(2x)(3y) + (3y)^2]$\n   $P = (4x^2 + 12xy + 9y^2) - (4x^2 - 12xy + 9y^2)$\n   $P = 4x^2 + 12xy + 9y^2 - 4x^2 + 12xy - 9y^2 = 24xy$.\n   *Cách 2 (Dùng $A^2 - B^2$)*:\n   $P = [(2x + 3y) - (2x - 3y)][(2x + 3y) + (2x - 3y)]$\n   $P = (2x + 3y - 2x + 3y)(2x + 3y + 2x - 3y) = (6y)(4x) = 24xy$.\n4. **Mẹo Casio**: Bấm `CALC` gán $x = 3, y = 2$: $P = (2 \\cdot 3 + 3 \\cdot 2)^2 - (2 \\cdot 3 - 3 \\cdot 2)^2 = 12^2 - 0 = 144$. Thử $24xy = 24(3)(2) = 144$. Khớp hoàn toàn!\n5. **Kết luận**: $P = 24xy$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_1_2_1_1",
+    "name": "Bình phương tổng/hiệu ➔ $(A \\pm B)^2 = A^2 \\pm 2AB + B^2$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_trien_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_1_2",
+    "name": "Hiệu hai bình phương ➔ $A^2 - B^2 = (A - B)(A + B)$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_trien_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_1_3",
+    "name": "Lập phương tổng/hiệu ➔ $(A \\pm B)^3 = A^3 \\pm 3A^2B + 3AB^2 \\pm B^3$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_trien_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_1_4",
+    "name": "Tổng/Hiệu hai lập phương ➔ $A^3 \\pm B^3 = (A \\pm B)(A^2 \\mp AB + B^2)$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_trien_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_1_5",
+    "name": "Né bẫy ➔ Thiếu ngoặc khi nâng lũy thừa $(2x)^2 = 4x^2 \\neq 2x^2$; Quên $2AB$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_trien_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_1_6",
+    "name": "Mẹo ghi nhớ ➔ HĐT số 6, 7: Tích mang dấu tổng/hiệu, bình phương thiếu trái dấu",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_trien_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_tinh_nhanh_hdt",
+    "name": "Tính nhanh giá trị biểu thức & Chứng minh đẳng thức",
+    "type": "LESSON",
+    "parentId": "toan8_top_hdt_ud",
+    "examples": [
+      {
+        "id": "toan8_ex_1_2_2",
+        "question": "[Tính nhanh & GTNN]: a) Tính nhanh $101^2 - 99^2$. b) Tìm GTNN của biểu thức $M = x^2 - 4x + 9$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**:\n   - Câu a: Tính nhanh tích/hiệu lũy thừa bằng cách đưa về $A^2 - B^2 = (A - B)(A + B)$.\n   - Câu b: Bài toán cực trị đại số, dùng phương pháp thêm bớt để ép về dạng $(A)^2 + k \\ge k$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Khi ép về bình phương $x^2 - 4x + 9 = (x^2 - 4x + 4) + 5 = (x - 2)^2 + 5$, lưu ý dấu của bình phương luôn $\\ge 0$. Đừng quên chỉ ra giá trị $x$ để xảy ra dấu '=' ($x - 2 = 0 \\Leftrightarrow x = 2$).\n3. **Lời giải chi tiết**:\n   a) $101^2 - 99^2 = (101 - 99)(101 + 99) = 2 \\cdot 200 = 400$.\n   b) $M = x^2 - 2 \\cdot x \\cdot 2 + 2^2 + 5 = (x - 2)^2 + 5$.\n   Vì $(x - 2)^2 \\ge 0$ với mọi $x \\in \\mathbb{R}$, nên $M = (x - 2)^2 + 5 \\ge 5$.\n   Dấu '=' xảy ra khi $x - 2 = 0 \\Leftrightarrow x = 2$.\n4. **Mẹo Casio**: Bấm `MODE 5 3` / `MENU 9 2 2` nhập $a = 1, b = -4, c = 9$. Máy hiển thị `X-Value Min = 2` và `Y-Value Min = 5`. Giúp kiểm tra kết quả cực trị cực nhanh!\n5. **Kết luận**: a) $101^2 - 99^2 = 400$. b) GTNN của $M$ bằng $5$ khi $x = 2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_1_2_2_1",
+    "name": "Tách số tính nhanh ➔ $101^2 = (100 + 1)^2 = 100^2 + 2(100)(1) + 1^2$",
+    "type": "STEP",
+    "parentId": "toan8_les_tinh_nhanh_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_2_2",
+    "name": "Hiệu bình phương tính nhanh ➔ $A^2 - B^2 = (A - B)(A + B)$",
+    "type": "STEP",
+    "parentId": "toan8_les_tinh_nhanh_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_2_3",
+    "name": "Ép về bình phương tìm GTNN ➔ $A = x^2 \\pm 2ax + a^2 + k = (x \\pm a)^2 + k \\ge k$",
+    "type": "STEP",
+    "parentId": "toan8_les_tinh_nhanh_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_2_4",
+    "name": "Ép về bình phương tìm GTLN ➔ $B = -(x \\pm a)^2 + k \\le k$",
+    "type": "STEP",
+    "parentId": "toan8_les_tinh_nhanh_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_2_5",
+    "name": "Chứng minh đẳng thức ➔ Biến đổi $VT \\rightarrow VP$ dùng các HĐT biến đổi tương đương",
+    "type": "STEP",
+    "parentId": "toan8_les_tinh_nhanh_hdt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_ptdt_thanh_nhan_tu",
+    "name": "Phân tích đa thức thành nhân tử",
+    "type": "LESSON",
+    "parentId": "toan8_top_hdt_ud",
+    "examples": [
+      {
+        "id": "toan8_ex_1_2_3",
+        "question": "[Phân tích nhân tử]: Phân tích đa thức $P = x^2 - 4x + 4 - y^2$ thành nhân tử. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Phân tích đa thức thành nhân tử bằng phương pháp nhóm 3-1: 3 hạng tử đầu tạo thành HĐT bình phương một hiệu, kết hợp với hạng tử còn lại tạo thành $A^2 - B^2$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Học sinh hay vội vã nhóm 2-2 $(x^2 - 4x) + (4 - y^2) = x(x - 4) + (2 - y)(2 + y)$ bị bế tắc vì không xuất hiện nhân tử chung. Phải quan sát kĩ 3 hạng tử đầu $x^2 - 4x + 4 = (x - 2)^2$.\n3. **Lời giải chi tiết**:\n   $P = (x^2 - 4x + 4) - y^2$\n   $P = (x - 2)^2 - y^2$\n   $P = [(x - 2) - y][(x - 2) + y]$\n   $P = (x - y - 2)(x + y - 2)$.\n4. **Mẹo tư duy**: Nhận dạng cụm 3 hạng tử tạo thành HĐT $x^2 \\pm 2ax + a^2 = (x \\pm a)^2$. Luôn phân tích triệt để các nhân tử cho đến khi không còn phân tích được nữa.\n5. **Kết luận**: $P = (x - y - 2)(x + y - 2)$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_1_2_3_1",
+    "name": "Đặt nhân tử chung ➔ $AB + AC = A(B + C)$ (ƯCLN hệ số $\\times$ phần biến chung)",
+    "type": "STEP",
+    "parentId": "toan8_les_ptdt_thanh_nhan_tu",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_3_2",
+    "name": "Dùng hằng đẳng thức ➔ Áp dụng 7 HĐT để biến đổi tổng/hiệu thành tích",
+    "type": "STEP",
+    "parentId": "toan8_les_ptdt_thanh_nhan_tu",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_3_3",
+    "name": "Nhóm hạng tử ➔ Nhóm 2-2 hoặc 3-1 để xuất hiện nhân tử chung hoặc HĐT",
+    "type": "STEP",
+    "parentId": "toan8_les_ptdt_thanh_nhan_tu",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_3_4",
+    "name": "Tách hạng tử $ax^2 + bx + c$ ➔ Tìm $p, q$ sao cho $p + q = b$ và $p \\cdot q = a \\cdot c$",
+    "type": "STEP",
+    "parentId": "toan8_les_ptdt_thanh_nhan_tu",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_3_5",
+    "name": "Casio tìm nghiệm phân tích ➔ Bấm `MODE 5 3` tìm $x_1, x_2 \\Rightarrow a(x - x_1)(x - x_2)$",
+    "type": "STEP",
+    "parentId": "toan8_les_ptdt_thanh_nhan_tu",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_1_2_3_6",
+    "name": "Né bẫy ➔ Quên đổi dấu khi nhóm có dấu trừ $-(a - b) = -a + b$; Không phân tích triệt để",
+    "type": "STEP",
+    "parentId": "toan8_les_ptdt_thanh_nhan_tu",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_dkxd_gia_tri_pt",
+    "name": "Tìm điều kiện xác định & Tính giá trị phân thức",
+    "type": "LESSON",
+    "parentId": "toan8_top_khai_niem_ptds",
+    "examples": [
+      {
+        "id": "toan8_ex_2_1_1",
+        "question": "[ĐKXĐ & Giá trị phân thức]: Tìm ĐKXĐ của phân thức $A = \\frac{x + 2}{x^2 - 4}$ và tính giá trị của $A$ tại $x = 3$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Phân thức đại số xác định khi mẫu thức khác $0$. Để tính giá trị phân thức tại $x = x_0$, trước hết phải đối chiếu $x_0$ với ĐKXĐ.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Học sinh hay nhầm cho tử thức bằng $0$, hoặc quên phân tích $x^2 - 4 = (x - 2)(x + 2) \\neq 0 \\Rightarrow x \\neq 2$ và $x \\neq -2$.\n3. **Lời giải chi tiết**:\n   - ĐKXĐ: $x^2 - 4 \\neq 0 \\Leftrightarrow (x - 2)(x + 2) \\neq 0 \\Leftrightarrow x \\neq 2$ và $x \\neq -2$.\n   - Rút gọn phân thức: $A = \\frac{x + 2}{(x - 2)(x + 2)} = \\frac{1}{x - 2}$ (với $x \\neq \\pm 2$).\n   - Tại $x = 3$ (thỏa mãn ĐKXĐ $x \\neq \\pm 2$), thay vào phân thức đã rút gọn:\n     $A = \\frac{1}{3 - 2} = \\frac{1}{1} = 1$.\n4. **Mẹo Casio**: Nhập $\\frac{x + 2}{x^2 - 4}$, bấm `CALC` gán $x = 3$, máy xuất ra $1$. Bấm `CALC` gán $x = 2$, máy báo `Math ERROR` chứng tỏ $x = 2$ bị loại đúng chuẩn!\n5. **Kết luận**: ĐKXĐ là $x \\neq \\pm 2$; Giá trị của $A$ tại $x = 3$ bằng $1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_2_1_1_1",
+    "name": "Khái niệm phân thức ➔ Biểu thức dạng $\\frac{A}{B}$ với $A, B$ là đa thức, $B \\neq 0$",
+    "type": "STEP",
+    "parentId": "toan8_les_dkxd_gia_tri_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_1_2",
+    "name": "Tìm ĐKXĐ ➔ Cho MẪU THỨC $\\neq 0$ $\\Rightarrow$ Giải tìm điều kiện $x \\neq \\dots$",
+    "type": "STEP",
+    "parentId": "toan8_les_dkxd_gia_tri_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_1_3",
+    "name": "Tính giá trị ➔ Kiểm tra $x_0$ thỏa mãn ĐKXĐ $\\rightarrow$ Thay vào phân thức đã rút gọn",
+    "type": "STEP",
+    "parentId": "toan8_les_dkxd_gia_tri_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_1_4",
+    "name": "Hai phân thức bằng nhau ➔ $\\frac{A}{B} = \\frac{C}{D} \\Leftrightarrow A \\cdot D = B \\cdot C$",
+    "type": "STEP",
+    "parentId": "toan8_les_dkxd_gia_tri_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_1_5",
+    "name": "Né bẫy ➔ Cho TỬ THỨC $= 0$ để tìm ĐKXĐ; Thay $x_0$ VI PHẠM ĐKXĐ vào tính giá trị",
+    "type": "STEP",
+    "parentId": "toan8_les_dkxd_gia_tri_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_rut_gon_quy_dong_pt",
+    "name": "Rút gọn phân thức & Quy đồng mẫu thức nhiều phân thức",
+    "type": "LESSON",
+    "parentId": "toan8_top_khai_niem_ptds",
+    "examples": [
+      {
+        "id": "toan8_ex_2_1_2",
+        "question": "[Rút gọn phân thức]: Rút gọn phân thức $B = \\frac{x^3 - 3x^2 + 3x - 1}{x^2 - 1}$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Rút gọn phân thức đại số. Sử dụng HĐT lập phương một hiệu ở tử thức ^3$ và hiệu hai bình phương ở mẫu thức (x + 1)$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Học sinh hay triệt tiêu sai lầm các hạng tử tự do lẻ $\\frac{-1}{-1} = 1$ mà không phân tích thành dạng TÍCH trước khi rút gọn.\n3. **Lời giải chi tiết**:\n   - Tử thức: ^3 - 3x^2 + 3x - 1 = (x - 1)^3$.\n   - Mẫu thức: ^2 - 1 = (x - 1)(x + 1)$.\n   - ĐKXĐ:  \\neq 1$ và  \\neq -1$.\n   - Rút gọn:  = \\frac{(x - 1)^3}{(x - 1)(x + 1)} = \\frac{(x - 1)^2}{x + 1}$.\n4. **Mẹo Casio**: Bấm  thử  = 5$:\n   Biểu thức gốc: $\\frac{5^3 - 3(5)^2 + 3(5) - 1}{5^2 - 1} = \\frac{125 - 75 + 15 - 1}{24} = \\frac{64}{24} = \\frac{8}{3}$.\n   Biểu thức rút gọn: $\\frac{(5 - 1)^2}{5 + 1} = \\frac{16}{6} = \\frac{8}{3}$. Khớp hoàn toàn!\n5. **Kết luận**:  = \\frac{(x - 1)^2}{x + 1}$ với  \\neq \\pm 1$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_2_1_2_1",
+    "name": "Rút gọn phân thức ➔ Phân tích tử & mẫu thành nhân tử ➔ Chia cả tử & mẫu cho nhân tử chung",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_quy_dong_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_2_2",
+    "name": "Quy tắc đổi dấu ➔ $\\frac{A}{B} = \\frac{-A}{-B}$; $a - b = -(b - a)$ để xuất hiện nhân tử chung",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_quy_dong_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_2_3",
+    "name": "Tìm MTC ➔ MTC = (BCNN các hệ số) $\\times$ (Lũy thừa thừa số chung/riêng số mũ lớn nhất)",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_quy_dong_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_2_4",
+    "name": "Quy đồng mẫu ➔ Tìm nhân tử phụ $= \\text{MTC} : \\text{Mẫu riêng}$ $\\rightarrow$ Nhân cả tử & mẫu",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_quy_dong_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_1_2_5",
+    "name": "Casio thử nghiệm ➔ Dùng `CALC` thử $x = 100$ so sánh biểu thức gốc và rút gọn",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_quy_dong_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_cong_tru_pt",
+    "name": "Phép cộng & phép trừ phân thức đại số",
+    "type": "LESSON",
+    "parentId": "toan8_top_phep_toan_ptds",
+    "examples": [
+      {
+        "id": "toan8_ex_2_2_1",
+        "question": "[Cộng trừ phân thức]: Thực hiện phép tính $P = \\frac{1}{x - 1} - \\frac{1}{x + 1}$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Phép trừ hai phân thức đại số khác mẫu thức. Cần quy đồng mẫu thức về $\\text{MTC} = (x - 1)(x + 1)$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Khi trừ hai tử thức: $(x + 1) - (x - 1) = x + 1 - x + 1 = 2$. Học sinh mất gốc hay sai dấu thành $x + 1 - x - 1 = 0$.\n3. **Lời giải chi tiết**:\n   - ĐKXĐ: $x \\neq 1$ và $x \\neq -1$.\n   - $\\text{MTC} = (x - 1)(x + 1)$.\n   - $P = \\frac{1 \\cdot (x + 1)}{(x - 1)(x + 1)} - \\frac{1 \\cdot (x - 1)}{(x + 1)(x - 1)}$\n   - $P = \\frac{(x + 1) - (x - 1)}{(x - 1)(x + 1)} = \\frac{x + 1 - x + 1}{x^2 - 1} = \\frac{2}{x^2 - 1}$.\n4. **Mẹo Casio**: Bấm `CALC` gán $x = 3$:\n   Biểu thức gốc: $\\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$.\n   Biểu thức kết quả: $\\frac{2}{3^2 - 1} = \\frac{2}{8} = \\frac{1}{4}$. Chuẩn xác 100%!\n5. **Kết luận**: $P = \\frac{2}{x^2 - 1}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_2_2_1_1",
+    "name": "Cộng trừ cùng mẫu ➔ $\\frac{A}{M} \\pm \\frac{B}{M} = \\frac{A \\pm B}{M}$ (Cộng/trừ tử, giữ nguyên mẫu)",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_1_2",
+    "name": "Cộng trừ khác mẫu ➔ Quy đồng mẫu thức đưa về cùng MTC $\\rightarrow$ Thực hiện cộng/trừ tử",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_1_3",
+    "name": "Phân thức đối ➔ Phân thức đối của $\\frac{A}{B}$ là $-\\frac{A}{B} = \\frac{-A}{B} = \\frac{A}{-B}$",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_1_4",
+    "name": "Né bẫy ➔ Sai dấu tử thức thứ hai khi trừ $\\frac{A}{M} - \\frac{B + C}{M} = \\frac{A - B - C}{M}$",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_1_5",
+    "name": "Casio thử kết quả ➔ Bấm `CALC` thử $x = 5$ kiểm tra vế trái và vế phải",
+    "type": "STEP",
+    "parentId": "toan8_les_cong_tru_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_nhan_chia_pt",
+    "name": "Phép nhân & phép chia phân thức đại số",
+    "type": "LESSON",
+    "parentId": "toan8_top_phep_toan_ptds",
+    "examples": [
+      {
+        "id": "toan8_ex_2_2_2",
+        "question": "[Nhân chia phân thức]: Thực hiện phép tính $Q = \\frac{x^2 - 4}{x + 1} : \\frac{x - 2}{x^2 - 1}$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Chia hai phân thức đại số. Ta giữ nguyên phân thức bị chia và nhân với phân thức nghịch đảo của phân thức chia.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Quên phân tích $x^2 - 4 = (x - 2)(x + 2)$ và $x^2 - 1 = (x - 1)(x + 1)$ trước khi triệt tiêu các nhân tử chung.\n3. **Lời giải chi tiết**:\n   - ĐKXĐ: $x \\neq -1, x \\neq 1, x \\neq 2$.\n   - $Q = \\frac{(x - 2)(x + 2)}{x + 1} \\cdot \\frac{(x - 1)(x + 1)}{x - 2}$\n   - $Q = \\frac{(x - 2)(x + 2)(x - 1)(x + 1)}{(x + 1)(x - 2)}$\n   - Triệt tiêu nhân tử chung $(x - 2)$ và $(x + 1)$ ở tử và mẫu:\n   - $Q = (x + 2)(x - 1) = x^2 + x - 2$.\n4. **Mẹo Casio**: Bấm `CALC` thử $x = 3$:\n   $\\frac{3^2 - 4}{3 + 1} : \\frac{3 - 2}{3^2 - 1} = \\frac{5}{4} : \\frac{1}{8} = \\frac{5}{4} \\cdot 8 = 10$.\n   Kết quả $x^2 + x - 2 = 3^2 + 3 - 2 = 10$. Khớp tuyệt đối!\n5. **Kết luận**: $Q = x^2 + x - 2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_2_2_2_1",
+    "name": "Nhân phân thức ➔ $\\frac{A}{B} \\cdot \\frac{C}{D} = \\frac{A \\cdot C}{B \\cdot D}$ (Nhân tử với tử, mẫu với mẫu)",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_2_2",
+    "name": "Phân thức nghịch đảo ➔ Phân thức nghịch đảo của $\\frac{A}{B}$ ($A, B \\neq 0$) là $\\frac{B}{A}$",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_2_3",
+    "name": "Chia phân thức ➔ $\\frac{A}{B} : \\frac{C}{D} = \\frac{A}{B} \\cdot \\frac{D}{C} = \\frac{A \\cdot D}{B \\cdot C}$ ($C \\neq 0$)",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_2_4",
+    "name": "Né bẫy ➔ Quên đảo ngược phân thức chia; Rút gọn sai quy tắc trước khi nhân",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_2_5",
+    "name": "Mẹo làm nhanh ➔ Phân tích tử & mẫu thành nhân tử TRƯỚC KHI thực hiện phép nhân/chia",
+    "type": "STEP",
+    "parentId": "toan8_les_nhan_chia_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_rut_gon_gia_tri_nguyen",
+    "name": "Rút gọn biểu thức tổng hợp & Bài toán giá trị nguyên",
+    "type": "LESSON",
+    "parentId": "toan8_top_phep_toan_ptds",
+    "examples": [
+      {
+        "id": "toan8_ex_2_2_3",
+        "question": "[Bài toán giá trị nguyên]: Tìm $x \\in \\mathbb{Z}$ để phân thức $P = \\frac{2x + 3}{x - 1}$ nhận giá trị nguyên. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tìm biến $x \\in \\mathbb{Z}$ để biểu thức $P \\in \\mathbb{Z}$. Phương pháp là tách tử thức theo mẫu thức để đưa về dạng $\\text{Nguyên} + \\frac{k}{\\text{Mẫu}}$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Quên ĐKXĐ $x - 1 \\neq 0 \\Leftrightarrow x \\neq 1$. Lỗi tách sai tử: $2x + 3 = 2(x - 1) + 5$ (chú ý $2(-1) + 5 = 3$).\n3. **Lời giải chi tiết**:\n   - ĐKXĐ: $x \\neq 1$.\n   - Biến đổi $P = \\frac{2(x - 1) + 5}{x - 1} = \\frac{2(x - 1)}{x - 1} + \\frac{5}{x - 1} = 2 + \\frac{5}{x - 1}$.\n   - Để $P \\in \\mathbb{Z}$ thì $\\frac{5}{x - 1} \\in \\mathbb{Z} \\Leftrightarrow x - 1 \\in \\text{Ư}(5) = \\{-5; -1; 1; 5\\}$.\n   - Ta có bảng giá trị:\n     + $x - 1 = -5 \\Rightarrow x = -4$ (thỏa mãn ĐKXĐ)\n     + $x - 1 = -1 \\Rightarrow x = 0$ (thỏa mãn ĐKXĐ)\n     + $x - 1 = 1 \\Rightarrow x = 2$ (thỏa mãn ĐKXĐ)\n     + $x - 1 = 5 \\Rightarrow x = 6$ (thỏa mãn ĐKXĐ)\n4. **Mẹo Casio**: Bấm `MODE 7` / `TABLE`, nhập $f(x) = \\frac{2x + 3}{x - 1}$, cho `Start = -5`, `End = 7`, `Step = 1`. Quét cột $f(x)$ tìm các giá trị nguyên, thu được $x \\in \\{-4; 0; 2; 6\\}$.\n5. **Kết luận**: Các giá trị $x \\in \\mathbb{Z}$ cần tìm là $x \\in \\{-4; 0; 2; 6\\}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_2_2_3_1",
+    "name": "Rút gọn tổng hợp ➔ Ngoặc trước $\\rightarrow$ Nhân chia $\\rightarrow$ Cộng trừ $\\rightarrow$ Triệt tiêu",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_gia_tri_nguyen",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_3_2",
+    "name": "Tách phần nguyên ➔ $P = \\frac{A(x)}{B(x)} = Q(x) + \\frac{k}{B(x)}$ ($k \\in \\mathbb{Z}$) bằng phép chia đa thức",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_gia_tri_nguyen",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_3_3",
+    "name": "Giải ĐK nguyên ➔ $P \\in \\mathbb{Z} \\Leftrightarrow B(x) \\in \\text{Ư}(k)$ $\\rightarrow$ Lập bảng tìm $x$",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_gia_tri_nguyen",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_3_4",
+    "name": "Thử lại ĐKXĐ ➔ Đối chiếu toàn bộ các giá trị $x$ tìm được với ĐKXĐ ban đầu",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_gia_tri_nguyen",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_2_2_3_5",
+    "name": "Casio thử bảng ➔ Dùng `MODE 7` / `TABLE` quét các giá trị $x$ nguyên để lọc nghiệm $P$ nguyên",
+    "type": "STEP",
+    "parentId": "toan8_les_rut_gon_gia_tri_nguyen",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_giai_pt_bac_nhat",
+    "name": "Giải phương trình bậc nhất một ẩn & Phương trình quy về bậc nhất",
+    "type": "LESSON",
+    "parentId": "toan8_top_pt_bac_nhat",
+    "examples": [
+      {
+        "id": "toan8_ex_3_1_1",
+        "question": "[Giải phương trình]: Giải phương trình $2x - 3 = 5 - 2(x - 1)$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Phương trình quy về phương trình bậc nhất một ẩn bằng các phép biến đổi bỏ dấu ngoặc và chuyển tế.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Khi nhân phá ngoặc $-2(x - 1) = -2x + 2$ (chú ý số âm nhân số âm ra số dương). Khi chuyển vế $-2x$ từ VP sang VT phải đổi thành $+2x$.\n3. **Lời giải chi tiết**:\n   $2x - 3 = 5 - 2(x - 1)$\n   $\\Leftrightarrow 2x - 3 = 5 - 2x + 2$\n   $\\Leftrightarrow 2x - 3 = 7 - 2x$\n   $\\Leftrightarrow 2x + 2x = 7 + 3$\n   $\\Leftrightarrow 4x = 10$\n   $\\Leftrightarrow x = \\frac{10}{4} = \\frac{5}{2}$.\n4. **Mẹo Casio**: Nhập $2x - 3 = 5 - 2(x - 1)$, bấm `SHIFT SOLVE` (`CALC`), bấm `=`, máy hiển thị `x = 2.5` ($=\\frac{5}{2}$). Nghiệm chuẩn xác 100%!\n5. **Kết luận**: Tập nghiệm của phương trình là $S = \\left\\{\\frac{5}{2}\\right\\}$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_3_1_1_1",
+    "name": "Dạng chuẩn ➔ $ax + b = 0$ ($a \\neq 0$) $\\Rightarrow x = -\\frac{b}{a}$",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_pt_bac_nhat",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_1_2",
+    "name": "Quy tắc chuyển tế ➔ Chuyển hạng tử sang vế kia phải ĐỔI DẤU ($+ \\rightarrow -$, $- \\rightarrow +$)",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_pt_bac_nhat",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_1_3",
+    "name": "Quy tắc nhân/chia ➔ Nhân hoặc chia cả hai vế với cùng một số khác $0$",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_pt_bac_nhat",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_1_4",
+    "name": "PT quy về bậc nhất ➔ Bỏ ngoặc/Quy đồng khử mẫu $\\rightarrow$ Chuyển ẩn sang VT, số sang VP $\\rightarrow ax = c$",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_pt_bac_nhat",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_1_5",
+    "name": "Casio giải nhanh ➔ Dùng `SHIFT SOLVE` để tìm nghiệm chính xác của phương trình",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_pt_bac_nhat",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_1_6",
+    "name": "Né bẫy ➔ Quên ĐKXĐ khi có ẩn ở mẫu; Sai dấu bỏ ngoặc; Quên điều kiện $a \\neq 0$ khi chứa tham số $m$",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_pt_bac_nhat",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_giai_toan_lap_pt",
+    "name": "Giải bài toán bằng cách lập phương trình",
+    "type": "LESSON",
+    "parentId": "toan8_top_pt_bac_nhat",
+    "examples": [
+      {
+        "id": "toan8_ex_3_1_2",
+        "question": "[Giải toán lập PT]: Một ô tô đi từ A đến B với vận tốc $45$ km/h, rồi từ B về A với vận tốc $50$ km/h. Thời gian về ít hơn thời gian đi là $30$ phút. Tính quãng đường AB. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Dạng toán chuyển động $s = v \\cdot t$. Lập phương trình dựa trên mối quan hệ chênh lệch thời gian giữa lượt đi và lượt về.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Quên đổi đơn vị thời gian $30$ phút $= \\frac{30}{60} = 0,5$ giờ ($=\\frac{1}{2}$ h) trước khi lập phương trình.\n3. **Lời giải chi tiết**:\n   - Đổi $30$ phút $= \\frac{1}{2}$ giờ.\n   - Gọi độ dài quãng đường AB là $x$ (km) (Điều kiện: $x > 0$).\n   - Thời gian ô tô đi từ A đến B là $\\frac{x}{45}$ (giờ).\n   - Thời gian ô tô đi từ B về A là $\\frac{x}{50}$ (giờ).\n   - Vì thời gian về ít hơn thời gian đi $30$ phút ($\\frac{1}{2}$ giờ), ta có phương trình:\n     $\\frac{x}{45} - \\frac{x}{50} = \\frac{1}{2}$\n   - Quy đồng mẫu thức hai vế với $\\text{MTC} = 450$:\n     $\\frac{10x}{450} - \\frac{9x}{450} = \\frac{225}{450}$\n     $\\Leftrightarrow 10x - 9x = 225 \\Leftrightarrow x = 225$ (thỏa mãn điều kiện $x > 0$).\n4. **Mẹo Casio**: Nhập $\\frac{x}{45} - \\frac{x}{50} = \\frac{1}{2}$, bấm `SHIFT SOLVE`, máy xuất ra $x = 225$.\n5. **Kết luận**: Quãng đường AB dài $225$ km.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_3_1_2_1",
+    "name": "Bước 1: Lập PT ➔ Chọn ẩn $x$ + ĐKXĐ & Đơn vị $\\rightarrow$ Biểu diễn các đại lượng theo $x$ $\\rightarrow$ Lập PT",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_toan_lap_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_2_2",
+    "name": "Bước 2: Giải PT ➔ Sử dụng các quy tắc chuyển vế, nhân chia để giải tìm $x$",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_toan_lap_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_2_3",
+    "name": "Bước 3: Kết luận ➔ Đối chiếu nghiệm $x$ với ĐKXĐ $\\rightarrow$ Trả lời yêu cầu bài toán",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_toan_lap_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_2_4",
+    "name": "Né bẫy chuyển động $s = v \\cdot t$ ➔ Quên đổi đơn vị thời gian ($30$ phút $= 0,5$ giờ)",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_toan_lap_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_1_2_5",
+    "name": "Né bẫy năng suất ➔ Năng suất $= \\frac{\\text{Khối lượng}}{\\text{Thời gian}}$; Quy ước toàn bộ công việc $= 1$",
+    "type": "STEP",
+    "parentId": "toan8_les_giai_toan_lap_pt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_khai_niem_ham_so",
+    "name": "Khái niệm hàm số & Tính giá trị của hàm số",
+    "type": "LESSON",
+    "parentId": "toan8_top_hs_do_thi",
+    "examples": [
+      {
+        "id": "toan8_ex_3_2_1",
+        "question": "[Khái niệm Hàm số]: Cho hàm số $y = f(x) = 3x - 2$. Tính $f(0)$ và $f(-1)$. Hỏi điểm $A(2; 4)$ có thuộc đồ thị hàm số không? (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính giá trị của hàm số $f(x_0)$ bằng cách thay $x = x_0$ vào công thức. Kiểm tra điểm thuộc đồ thị bằng cách so sánh $f(x_0)$ với $y_0$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Khi tính $f(-1)$, chú ý nhân số âm: $3(-1) - 2 = -3 - 2 = -5$. Đừng nhầm điểm $A(x_0; y_0)$ là $A(y_0; x_0)$.\n3. **Lời giải chi tiết**:\n   - Tính $f(0)$: Thay $x = 0$ vào $f(x) \\Rightarrow f(0) = 3(0) - 2 = -2$.\n   - Tính $f(-1)$: Thay $x = -1$ vào $f(x) \\Rightarrow f(-1) = 3(-1) - 2 = -5$.\n   - Kiểm tra điểm $A(2; 4)$:\n     Thay $x = 2$ vào công thức hàm số: $f(2) = 3(2) - 2 = 6 - 2 = 4$.\n     Vì $f(2) = 4$ đúng bằng tung độ $y_A = 4$, nên điểm $A(2; 4)$ THUỘC đồ thị hàm số $y = 3x - 2$.\n4. **Mẹo Casio**: Nhập $3x - 2$, bấm `CALC` gán $x = 0 \\rightarrow -2$; `CALC` gán $x = -1 \\rightarrow -5$; `CALC` gán $x = 2 \\rightarrow 4$.\n5. **Kết luận**: $f(0) = -2$, $f(-1) = -5$; Điểm $A(2; 4)$ thuộc đồ thị hàm số.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_3_2_1_1",
+    "name": "Khái niệm hàm số ➔ Đại lượng $y$ phụ thuộc vào $x$ sao cho với mỗi $x$ chỉ nhận DỰNG MỘT giá trị $y$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_niem_ham_so",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_1_2",
+    "name": "Ký hiệu & Giá trị ➔ $y = f(x)$; Giá trị của hàm số tại $x = x_0$ là $f(x_0)$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_niem_ham_so",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_1_3",
+    "name": "Biểu diễn hàm số ➔ Cho bằng bảng giá trị hoặc cho bằng công thức $y = f(x)$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_niem_ham_so",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_1_4",
+    "name": "Tọa độ điểm ➔ Điểm $M(x_0; y_0) \\in$ Đồ thị $y = f(x) \\Leftrightarrow y_0 = f(x_0)$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_niem_ham_so",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_1_5",
+    "name": "Casio lập bảng ➔ Dùng `MODE 7` / `TABLE` nhập $f(x)$ để tính nhanh hàng loạt giá trị $y$",
+    "type": "STEP",
+    "parentId": "toan8_les_khai_niem_ham_so",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_ve_do_thi_hsbn",
+    "name": "Vẽ đồ thị hàm số bậc nhất y = ax + b (a != 0)",
+    "type": "LESSON",
+    "parentId": "toan8_top_hs_do_thi",
+    "examples": [
+      {
+        "id": "toan8_ex_3_2_2",
+        "question": "[Vẽ đồ thị hàm số]: Cho hàm số bậc nhất $y = 2x - 4$. Xác định giao điểm với hai trục tọa độ và vẽ đồ thị hàm số. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Vẽ đồ thị hàm số bậc nhất $y = ax + b$ ($a \\neq 0$). Bản chất là xác định 2 điểm phân biệt thuộc đồ thị (thường chọn 2 giao điểm với 2 trục tọa độ $Ox, Oy$) rồi kẻ đường thẳng đi qua 2 điểm đó.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Nhầm lẫn giữa trục hoành $Ox$ ($y = 0$) và trục tung $Oy$ ($x = 0$). Viết sai tọa độ điểm giao $Oy$ là $(-4; 0)$ thay vì đúng phải là $(0; -4)$.\n3. **Lời giải chi tiết**:\n   - Cho $x = 0 \\Rightarrow y = 2(0) - 4 = -4 \\Rightarrow$ Đồ thị cắt trục tung $Oy$ tại $A(0; -4)$.\n   - Cho $y = 0 \\Rightarrow 2x - 4 = 0 \\Leftrightarrow 2x = 4 \\Leftrightarrow x = 2 \\Rightarrow$ Đồ thị cắt trục hoành $Ox$ tại $B(2; 0)$.\n   - Biểu diễn hai điểm $A(0; -4)$ và $B(2; 0)$ trên mặt phẳng tọa độ $Oxy$.\n   - Vẽ đường thẳng đi qua hai điểm $A$ và $B$, ta được đồ thị hàm số $y = 2x - 4$.\n4. **Mẹo tính diện tích tam giác tạo bởi đồ thị và 2 trục**: Tam giác $OAB$ vuông tại $O$ có $OA = |-4| = 4$, $OB = |2| = 2 \\Rightarrow S_{\\Delta OAB} = \\frac{1}{2} OA \\cdot OB = \\frac{1}{2} \\cdot 4 \\cdot 2 = 4$ (đvdt).\n5. **Kết luận**: Giao điểm $Oy$ là $A(0; -4)$, giao điểm $Ox$ là $B(2; 0)$. Đồ thị là đường thẳng $AB$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_3_2_2_1",
+    "name": "Định nghĩa HSBN ➔ $y = ax + b$ với $a, b \\in \\mathbb{R}, a \\neq 0$ (Đồ thị là một đường thẳng)",
+    "type": "STEP",
+    "parentId": "toan8_les_ve_do_thi_hsbn",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_2_2",
+    "name": "Tìm giao $Oy$ ➔ Cho $x = 0 \\Rightarrow y = b \\Rightarrow A(0; b)$",
+    "type": "STEP",
+    "parentId": "toan8_les_ve_do_thi_hsbn",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_2_3",
+    "name": "Tìm giao $Ox$ ➔ Cho $y = 0 \\Rightarrow x = -\\frac{b}{a} \\Rightarrow B\\left(-\\frac{b}{a}; 0\\right)$",
+    "type": "STEP",
+    "parentId": "toan8_les_ve_do_thi_hsbn",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_2_4",
+    "name": "Vẽ đường thẳng ➔ Biểu diễn $A, B$ trên hệ trục $Oxy$ $\\rightarrow$ Vẽ đường thẳng qua $A$ và $B$",
+    "type": "STEP",
+    "parentId": "toan8_les_ve_do_thi_hsbn",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_2_5",
+    "name": "Né bẫy ➔ Nhầm lẫn tung độ và hoành độ; Viết sai tọa độ $A(b; 0)$ thay vì $A(0; b)$",
+    "type": "STEP",
+    "parentId": "toan8_les_ve_do_thi_hsbn",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_vi_tri_tuong_doi_dt",
+    "name": "Vị trí tương đối của hai đường thẳng & Hệ số góc",
+    "type": "LESSON",
+    "parentId": "toan8_top_hs_do_thi",
+    "examples": [
+      {
+        "id": "toan8_ex_3_2_3",
+        "question": "[Vị trí tương đối]: Cho hai đường thẳng $d_1: y = (m - 1)x + 2$ và $d_2: y = 3x + 1$. Tìm $m$ để $d_1 \\parallel d_2$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tìm điều kiện tham số $m$ để hai đường thẳng song song. Hai đường thẳng $y = a_1 x + b_1$ và $y = a_2 x + b_2$ song song khi $a_1 = a_2$ và $b_1 \\neq b_2$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Rất nhiều học sinh bỏ quên ĐKXĐ để $d_1$ là hàm số bậc nhất ($a_1 \\neq 0 \\Leftrightarrow m - 1 \\neq 0 \\Leftrightarrow m \\neq 1$). Nêu thiếu ĐKXĐ sẽ bị trừ điểm tự luận!\n3. **Lời giải chi tiết**:\n   - Điều kiện để $d_1$ là hàm số bậc nhất: $m - 1 \\neq 0 \\Leftrightarrow m \\neq 1$.\n   - Để $d_1 \\parallel d_2$ thì:\n     $\\begin{cases} a_1 = a_2 \\\\ b_1 \\neq b_2 \\end{cases} \\Leftrightarrow \\begin{cases} m - 1 = 3 \\\\ 2 \\neq 1 \\text{ (luôn đúng)} \\end{cases} \\Leftrightarrow m = 4$.\n   - Đối chiếu điều kiện $m \\neq 1 \\Rightarrow m = 4$ thỏa mãn.\n4. **Mẹo thử lại**: Khi $m = 4$, $d_1: y = 3x + 2$ và $d_2: y = 3x + 1$. Cùng hệ số góc $a = 3$, $b_1 = 2 \\neq b_2 = 1 \\Rightarrow$ Hai đường thẳng song song tuyệt đối.\n5. **Kết luận**: Giá trị cần tìm là $m = 4$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_3_2_3_1",
+    "name": "Hệ số góc $a$ ➔ $a > 0$: Góc nhọn; $a < 0$: Góc tù (tạo bởi đường thẳng và tia $Ox$)",
+    "type": "STEP",
+    "parentId": "toan8_les_vi_tri_tuong_doi_dt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_3_2",
+    "name": "Song song ($d_1 \\parallel d_2$) ➔ $a_1 = a_2$ và $b_1 \\neq b_2$ (ĐKXĐ: $a_1 \\neq 0, a_2 \\neq 0$)",
+    "type": "STEP",
+    "parentId": "toan8_les_vi_tri_tuong_doi_dt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_3_3",
+    "name": "Cắt nhau ➔ $a_1 \\neq a_2$ (Vuông góc $d_1 \\perp d_2 \\Leftrightarrow a_1 \\cdot a_2 = -1$)",
+    "type": "STEP",
+    "parentId": "toan8_les_vi_tri_tuong_doi_dt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_3_4",
+    "name": "Trùng nhau ➔ $a_1 = a_2$ và $b_1 = b_2$",
+    "type": "STEP",
+    "parentId": "toan8_les_vi_tri_tuong_doi_dt",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_3_2_3_5",
+    "name": "Né bẫy ➔ Quên điều kiện hệ số $a \\neq 0$ khi hệ số chứa tham số $m$",
+    "type": "STEP",
+    "parentId": "toan8_les_vi_tri_tuong_doi_dt",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_goc_tu_giac",
+    "name": "Tính số đo góc & Bất đẳng thức trong tứ giác",
+    "type": "LESSON",
+    "parentId": "toan8_top_tu_giac_dac_biet",
+    "examples": [
+      {
+        "id": "toan8_ex_4_1_1",
+        "question": "[Góc tứ giác]: Cho tứ giác $ABCD$ có $\\widehat{A} = 70^\\circ, \\widehat{B} = 80^\\circ, \\widehat{C} = 100^\\circ$. Tính số đo góc $\\widehat{D}$ và tính góc ngoài tại đỉnh $D$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Bài toán tính góc trong và góc ngoài của tứ giác. Định lý tổng 4 góc trong tứ giác bằng $360^\\circ$. Góc ngoài kề bù với góc trong nên có tổng bằng $180^\\circ$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Nhầm lẫn công thức góc ngoài của tứ giác với tam giác. Nhớ chuẩn: Góc ngoài tứ giác $= 180^\\circ - \\text{góc trong kề}$ (Góc kề bù với một góc trong của tứ giác đó).\n3. **Lời giải chi tiết**:\n   - Xét tứ giác $ABCD$, áp dụng định lý tổng các góc trong tứ giác:\n     $\\widehat{A} + \\widehat{B} + \\widehat{C} + \\widehat{D} = 360^\\circ$\n     $\\Rightarrow 70^\\circ + 80^\\circ + 100^\\circ + \\widehat{D} = 360^\\circ$\n     $\\Rightarrow 250^\\circ + \\widehat{D} = 360^\\circ \\Rightarrow \\widehat{D} = 360^\\circ - 250^\\circ = 110^\\circ$.\n   - Số đo góc ngoài tại đỉnh $D$ là: $\\widehat{D}_{\\text{ngoài}} = 180^\\circ - \\widehat{D} = 180^\\circ - 110^\\circ = 70^\\circ$.\n4. **Mẹo nhẩm nhanh**: Tổng 4 góc luôn $= 360^\\circ$. Lấy $360 - (70 + 80 + 100) = 110^\\circ$.\n5. **Kết luận**: $\\widehat{D} = 110^\\circ$, góc ngoài tại đỉnh $D$ bằng $70^\\circ$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_1_1_1",
+    "name": "Tổng 4 góc tứ giác ➔ $\\widehat{A} + \\widehat{B} + \\widehat{C} + \\widehat{D} = 360^\\circ$",
+    "type": "STEP",
+    "parentId": "toan8_les_goc_tu_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_1_2",
+    "name": "Góc ngoài của tứ giác ➔ Góc kề bù với một góc trong của tứ giác đó",
+    "type": "STEP",
+    "parentId": "toan8_les_goc_tu_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_1_3",
+    "name": "Bất đẳng thức tứ giác ➔ Trong một tứ giác, độ dài một cạnh luôn nhỏ hơn tổng 3 cạnh còn lại",
+    "type": "STEP",
+    "parentId": "toan8_les_goc_tu_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_1_4",
+    "name": "Né bẫy ➔ Nhầm tổng góc tứ giác là $180^\\circ$; Áp dụng nhầm tính chất góc ngoài tam giác cho tứ giác",
+    "type": "STEP",
+    "parentId": "toan8_les_goc_tu_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_cm_hinh_thang_hbh",
+    "name": "Chứng minh hình thang, hình thang cân, hình bình hành",
+    "type": "LESSON",
+    "parentId": "toan8_top_tu_giac_dac_biet",
+    "examples": [
+      {
+        "id": "toan8_ex_4_1_2",
+        "question": "[Chứng minh HBH]: Cho tứ giác $ABCD$ có $AB \\parallel CD$ và $AB = CD$. Chứng minh $ABCD$ là hình bình hành. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Chứng minh một tứ giác là hình bình hành. Dùng dấu hiệu nhận biết: Tứ giác có một cặp cạnh đối vừa song song vừa bằng nhau.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Cần ghi nhớ: 2 cạnh bên bằng nhau chưa chắc là hình thang cân (ví dụ hình bình hành có 2 cạnh bên bằng nhau nhưng không cân). Nhưng 1 cặp cạnh đối vừa song song vừa bằng nhau chắc chắn là HBH!\n3. **Lời giải chi tiết**:\n   - Xét tứ giác $ABCD$ có:\n     + $AB \\parallel CD$ (theo giả thiết)\n     + $AB = CD$ (theo giả thiết)\n   - Suy ra $ABCD$ là hình bình hành (theo dấu hiệu nhận biết: Tứ giác có một cặp cạnh đối vừa song song vừa bằng nhau).\n4. **Sơ đồ phân tích ngược chứng minh**:\n   $ABCD$ là HBH $\\Leftarrow \\begin{cases} AB \\parallel CD \\\\ AB = CD \\end{cases} \\Leftarrow$ (Giả thiết cho sẵn).\n5. **Kết luận**: $ABCD$ là hình bình hành (ĐPCM).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_1_2_1",
+    "name": "Hình thang ➔ Tứ giác có 2 cạnh đối song song ($AB \\parallel CD$)",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hinh_thang_hbh",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_2_2",
+    "name": "Hình thang cân ➔ Hình thang có 2 góc kề 1 đáy bằng nhau HOẶC 2 đường chéo bằng nhau",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hinh_thang_hbh",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_2_3",
+    "name": "Dấu hiệu HBH (Cạnh) ➔ Các cạnh đối song song HOẶC các cạnh đối bằng nhau",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hinh_thang_hbh",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_2_4",
+    "name": "Dấu hiệu HBH (Góc / Đường chéo) ➔ Các góc đối bằng nhau HOẶC 2 đường chéo cắt nhau tại trung điểm mỗi đường",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hinh_thang_hbh",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_2_5",
+    "name": "Dấu hiệu HBH (1 cặp cạnh) ➔ Tứ giác có 1 cặp cạnh đối VỪA SONG SONG VỪA BẰNG NHAU",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hinh_thang_hbh",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_2_6",
+    "name": "Né bẫy ➔ Nhầm hình thang có 2 cạnh bên bằng nhau là hình thang cân (có thể là HBH)",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hinh_thang_hbh",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_cm_hcn_hthoi_hvuong",
+    "name": "Chứng minh hình chữ nhật, hình thoi, hình vuông",
+    "type": "LESSON",
+    "parentId": "toan8_top_tu_giac_dac_biet",
+    "examples": [
+      {
+        "id": "toan8_ex_4_1_3",
+        "question": "[Chứng minh Hình thoi]: Cho hình bình hành $ABCD$ có $AC \\perp BD$ tại $O$. Chứng minh $ABCD$ là hình thoi. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Chứng minh một tứ giác là hình thoi. Dùng dấu hiệu: Hình bình hành có hai đường chéo vuông góc với nhau là hình thoi.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Nếu xuất phát từ tứ giác thường thì $AC \\perp BD$ chưa đủ kết luận hình thoi (phải chứng minh nó là hình bình hành trước!).\n3. **Lời giải chi tiết**:\n   - Xét hình bình hành $ABCD$ có:\n     $AC \\perp BD$ tại $O$ (theo giả thiết).\n   - Suy ra $ABCD$ là hình thoi (dấu hiệu nhận biết: Hình bình hành có hai đường chéo vuông góc với nhau).\n4. **Sơ đồ tư duy hình học**:\n   Tứ giác $ABCD$ $\\xrightarrow{\\text{Các cạnh đối song song}}$ Hình bình hành $ABCD$ $\\xrightarrow{AC \\perp BD}$ Hình thoi $ABCD$.\n5. **Kết luận**: $ABCD$ là hình thoi (ĐPCM).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_1_3_1",
+    "name": "Dấu hiệu Hình chữ nhật ➔ Tứ giác có 3 góc vuông HOẶC HBH có 1 góc vuông / 2 đường chéo bằng nhau",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hcn_hthoi_hvuong",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_3_2",
+    "name": "Dấu hiệu Hình thoi ➔ Tứ giác có 4 cạnh bằng nhau HOẶC HBH có 2 cạnh kề bằng nhau / 2 đường chéo vuông góc",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hcn_hthoi_hvuong",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_3_3",
+    "name": "Dấu hiệu Hình vuông ➔ HCN có 2 cạnh kề bằng nhau / 2 đường chéo vuông góc HOẶC Hình thoi có 1 góc vuông",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hcn_hthoi_hvuong",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_3_4",
+    "name": "Trung tuyến TG vuông ➔ Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền bằng nửa cạnh huyền ($AM = \\frac{1}{2} BC$)",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hcn_hthoi_hvuong",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_1_3_5",
+    "name": "Sơ đồ phân tích ngược ➔ Tứ giác $\\rightarrow$ HBH $\\rightarrow$ HCN/Hình thoi $\\rightarrow$ Hình vuông",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_hcn_hthoi_hvuong",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_dinh_ly_thales",
+    "name": "Tính độ dài đoạn thẳng bằng Định lí Thales & Định lí đảo",
+    "type": "LESSON",
+    "parentId": "toan8_top_thales_duong_tb",
+    "examples": [
+      {
+        "id": "toan8_ex_4_2_1",
+        "question": "[Định lí Thales]: Cho $\\Delta ABC$ có $MN \\parallel BC$ ($M \\in AB, N \\in AC$). Biết $AM = 2$ cm, $MB = 4$ cm, $AN = 3$ cm. Tính độ dài $NC$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Áp dụng định lí Thales thuận trong tam giác khi có một đường thẳng song song với một cạnh của tam giác.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Lập sai tỉ số tương ứng. Định lí Thales cho phép lập $\\frac{AM}{MB} = \\frac{AN}{NC}$ hoặc $\\frac{AM}{AB} = \\frac{AN}{AC}$. Bắt buộc phải khớp đúng các đoạn thẳng tương ứng!\n3. **Lời giải chi tiết**:\n   - Xét $\\Delta ABC$ có $MN \\parallel BC$ ($M \\in AB, N \\in AC$).\n   - Theo định lí Thales, ta có tỉ lệ thức:\n     $\\frac{AM}{MB} = \\frac{AN}{NC}$\n   - Thay số: $\\frac{2}{4} = \\frac{3}{NC} \\Rightarrow NC = \\frac{4 \\cdot 3}{2} = 6$ cm.\n4. **Mẹo kiểm tra**: Tỉ số $AM : MB = 2 : 4 = 1 : 2$. Do đó $AN : NC$ cũng phải bằng $1 : 2 \\Rightarrow NC = 2 \\cdot AN = 2 \\cdot 3 = 6$ cm. Chuẩn xác!\n5. **Kết luận**: Độ dài đoạn thẳng $NC = 6$ cm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_2_1_1",
+    "name": "Thales thuận ➔ $MN \\parallel BC \\Rightarrow \\frac{AM}{AB} = \\frac{AN}{AC} = \\frac{MN}{BC}$",
+    "type": "STEP",
+    "parentId": "toan8_les_dinh_ly_thales",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_2_1_2",
+    "name": "Thales đảo ➔ $\\frac{AM}{MB} = \\frac{AN}{NC} \\Rightarrow MN \\parallel BC$ (Chứng minh hai đường thẳng song song)",
+    "type": "STEP",
+    "parentId": "toan8_les_dinh_ly_thales",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_2_1_3",
+    "name": "Hệ quả Thales ➔ Đường thẳng song song cắt hai cạnh (hoặc phần kéo dài) tạo tam giác mới đồng dạng",
+    "type": "STEP",
+    "parentId": "toan8_les_dinh_ly_thales",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_2_1_4",
+    "name": "Né bẫy ➔ Lập sai tỉ số đoạn thẳng không tương ứng; Sử dụng Thales khi chưa có điều kiện song song",
+    "type": "STEP",
+    "parentId": "toan8_les_dinh_ly_thales",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_duong_tb_phan_giac",
+    "name": "Tính độ dài & Chứng minh bằng Đường trung bình, Đường phân giác",
+    "type": "LESSON",
+    "parentId": "toan8_top_thales_duong_tb",
+    "examples": [
+      {
+        "id": "toan8_ex_4_2_2",
+        "question": "[Đường phân giác]: Cho $\\Delta ABC$ có đường phân giác trong $AD$ ($D \\in BC$). Biết $AB = 6$ cm, $AC = 9$ cm, $BD = 4$ cm. Tính độ dài $DC$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính độ dài đoạn thẳng dựa vào tính chất đường phân giác trong của tam giác: Đường phân giác chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề hai đoạn ấy.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Nhầm lẫn đỉnh tỉ lệ $\\frac{DB}{DC} = \\frac{AB}{AC}$. Đỉnh $D$ trên cạnh $BC$ chia $BC$ thành $DB$ và $DC$, tương ứng kề với $AB$ và $AC$.\n3. **Lời giải chi tiết**:\n   - Xét $\\Delta ABC$ có $AD$ là đường phân giác của $\\widehat{A}$ ($D \\in BC$).\n   - Theo tính chất đường phân giác trong tam giác, ta có:\n     $\\frac{DB}{DC} = \\frac{AB}{AC}$\n   - Thay số: $\\frac{4}{DC} = \\frac{6}{9} \\Rightarrow DC = \\frac{4 \\cdot 9}{6} = 6$ cm.\n4. **Mẹo nhẩm tỉ lệ**: $\\frac{AB}{AC} = \\frac{6}{9} = \\frac{2}{3} \\Rightarrow \\frac{BD}{DC} = \\frac{2}{3} \\Rightarrow DC = \\frac{3}{2} BD = \\frac{3}{2} \\cdot 4 = 6$ cm.\n5. **Kết luận**: Độ dài $DC = 6$ cm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_2_2_1",
+    "name": "Đường trung bình tam giác ➔ Đoạn nối 2 trung điểm $\\Rightarrow$ Song song cạnh thứ 3 và bằng nửa cạnh đó ($MN = \\frac{1}{2} BC$)",
+    "type": "STEP",
+    "parentId": "toan8_les_duong_tb_phan_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_2_2_2",
+    "name": "Tính chất phân giác ➔ $AD$ phân giác $\\widehat{A}$ ($D \\in BC$) $\\Rightarrow \\frac{DB}{DC} = \\frac{AB}{AC}$",
+    "type": "STEP",
+    "parentId": "toan8_les_duong_tb_phan_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_2_2_3",
+    "name": "Tính chất phân giác ngoài ➔ $AE$ phân giác ngoài $\\widehat{A}$ ($E \\in BC$) $\\Rightarrow \\frac{EB}{EC} = \\frac{AB}{AC}$",
+    "type": "STEP",
+    "parentId": "toan8_les_duong_tb_phan_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_2_2_4",
+    "name": "Né bẫy ➔ Lộn ngược tỉ số phân giác $\\frac{DB}{DC} \\neq \\frac{AC}{AB}$; Nhầm đường trung tuyến với đường trung bình",
+    "type": "STEP",
+    "parentId": "toan8_les_duong_tb_phan_giac",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_cm_tg_dong_dang",
+    "name": "Chứng minh hai tam giác đồng dạng (c.c.c, c.g.c, g.g)",
+    "type": "LESSON",
+    "parentId": "toan8_top_tam_giac_dong_dang",
+    "examples": [
+      {
+        "id": "toan8_ex_4_3_1",
+        "question": "[Tam giác đồng dạng g.g]: Cho $\\Delta ABC$ và $\\Delta ADE$ có $\\widehat{A}$ chung, $\\widehat{ABC} = \\widehat{ADE}$. Chứng minh $\\Delta ABC \\sim \\Delta ADE$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Chứng minh hai tam giác đồng dạng theo trường hợp góc - góc (g.g). Đây là trường hợp phổ biến nhất trong các bài toán chứng minh hình học 8.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Viết sai thứ tự đỉnh tương ứng khi ký hiệu đồng dạng. Đỉnh $A$ chung, $\\widehat{B} = \\widehat{D} \\Rightarrow$ Viết chuẩn: $\\Delta ABC \\sim \\Delta ADE$.\n3. **Lời giải chi tiết**:\n   - Xét $\\Delta ABC$ và $\\Delta ADE$ có:\n     + $\\widehat{A}$ là góc chung\n     + $\\widehat{ABC} = \\widehat{ADE}$ (theo giả thiết)\n   - Suy ra $\\Delta ABC \\sim \\Delta ADE$ (g.g).\n4. **Ứng dụng lập tỉ số suy ra đoạn thẳng**:\n   $\\Delta ABC \\sim \\Delta ADE \\Rightarrow \\frac{AB}{AD} = \\frac{AC}{AE} = \\frac{BC}{DE} \\Rightarrow AB \\cdot AE = AC \\cdot AD$.\n5. **Kết luận**: $\\Delta ABC \\sim \\Delta ADE$ (ĐPCM).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_3_1_1",
+    "name": "Định nghĩa đồng dạng ➔ $\\Delta ABC \\sim \\Delta A'B'C' \\Leftrightarrow \\widehat{A}=\\widehat{A'}, \\widehat{B}=\\widehat{B'}$ và $\\frac{AB}{A'B'} = \\frac{BC}{B'C'} = k$",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_tg_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_1_2",
+    "name": "Trường hợp 1 (c.c.c) ➔ Ba cặp cạnh tương ứng tỉ lệ $\\frac{AB}{A'B'} = \\frac{BC}{B'C'} = \\frac{CA}{C'A'}$",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_tg_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_1_3",
+    "name": "Trường hợp 2 (c.g.c) ➔ Hai cặp cạnh tương ứng tỉ lệ + Góc XEN GIỮA bằng nhau",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_tg_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_1_4",
+    "name": "Trường hợp 3 (g.g) ➔ Hai cặp góc tương ứng bằng nhau (Trường hợp dùng nhiều nhất)",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_tg_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_1_5",
+    "name": "Tỉ số diện tích & Chu vi ➔ Tỉ số chu vi $= k$; Tỉ số diện tích $= k^2$",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_tg_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_1_6",
+    "name": "Né bẫy ➔ Góc trong trường hợp c.g.c KHÔNG XEN GIỮA hai cạnh tỉ lệ; Viết sai thứ tự đỉnh tương ứng",
+    "type": "STEP",
+    "parentId": "toan8_les_cm_tg_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_tg_vuong_pythagore",
+    "name": "Các trường hợp đồng dạng của tam giác vuông & Định lí Pythagore",
+    "type": "LESSON",
+    "parentId": "toan8_top_tam_giac_dong_dang",
+    "examples": [
+      {
+        "id": "toan8_ex_4_3_2",
+        "question": "[Tam giác vuông & Pythagore]: Cho $\\Delta ABC$ vuông tại $A$, đường cao $AH$. Biết $AB = 6$ cm, $AC = 8$ cm. Tính $BC$ và chiều cao $AH$. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính độ dài cạnh trong tam giác vuông bằng định lý Pythagore và ứng dụng tam giác vuông đồng dạng (hoặc diện tích tam giác) để tính đường cao $AH$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Nhầm cạnh huyền với cạnh góc vuông khi áp dụng Pythagore. $BC$ là cạnh huyền đối diện góc vuông $A$ nên $BC^2 = AB^2 + AC^2$.\n3. **Lời giải chi tiết**:\n   - Xét $\\Delta ABC$ vuông tại $A$, theo định lý Pythagore:\n     $BC^2 = AB^2 + AC^2 = 6^2 + 8^2 = 36 + 64 = 100$\n     $\\Rightarrow BC = \\sqrt{100} = 10$ cm.\n   - Tính diện tích $\\Delta ABC$ theo 2 cách:\n     $S_{\\Delta ABC} = \\frac{1}{2} AB \\cdot AC = \\frac{1}{2} AH \\cdot BC$\n     $\\Rightarrow AB \\cdot AC = AH \\cdot BC$\n     $\\Rightarrow 6 \\cdot 8 = AH \\cdot 10 \\Rightarrow 48 = 10AH \\Rightarrow AH = 4,8$ cm.\n4. **Mẹo Casio**: Bấm `\\sqrt{6^2 + 8^2}` ra ngay $10$. Bấm `6 \\times 8 \\div 10` ra ngay $4.8$.\n5. **Kết luận**: $BC = 10$ cm, $AH = 4,8$ cm.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_3_2_1",
+    "name": "Pythagore ➔ $\\Delta ABC$ vuông tại $A \\Rightarrow BC^2 = AB^2 + AC^2$ (Pythagore đảo: $a^2+b^2=c^2 \\Rightarrow \\Delta$ vuông)",
+    "type": "STEP",
+    "parentId": "toan8_les_tg_vuong_pythagore",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_2_2",
+    "name": "Trường hợp đồng dạng cạnh huyền - cạnh góc vuông: Nếu cạnh huyền và một cạnh góc vuông của tam giác vuông này tỉ lệ với cạnh huyền và một cạnh góc vuông của tam giác vuông kia thì hai tam giác vuông đó đồng dạng",
+    "type": "STEP",
+    "parentId": "toan8_les_tg_vuong_pythagore",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_2_3",
+    "name": "Đồng dạng TG vuông (Góc nhọn) ➔ Hai tam giác vuông có 1 góc nhọn bằng nhau thì đồng dạng",
+    "type": "STEP",
+    "parentId": "toan8_les_tg_vuong_pythagore",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_2_4",
+    "name": "Hệ thức lượng cơ bản ➔ $\\Delta ABC$ vuông tại $A$, đường cao $AH$: $AB^2 = BH \\cdot BC$; $AH^2 = BH \\cdot CH$; $AB \\cdot AC = AH \\cdot BC$",
+    "type": "STEP",
+    "parentId": "toan8_les_tg_vuong_pythagore",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_2_5",
+    "name": "Sơ đồ tư duy ➔ Tính độ dài đoạn thẳng trong TG vuông dùng Định lý Pythagore hoặc Tỉ số đồng dạng",
+    "type": "STEP",
+    "parentId": "toan8_les_tg_vuong_pythagore",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_ung_dung_dong_dang",
+    "name": "Ứng dụng tam giác đồng dạng tính khoảng cách & Đo chiều cao",
+    "type": "LESSON",
+    "parentId": "toan8_top_tam_giac_dong_dang",
+    "examples": [
+      {
+        "id": "toan8_ex_4_3_3",
+        "question": "[Ứng dụng đo chiều cao]: Một cọc cao $2$ m cắm vuông góc với mặt đất có bóng dài $1,5$ m. Cùng thời điểm đó, một tòa nhà có bóng dài $15$ m. Tính chiều cao của tòa nhà. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Ứng dụng tam giác đồng dạng để đo chiều cao công trình thực tế. Vì các tia nắng mặt trời song song nên góc tạo bởi tia nắng và mặt đất tại cùng một thời điểm là bằng nhau $\\Rightarrow$ Hai tam giác vuông đồng dạng theo trường hợp (g.g).\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Kiểm tra cẩn thận đơn vị đo các đại lượng. Nếu bóng cọc tính bằng cm thì phải đổi sang mét trước khi tính.\n3. **Lời giải chi tiết**:\n   - Gọi chiều cao cọc là $h_1 = 2$ m, bóng cọc là $L_1 = 1,5$ m.\n   - Gọi chiều cao tòa nhà là $H$, bóng tòa nhà là $L_2 = 15$ m.\n   - Do các tia sáng mặt trời chiếu song song, tam giác vuông tạo bởi cọc và bóng đồng dạng với tam giác vuông tạo bởi tòa nhà và bóng (g.g).\n   - Ta có tỉ lệ thức: $\\frac{H}{h_1} = \\frac{L_2}{L_1}$\n   - Thay số: $\\frac{H}{2} = \\frac{15}{1,5} = 10 \\Rightarrow H = 2 \\cdot 10 = 20$ m.\n4. **Mẹo tính nhanh**: Bóng tòa nhà gấp bóng cọc $15 : 1,5 = 10$ lần $\\Rightarrow$ Chiều cao tòa nhà gấp chiều cao cọc $10$ lần $\\Rightarrow 2 \\cdot 10 = 20$ m.\n5. **Kết luận**: Tòa nhà cao $20$ m.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_4_3_3_1",
+    "name": "Mô hình đo chiều cao ➔ Dùng bóng nắng hoặc cọc tiêu tạo 2 tam giác vuông đồng dạng (g.g)",
+    "type": "STEP",
+    "parentId": "toan8_les_ung_dung_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_3_2",
+    "name": "Lập tỉ số đo đạc ➔ $\\frac{h_{\\text{vật}}}{h_{\\text{cọc}}} = \\frac{L_{\\text{bóng vật}}}{L_{\\text{bóng cọc}}} \\Rightarrow h_{\\text{vật}} = \\frac{h_{\\text{cọc}} \\cdot L_{\\text{bóng vật}}}{L_{\\text{bóng cọc}}}$",
+    "type": "STEP",
+    "parentId": "toan8_les_ung_dung_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_3_3",
+    "name": "Mô hình đo khoảng cách không tới được ➔ Tạo tam giác đồng dạng trên mặt đất bằng cọc ngắm",
+    "type": "STEP",
+    "parentId": "toan8_les_ung_dung_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_4_3_3_4",
+    "name": "Né bẫy ➔ Quên đổi cùng đơn vị đo (mét, cm) trước khi lập tỉ lệ thức tính toán",
+    "type": "STEP",
+    "parentId": "toan8_les_ung_dung_dong_dang",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_dtxq_dtp_hinh_chop",
+    "name": "Tính diện tích xung quanh & Diện tích toàn phần hình chóp đều",
+    "type": "LESSON",
+    "parentId": "toan8_top_hinh_chop_deu",
+    "examples": [
+      {
+        "id": "toan8_ex_5_1_1",
+        "question": "[S_xq Hình chóp]: Tính diện tích xung quanh của hình chóp tứ giác đều có độ dài cạnh đáy bằng $6$ cm và chiều cao trung đoạn bằng $5$ cm. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính diện tích xung quanh của hình chóp tứ giác đều theo công thức $S_{xq} = p \\cdot d$, trong đó $p$ là nửa chu vi đáy và $d$ là trung đoạn.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Học sinh rất hay nhầm $p$ là chu vi đáy $C_{\\text{đáy}}$. Nhớ kĩ: $p = \\frac{C_{\\text{đáy}}}{2} = \\frac{4 \\cdot a}{2} = 2a$.\n3. **Lời giải chi tiết**:\n   - Đáy là hình vuông cạnh $a = 6$ cm.\n   - Chu vi đáy là: $C_{\\text{đáy}} = 4 \\cdot 6 = 24$ cm.\n   - Nửa chu vi đáy là: $p = \\frac{24}{2} = 12$ cm.\n   - Diện tích xung quanh hình chóp tứ giác đều là:\n     $S_{xq} = p \\cdot d = 12 \\cdot 5 = 60$ $\\text{cm}^2$.\n4. **Mẹo tính theo diện tích 4 mặt bên**: $S_{xq} = 4 \\cdot S_{\\text{mặt bên}} = 4 \\cdot \\left(\\frac{1}{2} \\cdot 6 \\cdot 5\\right) = 4 \\cdot 15 = 60$ $\\text{cm}^2$.\n5. **Kết luận**: $S_{xq} = 60$ $\\text{cm}^2$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_5_1_1_1",
+    "name": "Hình chóp đều ➔ Đáy là đa giác đều, các mặt bên là các tam giác cân bằng nhau",
+    "type": "STEP",
+    "parentId": "toan8_les_dtxq_dtp_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_1_2",
+    "name": "Chiêu cao trung đoạn ($d$) ➔ Đường cao kẻ từ đỉnh chóp xuống cạnh đáy của mặt bên",
+    "type": "STEP",
+    "parentId": "toan8_les_dtxq_dtp_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_1_3",
+    "name": "Diện tích xung quanh ➔ $S_{xq} = p \\cdot d$ ($p$ là nửa chu vi đáy, $d$ là trung đoạn)",
+    "type": "STEP",
+    "parentId": "toan8_les_dtxq_dtp_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_1_4",
+    "name": "Diện tích toàn phần ➔ $S_{tp} = S_{xq} + S_{\\text{đáy}}$",
+    "type": "STEP",
+    "parentId": "toan8_les_dtxq_dtp_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_1_5",
+    "name": "Né bẫy ➔ Nhầm $p$ là chu vi đáy (đúng phải là NỬA chu vi đáy); Nhầm đường cao chóp $h$ với trung đoạn $d$",
+    "type": "STEP",
+    "parentId": "toan8_les_dtxq_dtp_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_the_tich_hinh_chop",
+    "name": "Tính thể tích hình chóp tam giác đều & Hình chóp tứ giác đều",
+    "type": "LESSON",
+    "parentId": "toan8_top_hinh_chop_deu",
+    "examples": [
+      {
+        "id": "toan8_ex_5_1_2",
+        "question": "[Thể tích Hình chóp]: Tính thể tích của hình chóp tứ giác đều có cạnh đáy $a = 10$ cm và chiều cao $h = 12$ cm. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính thể tích hình chóp tứ giác đều. Sử dụng công thức $V = \\frac{1}{3} S_{\\text{đáy}} \\cdot h$ với đáy là hình vuông cạnh $a$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Hay bỏ quên phân số $\\frac{1}{3}$ dẫn đến tính nhầm thành thể tích hình lăng trụ $V = S_{\\text{đáy}} \\cdot h$.\n3. **Lời giải chi tiết**:\n   - Diện tích đáy hình vuông là: $S_{\\text{đáy}} = a^2 = 10^2 = 100$ $\\text{cm}^2$.\n   - Thể tích hình chóp tứ giác đều là:\n     $V = \\frac{1}{3} S_{\\text{đáy}} \\cdot h = \\frac{1}{3} \\cdot 100 \\cdot 12 = 100 \\cdot 4 = 400$ $\\text{cm}^3$.\n4. **Mẹo Casio**: Nhập `(1/3) * 10^2 * 12`, bấm `=`, máy báo $400$.\n5. **Kết luận**: Thể tích hình chóp là $V = 400$ $\\text{cm}^3$.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_5_1_2_1",
+    "name": "Công thức thể tích chung ➔ $V = \\frac{1}{3} S_{\\text{đáy}} \\cdot h$ ($h$ là chiều cao chóp từ đỉnh đến tâm đáy)",
+    "type": "STEP",
+    "parentId": "toan8_les_the_tich_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_2_2",
+    "name": "$S_{\\text{đáy}}$ chóp tam giác đều ➔ Tính chiều cao đáy $h_{\\text{đáy}} = \\frac{a\\sqrt{3}}{2}$ qua Pythagore $\\rightarrow S_{\\text{đáy}} = \\frac{1}{2} a \\cdot h_{\\text{đáy}} = \\frac{a^2\\sqrt{3}}{4}$ ($a$ cạnh đáy)",
+    "type": "STEP",
+    "parentId": "toan8_les_the_tich_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_2_3",
+    "name": "$S_{\\text{đáy}}$ chóp tứ giác đều ➔ $S_{\\text{đáy}} = a^2$ ($a$ là độ dài cạnh hình vuông đáy)",
+    "type": "STEP",
+    "parentId": "toan8_les_the_tich_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_2_4",
+    "name": "Mối liên hệ $h, d, r$ qua Pythagore ➔ $d^2 = h^2 + r^2$ ($r$ bán kính nội tiếp đáy: chóp vuông $r = \\frac{a}{2}$; chóp tam giác $r = \\frac{a\\sqrt{3}}{6}$)",
+    "type": "STEP",
+    "parentId": "toan8_les_the_tich_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_5_1_2_5",
+    "name": "Né bẫy ➔ Quên hệ số $\\frac{1}{3}$ trong công thức thể tích hình chóp",
+    "type": "STEP",
+    "parentId": "toan8_les_the_tich_hinh_chop",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_thu_thap_bieu_do",
+    "name": "Thu thập, phân loại & Lựa chọn biểu đồ biểu diễn dữ liệu",
+    "type": "LESSON",
+    "parentId": "toan8_top_thong_ke_du_lieu",
+    "examples": [
+      {
+        "id": "toan8_ex_6_1_1",
+        "question": "[Lựa chọn biểu đồ]: Cần biểu diễn tỉ lệ phần trăm các loại hàng bán được trong tháng của một cửa hàng, nên dùng loại biểu đồ nào? Vì sao? (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Bài toán lựa chọn biểu đồ thống kê phù hợp mục đích biểu diễn dữ liệu.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Nhầm lẫn giữa biểu đồ cột (so sánh số lượng tuyệt đối) và biểu đồ quạt tròn (so sánh tỉ lệ phần trăm cơ cấu so với tổng thể $100\\%$).\n3. **Lời giải chi tiết**:\n   - Nên chọn **Biểu đồ hình quạt tròn**.\n   - Vì biểu đồ hình quạt tròn là công cụ tối ưu nhất để biểu diễn **tỉ lệ phần trăm** các thành phần so với toàn bộ tổng thể ($100\\%$).\n4. **Mẹo ghi nhớ từ khóa chọn biểu đồ**:\n   - Từ khóa 'Tỉ lệ phần trăm / Cơ cấu' $\\rightarrow$ Biểu đồ hình quạt tròn.\n   - Từ khóa 'So sánh số lượng danh mục' $\\rightarrow$ Biểu đồ cột / cột kép.\n   - Từ khóa 'Xu hướng / Thay đổi theo thời gian' $\\rightarrow$ Biểu đồ đoạn thẳng.\n5. **Kết luận**: Chọn biểu đồ hình quạt tròn.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_6_1_1_1",
+    "name": "Phương pháp thu thập ➔ Trực tiếp (quan sát, phỏng vấn, thực nghiệm) hoặc Gián tiếp (sách báo, internet, bảng số liệu)",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_thap_bieu_do",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_1_2",
+    "name": "Phân loại dữ liệu ➔ Định tính (không là số: tên, màu sắc) và Định lượng (là số: chiều cao, điểm số)",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_thap_bieu_do",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_1_3",
+    "name": "Biểu đồ cột / Cột kép ➔ So sánh số lượng giữa các đối tượng / danh mục độc lập",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_thap_bieu_do",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_1_4",
+    "name": "Biểu đồ đoạn thẳng ➔ Biểu diễn sự THAY ĐỔI / XU HƯỚNG của dữ liệu theo thời gian",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_thap_bieu_do",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_1_5",
+    "name": "Biểu đồ hình quạt tròn ➔ Biểu diễn TỈ LỆ PHẦN TRĂM các phần so với toàn thể ($100\\% \\leftrightarrow 360^\\circ$)",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_thap_bieu_do",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_1_6",
+    "name": "Né bẫy ➔ Chọn quạt tròn khi không có tỉ lệ phần trăm; Chọn đoạn thẳng cho các danh mục không liên tục theo thời gian",
+    "type": "STEP",
+    "parentId": "toan8_les_thu_thap_bieu_do",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_phan_tich_xuly_dl",
+    "name": "Phân tích & Xử lý dữ liệu từ bảng, biểu đồ thống kê",
+    "type": "LESSON",
+    "parentId": "toan8_top_thong_ke_du_lieu",
+    "examples": [
+      {
+        "id": "toan8_ex_6_1_2",
+        "question": "[Xử lý dữ liệu]: Bảng thống kê số học sinh giỏi các lớp khối 8: Lớp 8A ($15$), 8B ($12$), 8C ($18$), 8D ($25$). Tìm số học sinh giỏi trung bình mỗi lớp. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Phân tích bảng dữ liệu thống kê và tính số trung bình cộng của các giá trị.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Tính sai tổng số học sinh hoặc chia sai số lượng lớp $N = 4$.\n3. **Lời giải chi tiết**:\n   - Tổng số học sinh giỏi của 4 lớp khối 8 là:\n     $15 + 12 + 18 + 25 = 70$ (học sinh).\n   - Số học sinh giỏi trung bình mỗi lớp là:\n     $\\bar{x} = \\frac{70}{4} = 17,5$ (học sinh).\n4. **Mẹo Casio**: Bấm `(15 + 12 + 18 + 25) / 4` ra $17.5$.\n5. **Kết luận**: Trung bình mỗi lớp có $17,5$ học sinh giỏi.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_6_1_2_1",
+    "name": "Đọc dữ liệu ➔ Trích xuất đúng số liệu từ trục tung, trục hoành, các phần quạt hoặc ô trong bảng",
+    "type": "STEP",
+    "parentId": "toan8_les_phan_tich_xuly_dl",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_2_2",
+    "name": "Số trung bình cộng ➔ $\\bar{x} = \\frac{x_1 n_1 + x_2 n_2 + \\dots + x_k n_k}{N}$ (Tổng giá trị : Tổng số lượng)",
+    "type": "STEP",
+    "parentId": "toan8_les_phan_tich_xuly_dl",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_2_3",
+    "name": "Nhận xét xu hướng ➔ Tìm giá trị lớn nhất, nhỏ nhất, sự tăng/giảm đột biến của dữ liệu",
+    "type": "STEP",
+    "parentId": "toan8_les_phan_tich_xuly_dl",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_2_4",
+    "name": "Đánh giá tính hợp lý ➔ Kiểm tra tổng tỉ lệ phần trăm $= 100\\%$, dữ liệu không âm, phù hợp thực tế",
+    "type": "STEP",
+    "parentId": "toan8_les_phan_tich_xuly_dl",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_1_2_5",
+    "name": "Casio tính nhanh ➔ Bấm `MODE 3` / `STAT` nhập dữ liệu tính nhanh số trung bình $\\bar{x}$ và tổng $N$",
+    "type": "STEP",
+    "parentId": "toan8_les_phan_tich_xuly_dl",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_xs_dong_kha_nang",
+    "name": "Tính xác suất của biến cố trong trò chơi, thực nghiệm đồng khả năng",
+    "type": "LESSON",
+    "parentId": "toan8_top_xac_suat_bien_co",
+    "examples": [
+      {
+        "id": "toan8_ex_6_2_1",
+        "question": "[Xác suất lý thuyết]: Gieo một con xúc xắc cân đối 6 mặt. Tính xác suất của biến cố A: 'Xuất hiện mặt có số chấm là số chẵn'. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính xác suất của biến cố trong thực nghiệm đồng khả năng. Áp dụng công thức $P(A) = \\frac{n(A)}{N}$.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Liệt kê thiếu hoặc thừa các kết quả thuận lợi cho biến cố $A$. Các mặt số chẵn của con xúc xắc là $2, 4, 6$.\n3. **Lời giải chi tiết**:\n   - Con xúc xắc cân đối 6 mặt có các kết quả có thể là $\\{1; 2; 3; 4; 5; 6\\} \\Rightarrow N = 6$.\n   - Biến cố A xuất hiện mặt có số chấm là số chẵn gồm các kết quả thuận lợi: $\\{2; 4; 6\\} \\Rightarrow n(A) = 3$.\n   - Xác suất của biến cố A là:\n     $P(A) = \\frac{n(A)}{N} = \\frac{3}{6} = \\frac{1}{2} = 0,5$.\n4. **Mẹo nhẩm nhanh**: Có 3 mặt chẵn và 3 mặt lẻ $\\Rightarrow$ Tỉ lệ xuất hiện mặt chẵn là $50\\% = 0,5$.\n5. **Kết luận**: $P(A) = 0,5$ (hay $50\\%$).",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_6_2_1_1",
+    "name": "Phép thử & Không gian mẫu ➔ Tập hợp tất cả các kết quả có thể xảy ra $N$",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_dong_kha_nang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_1_2",
+    "name": "Số kết quả thuận lợi ➔ Số kết quả làm cho biến cố $A$ xảy ra $n(A)$",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_dong_kha_nang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_1_3",
+    "name": "Công thức xác suất ➔ $P(A) = \\frac{n(A)}{N} = \\frac{\\text{Số kết quả thuận lợi}}{\\text{Tổng số kết quả có thể}}$ ($0 \\le P(A) \\le 1$)",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_dong_kha_nang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_1_4",
+    "name": "Biến cố chắc chắn & Không thể ➔ Biến cố chắc chắn có $P = 1$; Biến cố không thể có $P = 0$",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_dong_kha_nang",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_1_5",
+    "name": "Né bẫy ➔ Liệt kê thiếu kết quả trong không gian mẫu $N$; Nhầm giữa số kết quả và xác suất",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_dong_kha_nang",
+    "examples": null
+  },
+  {
+    "id": "toan8_les_xs_thuc_nghiem",
+    "name": "Xác suất thực nghiệm & Dự đoán số lần xuất hiện biến cố",
+    "type": "LESSON",
+    "parentId": "toan8_top_xac_suat_bien_co",
+    "examples": [
+      {
+        "id": "toan8_ex_6_2_2",
+        "question": "[Xác suất thực nghiệm]: Tung đồng xu $100$ lần thấy $48$ lần xuất hiện mặt Sấp. Tính xác suất thực nghiệm xuất hiện mặt Sấp và dự đoán số lần xuất hiện mặt Sấp khi tung $500$ lần. (SGK)",
+        "answer": "1. **Nhận diện dạng bài & Bản chất lý thuyết**: Tính xác suất thực nghiệm $P_{\\text{tn}} = \\frac{k}{n}$ và ứng dụng xác suất thực nghiệm để dự đoán số lần xuất hiện biến cố trong quy mô phép thử lớn hơn.\n2. **Né bẫy kinh điển & Lỗi sai 8+**: Lấy tổng số lần $100$ chia cho $48$ (nhầm tử và mẫu). Công thức đúng phải là $\\frac{k}{n} = \\frac{48}{100}$.\n3. **Lời giải chi tiết**:\n   - Xác suất thực nghiệm xuất hiện mặt Sấp sau $100$ lần tung là:\n     $P_{\\text{tn}} = \\frac{48}{100} = 0,48$.\n   - Dự đoán số lần xuất hiện mặt Sấp khi tung đồng xu $500$ lần là:\n     $N_{\\text{dự đoán}} = 500 \\cdot P_{\\text{tn}} = 500 \\cdot 0,48 = 240$ (lần).\n4. **Mẹo tính nhanh**: $500$ lần gấp $100$ lần $5$ lần $\\Rightarrow$ Số lần xuất hiện mặt Sấp dự đoán $= 48 \\cdot 5 = 240$ lần.\n5. **Kết luận**: Xác suất thực nghiệm là $0,48$; Dự đoán mặt Sấp xuất hiện $240$ lần khi tung $500$ lần.",
+        "mediaUrl": null
+      }
+    ]
+  },
+  {
+    "id": "toan8_step_6_2_2_1",
+    "name": "Xác suất thực nghiệm ➔ $P_{\\text{tn}}(A) = \\frac{k}{n} = \\frac{\\text{Số lần biến cố A xuất hiện}}{\\text{Tổng số lần thực hiện phép thử}}$",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_thuc_nghiem",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_2_2",
+    "name": "Quy luật số lớn ➔ Khi số lần thực nghiệm $n$ càng lớn, xác suất thực nghiệm càng tiến gần xác suất lý thuyết",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_thuc_nghiem",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_2_3",
+    "name": "Dự đoán số lần xuất hiện ➔ Số lần dự đoán $= N_{\\text{thử mới}} \\cdot P_{\\text{tn}}$",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_thuc_nghiem",
+    "examples": null
+  },
+  {
+    "id": "toan8_step_6_2_2_4",
+    "name": "Né bẫy ➔ Nhầm lẫn giữa số lần thử $n$ và số lần xuất hiện $k$; Dùng thực nghiệm mẫu nhỏ để kết luận tuyệt đối",
+    "type": "STEP",
+    "parentId": "toan8_les_xs_thuc_nghiem",
+    "examples": null
+  }
+]
